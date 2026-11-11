@@ -1,5 +1,7 @@
 # Amplifica
 
+[![CI](https://github.com/Vgsalatiel/Amplifica/actions/workflows/ci.yml/badge.svg)](https://github.com/Vgsalatiel/Amplifica/actions/workflows/ci.yml)
+
 Plataforma de descoberta musical e comunidade voltada ao rock e suas vertentes: discografias organizadas, gêneros como mapa de navegação, notas e resenhas com assinatura.
 
 > Projeto em desenvolvimento. Estado atual: **etapa 0 (fundação)** — esqueleto do frontend e da API conectados, ainda sem funcionalidades de produto.
@@ -61,6 +63,16 @@ Os mesmos nos dois projetos, salvo indicação:
 | `npm run test:e2e` | Testes e2e da API (só no backend) |
 | `npm run build` | Build de produção |
 | `npm run prisma:migrate` | Cria e aplica migrations em desenvolvimento (só no backend) |
+
+## Deploy
+
+| Parte | Serviço | Configuração |
+| --- | --- | --- |
+| API | Render (`https://amplifica.onrender.com`) | Root `backend`, build `npm install --include=dev && npm run build`, start `npm run start:prod` |
+| Frontend | Vercel | Root `frontend`; o `vercel.json` encaminha `/api/*` para a API |
+| Banco | Neon | Um banco para desenvolvimento e outro para produção |
+
+As variáveis de produção ficam no painel de cada serviço, nunca no repositório. No plano gratuito, a API hiberna após um período sem acessos e a primeira requisição seguinte pode demorar.
 
 ## Decisões de arquitetura
 
