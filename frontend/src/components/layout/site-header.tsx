@@ -12,8 +12,8 @@ const NAV_ITEMS = [
 
 function navLinkClass({ isActive }: { isActive: boolean }): string {
   return cn(
-    'inline-flex min-h-11 items-center text-[15px] font-medium underline-offset-8 transition-colors hover:text-ochre',
-    isActive && 'underline decoration-ochre decoration-2',
+    'inline-flex min-h-11 items-center text-[15px] font-medium underline-offset-8 transition-colors hover:text-accent',
+    isActive && 'underline decoration-accent decoration-2',
   )
 }
 

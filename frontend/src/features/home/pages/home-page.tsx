@@ -14,7 +14,7 @@ export function HomePage() {
       </p>
       <p className="mt-8 text-muted">
         O catálogo ainda está em construção. Enquanto isso, veja o{' '}
-        <TextLink to="/guia" className="text-paper">
+        <TextLink to="/guia" className="text-ink">
           guia visual
         </TextLink>{' '}
         do projeto.

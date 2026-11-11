@@ -6,7 +6,7 @@ export function TextLink({ className, ...props }: LinkProps) {
   return (
     <Link
       className={cn(
-        'underline decoration-1 underline-offset-4 transition-colors hover:text-ochre',
+        'underline decoration-1 underline-offset-4 transition-colors hover:text-accent',
         className,
       )}
       {...props}

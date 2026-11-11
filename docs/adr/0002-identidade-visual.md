@@ -5,23 +5,25 @@
 
 ## Contexto
 
-O Amplifica precisa de uma identidade própria, ligada à cultura rock, sem cair em clichês (caveiras, chamas) nem na aparência de painel genérico. Duas direções foram desenhadas e comparadas: "Core" (cartaz de show, preto e vermelho, títulos em bloco) e "Editorial" (revista de música em papel escuro).
+O Amplifica precisa de uma identidade própria, ligada à cultura rock, sem cair em clichês (caveiras, chamas) nem na aparência de painel genérico. Duas direções foram desenhadas e comparadas: "Core" (cartaz de show, preto e vermelho, títulos em bloco) e "Editorial" (revista de música).
 
 ## Decisão
 
-Adotar a direção **Editorial**.
+Adotar a direção **Editorial**, em fundo branco e com vermelho como cor de destaque. A primeira versão era escura com destaque ocre; depois de ver as duas, o autor preferiu a clara e pediu outra cor no lugar do amarelo.
 
 | Elemento | Escolha |
 | --- | --- |
-| Fundo | Grafite `#1B1B1D` |
-| Texto | Papel `#ECE5D5` (13,7:1) e cinza quente `#A39D92` (6,4:1) |
-| Destaque | Ocre `#E3A72F` (8,1:1), a única cor de tinta além do papel |
+| Fundo | Branco `#FFFFFF`, com papel `#F3EFE6` em faixas |
+| Texto | Tinta `#1B1B1D` (17,2:1) e cinza `#5F5A52` (6,8:1) |
+| Destaque | Vermelho `#C8201B` (5,7:1), a única cor além da tinta |
 | Títulos | Fraunces |
 | Textos longos | Newsreader |
 | Interface | Instrument Sans |
 | Nota | Medidor de dez níveis, no lugar de estrelas |
 
 - Os tokens ficam em `frontend/src/styles/index.css`, no bloco `@theme` do Tailwind, e são a única fonte de cores e fontes do site.
+- Os tokens têm nomes de papel (`surface`, `ink`, `accent`), não de cor. A troca do tema escuro para o claro mudou só os valores, sem tocar nos componentes.
+- O vermelho de destaque também é a cor de erro. Por isso mensagens de erro levam um ícone e borda mais grossa, para não dependerem só da cor.
 - As fontes são servidas pelo próprio site (pacotes Fontsource, licença SIL OFL), sem chamadas ao Google em tempo de execução.
 - A página `/guia` mostra todos os tokens e componentes-base.
 

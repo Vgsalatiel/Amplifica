@@ -8,21 +8,25 @@
 @import '@fontsource-variable/instrument-sans/wght.css';
 
 /*
- * Tokens da identidade "Editorial": revista de música em papel escuro.
- * Cada token vira classes do Tailwind (bg-graphite, text-paper, font-display...).
- * Contrastes medidos sobre graphite: paper 13,7:1, ochre 8,1:1, muted 6,4:1.
+ * Tokens da identidade "Editorial": revista de música em papel branco.
+ * Os nomes descrevem o papel da cor (surface, ink, accent), não a cor em si, para que
+ * trocar a paleta não exija renomear classes. Cada token vira classes do Tailwind
+ * (bg-surface, text-ink, text-accent, font-display...).
+ * Contrastes medidos sobre surface: ink 17,2:1, muted 6,8:1, accent 5,7:1.
  */
 @theme {
-  --color-graphite: #1b1b1d;
-  --color-graphite-raised: #232326;
-  --color-rule: #47474c;
+  --color-surface: #ffffff;
+  --color-surface-raised: #f3efe6;
+  --color-ink: #1b1b1d;
+  --color-muted: #5f5a52;
+  --color-rule: #d9d4c8;
   /* Borda de campos de formulário: precisa de 3:1 contra o fundo. */
-  --color-rule-strong: #6b6b70;
-  --color-muted: #a39d92;
-  --color-paper: #ece5d5;
-  --color-ochre: #e3a72f;
-  --color-ochre-bright: #f0bb4e;
-  --color-danger: #ff9c8a;
+  --color-rule-strong: #8a857c;
+  --color-accent: #c8201b;
+  --color-accent-hover: #a01813;
+  /* Texto sobre a cor de destaque (botão principal). */
+  --color-on-accent: #ffffff;
+  --color-danger: #a01813;
 
   --font-display: 'Fraunces Variable', Georgia, serif;
   --font-serif: 'Newsreader Variable', Georgia, serif;
@@ -31,12 +35,12 @@
 
 @layer base {
   html {
-    color-scheme: dark;
+    color-scheme: light;
   }
 
   body {
-    background-color: var(--color-graphite);
-    color: var(--color-paper);
+    background-color: var(--color-surface);
+    color: var(--color-ink);
     font-family: var(--font-sans);
     line-height: 1.5;
     -webkit-font-smoothing: antialiased;
@@ -44,12 +48,12 @@
 
   /* Foco de teclado sempre visível, na cor de destaque. */
   :focus-visible {
-    outline: 2px solid var(--color-ochre);
+    outline: 2px solid var(--color-accent);
     outline-offset: 3px;
   }
 
   ::selection {
-    background-color: var(--color-ochre);
-    color: var(--color-graphite);
+    background-color: var(--color-accent);
+    color: var(--color-on-accent);
   }
 }

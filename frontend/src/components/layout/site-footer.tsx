@@ -9,7 +9,7 @@ export function SiteFooter() {
           Projeto de portfólio com código aberto no{' '}
           <a
             href="https://github.com/Vgsalatiel/Amplifica"
-            className="text-paper underline underline-offset-4 hover:text-ochre"
+            className="text-ink underline underline-offset-4 hover:text-accent"
           >
             GitHub
           </a>

@@ -11,14 +11,14 @@ import { formatRating } from '../../../lib/format-rating'
 import { ApiStatus } from '../../status/components/api-status'
 
 const COLORS = [
-  { name: 'Grafite', token: 'graphite', hex: '#1B1B1D', use: 'Fundo', swatch: 'bg-graphite border border-rule-strong' },
-  { name: 'Grafite elevado', token: 'graphite-raised', hex: '#232326', use: 'Faixas e painéis', swatch: 'bg-graphite-raised border border-rule-strong' },
-  { name: 'Papel', token: 'paper', hex: '#ECE5D5', use: 'Texto principal, 13,7:1', swatch: 'bg-paper' },
-  { name: 'Cinza quente', token: 'muted', hex: '#A39D92', use: 'Texto secundário, 6,4:1', swatch: 'bg-muted' },
-  { name: 'Ocre', token: 'ochre', hex: '#E3A72F', use: 'Destaque, 8,1:1', swatch: 'bg-ochre' },
-  { name: 'Fio', token: 'rule', hex: '#47474C', use: 'Divisórias', swatch: 'bg-rule' },
-  { name: 'Fio forte', token: 'rule-strong', hex: '#6B6B70', use: 'Borda de campos, 3,2:1', swatch: 'bg-rule-strong' },
-  { name: 'Alerta', token: 'danger', hex: '#FF9C8A', use: 'Erros, 8,5:1', swatch: 'bg-danger' },
+  { name: 'Branco', token: 'surface', hex: '#FFFFFF', use: 'Fundo', swatch: 'bg-surface border border-rule-strong' },
+  { name: 'Papel', token: 'surface-raised', hex: '#F3EFE6', use: 'Faixas e painéis', swatch: 'bg-surface-raised border border-rule' },
+  { name: 'Tinta', token: 'ink', hex: '#1B1B1D', use: 'Texto principal, 17,2:1', swatch: 'bg-ink' },
+  { name: 'Cinza', token: 'muted', hex: '#5F5A52', use: 'Texto secundário, 6,8:1', swatch: 'bg-muted' },
+  { name: 'Vermelho', token: 'accent', hex: '#C8201B', use: 'Destaque, 5,7:1', swatch: 'bg-accent' },
+  { name: 'Vermelho escuro', token: 'accent-hover', hex: '#A01813', use: 'Destaque ao passar o mouse e erros, 8,0:1', swatch: 'bg-accent-hover' },
+  { name: 'Fio', token: 'rule', hex: '#D9D4C8', use: 'Divisórias', swatch: 'bg-rule' },
+  { name: 'Fio forte', token: 'rule-strong', hex: '#8A857C', use: 'Borda de campos, 3,7:1', swatch: 'bg-rule-strong' },
 ]
 
 function Section({ title, children }: { title: string; children: ReactNode }) {
@@ -40,7 +40,7 @@ export function StyleguidePage() {
         Guia visual
       </h1>
       <p className="mt-6 mb-12 max-w-2xl font-serif text-xl">
-        A identidade do Amplifica parte de uma revista de música impressa em papel escuro. Esta
+        A identidade do Amplifica parte de uma revista de música impressa: papel branco, tinta escura e uma única cor de destaque. Esta
         página reúne as cores, a tipografia e os componentes usados em todo o site.
       </p>
 
@@ -126,7 +126,7 @@ export function StyleguidePage() {
 
       <Section title="Nota">
         <div className="flex flex-wrap items-center gap-8">
-          <span className="font-display text-8xl leading-[0.8] font-light tracking-tighter text-ochre">
+          <span className="font-display text-8xl leading-[0.8] font-light tracking-tighter text-accent">
             {formatRating(rating)}
           </span>
           <div>
@@ -146,7 +146,7 @@ export function StyleguidePage() {
             step={1}
             value={rating}
             onChange={(event) => setRating(Number(event.target.value))}
-            className="mt-2 h-11 w-full accent-ochre"
+            className="mt-2 h-11 w-full accent-accent"
           />
         </div>
         <div className="mt-6 flex items-center gap-3 text-sm">

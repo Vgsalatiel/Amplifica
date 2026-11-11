@@ -30,7 +30,7 @@ export function RatingMeter({ value, size = 'md', className }: RatingMeterProps)
           data-lit={index < lit}
           className={cn(
             size === 'md' ? 'h-1.5 w-5' : 'h-1 w-3',
-            index < lit ? 'bg-ochre' : 'bg-rule',
+            index < lit ? 'bg-accent' : 'bg-rule',
           )}
         />
       ))}
