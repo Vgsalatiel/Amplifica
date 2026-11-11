@@ -12,7 +12,7 @@
  * Os nomes descrevem o papel da cor (surface, ink, accent), não a cor em si, para que
  * trocar a paleta não exija renomear classes. Cada token vira classes do Tailwind
  * (bg-surface, text-ink, text-accent, font-display...).
- * Contrastes medidos sobre surface: ink 17,2:1, muted 6,8:1, accent 5,7:1.
+ * Contrastes medidos sobre surface: ink 17,2:1, muted 6,8:1, accent 7,7:1.
  */
 @theme {
   --color-surface: #ffffff;
@@ -22,11 +22,11 @@
   --color-rule: #d9d4c8;
   /* Borda de campos de formulário: precisa de 3:1 contra o fundo. */
   --color-rule-strong: #8a857c;
-  --color-accent: #c8201b;
-  --color-accent-hover: #a01813;
+  --color-accent: #5630d0;
+  --color-accent-hover: #3f1fa6;
   /* Texto sobre a cor de destaque (botão principal). */
   --color-on-accent: #ffffff;
-  --color-danger: #a01813;
+  --color-danger: #b42318;
 
   --font-display: 'Fraunces Variable', Georgia, serif;
   --font-serif: 'Newsreader Variable', Georgia, serif;

@@ -12,12 +12,12 @@ import { ApiStatus } from '../../status/components/api-status'
 
 const COLORS = [
   { name: 'Branco', token: 'surface', hex: '#FFFFFF', use: 'Fundo', swatch: 'bg-surface border border-rule-strong' },
-  { name: 'Papel', token: 'surface-raised', hex: '#F3EFE6', use: 'Faixas e painéis', swatch: 'bg-surface-raised border border-rule' },
+  { name: 'Papel', token: 'surface-raised', hex: '#F3EFE6', use: 'Faixas e painéis; fios em #D9D4C8', swatch: 'bg-surface-raised border border-rule' },
   { name: 'Tinta', token: 'ink', hex: '#1B1B1D', use: 'Texto principal, 17,2:1', swatch: 'bg-ink' },
   { name: 'Cinza', token: 'muted', hex: '#5F5A52', use: 'Texto secundário, 6,8:1', swatch: 'bg-muted' },
-  { name: 'Vermelho', token: 'accent', hex: '#C8201B', use: 'Destaque, 5,7:1', swatch: 'bg-accent' },
-  { name: 'Vermelho escuro', token: 'accent-hover', hex: '#A01813', use: 'Destaque ao passar o mouse e erros, 8,0:1', swatch: 'bg-accent-hover' },
-  { name: 'Fio', token: 'rule', hex: '#D9D4C8', use: 'Divisórias', swatch: 'bg-rule' },
+  { name: 'Violeta', token: 'accent', hex: '#5630D0', use: 'Destaque, 7,7:1', swatch: 'bg-accent' },
+  { name: 'Violeta escuro', token: 'accent-hover', hex: '#3F1FA6', use: 'Destaque ao passar o mouse, 10,7:1', swatch: 'bg-accent-hover' },
+  { name: 'Alerta', token: 'danger', hex: '#B42318', use: 'Erros, 6,6:1', swatch: 'bg-danger' },
   { name: 'Fio forte', token: 'rule-strong', hex: '#8A857C', use: 'Borda de campos, 3,7:1', swatch: 'bg-rule-strong' },
 ]
 

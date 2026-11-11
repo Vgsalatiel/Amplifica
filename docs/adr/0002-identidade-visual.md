@@ -9,13 +9,14 @@ O Amplifica precisa de uma identidade própria, ligada à cultura rock, sem cair
 
 ## Decisão
 
-Adotar a direção **Editorial**, em fundo branco e com vermelho como cor de destaque. A primeira versão era escura com destaque ocre; depois de ver as duas, o autor preferiu a clara e pediu outra cor no lugar do amarelo.
+Adotar a direção **Editorial**, em fundo branco e com violeta como cor de destaque. A primeira versão era escura com destaque ocre; depois de ver as duas, o autor preferiu a clara e pediu outra cor no lugar do amarelo. O vermelho foi testado e descartado.
 
 | Elemento | Escolha |
 | --- | --- |
 | Fundo | Branco `#FFFFFF`, com papel `#F3EFE6` em faixas |
 | Texto | Tinta `#1B1B1D` (17,2:1) e cinza `#5F5A52` (6,8:1) |
-| Destaque | Vermelho `#C8201B` (5,7:1), a única cor além da tinta |
+| Destaque | Violeta `#5630D0` (7,7:1), a única cor além da tinta |
+| Erros | Vermelho `#B42318` (6,6:1), reservado a mensagens de erro |
 | Títulos | Fraunces |
 | Textos longos | Newsreader |
 | Interface | Instrument Sans |
@@ -23,7 +24,7 @@ Adotar a direção **Editorial**, em fundo branco e com vermelho como cor de des
 
 - Os tokens ficam em `frontend/src/styles/index.css`, no bloco `@theme` do Tailwind, e são a única fonte de cores e fontes do site.
 - Os tokens têm nomes de papel (`surface`, `ink`, `accent`), não de cor. A troca do tema escuro para o claro mudou só os valores, sem tocar nos componentes.
-- O vermelho de destaque também é a cor de erro. Por isso mensagens de erro levam um ícone e borda mais grossa, para não dependerem só da cor.
+- Mensagens de erro levam um ícone e borda mais grossa, para não dependerem só da cor.
 - As fontes são servidas pelo próprio site (pacotes Fontsource, licença SIL OFL), sem chamadas ao Google em tempo de execução.
 - A página `/guia` mostra todos os tokens e componentes-base.
 
