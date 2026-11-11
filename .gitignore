@@ -14,3 +14,7 @@ coverage
 .idea
 .DS_Store
 *.tsbuildinfo
+
+# Fontes baixadas para teste: licença de uso pessoal, não podem ir para o repositório
+maskneyes-font/
+maskneyes-font.zip

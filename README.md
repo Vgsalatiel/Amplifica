@@ -4,7 +4,7 @@
 
 Plataforma de descoberta musical e comunidade voltada ao rock e suas vertentes: discografias organizadas, gêneros como mapa de navegação, notas e resenhas com assinatura.
 
-> Projeto em desenvolvimento. Estado atual: **etapa 0 (fundação)** — esqueleto do frontend e da API conectados, ainda sem funcionalidades de produto.
+> Projeto em desenvolvimento. Estado atual: **etapa 1 (identidade visual)** concluída — tokens, componentes-base e guia visual em [`/guia`](https://amplificacore.netlify.app/guia). O catálogo ainda não existe.
 
 ## Stack
 
@@ -49,7 +49,7 @@ npm install
 npm run dev
 ```
 
-Abra `http://localhost:5173`. A página mostra se a API e o banco estão no ar.
+Abra o endereço que o Vite mostrar. A página `/guia` reúne os componentes e mostra se a API e o banco estão no ar.
 
 ## Scripts
 

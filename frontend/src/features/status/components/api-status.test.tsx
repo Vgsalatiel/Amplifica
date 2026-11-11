@@ -1,14 +1,14 @@
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query'
 import { render, screen } from '@testing-library/react'
 import { afterEach, describe, expect, it, vi } from 'vitest'
-import { StatusPage } from './status-page'
+import { ApiStatus } from './api-status'
 
 function renderPage() {
   // Um QueryClient novo por teste, para que o cache de um teste não vaze para o outro.
   const queryClient = new QueryClient({ defaultOptions: { queries: { retry: false } } })
   return render(
     <QueryClientProvider client={queryClient}>
-      <StatusPage />
+      <ApiStatus />
     </QueryClientProvider>,
   )
 }
@@ -20,7 +20,7 @@ function mockFetch(status: number, body: unknown) {
   )
 }
 
-describe('StatusPage', () => {
+describe('ApiStatus', () => {
   afterEach(() => {
     vi.unstubAllGlobals()
   })
