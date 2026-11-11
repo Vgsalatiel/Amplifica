@@ -10,7 +10,7 @@ O Amplifica é um projeto de portfólio full stack. Precisa de uma arquitetura q
 ## Decisão
 
 ```text
-React (Vercel) → NestJS (Render) → Prisma → PostgreSQL (Neon)
+React (Netlify) → NestJS (Render) → Prisma → PostgreSQL (Neon)
 ```
 
 1. **Dois projetos independentes no mesmo repositório**: `frontend/` e `backend/`, cada um com seu `package.json` e seu lockfile.
@@ -20,7 +20,7 @@ React (Vercel) → NestJS (Render) → Prisma → PostgreSQL (Neon)
 5. **Neon como PostgreSQL**, com duas strings de conexão:
    - `DATABASE_URL` (com pooler) para a aplicação em execução;
    - `DATABASE_URL_UNPOOLED` (direta) para o Prisma CLI, porque migrations exigem conexão direta.
-6. **API sob o prefixo `/api/v1`.** Em desenvolvimento, o Vite encaminha `/api` para o NestJS; em produção, a Vercel fará o mesmo. O navegador fala com uma única origem.
+6. **API sob o prefixo `/api/v1`.** Em desenvolvimento, o Vite encaminha `/api` para o NestJS; em produção, a Netlify faz o mesmo (`netlify.toml`). O navegador fala com uma única origem.
 7. **Variáveis de ambiente validadas na inicialização** da API (`src/config/env.ts`). Segredos só no backend e nunca versionados.
 
 ## Alternativas consideradas

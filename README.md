@@ -69,7 +69,7 @@ Os mesmos nos dois projetos, salvo indicação:
 | Parte | Serviço | Configuração |
 | --- | --- | --- |
 | API | Render (`https://amplifica.onrender.com`) | Root `backend`, build `npm install --include=dev && npm run build`, start `npm run start:prod` |
-| Frontend | Vercel | Root `frontend`; o `vercel.json` encaminha `/api/*` para a API |
+| Frontend | Netlify | Configurado pelo `netlify.toml`, que também encaminha `/api/*` para a API |
 | Banco | Neon | Um banco para desenvolvimento e outro para produção |
 
 As variáveis de produção ficam no painel de cada serviço, nunca no repositório. No plano gratuito, a API hiberna após um período sem acessos e a primeira requisição seguinte pode demorar.

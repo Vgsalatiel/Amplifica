@@ -7,7 +7,7 @@ export default defineConfig({
   plugins: [react(), tailwindcss()],
   server: {
     // Em desenvolvimento, o Vite encaminha /api para o NestJS. O navegador só fala
-    // com localhost:5173, o que reproduz o comportamento de produção (rewrite na Vercel)
+    // com localhost:5173, o que reproduz o comportamento de produção (proxy na Netlify)
     // e evita problemas de CORS e de cookies entre origens.
     proxy: {
       '/api': 'http://localhost:3000',
