@@ -1,0 +1,19 @@
+@import 'tailwindcss';
+
+/*
+ * Estilos provisórios da etapa 0. A identidade visual (paleta, tipografia,
+ * componentes-base) é a entrega da etapa 1 e substituirá estes valores.
+ */
+@theme {
+  --color-ink: #0b0b0c;
+  --color-graphite: #17171a;
+  --color-lead: #2a2a2f;
+  --color-tape: #8c877c;
+  --color-paper: #ede6d6;
+  --color-signal: #e0291f;
+}
+
+body {
+  background-color: var(--color-ink);
+  color: var(--color-paper);
+}

@@ -1,0 +1,11 @@
+// Schema do banco do Amplifica.
+// As tabelas entram nas etapas que as utilizam (User na etapa 2, catálogo na etapa 3).
+
+generator client {
+  provider = "prisma-client"
+  output   = "../src/generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+}

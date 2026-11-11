@@ -1,0 +1,11 @@
+node_modules
+dist
+coverage
+
+# Variáveis de ambiente: nunca versionar
+.env
+.env.*
+!.env.example
+
+# Cliente gerado pelo Prisma (recriado com `npm run prisma:generate`)
+/src/generated

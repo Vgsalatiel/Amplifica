@@ -1,0 +1,16 @@
+node_modules
+dist
+coverage
+*.log
+
+# Variáveis de ambiente: nunca versionar
+.env
+.env.*
+!.env.example
+
+# Editor e sistema
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.tsbuildinfo
