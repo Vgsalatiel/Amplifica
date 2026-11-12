@@ -18,11 +18,25 @@ export async function createTestApp(): Promise<NestExpressApplication> {
   return app;
 }
 
-/** Remove os usuários de teste e as sessões deles. Nunca toca em dados de outras contas. */
+/** Todo item de catálogo criado pelos testes tem este prefixo no endereço (slug). */
+export const TEST_SLUG_PREFIX = 'e2e-';
+
+/**
+ * Remove o que os testes criaram: usuários `@e2e.amplifica.test`, as sessões deles e os
+ * itens de catálogo com slug `e2e-...`. Nunca toca em dados cadastrados de verdade.
+ */
 export async function cleanTestData(
   app: NestExpressApplication,
 ): Promise<void> {
   const prisma = app.get(PrismaService);
+
+  const slug = { startsWith: TEST_SLUG_PREFIX };
+  await prisma.release.deleteMany({ where: { slug } });
+  await prisma.artist.deleteMany({ where: { slug } });
+  // Gêneros têm ON DELETE RESTRICT para o pai: solta a árvore antes de apagar.
+  await prisma.genre.updateMany({ where: { slug }, data: { parentId: null } });
+  await prisma.genre.deleteMany({ where: { slug } });
+
   const users = await prisma.user.findMany({
     where: { email: { endsWith: TEST_EMAIL_DOMAIN } },
     select: { id: true },
@@ -43,4 +57,25 @@ export function newAccount() {
     username: `t_${suffix}`.slice(0, 20),
     password: 'senha-de-teste-123',
   };
+}
+
+/** Cria uma conta pela API. Com `admin`, promove a conta direto no banco (não há rota para isso). */
+export async function createSession(
+  app: NestExpressApplication,
+  options: { admin?: boolean } = {},
+): Promise<{ token: string; id: string; auth: { Authorization: string } }> {
+  const { default: request } = await import('supertest');
+  const response = await request(app.getHttpServer())
+    .post('/api/v1/auth/register')
+    .send(newAccount())
+    .expect(201);
+
+  const id = response.body.user.id as string;
+  if (options.admin) {
+    await app
+      .get(PrismaService)
+      .user.update({ where: { id }, data: { role: 'ADMIN' } });
+  }
+  const token = response.body.accessToken as string;
+  return { token, id, auth: { Authorization: `Bearer ${token}` } };
 }

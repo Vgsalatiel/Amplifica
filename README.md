@@ -4,7 +4,7 @@
 
 Plataforma de descoberta musical e comunidade voltada ao rock e suas vertentes: discografias organizadas, gêneros como mapa de navegação, notas e resenhas com assinatura.
 
-> Projeto em desenvolvimento. Estado atual: **etapa 2 (autenticação e usuários)** concluída — dá para criar conta, entrar, sair, ver perfis em `/u/nome` e editar o próprio. Guia visual em [`/guia`](https://amplificacore.netlify.app/guia). O catálogo ainda não existe.
+> Projeto em desenvolvimento. Estado atual: **etapa 3 (catálogo), parte da API** concluída — gêneros, artistas, lançamentos, faixas e envio de imagens pela API. A área administrativa (telas) vem a seguir. Guia visual em [`/guia`](https://amplificacore.netlify.app/guia).
 
 ## Stack
 
@@ -64,6 +64,7 @@ Os mesmos nos dois projetos, salvo indicação:
 | `npm run test:e2e` | Testes da API contra o banco do `.env` (só no backend). Criam e apagam apenas contas `@e2e.amplifica.test` |
 | `npm run build` | Build de produção |
 | `npm run prisma:migrate` | Cria e aplica migrations em desenvolvimento (só no backend) |
+| `npm run seed:genres` | Cria a árvore inicial de gêneros; pode rodar de novo sem duplicar (só no backend) |
 | `npm run seed:admin` | Cria o primeiro administrador a partir de `ADMIN_EMAIL`, `ADMIN_USERNAME` e `ADMIN_PASSWORD` (só no backend) |
 
 ## API
@@ -79,6 +80,14 @@ Todas as rotas ficam sob `/api/v1`. Erros seguem um formato único: `{ statusCod
 | `GET /auth/me` | Autenticada | Dados da própria conta |
 | `GET /users/:username` | Pública | Perfil público |
 | `PATCH /users/me` | Autenticada | Edita nome de exibição e bio |
+| `GET /genres`, `GET /genres/:slug` | Pública | Árvore de gêneros; um gênero com pai e filhos |
+| `GET /artists` | Pública | Lista paginada. Filtros: `genre` (inclui subgêneros), `q` (nome) |
+| `GET /artists/:slug` | Pública | Artista com discografia, do lançamento mais recente ao mais antigo |
+| `GET /releases` | Pública | Lista paginada. Filtros: `type`, `artist` |
+| `GET /releases/:slug` | Pública | Lançamento com faixas, cor de destaque e vídeo |
+| `POST`, `PATCH`, `DELETE` em `/genres`, `/artists`, `/releases` | ADMIN | Cadastro e edição do catálogo |
+| `PUT`, `DELETE` em `/artists/:id/image` e `/releases/:id/cover` | ADMIN | Foto do artista e capa do lançamento |
+| `PUT`, `DELETE /users/me/avatar` | Autenticada | Avatar da própria conta |
 | `GET /health` | Pública | Estado da API e do banco |
 
 ## Deploy

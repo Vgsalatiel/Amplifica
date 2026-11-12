@@ -9,3 +9,6 @@ coverage
 
 # Cliente gerado pelo Prisma (recriado com `npm run prisma:generate`)
 /src/generated
+
+# Imagens enviadas em desenvolvimento
+/storage

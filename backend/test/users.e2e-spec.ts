@@ -33,6 +33,7 @@ describe('Usuários (e2e)', () => {
       username: account.username,
       displayName: 'Marina F.',
       bio: null,
+      avatar: null,
       createdAt: expect.any(String),
     });
   });

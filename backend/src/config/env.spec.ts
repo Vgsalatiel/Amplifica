@@ -33,6 +33,21 @@ describe('validateEnv', () => {
     );
   });
 
+  it('aceita o armazenamento completo e recusa pela metade', () => {
+    const storage = {
+      STORAGE_S3_ENDPOINT: 'https://conta.r2.cloudflarestorage.com',
+      STORAGE_S3_BUCKET: 'amplifica',
+      STORAGE_S3_ACCESS_KEY_ID: 'chave',
+      STORAGE_S3_SECRET_ACCESS_KEY: 'segredo',
+      STORAGE_PUBLIC_URL: 'https://imagens.exemplo.com',
+    };
+
+    expect(validateEnv({ ...valid, ...storage })).toMatchObject(storage);
+    expect(() =>
+      validateEnv({ ...valid, STORAGE_S3_BUCKET: 'amplifica' }),
+    ).toThrow(/Armazenamento incompleto/);
+  });
+
   it('recusa DATABASE_URL que não é PostgreSQL', () => {
     expect(() =>
       validateEnv({ ...valid, DATABASE_URL: 'mysql://host/db' }),

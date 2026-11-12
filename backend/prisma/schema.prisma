@@ -1,5 +1,5 @@
 // Schema do banco do Amplifica.
-// As tabelas entram nas etapas que as utilizam (catálogo na etapa 3).
+// As tabelas entram nas etapas que as utilizam (resenhas na etapa 6).
 
 generator client {
   provider = "prisma-client"
@@ -25,6 +25,8 @@ model User {
   passwordHash String
   displayName  String
   bio          String?
+  // Caminho do avatar no armazenamento de arquivos. A URL pública é montada pela API.
+  avatarPath   String?
   role         Role     @default(USER)
   createdAt    DateTime @default(now())
   updatedAt    DateTime @updatedAt
@@ -57,4 +59,138 @@ model RefreshToken {
 model RevokedTokenFamily {
   familyId  String   @id
   revokedAt DateTime @default(now())
+}
+
+// ---------------------------------------------------------------------------
+// Catálogo
+// ---------------------------------------------------------------------------
+
+enum ArtistType {
+  BAND
+  SOLO
+}
+
+enum ReleaseType {
+  ALBUM
+  EP
+  SINGLE
+  LIVE
+  COMPILATION
+}
+
+// Muitos lançamentos só têm ano ou mês conhecidos. A precisão evita inventar dia e mês.
+enum DatePrecision {
+  YEAR
+  MONTH
+  DAY
+}
+
+enum ReleaseArtistRole {
+  PRIMARY
+  FEATURED
+}
+
+// Gêneros formam uma árvore: um subgênero é um gênero com `parentId`.
+model Genre {
+  id          String   @id @default(uuid(7)) @db.Uuid
+  name        String   @unique
+  slug        String   @unique
+  description String?
+  parentId    String?  @db.Uuid
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  // Restrict: um gênero com subgêneros não pode ser excluído.
+  parent   Genre?        @relation("GenreTree", fields: [parentId], references: [id], onDelete: Restrict)
+  children Genre[]       @relation("GenreTree")
+  artists  ArtistGenre[]
+
+  @@index([parentId])
+}
+
+model Artist {
+  id            String     @id @default(uuid(7)) @db.Uuid
+  name          String
+  slug          String     @unique
+  type          ArtistType @default(BAND)
+  bio           String?
+  // Código ISO 3166-1 de duas letras, como "BR".
+  country       String?
+  city          String?
+  formedYear    Int?
+  disbandedYear Int?
+  imagePath     String?
+  // Identificador no MusicBrainz, para a importação futura.
+  mbid          String?    @unique
+  createdAt     DateTime   @default(now())
+  updatedAt     DateTime   @updatedAt
+
+  genres   ArtistGenre[]
+  releases ReleaseArtist[]
+
+  @@index([name])
+}
+
+model ArtistGenre {
+  artistId String @db.Uuid
+  genreId  String @db.Uuid
+
+  artist Artist @relation(fields: [artistId], references: [id], onDelete: Cascade)
+  // Restrict: um gênero em uso por artistas não pode ser excluído.
+  genre  Genre  @relation(fields: [genreId], references: [id], onDelete: Restrict)
+
+  @@id([artistId, genreId])
+  @@index([genreId])
+}
+
+// Um lançamento é a obra (álbum, EP, single), não cada edição ou prensagem dela.
+model Release {
+  id             String        @id @default(uuid(7)) @db.Uuid
+  title          String
+  slug           String        @unique
+  type           ReleaseType
+  releaseDate    DateTime      @db.Date
+  datePrecision  DatePrecision @default(DAY)
+  description    String?
+  coverPath      String?
+  // Cor de destaque da página do álbum, em #RRGGBB. Extraída da capa ou definida pelo admin.
+  accentColor    String?
+  youtubeVideoId String?
+  mbid           String?       @unique
+  createdAt      DateTime      @default(now())
+  updatedAt      DateTime      @updatedAt
+
+  artists ReleaseArtist[]
+  tracks  Track[]
+
+  @@index([releaseDate])
+}
+
+// Artista e lançamento em N:N: cobre splits e participações.
+model ReleaseArtist {
+  releaseId String            @db.Uuid
+  artistId  String            @db.Uuid
+  role      ReleaseArtistRole @default(PRIMARY)
+  // Ordem em que os artistas aparecem no lançamento.
+  position  Int               @default(0)
+
+  release Release @relation(fields: [releaseId], references: [id], onDelete: Cascade)
+  // Restrict: um artista com lançamentos não pode ser excluído.
+  artist  Artist  @relation(fields: [artistId], references: [id], onDelete: Restrict)
+
+  @@id([releaseId, artistId])
+  @@index([artistId])
+}
+
+model Track {
+  id         String @id @default(uuid(7)) @db.Uuid
+  releaseId  String @db.Uuid
+  title      String
+  discNumber Int    @default(1)
+  position   Int
+  durationMs Int?
+
+  release Release @relation(fields: [releaseId], references: [id], onDelete: Cascade)
+
+  @@unique([releaseId, discNumber, position])
 }

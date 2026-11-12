@@ -14,6 +14,10 @@ const DEFAULTS: Record<number, { code: string; message: string }> = {
   403: { code: 'forbidden', message: 'Você não tem permissão para isso.' },
   404: { code: 'not_found', message: 'Não encontramos o que você procura.' },
   409: { code: 'conflict', message: 'Esse dado já está em uso.' },
+  413: {
+    code: 'payload_too_large',
+    message: 'O arquivo enviado é grande demais.',
+  },
   429: {
     code: 'too_many_requests',
     message: 'Muitas tentativas. Aguarde um minuto e tente de novo.',

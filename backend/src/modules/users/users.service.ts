@@ -1,5 +1,6 @@
 import { Injectable, NotFoundException } from '@nestjs/common';
 import { apiError } from '../../common/api-error.js';
+import { ImagesService } from '../images/images.service.js';
 import { PrismaService } from '../../prisma/prisma.service.js';
 import type { AuthUser } from './user.types.js';
 import type { UpdateProfileDto } from './users.schemas.js';
@@ -11,6 +12,7 @@ export const userSelect = {
   username: true,
   displayName: true,
   bio: true,
+  avatarPath: true,
   role: true,
   createdAt: true,
   updatedAt: true,
@@ -18,7 +20,10 @@ export const userSelect = {
 
 @Injectable()
 export class UsersService {
-  constructor(private readonly prisma: PrismaService) {}
+  constructor(
+    private readonly prisma: PrismaService,
+    private readonly images: ImagesService,
+  ) {}
 
   findById(id: string): Promise<AuthUser | null> {
     return this.prisma.user.findUnique({ where: { id }, select: userSelect });
@@ -47,5 +52,35 @@ export class UsersService {
       data,
       select: userSelect,
     });
+  }
+
+  async setAvatar(
+    userId: string,
+    file: Express.Multer.File | undefined,
+  ): Promise<AuthUser> {
+    const current = await this.findById(userId);
+    const stored = await this.images.store('avatars', userId, file);
+
+    const user = await this.prisma.user.update({
+      where: { id: userId },
+      data: { avatarPath: stored.path },
+      select: userSelect,
+    });
+    // A imagem antiga só é apagada depois que o banco já aponta para a nova.
+    if (current?.avatarPath && current.avatarPath !== stored.path) {
+      await this.images.remove(current.avatarPath);
+    }
+    return user;
+  }
+
+  async removeAvatar(userId: string): Promise<AuthUser> {
+    const current = await this.findById(userId);
+    const user = await this.prisma.user.update({
+      where: { id: userId },
+      data: { avatarPath: null },
+      select: userSelect,
+    });
+    await this.images.remove(current?.avatarPath);
+    return user;
   }
 }

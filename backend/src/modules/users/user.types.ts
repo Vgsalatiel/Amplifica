@@ -1,4 +1,5 @@
 import type { Role, User } from '../../generated/prisma/client.js';
+import type { ImageSet } from '../images/images.service.js';
 
 /** O usuário autenticado, como as rotas o recebem em `@CurrentUser()`. Sem o hash da senha. */
 export type AuthUser = Omit<User, 'passwordHash'>;
@@ -10,6 +11,7 @@ export interface PrivateUserResponse {
   username: string;
   displayName: string;
   bio: string | null;
+  avatar: ImageSet | null;
   role: Role;
   createdAt: string;
 }
@@ -19,26 +21,38 @@ export interface PublicUserResponse {
   username: string;
   displayName: string;
   bio: string | null;
+  avatar: ImageSet | null;
   createdAt: string;
 }
 
-export function toPrivateUser(user: AuthUser): PrivateUserResponse {
+/** Os mappers recebem a função que transforma o caminho do avatar em URLs. */
+type ToImageSet = (path: string | null) => ImageSet | null;
+
+export function toPrivateUser(
+  user: AuthUser,
+  toImageSet: ToImageSet,
+): PrivateUserResponse {
   return {
     id: user.id,
     email: user.email,
     username: user.username,
     displayName: user.displayName,
     bio: user.bio,
+    avatar: toImageSet(user.avatarPath),
     role: user.role,
     createdAt: user.createdAt.toISOString(),
   };
 }
 
-export function toPublicUser(user: AuthUser): PublicUserResponse {
+export function toPublicUser(
+  user: AuthUser,
+  toImageSet: ToImageSet,
+): PublicUserResponse {
   return {
     username: user.username,
     displayName: user.displayName,
     bio: user.bio,
+    avatar: toImageSet(user.avatarPath),
     createdAt: user.createdAt.toISOString(),
   };
 }

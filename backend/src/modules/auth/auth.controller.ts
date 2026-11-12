@@ -10,9 +10,11 @@ import {
 } from '@nestjs/common';
 import { ConfigService } from '@nestjs/config';
 import { CurrentUser, Public } from '@nestjs/authentication';
+import { Can } from '@nestjs/authorization';
 import { SkipThrottle, Throttle } from '@nestjs/throttler';
 import type { Request, Response } from 'express';
 import type { Env } from '../../config/env.js';
+import { ImagesService } from '../images/images.service.js';
 import {
   toPrivateUser,
   type AuthUser,
@@ -47,6 +49,7 @@ export class AuthController {
 
   constructor(
     private readonly auth: AuthService,
+    private readonly images: ImagesService,
     config: ConfigService<Env, true>,
   ) {
     this.secureCookies =
@@ -102,10 +105,11 @@ export class AuthController {
     clearRefreshCookie(response, this.secureCookies);
   }
 
+  @Can.Anyone()
   @SkipThrottle()
   @Get('me')
   me(@CurrentUser() user: AuthUser): PrivateUserResponse {
-    return toPrivateUser(user);
+    return toPrivateUser(user, (path) => this.images.toSet(path));
   }
 
   private startSession(
@@ -116,7 +120,7 @@ export class AuthController {
     return {
       accessToken: tokens.accessToken,
       expiresIn: tokens.expiresIn,
-      user: toPrivateUser(user),
+      user: toPrivateUser(user, (path) => this.images.toSet(path)),
     };
   }
 }

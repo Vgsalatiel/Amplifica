@@ -10,7 +10,25 @@ export interface Env {
   DATABASE_URL: string;
   /** Segredo HMAC que assina os tokens de acesso. Mínimo de 32 caracteres. */
   JWT_ACCESS_SECRET: string;
+  /**
+   * Armazenamento de imagens compatível com S3 (Cloudflare R2). Opcional: sem estas
+   * variáveis, o desenvolvimento grava em disco local e a produção recusa uploads.
+   */
+  STORAGE_S3_ENDPOINT?: string;
+  STORAGE_S3_BUCKET?: string;
+  STORAGE_S3_ACCESS_KEY_ID?: string;
+  STORAGE_S3_SECRET_ACCESS_KEY?: string;
+  /** Endereço público do bucket, de onde o navegador carrega as imagens. */
+  STORAGE_PUBLIC_URL?: string;
 }
+
+const STORAGE_KEYS = [
+  'STORAGE_S3_ENDPOINT',
+  'STORAGE_S3_BUCKET',
+  'STORAGE_S3_ACCESS_KEY_ID',
+  'STORAGE_S3_SECRET_ACCESS_KEY',
+  'STORAGE_PUBLIC_URL',
+] as const;
 
 const NODE_ENVS = ['development', 'test', 'production'] as const;
 
@@ -48,6 +66,25 @@ export function validateEnv(raw: Record<string, unknown>): Env {
     errors.push('JWT_ACCESS_SECRET deve ter pelo menos 32 caracteres');
   }
 
+  // As variáveis de armazenamento valem em conjunto: ou todas, ou nenhuma.
+  const storage: Partial<Record<(typeof STORAGE_KEYS)[number], string>> = {};
+  for (const key of STORAGE_KEYS) {
+    const value = raw[key];
+    if (typeof value === 'string' && value.trim() !== '') {
+      storage[key] = value.trim();
+    }
+  }
+  const storageSet = Object.keys(storage).length;
+  if (storageSet > 0 && storageSet < STORAGE_KEYS.length) {
+    const missing = STORAGE_KEYS.filter((key) => !storage[key]);
+    errors.push(`Armazenamento incompleto, falta: ${missing.join(', ')}`);
+  }
+  for (const key of ['STORAGE_S3_ENDPOINT', 'STORAGE_PUBLIC_URL'] as const) {
+    if (storage[key] && !/^https?:\/\//.test(storage[key])) {
+      errors.push(`${key} deve começar com https://`);
+    }
+  }
+
   if (errors.length > 0) {
     throw new Error(
       `Configuração de ambiente inválida:\n- ${errors.join('\n- ')}\n` +
@@ -61,5 +98,6 @@ export function validateEnv(raw: Record<string, unknown>): Env {
     CORS_ORIGIN: corsOrigin,
     DATABASE_URL: databaseUrl,
     JWT_ACCESS_SECRET: jwtAccessSecret,
+    ...storage,
   };
 }
