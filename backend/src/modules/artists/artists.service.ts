@@ -14,6 +14,7 @@ import {
   isForeignKeyViolation,
   isUniqueViolation,
 } from '../../common/prisma-errors.js';
+import { artistIdsMatching } from '../../common/search.js';
 import { slugify, uniqueSlug } from '../../common/slug.js';
 import type { Prisma } from '../../generated/prisma/client.js';
 import { PrismaService } from '../../prisma/prisma.service.js';
@@ -25,6 +26,7 @@ import {
   type ArtistDetail,
   type ArtistSummary,
 } from '../catalog/catalog.mappers.js';
+import { loadRatings } from '../catalog/ratings.js';
 import { GenresService } from '../genres/genres.service.js';
 import { ImagesService } from '../images/images.service.js';
 import type {
@@ -50,7 +52,8 @@ export class ArtistsService {
   async list(query: ListArtistsQuery): Promise<Paginated<ArtistSummary>> {
     const where: Prisma.ArtistWhereInput = {};
     if (query.q) {
-      where.name = { contains: query.q, mode: 'insensitive' };
+      // Sem acento e sem diferença de maiúsculas: "slipknót" acha "Slipknot".
+      where.id = { in: await artistIdsMatching(this.prisma, query.q) };
     }
     if (query.genre) {
       // Um gênero inexistente resulta em lista vazia, não em erro.
@@ -91,7 +94,11 @@ export class ArtistsService {
       orderBy: [{ releaseDate: 'desc' }, { title: 'asc' }],
     });
 
-    return toArtistDetail(artist, releases, this.toImageSet);
+    const ratings = await loadRatings(
+      this.prisma,
+      releases.map((release) => release.id),
+    );
+    return toArtistDetail(artist, releases, this.toImageSet, ratings);
   }
 
   async create(dto: CreateArtistDto): Promise<ArtistSummary> {

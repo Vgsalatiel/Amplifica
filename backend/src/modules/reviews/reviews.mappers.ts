@@ -3,6 +3,7 @@ import {
   toReleaseSummary,
   type ReleaseSummary,
 } from '../catalog/catalog.mappers.js';
+import type { RatingSummary } from '../catalog/rating.js';
 import type { ImageSet } from '../images/images.service.js';
 
 type ToImageSet = (path: string | null) => ImageSet | null;
@@ -70,12 +71,13 @@ export function toReviewResponse(
 export function toUserReviewResponse(
   review: Review & { release: Parameters<typeof toReleaseSummary>[0] },
   toImageSet: ToImageSet,
+  rating: RatingSummary,
 ): UserReviewResponse {
   return {
     id: review.id,
     rating: review.rating,
     body: review.body,
     ...timestamps(review),
-    release: toReleaseSummary(review.release, toImageSet),
+    release: toReleaseSummary(review.release, toImageSet, rating),
   };
 }

@@ -20,14 +20,14 @@ export const useGenreTree = () => useQuery({ queryKey: ['genres'], queryFn: getG
 export const useGenre = (slug: string) =>
   useQuery({ queryKey: ['genre', slug], queryFn: () => getGenre(slug), retry: retryUnlessNotFound })
 
-export const useArtistList = (params: ArtistListParams) =>
-  useQuery({ queryKey: ['artists', params], queryFn: () => listArtists(params), placeholderData: (previous) => previous })
+export const useArtistList = (params: ArtistListParams, enabled = true) =>
+  useQuery({ queryKey: ['artists', params], queryFn: () => listArtists(params), placeholderData: (previous) => previous, enabled })
 
 export const useArtist = (slug: string) =>
   useQuery({ queryKey: ['artist', slug], queryFn: () => getArtist(slug), retry: retryUnlessNotFound })
 
-export const useReleaseList = (params: ReleaseListParams) =>
-  useQuery({ queryKey: ['releases', params], queryFn: () => listReleases(params), placeholderData: (previous) => previous })
+export const useReleaseList = (params: ReleaseListParams, enabled = true) =>
+  useQuery({ queryKey: ['releases', params], queryFn: () => listReleases(params), placeholderData: (previous) => previous, enabled })
 
 export const useRelease = (slug: string) =>
   useQuery({ queryKey: ['release', slug], queryFn: () => getRelease(slug), retry: retryUnlessNotFound })

@@ -77,6 +77,12 @@ export interface ArtistSummary {
   genres: GenreRef[]
 }
 
+/** Média das notas de um disco. `average` é null enquanto ninguém avaliou. */
+export interface RatingSummary {
+  average: number | null
+  count: number
+}
+
 export interface ReleaseSummary {
   id: string
   title: string
@@ -88,6 +94,8 @@ export interface ReleaseSummary {
   cover: ImageSet | null
   /** Cor de destaque da página do álbum, em #RRGGBB. */
   accentColor: string | null
+  /** Média e contagem das avaliações, para mostrar a nota nas listas. */
+  rating: RatingSummary
   artists: Array<{ id: string; name: string; slug: string; role: ReleaseArtistRole }>
 }
 
@@ -113,14 +121,7 @@ export interface Track {
   durationMs: number | null
 }
 
-/** Média das notas de um disco. `average` é null enquanto ninguém avaliou. */
-export interface RatingSummary {
-  average: number | null
-  count: number
-}
-
 export interface ReleaseDetail extends ReleaseSummary {
-  rating: RatingSummary
   description: string | null
   youtubeVideoId: string | null
   tracks: Track[]

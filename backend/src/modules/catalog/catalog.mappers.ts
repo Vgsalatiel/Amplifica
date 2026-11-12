@@ -11,6 +11,7 @@ import type {
 import type { ImageSet } from '../images/images.service.js';
 import { formatReleaseDate } from '../releases/release-date.js';
 import type { RatingSummary } from './rating.js';
+import { ratingOf, type RatingsByRelease } from './ratings.js';
 
 /**
  * Formato das respostas do catálogo. As funções daqui transformam linhas do banco
@@ -47,6 +48,8 @@ export interface ReleaseSummary {
   datePrecision: DatePrecision;
   cover: ImageSet | null;
   accentColor: string | null;
+  /** Média e contagem das avaliações; `average` é null enquanto ninguém avaliou. */
+  rating: RatingSummary;
   artists: Array<ArtistRef & { role: ReleaseArtistRole }>;
 }
 
@@ -78,8 +81,6 @@ export interface ReleaseDetail extends ReleaseSummary {
   tracks: TrackResponse[];
   /** Soma das durações conhecidas; `null` se nenhuma faixa tem duração. */
   durationMs: number | null;
-  /** Média e contagem das avaliações dos usuários. */
-  rating: RatingSummary;
 }
 
 /** `include` do Prisma que os mappers esperam. */
@@ -118,6 +119,7 @@ export function toArtistSummary(
 export function toReleaseSummary(
   release: ReleaseWithArtists,
   toImageSet: ToImageSet,
+  rating: RatingSummary,
 ): ReleaseSummary {
   return {
     id: release.id,
@@ -128,6 +130,7 @@ export function toReleaseSummary(
     datePrecision: release.datePrecision,
     cover: toImageSet(release.coverPath),
     accentColor: release.accentColor,
+    rating,
     artists: release.artists.map(({ role, artist }) => ({
       id: artist.id,
       name: artist.name,
@@ -141,6 +144,7 @@ export function toArtistDetail(
   artist: ArtistWithGenres,
   releases: ReleaseWithArtists[],
   toImageSet: ToImageSet,
+  ratings: RatingsByRelease,
 ): ArtistDetail {
   return {
     ...toArtistSummary(artist, toImageSet),
@@ -149,7 +153,9 @@ export function toArtistDetail(
     city: artist.city,
     formedYear: artist.formedYear,
     disbandedYear: artist.disbandedYear,
-    releases: releases.map((release) => toReleaseSummary(release, toImageSet)),
+    releases: releases.map((release) =>
+      toReleaseSummary(release, toImageSet, ratingOf(ratings, release.id)),
+    ),
   };
 }
 
@@ -163,7 +169,7 @@ export function toReleaseDetail(
     .filter((duration): duration is number => duration !== null);
 
   return {
-    ...toReleaseSummary(release, toImageSet),
+    ...toReleaseSummary(release, toImageSet, rating),
     description: release.description,
     youtubeVideoId: release.youtubeVideoId,
     tracks: release.tracks.map((track) => ({
@@ -177,7 +183,6 @@ export function toReleaseDetail(
       durations.length > 0
         ? durations.reduce((sum, value) => sum + value, 0)
         : null,
-    rating,
   };
 }
 

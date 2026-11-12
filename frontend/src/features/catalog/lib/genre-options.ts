@@ -28,3 +28,17 @@ export function idsWithDescendants(tree: GenreNode[], id: string): Set<string> {
   tree.forEach((node) => collect(node, false))
   return found
 }
+
+export interface GenreSlugOption {
+  slug: string
+  name: string
+  depth: number
+}
+
+/** Como `flattenGenres`, mas com o endereço (slug) do gênero: é o que os filtros guardam na URL. */
+export function flattenGenreSlugs(tree: GenreNode[], depth = 0): GenreSlugOption[] {
+  return tree.flatMap((node) => [
+    { slug: node.slug, name: node.name, depth },
+    ...flattenGenreSlugs(node.children, depth + 1),
+  ])
+}

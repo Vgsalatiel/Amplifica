@@ -7,16 +7,18 @@ import { cn } from '../../lib/cn'
 import { buttonClasses } from '../ui/button-styles'
 import { Logo } from '../ui/logo'
 import { Container } from './container'
+import { HeaderSearch } from './header-search'
 
 const BASE_NAV_ITEMS = [
   { to: '/', label: 'Início' },
   { to: '/artistas', label: 'Artistas' },
+  { to: '/lancamentos', label: 'Lançamentos' },
   { to: '/generos', label: 'Gêneros' },
   { to: '/guia', label: 'Guia visual' },
 ]
 
 const linkBase =
-  'inline-flex min-h-11 items-center text-[15px] font-medium underline-offset-8 transition-colors hover:text-accent'
+  'inline-flex min-h-11 items-center whitespace-nowrap text-[15px] font-medium underline-offset-8 transition-colors hover:text-accent'
 
 function navLinkClass({ isActive }: { isActive: boolean }): string {
   return cn(linkBase, isActive && 'underline decoration-accent decoration-2')
@@ -39,7 +41,7 @@ export function SiteHeader() {
           <Logo className="text-4xl" />
         </Link>
 
-        <nav aria-label="Principal" className="hidden gap-8 md:flex">
+        <nav aria-label="Principal" className="hidden gap-8 xl:flex">
           {NAV_ITEMS.map((item) => (
             <NavLink key={item.to} to={item.to} end={item.to === '/'} className={navLinkClass}>
               {item.label}
@@ -47,7 +49,9 @@ export function SiteHeader() {
           ))}
         </nav>
 
-        <div className="ml-auto hidden items-center gap-6 md:flex">
+        <HeaderSearch className="ml-auto hidden w-56 xl:flex" />
+
+        <div className="hidden items-center gap-6 xl:flex">
           <AccountLinks onNavigate={closeMenu} />
         </div>
 
@@ -57,7 +61,7 @@ export function SiteHeader() {
           aria-controls="menu-celular"
           aria-label={menuOpen ? 'Fechar menu' : 'Abrir menu'}
           onClick={() => setMenuOpen((open) => !open)}
-          className="-mr-2.5 ml-auto flex size-11 cursor-pointer items-center justify-center md:hidden"
+          className="-mr-2.5 ml-auto flex size-11 cursor-pointer items-center justify-center xl:hidden"
         >
           <svg
             aria-hidden="true"
@@ -75,8 +79,9 @@ export function SiteHeader() {
       </Container>
 
       {menuOpen && (
-        <nav id="menu-celular" aria-label="Principal" className="border-y border-rule md:hidden">
+        <nav id="menu-celular" aria-label="Principal" className="border-y border-rule xl:hidden">
           <Container className="flex flex-col items-start py-2">
+            <HeaderSearch className="my-2 w-full" onNavigate={closeMenu} />
             {NAV_ITEMS.map((item) => (
               <NavLink
                 key={item.to}
@@ -115,7 +120,7 @@ function AccountLinks({ onNavigate }: { onNavigate: () => void }) {
         <NavLink to="/entrar" className={navLinkClass} onClick={onNavigate}>
           Entrar
         </NavLink>
-        <Link to="/cadastro" className={buttonClasses('primary', 'h-11 px-5')} onClick={onNavigate}>
+        <Link to="/cadastro" className={buttonClasses('primary', 'h-11 px-5 whitespace-nowrap')} onClick={onNavigate}>
           Criar conta
         </Link>
       </>

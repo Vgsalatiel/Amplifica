@@ -19,9 +19,10 @@ import { ArtistsPage } from '../features/catalog/pages/artists-page'
 import { GenrePage } from '../features/catalog/pages/genre-page'
 import { GenresPage } from '../features/catalog/pages/genres-page'
 import { ReleasePage } from '../features/catalog/pages/release-page'
+import { ReleasesPage } from '../features/catalog/pages/releases-page'
+import { SearchPage } from '../features/search/pages/search-page'
 import { StyleguidePage } from '../features/styleguide/pages/styleguide-page'
 
-// Busca por texto e avaliações entram nas próximas etapas.
 export const router = createBrowserRouter([
   {
     element: <AppLayout />,
@@ -29,7 +30,9 @@ export const router = createBrowserRouter([
       { path: '/', element: <HomePage /> },
       { path: '/artistas', element: <ArtistsPage /> },
       { path: '/artistas/:slug', element: <ArtistPage /> },
+      { path: '/lancamentos', element: <ReleasesPage /> },
       { path: '/lancamentos/:slug', element: <ReleasePage /> },
+      { path: '/buscar', element: <SearchPage /> },
       { path: '/generos', element: <GenresPage /> },
       { path: '/generos/:slug', element: <GenrePage /> },
       { path: '/guia', element: <StyleguidePage /> },

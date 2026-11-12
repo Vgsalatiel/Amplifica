@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest'
 import type { GenreNode } from '../../../types/api'
-import { flattenGenres, idsWithDescendants } from './genre-options'
+import { flattenGenres, flattenGenreSlugs, idsWithDescendants } from './genre-options'
 
 function node(id: string, children: GenreNode[] = []): GenreNode {
   return { id, name: id.toUpperCase(), slug: id, description: null, parentId: null, children }
@@ -28,5 +28,15 @@ describe('idsWithDescendants', () => {
 
   it('devolve vazio para um id que não existe', () => {
     expect(idsWithDescendants(tree, 'nada').size).toBe(0)
+  })
+})
+
+describe('flattenGenreSlugs', () => {
+  it('achata a árvore com o endereço e a profundidade de cada gênero', () => {
+    expect(flattenGenreSlugs([node('metal', [node('metalcore')]), node('emo')])).toEqual([
+      { slug: 'metal', name: 'METAL', depth: 0 },
+      { slug: 'metalcore', name: 'METALCORE', depth: 1 },
+      { slug: 'emo', name: 'EMO', depth: 0 },
+    ])
   })
 })

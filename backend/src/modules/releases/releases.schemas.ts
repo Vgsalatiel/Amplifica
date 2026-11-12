@@ -128,10 +128,20 @@ export const updateReleaseSchema = releaseFields
   .partial()
   .superRefine(checkRelease);
 
+export const RELEASE_SORTS = ['recent', 'rating', 'title'] as const;
+
 export const listReleasesSchema = paginationSchema.extend({
   type: z.enum(RELEASE_TYPES).optional(),
   /** Slug de um artista. */
   artist: z.string().trim().min(1).max(80).optional(),
+  /** Slug de um gênero. Inclui os lançamentos de artistas dos subgêneros. */
+  genre: z.string().trim().min(1).max(80).optional(),
+  /** Ano de lançamento. */
+  year: z.coerce.number().int().min(1900).max(2100).optional(),
+  /** Palavras do título ou do nome do artista, sem acento e sem diferença de maiúsculas. */
+  q: z.string().trim().min(1).max(80).optional(),
+  /** `recent` (padrão), `rating` (melhor nota primeiro; sem nota por último) ou `title`. */
+  sort: z.enum(RELEASE_SORTS).default('recent'),
 });
 
 export type CreateReleaseDto = z.infer<typeof createReleaseSchema>;

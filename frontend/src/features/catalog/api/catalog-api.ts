@@ -98,11 +98,19 @@ export interface ReleaseInput {
   tracks: Array<{ title: string; discNumber: number; position: number; durationMs: number | null }>
 }
 
+export type ReleaseSort = 'recent' | 'rating' | 'title'
+
 export interface ReleaseListParams {
   page?: number
   limit?: number
   type?: ReleaseType
   artist?: string
+  /** Slug de um gênero; inclui os subgêneros. */
+  genre?: string
+  year?: number
+  /** Palavras do título ou do nome do artista. */
+  q?: string
+  sort?: ReleaseSort
 }
 
 export const listReleases = (params: ReleaseListParams) =>

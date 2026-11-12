@@ -22,6 +22,7 @@ export function releaseSummary(overrides: Partial<ReleaseSummary> = {}): Release
     datePrecision: 'DAY',
     cover,
     accentColor: null,
+    rating: { average: null, count: 0 },
     artists: [{ id: 'a1', name: 'Bring Me the Horizon', slug: 'bring-me-the-horizon', role: 'PRIMARY' }],
     ...overrides,
   }
@@ -30,7 +31,6 @@ export function releaseSummary(overrides: Partial<ReleaseSummary> = {}): Release
 export function releaseDetail(overrides: Partial<ReleaseDetail> = {}): ReleaseDetail {
   return {
     ...releaseSummary(),
-    rating: { average: null, count: 0 },
     description: null,
     youtubeVideoId: null,
     durationMs: 3_480_000,

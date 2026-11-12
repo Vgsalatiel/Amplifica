@@ -13,6 +13,7 @@ import {
 import { isUniqueViolation } from '../../common/prisma-errors.js';
 import { PrismaService } from '../../prisma/prisma.service.js';
 import { releaseSummaryInclude } from '../catalog/catalog.mappers.js';
+import { loadRatings, ratingOf } from '../catalog/ratings.js';
 import { ImagesService } from '../images/images.service.js';
 import type { AuthUser } from '../users/user.types.js';
 import { isReleased } from './release-status.js';
@@ -102,8 +103,18 @@ export class ReviewsService {
       this.prisma.review.count({ where }),
     ]);
 
+    const ratings = await loadRatings(
+      this.prisma,
+      reviews.map((review) => review.releaseId),
+    );
     return paginate(
-      reviews.map((review) => toUserReviewResponse(review, this.toImageSet)),
+      reviews.map((review) =>
+        toUserReviewResponse(
+          review,
+          this.toImageSet,
+          ratingOf(ratings, review.releaseId),
+        ),
+      ),
       total,
       query,
     );

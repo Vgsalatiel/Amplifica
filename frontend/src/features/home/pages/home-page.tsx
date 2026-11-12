@@ -4,6 +4,7 @@ import { Container } from '../../../components/layout/container'
 import { ButtonLink } from '../../../components/ui/button-link'
 import { GenreTag } from '../../../components/ui/genre-tag'
 import { SectionHeading } from '../../../components/ui/section-heading'
+import { TextLink } from '../../../components/ui/text-link'
 import { useSession } from '../../auth/hooks/use-session'
 import { useGenreTree, useReleaseList } from '../../catalog/hooks/use-catalog'
 
@@ -42,6 +43,9 @@ export function HomePage() {
               </li>
             ))}
           </ul>
+          <p className="mt-8">
+            <TextLink to="/lancamentos">Ver todos os lançamentos</TextLink>
+          </p>
         </section>
       )}
 

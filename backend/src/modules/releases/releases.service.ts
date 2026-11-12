@@ -14,6 +14,7 @@ import {
   isForeignKeyViolation,
   isUniqueViolation,
 } from '../../common/prisma-errors.js';
+import { releaseIdsMatching } from '../../common/search.js';
 import { slugify, uniqueSlug } from '../../common/slug.js';
 import type { Prisma } from '../../generated/prisma/client.js';
 import { PrismaService } from '../../prisma/prisma.service.js';
@@ -25,6 +26,8 @@ import {
   type ReleaseSummary,
 } from '../catalog/catalog.mappers.js';
 import { toRatingSummary } from '../catalog/rating.js';
+import { loadRatings, ratingOf } from '../catalog/ratings.js';
+import { GenresService } from '../genres/genres.service.js';
 import { ImagesService } from '../images/images.service.js';
 import { parseReleaseDate } from './release-date.js';
 import type {
@@ -47,34 +50,133 @@ export class ReleasesService {
   constructor(
     private readonly prisma: PrismaService,
     private readonly images: ImagesService,
+    private readonly genres: GenresService,
   ) {
     this.toImageSet = (path) => this.images.toSet(path);
   }
 
-  /** Lançamentos do mais recente para o mais antigo. */
+  /**
+   * Lançamentos com filtros (tipo, artista, gênero, ano, busca por texto) e três ordenações:
+   * mais recentes (padrão), melhor nota e título.
+   */
   async list(query: ListReleasesQuery): Promise<Paginated<ReleaseSummary>> {
-    const where: Prisma.ReleaseWhereInput = {};
-    if (query.type) {
-      where.type = query.type;
+    const where = await this.listFilter(query);
+
+    if (query.sort === 'rating') {
+      return this.listByRating(where, query);
     }
-    if (query.artist) {
-      where.artists = { some: { artist: { slug: query.artist } } };
-    }
+
+    const orderBy: Prisma.ReleaseOrderByWithRelationInput[] =
+      query.sort === 'title'
+        ? [{ title: 'asc' }, { id: 'asc' }]
+        : [{ releaseDate: 'desc' }, { id: 'desc' }];
 
     const [releases, total] = await Promise.all([
       this.prisma.release.findMany({
         where,
         include: releaseSummaryInclude,
-        orderBy: [{ releaseDate: 'desc' }, { id: 'desc' }],
+        orderBy,
         ...toSkipTake(query),
       }),
       this.prisma.release.count({ where }),
     ]);
 
+    return paginate(await this.toSummaries(releases), total, query);
+  }
+
+  private async listFilter(
+    query: ListReleasesQuery,
+  ): Promise<Prisma.ReleaseWhereInput> {
+    const and: Prisma.ReleaseWhereInput[] = [];
+    if (query.type) {
+      and.push({ type: query.type });
+    }
+    if (query.artist) {
+      and.push({ artists: { some: { artist: { slug: query.artist } } } });
+    }
+    if (query.genre) {
+      // Um gênero inexistente resulta em lista vazia, não em erro.
+      const genreIds = await this.genres.idsWithDescendants(query.genre);
+      and.push({
+        artists: {
+          some: { artist: { genres: { some: { genreId: { in: genreIds } } } } },
+        },
+      });
+    }
+    if (query.year) {
+      and.push({
+        releaseDate: {
+          gte: new Date(Date.UTC(query.year, 0, 1)),
+          lte: new Date(Date.UTC(query.year, 11, 31)),
+        },
+      });
+    }
+    if (query.q) {
+      and.push({ id: { in: await releaseIdsMatching(this.prisma, query.q) } });
+    }
+    return and.length > 0 ? { AND: and } : {};
+  }
+
+  /**
+   * Ordem por nota: a média vem de outra tabela, e o Prisma não ordena por ela. O catálogo é
+   * pequeno, então busca os ids que passam nos filtros, ordena por média (sem nota por último;
+   * empate pela quantidade de notas e depois pelo mais recente) e só carrega a página pedida.
+   */
+  private async listByRating(
+    where: Prisma.ReleaseWhereInput,
+    query: ListReleasesQuery,
+  ): Promise<Paginated<ReleaseSummary>> {
+    const candidates = await this.prisma.release.findMany({
+      where,
+      select: { id: true, releaseDate: true },
+    });
+    const ratings = await loadRatings(
+      this.prisma,
+      candidates.map((release) => release.id),
+    );
+
+    const ranked = candidates.sort((a, b) => {
+      const ra = ratingOf(ratings, a.id);
+      const rb = ratingOf(ratings, b.id);
+      return (
+        (rb.average ?? -1) - (ra.average ?? -1) ||
+        rb.count - ra.count ||
+        b.releaseDate.getTime() - a.releaseDate.getTime() ||
+        b.id.localeCompare(a.id)
+      );
+    });
+
+    const { skip, take } = toSkipTake(query);
+    const pageIds = ranked.slice(skip, skip + take).map((release) => release.id);
+    const releases = await this.prisma.release.findMany({
+      where: { id: { in: pageIds } },
+      include: releaseSummaryInclude,
+    });
+    const byId = new Map(releases.map((release) => [release.id, release]));
+    const ordered = pageIds.map((id) => byId.get(id)!);
+
     return paginate(
-      releases.map((release) => toReleaseSummary(release, this.toImageSet)),
-      total,
+      ordered.map((release) =>
+        toReleaseSummary(
+          release,
+          this.toImageSet,
+          ratingOf(ratings, release.id),
+        ),
+      ),
+      ranked.length,
       query,
+    );
+  }
+
+  private async toSummaries(
+    releases: Parameters<typeof toReleaseSummary>[0][],
+  ): Promise<ReleaseSummary[]> {
+    const ratings = await loadRatings(
+      this.prisma,
+      releases.map((release) => release.id),
+    );
+    return releases.map((release) =>
+      toReleaseSummary(release, this.toImageSet, ratingOf(ratings, release.id)),
     );
   }
 

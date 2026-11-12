@@ -4,7 +4,7 @@
 
 Plataforma de descoberta musical e comunidade voltada ao rock e suas vertentes: discografias organizadas, gêneros como mapa de navegação, notas e resenhas com assinatura.
 
-> Projeto em desenvolvimento. Estado atual: **etapa 5 (avaliações)** concluída — nota de 1 a 10 e resenha por pessoa e por disco, com média no disco e as avaliações de cada pessoa no perfil. Gêneros, artistas e discos já abrem a qualquer visitante, com o Bring Me The Horizon como primeiro artista. Guia visual em [`/guia`](https://amplificacore.netlify.app/guia).
+> Projeto em desenvolvimento. Estado atual: **etapa 6 (descoberta)** concluída — busca sem acento por artistas e discos, lista de lançamentos com filtros (gênero, tipo, ano) e ordem por nota, e a nota de cada disco nas listas. Antes, a etapa 5: nota de 1 a 10 e resenha por pessoa e por disco. Gêneros, artistas e discos já abrem a qualquer visitante, com o Bring Me The Horizon como primeiro artista. Guia visual em [`/guia`](https://amplificacore.netlify.app/guia).
 
 ## Stack
 
@@ -59,6 +59,8 @@ Abra o endereço que o Vite mostrar. Se a API estiver em outra porta que não a 
 | `/` | Lançamentos recentes e os gêneros principais |
 | `/artistas` | Lista com filtro por gênero e busca pelo nome |
 | `/artistas/:slug` | História, gêneros e discografia agrupada por tipo |
+| `/lancamentos` | Todos os discos, com busca, gênero, tipo, ano e ordem (nota, mais recentes, título); os filtros ficam na URL |
+| `/buscar?q=` | Resultado da caixa de busca do cabeçalho: artistas e lançamentos, cada um paginado |
 | `/lancamentos/:slug` | Capa, média das notas, faixas, vídeo, resenhas e o formulário de avaliação (para quem tem conta); a cor da capa vale para a página toda |
 | `/generos`, `/generos/:slug` | A árvore de gêneros; um gênero com os artistas dele e dos subgêneros |
 
@@ -127,9 +129,9 @@ Todas as rotas ficam sob `/api/v1`. Erros seguem um formato único: `{ statusCod
 | `DELETE /reviews/:id` | Autor ou ADMIN | Apaga uma avaliação (moderação) |
 | `GET /users/:username/reviews` | Pública | Todas as avaliações de uma pessoa, com o disco de cada uma |
 | `GET /genres`, `GET /genres/:slug` | Pública | Árvore de gêneros; um gênero com pai e filhos |
-| `GET /artists` | Pública | Lista paginada. Filtros: `genre` (inclui subgêneros), `q` (nome) |
+| `GET /artists` | Pública | Lista paginada. Filtros: `genre` (inclui subgêneros), `q` (nome, sem acento; cada palavra precisa aparecer) |
 | `GET /artists/:slug` | Pública | Artista com discografia, do lançamento mais recente ao mais antigo |
-| `GET /releases` | Pública | Lista paginada. Filtros: `type`, `artist` |
+| `GET /releases` | Pública | Lista paginada, com `rating` (média e contagem) em cada item. Filtros: `type`, `artist`, `genre` (inclui subgêneros), `year`, `q` (título ou artista, sem acento). Ordem: `sort=recent` (padrão), `rating` (sem nota por último) ou `title` |
 | `GET /releases/:slug` | Pública | Lançamento com faixas, cor de destaque e vídeo |
 | `POST`, `PATCH`, `DELETE` em `/genres`, `/artists`, `/releases` | ADMIN | Cadastro e edição do catálogo |
 | `PUT`, `DELETE` em `/artists/:id/image` e `/releases/:id/cover` | ADMIN | Foto do artista e capa do lançamento |
