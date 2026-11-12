@@ -31,6 +31,14 @@ describe('SiteHeader', () => {
     expect(screen.getAllByRole('navigation')).toHaveLength(1)
   })
 
+  it('leva às páginas públicas do catálogo, sem exigir conta', () => {
+    endSession()
+    renderHeader()
+
+    expect(screen.getByRole('link', { name: 'Artistas' })).toHaveAttribute('href', '/artistas')
+    expect(screen.getByRole('link', { name: 'Gêneros' })).toHaveAttribute('href', '/generos')
+  })
+
   it('marca a página atual na navegação', () => {
     renderHeader()
 

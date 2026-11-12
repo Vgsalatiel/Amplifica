@@ -8,15 +8,20 @@ const EMAIL = 'Qual é o seu e-mail?'
 const USERNAME = 'Como você quer ser chamado?'
 const PASSWORD = 'Agora, crie uma senha.'
 
-function renderRegister() {
+function renderRegister(from?: string) {
   endSession()
-  return renderRoutes(
+  const view = renderRoutes(
     [
       { path: '/cadastro', element: <RegisterPage /> },
       { path: '/u/:username', element: <p>Perfil criado</p> },
+      { path: '/lancamentos/:slug', element: <p>Voltou ao disco</p> },
     ],
     '/cadastro',
   )
+  if (from) {
+    void view.router.navigate('/cadastro', { state: { from } })
+  }
+  return view
 }
 
 /** Preenche o campo do passo atual e avança. */
@@ -45,6 +50,28 @@ describe('RegisterPage', () => {
       username: 'marina.fz',
       password: 'senha-segura',
     })
+  })
+
+  it('depois de criar a conta a partir de um disco, volta para ele', async () => {
+    mockApi({ 'POST /auth/register': { status: 201, body: sessionFor() } })
+    renderRegister('/lancamentos/sempiternal')
+
+    answer(EMAIL, 'marina@exemplo.com')
+    answer(USERNAME, 'marina.fz')
+    answer(PASSWORD, 'senha-segura', 'Criar conta')
+
+    expect(await screen.findByText('Voltou ao disco')).toBeInTheDocument()
+  })
+
+  it('ignora um destino que não seja uma página do próprio site', async () => {
+    mockApi({ 'POST /auth/register': { status: 201, body: sessionFor() } })
+    renderRegister('//site-malicioso.com')
+
+    answer(EMAIL, 'marina@exemplo.com')
+    answer(USERNAME, 'marina.fz')
+    answer(PASSWORD, 'senha-segura', 'Criar conta')
+
+    expect(await screen.findByText('Perfil criado')).toBeInTheDocument()
   })
 
   it('não avança com resposta inválida e explica o motivo no campo', () => {

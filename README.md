@@ -4,7 +4,7 @@
 
 Plataforma de descoberta musical e comunidade voltada ao rock e suas vertentes: discografias organizadas, gêneros como mapa de navegação, notas e resenhas com assinatura.
 
-> Projeto em desenvolvimento. Estado atual: **etapa 3 (catálogo)** concluída — API e área administrativa em `/admin`: gêneros, artistas, lançamentos com faixas, imagens e cor da capa. As páginas públicas do catálogo vêm a seguir. Guia visual em [`/guia`](https://amplificacore.netlify.app/guia).
+> Projeto em desenvolvimento. Estado atual: **etapa 4 (páginas públicas do catálogo)** concluída — gêneros, artistas e discos abertos a qualquer visitante, com o Bring Me The Horizon como primeiro artista. Avaliar exige conta, e as avaliações são a próxima etapa. Guia visual em [`/guia`](https://amplificacore.netlify.app/guia).
 
 ## Stack
 
@@ -52,6 +52,32 @@ npm run dev
 
 Abra o endereço que o Vite mostrar. Se a API estiver em outra porta que não a 3000, use `API_PROXY_TARGET=http://localhost:3100 npm run dev`. A página `/guia` reúne os componentes e mostra se a API e o banco estão no ar.
 
+## Páginas públicas
+
+| Rota | O que mostra |
+| --- | --- |
+| `/` | Lançamentos recentes e os gêneros principais |
+| `/artistas` | Lista com filtro por gênero e busca pelo nome |
+| `/artistas/:slug` | História, gêneros e discografia agrupada por tipo |
+| `/lancamentos/:slug` | Capa, faixas, vídeo e a cor da capa aplicada à página |
+| `/generos`, `/generos/:slug` | A árvore de gêneros; um gênero com os artistas dele e dos subgêneros |
+
+Tudo isso abre sem conta. Quem quer avaliar cria uma, e o cadastro iniciado a partir de um disco volta a ele.
+
+## Dados do catálogo
+
+Os discos entram por um arquivo de dados que você revisa antes de ir para o banco:
+
+```bash
+cd backend
+# 1. Busca a discografia no MusicBrainz e escreve um arquivo para revisão
+npm run catalog:fetch -- --mbid <id do artista no MusicBrainz> --genres deathcore,metalcore
+# 2. Depois de revisar o arquivo, grava no banco, com as capas
+npm run catalog:seed -- prisma/data/<artista>.json --covers
+```
+
+O arquivo do Bring Me The Horizon já está em `backend/prisma/data/`, com os lançamentos que uma segunda fonte não confirmou em `pending`. A carga pode ser repetida sem duplicar nada e, por padrão, não sobrescreve o que o admin editou (use `--update` para o arquivo mandar). O MusicBrainz pede que quem consulta se identifique: defina `MUSICBRAINZ_USER_AGENT` no formato `Nome/versão ( contato )`. Detalhes em [`docs/adr/0006-paginas-publicas-e-carga-de-dados.md`](docs/adr/0006-paginas-publicas-e-carga-de-dados.md).
+
 ## Administração
 
 O catálogo é cadastrado pelo administrador em `/admin` (o link aparece no cabeçalho só para quem tem o papel ADMIN). Não existe rota que promova contas; o primeiro administrador é criado fora da interface:
@@ -77,6 +103,7 @@ Os mesmos nos dois projetos, salvo indicação:
 | `npm run test:e2e` | Testes da API contra o banco do `.env` (só no backend). Criam e apagam apenas contas `@e2e.amplifica.test` |
 | `npm run build` | Build de produção |
 | `npm run prisma:migrate` | Cria e aplica migrations em desenvolvimento (só no backend) |
+| `npm run catalog:fetch`, `npm run catalog:seed` | Busca e carrega a discografia de um artista a partir de um arquivo revisável (só no backend) |
 | `npm run seed:genres` | Cria a árvore inicial de gêneros; pode rodar de novo sem duplicar (só no backend) |
 | `npm run seed:admin` | Cria o primeiro administrador a partir de `ADMIN_EMAIL`, `ADMIN_USERNAME` e `ADMIN_PASSWORD` (só no backend) |
 

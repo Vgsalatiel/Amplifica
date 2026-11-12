@@ -10,6 +10,7 @@ import { register, type RegisterInput } from '../api/auth-api'
 import { FormAlert } from '../components/form-alert'
 import { PromptField } from '../components/prompt-field'
 import { StepProgress } from '../components/step-progress'
+import { useRedirectFrom } from '../hooks/use-redirect-after-auth'
 import { useSession } from '../hooks/use-session'
 import { validateRegister } from '../validation'
 
@@ -29,6 +30,7 @@ const STEPS: Array<{ field: StepField; name: string; backLabel: string }> = [
 export function RegisterPage() {
   const session = useSession()
   const navigate = useNavigate()
+  const from = useRedirectFrom()
   const [form, setForm] = useState<RegisterInput>({ email: '', username: '', password: '' })
   const [stepIndex, setStepIndex] = useState(0)
   const [stepError, setStepError] = useState<string | null>(null)
@@ -36,8 +38,9 @@ export function RegisterPage() {
 
   const mutation = useMutation({
     mutationFn: register,
-    // Depois de criar a conta, a pessoa cai no próprio perfil.
-    onSuccess: (user) => void navigate(`/u/${user.username}`, { replace: true }),
+    // Depois de criar a conta, a pessoa volta à página de onde veio (um disco, por exemplo);
+    // se veio direto do cadastro, cai no próprio perfil.
+    onSuccess: (user) => void navigate(from ?? `/u/${user.username}`, { replace: true }),
     onError: (error) => {
       const serverErrors = fieldErrorsFrom(error)
       const rejected = STEPS.findIndex((step) => serverErrors[step.field])
@@ -51,7 +54,7 @@ export function RegisterPage() {
   // Quem já chegou logado não precisa ver esta tela. Durante o envio do formulário a
   // sessão também passa a existir, mas aí quem decide o destino é o onSuccess acima.
   if (session.status === 'authenticated' && mutation.isIdle) {
-    return <Navigate to="/" replace />
+    return <Navigate to={from ?? '/'} replace />
   }
 
   const step = STEPS[stepIndex]

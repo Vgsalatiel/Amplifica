@@ -7,20 +7,10 @@ import type {
   ReleaseDetail,
   ReleaseType,
 } from '../../../types/api'
-import { formatDuration, parseDuration } from './duration'
+import { formatDuration, parseDuration } from '../../../lib/duration'
 
-export const RELEASE_TYPE_LABELS: Record<ReleaseType, string> = {
-  ALBUM: 'Álbum',
-  EP: 'EP',
-  SINGLE: 'Single',
-  LIVE: 'Ao vivo',
-  COMPILATION: 'Coletânea',
-}
-
-export const ARTIST_TYPE_LABELS: Record<ArtistType, string> = {
-  BAND: 'Banda',
-  SOLO: 'Artista solo',
-}
+// Os rótulos são compartilhados com as páginas públicas.
+export { ARTIST_TYPE_LABELS, RELEASE_TYPE_LABELS } from '../../../lib/labels'
 
 export type Built<T> = { payload: T } | { errors: FieldErrors }
 

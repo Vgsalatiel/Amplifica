@@ -3,6 +3,7 @@ import type {
   ArtistDetail,
   ArtistSummary,
   ArtistType,
+  GenreDetail,
   GenreItem,
   GenreNode,
   Paginated,
@@ -41,6 +42,7 @@ export interface GenreInput {
 }
 
 export const getGenreTree = () => apiFetch<GenreNode[]>('/genres')
+export const getGenre = (slug: string) => apiFetch<GenreDetail>(`/genres/${encodeURIComponent(slug)}`)
 export const createGenre = (input: GenreInput) => apiFetch<GenreItem>('/genres', { method: 'POST', json: input })
 export const updateGenre = (id: string, input: GenreInput) =>
   apiFetch<GenreItem>(`/genres/${id}`, { method: 'PATCH', json: input })

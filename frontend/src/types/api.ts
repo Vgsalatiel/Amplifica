@@ -91,8 +91,14 @@ export interface ReleaseSummary {
   artists: Array<{ id: string; name: string; slug: string; role: ReleaseArtistRole }>
 }
 
+export interface Source {
+  name: string
+  url: string
+}
+
 export interface ArtistDetail extends ArtistSummary {
   bio: string | null
+  sources: Source[]
   city: string | null
   formedYear: number | null
   disbandedYear: number | null
@@ -112,4 +118,11 @@ export interface ReleaseDetail extends ReleaseSummary {
   youtubeVideoId: string | null
   tracks: Track[]
   durationMs: number | null
+}
+
+/** Um gênero com o pai, os subgêneros e quantos artistas estão ligados a ele. */
+export interface GenreDetail extends GenreItem {
+  parent: GenreRef | null
+  children: GenreRef[]
+  artistCount: number
 }

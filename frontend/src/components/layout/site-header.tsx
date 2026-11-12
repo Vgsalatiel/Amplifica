@@ -8,9 +8,10 @@ import { buttonClasses } from '../ui/button-styles'
 import { Logo } from '../ui/logo'
 import { Container } from './container'
 
-// As seções públicas do catálogo (artistas, lançamentos, gêneros) entram aqui na etapa 4.
 const BASE_NAV_ITEMS = [
   { to: '/', label: 'Início' },
+  { to: '/artistas', label: 'Artistas' },
+  { to: '/generos', label: 'Gêneros' },
   { to: '/guia', label: 'Guia visual' },
 ]
 
@@ -40,7 +41,7 @@ export function SiteHeader() {
 
         <nav aria-label="Principal" className="hidden gap-8 md:flex">
           {NAV_ITEMS.map((item) => (
-            <NavLink key={item.to} to={item.to} end={item.to !== '/admin'} className={navLinkClass}>
+            <NavLink key={item.to} to={item.to} end={item.to === '/'} className={navLinkClass}>
               {item.label}
             </NavLink>
           ))}
@@ -80,7 +81,7 @@ export function SiteHeader() {
               <NavLink
                 key={item.to}
                 to={item.to}
-                end={item.to !== '/admin'}
+                end={item.to === '/'}
                 className={navLinkClass}
                 onClick={closeMenu}
               >

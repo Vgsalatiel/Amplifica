@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { formatDuration, parseDuration } from './duration'
+import { formatDuration, formatTotalDuration, parseDuration } from './duration'
 
 describe('parseDuration', () => {
   it.each([
@@ -36,5 +36,14 @@ describe('formatDuration', () => {
       const parsed = parseDuration(text)
       expect(parsed.ok && parsed.ms !== null && formatDuration(parsed.ms)).toBe(text)
     }
+  })
+})
+
+describe('formatTotalDuration', () => {
+  it('mostra minutos, e horas quando passa de uma', () => {
+    expect(formatTotalDuration(3_480_000)).toBe('58 min')
+    expect(formatTotalDuration(8_940_000)).toBe('2 h 29 min')
+    expect(formatTotalDuration(7_200_000)).toBe('2 h')
+    expect(formatTotalDuration(10_000)).toBe('1 min')
   })
 })

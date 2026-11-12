@@ -14,14 +14,24 @@ import { HomePage } from '../features/home/pages/home-page'
 import { NotFoundPage } from '../features/home/pages/not-found-page'
 import { AccountPage } from '../features/profile/pages/account-page'
 import { ProfilePage } from '../features/profile/pages/profile-page'
+import { ArtistPage } from '../features/catalog/pages/artist-page'
+import { ArtistsPage } from '../features/catalog/pages/artists-page'
+import { GenrePage } from '../features/catalog/pages/genre-page'
+import { GenresPage } from '../features/catalog/pages/genres-page'
+import { ReleasePage } from '../features/catalog/pages/release-page'
 import { StyleguidePage } from '../features/styleguide/pages/styleguide-page'
 
-// As páginas públicas do catálogo (artista, álbum, busca) entram na etapa 4.
+// Busca por texto e avaliações entram nas próximas etapas.
 export const router = createBrowserRouter([
   {
     element: <AppLayout />,
     children: [
       { path: '/', element: <HomePage /> },
+      { path: '/artistas', element: <ArtistsPage /> },
+      { path: '/artistas/:slug', element: <ArtistPage /> },
+      { path: '/lancamentos/:slug', element: <ReleasePage /> },
+      { path: '/generos', element: <GenresPage /> },
+      { path: '/generos/:slug', element: <GenrePage /> },
       { path: '/guia', element: <StyleguidePage /> },
       { path: '/entrar', element: <LoginPage /> },
       { path: '/cadastro', element: <RegisterPage /> },

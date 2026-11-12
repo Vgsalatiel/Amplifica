@@ -61,7 +61,7 @@ export function ProfilePage() {
             <img src={user.avatar.large} alt={`Foto de ${user.displayName}`} className="size-28 object-cover md:size-36" />
           )}
           <div>
-          <h1 className="font-display text-6xl leading-[0.96] font-normal tracking-tight break-words md:text-7xl">
+          <h1 className="font-display text-6xl leading-[1.06] font-normal tracking-tight break-words md:text-7xl">
             {user.displayName}
           </h1>
           <p className="mt-3 text-muted">

@@ -2,6 +2,7 @@ import { useQuery, useQueryClient } from '@tanstack/react-query'
 import { ApiError } from '../../../lib/http'
 import {
   getArtist,
+  getGenre,
   getGenreTree,
   getRelease,
   listArtists,
@@ -15,6 +16,9 @@ const retryUnlessNotFound = (count: number, error: unknown) =>
   !(error instanceof ApiError && error.status === 404) && count < 1
 
 export const useGenreTree = () => useQuery({ queryKey: ['genres'], queryFn: getGenreTree })
+
+export const useGenre = (slug: string) =>
+  useQuery({ queryKey: ['genre', slug], queryFn: () => getGenre(slug), retry: retryUnlessNotFound })
 
 export const useArtistList = (params: ArtistListParams) =>
   useQuery({ queryKey: ['artists', params], queryFn: () => listArtists(params), placeholderData: (previous) => previous })
@@ -37,7 +41,7 @@ export function useInvalidateCatalog() {
   const queryClient = useQueryClient()
   return () =>
     Promise.all(
-      ['genres', 'artists', 'artist', 'releases', 'release'].map((key) =>
+      ['genres', 'genre', 'artists', 'artist', 'releases', 'release'].map((key) =>
         queryClient.invalidateQueries({ queryKey: [key] }),
       ),
     )

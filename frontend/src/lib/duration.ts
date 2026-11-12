@@ -31,3 +31,14 @@ export function formatDuration(ms: number): string {
   const seconds = String(total % 60).padStart(2, '0')
   return hours > 0 ? `${hours}:${String(minutes).padStart(2, '0')}:${seconds}` : `${minutes}:${seconds}`
 }
+
+/** Duração total de um disco, para o cabeçalho da página: "58 min" ou "2 h 29 min". */
+export function formatTotalDuration(ms: number): string {
+  const totalMinutes = Math.max(1, Math.round(ms / 60_000))
+  const hours = Math.floor(totalMinutes / 60)
+  const minutes = totalMinutes % 60
+  if (hours === 0) {
+    return `${minutes} min`
+  }
+  return minutes === 0 ? `${hours} h` : `${hours} h ${minutes} min`
+}
