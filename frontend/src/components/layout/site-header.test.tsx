@@ -1,14 +1,11 @@
-import { fireEvent, render, screen } from '@testing-library/react'
-import { MemoryRouter } from 'react-router'
+import { fireEvent, screen } from '@testing-library/react'
 import { describe, expect, it } from 'vitest'
+import { endSession, sessionStore, startSession } from '../../lib/session'
+import { mockApi, renderWithProviders, sessionFor } from '../../test/helpers'
 import { SiteHeader } from './site-header'
 
 function renderHeader() {
-  return render(
-    <MemoryRouter initialEntries={['/guia']}>
-      <SiteHeader />
-    </MemoryRouter>,
-  )
+  return renderWithProviders(<SiteHeader />, '/guia')
 }
 
 describe('SiteHeader', () => {
@@ -20,10 +17,7 @@ describe('SiteHeader', () => {
 
     fireEvent.click(toggle)
 
-    expect(screen.getByRole('button', { name: 'Fechar menu' })).toHaveAttribute(
-      'aria-expanded',
-      'true',
-    )
+    expect(screen.getByRole('button', { name: 'Fechar menu' })).toHaveAttribute('aria-expanded', 'true')
     expect(screen.getAllByRole('navigation')).toHaveLength(2)
   })
 
@@ -42,5 +36,34 @@ describe('SiteHeader', () => {
 
     expect(screen.getByRole('link', { name: 'Guia visual' })).toHaveAttribute('aria-current', 'page')
     expect(screen.getByRole('link', { name: 'Início' })).not.toHaveAttribute('aria-current')
+  })
+
+  it('não mostra links de conta enquanto a sessão é verificada', () => {
+    renderHeader()
+
+    expect(screen.queryByRole('link', { name: 'Entrar' })).not.toBeInTheDocument()
+    expect(screen.queryByRole('button', { name: 'Sair' })).not.toBeInTheDocument()
+  })
+
+  it('oferece entrar e criar conta ao visitante', () => {
+    endSession()
+    renderHeader()
+
+    expect(screen.getByRole('link', { name: 'Entrar' })).toHaveAttribute('href', '/entrar')
+    expect(screen.getByRole('link', { name: 'Criar conta' })).toHaveAttribute('href', '/cadastro')
+  })
+
+  it('mostra o perfil de quem está logado e encerra a sessão ao sair', async () => {
+    startSession(sessionFor())
+    const fetchMock = mockApi({ 'POST /auth/logout': { status: 204 } })
+    renderHeader()
+
+    expect(screen.getByRole('link', { name: 'Marina F.' })).toHaveAttribute('href', '/u/marina.fz')
+
+    fireEvent.click(screen.getByRole('button', { name: 'Sair' }))
+
+    expect(await screen.findByRole('link', { name: 'Entrar' })).toBeInTheDocument()
+    expect(fetchMock).toHaveBeenCalledTimes(1)
+    expect(sessionStore.getState()).toEqual({ status: 'anonymous' })
   })
 })

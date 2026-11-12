@@ -1,6 +1,10 @@
+import { useQueryClient } from '@tanstack/react-query'
 import { useState } from 'react'
-import { Link, NavLink } from 'react-router'
+import { Link, NavLink, useNavigate } from 'react-router'
+import { logout } from '../../features/auth/api/auth-api'
+import { useSession } from '../../features/auth/hooks/use-session'
 import { cn } from '../../lib/cn'
+import { buttonClasses } from '../ui/button-styles'
 import { Logo } from '../ui/logo'
 import { Container } from './container'
 
@@ -10,15 +14,16 @@ const NAV_ITEMS = [
   { to: '/guia', label: 'Guia visual' },
 ]
 
+const linkBase =
+  'inline-flex min-h-11 items-center text-[15px] font-medium underline-offset-8 transition-colors hover:text-accent'
+
 function navLinkClass({ isActive }: { isActive: boolean }): string {
-  return cn(
-    'inline-flex min-h-11 items-center text-[15px] font-medium underline-offset-8 transition-colors hover:text-accent',
-    isActive && 'underline decoration-accent decoration-2',
-  )
+  return cn(linkBase, isActive && 'underline decoration-accent decoration-2')
 }
 
 export function SiteHeader() {
   const [menuOpen, setMenuOpen] = useState(false)
+  const closeMenu = () => setMenuOpen(false)
 
   return (
     <header>
@@ -34,6 +39,10 @@ export function SiteHeader() {
             </NavLink>
           ))}
         </nav>
+
+        <div className="ml-auto hidden items-center gap-6 md:flex">
+          <AccountLinks onNavigate={closeMenu} />
+        </div>
 
         <button
           type="button"
@@ -60,21 +69,62 @@ export function SiteHeader() {
 
       {menuOpen && (
         <nav id="menu-celular" aria-label="Principal" className="border-y border-rule md:hidden">
-          <Container className="flex flex-col py-2">
+          <Container className="flex flex-col items-start py-2">
             {NAV_ITEMS.map((item) => (
-              <NavLink
-                key={item.to}
-                to={item.to}
-                end
-                className={navLinkClass}
-                onClick={() => setMenuOpen(false)}
-              >
+              <NavLink key={item.to} to={item.to} end className={navLinkClass} onClick={closeMenu}>
                 {item.label}
               </NavLink>
             ))}
+            <div className="mt-2 flex w-full flex-col items-start gap-1 border-t border-rule pt-2 pb-2">
+              <AccountLinks onNavigate={closeMenu} />
+            </div>
           </Container>
         </nav>
       )}
     </header>
+  )
+}
+
+/** "Entrar" e "Criar conta" para visitantes; perfil e "Sair" para quem está logado. */
+function AccountLinks({ onNavigate }: { onNavigate: () => void }) {
+  const session = useSession()
+  const navigate = useNavigate()
+  const queryClient = useQueryClient()
+
+  // Enquanto a sessão é verificada, não mostra nada: evita piscar "Entrar" para quem está logado.
+  if (session.status === 'loading') {
+    return null
+  }
+
+  if (session.status === 'anonymous') {
+    return (
+      <>
+        <NavLink to="/entrar" className={navLinkClass} onClick={onNavigate}>
+          Entrar
+        </NavLink>
+        <Link to="/cadastro" className={buttonClasses('primary', 'h-11 px-5')} onClick={onNavigate}>
+          Criar conta
+        </Link>
+      </>
+    )
+  }
+
+  async function handleLogout() {
+    onNavigate()
+    await logout()
+    // Nada do que estava em cache pertence ao próximo visitante deste navegador.
+    queryClient.clear()
+    void navigate('/')
+  }
+
+  return (
+    <>
+      <NavLink to={`/u/${session.user.username}`} className={navLinkClass} onClick={onNavigate}>
+        {session.user.displayName}
+      </NavLink>
+      <button type="button" onClick={() => void handleLogout()} className={cn(linkBase, 'cursor-pointer')}>
+        Sair
+      </button>
+    </>
   )
 }

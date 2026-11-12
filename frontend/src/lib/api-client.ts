@@ -1,33 +1,25 @@
+import { ApiError, httpRequest, type HttpOptions } from './http'
+import { getAccessToken, refreshSession } from './session'
+
+export { ApiError } from './http'
+
 /**
- * Cliente HTTP da aplicação. Toda chamada à API passa por aqui, para que base da URL,
- * tratamento de erro e (a partir da etapa 2) autenticação fiquem em um único lugar.
+ * Cliente da API usado pelas features. Envia o token de acesso quando há sessão e,
+ * se a API responder 401 (token vencido), renova a sessão e repete a chamada uma vez.
+ * Quem chama não precisa saber que o token expirou.
  */
-const BASE_URL = import.meta.env.VITE_API_URL || '/api/v1'
+export async function apiFetch<T>(path: string, options: Omit<HttpOptions, 'token'> = {}): Promise<T> {
+  try {
+    return await httpRequest<T>(path, { ...options, token: getAccessToken() })
+  } catch (error) {
+    if (!(error instanceof ApiError) || error.status !== 401) {
+      throw error
+    }
 
-export class ApiError extends Error {
-  readonly status: number
-  readonly body: unknown
-
-  constructor(status: number, body: unknown) {
-    super(`A API respondeu com status ${status}`)
-    this.name = 'ApiError'
-    this.status = status
-    this.body = body
+    const session = await refreshSession()
+    if (!session) {
+      throw error
+    }
+    return httpRequest<T>(path, { ...options, token: session.accessToken })
   }
-}
-
-export async function apiFetch<T>(path: string, init?: RequestInit): Promise<T> {
-  const response = await fetch(`${BASE_URL}${path}`, {
-    ...init,
-    headers: { Accept: 'application/json', ...init?.headers },
-  })
-
-  // O corpo pode não ser JSON (por exemplo, uma página de erro de um proxy).
-  const body: unknown = await response.json().catch(() => null)
-
-  if (!response.ok) {
-    throw new ApiError(response.status, body)
-  }
-
-  return body as T
 }

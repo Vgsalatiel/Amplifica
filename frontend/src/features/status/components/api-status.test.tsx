@@ -1,6 +1,6 @@
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query'
 import { render, screen } from '@testing-library/react'
-import { afterEach, describe, expect, it, vi } from 'vitest'
+import { describe, expect, it, vi } from 'vitest'
 import { ApiStatus } from './api-status'
 
 function renderPage() {
@@ -21,10 +21,6 @@ function mockFetch(status: number, body: unknown) {
 }
 
 describe('ApiStatus', () => {
-  afterEach(() => {
-    vi.unstubAllGlobals()
-  })
-
   it('mostra que API e banco estão no ar', async () => {
     mockFetch(200, { status: 'ok', database: 'up', timestamp: '2026-11-11T12:00:00.000Z' })
 

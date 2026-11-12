@@ -4,7 +4,7 @@
 
 Plataforma de descoberta musical e comunidade voltada ao rock e suas vertentes: discografias organizadas, gêneros como mapa de navegação, notas e resenhas com assinatura.
 
-> Projeto em desenvolvimento. Estado atual: **etapa 2 (autenticação), parte da API** concluída — cadastro, login, sessão e perfis pela API; as telas vêm a seguir. Guia visual em [`/guia`](https://amplificacore.netlify.app/guia). O catálogo ainda não existe.
+> Projeto em desenvolvimento. Estado atual: **etapa 2 (autenticação e usuários)** concluída — dá para criar conta, entrar, sair, ver perfis em `/u/nome` e editar o próprio. Guia visual em [`/guia`](https://amplificacore.netlify.app/guia). O catálogo ainda não existe.
 
 ## Stack
 
