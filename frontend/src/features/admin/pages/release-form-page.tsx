@@ -180,6 +180,11 @@ function ReleaseEditor({ release }: { release?: ReleaseDetail }) {
         {release && (
           <div className="mt-6 border-t border-rule pt-6">
             <FormAlert message={remove.error ? formMessageFrom(remove.error) : null} />
+            {release.rating.count > 0 && (
+              <p className="text-sm text-muted">
+                Excluir também apaga {release.rating.count === 1 ? 'a 1 avaliação' : `as ${release.rating.count} avaliações`} deste lançamento.
+              </p>
+            )}
             <div className="mt-3">
               <DeleteButton
                 subject={`o lançamento ${release.title}`}

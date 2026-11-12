@@ -1,7 +1,7 @@
 # ADR 0007 — Avaliações
 
 - **Data:** 2026-11-12
-- **Status:** aceita (parte da API; as telas vêm na parte B)
+- **Status:** aceita (API e telas)
 
 ## Contexto
 
@@ -19,6 +19,15 @@ Ver o catálogo é aberto; avaliar exige conta. A etapa 5 define como nota e res
 8. **O autor aparece só com o que é público** (nome de usuário, nome de exibição, foto), nunca o e-mail. Há um teste que procura o e-mail na resposta inteira.
 9. **Limite de 20 gravações por minuto e por pessoa** (e não por endereço IP), para uso normal sobrar e automação ser barrada.
 10. **Apagar um disco ou uma conta leva as avaliações junto** (`ON DELETE CASCADE`).
+
+## Telas
+
+- Na página do disco, a média aparece no topo (com "N avaliações" ou o convite à primeira pessoa), o formulário fica na caixa "Já ouviu este disco?" e as resenhas escritas vêm abaixo, dez por página. Visitantes veem o convite para criar conta; discos ainda não lançados explicam que não recebem nota.
+- A nota é escolhida em dez botões de rádio de verdade, desenhados como o medidor do site: setas e Tab funcionam, e leitores de tela anunciam "Nota 7".
+- Para o formulário, um 404 `review_not_found` em `/reviews/me` significa "ainda não avaliou", e não erro.
+- Salvar ou apagar refaz de uma vez as consultas do disco, das resenhas, da avaliação da pessoa e dos perfis.
+- Administradores veem "Excluir" em cada resenha (moderação); a exclusão de um disco avisa quantas avaliações ela leva junto.
+- O perfil lista as avaliações da pessoa, com a capa e a cor de cada disco.
 
 ## O que um teste revelou
 

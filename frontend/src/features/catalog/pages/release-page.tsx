@@ -11,6 +11,8 @@ import { formatReleaseDate } from '../../../lib/format-date'
 import { ApiError } from '../../../lib/http'
 import { RELEASE_TYPE_LABELS } from '../../../lib/labels'
 import { useRelease } from '../hooks/use-catalog'
+import { ReviewsSection } from '../../reviews/components/reviews-section'
+import { RatingSummaryBlock } from '../../reviews/components/rating-summary'
 import { RatingPrompt } from '../components/rating-prompt'
 import { TrackList } from '../components/track-list'
 import { YouTubeEmbed } from '../components/youtube-embed'
@@ -86,6 +88,8 @@ export function ReleasePage() {
 
             {data.description && <p className="mt-8 max-w-xl font-serif text-xl whitespace-pre-line">{data.description}</p>}
 
+            <RatingSummaryBlock rating={data.rating} />
+
             <dl className="mt-8 grid max-w-xs grid-cols-[6rem_minmax(0,1fr)] gap-y-1.5">
               <dt className="text-muted">Faixas</dt>
               <dd>{data.tracks.length}</dd>
@@ -100,8 +104,10 @@ export function ReleasePage() {
         </div>
 
         <div className="mt-14">
-          <RatingPrompt />
+          <RatingPrompt slug={data.slug} releaseDate={data.releaseDate} />
         </div>
+
+        <ReviewsSection slug={data.slug} />
 
         {data.youtubeVideoId && (
           <section className="mt-14" aria-labelledby="video-titulo">

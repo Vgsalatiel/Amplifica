@@ -5,6 +5,7 @@ import { ButtonLink } from '../../../components/ui/button-link'
 import { SectionHeading } from '../../../components/ui/section-heading'
 import { TextLink } from '../../../components/ui/text-link'
 import { ApiError } from '../../../lib/http'
+import { UserReviews } from '../../reviews/components/user-reviews'
 import { useSession } from '../../auth/hooks/use-session'
 import { getProfile } from '../api/profile-api'
 
@@ -87,12 +88,8 @@ export function ProfilePage() {
       )}
 
       <section className="mt-16 border-t border-rule pt-12">
-        <SectionHeading>Resenhas</SectionHeading>
-        <p className="mt-6 max-w-2xl text-muted">
-          {isOwnProfile
-            ? 'Suas resenhas vão aparecer aqui quando o catálogo de discos estiver no ar.'
-            : `As resenhas de ${user.displayName} vão aparecer aqui quando o catálogo de discos estiver no ar.`}
-        </p>
+        <SectionHeading>Avaliações</SectionHeading>
+        <UserReviews username={user.username} displayName={user.displayName} isOwnProfile={isOwnProfile} />
       </section>
     </Container>
   )

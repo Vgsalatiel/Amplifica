@@ -6,6 +6,8 @@ import type {
   Paginated,
   ReleaseDetail,
   ReleaseSummary,
+  Review,
+  UserReview,
 } from '../types/api'
 
 const cover = { large: '/files/capa-lg.webp', small: '/files/capa-sm.webp' }
@@ -28,6 +30,7 @@ export function releaseSummary(overrides: Partial<ReleaseSummary> = {}): Release
 export function releaseDetail(overrides: Partial<ReleaseDetail> = {}): ReleaseDetail {
   return {
     ...releaseSummary(),
+    rating: { average: null, count: 0 },
     description: null,
     youtubeVideoId: null,
     durationMs: 3_480_000,
@@ -97,3 +100,29 @@ export const page = <T>(items: T[], extra: Partial<Paginated<T>['meta']> = {}): 
 })
 
 export const notFound = { status: 404, body: { statusCode: 404, code: 'not_found', message: 'Não existe.' } }
+
+export function review(overrides: Partial<Review> = {}): Review {
+  return {
+    id: 'rv1',
+    rating: 9,
+    body: 'Um disco que mudou a banda.',
+    createdAt: '2026-11-10T12:00:00.000Z',
+    updatedAt: '2026-11-10T12:00:00.000Z',
+    edited: false,
+    author: { username: 'ana', displayName: 'Ana Souza', avatar: null },
+    ...overrides,
+  }
+}
+
+export function userReview(overrides: Partial<UserReview> = {}): UserReview {
+  return {
+    id: 'rv1',
+    rating: 9,
+    body: 'Um disco que mudou a banda.',
+    createdAt: '2026-11-10T12:00:00.000Z',
+    updatedAt: '2026-11-10T12:00:00.000Z',
+    edited: false,
+    release: releaseSummary(),
+    ...overrides,
+  }
+}

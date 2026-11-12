@@ -113,7 +113,14 @@ export interface Track {
   durationMs: number | null
 }
 
+/** Média das notas de um disco. `average` é null enquanto ninguém avaliou. */
+export interface RatingSummary {
+  average: number | null
+  count: number
+}
+
 export interface ReleaseDetail extends ReleaseSummary {
+  rating: RatingSummary
   description: string | null
   youtubeVideoId: string | null
   tracks: Track[]
@@ -125,4 +132,30 @@ export interface GenreDetail extends GenreItem {
   parent: GenreRef | null
   children: GenreRef[]
   artistCount: number
+}
+
+// ---------------------------------------------------------------------------
+// Avaliações
+// ---------------------------------------------------------------------------
+
+/** Avaliação na página de um disco: traz o autor (só o que é público). */
+export interface Review {
+  id: string
+  rating: number
+  body: string | null
+  createdAt: string
+  updatedAt: string
+  edited: boolean
+  author: { username: string; displayName: string; avatar: ImageSet | null }
+}
+
+/** Avaliação na página de um perfil: traz o disco avaliado no lugar do autor. */
+export interface UserReview {
+  id: string
+  rating: number
+  body: string | null
+  createdAt: string
+  updatedAt: string
+  edited: boolean
+  release: ReleaseSummary
 }

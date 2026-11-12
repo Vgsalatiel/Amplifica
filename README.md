@@ -4,7 +4,7 @@
 
 Plataforma de descoberta musical e comunidade voltada ao rock e suas vertentes: discografias organizadas, gêneros como mapa de navegação, notas e resenhas com assinatura.
 
-> Projeto em desenvolvimento. Estado atual: **etapa 5 (avaliações), parte da API** concluída — nota de 1 a 10 e resenha por pessoa e por disco, com média no disco; as telas vêm a seguir. Gêneros, artistas e discos já abrem a qualquer visitante, com o Bring Me The Horizon como primeiro artista. Guia visual em [`/guia`](https://amplificacore.netlify.app/guia).
+> Projeto em desenvolvimento. Estado atual: **etapa 5 (avaliações)** concluída — nota de 1 a 10 e resenha por pessoa e por disco, com média no disco e as avaliações de cada pessoa no perfil. Gêneros, artistas e discos já abrem a qualquer visitante, com o Bring Me The Horizon como primeiro artista. Guia visual em [`/guia`](https://amplificacore.netlify.app/guia).
 
 ## Stack
 
@@ -59,8 +59,10 @@ Abra o endereço que o Vite mostrar. Se a API estiver em outra porta que não a 
 | `/` | Lançamentos recentes e os gêneros principais |
 | `/artistas` | Lista com filtro por gênero e busca pelo nome |
 | `/artistas/:slug` | História, gêneros e discografia agrupada por tipo |
-| `/lancamentos/:slug` | Capa, faixas, vídeo e a cor da capa aplicada à página |
+| `/lancamentos/:slug` | Capa, média das notas, faixas, vídeo, resenhas e o formulário de avaliação (para quem tem conta); a cor da capa vale para a página toda |
 | `/generos`, `/generos/:slug` | A árvore de gêneros; um gênero com os artistas dele e dos subgêneros |
+
+| `/u/:username` | Perfil público, com os discos que a pessoa avaliou |
 
 Tudo isso abre sem conta. Quem quer avaliar cria uma, e o cadastro iniciado a partir de um disco volta a ele.
 

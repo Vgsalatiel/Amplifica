@@ -18,6 +18,7 @@ const created = {
   datePrecision: 'DAY',
   cover: null,
   accentColor: null,
+  rating: { average: null, count: 0 },
   description: null,
   youtubeVideoId: null,
   tracks: [],

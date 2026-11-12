@@ -42,3 +42,14 @@ export function countryName(code: string): string {
     return code
   }
 }
+
+/** Data de uma avaliação, por extenso, no fuso do navegador: "10 de novembro de 2026". */
+export function formatReviewDate(isoDate: string): string {
+  return new Date(isoDate).toLocaleDateString('pt-BR', { day: 'numeric', month: 'long', year: 'numeric' })
+}
+
+/** Um disco só recebe nota depois de lançado (a API confere de novo). Data parcial vale como o 1º dia. */
+export function isReleased(releaseDate: string, now: Date = new Date()): boolean {
+  const [year, month = '01', day = '01'] = releaseDate.split('-')
+  return `${year}-${month}-${day}` <= now.toISOString().slice(0, 10)
+}
