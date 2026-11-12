@@ -1,10 +1,12 @@
 import { cn } from '../../lib/cn'
 
-export type ButtonVariant = 'primary' | 'secondary'
+export type ButtonVariant = 'primary' | 'secondary' | 'ink'
 
 const variants: Record<ButtonVariant, string> = {
   primary: 'bg-accent text-on-accent hover:bg-accent-hover',
   secondary: 'border border-rule-strong text-ink hover:border-ink',
+  // Para quando o botão divide a tela com uma área grande na cor de destaque.
+  ink: 'bg-ink text-surface hover:bg-accent',
 }
 
 /** Aparência de botão, compartilhada entre <Button> e <ButtonLink>. */

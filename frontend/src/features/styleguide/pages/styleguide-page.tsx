@@ -98,6 +98,7 @@ export function StyleguidePage() {
         <div className="flex flex-wrap items-center gap-6">
           <Button>Dar minha nota</Button>
           <Button variant="secondary">Escrever resenha</Button>
+          <Button variant="ink">Entrar</Button>
           <Button disabled>Indisponível</Button>
           <TextLink to="/guia">Link de texto</TextLink>
         </div>
