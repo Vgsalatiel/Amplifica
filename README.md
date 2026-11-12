@@ -4,7 +4,7 @@
 
 Plataforma de descoberta musical e comunidade voltada ao rock e suas vertentes: discografias organizadas, gêneros como mapa de navegação, notas e resenhas com assinatura.
 
-> Projeto em desenvolvimento. Estado atual: **etapa 4 (páginas públicas do catálogo)** concluída — gêneros, artistas e discos abertos a qualquer visitante, com o Bring Me The Horizon como primeiro artista. Avaliar exige conta, e as avaliações são a próxima etapa. Guia visual em [`/guia`](https://amplificacore.netlify.app/guia).
+> Projeto em desenvolvimento. Estado atual: **etapa 5 (avaliações), parte da API** concluída — nota de 1 a 10 e resenha por pessoa e por disco, com média no disco; as telas vêm a seguir. Gêneros, artistas e discos já abrem a qualquer visitante, com o Bring Me The Horizon como primeiro artista. Guia visual em [`/guia`](https://amplificacore.netlify.app/guia).
 
 ## Stack
 
@@ -120,6 +120,10 @@ Todas as rotas ficam sob `/api/v1`. Erros seguem um formato único: `{ statusCod
 | `GET /auth/me` | Autenticada | Dados da própria conta |
 | `GET /users/:username` | Pública | Perfil público |
 | `PATCH /users/me` | Autenticada | Edita nome de exibição e bio |
+| `GET /releases/:slug/reviews` | Pública | Resenhas com texto do disco, paginadas, da mais recente para a mais antiga |
+| `GET`, `PUT`, `DELETE /releases/:slug/reviews/me` | Autenticada | Ver, criar ou substituir (nota de 1 a 10, resenha opcional) e apagar a própria avaliação |
+| `DELETE /reviews/:id` | Autor ou ADMIN | Apaga uma avaliação (moderação) |
+| `GET /users/:username/reviews` | Pública | Todas as avaliações de uma pessoa, com o disco de cada uma |
 | `GET /genres`, `GET /genres/:slug` | Pública | Árvore de gêneros; um gênero com pai e filhos |
 | `GET /artists` | Pública | Lista paginada. Filtros: `genre` (inclui subgêneros), `q` (nome) |
 | `GET /artists/:slug` | Pública | Artista com discografia, do lançamento mais recente ao mais antigo |

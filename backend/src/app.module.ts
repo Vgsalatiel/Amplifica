@@ -9,6 +9,7 @@ import { GenresModule } from './modules/genres/genres.module.js';
 import { HealthModule } from './modules/health/health.module.js';
 import { ImagesModule } from './modules/images/images.module.js';
 import { ReleasesModule } from './modules/releases/releases.module.js';
+import { ReviewsModule } from './modules/reviews/reviews.module.js';
 import { UsersModule } from './modules/users/users.module.js';
 import { PrismaModule } from './prisma/prisma.module.js';
 
@@ -26,6 +27,7 @@ import { PrismaModule } from './prisma/prisma.module.js';
     GenresModule,
     ArtistsModule,
     ReleasesModule,
+    ReviewsModule,
     HealthModule,
   ],
 })

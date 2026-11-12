@@ -42,6 +42,7 @@ export async function cleanTestData(
     select: { id: true },
   });
   const ids = users.map((user) => user.id);
+  // As avaliações das contas de teste saem junto com elas (ON DELETE CASCADE).
   await prisma.refreshToken.deleteMany({ where: { userId: { in: ids } } });
   await prisma.user.deleteMany({ where: { id: { in: ids } } });
 }

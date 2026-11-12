@@ -10,6 +10,7 @@ import type {
 } from '../../generated/prisma/client.js';
 import type { ImageSet } from '../images/images.service.js';
 import { formatReleaseDate } from '../releases/release-date.js';
+import type { RatingSummary } from './rating.js';
 
 /**
  * Formato das respostas do catálogo. As funções daqui transformam linhas do banco
@@ -77,6 +78,8 @@ export interface ReleaseDetail extends ReleaseSummary {
   tracks: TrackResponse[];
   /** Soma das durações conhecidas; `null` se nenhuma faixa tem duração. */
   durationMs: number | null;
+  /** Média e contagem das avaliações dos usuários. */
+  rating: RatingSummary;
 }
 
 /** `include` do Prisma que os mappers esperam. */
@@ -153,6 +156,7 @@ export function toArtistDetail(
 export function toReleaseDetail(
   release: ReleaseWithArtists & { tracks: Track[] },
   toImageSet: ToImageSet,
+  rating: RatingSummary,
 ): ReleaseDetail {
   const durations = release.tracks
     .map((track) => track.durationMs)
@@ -173,6 +177,7 @@ export function toReleaseDetail(
       durations.length > 0
         ? durations.reduce((sum, value) => sum + value, 0)
         : null,
+    rating,
   };
 }
 

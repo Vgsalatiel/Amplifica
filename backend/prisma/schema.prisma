@@ -30,6 +30,8 @@ model User {
   role         Role     @default(USER)
   createdAt    DateTime @default(now())
   updatedAt    DateTime @updatedAt
+
+  reviews Review[]
 }
 
 // Tokens de renovação de sessão. O formato segue o contrato RefreshTokenStore
@@ -164,6 +166,7 @@ model Release {
 
   artists ReleaseArtist[]
   tracks  Track[]
+  reviews Review[]
 
   @@index([releaseDate])
 }
@@ -195,4 +198,31 @@ model Track {
   release Release @relation(fields: [releaseId], references: [id], onDelete: Cascade)
 
   @@unique([releaseId, discNumber, position])
+}
+
+// ---------------------------------------------------------------------------
+// Avaliações
+// ---------------------------------------------------------------------------
+
+// Uma avaliação por pessoa e por disco: avaliar de novo substitui a anterior.
+model Review {
+  id        String   @id @default(uuid(7)) @db.Uuid
+  userId    String   @db.Uuid
+  releaseId String   @db.Uuid
+  // Nota de 1 a 10. A API valida, e uma regra CHECK na migration garante no banco.
+  rating    Int
+  // Texto simples, opcional. Sem texto, a avaliação conta na média mas não aparece na lista de resenhas.
+  body      String?
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  // Cascade: apagar a conta ou o disco leva as avaliações junto.
+  user    User    @relation(fields: [userId], references: [id], onDelete: Cascade)
+  release Release @relation(fields: [releaseId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, releaseId])
+  // Lista de resenhas de um disco, da mais recente para a mais antiga.
+  @@index([releaseId, createdAt])
+  // Avaliações de uma pessoa, na página do perfil dela.
+  @@index([userId, createdAt])
 }

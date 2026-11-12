@@ -24,6 +24,7 @@ import {
   type ReleaseDetail,
   type ReleaseSummary,
 } from '../catalog/catalog.mappers.js';
+import { toRatingSummary } from '../catalog/rating.js';
 import { ImagesService } from '../images/images.service.js';
 import { parseReleaseDate } from './release-date.js';
 import type {
@@ -85,7 +86,7 @@ export class ReleasesService {
     if (!release) {
       throw new NotFoundException(NOT_FOUND);
     }
-    return toReleaseDetail(release, this.toImageSet);
+    return this.detail(release);
   }
 
   async create(dto: CreateReleaseDto): Promise<ReleaseDetail> {
@@ -110,7 +111,7 @@ export class ReleasesService {
         },
         include: detailInclude,
       });
-      return toReleaseDetail(release, this.toImageSet);
+      return this.detail(release);
     } catch (error) {
       throw this.translate(error);
     }
@@ -154,7 +155,7 @@ export class ReleasesService {
           include: detailInclude,
         });
       });
-      return toReleaseDetail(release, this.toImageSet);
+      return this.detail(release);
     } catch (error) {
       throw this.translate(error);
     }
@@ -183,7 +184,7 @@ export class ReleasesService {
     if (current.coverPath !== stored.path) {
       await this.images.remove(current.coverPath);
     }
-    return toReleaseDetail(release, this.toImageSet);
+    return this.detail(release);
   }
 
   async removeCover(id: string): Promise<ReleaseDetail> {
@@ -194,7 +195,26 @@ export class ReleasesService {
       include: detailInclude,
     });
     await this.images.remove(current.coverPath);
-    return toReleaseDetail(release, this.toImageSet);
+    return this.detail(release);
+  }
+
+  /**
+   * Resposta de um disco: os dados dele mais a média e a contagem das avaliações. Todo caminho
+   * que devolve um disco passa por aqui, para a resposta ter sempre o mesmo formato.
+   */
+  private async detail(
+    release: Parameters<typeof toReleaseDetail>[0],
+  ): Promise<ReleaseDetail> {
+    const stats = await this.prisma.review.aggregate({
+      where: { releaseId: release.id },
+      _avg: { rating: true },
+      _count: { _all: true },
+    });
+    return toReleaseDetail(
+      release,
+      this.toImageSet,
+      toRatingSummary(stats._avg.rating, stats._count._all),
+    );
   }
 
   private async findOrFail(id: string) {
