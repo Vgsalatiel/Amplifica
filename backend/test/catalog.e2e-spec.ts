@@ -223,6 +223,28 @@ describe('Catálogo (e2e)', () => {
       );
     });
 
+    it('guarda as fontes da bio e recusa links que não sejam http(s)', async () => {
+      await post('/artists', {
+        name: 'E2E Fontes',
+        sources: [
+          { name: 'MusicBrainz', url: 'https://musicbrainz.org/artist/1' },
+        ],
+      }).expect(201);
+
+      const detail = (
+        await request(server()).get(`${API}/artists/e2e-fontes`).expect(200)
+      ).body;
+      expect(detail.sources).toEqual([
+        { name: 'MusicBrainz', url: 'https://musicbrainz.org/artist/1' },
+      ]);
+
+      const bad = await post('/artists', {
+        name: 'E2E Fontes Ruins',
+        sources: [{ name: 'x', url: 'javascript:alert(1)' }],
+      }).expect(400);
+      expect(bad.body.details[0].field).toBe('sources.0.url');
+    });
+
     it('recusa gênero inexistente', async () => {
       const response = await post('/artists', {
         name: 'E2E Sem Genero',

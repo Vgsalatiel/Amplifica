@@ -120,6 +120,8 @@ model Artist {
   formedYear    Int?
   disbandedYear Int?
   imagePath     String?
+  // Fontes do texto da bio, como [{ name, url }]. Exibidas na página do artista.
+  sources       Json?
   // Identificador no MusicBrainz, para a importação futura.
   mbid          String?    @unique
   createdAt     DateTime   @default(now())

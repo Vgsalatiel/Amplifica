@@ -25,7 +25,9 @@
     "postinstall": "prisma generate",
     "typecheck": "tsc --noEmit",
     "seed:admin": "nest build && node dist/scripts/seed-admin.js",
-    "seed:genres": "nest build && node dist/scripts/seed-genres.js"
+    "seed:genres": "nest build && node dist/scripts/seed-genres.js",
+    "catalog:fetch": "nest build && node dist/scripts/musicbrainz-fetch.js",
+    "catalog:seed": "nest build && node dist/scripts/seed-catalog.js"
   },
   "dependencies": {
     "@nestjs/authentication": "^0.1.5",

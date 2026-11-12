@@ -1,0 +1,1958 @@
+{
+  "generatedAt": "2026-11-12T18:07:51.315Z",
+  "source": "MusicBrainz (dados principais em CC0); história conferida na Wikipédia em inglês e em português",
+  "artist": {
+    "mbid": "074e3847-f67f-49f9-81f1-8c8cea147e8e",
+    "name": "Bring Me the Horizon",
+    "slug": "bring-me-the-horizon",
+    "type": "BAND",
+    "country": "GB",
+    "city": "Sheffield",
+    "formedYear": 2004,
+    "disbandedYear": null,
+    "bio": "O Bring Me the Horizon se formou em março de 2004, em Sheffield, na Inglaterra, quando os integrantes tinham entre 15 e 17 anos. A primeira formação reunia o vocalista Oli Sykes, o baterista Matt Nicholls, os guitarristas Lee Malia e Curtis Ward e o baixista Matt Kean. O nome vem de uma fala do filme Piratas do Caribe: A Maldição do Pérola Negra, de 2003. A estreia foi o EP This Is What the Edge of Your Seat Was Made For, em setembro de 2004.\n\nO som mudou muito ao longo da carreira. Count Your Blessings (2006) é um disco de deathcore. Suicide Season (2008) abriu a banda para elementos de música eletrônica e outros estilos, e There Is a Hell Believe Me I've Seen It. There Is a Heaven Let's Keep It a Secret. (2010) somou influências clássicas, eletrônicas e pop à base do metalcore. Sempiternal (2013) incorporou post-rock, música ambiente e pop.\n\nThat's the Spirit (2015) deixou o metalcore para trás em direção ao rock alternativo e ao pop rock, e estreou em segundo lugar nas paradas britânicas. Em 22 de abril de 2016, a banda tocou no Royal Albert Hall, em Londres, acompanhada por uma orquestra, e o show virou um álbum ao vivo lançado em dezembro. amo (2019) mistura elementos eletrônicos, pop e hip-hop e foi o primeiro álbum da banda a chegar ao primeiro lugar no Reino Unido. POST HUMAN: SURVIVAL HORROR (2020) voltou a um som mais pesado e também chegou ao primeiro lugar britânico, depois do lançamento físico em janeiro de 2021. POST HUMAN: NeX GEn (2024) é o sétimo álbum de estúdio.\n\nA formação também mudou. Curtis Ward deixou a banda em março de 2009, durante uma turnê. Jona Weinhofen, vindo do Bleeding Through, entrou em 2009 e saiu em janeiro de 2013, mês em que o tecladista e programador Jordan Fish, que já colaborava, se tornou integrante. Fish deixou a banda, em anúncio feito em 22 de dezembro de 2023. Hoje o grupo é formado por Oli Sykes, Lee Malia, Matt Kean e Matt Nicholls. Em julho de 2026, a banda lançou Count Your Blessings | Repented, uma regravação do primeiro álbum.",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/074e3847-f67f-49f9-81f1-8c8cea147e8e"
+      },
+      {
+        "name": "Wikipédia em inglês: Bring Me the Horizon",
+        "url": "https://en.wikipedia.org/wiki/Bring_Me_the_Horizon"
+      },
+      {
+        "name": "Wikipédia em português: Bring Me the Horizon",
+        "url": "https://pt.wikipedia.org/wiki/Bring_Me_the_Horizon"
+      },
+      {
+        "name": "Wikipédia em inglês: discografia",
+        "url": "https://en.wikipedia.org/wiki/Bring_Me_the_Horizon_discography"
+      }
+    ],
+    "genres": [
+      "deathcore",
+      "metalcore",
+      "alternative-rock"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "07f5e633-8846-3fe7-8e68-472b54dba159",
+      "releaseMbid": "e377cc73-de3b-4175-a492-54564d18fe08",
+      "title": "This Is What the Edge of Your Seat Was Made For",
+      "type": "EP",
+      "releaseDate": "2004-09-25",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/07f5e633-8846-3fe7-8e68-472b54dba159/front-1200",
+      "tracks": [
+        {
+          "title": "re: they have no reflections",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 342000
+        },
+        {
+          "title": "who wants flowers when you’re dead? nobody.",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 294000
+        },
+        {
+          "title": "rawwwrr!",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 254000
+        },
+        {
+          "title": "traitors never play hangman",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 217000
+        }
+      ]
+    },
+    {
+      "mbid": "ea8e2fec-ed89-3918-a9e4-bf4e8e5f7e28",
+      "releaseMbid": "40d85fa0-e98e-42b3-90c4-55175fb81952",
+      "title": "Count Your Blessings",
+      "type": "ALBUM",
+      "releaseDate": "2006-10-30",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Pray for Plagues",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 262000
+        },
+        {
+          "title": "Tell Slater Not to Wash His D**k",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 210000
+        },
+        {
+          "title": "For Stevie Wonders Eyes Only",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 270000
+        },
+        {
+          "title": "Alot Like Vegas",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 130000
+        },
+        {
+          "title": "Black & Blue",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 274000
+        },
+        {
+          "title": "Slow Dance",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 76000
+        },
+        {
+          "title": "Liquor & Love Lost",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 159000
+        },
+        {
+          "title": "(I Used to Make Out With) Medusa",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 339000
+        },
+        {
+          "title": "Fifteen Fathoms, Counting",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 117000
+        },
+        {
+          "title": "Off the Heezay",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 339000
+        }
+      ]
+    },
+    {
+      "mbid": "bd29e155-81aa-3600-8de3-a9dea76da4c9",
+      "releaseMbid": "2c192862-f0f9-4920-9fa1-9c2a702eac07",
+      "title": "Suicide Season",
+      "type": "ALBUM",
+      "releaseDate": "2008-09-29",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/bd29e155-81aa-3600-8de3-a9dea76da4c9/front-1200",
+      "tracks": [
+        {
+          "title": "The Comedown",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 249293
+        },
+        {
+          "title": "Chelsea Smile",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 302560
+        },
+        {
+          "title": "It Was Written in Blood",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 242680
+        },
+        {
+          "title": "Death Breath",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 260706
+        },
+        {
+          "title": "Football Season Is Over",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 115773
+        },
+        {
+          "title": "Sleep With One Eye Open",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 256278
+        },
+        {
+          "title": "Diamonds Aren’t Forever",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 228066
+        },
+        {
+          "title": "The Sadness Will Never End",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 322360
+        },
+        {
+          "title": "No Need for Introductions, I’ve Read About Girls Like You on the Backs of Toilet Doors",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 59653
+        },
+        {
+          "title": "Suicide Season",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 497280
+        }
+      ]
+    },
+    {
+      "mbid": "4dcf93d7-2372-44e4-816c-4ef225b448c8",
+      "releaseMbid": "f1265a95-4b27-4954-8c65-8ebf3e012051",
+      "title": "There Is a Hell Believe Me I’ve Seen It. There Is a Heaven Let’s Keep It a Secret",
+      "type": "ALBUM",
+      "releaseDate": "2010-10-04",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4dcf93d7-2372-44e4-816c-4ef225b448c8/front-1200",
+      "tracks": [
+        {
+          "title": "Crucify Me",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 379520
+        },
+        {
+          "title": "Anthem",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 289986
+        },
+        {
+          "title": "It Never Ends",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 274133
+        },
+        {
+          "title": "Fuck",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 295333
+        },
+        {
+          "title": "Don’t Go",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 298480
+        },
+        {
+          "title": "Home Sweet Hole",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 277853
+        },
+        {
+          "title": "Alligator Blood",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 271853
+        },
+        {
+          "title": "Visions",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 248920
+        },
+        {
+          "title": "Blacklist",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 240013
+        },
+        {
+          "title": "Memorial",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 189760
+        },
+        {
+          "title": "Blessed With a Curse",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 308040
+        },
+        {
+          "title": "The Fox and the Wolf",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 102973
+        }
+      ]
+    },
+    {
+      "mbid": "a0cae83b-7d2f-45e4-a7ff-3bf1fa3d4d40",
+      "releaseMbid": "44ff5677-85d7-4faa-b557-81bbf402656f",
+      "title": "The Chill Out Sessions",
+      "type": "EP",
+      "releaseDate": "2012-11-22",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a0cae83b-7d2f-45e4-a7ff-3bf1fa3d4d40/front-1200",
+      "tracks": [
+        {
+          "title": "Crucify Me",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 286000
+        },
+        {
+          "title": "It Never Ends",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 217000
+        },
+        {
+          "title": "Fuck",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 327000
+        },
+        {
+          "title": "Don’t Go",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 227000
+        },
+        {
+          "title": "Memorial / Blessed With a Curse",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 406000
+        },
+        {
+          "title": "Blessed With a Curse (Draper remix)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 305000
+        }
+      ]
+    },
+    {
+      "mbid": "f0c8edf8-26a7-4425-9ce9-82b00e90669a",
+      "releaseMbid": "feeaed1c-6e63-4a34-8630-37c192f199b8",
+      "title": "Sempiternal",
+      "type": "ALBUM",
+      "releaseDate": "2013-03-29",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f0c8edf8-26a7-4425-9ce9-82b00e90669a/front-1200",
+      "tracks": [
+        {
+          "title": "Can You Feel My Heart",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 230133
+        },
+        {
+          "title": "The House of Wolves",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 207160
+        },
+        {
+          "title": "Empire (Let Them Sing)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 227693
+        },
+        {
+          "title": "Sleepwalking",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 232093
+        },
+        {
+          "title": "Go to Hell, for Heaven’s Sake",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 245000
+        },
+        {
+          "title": "Shadow Moses",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 245320
+        },
+        {
+          "title": "And the Snakes Start to Sing",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 303946
+        },
+        {
+          "title": "Seen It All Before",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 249413
+        },
+        {
+          "title": "Antivist",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 195653
+        },
+        {
+          "title": "Crooked Young",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 216946
+        },
+        {
+          "title": "Hospital for Souls",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 408400
+        },
+        {
+          "title": "Join the Club",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 188146
+        },
+        {
+          "title": "Chasing Rainbows",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 240866
+        },
+        {
+          "title": "Deathbeds",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 299586
+        }
+      ]
+    },
+    {
+      "mbid": "a5377a12-7614-4e2d-94a1-324dbc37480b",
+      "releaseMbid": "617c5275-0f6e-48c3-a71c-8bc8e5e7698a",
+      "title": "Limited Box Set",
+      "type": "COMPILATION",
+      "releaseDate": "2014-11-24",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a5377a12-7614-4e2d-94a1-324dbc37480b/front-1200",
+      "tracks": [
+        {
+          "title": "re: they have no reflections",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 342213
+        },
+        {
+          "title": "who wants flowers when you’re dead? nobody",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 294346
+        },
+        {
+          "title": "RAWWWRR!",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 253813
+        },
+        {
+          "title": "Traitors never Play Hang‐man.",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 217000
+        },
+        {
+          "title": "Pray for Plagues",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": 262687
+        },
+        {
+          "title": "Tell Slater Not to Wash His Dick",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": 210494
+        },
+        {
+          "title": "Braille (For Stevie Wonder's Eyes Only)",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": 269609
+        },
+        {
+          "title": "A Lot Like Vegas",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": 129880
+        },
+        {
+          "title": "Black & Blue",
+          "discNumber": 2,
+          "position": 5,
+          "durationMs": 273658
+        },
+        {
+          "title": "Slow Dance",
+          "discNumber": 2,
+          "position": 6,
+          "durationMs": 76617
+        },
+        {
+          "title": "Liquor & Love Lost",
+          "discNumber": 2,
+          "position": 7,
+          "durationMs": 159451
+        },
+        {
+          "title": "(I Used to Make Out With) Medusa",
+          "discNumber": 2,
+          "position": 8,
+          "durationMs": 338703
+        },
+        {
+          "title": "Fifteen Fathoms, Counting",
+          "discNumber": 2,
+          "position": 9,
+          "durationMs": 117054
+        },
+        {
+          "title": "Off the Heezay",
+          "discNumber": 2,
+          "position": 10,
+          "durationMs": 340662
+        },
+        {
+          "title": "The Comedown",
+          "discNumber": 3,
+          "position": 1,
+          "durationMs": 249293
+        },
+        {
+          "title": "Chelsea Smile",
+          "discNumber": 3,
+          "position": 2,
+          "durationMs": 302560
+        },
+        {
+          "title": "It Was Written in Blood",
+          "discNumber": 3,
+          "position": 3,
+          "durationMs": 242680
+        },
+        {
+          "title": "Death Breath",
+          "discNumber": 3,
+          "position": 4,
+          "durationMs": 260706
+        },
+        {
+          "title": "Football Season Is Over",
+          "discNumber": 3,
+          "position": 5,
+          "durationMs": 115773
+        },
+        {
+          "title": "Sleep With One Eye Open",
+          "discNumber": 3,
+          "position": 6,
+          "durationMs": 256279
+        },
+        {
+          "title": "Diamonds Aren’t Forever",
+          "discNumber": 3,
+          "position": 7,
+          "durationMs": 228066
+        },
+        {
+          "title": "The Sadness Will Never End",
+          "discNumber": 3,
+          "position": 8,
+          "durationMs": 322360
+        },
+        {
+          "title": "No Need for Introductions, I’ve Read About Girls Like You on the Backs of Toilet Doors",
+          "discNumber": 3,
+          "position": 9,
+          "durationMs": 59653
+        },
+        {
+          "title": "Suicide Season",
+          "discNumber": 3,
+          "position": 10,
+          "durationMs": 497280
+        },
+        {
+          "title": "Crucify Me",
+          "discNumber": 4,
+          "position": 1,
+          "durationMs": 379000
+        },
+        {
+          "title": "Anthem",
+          "discNumber": 4,
+          "position": 2,
+          "durationMs": 290000
+        },
+        {
+          "title": "It Never Ends",
+          "discNumber": 4,
+          "position": 3,
+          "durationMs": 274000
+        },
+        {
+          "title": "Fuck",
+          "discNumber": 4,
+          "position": 4,
+          "durationMs": 295000
+        },
+        {
+          "title": "Don’t Go",
+          "discNumber": 4,
+          "position": 5,
+          "durationMs": 298000
+        },
+        {
+          "title": "Home Sweet Hole",
+          "discNumber": 4,
+          "position": 6,
+          "durationMs": 277000
+        },
+        {
+          "title": "Alligator Blood",
+          "discNumber": 4,
+          "position": 7,
+          "durationMs": 271000
+        },
+        {
+          "title": "Visions",
+          "discNumber": 4,
+          "position": 8,
+          "durationMs": 248000
+        },
+        {
+          "title": "Blacklist",
+          "discNumber": 4,
+          "position": 9,
+          "durationMs": 240000
+        },
+        {
+          "title": "Memorial",
+          "discNumber": 4,
+          "position": 10,
+          "durationMs": 189000
+        },
+        {
+          "title": "Blessed with a Curse",
+          "discNumber": 4,
+          "position": 11,
+          "durationMs": 308000
+        },
+        {
+          "title": "The Fox and the Wolf",
+          "discNumber": 4,
+          "position": 12,
+          "durationMs": 103000
+        }
+      ]
+    },
+    {
+      "mbid": "00584f3e-580e-487b-867c-b623ec50f300",
+      "releaseMbid": "366f9843-fa2d-49c5-b53d-1cbc3604a480",
+      "title": "Live at Wembley",
+      "type": "LIVE",
+      "releaseDate": "2015-06-22",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/00584f3e-580e-487b-867c-b623ec50f300/front-1200",
+      "tracks": [
+        {
+          "title": "Intro",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 30000
+        },
+        {
+          "title": "Shadow Moses",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 293733
+        },
+        {
+          "title": "Go to Hell, for Heaven’s Sake",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 260786
+        },
+        {
+          "title": "The House of Wolves",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 267333
+        },
+        {
+          "title": "Diamonds Aren’t Forever",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 301800
+        },
+        {
+          "title": "It Never Ends",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 353933
+        },
+        {
+          "title": "And the Snakes Start to Sing",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 357186
+        },
+        {
+          "title": "Alligator Blood",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 314866
+        },
+        {
+          "title": "Empire (Let Them Sing)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 239920
+        },
+        {
+          "title": "Chelsea Smile",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": 401173
+        },
+        {
+          "title": "Pray for Plagues",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": 312666
+        },
+        {
+          "title": "Blessed With a Curse",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": 327786
+        },
+        {
+          "title": "Antivist",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": 242266
+        },
+        {
+          "title": "Sleepwalking",
+          "discNumber": 2,
+          "position": 5,
+          "durationMs": 341666
+        },
+        {
+          "title": "Hospital for Souls",
+          "discNumber": 2,
+          "position": 6,
+          "durationMs": 421733
+        },
+        {
+          "title": "Drown",
+          "discNumber": 2,
+          "position": 7,
+          "durationMs": 262706
+        },
+        {
+          "title": "Can You Feel My Heart",
+          "discNumber": 2,
+          "position": 8,
+          "durationMs": 450960
+        },
+        {
+          "title": "Live at Wembley",
+          "discNumber": 3,
+          "position": 1,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "78113c03-d7dc-4200-91f0-5b20088e403d",
+      "releaseMbid": "eca2b227-0593-476e-a03a-3750fac15c5d",
+      "title": "That’s the Spirit",
+      "type": "ALBUM",
+      "releaseDate": "2015-09-04",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/78113c03-d7dc-4200-91f0-5b20088e403d/front-1200",
+      "tracks": [
+        {
+          "title": "Doomed",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 274133
+        },
+        {
+          "title": "Happy Song",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 239386
+        },
+        {
+          "title": "Throne",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 191520
+        },
+        {
+          "title": "True Friends",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 232320
+        },
+        {
+          "title": "Follow You",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 231106
+        },
+        {
+          "title": "What You Need",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 252400
+        },
+        {
+          "title": "Avalanche",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 262013
+        },
+        {
+          "title": "Run",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 222760
+        },
+        {
+          "title": "Drown",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 222093
+        },
+        {
+          "title": "Blasphemy",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 275013
+        },
+        {
+          "title": "Oh No",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 301013
+        }
+      ]
+    },
+    {
+      "mbid": "e1b2407b-03fd-41f1-b920-472d57607654",
+      "releaseMbid": "5c28026f-fe45-4849-b66c-311dd7495fd6",
+      "title": "Live at the Royal Albert Hall",
+      "type": "LIVE",
+      "releaseDate": "2016-12-02",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/e1b2407b-03fd-41f1-b920-472d57607654/front-1200",
+      "tracks": [
+        {
+          "title": "Doomed",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 444000
+        },
+        {
+          "title": "Happy Song",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 283000
+        },
+        {
+          "title": "Go to Hell, for Heaven's Sake",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 309000
+        },
+        {
+          "title": "Avalanche",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 329000
+        },
+        {
+          "title": "It Never Ends",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 367000
+        },
+        {
+          "title": "Sleepwalking",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 297000
+        },
+        {
+          "title": "Empire (Let Them Sing)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 254000
+        },
+        {
+          "title": "Throne",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 245000
+        },
+        {
+          "title": "Shadow Moses",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 309000
+        },
+        {
+          "title": "True Friends",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 375000
+        },
+        {
+          "title": "Follow You",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 234000
+        },
+        {
+          "title": "Can You Feel My Heart",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 360000
+        },
+        {
+          "title": "Antivist",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 272000
+        },
+        {
+          "title": "Drown",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 429000
+        },
+        {
+          "title": "Oh No",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 506000
+        }
+      ]
+    },
+    {
+      "mbid": "9cb90886-99ff-4da9-9aa1-901e7f1eb13f",
+      "releaseMbid": "1abaf476-1c14-4871-b0ad-850fc10f1544",
+      "title": "2004 - 2013",
+      "type": "COMPILATION",
+      "releaseDate": "2017-11-24",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/9cb90886-99ff-4da9-9aa1-901e7f1eb13f/front-1200",
+      "tracks": [
+        {
+          "title": "Traitors Never Play Hang‐Man",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 217000
+        },
+        {
+          "title": "Pray For Plagues",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 261000
+        },
+        {
+          "title": "Diamonds Aren’t Forever",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 228000
+        },
+        {
+          "title": "The Sadness Will Never End",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 322000
+        },
+        {
+          "title": "Chelsea Smile",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 302000
+        },
+        {
+          "title": "The Comedown",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 249000
+        },
+        {
+          "title": "Blessed with a Curse",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 308000
+        },
+        {
+          "title": "It Never Ends",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 274000
+        },
+        {
+          "title": "Don’t Go",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 298000
+        },
+        {
+          "title": "Crucify Me",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 379000
+        },
+        {
+          "title": "Shadow Moses",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 243000
+        },
+        {
+          "title": "Go to Hell, for Heaven’s Sake",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 243000
+        },
+        {
+          "title": "Can You Feel My Heart",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 228000
+        },
+        {
+          "title": "Sleepwalking",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 230000
+        },
+        {
+          "title": "Antivist",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 193000
+        }
+      ]
+    },
+    {
+      "mbid": "3351433a-72a3-4c58-9fc5-9c628a35742e",
+      "releaseMbid": "69532e37-73bb-48fa-8ac1-647a5e19492e",
+      "title": "amo",
+      "type": "ALBUM",
+      "releaseDate": "2019-01-25",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/3351433a-72a3-4c58-9fc5-9c628a35742e/front-1200",
+      "tracks": [
+        {
+          "title": "i apologise if you feel something",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 139564
+        },
+        {
+          "title": "MANTRA",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 233129
+        },
+        {
+          "title": "nihilist blues",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 325502
+        },
+        {
+          "title": "in the dark",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 271187
+        },
+        {
+          "title": "wonderful life",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 274403
+        },
+        {
+          "title": "ouch",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 109011
+        },
+        {
+          "title": "medicine",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 227265
+        },
+        {
+          "title": "sugar honey ice & tea",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 261560
+        },
+        {
+          "title": "why you gotta kick me when i’m down?",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 268861
+        },
+        {
+          "title": "fresh bruises",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 198454
+        },
+        {
+          "title": "mother tongue",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 217425
+        },
+        {
+          "title": "heavy metal",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 240587
+        },
+        {
+          "title": "i don’t know what to say",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 352385
+        }
+      ]
+    },
+    {
+      "mbid": "b7493310-d408-44e2-a2d6-bbbd485d7abc",
+      "releaseMbid": "68439506-5584-45dc-ba6e-080a21616a1d",
+      "title": "Music to listen to~",
+      "type": "EP",
+      "releaseDate": "2019-12-27",
+      "description": "Título completo: Music to listen to~dance to~blaze to~pray to~feed to~sleep to~talk to~grind to~trip to~breathe to~help to~hurt to~scroll to~roll to~love to~hate to~learn Too~plot to~play to~be to~feel to~breed to~sweat to~dream to~hide to~live to~die to~GO TO",
+      "coverUrl": "https://coverartarchive.org/release-group/b7493310-d408-44e2-a2d6-bbbd485d7abc/front-1200",
+      "tracks": [
+        {
+          "title": "Steal Something.",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 611000
+        },
+        {
+          "title": "Candy Truck / You Expected: LAB Your Result: Green",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 435000
+        },
+        {
+          "title": "A Devastating Liberation",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 280000
+        },
+        {
+          "title": "¿",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 313000
+        },
+        {
+          "title": "Underground Big {HEADFULOFHYENA}",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 1445000
+        },
+        {
+          "title": "“like seeing spiders running riot on your lover’s grave”",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 398000
+        },
+        {
+          "title": "Dead Dolphin Sounds ‘aid brain growth in unborn child’ Virtual Therapy / Nature Healing 2 Hours",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 609000
+        },
+        {
+          "title": "±ªþ³§",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 438000
+        }
+      ]
+    },
+    {
+      "mbid": "2d1d9561-4c16-41d4-8234-dfe30c6334eb",
+      "releaseMbid": "fe2524a6-48cd-4091-a812-982b18ea4157",
+      "title": "POST HUMAN: SURVIVAL HORROR",
+      "type": "EP",
+      "releaseDate": "2020-10-29",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/2d1d9561-4c16-41d4-8234-dfe30c6334eb/front-1200",
+      "tracks": [
+        {
+          "title": "Dear Diary,",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 164797
+        },
+        {
+          "title": "Parasite Eve",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 292165
+        },
+        {
+          "title": "Teardrops",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 215004
+        },
+        {
+          "title": "Obey",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 220539
+        },
+        {
+          "title": "Itch for the Cure (When Will We Be Free?)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 86243
+        },
+        {
+          "title": "Kingslayer",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 220042
+        },
+        {
+          "title": "1x1",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 209525
+        },
+        {
+          "title": "Ludens",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 278507
+        },
+        {
+          "title": "One Day the Only Butterflies Left Will Be in Your Chest As You March Towards Your Death",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 243140
+        }
+      ]
+    },
+    {
+      "mbid": "96a7fe39-114f-4102-aba8-6387748553ce",
+      "releaseMbid": "7e2f7290-50a8-4a85-9b68-799bce4e933f",
+      "title": "POST HUMAN: NeX GEn",
+      "type": "ALBUM",
+      "releaseDate": "2024-05-24",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/96a7fe39-114f-4102-aba8-6387748553ce/front-1200",
+      "tracks": [
+        {
+          "title": "[ost] dreamseeker",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 19000
+        },
+        {
+          "title": "YOUtopia",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 242000
+        },
+        {
+          "title": "Kool‐Aid",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 224000
+        },
+        {
+          "title": "Top 10 staTues tHat CriEd bloOd",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 240000
+        },
+        {
+          "title": "liMOusIne",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 251000
+        },
+        {
+          "title": "DArkSide",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 164000
+        },
+        {
+          "title": "a bulleT w/ my namE On",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 260000
+        },
+        {
+          "title": "[ost] (spi)ritual",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 114000
+        },
+        {
+          "title": "n/A",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 200000
+        },
+        {
+          "title": "LosT",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 205000
+        },
+        {
+          "title": "sTraNgeRs",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 195000
+        },
+        {
+          "title": "R.i.p. (duskCOre RemIx)",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 203000
+        },
+        {
+          "title": "AmEN!",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 189000
+        },
+        {
+          "title": "[ost] p.u.s.s.‐e",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 169000
+        },
+        {
+          "title": "DiE4u",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 207000
+        },
+        {
+          "title": "DIg It",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 432000
+        }
+      ]
+    },
+    {
+      "mbid": "2e83a13d-d9c5-4ce1-b7cb-15c073873c57",
+      "releaseMbid": "249cd75a-605f-4f4b-826e-64c1ef4bac5f",
+      "title": "Lo-files",
+      "type": "COMPILATION",
+      "releaseDate": "2025-07-11",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/2e83a13d-d9c5-4ce1-b7cb-15c073873c57/front-1200",
+      "tracks": [
+        {
+          "title": "canyoufeelmy<3.tmpx",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 162946
+        },
+        {
+          "title": "(U)topia.drm",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 290201
+        },
+        {
+          "title": "in_the_dark.ech",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 188288
+        },
+        {
+          "title": "followU.bnd",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 209611
+        },
+        {
+          "title": "Darkside.verXx",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 188456
+        },
+        {
+          "title": "king_sl@yer.fmk",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 182764
+        },
+        {
+          "title": "sL33pwalking.idl",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 265328
+        },
+        {
+          "title": "drwn.vvv",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 205212
+        },
+        {
+          "title": "losT_404.nll",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 207982
+        },
+        {
+          "title": "seenitallbefore_xx.arch",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 208224
+        },
+        {
+          "title": "parasite.ev3",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 194987
+        },
+        {
+          "title": "med!cine.fbk",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 309218
+        },
+        {
+          "title": "koolaid.xxo",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 198246
+        },
+        {
+          "title": "d1g_it.core",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 225338
+        },
+        {
+          "title": "DOOMED.errX",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 218993
+        },
+        {
+          "title": "avalanche_.drft",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 260402
+        },
+        {
+          "title": "1DayTheOnlyButterfliesLeftWillBInurChestAsuMarchTowards UrDeath.finx",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 206815
+        },
+        {
+          "title": "sTr4nG3r5.vsn0",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 185200
+        },
+        {
+          "title": "1x1.syncd",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 259907
+        },
+        {
+          "title": "shadowm0ses.frq",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 165562
+        },
+        {
+          "title": "m0th3r.tng",
+          "discNumber": 1,
+          "position": 21,
+          "durationMs": 243249
+        },
+        {
+          "title": "DiE4u.sysrsk",
+          "discNumber": 1,
+          "position": 22,
+          "durationMs": 201000
+        },
+        {
+          "title": "Throne.GOD",
+          "discNumber": 1,
+          "position": 23,
+          "durationMs": 127329
+        }
+      ]
+    },
+    {
+      "mbid": "4c519efc-f513-4a62-ae3d-01087b5a0bba",
+      "releaseMbid": "334f435f-b9f9-4232-8bce-1c613c6cfb56",
+      "title": "L.I.V.E. in São Paulo (Live Immersive Virtual Experiment)",
+      "type": "LIVE",
+      "releaseDate": "2026-04-10",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4c519efc-f513-4a62-ae3d-01087b5a0bba/front-1200",
+      "tracks": [
+        {
+          "title": "Press Start (interlude)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 48104
+        },
+        {
+          "title": "DArkSide",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 238230
+        },
+        {
+          "title": "MANTRA",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 235047
+        },
+        {
+          "title": "Happy Song",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 310393
+        },
+        {
+          "title": "Teardrops",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 257131
+        },
+        {
+          "title": "AmEN!",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 270721
+        },
+        {
+          "title": "Project Angel Dust (interlude)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 75839
+        },
+        {
+          "title": "Kool‐Aid",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 248096
+        },
+        {
+          "title": "Shadow Moses",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 304441
+        },
+        {
+          "title": "[ost] (spi)ritual",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 153680
+        },
+        {
+          "title": "n/A",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 204375
+        },
+        {
+          "title": "Sleepwalking",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 250411
+        },
+        {
+          "title": "Itch for the Cure (When Will We Be Free?)",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 153338
+        },
+        {
+          "title": "Kingslayer",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 219606
+        },
+        {
+          "title": "Parasite Eve",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 352085
+        },
+        {
+          "title": "Follow You",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 324085
+        },
+        {
+          "title": "LosT",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 293845
+        },
+        {
+          "title": "Can You Feel My Heart",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 390613
+        },
+        {
+          "title": "You People Are All Doomed (interlude)",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 170972
+        },
+        {
+          "title": "Doomed",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 273609
+        },
+        {
+          "title": "Aura Gauger (interlude)",
+          "discNumber": 1,
+          "position": 21,
+          "durationMs": 69227
+        },
+        {
+          "title": "Drown",
+          "discNumber": 1,
+          "position": 22,
+          "durationMs": 234549
+        },
+        {
+          "title": "Throne",
+          "discNumber": 1,
+          "position": 23,
+          "durationMs": 307174
+        }
+      ]
+    },
+    {
+      "mbid": "497feea7-e7b6-4380-b999-0d253f75adc4",
+      "releaseMbid": "da5d9108-f02a-435c-895a-f75f4e5f6c74",
+      "title": "Count Your Blessings | Repented",
+      "type": "ALBUM",
+      "releaseDate": "2026-07-10",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/497feea7-e7b6-4380-b999-0d253f75adc4/front-1200",
+      "tracks": [
+        {
+          "title": "Pray for Plagues (2026 Repented)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 266000
+        },
+        {
+          "title": "Tell Slater Not to Wash His Dick (2026 Repented)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 219000
+        },
+        {
+          "title": "For Stevie Wonder's Eyes Only (Braille) (2026 Repented)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 268000
+        },
+        {
+          "title": "A Lot Like Vegas (2026 Repented)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 132000
+        },
+        {
+          "title": "Black & Blue (2026 Repented)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 272000
+        },
+        {
+          "title": "Slow Dance (2026 Repented)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 97000
+        },
+        {
+          "title": "Dragon Slaying (2026 Repented)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 160000
+        },
+        {
+          "title": "(I Used to Make Out With) Medusa (2026 Repented)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 365000
+        },
+        {
+          "title": "Fifteen Fathoms, Counting (2026 Repented)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 115000
+        },
+        {
+          "title": "Off the Heezay (2026 Repented)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 365000
+        },
+        {
+          "title": "Dehumanized",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 268000
+        }
+      ]
+    }
+  ],
+  "pending": [
+    {
+      "mbid": "65374e44-a68c-4553-8eb4-f1b2b584707c",
+      "releaseMbid": "188eed37-992f-4d74-bd22-39c7d2a4fdc0",
+      "title": "The Bedroom Sessions",
+      "type": "EP",
+      "releaseDate": "2003",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/65374e44-a68c-4553-8eb4-f1b2b584707c/front-1200",
+      "tracks": [
+        {
+          "title": "Shed Light",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 231000
+        },
+        {
+          "title": "Who Wants Flowers When You're Dead? Nobody.",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 294000
+        },
+        {
+          "title": "Medusa",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 328000
+        },
+        {
+          "title": "Off The Heezay",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 309000
+        },
+        {
+          "title": "Dragon Slaying",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 155000
+        }
+      ]
+    },
+    {
+      "mbid": "b2947bde-f35a-4e83-b70a-985460388027",
+      "releaseMbid": "114fc198-f5fd-4b4c-9796-7397c9f4cb96",
+      "title": "Live at Wacken Open Air",
+      "type": "LIVE",
+      "releaseDate": "2009",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Diamonds Aren't Forever",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 297069
+        },
+        {
+          "title": "The Comedown",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 265696
+        },
+        {
+          "title": "Pray for Plagues",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 338134
+        },
+        {
+          "title": "Football Season Is Over",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 169095
+        },
+        {
+          "title": "Sleep with One Eye Open",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 263267
+        },
+        {
+          "title": "The Sadness Will Never End",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 313997
+        },
+        {
+          "title": "Braille (For Stevie Wonder's Eyes Only)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 282597
+        },
+        {
+          "title": "Chelsea Smile",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 403074
+        }
+      ]
+    },
+    {
+      "mbid": "447e485d-7fc4-4a25-a61c-7a9688ad83a4",
+      "releaseMbid": "e8071b6a-3dd9-4ca4-9587-5284f1c6a915",
+      "title": "Live From Maida Vale",
+      "type": "LIVE",
+      "releaseDate": "2016-04-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/447e485d-7fc4-4a25-a61c-7a9688ad83a4/front-1200",
+      "tracks": [
+        {
+          "title": "Drown",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Throne",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "cf967c9e-133a-49ed-a9e5-8d6a7f4c2760",
+      "releaseMbid": "20f041a2-64c2-4831-ad0e-2e697230e609",
+      "title": "Wish I Could Forget (The Remixes)",
+      "type": "COMPILATION",
+      "releaseDate": "2025-01-31",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Wish I Could Forget (William Black remix)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 186857
+        },
+        {
+          "title": "Wish I Could Forget (Zomboy remix)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 245143
+        },
+        {
+          "title": "Wish I Could Forget (Vastive remix)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 243750
+        },
+        {
+          "title": "Wish I Could Forget (RIOT remix)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 183828
+        },
+        {
+          "title": "Wish I Could Forget (Vorso remix)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 205313
+        },
+        {
+          "title": "Wish I Could Forget (Hammerhead remix)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 186621
+        },
+        {
+          "title": "Wish I Could Forget (Nikademis remix)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 263333
+        },
+        {
+          "title": "Wish I Could Forget (Perry Wayne remix)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 297140
+        },
+        {
+          "title": "Wish I Could Forget (Saka remix)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 226087
+        },
+        {
+          "title": "Wish I Could Forget (Dr. Ushūu remix)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 185379
+        }
+      ]
+    }
+  ]
+}

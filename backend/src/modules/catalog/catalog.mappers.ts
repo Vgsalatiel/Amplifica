@@ -49,8 +49,14 @@ export interface ReleaseSummary {
   artists: Array<ArtistRef & { role: ReleaseArtistRole }>;
 }
 
+export interface Source {
+  name: string;
+  url: string;
+}
+
 export interface ArtistDetail extends ArtistSummary {
   bio: string | null;
+  sources: Source[];
   city: string | null;
   formedYear: number | null;
   disbandedYear: number | null;
@@ -136,6 +142,7 @@ export function toArtistDetail(
   return {
     ...toArtistSummary(artist, toImageSet),
     bio: artist.bio,
+    sources: parseSources(artist.sources),
     city: artist.city,
     formedYear: artist.formedYear,
     disbandedYear: artist.disbandedYear,
@@ -167,4 +174,23 @@ export function toReleaseDetail(
         ? durations.reduce((sum, value) => sum + value, 0)
         : null,
   };
+}
+
+/**
+ * O campo `sources` é JSON no banco. Se alguém o alterou por fora da API, itens fora do
+ * formato esperado (ou com link que não seja http/https) são descartados em vez de
+ * quebrar a página ou virar um link perigoso.
+ */
+export function parseSources(value: unknown): Source[] {
+  if (!Array.isArray(value)) {
+    return [];
+  }
+  return value.filter(
+    (item): item is Source =>
+      typeof item === 'object' &&
+      item !== null &&
+      typeof (item as Source).name === 'string' &&
+      typeof (item as Source).url === 'string' &&
+      /^https?:\/\//i.test((item as Source).url),
+  );
 }

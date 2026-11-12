@@ -20,6 +20,22 @@ const year = z
   .nullable()
   .optional();
 
+/** Fonte de um texto: um nome legível e um link. Só http e https, para não aceitar `javascript:`. */
+export const sourceSchema = z.object({
+  name: z
+    .string()
+    .trim()
+    .min(1, 'Digite o nome da fonte.')
+    .max(100, 'O nome pode ter até 100 caracteres.'),
+  url: z
+    .string()
+    .trim()
+    .max(500, 'O link pode ter até 500 caracteres.')
+    .refine((value) => /^https?:\/\/[^\s]+$/i.test(value), {
+      message: 'Use um link completo, começando com http:// ou https://.',
+    }),
+});
+
 const artistFields = z.object({
   name: z
     .string()
@@ -41,6 +57,7 @@ const artistFields = z.object({
   city: optionalText(80, 'A cidade pode ter até 80 caracteres.'),
   formedYear: year,
   disbandedYear: year,
+  sources: z.array(sourceSchema).max(10, 'Use até 10 fontes.').optional(),
   genreIds: z
     .array(z.uuid('Gênero inválido.'))
     .max(10, 'Escolha até 10 gêneros.')
