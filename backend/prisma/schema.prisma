@@ -1,5 +1,5 @@
 // Schema do banco do Amplifica.
-// As tabelas entram nas etapas que as utilizam (User na etapa 2, catálogo na etapa 3).
+// As tabelas entram nas etapas que as utilizam (catálogo na etapa 3).
 
 generator client {
   provider = "prisma-client"
@@ -8,4 +8,53 @@ generator client {
 
 datasource db {
   provider = "postgresql"
+}
+
+enum Role {
+  USER
+  ADMIN
+}
+
+model User {
+  id           String   @id @default(uuid(7)) @db.Uuid
+  // Sempre gravado em minúsculas, para que a unicidade não dependa de maiúsculas.
+  email        String   @unique
+  // Letras minúsculas, números, ponto e sublinhado. É o que aparece em /u/<username>.
+  username     String   @unique
+  // Hash scrypt gerado pelo PasswordHasher. Nunca sai em respostas da API.
+  passwordHash String
+  displayName  String
+  bio          String?
+  role         Role     @default(USER)
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+}
+
+// Tokens de renovação de sessão. O formato segue o contrato RefreshTokenStore
+// do @nestjs/authentication.
+model RefreshToken {
+  // SHA-256 do token. O token em si nunca é gravado.
+  id              String    @id
+  // Toda rotação continua na "família" do login original.
+  familyId        String
+  // Sem chave estrangeira: o contrato trata o id do usuário como texto opaco.
+  // A limpeza ao excluir um usuário é feita pelo service.
+  userId          String
+  createdAt       DateTime
+  expiresAt       DateTime
+  familyExpiresAt DateTime
+  // Preenchido quando o token é trocado por um novo. Reapresentar um token usado indica roubo.
+  usedAt          DateTime?
+  claims          Json?
+
+  @@index([familyId])
+  @@index([userId])
+  @@index([familyExpiresAt])
+}
+
+// Famílias revogadas (logout ou reuso detectado). Fica em tabela própria porque a
+// revogação precisa valer também para tokens da família gravados depois dela.
+model RevokedTokenFamily {
+  familyId  String   @id
+  revokedAt DateTime @default(now())
 }

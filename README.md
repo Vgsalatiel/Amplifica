@@ -4,7 +4,7 @@
 
 Plataforma de descoberta musical e comunidade voltada ao rock e suas vertentes: discografias organizadas, gêneros como mapa de navegação, notas e resenhas com assinatura.
 
-> Projeto em desenvolvimento. Estado atual: **etapa 1 (identidade visual)** concluída — tokens, componentes-base e guia visual em [`/guia`](https://amplificacore.netlify.app/guia). O catálogo ainda não existe.
+> Projeto em desenvolvimento. Estado atual: **etapa 2 (autenticação), parte da API** concluída — cadastro, login, sessão e perfis pela API; as telas vêm a seguir. Guia visual em [`/guia`](https://amplificacore.netlify.app/guia). O catálogo ainda não existe.
 
 ## Stack
 
@@ -33,7 +33,8 @@ Pré-requisitos: Node.js 24 (`nvm use` lê o `.nvmrc`) e um banco PostgreSQL no 
 ```bash
 cd backend
 npm install
-cp .env.example .env   # preencha DATABASE_URL e DATABASE_URL_UNPOOLED com as strings do Neon
+cp .env.example .env   # preencha as strings do Neon e gere o JWT_ACCESS_SECRET
+npm run prisma:deploy  # cria as tabelas
 npm run start:dev
 ```
 
@@ -60,15 +61,31 @@ Os mesmos nos dois projetos, salvo indicação:
 | `npm run lint` | Análise estática com oxlint |
 | `npm run typecheck` | Checagem de tipos |
 | `npm test` | Testes unitários |
-| `npm run test:e2e` | Testes e2e da API (só no backend) |
+| `npm run test:e2e` | Testes da API contra o banco do `.env` (só no backend). Criam e apagam apenas contas `@e2e.amplifica.test` |
 | `npm run build` | Build de produção |
 | `npm run prisma:migrate` | Cria e aplica migrations em desenvolvimento (só no backend) |
+| `npm run seed:admin` | Cria o primeiro administrador a partir de `ADMIN_EMAIL`, `ADMIN_USERNAME` e `ADMIN_PASSWORD` (só no backend) |
+
+## API
+
+Todas as rotas ficam sob `/api/v1`. Erros seguem um formato único: `{ statusCode, code, message, details? }`.
+
+| Rota | Acesso | O que faz |
+| --- | --- | --- |
+| `POST /auth/register` | Pública | Cria a conta e inicia a sessão |
+| `POST /auth/login` | Pública | Inicia a sessão |
+| `POST /auth/refresh` | Cookie | Renova a sessão e troca o token de renovação |
+| `POST /auth/logout` | Cookie | Encerra a sessão do dispositivo |
+| `GET /auth/me` | Autenticada | Dados da própria conta |
+| `GET /users/:username` | Pública | Perfil público |
+| `PATCH /users/me` | Autenticada | Edita nome de exibição e bio |
+| `GET /health` | Pública | Estado da API e do banco |
 
 ## Deploy
 
 | Parte | Serviço | Configuração |
 | --- | --- | --- |
-| API | Render (`https://amplifica.onrender.com`) | Root `backend`, build `npm install --include=dev && npm run build`, start `npm run start:prod` |
+| API | Render (`https://amplifica.onrender.com`) | Root `backend`, build `npm install --include=dev && npm run build`, start `npm run start:prod`, que aplica as migrations antes de subir |
 | Frontend | Netlify | Configurado pelo `netlify.toml`, que também encaminha `/api/*` para a API |
 | Banco | Neon | Um banco para desenvolvimento e outro para produção |
 

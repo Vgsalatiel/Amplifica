@@ -20,6 +20,26 @@ jobs:
     defaults:
       run:
         working-directory: backend
+    # Banco descartável só para os testes: nasce vazio a cada execução e some no fim.
+    services:
+      postgres:
+        image: postgres:17
+        env:
+          POSTGRES_USER: amplifica
+          POSTGRES_PASSWORD: amplifica
+          POSTGRES_DB: amplifica_test
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd "pg_isready -U amplifica -d amplifica_test"
+          --health-interval 5s
+          --health-timeout 5s
+          --health-retries 10
+    env:
+      DATABASE_URL: postgresql://amplifica:amplifica@localhost:5432/amplifica_test
+      DATABASE_URL_UNPOOLED: postgresql://amplifica:amplifica@localhost:5432/amplifica_test
+      # Valor fixo, usado apenas neste banco descartável. Não é um segredo real.
+      JWT_ACCESS_SECRET: ci-only-secret-0123456789-abcdefghijklmnopqrstuvwxyz
     steps:
       - uses: actions/checkout@v7
       - uses: actions/setup-node@v7
@@ -32,6 +52,7 @@ jobs:
       - run: npm run lint
       - run: npm run typecheck
       - run: npm test
+      - run: npx prisma migrate deploy
       - run: npm run test:e2e
       - run: npm run build
 

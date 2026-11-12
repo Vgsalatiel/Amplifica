@@ -8,6 +8,8 @@ export interface Env {
   PORT: number;
   CORS_ORIGIN: string;
   DATABASE_URL: string;
+  /** Segredo HMAC que assina os tokens de acesso. Mínimo de 32 caracteres. */
+  JWT_ACCESS_SECRET: string;
 }
 
 const NODE_ENVS = ['development', 'test', 'production'] as const;
@@ -41,6 +43,11 @@ export function validateEnv(raw: Record<string, unknown>): Env {
     errors.push('DATABASE_URL deve começar com postgresql://');
   }
 
+  const jwtAccessSecret = readString('JWT_ACCESS_SECRET');
+  if (jwtAccessSecret && jwtAccessSecret.length < 32) {
+    errors.push('JWT_ACCESS_SECRET deve ter pelo menos 32 caracteres');
+  }
+
   if (errors.length > 0) {
     throw new Error(
       `Configuração de ambiente inválida:\n- ${errors.join('\n- ')}\n` +
@@ -53,5 +60,6 @@ export function validateEnv(raw: Record<string, unknown>): Env {
     PORT: port,
     CORS_ORIGIN: corsOrigin,
     DATABASE_URL: databaseUrl,
+    JWT_ACCESS_SECRET: jwtAccessSecret,
   };
 }

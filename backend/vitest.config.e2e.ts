@@ -1,3 +1,6 @@
+// Carrega o backend/.env quando ele existe (desenvolvimento). No CI as variáveis
+// vêm do próprio workflow.
+import 'dotenv/config';
 import { defineConfig } from 'vitest/config';
 
 export default defineConfig({
@@ -6,12 +9,13 @@ export default defineConfig({
     globals: true,
     root: './',
     include: ['**/*.e2e-spec.ts'],
-    // Valores fictícios: a validação de ambiente exige as variáveis,
-    // mas os testes e2e não se conectam a um banco real.
+    // Os testes e2e usam um banco real e compartilham tabelas: um arquivo por vez.
+    fileParallelism: false,
+    testTimeout: 30_000,
+    hookTimeout: 60_000,
     env: {
       NODE_ENV: 'test',
       CORS_ORIGIN: 'http://localhost:5173',
-      DATABASE_URL: 'postgresql://test:test@localhost:5432/test',
     },
   },
 });
