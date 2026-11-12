@@ -1,7 +1,7 @@
 import { fireEvent, screen } from '@testing-library/react'
 import { describe, expect, it } from 'vitest'
 import { endSession, sessionStore, startSession } from '../../lib/session'
-import { mockApi, renderWithProviders, sessionFor } from '../../test/helpers'
+import { mockApi, renderWithProviders, sessionFor, testUser } from '../../test/helpers'
 import { SiteHeader } from './site-header'
 
 function renderHeader() {
@@ -51,6 +51,18 @@ describe('SiteHeader', () => {
 
     expect(screen.getByRole('link', { name: 'Entrar' })).toHaveAttribute('href', '/entrar')
     expect(screen.getByRole('link', { name: 'Criar conta' })).toHaveAttribute('href', '/cadastro')
+  })
+
+  it('mostra o link da administração só para administradores', () => {
+    startSession(sessionFor())
+    const { unmount } = renderHeader()
+    expect(screen.queryByRole('link', { name: 'Administração' })).not.toBeInTheDocument()
+    unmount()
+
+    endSession()
+    startSession(sessionFor({ ...testUser, role: 'ADMIN' }))
+    renderHeader()
+    expect(screen.getByRole('link', { name: 'Administração' })).toHaveAttribute('href', '/admin')
   })
 
   it('mostra o perfil de quem está logado e encerra a sessão ao sair', async () => {

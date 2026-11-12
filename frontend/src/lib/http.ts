@@ -25,6 +25,8 @@ export interface HttpOptions {
   method?: 'GET' | 'POST' | 'PATCH' | 'PUT' | 'DELETE'
   /** Corpo enviado como JSON. */
   json?: unknown
+  /** Envio de arquivo (multipart). O navegador define o cabeçalho com a fronteira correta. */
+  form?: FormData
   /** Token de acesso, quando a rota exige login. */
   token?: string | null
 }
@@ -41,7 +43,7 @@ export async function httpRequest<T>(path: string, options: HttpOptions = {}): P
   const response = await fetch(`${BASE_URL}${path}`, {
     method: options.method ?? 'GET',
     headers,
-    body: options.json === undefined ? undefined : JSON.stringify(options.json),
+    body: options.form ?? (options.json === undefined ? undefined : JSON.stringify(options.json)),
   })
 
   // 204 não tem corpo; e o corpo pode não ser JSON (uma página de erro do proxy, por exemplo).

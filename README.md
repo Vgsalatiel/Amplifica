@@ -4,7 +4,7 @@
 
 Plataforma de descoberta musical e comunidade voltada ao rock e suas vertentes: discografias organizadas, gêneros como mapa de navegação, notas e resenhas com assinatura.
 
-> Projeto em desenvolvimento. Estado atual: **etapa 3 (catálogo), parte da API** concluída — gêneros, artistas, lançamentos, faixas e envio de imagens pela API. A área administrativa (telas) vem a seguir. Guia visual em [`/guia`](https://amplificacore.netlify.app/guia).
+> Projeto em desenvolvimento. Estado atual: **etapa 3 (catálogo)** concluída — API e área administrativa em `/admin`: gêneros, artistas, lançamentos com faixas, imagens e cor da capa. As páginas públicas do catálogo vêm a seguir. Guia visual em [`/guia`](https://amplificacore.netlify.app/guia).
 
 ## Stack
 
@@ -50,7 +50,20 @@ npm install
 npm run dev
 ```
 
-Abra o endereço que o Vite mostrar. A página `/guia` reúne os componentes e mostra se a API e o banco estão no ar.
+Abra o endereço que o Vite mostrar. Se a API estiver em outra porta que não a 3000, use `API_PROXY_TARGET=http://localhost:3100 npm run dev`. A página `/guia` reúne os componentes e mostra se a API e o banco estão no ar.
+
+## Administração
+
+O catálogo é cadastrado pelo administrador em `/admin` (o link aparece no cabeçalho só para quem tem o papel ADMIN). Não existe rota que promova contas; o primeiro administrador é criado fora da interface:
+
+```bash
+# Em desenvolvimento: cria a conta, ou promove se o e-mail já existe
+cd backend && ADMIN_EMAIL=voce@exemplo.com ADMIN_USERNAME=voce ADMIN_PASSWORD=uma-senha-boa npm run seed:admin
+```
+
+Em produção, promova uma conta já cadastrada no editor SQL do banco: `UPDATE "User" SET role = 'ADMIN' WHERE email = 'voce@exemplo.com';`
+
+Imagens enviadas em desenvolvimento ficam em `backend/storage` (ignorada pelo Git). Em produção, o envio só funciona depois de configurar o bucket (variáveis `STORAGE_*`).
 
 ## Scripts
 

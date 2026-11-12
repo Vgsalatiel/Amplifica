@@ -6,11 +6,13 @@ import { TextArea } from '../../../components/ui/text-area'
 import { TextField } from '../../../components/ui/text-field'
 import { TextLink } from '../../../components/ui/text-link'
 import { fieldErrorsFrom, formMessageFrom } from '../../../lib/form-errors'
+import { ApiError } from '../../../lib/http'
 import { updateSessionUser } from '../../../lib/session'
 import type { User } from '../../../types/api'
 import { FormAlert } from '../../auth/components/form-alert'
 import { useSession } from '../../auth/hooks/use-session'
-import { updateProfile } from '../api/profile-api'
+import { ImageUploader } from '../../admin/components/image-uploader'
+import { removeAvatar, updateProfile, uploadAvatar } from '../api/profile-api'
 
 const BIO_LIMIT = 280
 
@@ -38,6 +40,16 @@ function AccountForm({ user }: { user: User }) {
   })
   const errors = fieldErrorsFrom(mutation.error)
 
+  // Trocar ou remover o avatar atualiza só o usuário da sessão: o nome e a bio digitados
+  // e ainda não salvos ficam como estão.
+  const afterAvatarChange = (updated: User) => {
+    updateSessionUser(updated)
+    void queryClient.invalidateQueries({ queryKey: ['profile', updated.username] })
+  }
+  const upload = useMutation({ mutationFn: uploadAvatar, onSuccess: afterAvatarChange })
+  const removeCurrent = useMutation({ mutationFn: removeAvatar, onSuccess: afterAvatarChange })
+  const avatarError = upload.error ?? removeCurrent.error
+
   function handleSubmit(event: FormEvent) {
     event.preventDefault()
     mutation.mutate({ displayName, bio })
@@ -53,6 +65,23 @@ function AccountForm({ user }: { user: User }) {
             Ver perfil público
           </TextLink>
         </p>
+
+        <ImageUploader
+          className="mt-10"
+          label="Foto de perfil"
+          description="JPEG, PNG ou WebP, até 5 MB. A imagem é recortada em quadrado."
+          image={user.avatar}
+          onUpload={(file) => upload.mutate(file)}
+          onRemove={() => removeCurrent.mutate()}
+          pending={upload.isPending || removeCurrent.isPending}
+          error={
+            avatarError
+              ? avatarError instanceof ApiError
+                ? avatarError.message
+                : 'Não foi possível falar com o servidor.'
+              : null
+          }
+        />
 
         <form onSubmit={handleSubmit} noValidate className="mt-10 flex flex-col gap-6">
           <FormAlert message={formMessageFrom(mutation.error)} />

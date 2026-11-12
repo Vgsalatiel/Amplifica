@@ -10,7 +10,8 @@ export default defineConfig({
     // com localhost:5173, o que reproduz o comportamento de produção (proxy na Netlify)
     // e evita problemas de CORS e de cookies entre origens.
     proxy: {
-      '/api': 'http://localhost:3000',
+      // Para apontar para outra porta (ou outro servidor): API_PROXY_TARGET=http://localhost:3100 npm run dev
+      '/api': process.env.API_PROXY_TARGET ?? 'http://localhost:3000',
     },
   },
   test: {

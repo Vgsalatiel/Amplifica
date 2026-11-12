@@ -11,6 +11,7 @@ export const testUser: User = {
   username: 'marina.fz',
   displayName: 'Marina F.',
   bio: null,
+  avatar: null,
   role: 'USER',
   createdAt: '2026-11-12T12:00:00.000Z',
 }

@@ -8,8 +8,8 @@ import { buttonClasses } from '../ui/button-styles'
 import { Logo } from '../ui/logo'
 import { Container } from './container'
 
-// As seções do produto (artistas, lançamentos, gêneros) entram aqui nas etapas em que forem criadas.
-const NAV_ITEMS = [
+// As seções públicas do catálogo (artistas, lançamentos, gêneros) entram aqui na etapa 4.
+const BASE_NAV_ITEMS = [
   { to: '/', label: 'Início' },
   { to: '/guia', label: 'Guia visual' },
 ]
@@ -23,6 +23,12 @@ function navLinkClass({ isActive }: { isActive: boolean }): string {
 
 export function SiteHeader() {
   const [menuOpen, setMenuOpen] = useState(false)
+  const session = useSession()
+  // O link da administração só aparece para administradores.
+  const NAV_ITEMS =
+    session.status === 'authenticated' && session.user.role === 'ADMIN'
+      ? [...BASE_NAV_ITEMS, { to: '/admin', label: 'Administração' }]
+      : BASE_NAV_ITEMS
   const closeMenu = () => setMenuOpen(false)
 
   return (
@@ -34,7 +40,7 @@ export function SiteHeader() {
 
         <nav aria-label="Principal" className="hidden gap-8 md:flex">
           {NAV_ITEMS.map((item) => (
-            <NavLink key={item.to} to={item.to} end className={navLinkClass}>
+            <NavLink key={item.to} to={item.to} end={item.to !== '/admin'} className={navLinkClass}>
               {item.label}
             </NavLink>
           ))}
@@ -71,7 +77,13 @@ export function SiteHeader() {
         <nav id="menu-celular" aria-label="Principal" className="border-y border-rule md:hidden">
           <Container className="flex flex-col items-start py-2">
             {NAV_ITEMS.map((item) => (
-              <NavLink key={item.to} to={item.to} end className={navLinkClass} onClick={closeMenu}>
+              <NavLink
+                key={item.to}
+                to={item.to}
+                end={item.to !== '/admin'}
+                className={navLinkClass}
+                onClick={closeMenu}
+              >
                 {item.label}
               </NavLink>
             ))}

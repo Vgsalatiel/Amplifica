@@ -56,13 +56,18 @@ export function ProfilePage() {
   return (
     <Container className="pt-12 md:pt-20">
       <header className="flex flex-wrap items-end justify-between gap-6">
-        <div>
+        <div className="flex flex-wrap items-end gap-6">
+          {user.avatar && (
+            <img src={user.avatar.large} alt={`Foto de ${user.displayName}`} className="size-28 object-cover md:size-36" />
+          )}
+          <div>
           <h1 className="font-display text-6xl leading-[0.96] font-normal tracking-tight break-words md:text-7xl">
             {user.displayName}
           </h1>
           <p className="mt-3 text-muted">
             @{user.username}, no Amplifica desde {memberSince(user.createdAt)}
           </p>
+          </div>
         </div>
         {isOwnProfile && (
           <ButtonLink to="/conta" variant="secondary">

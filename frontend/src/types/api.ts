@@ -3,12 +3,19 @@
 export type Role = 'USER' | 'ADMIN'
 
 /** A própria conta, como vem de /auth/me, login, cadastro e renovação. */
+/** Duas versões de cada imagem: a grande (página) e a pequena (listas). */
+export interface ImageSet {
+  large: string
+  small: string
+}
+
 export interface User {
   id: string
   email: string
   username: string
   displayName: string
   bio: string | null
+  avatar: ImageSet | null
   role: Role
   createdAt: string
 }
@@ -18,6 +25,7 @@ export interface PublicUser {
   username: string
   displayName: string
   bio: string | null
+  avatar: ImageSet | null
   createdAt: string
 }
 
@@ -30,4 +38,78 @@ export interface SessionResponse {
 export interface ApiErrorDetail {
   field: string
   message: string
+}
+
+export interface Paginated<T> {
+  items: T[]
+  meta: { page: number; limit: number; total: number; totalPages: number }
+}
+
+// ---------------------------------------------------------------------------
+// Catálogo
+// ---------------------------------------------------------------------------
+
+export type ArtistType = 'BAND' | 'SOLO'
+export type ReleaseType = 'ALBUM' | 'EP' | 'SINGLE' | 'LIVE' | 'COMPILATION'
+export type DatePrecision = 'YEAR' | 'MONTH' | 'DAY'
+export type ReleaseArtistRole = 'PRIMARY' | 'FEATURED'
+
+export interface GenreRef {
+  id: string
+  name: string
+  slug: string
+}
+
+export interface GenreItem extends GenreRef {
+  description: string | null
+  parentId: string | null
+}
+
+export type GenreNode = GenreItem & { children: GenreNode[] }
+
+export interface ArtistSummary {
+  id: string
+  name: string
+  slug: string
+  type: ArtistType
+  country: string | null
+  image: ImageSet | null
+  genres: GenreRef[]
+}
+
+export interface ReleaseSummary {
+  id: string
+  title: string
+  slug: string
+  type: ReleaseType
+  /** "2013", "2013-04" ou "2013-04-01": só a parte da data que se conhece. */
+  releaseDate: string
+  datePrecision: DatePrecision
+  cover: ImageSet | null
+  /** Cor de destaque da página do álbum, em #RRGGBB. */
+  accentColor: string | null
+  artists: Array<{ id: string; name: string; slug: string; role: ReleaseArtistRole }>
+}
+
+export interface ArtistDetail extends ArtistSummary {
+  bio: string | null
+  city: string | null
+  formedYear: number | null
+  disbandedYear: number | null
+  releases: ReleaseSummary[]
+}
+
+export interface Track {
+  id: string
+  title: string
+  discNumber: number
+  position: number
+  durationMs: number | null
+}
+
+export interface ReleaseDetail extends ReleaseSummary {
+  description: string | null
+  youtubeVideoId: string | null
+  tracks: Track[]
+  durationMs: number | null
 }
