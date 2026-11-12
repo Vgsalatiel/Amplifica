@@ -4,6 +4,10 @@ import { endSession } from '../../../lib/session'
 import { mockApi, renderRoutes, sessionFor } from '../../../test/helpers'
 import { RegisterPage } from './register-page'
 
+const EMAIL = 'Qual é o seu e-mail?'
+const USERNAME = 'Como você quer ser chamado?'
+const PASSWORD = 'Agora, crie uma senha.'
+
 function renderRegister() {
   endSession()
   return renderRoutes(
@@ -15,38 +19,73 @@ function renderRegister() {
   )
 }
 
-function fill(email: string, username: string, password: string) {
-  fireEvent.change(screen.getByLabelText('E-mail'), { target: { value: email } })
-  fireEvent.change(screen.getByLabelText('Nome de usuário'), { target: { value: username } })
-  fireEvent.change(screen.getByLabelText('Senha'), { target: { value: password } })
-  fireEvent.click(screen.getByRole('button', { name: 'Criar conta' }))
+/** Preenche o campo do passo atual e avança. */
+function answer(question: string, value: string, button = 'Continuar') {
+  fireEvent.change(screen.getByLabelText(question), { target: { value } })
+  fireEvent.click(screen.getByRole('button', { name: button }))
 }
 
 describe('RegisterPage', () => {
-  it('cria a conta e leva ao perfil', async () => {
-    mockApi({ 'POST /auth/register': { status: 201, body: sessionFor() } })
+  it('percorre os três passos, cria a conta e leva ao perfil', async () => {
+    const fetchMock = mockApi({ 'POST /auth/register': { status: 201, body: sessionFor() } })
     renderRegister()
 
-    fill('marina@exemplo.com', 'marina.fz', 'senha-segura')
+    expect(screen.getByRole('img', { name: 'Passo 1 de 3' })).toBeInTheDocument()
+    answer(EMAIL, ' marina@exemplo.com ')
+
+    expect(screen.getByRole('img', { name: 'Passo 2 de 3' })).toBeInTheDocument()
+    answer(USERNAME, 'marina.fz')
+
+    answer(PASSWORD, 'senha-segura', 'Criar conta')
 
     expect(await screen.findByText('Perfil criado')).toBeInTheDocument()
+    expect(fetchMock).toHaveBeenCalledTimes(1)
+    expect(JSON.parse(fetchMock.mock.calls[0][1]?.body as string)).toEqual({
+      email: 'marina@exemplo.com',
+      username: 'marina.fz',
+      password: 'senha-segura',
+    })
   })
 
-  it('aponta os campos inválidos sem chamar a API', () => {
+  it('não avança com resposta inválida e explica o motivo no campo', () => {
     const fetchMock = mockApi({})
     renderRegister()
 
-    fill('sem-arroba', 'ab', '123')
+    answer(EMAIL, 'sem-arroba')
 
-    expect(screen.getByLabelText('E-mail')).toHaveAttribute('aria-invalid', 'true')
-    expect(screen.getByLabelText('Nome de usuário')).toHaveAccessibleDescription(
-      'O nome de usuário precisa de pelo menos 3 caracteres.',
+    expect(screen.getByLabelText(EMAIL)).toHaveAttribute('aria-invalid', 'true')
+    expect(screen.getByLabelText(EMAIL)).toHaveAccessibleDescription(
+      'Digite um e-mail válido, como nome@exemplo.com.',
     )
-    expect(screen.getByLabelText('Senha')).toHaveAttribute('aria-invalid', 'true')
+    expect(screen.getByRole('img', { name: 'Passo 1 de 3' })).toBeInTheDocument()
     expect(fetchMock).not.toHaveBeenCalled()
   })
 
-  it('mostra no campo o erro que só a API conhece, como e-mail já em uso', async () => {
+  it('leva o foco ao campo de cada passo', () => {
+    renderRegister()
+    expect(screen.getByLabelText(EMAIL)).toHaveFocus()
+
+    answer(EMAIL, 'marina@exemplo.com')
+
+    expect(screen.getByLabelText(USERNAME)).toHaveFocus()
+  })
+
+  it('permite voltar a um passo anterior sem perder o que foi digitado', () => {
+    renderRegister()
+    answer(EMAIL, 'marina@exemplo.com')
+    answer(USERNAME, 'marina.fz')
+
+    fireEvent.click(screen.getByRole('button', { name: '1. E-mail: marina@exemplo.com' }))
+    expect(screen.getByLabelText(EMAIL)).toHaveValue('marina@exemplo.com')
+
+    fireEvent.click(screen.getByRole('button', { name: 'Continuar' }))
+    expect(screen.getByLabelText(USERNAME)).toHaveValue('marina.fz')
+
+    fireEvent.click(screen.getByRole('button', { name: 'Voltar para o e-mail' }))
+    expect(screen.getByLabelText(EMAIL)).toBeInTheDocument()
+  })
+
+  it('volta ao passo do campo que a API recusou, como e-mail já em uso', async () => {
     mockApi({
       'POST /auth/register': {
         status: 409,
@@ -59,18 +98,42 @@ describe('RegisterPage', () => {
       },
     })
     renderRegister()
-
-    fill('marina@exemplo.com', 'marina.fz', 'senha-segura')
+    answer(EMAIL, 'marina@exemplo.com')
+    answer(USERNAME, 'marina.fz')
+    answer(PASSWORD, 'senha-segura', 'Criar conta')
 
     expect(await screen.findByText('Já existe uma conta com esse e-mail.')).toBeInTheDocument()
-    expect(screen.getByLabelText('E-mail')).toHaveAttribute('aria-invalid', 'true')
+    expect(screen.getByLabelText(EMAIL)).toHaveAttribute('aria-invalid', 'true')
+  })
+
+  it('avisa quando não consegue falar com o servidor', async () => {
+    mockApi({})
+    renderRegister()
+    answer(EMAIL, 'marina@exemplo.com')
+    answer(USERNAME, 'marina.fz')
+    answer(PASSWORD, 'senha-segura', 'Criar conta')
+
+    expect(await screen.findByRole('alert')).toHaveTextContent('Não foi possível falar com o servidor')
   })
 
   it('converte o nome de usuário para minúsculas enquanto a pessoa digita', () => {
     renderRegister()
+    answer(EMAIL, 'marina@exemplo.com')
 
-    fireEvent.change(screen.getByLabelText('Nome de usuário'), { target: { value: 'Marina' } })
+    fireEvent.change(screen.getByLabelText(USERNAME), { target: { value: 'Marina' } })
 
-    expect(screen.getByLabelText('Nome de usuário')).toHaveValue('marina')
+    expect(screen.getByLabelText(USERNAME)).toHaveValue('marina')
+  })
+
+  it('mostra e oculta a senha', () => {
+    renderRegister()
+    answer(EMAIL, 'marina@exemplo.com')
+    answer(USERNAME, 'marina.fz')
+    expect(screen.getByLabelText(PASSWORD)).toHaveAttribute('type', 'password')
+
+    fireEvent.click(screen.getByRole('button', { name: 'Mostrar' }))
+
+    expect(screen.getByLabelText(PASSWORD)).toHaveAttribute('type', 'text')
+    expect(screen.getByRole('button', { name: 'Ocultar' })).toHaveAttribute('aria-pressed', 'true')
   })
 })
