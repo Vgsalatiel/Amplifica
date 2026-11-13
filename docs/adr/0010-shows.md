@@ -1,7 +1,7 @@
 # ADR 0010 — Shows
 
 - **Data:** 2026-11-13
-- **Status:** aceita (API e carga de dados; telas nas próximas etapas)
+- **Status:** aceita (API, carga de dados, administração e importação por link; telas públicas na etapa seguinte)
 
 ## Contexto
 
@@ -20,15 +20,23 @@ O site passa a ter uma agenda de shows de rock e vertentes no Brasil. Não exist
 9. **Endereço (slug)** gerado de "nome do evento ou primeira banda + cidade + data", como `linkin-park-sao-paulo-2027-03-15`, com sufixo numérico se já existir.
 10. **Carga por arquivo**, como no catálogo: `npm run shows:seed -- prisma/data/shows/ARQUIVO.json`. O arquivo exige link, data de conferência e ao menos um gênero por show. É seguro repetir: o show é reconhecido por dia, cidade, local e primeira banda. Por padrão o que já existe é mantido (para não perder edições do admin); `--update` atualiza.
 
+11. **Importar de um link, com revisão.** No formulário de novo show, o admin cola o link de uma página de evento. `POST /shows/import-preview` (só ADMIN) lê aquela página e devolve uma **sugestão**: nada é gravado até a pessoa conferir e enviar o formulário. A leitura usa os dados que a própria página publica para buscadores (JSON-LD, tipo `Event`/`MusicEvent` do schema.org): nome, dia e horário, local, cidade, estado, bandas, situação (cancelado, esgotado, reagendado). As bandas que têm o mesmo nome de uma do catálogo já vêm ligadas a ela, e a resposta avisa se o show já está cadastrado. Sem esses dados na página, vem só o título e o aviso de que o resto é à mão.
+12. **Como a leitura se comporta.** É uma página por clique, como a pré-visualização de um link: não rastreia o site, não segue links e não roda sozinha. Respeita o `robots.txt` (e recusa ler quando não consegue conferi-lo), identifica-se com um agente genérico (`catalog-import/0.1`, ajustável por `IMPORT_USER_AGENT`) sem dados de ninguém, aceita só as portas 80 e 443, limita a 10 s e 2 MB (já descomprimidos) e recusa endereços internos (máquina local, redes privadas, metadados de nuvem), conferindo o endereço no momento da conexão, também nos redirecionamentos.
+
+## O que a importação mostrou na prática
+
+Na página de um show de teste do Ticket360, a data estruturada dizia 9 de janeiro e o texto da descrição falava em 10 de outubro; o evento estava marcado como reagendado. O Clube do Ingresso publica só os lotes de ingresso, sem data nem local. Por isso a sugestão nunca é salva sozinha, e a data de conferência é a da pessoa que olhou.
+
 ## Alternativas consideradas
 
 - **API de terceiros (Bandsintown, Songkick, Ticketmaster):** exigem chave, restringem o uso público nos termos e cobrem pouco o Brasil.
-- **Raspagem de sites de ingresso:** frágil e juridicamente arriscada.
+- **Raspagem automática e agendada de sites de ingresso:** frágil (quebra quando o site muda), costuma violar os termos de uso e publicaria dados errados sem ninguém ver. A importação por link é o meio-termo: automática na leitura, humana na decisão.
 - **Um show por banda, sem escalação:** simples, mas duplica festivais e não deixa listar "quem toca no evento".
 - **Gêneros herdados do artista:** evitaria cadastrar gêneros, mas deixaria de fora toda banda que não está no catálogo.
 
 ## Limites conhecidos
 
 - A lista é tão completa quanto o cadastro. "Todos os shows do Brasil" não é uma promessa que um cadastro manual consiga cumprir; por isso a data de conferência e o link oficial ficam visíveis.
+- Cada site publica (ou não) os dados do evento do seu jeito: a importação funciona bem onde há `Event` estruturado e fica só com o título onde não há. Sites que proíbem leitura automática no `robots.txt` são respeitados.
 - Não há histórico de alterações nem aviso automático de cancelamento ou mudança de data.
 - O filtro de cidade compara o texto da cidade sem diferenciar maiúsculas, mas não ignora acento ("Brasilia" não acha "Brasília"). A tela vai oferecer as cidades existentes em vez de campo livre.

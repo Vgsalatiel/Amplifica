@@ -1,4 +1,4 @@
-import { Test } from '@nestjs/testing';
+import { Test, type TestingModuleBuilder } from '@nestjs/testing';
 import type { NestExpressApplication } from '@nestjs/platform-express';
 import { AppModule } from '../src/app.module.js';
 import { setupApp } from '../src/app.setup.js';
@@ -7,10 +7,18 @@ import { PrismaService } from '../src/prisma/prisma.service.js';
 /** Todo usuário criado pelos testes usa este domínio, para que a limpeza só apague o que é deles. */
 export const TEST_EMAIL_DOMAIN = '@e2e.amplifica.test';
 
-export async function createTestApp(): Promise<NestExpressApplication> {
-  const moduleRef = await Test.createTestingModule({
-    imports: [AppModule],
-  }).compile();
+/**
+ * Sobe a aplicação inteira. `configure` permite trocar peças por falsas, como a leitura de páginas
+ * da internet (`overrideProvider`), para os testes não dependerem da rede.
+ */
+export async function createTestApp(
+  configure: (builder: TestingModuleBuilder) => TestingModuleBuilder = (
+    builder,
+  ) => builder,
+): Promise<NestExpressApplication> {
+  const moduleRef = await configure(
+    Test.createTestingModule({ imports: [AppModule] }),
+  ).compile();
 
   const app = moduleRef.createNestApplication<NestExpressApplication>();
   setupApp(app);

@@ -149,3 +149,16 @@ export const listShowsSchema = paginationSchema.extend({
 export type CreateShowDto = z.infer<typeof createShowSchema>;
 export type UpdateShowDto = z.infer<typeof updateShowSchema>;
 export type ListShowsQuery = z.infer<typeof listShowsSchema>;
+
+/** Link de uma página de evento. Só http e https; a leitura confere o resto (endereços internos, robots.txt). */
+export const importPreviewSchema = z.object({
+  url: z
+    .string('Cole o link da página do evento.')
+    .trim()
+    .max(500, 'O link pode ter até 500 caracteres.')
+    .refine((value) => /^https?:\/\/[^\s]+$/i.test(value), {
+      message: 'Use um link completo, começando com http:// ou https://.',
+    }),
+});
+
+export type ImportPreviewDto = z.infer<typeof importPreviewSchema>;

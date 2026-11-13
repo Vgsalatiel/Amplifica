@@ -182,6 +182,7 @@ Todas as rotas ficam sob `/api/v1`. Erros seguem um formato único: `{ statusCod
 | `GET /shows` | Pública | Agenda paginada: por padrão os próximos shows, sem cancelados. Filtros: `when` (`upcoming`, `past`, `all`), `state`, `city`, `genre` (inclui subgêneros), `artist`, `month` (AAAA-MM), `status` |
 | `GET /shows/:slug` | Pública | Show com escalação, gêneros, link oficial e data da última conferência |
 | `POST`, `PATCH`, `DELETE` em `/genres`, `/artists`, `/releases`, `/shows` | ADMIN | Cadastro e edição do catálogo e da agenda |
+| `POST /shows/import-preview` | ADMIN | Lê a página de um evento (por link) e devolve uma sugestão de show, sem gravar nada |
 | `PUT`, `DELETE` em `/artists/:id/image` e `/releases/:id/cover` | ADMIN | Foto do artista e capa do lançamento |
 | `PUT`, `DELETE /users/me/avatar` | Autenticada | Avatar da própria conta |
 | `GET /health` | Pública | Estado da API e do banco |

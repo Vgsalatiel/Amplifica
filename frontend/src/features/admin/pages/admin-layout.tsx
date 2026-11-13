@@ -6,9 +6,10 @@ const SECTIONS = [
   { to: '/admin/lancamentos', label: 'Lançamentos' },
   { to: '/admin/artistas', label: 'Artistas' },
   { to: '/admin/generos', label: 'Gêneros' },
+  { to: '/admin/shows', label: 'Shows' },
 ]
 
-/** Moldura da administração: título e as três seções do catálogo. */
+/** Moldura da administração: título e as seções do catálogo e da agenda. */
 export function AdminLayout() {
   return (
     <Container className="pt-10 md:pt-14">

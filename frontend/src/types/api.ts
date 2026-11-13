@@ -55,6 +55,7 @@ export type ArtistType = 'BAND' | 'SOLO'
 export type ReleaseType = 'ALBUM' | 'EP' | 'SINGLE' | 'LIVE' | 'COMPILATION'
 export type DatePrecision = 'YEAR' | 'MONTH' | 'DAY'
 export type ReleaseArtistRole = 'PRIMARY' | 'FEATURED'
+export type ShowStatus = 'CONFIRMED' | 'SOLD_OUT' | 'CANCELLED'
 
 export interface GenreRef {
   id: string
@@ -161,4 +162,53 @@ export interface UserReview {
   updatedAt: string
   edited: boolean
   release: ReleaseSummary
+}
+
+export interface ShowAct {
+  position: number
+  name: string
+  /** A banda no catálogo, quando existe; `null` para bandas de fora. */
+  artist: { id: string; name: string; slug: string; image: ImageSet | null } | null
+}
+
+export interface Show {
+  id: string
+  slug: string
+  /** Nome do evento (festival, turnê), quando existe. */
+  name: string | null
+  /** Dia do show, "AAAA-MM-DD". */
+  date: string
+  /** Horário de início, "HH:MM", ou `null` se não foi divulgado. */
+  startTime: string | null
+  venue: string
+  city: string
+  /** Sigla do estado, como "SP". */
+  state: string
+  status: ShowStatus
+  ticketUrl: string | null
+  /** Quando a informação foi conferida pela última vez (ISO). */
+  verifiedAt: string
+  acts: ShowAct[]
+  genres: GenreRef[]
+}
+
+/** Sugestão de show lida de uma página de ingressos. Nada é gravado: a pessoa confere e salva. */
+export interface ShowImportPreview {
+  /** Site de onde vieram os dados, como "www.ticket360.com.br". */
+  source: string
+  sourceUrl: string
+  /** A página publica os dados do evento de forma legível; sem isso só o título vem preenchido. */
+  structured: boolean
+  name: string | null
+  date: string | null
+  startTime: string | null
+  venue: string | null
+  city: string | null
+  state: string | null
+  ticketUrl: string | null
+  status: ShowStatus
+  acts: Array<{ name: string; artistId: string | null }>
+  warnings: string[]
+  /** Endereço de um show igual que já está cadastrado, se houver. */
+  existingShowSlug: string | null
 }

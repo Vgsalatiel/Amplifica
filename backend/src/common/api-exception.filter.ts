@@ -56,8 +56,9 @@ export class ApiExceptionFilter implements ExceptionFilter {
 export function toErrorBody(exception: unknown): ApiErrorBody {
   const statusCode = readStatus(exception);
   if (statusCode === undefined || statusCode >= 500) {
-    // 503 é o único 5xx que lançamos de propósito (banco indisponível).
-    if (statusCode === 503) {
+    // 502 (a página lida pela importação de shows falhou) e 503 (banco indisponível) são os
+    // únicos 5xx que lançamos de propósito: a mensagem deles explica o que aconteceu.
+    if (statusCode === 502 || statusCode === 503) {
       return { statusCode, ...readOwnFields(exception, INTERNAL) };
     }
     return { statusCode: 500, ...INTERNAL };

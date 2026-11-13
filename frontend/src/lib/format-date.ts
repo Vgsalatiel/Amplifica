@@ -53,3 +53,19 @@ export function isReleased(releaseDate: string, now: Date = new Date()): boolean
   const [year, month = '01', day = '01'] = releaseDate.split('-')
   return `${year}-${month}-${day}` <= now.toISOString().slice(0, 10)
 }
+
+/** "2027-03-15" vira "15/03/2027". Feita à mão, sem Date, para o fuso nunca deslocar o dia. */
+export function formatShortDate(date: string): string {
+  const [year, month, day] = date.split('-')
+  return `${day}/${month}/${year}`
+}
+
+/** Hoje no Brasil ("AAAA-MM-DD"), e não no fuso do navegador: a agenda do site vale para o horário de Brasília. */
+export function todayInBrazil(now: Date = new Date()): string {
+  return new Intl.DateTimeFormat('en-CA', {
+    timeZone: 'America/Sao_Paulo',
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit',
+  }).format(now)
+}

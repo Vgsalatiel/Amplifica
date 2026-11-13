@@ -1,4 +1,8 @@
-import { ConflictException, NotFoundException } from '@nestjs/common';
+import {
+  BadGatewayException,
+  ConflictException,
+  NotFoundException,
+} from '@nestjs/common';
 import { apiError } from './api-error.js';
 import { toErrorBody } from './api-exception.filter.js';
 
@@ -31,6 +35,22 @@ describe('toErrorBody', () => {
       statusCode: 401,
       code: 'unauthorized',
     });
+  });
+
+  it('mantém a explicação de um 502 lançado de propósito, mas não de outros 5xx', () => {
+    const body = toErrorBody(
+      new BadGatewayException(
+        apiError('import_fetch_failed', 'O site respondeu 500.'),
+      ),
+    );
+    expect(body).toEqual({
+      statusCode: 502,
+      code: 'import_fetch_failed',
+      message: 'O site respondeu 500.',
+    });
+
+    const other = Object.assign(new Error('x'), { status: 504 });
+    expect(toErrorBody(other).statusCode).toBe(500);
   });
 
   it('esconde os detalhes de erros inesperados', () => {
