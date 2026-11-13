@@ -1,5 +1,6 @@
 import { Outlet, ScrollRestoration, useLocation } from 'react-router'
 import { SiteFooter } from './site-footer'
+import { SlowApiNotice } from './slow-api-notice'
 import { SiteHeader } from './site-header'
 
 /** Moldura comum a todas as páginas: cabeçalho, conteúdo da rota e rodapé. */
@@ -15,6 +16,7 @@ export function AppLayout() {
         Pular para o conteúdo
       </a>
       <SiteHeader />
+      <SlowApiNotice />
       {/*
         A `key` muda a cada troca de página, o que faz o React remontar o <main> e
         reiniciar a animação de entrada. Cabeçalho e rodapé ficam fora dela e não piscam.

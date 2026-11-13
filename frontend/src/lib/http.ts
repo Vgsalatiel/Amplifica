@@ -1,4 +1,5 @@
 import type { ApiErrorDetail } from '../types/api'
+import { trackRequest } from './slow-requests'
 
 /**
  * Camada HTTP mais baixa: monta a URL, envia JSON e converte erros da API em ApiError.
@@ -32,6 +33,15 @@ export interface HttpOptions {
 }
 
 export async function httpRequest<T>(path: string, options: HttpOptions = {}): Promise<T> {
+  const finish = trackRequest()
+  try {
+    return await send<T>(path, options)
+  } finally {
+    finish()
+  }
+}
+
+async function send<T>(path: string, options: HttpOptions): Promise<T> {
   const headers: Record<string, string> = { Accept: 'application/json' }
   if (options.json !== undefined) {
     headers['Content-Type'] = 'application/json'

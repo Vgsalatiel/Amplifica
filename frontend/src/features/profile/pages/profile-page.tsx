@@ -5,6 +5,7 @@ import { ButtonLink } from '../../../components/ui/button-link'
 import { SectionHeading } from '../../../components/ui/section-heading'
 import { TextLink } from '../../../components/ui/text-link'
 import { ApiError } from '../../../lib/http'
+import { retryDelay, shouldRetry } from '../../../lib/retry'
 import { UserReviews } from '../../reviews/components/user-reviews'
 import { useSession } from '../../auth/hooks/use-session'
 import { getProfile } from '../api/profile-api'
@@ -21,7 +22,8 @@ export function ProfilePage() {
     queryKey: ['profile', username],
     queryFn: () => getProfile(username),
     // Perfil inexistente não vai passar a existir em uma segunda tentativa.
-    retry: (count, error) => !(error instanceof ApiError && error.status === 404) && count < 1,
+    retry: shouldRetry,
+    retryDelay,
   })
 
   if (profile.isPending) {
