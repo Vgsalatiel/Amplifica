@@ -1,0 +1,1901 @@
+{
+  "generatedAt": "2026-11-13T11:42:47.869Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "f197a8df-ac2b-4e78-9913-4abf13741f12",
+    "name": "Os Paralamas do Sucesso",
+    "slug": "os-paralamas-do-sucesso",
+    "type": "BAND",
+    "country": "BR",
+    "city": "Rio de Janeiro",
+    "formedYear": 1982,
+    "disbandedYear": null,
+    "bio": "Os Paralamas do Sucesso surgiram no Rio de Janeiro, em 1982, com Herbert Vianna (voz e guitarra), Bi Ribeiro (baixo) e o baterista Vital Dias, logo trocado por João Barone. Vinham de um grupo de amigos que ensaiava desde 1981 com o nome As Cadeirinhas da Vovó. O som do começo mistura rock e reggae, com toques de ska, new wave e pós-punk, e mais tarde incorporou instrumentos de sopro e ritmos latinos e africanos, como o samba e a juju music.\n\nOs álbuns de estúdio começam com Cinema Mudo (1983) e O Passo do Lui (1984), passam por Selvagem? (1986), Bora-Bora (1988), Big Bang (1989) e Os Grãos (1991), e chegam a Severino (1994), Nove Luas (1996), Hey Na Na (1998), Longo Caminho (2002), Hoje (2005), Brasil Afora (2009) e Sinais do Sim (2017). A banda tocou no Rock in Rio de 16 de janeiro de 1985 e no Festival de Montreux, em 1987, que deu origem ao disco ao vivo D.\n\nEm 4 de fevereiro de 2001, um ultraleve pilotado por Herbert Vianna caiu em Mangaratiba, no Rio de Janeiro. Lucy, mulher de Herbert, morreu no acidente, e ele ficou paraplégico. Depois da recuperação, a banda voltou com o álbum Longo Caminho (2002). O Acústico MTV, gravado em 1999, venceu o Grammy Latino em 2000.\n\nVital Dias, o primeiro baterista, morreu em 3 de março de 2015. O grupo voltou ao Palco Mundo do Rock in Rio em 2015 e em 2019 e, em 2022, saiu em turnê pelos 40 anos de carreira, a Paralamas Clássicos. A Wikipédia o inclui no Quarteto Sagrado do rock brasileiro, ao lado de Barão Vermelho, Legião Urbana e Titãs.",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/f197a8df-ac2b-4e78-9913-4abf13741f12"
+      },
+      {
+        "name": "Wikipédia em português: Os Paralamas do Sucesso",
+        "url": "https://pt.wikipedia.org/wiki/Os_Paralamas_do_Sucesso"
+      }
+    ],
+    "genres": [
+      "rock-nacional"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "4aa3a1a2-9108-36bb-9996-8fd1ead1052f",
+      "releaseMbid": "c80e11f6-b867-4c29-8058-a47da7814547",
+      "title": "Cinema mudo",
+      "type": "ALBUM",
+      "releaseDate": "1983",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4aa3a1a2-9108-36bb-9996-8fd1ead1052f/front-1200",
+      "tracks": [
+        {
+          "title": "Vital e sua moto",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 190493
+        },
+        {
+          "title": "Foi o mordomo",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 230506
+        },
+        {
+          "title": "Cinema mudo",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 229666
+        },
+        {
+          "title": "Patrulha noturna",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 173026
+        },
+        {
+          "title": "Shopstake",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 180440
+        },
+        {
+          "title": "Vovó Ondina é gente fina",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 119626
+        },
+        {
+          "title": "O que eu não disse",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 217400
+        },
+        {
+          "title": "Química",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 181800
+        },
+        {
+          "title": "Encruzilhada",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 176933
+        },
+        {
+          "title": "Volúpia",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 156933
+        }
+      ]
+    },
+    {
+      "mbid": "75f25547-861a-3a6c-b2dd-0e8a915e0a0d",
+      "releaseMbid": "fd31377c-fa51-4b08-a8b2-5a76be4daffb",
+      "title": "O passo do Lui",
+      "type": "ALBUM",
+      "releaseDate": "1984",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Óculos",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 220000
+        },
+        {
+          "title": "Meu erro",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 209000
+        },
+        {
+          "title": "Fui eu",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 232000
+        },
+        {
+          "title": "Romance ideal",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 251000
+        },
+        {
+          "title": "Ska",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 149000
+        },
+        {
+          "title": "Mensagem de amor",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 259000
+        },
+        {
+          "title": "Me liga",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 229000
+        },
+        {
+          "title": "Assaltaram a gramática",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 173000
+        },
+        {
+          "title": "Menino e menina",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 235000
+        },
+        {
+          "title": "O passo do Lui",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 139000
+        }
+      ]
+    },
+    {
+      "mbid": "6a80db48-536f-37a0-874c-bc2ac3affa59",
+      "releaseMbid": "a31fd635-ab99-4430-8b82-1b3dca6c3591",
+      "title": "Selvagem?",
+      "type": "ALBUM",
+      "releaseDate": "1986",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Alagados",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 300000
+        },
+        {
+          "title": "Teerã",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 267000
+        },
+        {
+          "title": "A Novidade",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 190000
+        },
+        {
+          "title": "Melô Do Marinheiro",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 207000
+        },
+        {
+          "title": "Marujo Dub",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 168000
+        },
+        {
+          "title": "Selvagem",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 244000
+        },
+        {
+          "title": "A Dama E O Vagabundo",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 260000
+        },
+        {
+          "title": "There's A Party",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 146000
+        },
+        {
+          "title": "O Homem",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 249000
+        },
+        {
+          "title": "Você",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 200000
+        }
+      ]
+    },
+    {
+      "mbid": "407b4252-22fa-31a2-b5e5-2c3d55d39001",
+      "releaseMbid": "371b997e-f7ee-47c6-a574-7c5603a8b5f9",
+      "title": "D",
+      "type": "LIVE",
+      "releaseDate": "1987-12-21",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Será que vai chover?",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 328933
+        },
+        {
+          "title": "Alagados",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 442800
+        },
+        {
+          "title": "Ska",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 166066
+        },
+        {
+          "title": "Óculos",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 411066
+        },
+        {
+          "title": "O Homem",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 263133
+        },
+        {
+          "title": "Selvagem",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 287133
+        },
+        {
+          "title": "Charles, Anjo 45",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 281600
+        },
+        {
+          "title": "A novidade",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 216733
+        },
+        {
+          "title": "Meu erro",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 243666
+        },
+        {
+          "title": "Será que vai chover? (Versão estudio)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 310867
+        }
+      ]
+    },
+    {
+      "mbid": "65e6e3f0-a23b-3bd2-896a-d1639712b94e",
+      "releaseMbid": "55d965ce-e3e8-40b0-a89d-d47fbeebd198",
+      "title": "Bora-bora",
+      "type": "ALBUM",
+      "releaseDate": "1988",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/65e6e3f0-a23b-3bd2-896a-d1639712b94e/front-1200",
+      "tracks": [
+        {
+          "title": "O beco",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 189933
+        },
+        {
+          "title": "Bunda lê lê",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 145133
+        },
+        {
+          "title": "Bora-bora",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 290933
+        },
+        {
+          "title": "Sanfona",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 177333
+        },
+        {
+          "title": "Um a um",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 184000
+        },
+        {
+          "title": "Fingido",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 222466
+        },
+        {
+          "title": "Don't Give Me That",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 179133
+        },
+        {
+          "title": "Uns dias",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 244800
+        },
+        {
+          "title": "Quase um segundo",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 276933
+        },
+        {
+          "title": "Dois elefantes",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 277533
+        },
+        {
+          "title": "Três",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 177266
+        },
+        {
+          "title": "Impressão",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 207933
+        },
+        {
+          "title": "O fundo do coração",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 182200
+        },
+        {
+          "title": "The Can",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 177400
+        }
+      ]
+    },
+    {
+      "mbid": "2d6cfc7b-ff12-30a1-a625-7e6458e2c351",
+      "releaseMbid": "b7d615bd-510e-4f9c-8d20-0a0d9bfa846b",
+      "title": "Big Bang",
+      "type": "ALBUM",
+      "releaseDate": "1989",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Perplexo",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 160626
+        },
+        {
+          "title": "Dos Restos",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 184266
+        },
+        {
+          "title": "Pólvora",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 185000
+        },
+        {
+          "title": "Nebulosa do Amor",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 192040
+        },
+        {
+          "title": "Vulcão Dub",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 70000
+        },
+        {
+          "title": "Se Você Me Quer",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 210493
+        },
+        {
+          "title": "Rabicho do Cachorro Rabugento",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 81840
+        },
+        {
+          "title": "Esqueça o Que Te Disseram Sobre o Amor (Vai Ser Diferente)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 229200
+        },
+        {
+          "title": "Lanterna Dos Afogados",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 189533
+        },
+        {
+          "title": "Bang-Bang",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 209826
+        },
+        {
+          "title": "Lá Em Algum Lugar",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 197466
+        },
+        {
+          "title": "Jubiabá",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 161240
+        },
+        {
+          "title": "Cachorro na Feira",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 76467
+        }
+      ]
+    },
+    {
+      "mbid": "e42faab6-9380-3f1f-94a0-b38b9cca1fa3",
+      "releaseMbid": "01ec5225-919a-4052-80ba-5c8793566746",
+      "title": "Os grãos",
+      "type": "ALBUM",
+      "releaseDate": "1991",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/e42faab6-9380-3f1f-94a0-b38b9cca1fa3/front-1200",
+      "tracks": [
+        {
+          "title": "Tribunal de bar",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 170600
+        },
+        {
+          "title": "Sábado",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 229733
+        },
+        {
+          "title": "Tendo a lua",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 221733
+        },
+        {
+          "title": "Os grãos",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 217333
+        },
+        {
+          "title": "Carro velho",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 206533
+        },
+        {
+          "title": "Vai valer",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 216000
+        },
+        {
+          "title": "Trac Trac",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 231760
+        },
+        {
+          "title": "O rouxinol e a rosa",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 234973
+        },
+        {
+          "title": "A outra rota",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 159866
+        },
+        {
+          "title": "Dai-nos",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 181400
+        },
+        {
+          "title": "Ah, Maria",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 289066
+        },
+        {
+          "title": "Não adianta",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 243266
+        },
+        {
+          "title": "Trinta anos",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 188734
+        }
+      ]
+    },
+    {
+      "mbid": "17e05f47-89a0-38d6-b676-1418eb3b9e62",
+      "releaseMbid": "b7b866d4-9c36-45ab-82d9-ae1e99a1cf39",
+      "title": "Severino",
+      "type": "ALBUM",
+      "releaseDate": "1994",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/17e05f47-89a0-38d6-b676-1418eb3b9e62/front-1200",
+      "tracks": [
+        {
+          "title": "Não Me Estrague o Dia",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 138840
+        },
+        {
+          "title": "Navegar Impreciso",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 204133
+        },
+        {
+          "title": "Varal",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 220600
+        },
+        {
+          "title": "Réquiem do Pequeno",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 174133
+        },
+        {
+          "title": "Vamo Batê Lata",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 176400
+        },
+        {
+          "title": "El Vampiro Bajo el Sol",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 254693
+        },
+        {
+          "title": "Músico",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 194000
+        },
+        {
+          "title": "Dos Margaritas",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 186440
+        },
+        {
+          "title": "O Rio Severino",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 175026
+        },
+        {
+          "title": "Cagaço",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 218733
+        },
+        {
+          "title": "O Amor Dorme",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 189640
+        },
+        {
+          "title": "Go Back",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 185800
+        },
+        {
+          "title": "Casi un Segundo",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 321134
+        }
+      ]
+    },
+    {
+      "mbid": "c1ba62cf-a01f-3883-8826-eb68b1d9e1bf",
+      "releaseMbid": "ff959de2-edc1-39b3-9c48-d20fa3ebe439",
+      "title": "Vamo batê lata",
+      "type": "LIVE",
+      "releaseDate": "1995-06-04",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c1ba62cf-a01f-3883-8826-eb68b1d9e1bf/front-1200",
+      "tracks": [
+        {
+          "title": "A Novidade",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 276760
+        },
+        {
+          "title": "Dos Margaritas",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 183066
+        },
+        {
+          "title": "Vamo Batê Lata",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 189266
+        },
+        {
+          "title": "Alagados",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 268400
+        },
+        {
+          "title": "Caleidoscópio",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 236226
+        },
+        {
+          "title": "Meu Erro / Soul Sacrifice",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 327506
+        },
+        {
+          "title": "Trac-Trac (Track Track)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 256973
+        },
+        {
+          "title": "O Rio Severino / Paraíba",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 287693
+        },
+        {
+          "title": "Lanterna dos Afogados",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 296106
+        },
+        {
+          "title": "Um a Um",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 182200
+        },
+        {
+          "title": "Você / Gostava Tanto de Você",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 177866
+        },
+        {
+          "title": "O Beco",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 169560
+        },
+        {
+          "title": "Romance Ideal",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 273506
+        },
+        {
+          "title": "Não Me Estrague o Dia / Sol e Chuva",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 164560
+        },
+        {
+          "title": "Uma Brasileira",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": 219493
+        },
+        {
+          "title": "Saber amar",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": 203773
+        },
+        {
+          "title": "Luís Inácio (300 picaretas)",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": 198493
+        },
+        {
+          "title": "Esta tarde",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": 184133
+        }
+      ]
+    },
+    {
+      "mbid": "da8db11b-49ea-3b98-acb0-eff9c377fc3e",
+      "releaseMbid": "35bd5145-5846-42f3-9228-9a72c2d06cbd",
+      "title": "9 luas",
+      "type": "ALBUM",
+      "releaseDate": "1996",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/da8db11b-49ea-3b98-acb0-eff9c377fc3e/front-1200",
+      "tracks": [
+        {
+          "title": "Lourinha bombril (Parate y mira)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 158733
+        },
+        {
+          "title": "Outra beleza",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 186733
+        },
+        {
+          "title": "La Bella Luna",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 192666
+        },
+        {
+          "title": "De música ligeira",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 213093
+        },
+        {
+          "title": "Capitão de indústria",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 217400
+        },
+        {
+          "title": "O caminho pisado",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 207093
+        },
+        {
+          "title": "Busca vida",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 174880
+        },
+        {
+          "title": "O caroço da cabeça",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 209360
+        },
+        {
+          "title": "Sempre te quis",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 163000
+        },
+        {
+          "title": "Seja você",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 148000
+        },
+        {
+          "title": "Na nossa casa",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 207973
+        },
+        {
+          "title": "Um pequeno imprevisto",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 191960
+        }
+      ]
+    },
+    {
+      "mbid": "79a75797-beeb-306c-af86-3e57d40f4d15",
+      "releaseMbid": "6e3dc8e7-1423-4eb5-9a6d-fc3e8e6968a3",
+      "title": "Hey na na",
+      "type": "ALBUM",
+      "releaseDate": "1998-07-07",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Por sempre andar",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 203626
+        },
+        {
+          "title": "Depois da queda o coice",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 249666
+        },
+        {
+          "title": "O trem da juventude",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 279333
+        },
+        {
+          "title": "Brasília 5:31",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 204973
+        },
+        {
+          "title": "O amor não sabe esperar",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 241560
+        },
+        {
+          "title": "Ela disse adeus",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 225066
+        },
+        {
+          "title": "Scream Poetry",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 180466
+        },
+        {
+          "title": "Viernes 3 AM",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 277066
+        },
+        {
+          "title": "Um dia em provença",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 230266
+        },
+        {
+          "title": "Santorini Blues",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 173974
+        }
+      ]
+    },
+    {
+      "mbid": "f02e46e2-75e0-4547-adcb-126ee93e4b19",
+      "releaseMbid": "ff33f3ed-ecf7-45a3-a40b-952bf84a0295",
+      "title": "Acústico MTV",
+      "type": "LIVE",
+      "releaseDate": "1999-06-05",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f02e46e2-75e0-4547-adcb-126ee93e4b19/front-1200",
+      "tracks": [
+        {
+          "title": "Vulcão Dub / Fui eu",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 286960
+        },
+        {
+          "title": "O trem da juventude",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 225800
+        },
+        {
+          "title": "Manguetown / Tukka Yoot's Riddim",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 162840
+        },
+        {
+          "title": "Um amor, um lugar",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 184466
+        },
+        {
+          "title": "Bora-Bora",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 182893
+        },
+        {
+          "title": "Vai valer",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 206440
+        },
+        {
+          "title": "I Feel Good (I Got You) / Sossego",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 244893
+        },
+        {
+          "title": "Uns dias",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 240706
+        },
+        {
+          "title": "Sincero breu / Palco",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 207933
+        },
+        {
+          "title": "Meu erro",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 188493
+        },
+        {
+          "title": "Selvagem",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 148466
+        },
+        {
+          "title": "Brasília 5:31",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 178240
+        },
+        {
+          "title": "Tendo a lua",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 198826
+        },
+        {
+          "title": "Que país é este",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 216600
+        },
+        {
+          "title": "Navegar impreciso",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 262773
+        },
+        {
+          "title": "Feira moderna",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 182426
+        },
+        {
+          "title": "Tequila / Lourinha bombril (Parate y mira)",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 255640
+        },
+        {
+          "title": "Vamo batê lata / Relax",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 228666
+        },
+        {
+          "title": "Life During Wartime",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 259093
+        },
+        {
+          "title": "Nebulosa do amor",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 203333
+        },
+        {
+          "title": "Caleidoscópio",
+          "discNumber": 1,
+          "position": 21,
+          "durationMs": 256426
+        }
+      ]
+    },
+    {
+      "mbid": "1702e4bb-d4a3-3593-92cb-6e52e19af2c7",
+      "releaseMbid": "e7185b4f-81d1-3a15-8a1c-80bd09e7fe68",
+      "title": "Longo caminho",
+      "type": "ALBUM",
+      "releaseDate": "2002",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/1702e4bb-d4a3-3593-92cb-6e52e19af2c7/front-1200",
+      "tracks": [
+        {
+          "title": "O calibre",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 204520
+        },
+        {
+          "title": "Seguindo estrelas",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 252760
+        },
+        {
+          "title": "Longo caminho",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 202266
+        },
+        {
+          "title": "Soldado da paz",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 172626
+        },
+        {
+          "title": "Cuide bem do seu amor",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 221586
+        },
+        {
+          "title": "Amor em vão",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 193333
+        },
+        {
+          "title": "Flores no deserto",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 237053
+        },
+        {
+          "title": "Running on the Spot",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 191066
+        },
+        {
+          "title": "Flores e Espinhos",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 187760
+        },
+        {
+          "title": "La Estación",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 145826
+        },
+        {
+          "title": "Hinchley Pond",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 159200
+        }
+      ]
+    },
+    {
+      "mbid": "64ab8de3-aa8a-37b4-b73a-6d738f633a27",
+      "releaseMbid": "543e15a9-09fb-4e6a-9ac9-ceb787139778",
+      "title": "Uns dias: Ao vivo",
+      "type": "LIVE",
+      "releaseDate": "2004",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "O Calibre",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 278466
+        },
+        {
+          "title": "Running on the Spot",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 195600
+        },
+        {
+          "title": "Trac-Trac",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 255000
+        },
+        {
+          "title": "Mensagem de Amor",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 245760
+        },
+        {
+          "title": "Selvagem",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 220533
+        },
+        {
+          "title": "Soldado da Paz",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 179066
+        },
+        {
+          "title": "Que País É Este",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 215533
+        },
+        {
+          "title": "Seguindo Estrelas",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 237733
+        },
+        {
+          "title": "Meu Erro",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 201533
+        },
+        {
+          "title": "Cuide Bem do Seu Amor",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 224773
+        },
+        {
+          "title": "Longo Caminho",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 217826
+        },
+        {
+          "title": "Tendo a Lua",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 203800
+        },
+        {
+          "title": "Será Que Vai Chover / Assaltaram a Gramática / O Filho Pródigo",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 276000
+        },
+        {
+          "title": "Dos Margaritas",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": 180000
+        },
+        {
+          "title": "Depois da Queda o Coice",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": 182826
+        },
+        {
+          "title": "Ska",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": 144266
+        },
+        {
+          "title": "La Bella Luna",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": 184466
+        },
+        {
+          "title": "Uns Dias",
+          "discNumber": 2,
+          "position": 5,
+          "durationMs": 235666
+        },
+        {
+          "title": "Caleidoscópio",
+          "discNumber": 2,
+          "position": 6,
+          "durationMs": 337306
+        },
+        {
+          "title": "Ela Disse Adeus",
+          "discNumber": 2,
+          "position": 7,
+          "durationMs": 194893
+        },
+        {
+          "title": "Lanterna dos Afogados",
+          "discNumber": 2,
+          "position": 8,
+          "durationMs": 288840
+        },
+        {
+          "title": "Uma Brasileira",
+          "discNumber": 2,
+          "position": 9,
+          "durationMs": 215600
+        },
+        {
+          "title": "O Beco",
+          "discNumber": 2,
+          "position": 10,
+          "durationMs": 194093
+        },
+        {
+          "title": "Alagados",
+          "discNumber": 2,
+          "position": 11,
+          "durationMs": 342106
+        },
+        {
+          "title": "Lourinha Bombril (Parate y Mira)",
+          "discNumber": 2,
+          "position": 12,
+          "durationMs": 187226
+        },
+        {
+          "title": "Mensagem de Amor",
+          "discNumber": 2,
+          "position": 13,
+          "durationMs": 260707
+        }
+      ]
+    },
+    {
+      "mbid": "27e5fee1-db62-4fb9-a4fa-94ef6ce65ee5",
+      "releaseMbid": "8c4f363c-a184-4144-936b-43043fe70e87",
+      "title": "Hoje",
+      "type": "ALBUM",
+      "releaseDate": "2005",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/27e5fee1-db62-4fb9-a4fa-94ef6ce65ee5/front-1200",
+      "tracks": [
+        {
+          "title": "2A",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 238000
+        },
+        {
+          "title": "Pétalas",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 170000
+        },
+        {
+          "title": "Na Pista",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 149000
+        },
+        {
+          "title": "Soledad Cidadão (Me Llaman Calle)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 135000
+        },
+        {
+          "title": "Passo Lento",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 171000
+        },
+        {
+          "title": "De Perto",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 191000
+        },
+        {
+          "title": "Ao Acaso",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 232000
+        },
+        {
+          "title": "Hoje",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 197000
+        },
+        {
+          "title": "Fora De Lugar",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 173000
+        },
+        {
+          "title": "220 Desencapado",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 152000
+        },
+        {
+          "title": "Ponto De Vista",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 182000
+        },
+        {
+          "title": "Deus Lhe Pague",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 260000
+        },
+        {
+          "title": "Ao Acaso Dub",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 266000
+        }
+      ]
+    },
+    {
+      "mbid": "5f363ff9-cbb9-4b1f-b05a-9c4c4fa40e69",
+      "releaseMbid": "1e6d11ec-4212-4888-aadf-47bfbdb53867",
+      "title": "Rock in Rio, 1985",
+      "type": "LIVE",
+      "releaseDate": "2007",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Mensagem de Amor",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 304000
+        },
+        {
+          "title": "Assaltaram a gramática",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 211000
+        },
+        {
+          "title": "Patrulha Noturna",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 221000
+        },
+        {
+          "title": "Inútil",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 176000
+        },
+        {
+          "title": "Fui eu",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 199000
+        },
+        {
+          "title": "Cinema Mudo",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 273000
+        },
+        {
+          "title": "Meu erro",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 211000
+        },
+        {
+          "title": "Óculos",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 433000
+        },
+        {
+          "title": "Ska",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 155000
+        },
+        {
+          "title": "Vital e sua moto",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 161000
+        },
+        {
+          "title": "Química",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 173000
+        }
+      ]
+    },
+    {
+      "mbid": "174e039b-ce89-48c8-9503-e83e8c3ceab9",
+      "releaseMbid": "a0a941da-7275-4d9c-9ad5-da178ff9a7fd",
+      "title": "Brasil afora",
+      "type": "ALBUM",
+      "releaseDate": "2009",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/174e039b-ce89-48c8-9503-e83e8c3ceab9/front-1200",
+      "tracks": [
+        {
+          "title": "Meu sonho",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 197520
+        },
+        {
+          "title": "Sem mais adeus",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 199066
+        },
+        {
+          "title": "A lhe esperar",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 203493
+        },
+        {
+          "title": "El amor (El amor después del amor)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 223386
+        },
+        {
+          "title": "Quanto ao tempo",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 206106
+        },
+        {
+          "title": "Aposte em mim",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 227440
+        },
+        {
+          "title": "Mormaço",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 185453
+        },
+        {
+          "title": "Taubaté ou Santos",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 159946
+        },
+        {
+          "title": "Brasil afora",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 142480
+        },
+        {
+          "title": "Tempero zen",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 140453
+        },
+        {
+          "title": "Tão bela",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 139333
+        }
+      ]
+    },
+    {
+      "mbid": "f980e75f-37f5-422f-9706-eea881b4fb12",
+      "releaseMbid": "f6e0eefa-af15-43fa-bc53-00ee183685f4",
+      "title": "Multishow Ao Vivo 30 Anos",
+      "type": "LIVE",
+      "releaseDate": "2014-07-29",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Alagados",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Patrulha Noturna / Cinema Mudo / Ska",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Mensagem de Amor",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Cuide Bem do Seu Amor",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Busca Vida",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Saber Amar / Romance Ideal",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Quase Um Segundo",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Meu Erro",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "Óculos",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Lanterna dos Afogados",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": null
+        },
+        {
+          "title": "Ela Disse Adeus",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": null
+        },
+        {
+          "title": "Melô do Marinheiro",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": null
+        },
+        {
+          "title": "Uma Brasileira",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": null
+        },
+        {
+          "title": "O Beco",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": null
+        },
+        {
+          "title": "Lourinha Bombril",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": null
+        },
+        {
+          "title": "Aonde Quer Que Eu Vá",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": null
+        },
+        {
+          "title": "Caleidoscópio",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": null
+        },
+        {
+          "title": "Vital e Sua Moto / Don't Stop So Close to Me / Every Breath You Take",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "959b8506-ca7e-4e84-ae6f-3bd4f40b98cb",
+      "releaseMbid": "8ba00eae-c209-4243-9306-09b3d6604f1f",
+      "title": "Sinais do sim",
+      "type": "ALBUM",
+      "releaseDate": "2017-08-04",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Sinais do sim",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 220000
+        },
+        {
+          "title": "Itaquaquecetuba",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 176000
+        },
+        {
+          "title": "Medo do medo",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 265000
+        },
+        {
+          "title": "Não posso mais",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 260000
+        },
+        {
+          "title": "Teu olhar",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 203000
+        },
+        {
+          "title": "Contraste",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 202000
+        },
+        {
+          "title": "Cuando pase el temblor",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 178000
+        },
+        {
+          "title": "Corredor",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 170000
+        },
+        {
+          "title": "Blow the Wind",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 142000
+        },
+        {
+          "title": "Olha a gente aí / Citação do poema: Ó sino da minha aldeia",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 123000
+        },
+        {
+          "title": "Sempre assim",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 272000
+        }
+      ]
+    },
+    {
+      "mbid": "11944b2b-855a-4cd2-bc23-b9a613574664",
+      "releaseMbid": "28e36f63-5930-4ad7-83a0-d78bbbf965ab",
+      "title": "Os Paralamas do Sucesso: 40 Anos - As Melhores",
+      "type": "COMPILATION",
+      "releaseDate": "2023-07-25",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/11944b2b-855a-4cd2-bc23-b9a613574664/front-1200",
+      "tracks": [
+        {
+          "title": "Vital e sua moto",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 191216
+        },
+        {
+          "title": "Aonde quer que eu vá",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 257333
+        },
+        {
+          "title": "Lanterna dos afogados",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 189533
+        },
+        {
+          "title": "Meu erro",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 208626
+        },
+        {
+          "title": "Uma brasileira (ao vivo)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 196146
+        },
+        {
+          "title": "Caleidoscópio",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 210533
+        },
+        {
+          "title": "Óculos",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 219600
+        },
+        {
+          "title": "Tendo a lua",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 221946
+        },
+        {
+          "title": "Ela disse adeus",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 225040
+        },
+        {
+          "title": "Cuide bem do seu amor",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 219933
+        },
+        {
+          "title": "Alagados",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 302320
+        },
+        {
+          "title": "O calibre",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 204440
+        },
+        {
+          "title": "Uns dias",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 244800
+        },
+        {
+          "title": "A novidade",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 188920
+        },
+        {
+          "title": "Romance ideal",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 250733
+        },
+        {
+          "title": "Lourinha bombril",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 158933
+        },
+        {
+          "title": "La bella luna",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 192800
+        },
+        {
+          "title": "Melô do marinheiro",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 208973
+        },
+        {
+          "title": "Seguindo estrelas",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 251320
+        },
+        {
+          "title": "Trac-trac",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 233266
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

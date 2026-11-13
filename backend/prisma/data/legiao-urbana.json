@@ -1,0 +1,1296 @@
+{
+  "generatedAt": "2026-11-13T11:39:26.683Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "47685be0-926f-4be9-b1ae-e32da47a3b99",
+    "name": "Legião Urbana",
+    "slug": "legiao-urbana",
+    "type": "BAND",
+    "country": "BR",
+    "city": "Brasília",
+    "formedYear": 1982,
+    "disbandedYear": 1996,
+    "bio": "A Legião Urbana nasceu em Brasília, em agosto de 1982, quando o vocalista e compositor Renato Russo e o baterista Marcelo Bonfá, que vinham do fim da banda Aborto Elétrico, decidiram seguir juntos. A estreia ao vivo foi em 5 de setembro de 1982, em Patos de Minas, Minas Gerais. O guitarrista Dado Villa-Lobos chegou em março de 1983, e Renato Rocha assumiu o baixo em 1984, até ser expulso em fevereiro de 1989. A música do grupo mistura pós-punk, punk rock e folk rock, com letras longas e diretas sobre juventude, política e amor.\n\nO primeiro disco, Legião Urbana, saiu em 2 de janeiro de 1985, e foi seguido por Dois (1986), Que País É Este (1987), As Quatro Estações (1989), V (1991), O Descobrimento do Brasil (1993) e A Tempestade ou O Livro dos Dias (1996). A banda também ficou conhecida por shows que terminaram em confusão, como o de 18 de junho de 1988 no Estádio Mané Garrincha, em Brasília, que acabou com 63 pessoas presas.\n\nEm 28 de janeiro de 1992, o grupo gravou o Acústico MTV. A última apresentação foi em 14 de janeiro de 1995, em Santos, São Paulo. Renato Russo morreu em 11 de outubro de 1996, e em 22 de outubro Dado Villa-Lobos, Marcelo Bonfá e o diretor artístico da EMI anunciaram o fim da banda. Um disco póstumo, Uma Outra Estação, saiu em 1997.\n\nA Legião é lembrada como um dos pilares do rock brasileiro, ao lado de Barão Vermelho, Os Paralamas do Sucesso e Titãs, que a Wikipédia chama de Quarteto Sagrado. Segundo a mesma fonte, os discos passaram de 30 milhões de cópias vendidas em 2020. Dado e Marcelo voltaram aos palcos em turnês de homenagem em 2015 e 2016, em 2018 e 2019 e em 2023 e 2024.",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/47685be0-926f-4be9-b1ae-e32da47a3b99"
+      },
+      {
+        "name": "Wikipédia em português: Legião Urbana",
+        "url": "https://pt.wikipedia.org/wiki/Legi%C3%A3o_Urbana"
+      }
+    ],
+    "genres": [
+      "rock-nacional"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "36f3aed5-43b5-49a8-b38a-7b8cabf55816",
+      "releaseMbid": "0381ad30-8ea7-469c-8918-d76111d716db",
+      "title": "Legião Urbana",
+      "type": "ALBUM",
+      "releaseDate": "1985-01-02",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/36f3aed5-43b5-49a8-b38a-7b8cabf55816/front-1200",
+      "tracks": [
+        {
+          "title": "Será",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 148000
+        },
+        {
+          "title": "A Dança",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 240000
+        },
+        {
+          "title": "Petróleo do Futuro",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 182000
+        },
+        {
+          "title": "Ainda é Cedo",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 235000
+        },
+        {
+          "title": "Perdidos no Espaço",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 177000
+        },
+        {
+          "title": "Geração Coca-Cola",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 140000
+        },
+        {
+          "title": "O Reggae",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 212000
+        },
+        {
+          "title": "Baader-Meinhof Blues",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 190000
+        },
+        {
+          "title": "Soldados",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 290000
+        },
+        {
+          "title": "Teorema",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 184000
+        },
+        {
+          "title": "Por Enquanto",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 195000
+        }
+      ]
+    },
+    {
+      "mbid": "51d5ae33-82c1-3d3c-8e25-c88a2cf2c208",
+      "releaseMbid": "3edd1b3c-57e1-42e9-83ba-a37da5d19140",
+      "title": "Dois",
+      "type": "ALBUM",
+      "releaseDate": "1986-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/51d5ae33-82c1-3d3c-8e25-c88a2cf2c208/front-1200",
+      "tracks": [
+        {
+          "title": "Daniel na cova dos leões",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 242826
+        },
+        {
+          "title": "Quase sem querer",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 282493
+        },
+        {
+          "title": "Acrilic on Canvas",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 282586
+        },
+        {
+          "title": "Eduardo e Mônica",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 273466
+        },
+        {
+          "title": "Central do Brasil",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 96826
+        },
+        {
+          "title": "Tempo perdido",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 304226
+        },
+        {
+          "title": "Metrópole",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 171893
+        },
+        {
+          "title": "Plantas em baixo do aquário",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 176093
+        },
+        {
+          "title": "Música urbana 2",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 162560
+        },
+        {
+          "title": "Andrea Doria",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 295093
+        },
+        {
+          "title": "Fábrica",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 298226
+        },
+        {
+          "title": "\"Índios\"",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 257933
+        }
+      ]
+    },
+    {
+      "mbid": "2c175486-8fed-3040-8eed-b0e731b03325",
+      "releaseMbid": "7c800470-04b6-443e-a3fc-bfb798d72638",
+      "title": "Que país é este: 1978/1987",
+      "type": "ALBUM",
+      "releaseDate": "1987-11",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Que País É Este",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 175000
+        },
+        {
+          "title": "Conexão Amazônica",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 290000
+        },
+        {
+          "title": "Tédio (Com Um T Bem Grande Pra Você)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 150000
+        },
+        {
+          "title": "Depois Do Começo",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 196000
+        },
+        {
+          "title": "Química",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 140000
+        },
+        {
+          "title": "Eu Sei",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 192000
+        },
+        {
+          "title": "Faroeste Caboclo",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 550000
+        },
+        {
+          "title": "Angra Dos Reis",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 299000
+        },
+        {
+          "title": "Mais Do Mesmo",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 202000
+        }
+      ]
+    },
+    {
+      "mbid": "b0b7c7df-fdb5-3e44-b734-74308a67bba7",
+      "releaseMbid": "92c18ac5-1851-441e-879b-6c6b207f2ade",
+      "title": "As Quatro Estações",
+      "type": "ALBUM",
+      "releaseDate": "1989-10-26",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b0b7c7df-fdb5-3e44-b734-74308a67bba7/front-1200",
+      "tracks": [
+        {
+          "title": "Há tempos",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 198733
+        },
+        {
+          "title": "Pais e filhos",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 308800
+        },
+        {
+          "title": "Feedback Song for a Dying Friend",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 325800
+        },
+        {
+          "title": "Quando o sol bater na janela do teu quarto",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 193733
+        },
+        {
+          "title": "Eu era um lobisomem juvenil",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 406400
+        },
+        {
+          "title": "1965 (Duas tribos)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 225226
+        },
+        {
+          "title": "Monte castelo",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 230640
+        },
+        {
+          "title": "Maurício",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 198133
+        },
+        {
+          "title": "Meninos e meninas",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 203600
+        },
+        {
+          "title": "Sete cidades",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 205800
+        },
+        {
+          "title": "Se fiquei esperando meu amor passar",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 295933
+        }
+      ]
+    },
+    {
+      "mbid": "3afa1c31-dc7b-3741-ad32-e0ab8ef78970",
+      "releaseMbid": "f23b3f56-64f6-414f-874d-67839bdd919a",
+      "title": "V",
+      "type": "ALBUM",
+      "releaseDate": "1991-01-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/3afa1c31-dc7b-3741-ad32-e0ab8ef78970/front-1200",
+      "tracks": [
+        {
+          "title": "Love Song (Cantiga de Amor)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 78773
+        },
+        {
+          "title": "Metal Contra as Nuvens",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 690400
+        },
+        {
+          "title": "A Ordem dos Templários (Instrumental)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 267960
+        },
+        {
+          "title": "A Montanha Mágica",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 469573
+        },
+        {
+          "title": "O Teatro dos Vampiros",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 218066
+        },
+        {
+          "title": "Sereníssima",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 242466
+        },
+        {
+          "title": "Vento no Litoral",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 367333
+        },
+        {
+          "title": "O Mundo Anda Tão Complicado",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 226133
+        },
+        {
+          "title": "L'âge D'or",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 306760
+        },
+        {
+          "title": "Come Share My Life",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 120733
+        }
+      ]
+    },
+    {
+      "mbid": "04aa13f1-86a8-3dfa-9e41-f2c38168ea90",
+      "releaseMbid": "426c70b6-ff20-4993-a4ac-2951ee002b0e",
+      "title": "O Descobrimento do Brasil",
+      "type": "ALBUM",
+      "releaseDate": "1993-01-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/04aa13f1-86a8-3dfa-9e41-f2c38168ea90/front-1200",
+      "tracks": [
+        {
+          "title": "Vinte e Nove",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 223933
+        },
+        {
+          "title": "A Fonte",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 236800
+        },
+        {
+          "title": "Do Espírito",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 202733
+        },
+        {
+          "title": "Perfeição",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 277866
+        },
+        {
+          "title": "O Passeio da Boa Vista",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 122733
+        },
+        {
+          "title": "O Descobrimento do Brasil",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 303933
+        },
+        {
+          "title": "Os Barcos",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 173133
+        },
+        {
+          "title": "Vamos Fazer Um Filme",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 261866
+        },
+        {
+          "title": "Os Anjos",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 125266
+        },
+        {
+          "title": "Um Dia Perfeito",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 206133
+        },
+        {
+          "title": "Giz",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 203866
+        },
+        {
+          "title": "Love in the Afternoon",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 266800
+        },
+        {
+          "title": "La Nuova Gioventú",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 243866
+        },
+        {
+          "title": "Só por Hoje",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 242666
+        }
+      ]
+    },
+    {
+      "mbid": "c9164470-f4d2-34f7-9efd-88cb46965476",
+      "releaseMbid": "1905cafd-793b-4469-bb00-966cad7a9528",
+      "title": "A Tempestade",
+      "type": "ALBUM",
+      "releaseDate": "1996-01-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c9164470-f4d2-34f7-9efd-88cb46965476/front-1200",
+      "tracks": [
+        {
+          "title": "Natália",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 236560
+        },
+        {
+          "title": "L'avventura",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 279653
+        },
+        {
+          "title": "Música de Trabalho",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 261906
+        },
+        {
+          "title": "Longe do Meu Lado",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 266666
+        },
+        {
+          "title": "A Via Láctea",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 282013
+        },
+        {
+          "title": "Música Ambiente",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 249186
+        },
+        {
+          "title": "Aloha",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 326906
+        },
+        {
+          "title": "Soul Parsifal",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 296586
+        },
+        {
+          "title": "Dezesseis",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 324093
+        },
+        {
+          "title": "Mil Pedaços",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 204560
+        },
+        {
+          "title": "Leila",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 325000
+        },
+        {
+          "title": "1º de Julho",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 292226
+        },
+        {
+          "title": "Esperando por Mim",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 263133
+        },
+        {
+          "title": "Quando Você Voltar",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 175093
+        },
+        {
+          "title": "O Livro dos Dias",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 257133
+        }
+      ]
+    },
+    {
+      "mbid": "10029db9-8bee-38c8-b35c-5ba1fb8ca695",
+      "releaseMbid": "c6c676e3-9535-4c5b-ab44-bf48c578138b",
+      "title": "Uma Outra Estação",
+      "type": "ALBUM",
+      "releaseDate": "1997-01-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/10029db9-8bee-38c8-b35c-5ba1fb8ca695/front-1200",
+      "tracks": [
+        {
+          "title": "Riding Song",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 183000
+        },
+        {
+          "title": "Uma Outra Estação",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 239000
+        },
+        {
+          "title": "As Flores do Mal",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 272000
+        },
+        {
+          "title": "La Maison Dieu",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 413000
+        },
+        {
+          "title": "Clarisse",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 632000
+        },
+        {
+          "title": "Schubert Ländler",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 69000
+        },
+        {
+          "title": "A Tempestade",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 253000
+        },
+        {
+          "title": "High Noon (Do Not Forsake Me)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 90000
+        },
+        {
+          "title": "Comédia Romântica",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 175000
+        },
+        {
+          "title": "Dado Viciado",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 152000
+        },
+        {
+          "title": "Marcianos Invadem a Terra",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 157000
+        },
+        {
+          "title": "Antes das Seis",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 189000
+        },
+        {
+          "title": "Mariane",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 194000
+        },
+        {
+          "title": "Sagrado Coração",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 390000
+        },
+        {
+          "title": "Travessia do Eixão",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 215000
+        }
+      ]
+    },
+    {
+      "mbid": "46694baf-8cb9-38c0-a9bb-b4a7f8a08cde",
+      "releaseMbid": "59b9a182-90c1-4aba-94d3-27d1f67a89ac",
+      "title": "Mais do Mesmo",
+      "type": "COMPILATION",
+      "releaseDate": "1998-03",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/46694baf-8cb9-38c0-a9bb-b4a7f8a08cde/front-1200",
+      "tracks": [
+        {
+          "title": "Será",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 148333
+        },
+        {
+          "title": "Ainda é cedo",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 236760
+        },
+        {
+          "title": "Geração coca-cola",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 141400
+        },
+        {
+          "title": "Eduardo e Mônica",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 271173
+        },
+        {
+          "title": "Tempo perdido",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 302093
+        },
+        {
+          "title": "\"Índios\"",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 258093
+        },
+        {
+          "title": "Que pais é este",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 177533
+        },
+        {
+          "title": "Faroeste caboclo",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 542933
+        },
+        {
+          "title": "Há tempos",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 197080
+        },
+        {
+          "title": "Pais e filhos",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 308333
+        },
+        {
+          "title": "Meninos e meninas",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 203706
+        },
+        {
+          "title": "Vento no litoral",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 366373
+        },
+        {
+          "title": "Perfeição",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 276493
+        },
+        {
+          "title": "Giz",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 202146
+        },
+        {
+          "title": "Dezesseis",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 321653
+        },
+        {
+          "title": "Antes das seis",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 189160
+        }
+      ]
+    },
+    {
+      "mbid": "016eb98c-37f5-3712-8685-ab285b852083",
+      "releaseMbid": "c5bf48e6-6678-4c23-aa1c-7692a8231f74",
+      "title": "Acústico MTV",
+      "type": "LIVE",
+      "releaseDate": "1999-06-23",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/016eb98c-37f5-3712-8685-ab285b852083/front-1200",
+      "tracks": [
+        {
+          "title": "Baader-Meinhof Blues",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 303866
+        },
+        {
+          "title": "\"Índios\"",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 328066
+        },
+        {
+          "title": "Mais do Mesmo",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 264426
+        },
+        {
+          "title": "Pais e Filhos",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 379306
+        },
+        {
+          "title": "Hoje a Noite Não Tem Luar",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 272000
+        },
+        {
+          "title": "Sereníssima",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 297600
+        },
+        {
+          "title": "Teatro dos Vampiros",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 336733
+        },
+        {
+          "title": "On the Way Home / Rise",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 410933
+        },
+        {
+          "title": "Head On",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 169226
+        },
+        {
+          "title": "The Last Time I Saw Richard",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 219240
+        },
+        {
+          "title": "Metal Contra as Nuvens",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 561133
+        },
+        {
+          "title": "Há Tempos",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 225400
+        },
+        {
+          "title": "Eu Sei",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 235533
+        },
+        {
+          "title": "Faroeste Caboclo",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 593600
+        }
+      ]
+    },
+    {
+      "mbid": "579a0847-30cf-3cce-959b-bb10c205dc47",
+      "releaseMbid": "30a2983b-8f78-4e86-a0d7-e21197151167",
+      "title": "Como é que se diz eu te amo",
+      "type": "LIVE",
+      "releaseDate": "2001-01-08",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/579a0847-30cf-3cce-959b-bb10c205dc47/front-1200",
+      "tracks": [
+        {
+          "title": "Será",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 166000
+        },
+        {
+          "title": "Eu sei",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 203000
+        },
+        {
+          "title": "La nuova gioventú",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 191000
+        },
+        {
+          "title": "Ainda é cedo / Gimme Shelter",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 393000
+        },
+        {
+          "title": "Daniel na cova dos leões",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 232000
+        },
+        {
+          "title": "Vinte e nove",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 120000
+        },
+        {
+          "title": "Um dia perfeito",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 181000
+        },
+        {
+          "title": "Os anjos",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 149000
+        },
+        {
+          "title": "1965 (Duas tribos)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 243000
+        },
+        {
+          "title": "Monte castelo",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 247000
+        },
+        {
+          "title": "Quando o sol bater na janela do seu quarto",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 256000
+        },
+        {
+          "title": "Geração coca-cola",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 154000
+        },
+        {
+          "title": "O teatro dos vampiros",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 214000
+        },
+        {
+          "title": "Meninos e meninas",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 242000
+        },
+        {
+          "title": "Faroeste caboclo",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": 626000
+        },
+        {
+          "title": "Pais e filhos",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": 281000
+        },
+        {
+          "title": "Tempo perdido",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": 250000
+        },
+        {
+          "title": "Giz",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": 226000
+        },
+        {
+          "title": "O descobrimento do Brasil",
+          "discNumber": 2,
+          "position": 5,
+          "durationMs": 236000
+        },
+        {
+          "title": "Eduardo e Mônica",
+          "discNumber": 2,
+          "position": 6,
+          "durationMs": 324000
+        },
+        {
+          "title": "Vento no litoral",
+          "discNumber": 2,
+          "position": 7,
+          "durationMs": 359000
+        },
+        {
+          "title": "Há tempos",
+          "discNumber": 2,
+          "position": 8,
+          "durationMs": 180000
+        },
+        {
+          "title": "Índios",
+          "discNumber": 2,
+          "position": 9,
+          "durationMs": 294000
+        },
+        {
+          "title": "Perfeição / O bêbado e a equilibrista / Lithium / Metal contra as nuvens",
+          "discNumber": 2,
+          "position": 10,
+          "durationMs": 419000
+        },
+        {
+          "title": "Andrea Doria",
+          "discNumber": 2,
+          "position": 11,
+          "durationMs": 184000
+        },
+        {
+          "title": "Vamos fazer um filme",
+          "discNumber": 2,
+          "position": 12,
+          "durationMs": 257000
+        },
+        {
+          "title": "Que país é este / Cajuína / Pintinho amarelinho / Aquele abraço",
+          "discNumber": 2,
+          "position": 13,
+          "durationMs": 335000
+        }
+      ]
+    },
+    {
+      "mbid": "be6ad194-7354-4e6a-9d77-4bed5a4cd225",
+      "releaseMbid": "992256b0-27db-4d3b-9ef2-42307f251b47",
+      "title": "Legião Urbana 30 anos",
+      "type": "COMPILATION",
+      "releaseDate": "2015-03-18",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/be6ad194-7354-4e6a-9d77-4bed5a4cd225/front-1200",
+      "tracks": [
+        {
+          "title": "Será",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 150000
+        },
+        {
+          "title": "A Dança",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 241000
+        },
+        {
+          "title": "Petróleo do Futuro",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 183000
+        },
+        {
+          "title": "Ainda é Cedo",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 237000
+        },
+        {
+          "title": "Perdidos no Espaço",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 177000
+        },
+        {
+          "title": "Geração Coca-Cola",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 142000
+        },
+        {
+          "title": "O Reggae",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 214000
+        },
+        {
+          "title": "Baader-Meinhof Blues",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 207000
+        },
+        {
+          "title": "Soldados",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 290000
+        },
+        {
+          "title": "Teorema",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 186000
+        },
+        {
+          "title": "Por Enquanto",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 197000
+        },
+        {
+          "title": "Geração Coca-Cola",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": 140000
+        },
+        {
+          "title": "Ainda é cedo",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": 280000
+        },
+        {
+          "title": "A dança",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": 183000
+        },
+        {
+          "title": "Química",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": 235000
+        },
+        {
+          "title": "Perdidos no espaço",
+          "discNumber": 2,
+          "position": 5,
+          "durationMs": 201000
+        },
+        {
+          "title": "O reggae",
+          "discNumber": 2,
+          "position": 6,
+          "durationMs": 248000
+        },
+        {
+          "title": "Renato apresenta",
+          "discNumber": 2,
+          "position": 7,
+          "durationMs": 208000
+        },
+        {
+          "title": "Ainda é cedo",
+          "discNumber": 2,
+          "position": 8,
+          "durationMs": 75000
+        },
+        {
+          "title": "Será",
+          "discNumber": 2,
+          "position": 9,
+          "durationMs": 150000
+        },
+        {
+          "title": "Chamadas de rádio",
+          "discNumber": 2,
+          "position": 10,
+          "durationMs": 64000
+        },
+        {
+          "title": "Petróleo do futuro",
+          "discNumber": 2,
+          "position": 11,
+          "durationMs": 162000
+        },
+        {
+          "title": "Ainda é cedo",
+          "discNumber": 2,
+          "position": 12,
+          "durationMs": 262000
+        },
+        {
+          "title": "Teorema",
+          "discNumber": 2,
+          "position": 13,
+          "durationMs": 154000
+        },
+        {
+          "title": "Aduuuuuuhhhh!",
+          "discNumber": 2,
+          "position": 14,
+          "durationMs": 160000
+        },
+        {
+          "title": "Profecia de Renato",
+          "discNumber": 2,
+          "position": 15,
+          "durationMs": 99000
+        },
+        {
+          "title": "Por enquanto",
+          "discNumber": 2,
+          "position": 16,
+          "durationMs": 168000
+        },
+        {
+          "title": "A dança (remix Mário Caldato)",
+          "discNumber": 2,
+          "position": 17,
+          "durationMs": 184000
+        },
+        {
+          "title": "O reggae (remix Liminha)",
+          "discNumber": 2,
+          "position": 18,
+          "durationMs": 227000
+        }
+      ]
+    },
+    {
+      "mbid": "98e3e031-27cc-4353-b4ea-23fac42177ea",
+      "releaseMbid": "4ffd97bf-8aae-443e-94f1-bf5c64c10d27",
+      "title": "Metrópole",
+      "type": "EP",
+      "releaseDate": "2018-06-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/98e3e031-27cc-4353-b4ea-23fac42177ea/front-1200",
+      "tracks": [
+        {
+          "title": "Plantas Embaixo do Aquário",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 174000
+        },
+        {
+          "title": "Música Urbana 2",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 161000
+        },
+        {
+          "title": "Metrópole",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 170000
+        },
+        {
+          "title": "Esperando por Mim",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 261000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

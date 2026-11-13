@@ -1,0 +1,1072 @@
+{
+  "generatedAt": "2026-11-13T11:45:05.006Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "c07f0676-9143-4217-8a9f-4c26bd636f13",
+    "name": "My Chemical Romance",
+    "slug": "my-chemical-romance",
+    "type": "BAND",
+    "country": "US",
+    "city": "Newark",
+    "formedYear": 2001,
+    "disbandedYear": null,
+    "bio": "O My Chemical Romance foi formado em setembro de 2001, em Newark, Nova Jersey, por Gerard Way, Mikey Way, Ray Toro e Matt Pelissier. Frank Iero entrou em 2002, depois do fim da banda Pencey Prep. O primeiro disco, I Brought You My Bullets, You Brought Me Your Love, saiu em 2002, pela Eyeball Records, e em 31 de agosto de 2003 a banda anunciou contrato com a Reprise Records.\n\nVieram Three Cheers for Sweet Revenge (2004), The Black Parade (2006) e Danger Days: The True Lives of the Fabulous Killjoys (2010). Bob Bryar substituiu Matt Pelissier em 2004 e deixou a banda em 2010, e James Dewees tocou teclados nas turnês a partir de 2007.\n\nEm 22 de março de 2013, a banda anunciou o fim em seu site oficial. Em 2014 saiu a coletânea May Death Never Stop You. Em 31 de outubro de 2019, o grupo anunciou a reunião, com um show em Los Angeles em 20 de dezembro daquele ano. A formação atual é Gerard Way, Ray Toro, Frank Iero e Mikey Way.\n\nA música do My Chemical Romance é classificada como rock alternativo, emo, pop punk e post-hardcore, entre outros rótulos. Gerard Way já rejeitou publicamente o termo emo.",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/c07f0676-9143-4217-8a9f-4c26bd636f13"
+      },
+      {
+        "name": "Wikipédia em português: My Chemical Romance",
+        "url": "https://pt.wikipedia.org/wiki/My_Chemical_Romance"
+      }
+    ],
+    "genres": [
+      "emo",
+      "alternative-rock",
+      "pop-punk"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "e8923ffe-6ea0-3a65-b6e4-90bca0a6d3a8",
+      "releaseMbid": "ac803e8f-4243-3a3d-91b4-9f9680380bac",
+      "title": "I Brought You My Bullets, You Brought Me Your Love",
+      "type": "ALBUM",
+      "releaseDate": "2002-07-23",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Romance",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 64626
+        },
+        {
+          "title": "Honey, This Mirror Isn’t Big Enough for the Two of Us",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 233160
+        },
+        {
+          "title": "Vampires Will Never Hurt You",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 328520
+        },
+        {
+          "title": "Drowning Lessons",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 265826
+        },
+        {
+          "title": "Our Lady of Sorrows",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 127640
+        },
+        {
+          "title": "Headfirst for Halos",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 210186
+        },
+        {
+          "title": "Skylines and Turnstiles",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 205160
+        },
+        {
+          "title": "Early Sunsets Over Monroeville",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 307066
+        },
+        {
+          "title": "This Is the Best Day Ever",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 134560
+        },
+        {
+          "title": "Cubicles",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 233866
+        },
+        {
+          "title": "Demolition Lovers",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 366573
+        }
+      ]
+    },
+    {
+      "mbid": "1d563513-87dc-308f-8bac-418fab4054cf",
+      "releaseMbid": "0d7934da-7d3c-4cd6-9032-daf481026c45",
+      "title": "Three Cheers for Sweet Revenge",
+      "type": "ALBUM",
+      "releaseDate": "2004-01-08",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/1d563513-87dc-308f-8bac-418fab4054cf/front-1200",
+      "tracks": [
+        {
+          "title": "Helena",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Give ’Em Hell, Kid",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "To the End",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "You Know What They Do to Guys Like Us in Prison",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "I’m Not Okay (I Promise)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "The Ghost of You",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "The Jetset Life Is Gonna Kill You",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Interlude",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "Thank You for the Venom",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Hang ’Em High",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": null
+        },
+        {
+          "title": "It’s Not a Fashion Statement, It’s a Deathwish",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": null
+        },
+        {
+          "title": "Cemetery Drive",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": null
+        },
+        {
+          "title": "I Never Told You What I Do for a Living",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "1b9e4fc2-ee6c-32d0-a1d9-04826de0448e",
+      "releaseMbid": "f6b49beb-841b-4763-8920-ef134c5686f0",
+      "title": "Life on the Murder Scene",
+      "type": "LIVE",
+      "releaseDate": "2006-03-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/1b9e4fc2-ee6c-32d0-a1d9-04826de0448e/front-1200",
+      "tracks": [
+        {
+          "title": "Thank You for the Venom (live from MTV2 2$Bill)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 229800
+        },
+        {
+          "title": "Cemetery Drive (live from MTV2 2$Bill)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 196933
+        },
+        {
+          "title": "Give ’Em Hell, Kid (live from MTV2 2$Bill)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 140546
+        },
+        {
+          "title": "Headfirst for Halos (live at The Starland Ballroom)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 162813
+        },
+        {
+          "title": "Helena (live from AOL Sessions, February 17, 2004)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 217146
+        },
+        {
+          "title": "You Know What They Do to Guys Like Us in Prison (live from AOL Sessions, February 17, 2004)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 191560
+        },
+        {
+          "title": "The Ghost of You (live from AOL Sessions, February 17, 2004)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 206093
+        },
+        {
+          "title": "I’m Not Okay (I Promise) (live from AOL Sessions, February 17, 2004)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 188080
+        },
+        {
+          "title": "I Never Told You What I Do for a Living (demo)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 223986
+        },
+        {
+          "title": "Bury Me in Black (demo)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 157720
+        },
+        {
+          "title": "Desert Song",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 230706
+        },
+        {
+          "title": "Video Diary",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "I’m Not Okay (I Promise) (live at The Starland Ballroom)",
+          "discNumber": 3,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Cemetery Drive (live at The Starland Ballroom)",
+          "discNumber": 3,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Our Lady of Sorrows (live at The Starland Ballroom)",
+          "discNumber": 3,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Honey This Mirror Isn’t Big Enough for the Two of Us (live at The Starland Ballroom)",
+          "discNumber": 3,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "You Know What They Do to Guys Like Us in Prison (live from MTV2 2$Bill)",
+          "discNumber": 3,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Head First for Halos (live at The Starland Ballroom)",
+          "discNumber": 3,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "The Ghost of You (live from MTV2 2$Bill)",
+          "discNumber": 3,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Thank You for the Venom (live at The Starland Ballroom)",
+          "discNumber": 3,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "Give ’Em Hell, Kid (live from MTV2 2$Bill)",
+          "discNumber": 3,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Vampires Will Never Hurt You (live at The Starland Ballroom)",
+          "discNumber": 3,
+          "position": 10,
+          "durationMs": null
+        },
+        {
+          "title": "Helena (live at The Starland Ballroom)",
+          "discNumber": 3,
+          "position": 11,
+          "durationMs": null
+        },
+        {
+          "title": "I’m Not Okay (I Promise) (from MTV Discover and Download)",
+          "discNumber": 3,
+          "position": 12,
+          "durationMs": null
+        },
+        {
+          "title": "I’m Not Okay (I Promise) (from Late Night with Conan O’Brien)",
+          "discNumber": 3,
+          "position": 13,
+          "durationMs": null
+        },
+        {
+          "title": "Helena (live at AOL Sessions)",
+          "discNumber": 3,
+          "position": 14,
+          "durationMs": null
+        },
+        {
+          "title": "I’m Not Okay (I Promise) (live at AOL Sessions)",
+          "discNumber": 3,
+          "position": 15,
+          "durationMs": null
+        },
+        {
+          "title": "The Ghost of You (live at AOL Sessions)",
+          "discNumber": 3,
+          "position": 16,
+          "durationMs": null
+        },
+        {
+          "title": "You Know What They Do to Guys Like Us in Prison (live at AOL Sessions)",
+          "discNumber": 3,
+          "position": 17,
+          "durationMs": null
+        },
+        {
+          "title": "I’m Not Okay (I Promise) (live at Launch)",
+          "discNumber": 3,
+          "position": 18,
+          "durationMs": null
+        },
+        {
+          "title": "Helena (live at Launch)",
+          "discNumber": 3,
+          "position": 19,
+          "durationMs": null
+        },
+        {
+          "title": "I’m Not Okay (I Promise)",
+          "discNumber": 3,
+          "position": 20,
+          "durationMs": null
+        },
+        {
+          "title": "I’m Not Okay (I Promise)",
+          "discNumber": 3,
+          "position": 21,
+          "durationMs": null
+        },
+        {
+          "title": "Making the Video “I’m Not Okay (I Promise)”",
+          "discNumber": 3,
+          "position": 22,
+          "durationMs": null
+        },
+        {
+          "title": "Helena",
+          "discNumber": 3,
+          "position": 23,
+          "durationMs": null
+        },
+        {
+          "title": "Making the Video “Helena”",
+          "discNumber": 3,
+          "position": 24,
+          "durationMs": null
+        },
+        {
+          "title": "The Ghost of You",
+          "discNumber": 3,
+          "position": 25,
+          "durationMs": null
+        },
+        {
+          "title": "Making the Video “The Ghost of You”",
+          "discNumber": 3,
+          "position": 26,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "bcba43e7-2f72-3b60-b234-577e77fd2d9e",
+      "releaseMbid": "e7dcf45d-9fd9-4b14-a2d3-eee4ad46437f",
+      "title": "The Black Parade",
+      "type": "ALBUM",
+      "releaseDate": "2006-10-20",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "The End.",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 112920
+        },
+        {
+          "title": "Dead!",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 195520
+        },
+        {
+          "title": "This Is How I Disappear",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 239053
+        },
+        {
+          "title": "The Sharpest Lives",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 200880
+        },
+        {
+          "title": "Welcome to the Black Parade",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 311106
+        },
+        {
+          "title": "I Don’t Love You",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 238680
+        },
+        {
+          "title": "House of Wolves",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 184000
+        },
+        {
+          "title": "Cancer",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 142973
+        },
+        {
+          "title": "Mama",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 279026
+        },
+        {
+          "title": "Sleep",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 283466
+        },
+        {
+          "title": "Teenagers",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 161920
+        },
+        {
+          "title": "Disenchanted",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 295000
+        },
+        {
+          "title": "Famous Last Words",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 299226
+        },
+        {
+          "title": "Blood",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 173533
+        }
+      ]
+    },
+    {
+      "mbid": "c9f8241d-621d-3751-9461-7384deec5152",
+      "releaseMbid": "654de0d1-02e2-45be-982a-e613064b8bfd",
+      "title": "The Black Parade Is Dead!",
+      "type": "LIVE",
+      "releaseDate": "2008-06-27",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c9f8241d-621d-3751-9461-7384deec5152/front-1200",
+      "tracks": [
+        {
+          "title": "The End.",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 154306
+        },
+        {
+          "title": "Dead!",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 197293
+        },
+        {
+          "title": "This Is How I Disappear",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 231066
+        },
+        {
+          "title": "The Sharpest Lives",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 197453
+        },
+        {
+          "title": "Welcome to the Black Parade",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 305426
+        },
+        {
+          "title": "I Don’t Love You",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 227200
+        },
+        {
+          "title": "House of Wolves",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 218053
+        },
+        {
+          "title": "Interlude",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 61320
+        },
+        {
+          "title": "Cancer",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 196560
+        },
+        {
+          "title": "Mama",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 321213
+        },
+        {
+          "title": "Sleep",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 331080
+        },
+        {
+          "title": "Teenagers",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 183613
+        },
+        {
+          "title": "The Black Parade Is Dead",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 60853
+        },
+        {
+          "title": "Disenchanted",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 298680
+        },
+        {
+          "title": "Famous Last Words",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 309813
+        },
+        {
+          "title": "Blood",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 81653
+        }
+      ]
+    },
+    {
+      "mbid": "7cbca9fb-6623-494c-bf54-c09aaa4c1f75",
+      "releaseMbid": "84359fd7-bb66-4b1b-b024-69b75e166594",
+      "title": "¡Venganza!",
+      "type": "LIVE",
+      "releaseDate": "2009-04-10",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/7cbca9fb-6623-494c-bf54-c09aaa4c1f75/front-1200",
+      "tracks": [
+        {
+          "title": "I’m Not Okay (I Promise)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 183000
+        },
+        {
+          "title": "Cemetery Drive",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 223000
+        },
+        {
+          "title": "Thank You for the Venom",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 245000
+        },
+        {
+          "title": "The Jetset Life Is Gonna Kill You",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 239000
+        },
+        {
+          "title": "The Ghost of You",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 301000
+        },
+        {
+          "title": "It’s Not a Fashion Statement, It’s a Fucking Deathwish",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 263000
+        },
+        {
+          "title": "Give ’Em Hell, Kid",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 188000
+        },
+        {
+          "title": "You Know What They Do to Guys Like Us in Prison",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 294000
+        },
+        {
+          "title": "Helena",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 403000
+        }
+      ]
+    },
+    {
+      "mbid": "78d2d45c-6d3e-4b5a-98fc-0ac2beaabbd0",
+      "releaseMbid": "ed8f68ec-03a6-4e14-ae13-6952da80d007",
+      "title": "The Black Parade: The B‐Sides",
+      "type": "EP",
+      "releaseDate": "2010-02-01",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "My Way Home Is Through You",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 178000
+        },
+        {
+          "title": "Famous Last Words (live)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 293000
+        },
+        {
+          "title": "Kill All Your Friends",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 268000
+        },
+        {
+          "title": "Welcome to the Black Parade (live)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 329000
+        },
+        {
+          "title": "Heaven Help Us",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 175000
+        }
+      ]
+    },
+    {
+      "mbid": "a1bbdaa1-fb64-4db3-a6cd-4a37cd2ffa3e",
+      "releaseMbid": "31adb9e9-520e-40af-9c31-ab2fd8a00865",
+      "title": "Danger Days: The True Lives of the Fabulous Killjoys",
+      "type": "ALBUM",
+      "releaseDate": "2010-11-05",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a1bbdaa1-fb64-4db3-a6cd-4a37cd2ffa3e/front-1200",
+      "tracks": [
+        {
+          "title": "Look Alive, Sunshine",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 29746
+        },
+        {
+          "title": "Na Na Na (Na Na Na Na Na Na Na Na Na)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 205958
+        },
+        {
+          "title": "Bulletproof Heart",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 296734
+        },
+        {
+          "title": "SING",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 270379
+        },
+        {
+          "title": "Planetary (GO!)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 246756
+        },
+        {
+          "title": "The Only Hope for Me Is You",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 272778
+        },
+        {
+          "title": "Jet‐Star and the Kobra Kid/Traffic Report",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 26436
+        },
+        {
+          "title": "Party Poison",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 215960
+        },
+        {
+          "title": "Save Yourself, I’ll Hold Them Back",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 230429
+        },
+        {
+          "title": "S/C/A/R/E/C/R/O/W",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 268427
+        },
+        {
+          "title": "Summertime",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 246720
+        },
+        {
+          "title": "DESTROYA",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 272911
+        },
+        {
+          "title": "The Kids From Yesterday",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 324966
+        },
+        {
+          "title": "Goodnite, Dr. Death",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 119043
+        },
+        {
+          "title": "Vampire Money",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 218122
+        }
+      ]
+    },
+    {
+      "mbid": "513db3be-2a6a-4b0d-b981-6613f9956bf7",
+      "releaseMbid": "32a4e222-2153-487a-a6db-68008474877d",
+      "title": "The Mad Gear and Missile Kid",
+      "type": "EP",
+      "releaseDate": "2010-11-22",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/513db3be-2a6a-4b0d-b981-6613f9956bf7/front-1200",
+      "tracks": [
+        {
+          "title": "F.T.W.W.W.",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 147360
+        },
+        {
+          "title": "Mastas of Ravenkroft",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 104280
+        },
+        {
+          "title": "Black Dragon Fighting Society",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 96880
+        }
+      ]
+    },
+    {
+      "mbid": "638ef9fd-a333-46d1-899c-fc7a41f5f3fd",
+      "releaseMbid": "309a5e1b-baf1-4fc1-9ec8-6d4880058518",
+      "title": "Conventional Weapons",
+      "type": "ALBUM",
+      "releaseDate": "2013-02-05",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/638ef9fd-a333-46d1-899c-fc7a41f5f3fd/front-1200",
+      "tracks": [
+        {
+          "title": "Boy Division",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 175229
+        },
+        {
+          "title": "Tomorrow's Money",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 195999
+        },
+        {
+          "title": "AMBULANCE",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 232124
+        },
+        {
+          "title": "Gun.",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 219498
+        },
+        {
+          "title": "The World Is Ugly",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 294684
+        },
+        {
+          "title": "The Light Behind Your Eyes",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 311588
+        },
+        {
+          "title": "Kiss The Ring",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 188197
+        },
+        {
+          "title": "Make Room!!!!",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 221753
+        },
+        {
+          "title": "Surrender The Night",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 207595
+        },
+        {
+          "title": "Burn Bright",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 257149
+        }
+      ]
+    },
+    {
+      "mbid": "a92606d1-2b98-4633-adfd-119b8b01f16f",
+      "releaseMbid": "b8f43266-8121-40fa-b333-4edff221afb5",
+      "title": "May Death Never Stop You: The Greatest Hits 2001–2013",
+      "type": "COMPILATION",
+      "releaseDate": "2014-03-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a92606d1-2b98-4633-adfd-119b8b01f16f/front-1200",
+      "tracks": [
+        {
+          "title": "Fake Your Death",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 203000
+        },
+        {
+          "title": "Honey, This Mirror Isn’t Big Enough for the Two of Us",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 235000
+        },
+        {
+          "title": "Vampires Will Never Hurt You",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 328000
+        },
+        {
+          "title": "Helena",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 208000
+        },
+        {
+          "title": "You Know What They Do to Guys Like Us in Prison",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 177000
+        },
+        {
+          "title": "I’m Not Okay (I Promise)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 189000
+        },
+        {
+          "title": "The Ghost of You",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 239000
+        },
+        {
+          "title": "Welcome to the Black Parade",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 316000
+        },
+        {
+          "title": "Cancer",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 147000
+        },
+        {
+          "title": "Mama",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 281000
+        },
+        {
+          "title": "Teenagers",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 164000
+        },
+        {
+          "title": "Famous Last Words",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 302000
+        },
+        {
+          "title": "Na Na Na (Na Na Na Na Na Na Na Na Na)",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 208000
+        },
+        {
+          "title": "Sing",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 273000
+        },
+        {
+          "title": "Planetary (Go!)",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 249000
+        },
+        {
+          "title": "The Kids From Yesterday",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 328000
+        },
+        {
+          "title": "Skylines and Turnstiles (demo)",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 212000
+        },
+        {
+          "title": "Knives / Sorrow (demo)",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 136000
+        },
+        {
+          "title": "Cubicles (demo)",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 240000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

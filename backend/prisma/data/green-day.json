@@ -1,0 +1,2034 @@
+{
+  "generatedAt": "2026-11-13T11:56:53.002Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "084308bd-1654-436f-ba03-df6697104e19",
+    "name": "Green Day",
+    "slug": "green-day",
+    "type": "BAND",
+    "country": "US",
+    "city": "Rodeo",
+    "formedYear": 1987,
+    "disbandedYear": null,
+    "bio": "O Green Day foi formado em 1987, em Rodeo, Califórnia, por Billie Joe Armstrong e Mike Dirnt, que tocavam como The Sweet Children. O nome mudou em 1989, antes do EP 1,000 Hours. John Kiffmeyer foi o baterista até 1990, quando Tré Cool entrou, e o trio permanece o mesmo até hoje. Os primeiros discos saíram pela gravadora independente Lookout! Records, como 39/Smooth (1990) e Kerplunk (1992).\n\nEm 1994, a banda assinou com a Reprise Records e lançou Dookie, seu grande sucesso comercial, e tocou no Woodstock de 1994. Vieram Insomniac (1995), Nimrod (1997) e Warning (2000). Em 2004, American Idiot, descrito como uma ópera rock punk, renovou o sucesso do grupo, e o musical baseado nele estreou na Broadway em 2010. Depois vieram 21st Century Breakdown (2009), a trilogia ¡Uno!, ¡Dos! e ¡Tré! (2012), Revolution Radio (2016), Father of All Motherfuckers (2020) e Saviors (2024).\n\nA banda ganhou cinco prêmios Grammy, entre eles o de Melhor Álbum Alternativo por Dookie e o de Melhor Álbum de Rock por American Idiot e por 21st Century Breakdown. Saviors foi indicado ao Grammy de 2025 na categoria Melhor Álbum de Rock.\n\nEm 18 de abril de 2015, no primeiro ano em que era elegível, o Green Day entrou no Rock and Roll Hall of Fame. A banda vendeu cerca de 75 milhões de discos no mundo e é associada ao punk rock, ao pop punk e ao rock alternativo.",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/084308bd-1654-436f-ba03-df6697104e19"
+      },
+      {
+        "name": "Wikipédia em português: Green Day",
+        "url": "https://pt.wikipedia.org/wiki/Green_Day"
+      }
+    ],
+    "genres": [
+      "punk-rock",
+      "pop-punk"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "c58228d1-05e9-3ce0-83f6-b0d33ffcaa90",
+      "releaseMbid": "c1bea9b6-2aa2-4ae9-b1ac-c8d99c0e04fd",
+      "title": "39/Smooth",
+      "type": "EP",
+      "releaseDate": "1990-02-23",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c58228d1-05e9-3ce0-83f6-b0d33ffcaa90/front-1200",
+      "tracks": [
+        {
+          "title": "At the Library",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 146000
+        },
+        {
+          "title": "Don’t Leave Me",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 159000
+        },
+        {
+          "title": "I Was There",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 216000
+        },
+        {
+          "title": "Disappearing Boy",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 171000
+        },
+        {
+          "title": "Green Day",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 208000
+        },
+        {
+          "title": "Going to Pasalacqua",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 210000
+        },
+        {
+          "title": "16",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 204000
+        },
+        {
+          "title": "Road to Acceptance",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 215000
+        },
+        {
+          "title": "Rest",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 185000
+        },
+        {
+          "title": "The Judge’s Daughter",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 154000
+        }
+      ]
+    },
+    {
+      "mbid": "f379b19e-0a47-3d28-b5be-595e34cba7d3",
+      "releaseMbid": "fc9486c7-986c-3f75-8854-8630fa818f37",
+      "title": "1,039/Smoothed Out Slappy Hours",
+      "type": "COMPILATION",
+      "releaseDate": "1991-04-19",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f379b19e-0a47-3d28-b5be-595e34cba7d3/front-1200",
+      "tracks": [
+        {
+          "title": "At the Library",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 146906
+        },
+        {
+          "title": "Don’t Leave Me",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 158893
+        },
+        {
+          "title": "I Was There",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 216173
+        },
+        {
+          "title": "Disappearing Boy",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 171786
+        },
+        {
+          "title": "Green Day",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 208906
+        },
+        {
+          "title": "Going to Pasalacqua",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 210373
+        },
+        {
+          "title": "16",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 204453
+        },
+        {
+          "title": "Road to Acceptance",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 215600
+        },
+        {
+          "title": "Rest",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 185786
+        },
+        {
+          "title": "The Judge’s Daughter",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 154426
+        },
+        {
+          "title": "Paper Lanterns",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 145333
+        },
+        {
+          "title": "Why Do You Want Him?",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 152626
+        },
+        {
+          "title": "409 in Your Coffeemaker",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 173986
+        },
+        {
+          "title": "Knowledge",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 140106
+        },
+        {
+          "title": "1,000 Hours",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 145906
+        },
+        {
+          "title": "Dry Ice",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 224840
+        },
+        {
+          "title": "Only of You",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 165826
+        },
+        {
+          "title": "The One I Want",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 181133
+        },
+        {
+          "title": "I Want to Be Alone",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 189013
+        }
+      ]
+    },
+    {
+      "mbid": "a0603694-2422-3a40-b946-d0bcea5e8254",
+      "releaseMbid": "3e35db31-e369-494c-a574-66f3bbeaca2f",
+      "title": "Kerplunk",
+      "type": "ALBUM",
+      "releaseDate": "1991-12-17",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a0603694-2422-3a40-b946-d0bcea5e8254/front-1200",
+      "tracks": [
+        {
+          "title": "2000 Light Years Away",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 144000
+        },
+        {
+          "title": "One for the Razorbacks",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 150000
+        },
+        {
+          "title": "Welcome to Paradise",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 210000
+        },
+        {
+          "title": "Christie Road",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 213000
+        },
+        {
+          "title": "Private Ale",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 146000
+        },
+        {
+          "title": "Dominated Love Slave",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 101000
+        },
+        {
+          "title": "One of My Lies",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 139000
+        },
+        {
+          "title": "80",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 219000
+        },
+        {
+          "title": "Android",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 180000
+        },
+        {
+          "title": "No One Knows",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 219000
+        },
+        {
+          "title": "Who Wrote Holden Caulfield?",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 164000
+        },
+        {
+          "title": "Words I Might Have Ate",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 152000
+        }
+      ]
+    },
+    {
+      "mbid": "314cffd4-daa5-3337-85e5-e54165a96113",
+      "releaseMbid": "2931558c-3956-4b8e-987a-3ef61ece0af4",
+      "title": "Dookie",
+      "type": "ALBUM",
+      "releaseDate": "1994-01-28",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/314cffd4-daa5-3337-85e5-e54165a96113/front-1200",
+      "tracks": [
+        {
+          "title": "Burnout",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 127573
+        },
+        {
+          "title": "Having a Blast",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 164666
+        },
+        {
+          "title": "Chump",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 174026
+        },
+        {
+          "title": "Longview",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 239106
+        },
+        {
+          "title": "Welcome to Paradise",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 224626
+        },
+        {
+          "title": "Pulling Teeth",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 150840
+        },
+        {
+          "title": "Basket Case",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 183133
+        },
+        {
+          "title": "She",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 134293
+        },
+        {
+          "title": "Sassafras Roots",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 157640
+        },
+        {
+          "title": "When I Come Around",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 178160
+        },
+        {
+          "title": "Coming Clean",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 94906
+        },
+        {
+          "title": "Emenius Sleepus",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 103960
+        },
+        {
+          "title": "In the End",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 106400
+        },
+        {
+          "title": "F.O.D. / All by Myself",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 346840
+        }
+      ]
+    },
+    {
+      "mbid": "061f572e-7660-3c6b-b4cd-cf66d46da93c",
+      "releaseMbid": "2f19456b-7688-410d-acbc-d6139c5be072",
+      "title": "Insomniac",
+      "type": "ALBUM",
+      "releaseDate": "1995-10-06",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/061f572e-7660-3c6b-b4cd-cf66d46da93c/front-1200",
+      "tracks": [
+        {
+          "title": "Armatage Shanks",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 137000
+        },
+        {
+          "title": "Brat",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 103000
+        },
+        {
+          "title": "Stuck With Me",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 136000
+        },
+        {
+          "title": "Geek Stink Breath",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 136000
+        },
+        {
+          "title": "No Pride",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 140000
+        },
+        {
+          "title": "Bab’s Uvula Who?",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 128000
+        },
+        {
+          "title": "86",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 168000
+        },
+        {
+          "title": "Panic Song",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 215000
+        },
+        {
+          "title": "Stuart and the Ave.",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 123000
+        },
+        {
+          "title": "Brain Stew",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 193000
+        },
+        {
+          "title": "Jaded",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 91000
+        },
+        {
+          "title": "Westbound Sign",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 133000
+        },
+        {
+          "title": "Tight Wad Hill",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 121000
+        },
+        {
+          "title": "Walking Contradiction",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 152000
+        }
+      ]
+    },
+    {
+      "mbid": "4f1d08f2-d4bd-3ef2-ba72-eb348ae4c332",
+      "releaseMbid": "1b7802f1-dbf3-471c-a19e-a60b72869d93",
+      "title": "Nimrod",
+      "type": "ALBUM",
+      "releaseDate": "1997-10-10",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4f1d08f2-d4bd-3ef2-ba72-eb348ae4c332/front-1200",
+      "tracks": [
+        {
+          "title": "Nice Guys Finish Last",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 169000
+        },
+        {
+          "title": "Hitchin’ a Ride",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 171866
+        },
+        {
+          "title": "The Grouch",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 132226
+        },
+        {
+          "title": "Redundant",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 197706
+        },
+        {
+          "title": "Scattered",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 182493
+        },
+        {
+          "title": "All the Time",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 130573
+        },
+        {
+          "title": "Worry Rock",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 147000
+        },
+        {
+          "title": "Platypus (I Hate You)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 141760
+        },
+        {
+          "title": "Uptight",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 184173
+        },
+        {
+          "title": "Last Ride In",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 227826
+        },
+        {
+          "title": "Jinx",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 132573
+        },
+        {
+          "title": "Haushinka",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 205426
+        },
+        {
+          "title": "Walking Alone",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 165306
+        },
+        {
+          "title": "Reject",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 125826
+        },
+        {
+          "title": "Take Back",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 69373
+        },
+        {
+          "title": "King for a Day",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 193493
+        },
+        {
+          "title": "Good Riddance (Time of Your Life)",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 154573
+        },
+        {
+          "title": "Prosthetic Head",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 218000
+        }
+      ]
+    },
+    {
+      "mbid": "c1604b20-37b8-3fc7-8726-73f41090b8e2",
+      "releaseMbid": "9396b443-3042-4245-94f8-078195ae2735",
+      "title": "Warning",
+      "type": "ALBUM",
+      "releaseDate": "2000-09-20",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c1604b20-37b8-3fc7-8726-73f41090b8e2/front-1200",
+      "tracks": [
+        {
+          "title": "Warning",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 222960
+        },
+        {
+          "title": "Blood, Sex and Booze",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 213666
+        },
+        {
+          "title": "Church on Sunday",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 198533
+        },
+        {
+          "title": "Fashion Victim",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 168533
+        },
+        {
+          "title": "Castaway",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 232533
+        },
+        {
+          "title": "Misery",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 305906
+        },
+        {
+          "title": "Deadbeat Holiday",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 215293
+        },
+        {
+          "title": "Hold On",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 176933
+        },
+        {
+          "title": "Jackass",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 163040
+        },
+        {
+          "title": "Waiting",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 193933
+        },
+        {
+          "title": "Minority",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 169400
+        },
+        {
+          "title": "Macy’s Day Parade",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 214400
+        }
+      ]
+    },
+    {
+      "mbid": "a867a345-f904-3cd1-939d-f7c24b14719f",
+      "releaseMbid": "d3af470e-8212-405a-acc6-13b8b6b94353",
+      "title": "International Superhits!",
+      "type": "COMPILATION",
+      "releaseDate": "2001-11-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a867a345-f904-3cd1-939d-f7c24b14719f/front-1200",
+      "tracks": [
+        {
+          "title": "Longview",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 227000
+        },
+        {
+          "title": "Basket Case",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 193000
+        },
+        {
+          "title": "When I Come Around",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 177000
+        },
+        {
+          "title": "Geek Stink Breath",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 140000
+        },
+        {
+          "title": "Stuck With Me",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 137000
+        },
+        {
+          "title": "Brain Stew / Jaded",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 271000
+        },
+        {
+          "title": "Walking Contradiction",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 156000
+        },
+        {
+          "title": "Hitchin' A Ride",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 173000
+        },
+        {
+          "title": "Good Riddance (Time of Your Life)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 150000
+        },
+        {
+          "title": "Redundant",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 201000
+        },
+        {
+          "title": "Nice Guys Finish Last",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 248000
+        },
+        {
+          "title": "Last Ride In",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 229000
+        },
+        {
+          "title": "Minority",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 170000
+        },
+        {
+          "title": "Warning",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 227000
+        },
+        {
+          "title": "Waiting",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 195000
+        },
+        {
+          "title": "Credits",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "74a05fd3-bf48-3caa-a584-d5d5eb525fb3",
+      "releaseMbid": "868d5e1a-4f72-476f-aca7-3dacd578aa96",
+      "title": "Shenanigans",
+      "type": "COMPILATION",
+      "releaseDate": "2002-07-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/74a05fd3-bf48-3caa-a584-d5d5eb525fb3/front-1200",
+      "tracks": [
+        {
+          "title": "Suffocate",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 176120
+        },
+        {
+          "title": "Desensitized",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 168760
+        },
+        {
+          "title": "You Lied",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 147720
+        },
+        {
+          "title": "Outsider",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 138853
+        },
+        {
+          "title": "Don't Wanna Fall in Love",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 100453
+        },
+        {
+          "title": "Espionage",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 205320
+        },
+        {
+          "title": "I Want to Be on T.V.",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 78586
+        },
+        {
+          "title": "Scumbag",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 107560
+        },
+        {
+          "title": "Tired of Waiting for You",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 154346
+        },
+        {
+          "title": "Sick of Me",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 129026
+        },
+        {
+          "title": "Rotting",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 173440
+        },
+        {
+          "title": "Do Da Da",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 92266
+        },
+        {
+          "title": "On the Wagon",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 169546
+        },
+        {
+          "title": "Ha Ha You're Dead",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 186826
+        }
+      ]
+    },
+    {
+      "mbid": "de9bf827-a9b0-348b-a7c9-556c03c3fb07",
+      "releaseMbid": "4a09e379-5bad-4fe8-a2c0-3d9fa45b9b77",
+      "title": "American Idiot",
+      "type": "ALBUM",
+      "releaseDate": "2004-09-20",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "American Idiot",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 174320
+        },
+        {
+          "title": "Jesus of Suburbia",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 548253
+        },
+        {
+          "title": "Holiday",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 232640
+        },
+        {
+          "title": "Boulevard of Broken Dreams",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 260760
+        },
+        {
+          "title": "Are We the Waiting",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 162920
+        },
+        {
+          "title": "St. Jimmy",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 175226
+        },
+        {
+          "title": "Give Me Novacaine",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 205773
+        },
+        {
+          "title": "She’s a Rebel",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 120426
+        },
+        {
+          "title": "Extraordinary Girl",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 213933
+        },
+        {
+          "title": "Letterbomb",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 246066
+        },
+        {
+          "title": "Wake Me Up When September Ends",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 285653
+        },
+        {
+          "title": "Homecoming",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 558520
+        },
+        {
+          "title": "Whatsername",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 252213
+        }
+      ]
+    },
+    {
+      "mbid": "96636bc5-2799-32a8-a273-1e93771e811b",
+      "releaseMbid": "43e4c05b-cc89-472d-84c3-1049dc53b55e",
+      "title": "Bullet in a Bible",
+      "type": "LIVE",
+      "releaseDate": "2005-11-11",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/96636bc5-2799-32a8-a273-1e93771e811b/front-1200",
+      "tracks": [
+        {
+          "title": "American Idiot",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 272506
+        },
+        {
+          "title": "Jesus of Suburbia",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 563080
+        },
+        {
+          "title": "Holiday",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 252413
+        },
+        {
+          "title": "Are We the Waiting",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 169240
+        },
+        {
+          "title": "St. Jimmy",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 175240
+        },
+        {
+          "title": "Longview",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 284533
+        },
+        {
+          "title": "Hitchin’ a Ride",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 243960
+        },
+        {
+          "title": "Brain Stew",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 182613
+        },
+        {
+          "title": "Basket Case",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 178106
+        },
+        {
+          "title": "King for a Day / Shout",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 527106
+        },
+        {
+          "title": "Wake Me Up When September Ends",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 303386
+        },
+        {
+          "title": "Minority",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 259253
+        },
+        {
+          "title": "Boulevard of Broken Dreams",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 284960
+        },
+        {
+          "title": "Good Riddance (Time of Your Life)",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 206026
+        },
+        {
+          "title": "American Idiot",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Jesus of Suburbia: I. Jesus of Suburbia / II. City of the Damned / III. I Don't Care / IV. Dearly Beloved / V. Tales of Another Broken Home",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Holiday",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Are We the Waiting",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "St. Jimmy",
+          "discNumber": 2,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Longview",
+          "discNumber": 2,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Hitchin’ a Ride",
+          "discNumber": 2,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Brain Stew",
+          "discNumber": 2,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "Basket Case",
+          "discNumber": 2,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "King for a Day / Shout",
+          "discNumber": 2,
+          "position": 10,
+          "durationMs": null
+        },
+        {
+          "title": "Wake Me Up When September Ends",
+          "discNumber": 2,
+          "position": 11,
+          "durationMs": null
+        },
+        {
+          "title": "Minority",
+          "discNumber": 2,
+          "position": 12,
+          "durationMs": null
+        },
+        {
+          "title": "Boulevard of Broken Dreams",
+          "discNumber": 2,
+          "position": 13,
+          "durationMs": null
+        },
+        {
+          "title": "Good Riddance (Time of Your Life)",
+          "discNumber": 2,
+          "position": 14,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "37608ff2-3168-3e7c-a77e-04a4b7300c1b",
+      "releaseMbid": "943f5800-9ccc-4611-9ae4-ccb56f851eb6",
+      "title": "21st Century Breakdown",
+      "type": "ALBUM",
+      "releaseDate": "2009-04",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/37608ff2-3168-3e7c-a77e-04a4b7300c1b/front-1200",
+      "tracks": [
+        {
+          "title": "Song of the Century",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 58000
+        },
+        {
+          "title": "21st Century Breakdown",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 309000
+        },
+        {
+          "title": "Know Your Enemy",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 190000
+        },
+        {
+          "title": "¡Viva La Gloria!",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 211000
+        },
+        {
+          "title": "Before the Lobotomy",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 277000
+        },
+        {
+          "title": "Christian’s Inferno",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 187000
+        },
+        {
+          "title": "Last Night on Earth",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 237000
+        },
+        {
+          "title": "East Jesus Nowhere",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 275000
+        },
+        {
+          "title": "Peacemaker",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 204000
+        },
+        {
+          "title": "Last of the American Girls",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 231000
+        },
+        {
+          "title": "Murder City",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 174000
+        },
+        {
+          "title": "¿Viva La Gloria? (Little Girl)",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 228000
+        },
+        {
+          "title": "Restless Heart Syndrome",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 261000
+        },
+        {
+          "title": "Horseshoes and Handgrenades",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 194000
+        },
+        {
+          "title": "The Static Age",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 257000
+        },
+        {
+          "title": "21 Guns",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 321000
+        },
+        {
+          "title": "American Eulogy: Mass Hysteria / Modern World",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 266000
+        },
+        {
+          "title": "See the Light",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 276000
+        }
+      ]
+    },
+    {
+      "mbid": "4a72d24c-c1b8-457e-94ca-7fa1df3eb3a3",
+      "releaseMbid": "b22d7bab-d06b-3622-8ec1-a39b917bf082",
+      "title": "Awesome as Fuck",
+      "type": "LIVE",
+      "releaseDate": "2011-03-17",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4a72d24c-c1b8-457e-94ca-7fa1df3eb3a3/front-1200",
+      "tracks": [
+        {
+          "title": "21st Century Breakdown (London, England)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 351546
+        },
+        {
+          "title": "Know Your Enemy (Manchester, England)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 290026
+        },
+        {
+          "title": "East Jesus Nowhere (Glasgow, Scotland)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 308026
+        },
+        {
+          "title": "Holiday (Dublin, Ireland)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 256360
+        },
+        {
+          "title": "¡Viva la Gloria! (Dallas, Texas)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 251186
+        },
+        {
+          "title": "Cigarettes and Valentines (Phoenix, Arizona)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 163920
+        },
+        {
+          "title": "Burnout (Irvine, California)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 136906
+        },
+        {
+          "title": "Going to Pasquala (Chula Vista, California)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 241386
+        },
+        {
+          "title": "J.A.R. (Jason Andrew Relva) (Detroit, Michigan)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 164213
+        },
+        {
+          "title": "Who Wrote Holden Caulfield? (New York, New York)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 202360
+        },
+        {
+          "title": "Geek Stink Breath (Saitama-shi, Japan)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 127813
+        },
+        {
+          "title": "When I Come Around (Berlin, Germany)",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 191160
+        },
+        {
+          "title": "She (Brisbane, Australia)",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 159533
+        },
+        {
+          "title": "21 Guns (Mountain View, California)",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 356306
+        },
+        {
+          "title": "American Idiot (Montreal, QC)",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 263333
+        },
+        {
+          "title": "Wake Me Up When September Ends (Nickelsdorf, Austria)",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 191986
+        },
+        {
+          "title": "Good Riddance (Time of Your Life) (Nickelsdorf, Austria)",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 177106
+        }
+      ]
+    },
+    {
+      "mbid": "6a0f0991-7af2-4dec-b623-6672051be668",
+      "releaseMbid": "713254c7-7133-4775-b834-06935d35f143",
+      "title": "¡Uno!",
+      "type": "ALBUM",
+      "releaseDate": "2012-09-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/6a0f0991-7af2-4dec-b623-6672051be668/front-1200",
+      "tracks": [
+        {
+          "title": "Nuclear Family",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 183146
+        },
+        {
+          "title": "Stay the Night",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 276706
+        },
+        {
+          "title": "Carpe Diem",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 205506
+        },
+        {
+          "title": "Let Yourself Go",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 176986
+        },
+        {
+          "title": "Kill the DJ",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 221626
+        },
+        {
+          "title": "Fell for You",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 188653
+        },
+        {
+          "title": "Loss of Control",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 187826
+        },
+        {
+          "title": "Troublemaker",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 165253
+        },
+        {
+          "title": "Angel Blue",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 166746
+        },
+        {
+          "title": "Sweet 16",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 183813
+        },
+        {
+          "title": "Rusty James",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 249253
+        },
+        {
+          "title": "Oh Love",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 303293
+        }
+      ]
+    },
+    {
+      "mbid": "07176400-dcc4-4e7d-a72a-2dfda6073ce2",
+      "releaseMbid": "ac4c6ca7-5104-42b9-821e-1307ced8d1f2",
+      "title": "¡Dos!",
+      "type": "ALBUM",
+      "releaseDate": "2012-11-09",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/07176400-dcc4-4e7d-a72a-2dfda6073ce2/front-1200",
+      "tracks": [
+        {
+          "title": "See You Tonight",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 67000
+        },
+        {
+          "title": "Fuck Time",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 166000
+        },
+        {
+          "title": "Stop When the Red Lights Flash",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 146000
+        },
+        {
+          "title": "Lazy Bones",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 214000
+        },
+        {
+          "title": "Wild One",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 260000
+        },
+        {
+          "title": "Makeout Party",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 194000
+        },
+        {
+          "title": "Stray Heart",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 225000
+        },
+        {
+          "title": "Ashley",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 170000
+        },
+        {
+          "title": "Baby Eyes",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 142000
+        },
+        {
+          "title": "Lady Cobra",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 126000
+        },
+        {
+          "title": "Nightlife",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 185000
+        },
+        {
+          "title": "Wow! That’s Loud",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 268000
+        },
+        {
+          "title": "Amy",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 205000
+        }
+      ]
+    },
+    {
+      "mbid": "4853b957-05f2-457b-ba47-18b2565abc69",
+      "releaseMbid": "08205eae-c9e3-4174-8d69-2a67d742a19c",
+      "title": "¡Tré!",
+      "type": "ALBUM",
+      "releaseDate": "2012-12-04",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4853b957-05f2-457b-ba47-18b2565abc69/front-1200",
+      "tracks": [
+        {
+          "title": "Brutal Love",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 294746
+        },
+        {
+          "title": "Missing You",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 223693
+        },
+        {
+          "title": "8th Avenue Serenade",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 156653
+        },
+        {
+          "title": "Drama Queen",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 187533
+        },
+        {
+          "title": "X‐Kid",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 221720
+        },
+        {
+          "title": "Sex, Drugs & Violence",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 211946
+        },
+        {
+          "title": "A Little Boy Named Train",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 217266
+        },
+        {
+          "title": "Amanda",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 148066
+        },
+        {
+          "title": "Walk Away",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 225893
+        },
+        {
+          "title": "Dirty Rotten Bastards",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 386360
+        },
+        {
+          "title": "99 Revolutions",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 229893
+        },
+        {
+          "title": "The Forgotten",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 298733
+        }
+      ]
+    },
+    {
+      "mbid": "165feb6e-7d26-4f46-8420-d54b1eaeda92",
+      "releaseMbid": "373d3265-4e51-49a5-980b-4b597b5d0227",
+      "title": "Demolicious",
+      "type": "COMPILATION",
+      "releaseDate": "2014-04-19",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "99 Revolutions (demo)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 246000
+        },
+        {
+          "title": "Angel Blue (demo)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 175000
+        },
+        {
+          "title": "Carpe Diem (demo)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 219000
+        },
+        {
+          "title": "State of Shock (demo)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 148000
+        },
+        {
+          "title": "Let Yourself Go (demo)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 180000
+        },
+        {
+          "title": "Sex, Drugs & Violence (demo)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 205000
+        },
+        {
+          "title": "Ashley (demo)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 167000
+        },
+        {
+          "title": "Fell for You (demo)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 192000
+        },
+        {
+          "title": "Stay the Night (demo)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 280000
+        },
+        {
+          "title": "Nuclear Family (demo)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 183000
+        },
+        {
+          "title": "Stray Heart (demo)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 230000
+        },
+        {
+          "title": "Rusty James (demo)",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 255000
+        },
+        {
+          "title": "A Little Boy Named Train (demo)",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 237000
+        },
+        {
+          "title": "Baby Eyes (demo)",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 135000
+        },
+        {
+          "title": "Makeout Party (demo)",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 192000
+        },
+        {
+          "title": "Oh Love (demo)",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 313000
+        },
+        {
+          "title": "Missing You (demo)",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 221000
+        },
+        {
+          "title": "Stay the Night (acoustic)",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 189000
+        }
+      ]
+    },
+    {
+      "mbid": "6721d62d-8d2d-4747-8548-308ecc4b914b",
+      "releaseMbid": "16a8a0aa-c0a7-4800-b3e1-b37a4a6d66bb",
+      "title": "Revolution Radio",
+      "type": "ALBUM",
+      "releaseDate": "2016-10-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/6721d62d-8d2d-4747-8548-308ecc4b914b/front-1200",
+      "tracks": [
+        {
+          "title": "Somewhere Now",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 249000
+        },
+        {
+          "title": "Bang Bang",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 204000
+        },
+        {
+          "title": "Revolution Radio",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 180000
+        },
+        {
+          "title": "Say Goodbye",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 219000
+        },
+        {
+          "title": "Outlaws",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 302000
+        },
+        {
+          "title": "Bouncing Off the Wall",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 160000
+        },
+        {
+          "title": "Still Breathing",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 224000
+        },
+        {
+          "title": "Youngblood",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 152000
+        },
+        {
+          "title": "Too Dumb to Die",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 203000
+        },
+        {
+          "title": "Troubled Times",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 184000
+        },
+        {
+          "title": "Forever Now",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 412000
+        },
+        {
+          "title": "Ordinary World",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 182000
+        }
+      ]
+    },
+    {
+      "mbid": "492ea613-a3cf-4c45-8b09-b8ce79943024",
+      "releaseMbid": "258886ac-d44a-4de8-9d02-645b4a2677c9",
+      "title": "Father of All Motherfuckers",
+      "type": "ALBUM",
+      "releaseDate": "2020-02-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/492ea613-a3cf-4c45-8b09-b8ce79943024/front-1200",
+      "tracks": [
+        {
+          "title": "Father of All…",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 151186
+        },
+        {
+          "title": "Fire, Ready, Aim",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 112666
+        },
+        {
+          "title": "Oh Yeah!",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 171133
+        },
+        {
+          "title": "Meet Me on the Roof",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 159586
+        },
+        {
+          "title": "I Was a Teenage Teenager",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 224546
+        },
+        {
+          "title": "Stab You in the Heart",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 130306
+        },
+        {
+          "title": "Sugar Youth",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 114306
+        },
+        {
+          "title": "Junkies on a High",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 186106
+        },
+        {
+          "title": "Take the Money and Crawl",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 128919
+        },
+        {
+          "title": "Graffitia",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 198653
+        }
+      ]
+    },
+    {
+      "mbid": "c1417e42-7eac-4817-bb1e-dba7a7ba044e",
+      "releaseMbid": "30bb400f-8f82-4ed1-9c1a-51df0537fcc8",
+      "title": "Saviors",
+      "type": "ALBUM",
+      "releaseDate": "2024-01-19",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "The American Dream is Killing Me",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 186240
+        },
+        {
+          "title": "Look Ma, No Brains!",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 123520
+        },
+        {
+          "title": "Bobby Sox",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 224293
+        },
+        {
+          "title": "One Eyed Bastard",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 172880
+        },
+        {
+          "title": "Dilemma",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 198306
+        },
+        {
+          "title": "1981",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 129666
+        },
+        {
+          "title": "Goodnight Adeline",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 176946
+        },
+        {
+          "title": "Coma City",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 208240
+        },
+        {
+          "title": "Corvette Summer",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 182146
+        },
+        {
+          "title": "Suzie Chapstick",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 196773
+        },
+        {
+          "title": "Strange Days Are Here to Stay",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 185546
+        },
+        {
+          "title": "Living in the ’20s",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 126120
+        },
+        {
+          "title": "Father to a Son",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 234413
+        },
+        {
+          "title": "Saviors",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 175706
+        },
+        {
+          "title": "Fancy Sauce",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 241866
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

@@ -1,0 +1,1578 @@
+{
+  "generatedAt": "2026-11-13T11:48:03.497Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "a466c2a2-6517-42fb-a160-1087c3bafd9f",
+    "name": "Slipknot",
+    "slug": "slipknot",
+    "type": "BAND",
+    "country": "US",
+    "city": "Des Moines",
+    "formedYear": 1995,
+    "disbandedYear": null,
+    "bio": "O Slipknot se formou em Des Moines, Iowa, em setembro de 1995, com o nome The Pale Ones, a partir de Shawn Crahan, Paul Gray, Anders Colsefini e Donnie Steele. Joey Jordison entrou pouco depois. O primeiro show foi em 4 de dezembro de 1995, no clube The CroBar, com o nome Meld. O nome Slipknot veio de uma música da demo Mate. Feed. Kill. Repeat., lançada em 31 de outubro de 1996.\n\nNo fim de 1997, os integrantes passaram a se apresentar de macacão industrial e máscara, cada um com um número de 0 a 8. A banda assinou com a Roadrunner Records em 8 de julho de 1998, e o disco Slipknot saiu em 29 de junho de 1999. Os álbuns seguintes foram Iowa (2001), Vol. 3: (The Subliminal Verses) (2004), All Hope Is Gone (2008), .5: The Gray Chapter (2014), We Are Not Your Kind (2019) e The End, So Far (2022).\n\nO baixista Paul Gray foi encontrado morto em um hotel em Urbandale, Iowa, em 24 de maio de 2010. Joey Jordison deixou a banda em dezembro de 2013 e morreu em julho de 2021, aos 46 anos. Alessandro Venturella e Jay Weinberg entraram nos lugares de Gray e Jordison, e em 2024 Eloy Casagrande passou a ser o baterista.\n\nClassificado como nu metal, com elementos de heavy metal, metal alternativo e groove metal, o Slipknot ganhou o Grammy de Melhor Performance de Metal em 2006, por Before I Forget. All Hope Is Gone chegou ao primeiro lugar da Billboard 200, e a banda também organiza o festival Knotfest, cuja primeira edição brasileira foi em São Paulo, em dezembro de 2022.",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/a466c2a2-6517-42fb-a160-1087c3bafd9f"
+      },
+      {
+        "name": "Wikipédia em português: Slipknot",
+        "url": "https://pt.wikipedia.org/wiki/Slipknot"
+      }
+    ],
+    "genres": [
+      "metal",
+      "nu-metal"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "29f77a66-1b96-39a4-b108-582d7446e489",
+      "releaseMbid": "ce4722b7-7d58-4f7d-b76d-cb4b37fb661b",
+      "title": "Mate. Feed. Kill. Repeat.",
+      "type": "ALBUM",
+      "releaseDate": "1996-10-31",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/29f77a66-1b96-39a4-b108-582d7446e489/front-1200",
+      "tracks": [
+        {
+          "title": "Slipknot",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 415533
+        },
+        {
+          "title": "Gently",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 316866
+        },
+        {
+          "title": "Do Nothing/Bitchslap",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 259600
+        },
+        {
+          "title": "Only One",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 154133
+        },
+        {
+          "title": "Tattered & Torn",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 157586
+        },
+        {
+          "title": "Confessions",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 304986
+        },
+        {
+          "title": "Some Feel",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 216213
+        },
+        {
+          "title": "Killers Are Quiet / Dogfish Rising",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 1242733
+        }
+      ]
+    },
+    {
+      "mbid": "5140eef4-5b5d-309c-a3aa-5c5da107b1da",
+      "releaseMbid": "3004362a-fa6b-451d-990f-98e5f3a5f9ff",
+      "title": "Slipknot",
+      "type": "ALBUM",
+      "releaseDate": "1999-06-29",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/5140eef4-5b5d-309c-a3aa-5c5da107b1da/front-1200",
+      "tracks": [
+        {
+          "title": "742617000027",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 36160
+        },
+        {
+          "title": "(sic)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 199933
+        },
+        {
+          "title": "Eyeless",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 236333
+        },
+        {
+          "title": "Wait and Bleed",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 147906
+        },
+        {
+          "title": "Surfacing",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 217933
+        },
+        {
+          "title": "Spit It Out",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 159693
+        },
+        {
+          "title": "Tattered & Torn",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 173906
+        },
+        {
+          "title": "Me Inside",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 159426
+        },
+        {
+          "title": "Liberate",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 186773
+        },
+        {
+          "title": "Prosthetics",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 298133
+        },
+        {
+          "title": "No Life",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 167360
+        },
+        {
+          "title": "Diluted",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 203200
+        },
+        {
+          "title": "Only One",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 146400
+        },
+        {
+          "title": "Scissors / Eeyore",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 1158600
+        }
+      ]
+    },
+    {
+      "mbid": "082c68eb-d993-36cf-9b32-6663cba2d052",
+      "releaseMbid": "07d539e0-2ee6-4b7d-bc89-299cb9bed39c",
+      "title": "Iowa",
+      "type": "ALBUM",
+      "releaseDate": "2001-08-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/082c68eb-d993-36cf-9b32-6663cba2d052/front-1200",
+      "tracks": [
+        {
+          "title": "(515)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "People = Shit",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Disasterpiece",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "My Plague",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Everything Ends",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "The Heretic Anthem",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Gently",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Left Behind",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "The Shape",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "I Am Hated",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Skin Ticket",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "New Abortion",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Metabolic",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Iowa",
+          "discNumber": 2,
+          "position": 5,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "98e40cb2-6762-3adc-a1d0-15158587fb0f",
+      "releaseMbid": "b64fd356-1f5d-44e0-944d-21eddc9a3bbe",
+      "title": "Disasterpieces",
+      "type": "LIVE",
+      "releaseDate": "2002-11-26",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/98e40cb2-6762-3adc-a1d0-15158587fb0f/front-1200",
+      "tracks": [
+        {
+          "title": "Intro",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 481853
+        },
+        {
+          "title": "People = Shit",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 215106
+        },
+        {
+          "title": "Liberate",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 227026
+        },
+        {
+          "title": "Left Behind",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 209413
+        },
+        {
+          "title": "Eeyore",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 136586
+        },
+        {
+          "title": "Interlude",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 253360
+        },
+        {
+          "title": "Disasterpiece",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 309053
+        },
+        {
+          "title": "Interlude",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 154613
+        },
+        {
+          "title": "Purity",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 262466
+        },
+        {
+          "title": "Gently",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 322293
+        },
+        {
+          "title": "Scratch Solo by Sid",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 144533
+        },
+        {
+          "title": "Eyeless",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 241694
+        },
+        {
+          "title": "Interlude",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": 159653
+        },
+        {
+          "title": "Drum Solo by Joey",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": 169653
+        },
+        {
+          "title": "Interlude",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": 147426
+        },
+        {
+          "title": "My Plague",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": 235013
+        },
+        {
+          "title": "New Abortion",
+          "discNumber": 2,
+          "position": 5,
+          "durationMs": 293893
+        },
+        {
+          "title": "The Heretic Anthem",
+          "discNumber": 2,
+          "position": 6,
+          "durationMs": 287973
+        },
+        {
+          "title": "Spit It Out",
+          "discNumber": 2,
+          "position": 7,
+          "durationMs": 462773
+        },
+        {
+          "title": "Wait and Bleed",
+          "discNumber": 2,
+          "position": 8,
+          "durationMs": 162866
+        },
+        {
+          "title": "Interlude",
+          "discNumber": 2,
+          "position": 9,
+          "durationMs": 186880
+        },
+        {
+          "title": "(sic)",
+          "discNumber": 2,
+          "position": 10,
+          "durationMs": 305960
+        },
+        {
+          "title": "Surfacing",
+          "discNumber": 2,
+          "position": 11,
+          "durationMs": 420907
+        }
+      ]
+    },
+    {
+      "mbid": "aa38e6f0-e748-35c8-a8d4-04ff660e9354",
+      "releaseMbid": "19606916-ef8a-3401-b532-6e4ac9cd48d6",
+      "title": "Vol. 3: (The Subliminal Verses)",
+      "type": "ALBUM",
+      "releaseDate": "2004-05-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/aa38e6f0-e748-35c8-a8d4-04ff660e9354/front-1200",
+      "tracks": [
+        {
+          "title": "Prelude 3.0",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 237293
+        },
+        {
+          "title": "The Blister Exists",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 319426
+        },
+        {
+          "title": "Three Nil",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 288320
+        },
+        {
+          "title": "Duality",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 252613
+        },
+        {
+          "title": "Opium of the People",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 192586
+        },
+        {
+          "title": "Circle",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 262986
+        },
+        {
+          "title": "Welcome",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 195413
+        },
+        {
+          "title": "Vermilion",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 316666
+        },
+        {
+          "title": "Pulse of the Maggots",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 259733
+        },
+        {
+          "title": "Before I Forget",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 278600
+        },
+        {
+          "title": "Vermilion, Part 2",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 224320
+        },
+        {
+          "title": "The Nameless",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 268040
+        },
+        {
+          "title": "The Virus of Life",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 325426
+        },
+        {
+          "title": "Danger - Keep Away",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 345906
+        }
+      ]
+    },
+    {
+      "mbid": "9bc50d63-fdeb-3bfa-9dc6-35d334d2ee2c",
+      "releaseMbid": "eb44f2da-5c42-3f90-acc3-f5327f017bfe",
+      "title": "9.0: Live",
+      "type": "LIVE",
+      "releaseDate": "2005-10-31",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "The Blister Exists",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 384253
+        },
+        {
+          "title": "(sic)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 232760
+        },
+        {
+          "title": "Disasterpiece",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 407466
+        },
+        {
+          "title": "Before I Forget",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 264613
+        },
+        {
+          "title": "Left Behind",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 224093
+        },
+        {
+          "title": "Liberate",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 228840
+        },
+        {
+          "title": "Vermilion",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 355960
+        },
+        {
+          "title": "Pulse of the Maggots",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 306546
+        },
+        {
+          "title": "Purity",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 312280
+        },
+        {
+          "title": "Eyeless",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 259453
+        },
+        {
+          "title": "Drum Solo",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 238280
+        },
+        {
+          "title": "Eeyore",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 136640
+        },
+        {
+          "title": "Three Nil",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": 303613
+        },
+        {
+          "title": "The Nameless",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": 328800
+        },
+        {
+          "title": "Skin Ticket",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": 363706
+        },
+        {
+          "title": "Everything Ends",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": 303600
+        },
+        {
+          "title": "The Heretic Anthem",
+          "discNumber": 2,
+          "position": 5,
+          "durationMs": 248586
+        },
+        {
+          "title": "Iowa",
+          "discNumber": 2,
+          "position": 6,
+          "durationMs": 397240
+        },
+        {
+          "title": "Duality",
+          "discNumber": 2,
+          "position": 7,
+          "durationMs": 367520
+        },
+        {
+          "title": "Spit It Out",
+          "discNumber": 2,
+          "position": 8,
+          "durationMs": 329373
+        },
+        {
+          "title": "People = Shit",
+          "discNumber": 2,
+          "position": 9,
+          "durationMs": 353693
+        },
+        {
+          "title": "Get This",
+          "discNumber": 2,
+          "position": 10,
+          "durationMs": 164453
+        },
+        {
+          "title": "Wait and Bleed",
+          "discNumber": 2,
+          "position": 11,
+          "durationMs": 224080
+        },
+        {
+          "title": "Surfacing",
+          "discNumber": 2,
+          "position": 12,
+          "durationMs": 350800
+        }
+      ]
+    },
+    {
+      "mbid": "6a75b970-84c9-3794-bafd-261f82f1343c",
+      "releaseMbid": "f9e640d7-c457-368d-abb5-5b6a73475724",
+      "title": "All Hope Is Gone",
+      "type": "ALBUM",
+      "releaseDate": "2008-08-20",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": ".execute.",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 108560
+        },
+        {
+          "title": "Gematria (The Killing Name)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 361533
+        },
+        {
+          "title": "Sulfur",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 277800
+        },
+        {
+          "title": "Psychosocial",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 283813
+        },
+        {
+          "title": "Dead Memories",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 268586
+        },
+        {
+          "title": "Vendetta",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 315506
+        },
+        {
+          "title": "Butcher’s Hook",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 254613
+        },
+        {
+          "title": "Gehenna",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 413026
+        },
+        {
+          "title": "This Cold Black",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 280093
+        },
+        {
+          "title": "Wherein Lies Continue",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 336893
+        },
+        {
+          "title": "Snuff",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 276146
+        },
+        {
+          "title": "All Hope Is Gone",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 284760
+        }
+      ]
+    },
+    {
+      "mbid": "77dd607b-b6ad-46c1-84d2-217b00f37f50",
+      "releaseMbid": "a3233a00-ef81-4478-a4ab-d57e278aa1f8",
+      "title": "(sic)nesses",
+      "type": "LIVE",
+      "releaseDate": "2010-09-22",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/77dd607b-b6ad-46c1-84d2-217b00f37f50/front-1200",
+      "tracks": [
+        {
+          "title": "Audible Visions of (sic)nesses",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 2431000
+        },
+        {
+          "title": "742617000027",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "(sic)",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Eyeless",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Wait and Bleed",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Get This",
+          "discNumber": 2,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Before I Forget",
+          "discNumber": 2,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Sulfur",
+          "discNumber": 2,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "The Blister Exists",
+          "discNumber": 2,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "Dead Memories",
+          "discNumber": 2,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Left Behind",
+          "discNumber": 2,
+          "position": 10,
+          "durationMs": null
+        },
+        {
+          "title": "Disasterpiece",
+          "discNumber": 2,
+          "position": 11,
+          "durationMs": null
+        },
+        {
+          "title": "Vermilion",
+          "discNumber": 2,
+          "position": 12,
+          "durationMs": null
+        },
+        {
+          "title": "Everything Ends",
+          "discNumber": 2,
+          "position": 13,
+          "durationMs": null
+        },
+        {
+          "title": "Psychosocial",
+          "discNumber": 2,
+          "position": 14,
+          "durationMs": null
+        },
+        {
+          "title": "Duality",
+          "discNumber": 2,
+          "position": 15,
+          "durationMs": null
+        },
+        {
+          "title": "People = Shit",
+          "discNumber": 2,
+          "position": 16,
+          "durationMs": null
+        },
+        {
+          "title": "Surfacing",
+          "discNumber": 2,
+          "position": 17,
+          "durationMs": null
+        },
+        {
+          "title": "Spit It Out",
+          "discNumber": 2,
+          "position": 18,
+          "durationMs": null
+        },
+        {
+          "title": "Psychosocial Music Video",
+          "discNumber": 2,
+          "position": 19,
+          "durationMs": null
+        },
+        {
+          "title": "Dead Memories Music Video",
+          "discNumber": 2,
+          "position": 20,
+          "durationMs": null
+        },
+        {
+          "title": "Sulfur Music Video",
+          "discNumber": 2,
+          "position": 21,
+          "durationMs": null
+        },
+        {
+          "title": "Snuff Music Video",
+          "discNumber": 2,
+          "position": 22,
+          "durationMs": null
+        },
+        {
+          "title": "The Making of Snuff",
+          "discNumber": 2,
+          "position": 23,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "f94e5b95-5a88-4829-984e-38593f129180",
+      "releaseMbid": "e63cf39e-d0ef-4153-b525-82d33889b57c",
+      "title": "Antennas to Hell",
+      "type": "COMPILATION",
+      "releaseDate": "2012-07-23",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f94e5b95-5a88-4829-984e-38593f129180/front-1200",
+      "tracks": [
+        {
+          "title": "(sic)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 200386
+        },
+        {
+          "title": "Eyeless",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 236360
+        },
+        {
+          "title": "Wait and Bleed",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 148560
+        },
+        {
+          "title": "Spit It Out",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 160466
+        },
+        {
+          "title": "Surfacing",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 218720
+        },
+        {
+          "title": "People = Shit",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 215600
+        },
+        {
+          "title": "Disasterpiece",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 308933
+        },
+        {
+          "title": "Left Behind",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 242560
+        },
+        {
+          "title": "My Plague (New Abuse mix)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 183000
+        },
+        {
+          "title": "The Heretic Anthem (live)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 244626
+        },
+        {
+          "title": "Purity (live)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 275360
+        },
+        {
+          "title": "Pulse of the Maggots",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 264640
+        },
+        {
+          "title": "Duality",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 254786
+        },
+        {
+          "title": "Before I Forget",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 264373
+        },
+        {
+          "title": "Vermilion",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 325093
+        },
+        {
+          "title": "Sulfur",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 277800
+        },
+        {
+          "title": "Psychosocial",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 283773
+        },
+        {
+          "title": "Dead Memories",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 268693
+        },
+        {
+          "title": "Snuff",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 280040
+        },
+        {
+          "title": "(sic)",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": 225226
+        },
+        {
+          "title": "Eyeless",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": 251440
+        },
+        {
+          "title": "Wait and Bleed",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": 166280
+        },
+        {
+          "title": "Get This",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": 245373
+        },
+        {
+          "title": "Before I Forget",
+          "discNumber": 2,
+          "position": 5,
+          "durationMs": 262760
+        },
+        {
+          "title": "Sulfur",
+          "discNumber": 2,
+          "position": 6,
+          "durationMs": 257306
+        },
+        {
+          "title": "The Blister Exists",
+          "discNumber": 2,
+          "position": 7,
+          "durationMs": 325360
+        },
+        {
+          "title": "Dead Memories",
+          "discNumber": 2,
+          "position": 8,
+          "durationMs": 244373
+        },
+        {
+          "title": "Left Behind",
+          "discNumber": 2,
+          "position": 9,
+          "durationMs": 202933
+        },
+        {
+          "title": "Disasterpiece",
+          "discNumber": 2,
+          "position": 10,
+          "durationMs": 300346
+        },
+        {
+          "title": "Vermilion",
+          "discNumber": 2,
+          "position": 11,
+          "durationMs": 376266
+        },
+        {
+          "title": "Everything Ends",
+          "discNumber": 2,
+          "position": 12,
+          "durationMs": 282426
+        },
+        {
+          "title": "Psychosocial",
+          "discNumber": 2,
+          "position": 13,
+          "durationMs": 307413
+        },
+        {
+          "title": "Duality",
+          "discNumber": 2,
+          "position": 14,
+          "durationMs": 286040
+        },
+        {
+          "title": "People = Shit",
+          "discNumber": 2,
+          "position": 15,
+          "durationMs": 344706
+        },
+        {
+          "title": "Surfacing",
+          "discNumber": 2,
+          "position": 16,
+          "durationMs": 260813
+        },
+        {
+          "title": "Spit It Out",
+          "discNumber": 2,
+          "position": 17,
+          "durationMs": 430893
+        }
+      ]
+    },
+    {
+      "mbid": "7ae66014-0153-4f48-ad22-973b0582261c",
+      "releaseMbid": "b90aa6e6-ac44-4397-9038-5b77be7721b2",
+      "title": ".5: The Gray Chapter",
+      "type": "ALBUM",
+      "releaseDate": "2014-10-15",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/7ae66014-0153-4f48-ad22-973b0582261c/front-1200",
+      "tracks": [
+        {
+          "title": "XIX",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 190000
+        },
+        {
+          "title": "Sarcastrophe",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 306000
+        },
+        {
+          "title": "AOV",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 332000
+        },
+        {
+          "title": "The Devil in I",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 342000
+        },
+        {
+          "title": "Killpop",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 225000
+        },
+        {
+          "title": "Skeptic",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 286000
+        },
+        {
+          "title": "Lech",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 290000
+        },
+        {
+          "title": "Goodbye",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 275000
+        },
+        {
+          "title": "Nomadic",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 258000
+        },
+        {
+          "title": "The One That Kills the Least",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 251000
+        },
+        {
+          "title": "Custer",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 254000
+        },
+        {
+          "title": "Be Prepared for Hell",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 117000
+        },
+        {
+          "title": "The Negative One",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 325000
+        },
+        {
+          "title": "If Rain Is What You Want",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 380000
+        }
+      ]
+    },
+    {
+      "mbid": "f0df6a5e-2425-4899-aa43-a915125045f5",
+      "releaseMbid": "692a3c7c-a156-4e15-8626-355717933fd8",
+      "title": "Day of the Gusano: Live in Mexico",
+      "type": "LIVE",
+      "releaseDate": "2017-10-06",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Sarcastrophe",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "The Heretic Anthem",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Psychosocial",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "The Devil in I",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Me Inside",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Vermilion",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Wait and Bleed",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Prosthetics",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "Before I Forget",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Eeyore",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": null
+        },
+        {
+          "title": "Duality",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": null
+        },
+        {
+          "title": "Custer",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": null
+        },
+        {
+          "title": "Spit It Out",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": null
+        },
+        {
+          "title": "Metabolic / 742617000027",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": null
+        },
+        {
+          "title": "(sic)",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": null
+        },
+        {
+          "title": "People = Shit",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": null
+        },
+        {
+          "title": "Surfacing / Til We Die",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "89bfb6c8-f612-43c4-a7f3-d245102557e3",
+      "releaseMbid": "20207584-7a30-41e4-9cba-ff4b4b426280",
+      "title": "We Are Not Your Kind",
+      "type": "ALBUM",
+      "releaseDate": "2019-08-09",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/89bfb6c8-f612-43c4-a7f3-d245102557e3/front-1200",
+      "tracks": [
+        {
+          "title": "Insert Coin",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 100000
+        },
+        {
+          "title": "Unsainted",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 261000
+        },
+        {
+          "title": "Birth of the Cruel",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 276000
+        },
+        {
+          "title": "Death Because of Death",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 80000
+        },
+        {
+          "title": "Nero Forte",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 315000
+        },
+        {
+          "title": "Critical Darling",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 386000
+        },
+        {
+          "title": "A Liar’s Funeral",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 327000
+        },
+        {
+          "title": "Red Flag",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 252000
+        },
+        {
+          "title": "What’s Next",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 54000
+        },
+        {
+          "title": "Spiders",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 244000
+        },
+        {
+          "title": "Orphan",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 361000
+        },
+        {
+          "title": "My Pain",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 408000
+        },
+        {
+          "title": "Not Long for This World",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 396000
+        },
+        {
+          "title": "Solway Firth",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 358000
+        }
+      ]
+    },
+    {
+      "mbid": "3a2b2278-3e35-44c5-a1c2-f71bc59226a1",
+      "releaseMbid": "1c623cf0-722c-4d21-816d-4af47a00903f",
+      "title": "The End, So Far",
+      "type": "ALBUM",
+      "releaseDate": "2022-09-30",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/3a2b2278-3e35-44c5-a1c2-f71bc59226a1/front-1200",
+      "tracks": [
+        {
+          "title": "Adderall",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 340000
+        },
+        {
+          "title": "The Dying Song (Time to Sing)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 204000
+        },
+        {
+          "title": "The Chapeltown Rag",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 289000
+        },
+        {
+          "title": "Yen",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 284000
+        },
+        {
+          "title": "Hive Mind",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 316000
+        },
+        {
+          "title": "Warranty",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 231000
+        },
+        {
+          "title": "Medicine for the Dead",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 376000
+        },
+        {
+          "title": "Acidic",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 291000
+        },
+        {
+          "title": "Heirloom",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 211000
+        },
+        {
+          "title": "H377",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 264000
+        },
+        {
+          "title": "De Sade",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 340000
+        },
+        {
+          "title": "Finale",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 307000
+        }
+      ]
+    },
+    {
+      "mbid": "95d380c4-26f3-4aec-8391-564c3e130f34",
+      "releaseMbid": "f72cb7d5-d041-4d52-a4a2-1527d5b4505b",
+      "title": "Adderall",
+      "type": "EP",
+      "releaseDate": "2023-06-09",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/95d380c4-26f3-4aec-8391-564c3e130f34/front-1200",
+      "tracks": [
+        {
+          "title": "Death March",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 64000
+        },
+        {
+          "title": "Adderall (no intro)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 276000
+        },
+        {
+          "title": "Adderall (rough demo)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 223000
+        },
+        {
+          "title": "Red or Redder",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 25000
+        },
+        {
+          "title": "Adderall (instrumental)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 343000
+        },
+        {
+          "title": "Hard to Be Here",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 228000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}
