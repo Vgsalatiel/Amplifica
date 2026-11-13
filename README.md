@@ -4,7 +4,35 @@
 
 Plataforma de descoberta musical e comunidade voltada ao rock e suas vertentes: discografias organizadas, gêneros como mapa de navegação, notas e resenhas com assinatura.
 
-> Projeto em desenvolvimento. Estado atual: **etapa 6 (descoberta)** concluída, mais confirmação de e-mail, recuperação de senha, aviso de API acordando e prévia de links — busca sem acento por artistas e discos, lista de lançamentos com filtros (gênero, tipo, ano) e ordem por nota, e a nota de cada disco nas listas. Antes, a etapa 5: nota de 1 a 10 e resenha por pessoa e por disco. Gêneros, artistas e discos já abrem a qualquer visitante, com o Bring Me The Horizon como primeiro artista. Guia visual em [`/guia`](https://amplificacore.netlify.app/guia).
+**No ar:** [amplificacore.netlify.app](https://amplificacore.netlify.app) (a API gratuita hiberna: a primeira visita pode levar até 1 minuto, e o site avisa).
+
+![Lista de lançamentos ordenada por nota](docs/screenshots/lancamentos-por-nota.jpg)
+
+| | |
+| --- | --- |
+| ![Página de um disco, com média, nota e resenhas](docs/screenshots/disco-e-avaliacoes.jpg) | ![Resultado de busca sem acento](docs/screenshots/busca.jpg) |
+
+## O que o projeto faz
+
+- **Catálogo aberto a qualquer visitante:** artistas, discografias agrupadas por tipo, faixas, gêneros em árvore (um gênero inclui os subgêneros) e a cor da capa aplicada à página de cada disco.
+- **Avaliações:** nota de 1 a 10 e resenha opcional, uma por pessoa e por disco, com média no disco, nos cartões das listas e as avaliações de cada pessoa no perfil. Administradores moderam.
+- **Descoberta:** busca sem acento e sem diferença de maiúsculas, filtros por gênero, tipo e ano na URL, e ordem por nota.
+- **Contas:** cadastro em 3 passos, sessão com token de acesso em memória e renovação em cookie `HttpOnly`, confirmação de e-mail (exigida para avaliar quando há como enviar o link) e recuperação de senha.
+- **Administração em `/admin`:** gêneros, artistas e lançamentos, com upload de imagens e extração da cor de destaque da capa.
+- **Cuidados de produto:** aviso quando a API está acordando, nova tentativa automática, prévia de links (Open Graph) via função de borda da Netlify.
+
+## Como foi feito
+
+```mermaid
+flowchart LR
+  B[Navegador<br/>React 19 + TanStack Query] -->|"/api/* (mesma origem)"| N[Netlify<br/>site + proxy + função de borda]
+  N -->|HTTPS| R[Render<br/>API NestJS 12]
+  R -->|Prisma 7| D[(Neon<br/>PostgreSQL)]
+  R -->|S3| C[(Cloudflare R2<br/>capas e fotos)]
+  R -->|HTTPS| M[Resend<br/>e-mails]
+```
+
+O navegador só fala com o domínio do site: a Netlify encaminha `/api/*` para a API, o que evita CORS e mantém o cookie de sessão na mesma origem. O raciocínio por trás de cada escolha está nas [decisões de arquitetura](#decisões-de-arquitetura).
 
 ## Stack
 
@@ -63,8 +91,8 @@ Abra o endereço que o Vite mostrar. Se a API estiver em outra porta que não a 
 | `/buscar?q=` | Resultado da caixa de busca do cabeçalho: artistas e lançamentos, cada um paginado |
 | `/lancamentos/:slug` | Capa, média das notas, faixas, vídeo, resenhas e o formulário de avaliação (para quem tem conta); a cor da capa vale para a página toda |
 | `/generos`, `/generos/:slug` | A árvore de gêneros; um gênero com os artistas dele e dos subgêneros |
-
 | `/u/:username` | Perfil público, com os discos que a pessoa avaliou |
+| `/entrar`, `/cadastro`, `/esqueci-a-senha`, `/redefinir-senha`, `/confirmar-email` | Conta e recuperação de acesso |
 
 Tudo isso abre sem conta. Quem quer avaliar cria uma, e o cadastro iniciado a partir de um disco volta a ele.
 
@@ -96,6 +124,17 @@ Em produção, promova uma conta já cadastrada no editor SQL do banco: `UPDATE 
 Os e-mails de confirmação e de nova senha saem pelo [Resend](https://resend.com) quando `RESEND_API_KEY` e `MAIL_FROM` estão definidos. Em desenvolvimento, sem elas, o link aparece no terminal da API. Em produção, sem elas, a confirmação de e-mail não é exigida e "esqueci a senha" fica indisponível ([ADR 0009](docs/adr/0009-confirmacao-de-email-e-senha.md)).
 
 Imagens enviadas em desenvolvimento ficam em `backend/storage` (ignorada pelo Git). Em produção, o envio só funciona depois de configurar o bucket (variáveis `STORAGE_*`).
+
+## Testes
+
+| Camada | O que cobre | Como rodar |
+| --- | --- | --- |
+| Backend, unitários | Validação, mapeadores, regras puras (150+ testes) | `cd backend && npm test` |
+| Backend, integração | A API inteira contra um PostgreSQL real: permissões, concorrência, buscas, e-mails (130+ testes) | `cd backend && npm run test:e2e` |
+| Frontend | Telas e componentes com Testing Library, a API simulada (250+ testes) | `cd frontend && npm test` |
+| Fluxos no navegador | Um Chrome real percorre o site como uma pessoa, contra a API e o banco de verdade | `cd e2e && node run.mjs` |
+
+Os testes de fluxo (`e2e/`) sobem a API e o site em portas próprias (3100 e 5191), criam os próprios dados (contas `@e2e.amplifica.test` e itens `e2e-...`, apagados no começo e no fim) e cobrem cadastro, confirmação de e-mail, avaliações, moderação, busca, filtros, ordem por nota, recuperação de senha e o cabeçalho em várias larguras. Gravam um relatório e capturas de tela em `e2e/out/`. Precisam do Node 24, do Chrome ou Chromium (ou `CHROME_BIN`) e do mesmo `backend/.env` do desenvolvimento; nunca enviam e-mails nem gravam no bucket. Opções: `--skip-build` e `--only=reviews,discovery,email`. O CI roda tudo isso (lint, tipos, unitários, integração e fluxos) a cada push.
 
 ## Scripts
 
@@ -156,4 +195,24 @@ As variáveis de produção ficam no painel de cada serviço, nunca no repositó
 
 ## Decisões de arquitetura
 
-Registradas em [`docs/adr`](docs/adr).
+Cada decisão relevante tem uma página própria, com contexto, alternativas e limites conhecidos:
+
+| ADR | Assunto |
+| --- | --- |
+| [0001](docs/adr/0001-arquitetura-base.md) | Arquitetura base: estrutura do repositório, stack e ambientes |
+| [0002](docs/adr/0002-identidade-visual.md) | Identidade visual "Editorial" e tokens de tema |
+| [0003](docs/adr/0003-autenticacao.md) | Autenticação e sessão: token de acesso em memória, renovação em cookie `HttpOnly`, scrypt |
+| [0004](docs/adr/0004-catalogo-e-imagens.md) | Modelo do catálogo, permissões e imagens |
+| [0005](docs/adr/0005-administracao.md) | Área administrativa |
+| [0006](docs/adr/0006-paginas-publicas-e-carga-de-dados.md) | Páginas públicas, cor por disco e carga de dados revisável |
+| [0007](docs/adr/0007-avaliacoes.md) | Notas, resenhas e média calculada na leitura |
+| [0008](docs/adr/0008-descoberta.md) | Busca sem acento, filtros e ordem por nota |
+| [0009](docs/adr/0009-confirmacao-de-email-e-senha.md) | Confirmação de e-mail e recuperação de senha |
+
+## Limites conhecidos
+
+- A API gratuita hiberna; o site avisa e tenta de novo sozinho, mas a primeira visita demora.
+- A ordem por nota é calculada em memória sobre o resultado filtrado: serve para centenas ou poucos milhares de discos (ADR 0008).
+- A busca não corrige erros de digitação e não existe busca por usuários.
+- As capas vêm do Cover Art Archive e pertencem aos respectivos titulares; o rodapé do site explica como pedir a remoção.
+- A fonte do logotipo é provisória: a escolhida tem licença apenas de demonstração (ADR 0002).

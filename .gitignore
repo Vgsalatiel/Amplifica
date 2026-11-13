@@ -18,3 +18,6 @@ coverage
 # Fontes baixadas para teste: licença de uso pessoal, não podem ir para o repositório
 maskneyes-font/
 maskneyes-font.zip
+
+# Relatórios e capturas dos testes de fluxo no navegador
+e2e/out/

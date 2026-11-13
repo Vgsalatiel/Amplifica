@@ -74,3 +74,47 @@ jobs:
       - run: npm run typecheck
       - run: npm test
       - run: npm run build
+
+  # Percorre o site num Chrome real, como uma pessoa: cadastro, confirmação de e-mail, avaliações,
+  # busca, filtros e recuperação de senha. Sobe a API e o site, com um banco descartável.
+  browser-flows:
+    name: Fluxos no navegador
+    runs-on: ubuntu-latest
+    needs: [backend, frontend]
+    services:
+      postgres:
+        image: postgres:17
+        env:
+          POSTGRES_USER: amplifica
+          POSTGRES_PASSWORD: amplifica
+          POSTGRES_DB: amplifica_test
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd "pg_isready -U amplifica -d amplifica_test"
+          --health-interval 5s
+          --health-timeout 5s
+          --health-retries 10
+    env:
+      DATABASE_URL: postgresql://amplifica:amplifica@localhost:5432/amplifica_test
+      DATABASE_URL_UNPOOLED: postgresql://amplifica:amplifica@localhost:5432/amplifica_test
+      JWT_ACCESS_SECRET: ci-only-secret-0123456789-abcdefghijklmnopqrstuvwxyz
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version-file: .nvmrc
+      - run: npm ci
+        working-directory: backend
+      - run: npm ci
+        working-directory: frontend
+      - run: npx prisma migrate deploy
+        working-directory: backend
+      - run: node e2e/run.mjs
+      - uses: actions/upload-artifact@v7
+        if: always()
+        with:
+          name: fluxos-no-navegador
+          path: e2e/out/
+          retention-days: 7
+
