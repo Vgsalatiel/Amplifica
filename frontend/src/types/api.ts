@@ -17,6 +17,8 @@ export interface User {
   bio: string | null
   avatar: ImageSet | null
   role: Role
+  /** A confirmação do e-mail está pendente e impede avaliar discos. */
+  needsEmailVerification: boolean
   createdAt: string
 }
 

@@ -16,22 +16,47 @@ enum Role {
 }
 
 model User {
-  id           String   @id @default(uuid(7)) @db.Uuid
+  id              String    @id @default(uuid(7)) @db.Uuid
   // Sempre gravado em minúsculas, para que a unicidade não dependa de maiúsculas.
-  email        String   @unique
+  email           String    @unique
   // Letras minúsculas, números, ponto e sublinhado. É o que aparece em /u/<username>.
-  username     String   @unique
+  username        String    @unique
   // Hash scrypt gerado pelo PasswordHasher. Nunca sai em respostas da API.
-  passwordHash String
-  displayName  String
-  bio          String?
+  passwordHash    String
+  displayName     String
+  bio             String?
   // Caminho do avatar no armazenamento de arquivos. A URL pública é montada pela API.
-  avatarPath   String?
-  role         Role     @default(USER)
-  createdAt    DateTime @default(now())
-  updatedAt    DateTime @updatedAt
+  avatarPath      String?
+  role            Role      @default(USER)
+  // Preenchido quando a pessoa prova que lê esse e-mail (link de confirmação ou redefinição de senha).
+  emailVerifiedAt DateTime?
+  createdAt       DateTime  @default(now())
+  updatedAt       DateTime  @updatedAt
 
-  reviews Review[]
+  reviews     Review[]
+  emailTokens EmailToken[]
+}
+
+enum EmailTokenPurpose {
+  VERIFY_EMAIL
+  RESET_PASSWORD
+}
+
+// Links enviados por e-mail (confirmar o e-mail, redefinir a senha). Uso único e com prazo.
+model EmailToken {
+  id        String            @id @default(uuid(7)) @db.Uuid
+  userId    String            @db.Uuid
+  purpose   EmailTokenPurpose
+  // SHA-256 do token. O token em si só existe no e-mail enviado.
+  tokenHash String            @unique
+  expiresAt DateTime
+  usedAt    DateTime?
+  createdAt DateTime          @default(now())
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId, purpose])
+  @@index([expiresAt])
 }
 
 // Tokens de renovação de sessão. O formato segue o contrato RefreshTokenStore

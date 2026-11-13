@@ -8,6 +8,7 @@ import { CatalogModule } from './modules/catalog/catalog.module.js';
 import { GenresModule } from './modules/genres/genres.module.js';
 import { HealthModule } from './modules/health/health.module.js';
 import { ImagesModule } from './modules/images/images.module.js';
+import { MailModule } from './modules/mail/mail.module.js';
 import { ReleasesModule } from './modules/releases/releases.module.js';
 import { ReviewsModule } from './modules/reviews/reviews.module.js';
 import { UsersModule } from './modules/users/users.module.js';
@@ -17,6 +18,7 @@ import { PrismaModule } from './prisma/prisma.module.js';
   imports: [
     ConfigModule.forRoot({ isGlobal: true, validate: validateEnv }),
     PrismaModule,
+    MailModule,
     ImagesModule,
     // A ordem importa: primeiro o guard que identifica o usuário (AuthModule),
     // depois o que decide se ele pode fazer o que pediu (AuthorizationModule).

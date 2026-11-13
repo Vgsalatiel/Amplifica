@@ -20,6 +20,13 @@ export interface Env {
   STORAGE_S3_SECRET_ACCESS_KEY?: string;
   /** Endereço público do bucket, de onde o navegador carrega as imagens. */
   STORAGE_PUBLIC_URL?: string;
+  /**
+   * Envio de e-mails (confirmação de conta e redefinição de senha) pela API do Resend.
+   * Valem em conjunto. Sem elas, em produção, esses recursos ficam desligados.
+   */
+  RESEND_API_KEY?: string;
+  /** Remetente, como "Amplifica <contato@seudominio.com>". O domínio precisa estar verificado no Resend. */
+  MAIL_FROM?: string;
 }
 
 const STORAGE_KEYS = [
@@ -85,6 +92,22 @@ export function validateEnv(raw: Record<string, unknown>): Env {
     }
   }
 
+  const mail: Partial<Record<'RESEND_API_KEY' | 'MAIL_FROM', string>> = {};
+  for (const key of ['RESEND_API_KEY', 'MAIL_FROM'] as const) {
+    const value = raw[key];
+    if (typeof value === 'string' && value.trim() !== '') {
+      mail[key] = value.trim();
+    }
+  }
+  if (Object.keys(mail).length === 1) {
+    errors.push(
+      `E-mail incompleto, falta: ${mail.RESEND_API_KEY ? 'MAIL_FROM' : 'RESEND_API_KEY'}`,
+    );
+  }
+  if (mail.MAIL_FROM && !/^[^<>@\s][^<>@]*<[^<>@\s]+@[^<>@\s]+>$|^[^<>@\s]+@[^<>@\s]+$/.test(mail.MAIL_FROM)) {
+    errors.push('MAIL_FROM deve ser um e-mail, ou "Nome <e-mail>"');
+  }
+
   if (errors.length > 0) {
     throw new Error(
       `Configuração de ambiente inválida:\n- ${errors.join('\n- ')}\n` +
@@ -99,5 +122,6 @@ export function validateEnv(raw: Record<string, unknown>): Env {
     DATABASE_URL: databaseUrl,
     JWT_ACCESS_SECRET: jwtAccessSecret,
     ...storage,
+    ...mail,
   };
 }

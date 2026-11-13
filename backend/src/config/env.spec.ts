@@ -53,4 +53,27 @@ describe('validateEnv', () => {
       validateEnv({ ...valid, DATABASE_URL: 'mysql://host/db' }),
     ).toThrow(/postgresql:\/\//);
   });
+
+  describe('e-mail', () => {
+    const mail = { RESEND_API_KEY: 're_abc', MAIL_FROM: 'Amplifica <contato@exemplo.com>' };
+
+    it('aceita as duas variáveis juntas, ou nenhuma', () => {
+      expect(validateEnv({ ...valid, ...mail })).toMatchObject(mail);
+      expect(validateEnv(valid)).not.toHaveProperty('RESEND_API_KEY');
+    });
+
+    it('recusa só uma das duas, dizendo qual falta', () => {
+      expect(() => validateEnv({ ...valid, RESEND_API_KEY: 're_abc' })).toThrow(/falta: MAIL_FROM/);
+      expect(() => validateEnv({ ...valid, MAIL_FROM: 'a@b.com' })).toThrow(/falta: RESEND_API_KEY/);
+    });
+
+    it('confere o formato do remetente', () => {
+      for (const from of ['contato@exemplo.com', 'Nome <contato@exemplo.com>']) {
+        expect(() => validateEnv({ ...valid, RESEND_API_KEY: 'k', MAIL_FROM: from })).not.toThrow();
+      }
+      for (const from of ['sem-arroba', 'Nome <sem-arroba>', 'a@b.com <c@d.com>']) {
+        expect(() => validateEnv({ ...valid, RESEND_API_KEY: 'k', MAIL_FROM: from })).toThrow(/MAIL_FROM/);
+      }
+    });
+  });
 });

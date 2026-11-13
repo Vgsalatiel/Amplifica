@@ -1,5 +1,6 @@
 import {
   BadRequestException,
+  ForbiddenException,
   Injectable,
   NotFoundException,
 } from '@nestjs/common';
@@ -15,7 +16,11 @@ import { PrismaService } from '../../prisma/prisma.service.js';
 import { releaseSummaryInclude } from '../catalog/catalog.mappers.js';
 import { loadRatings, ratingOf } from '../catalog/ratings.js';
 import { ImagesService } from '../images/images.service.js';
-import type { AuthUser } from '../users/user.types.js';
+import { MailService } from '../mail/mail.service.js';
+import {
+  needsEmailVerification,
+  type AuthUser,
+} from '../users/user.types.js';
 import { isReleased } from './release-status.js';
 import { ReviewPolicy } from './review.policy.js';
 import {
@@ -44,6 +49,7 @@ export class ReviewsService {
   constructor(
     private readonly prisma: PrismaService,
     private readonly authorization: AuthorizationService,
+    private readonly mail: MailService,
     images: ImagesService,
   ) {
     this.toImageSet = (path) => images.toSet(path);
@@ -146,6 +152,14 @@ export class ReviewsService {
     slug: string,
     dto: UpsertReviewDto,
   ): Promise<ReviewResponse> {
+    if (needsEmailVerification(user, this.mail.canDeliver)) {
+      throw new ForbiddenException(
+        apiError(
+          'email_not_verified',
+          'Confirme seu e-mail para avaliar discos. Enviamos um link para a sua caixa de entrada.',
+        ),
+      );
+    }
     const release = await this.findRelease(slug);
     if (!isReleased(release.releaseDate)) {
       throw new BadRequestException(

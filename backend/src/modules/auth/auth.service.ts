@@ -1,8 +1,12 @@
 import {
+  BadRequestException,
   ConflictException,
   Injectable,
+  Logger,
+  ServiceUnavailableException,
   UnauthorizedException,
 } from '@nestjs/common';
+import { ConfigService } from '@nestjs/config';
 import {
   PasswordHasher,
   RefreshTokenError,
@@ -10,11 +14,18 @@ import {
   type TokenPair,
 } from '@nestjs/authentication';
 import { apiError } from '../../common/api-error.js';
+import type { Env } from '../../config/env.js';
 import { Prisma } from '../../generated/prisma/client.js';
 import { PrismaService } from '../../prisma/prisma.service.js';
+import { MailService } from '../mail/mail.service.js';
+import {
+  resetPasswordMessage,
+  verifyEmailMessage,
+} from '../mail/mail.templates.js';
 import type { AuthUser } from '../users/user.types.js';
 import { userSelect, UsersService } from '../users/users.service.js';
 import type { LoginDto, RegisterDto } from './auth.schemas.js';
+import { EmailTokensService } from './email-tokens.service.js';
 
 export interface AuthResult {
   user: AuthUser;
@@ -25,6 +36,20 @@ const INVALID_CREDENTIALS = apiError(
   'invalid_credentials',
   'E-mail ou senha incorretos.',
 );
+
+const INVALID_LINK = apiError(
+  'invalid_token',
+  'Esse link venceu ou já foi usado. Peça um novo.',
+);
+
+const EMAIL_UNAVAILABLE = apiError(
+  'email_unavailable',
+  'O envio de e-mails não está disponível agora.',
+);
+
+function errorText(error: unknown): string {
+  return error instanceof Error ? error.message : String(error);
+}
 
 const SESSION_EXPIRED = apiError(
   'session_expired',
@@ -37,12 +62,23 @@ const SESSION_EXPIRED = apiError(
  */
 @Injectable()
 export class AuthService {
+  private readonly logger = new Logger(AuthService.name);
+  /** Endereço do site, de onde saem os links dos e-mails. É a mesma origem autorizada no CORS. */
+  private readonly siteOrigin: string;
+
   constructor(
     private readonly prisma: PrismaService,
     private readonly users: UsersService,
     private readonly hasher: PasswordHasher,
     private readonly tokens: TokenService,
-  ) {}
+    private readonly mail: MailService,
+    private readonly emailTokens: EmailTokensService,
+    config: ConfigService<Env, true>,
+  ) {
+    this.siteOrigin = config
+      .get('CORS_ORIGIN', { infer: true })
+      .replace(/\/+$/, '');
+  }
 
   async register(dto: RegisterDto): Promise<AuthResult> {
     await this.assertAvailable(dto.email, dto.username);
@@ -72,6 +108,13 @@ export class AuthService {
         );
       }
       throw error;
+    }
+
+    if (this.mail.canDeliver) {
+      // Em segundo plano: a resposta do cadastro não espera o provedor de e-mail.
+      this.inBackground('e-mail de confirmação', () =>
+        this.sendVerification(user),
+      );
     }
 
     return { user, tokens: await this.issue(user.id) };
@@ -137,6 +180,112 @@ export class AuthService {
     if (refreshToken) {
       await this.tokens.revoke(refreshToken);
     }
+  }
+
+  /** Envia (ou reenvia) o link de confirmação. Quem já confirmou não recebe nada. */
+  async resendVerification(user: AuthUser): Promise<void> {
+    if (user.emailVerifiedAt) {
+      return;
+    }
+    if (!this.mail.canDeliver) {
+      throw new ServiceUnavailableException(EMAIL_UNAVAILABLE);
+    }
+    try {
+      await this.sendVerification(user);
+    } catch (error) {
+      this.logger.error(`Falha ao enviar a confirmação: ${errorText(error)}`);
+      throw new ServiceUnavailableException(
+        apiError(
+          'email_send_failed',
+          'Não foi possível enviar o e-mail agora. Tente de novo em instantes.',
+        ),
+      );
+    }
+  }
+
+  /** Confirma o e-mail a partir do link recebido. */
+  async verifyEmail(token: string): Promise<void> {
+    const userId = await this.emailTokens.consume(token, 'VERIFY_EMAIL');
+    if (!userId) {
+      throw new BadRequestException(INVALID_LINK);
+    }
+    await this.prisma.user.updateMany({
+      where: { id: userId, emailVerifiedAt: null },
+      data: { emailVerifiedAt: new Date() },
+    });
+  }
+
+  /**
+   * Pedido de "esqueci a senha". A resposta é sempre a mesma, exista a conta ou não, e o envio
+   * acontece em segundo plano: nem o texto nem o tempo de resposta revelam quais e-mails têm conta.
+   */
+  async forgotPassword(email: string): Promise<void> {
+    if (!this.mail.canDeliver) {
+      throw new ServiceUnavailableException(EMAIL_UNAVAILABLE);
+    }
+    const account = await this.prisma.user.findUnique({
+      where: { email },
+      select: { id: true, email: true, displayName: true },
+    });
+    if (!account) {
+      return;
+    }
+    this.inBackground('e-mail de redefinição de senha', async () => {
+      const token = await this.emailTokens.create(account.id, 'RESET_PASSWORD');
+      await this.mail.send(
+        resetPasswordMessage(
+          account.email,
+          account.displayName,
+          this.link('/redefinir-senha', token),
+        ),
+      );
+    });
+  }
+
+  /**
+   * Define a nova senha com o link recebido. Encerra todas as sessões da conta (quem tinha a senha
+   * antiga, inclusive um invasor, perde o acesso) e conta o e-mail como confirmado, já que a pessoa
+   * acabou de provar que lê essa caixa de entrada.
+   */
+  async resetPassword(token: string, password: string): Promise<void> {
+    const userId = await this.emailTokens.consume(token, 'RESET_PASSWORD');
+    if (!userId) {
+      throw new BadRequestException(INVALID_LINK);
+    }
+    const passwordHash = await this.hasher.hash(password);
+    const verified = await this.prisma.user.findUnique({
+      where: { id: userId },
+      select: { emailVerifiedAt: true },
+    });
+    await this.prisma.user.update({
+      where: { id: userId },
+      data: { passwordHash, emailVerifiedAt: verified?.emailVerifiedAt ?? new Date() },
+    });
+    await this.tokens.revokeAll(userId);
+  }
+
+  private async sendVerification(
+    user: Pick<AuthUser, 'id' | 'email' | 'displayName'>,
+  ): Promise<void> {
+    const token = await this.emailTokens.create(user.id, 'VERIFY_EMAIL');
+    await this.mail.send(
+      verifyEmailMessage(
+        user.email,
+        user.displayName,
+        this.link('/confirmar-email', token),
+      ),
+    );
+  }
+
+  private link(path: string, token: string): string {
+    return `${this.siteOrigin}${path}?token=${encodeURIComponent(token)}`;
+  }
+
+  /** Roda sem bloquear a resposta; uma falha vai para o log, nunca para quem fez o pedido. */
+  private inBackground(what: string, task: () => Promise<void>): void {
+    void task().catch((error: unknown) =>
+      this.logger.error(`Falha no envio do ${what}: ${errorText(error)}`),
+    );
   }
 
   private issue(userId: string): Promise<TokenPair> {

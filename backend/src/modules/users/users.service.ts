@@ -14,6 +14,7 @@ export const userSelect = {
   bio: true,
   avatarPath: true,
   role: true,
+  emailVerifiedAt: true,
   createdAt: true,
   updatedAt: true,
 } as const;

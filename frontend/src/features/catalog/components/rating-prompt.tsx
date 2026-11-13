@@ -2,6 +2,7 @@ import { useLocation } from 'react-router'
 import { ButtonLink } from '../../../components/ui/button-link'
 import { isReleased } from '../../../lib/format-date'
 import { useSession } from '../../auth/hooks/use-session'
+import { ResendVerification } from '../../auth/components/resend-verification'
 import { ReviewForm } from '../../reviews/components/review-form'
 import { useMyReview } from '../../reviews/hooks/use-reviews'
 
@@ -68,6 +69,15 @@ export function RatingPrompt({ slug, releaseDate }: RatingPromptProps) {
             </ButtonLink>
           </div>
         </>
+      ) : session.user.needsEmailVerification ? (
+        <div className="mt-4 max-w-xl">
+          <p className="font-serif text-xl">
+            Para avaliar, confirme seu e-mail. Enviamos um link para {session.user.email}.
+          </p>
+          <p className="mt-5">
+            <ResendVerification />
+          </p>
+        </div>
       ) : (
         // A chave separa o formulário de uma conta do de outra.
         <MemberReview key={session.user.id} slug={slug} />

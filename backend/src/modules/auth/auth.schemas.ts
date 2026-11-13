@@ -50,5 +50,21 @@ export const loginSchema = z.object({
   password: z.string().min(1, 'Digite sua senha.').max(128),
 });
 
+/** Token de e-mail: 32 bytes em base64url (43 caracteres). A faixa larga só evita rejeitar por detalhe de formato. */
+const tokenSchema = z
+  .string()
+  .min(20, 'Esse link está incompleto.')
+  .max(200, 'Esse link é inválido.');
+
+export const verifyEmailSchema = z.object({ token: tokenSchema });
+export const forgotPasswordSchema = z.object({ email: emailSchema });
+export const resetPasswordSchema = z.object({
+  token: tokenSchema,
+  password: passwordSchema,
+});
+
+export type VerifyEmailDto = z.infer<typeof verifyEmailSchema>;
+export type ForgotPasswordDto = z.infer<typeof forgotPasswordSchema>;
+export type ResetPasswordDto = z.infer<typeof resetPasswordSchema>;
 export type RegisterDto = z.infer<typeof registerSchema>;
 export type LoginDto = z.infer<typeof loginSchema>;

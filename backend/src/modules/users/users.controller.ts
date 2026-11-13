@@ -12,6 +12,7 @@ import {
 import { CurrentUser, Public } from '@nestjs/authentication';
 import { Can } from '@nestjs/authorization';
 import { ImageUpload } from '../images/image-upload.js';
+import { MailService } from '../mail/mail.service.js';
 import { ImagesService } from '../images/images.service.js';
 import {
   toPrivateUser,
@@ -29,6 +30,7 @@ export class UsersController {
 
   constructor(
     private readonly users: UsersService,
+    private readonly mail: MailService,
     images: ImagesService,
   ) {
     this.toImageSet = (path) => images.toSet(path);
@@ -47,6 +49,7 @@ export class UsersController {
     return toPrivateUser(
       await this.users.updateProfile(user.id, body),
       this.toImageSet,
+      this.mail.canDeliver,
     );
   }
 
@@ -60,6 +63,7 @@ export class UsersController {
     return toPrivateUser(
       await this.users.setAvatar(user.id, file),
       this.toImageSet,
+      this.mail.canDeliver,
     );
   }
 
@@ -71,6 +75,7 @@ export class UsersController {
     return toPrivateUser(
       await this.users.removeAvatar(user.id),
       this.toImageSet,
+      this.mail.canDeliver,
     );
   }
 

@@ -91,9 +91,14 @@ export function LoginPage() {
               onChange={(event) => setPassword(event.target.value)}
               error={errors.password}
             />
-            <Button type="submit" variant="ink" disabled={mutation.isPending} className="self-start px-9">
-              {mutation.isPending ? 'Entrando…' : 'Entrar'}
-            </Button>
+            <div className="flex flex-wrap items-center gap-x-8 gap-y-3">
+              <Button type="submit" variant="ink" disabled={mutation.isPending} className="px-9">
+                {mutation.isPending ? 'Entrando…' : 'Entrar'}
+              </Button>
+              <TextLink to="/esqueci-a-senha" className="text-ink">
+                Esqueci minha senha
+              </TextLink>
+            </div>
           </form>
         </div>
 

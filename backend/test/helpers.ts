@@ -60,10 +60,14 @@ export function newAccount() {
   };
 }
 
-/** Cria uma conta pela API. Com `admin`, promove a conta direto no banco (não há rota para isso). */
+/**
+ * Cria uma conta pela API. Com `admin`, promove a conta direto no banco (não há rota para isso).
+ * Por padrão a conta já nasce com o e-mail confirmado, para não atrapalhar testes de outros assuntos;
+ * `unverified: true` deixa a confirmação pendente, como num cadastro real.
+ */
 export async function createSession(
   app: NestExpressApplication,
-  options: { admin?: boolean } = {},
+  options: { admin?: boolean; unverified?: boolean } = {},
 ): Promise<{ token: string; id: string; auth: { Authorization: string } }> {
   const { default: request } = await import('supertest');
   const response = await request(app.getHttpServer())
@@ -72,6 +76,11 @@ export async function createSession(
     .expect(201);
 
   const id = response.body.user.id as string;
+  if (!options.unverified) {
+    await app
+      .get(PrismaService)
+      .user.update({ where: { id }, data: { emailVerifiedAt: new Date() } });
+  }
   if (options.admin) {
     await app
       .get(PrismaService)

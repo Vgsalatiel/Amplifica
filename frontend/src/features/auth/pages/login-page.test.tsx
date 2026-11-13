@@ -73,4 +73,10 @@ describe('LoginPage', () => {
 
     expect(await screen.findByRole('alert')).toHaveTextContent('Não foi possível falar com o servidor')
   })
+
+  it('oferece o caminho para quem esqueceu a senha', () => {
+    renderLogin()
+
+    expect(screen.getByRole('link', { name: 'Esqueci minha senha' })).toHaveAttribute('href', '/esqueci-a-senha')
+  })
 })

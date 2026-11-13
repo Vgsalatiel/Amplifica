@@ -8,6 +8,9 @@ import { GenresAdminPage } from '../features/admin/pages/genres-admin-page'
 import { ReleasesAdminPage } from '../features/admin/pages/releases-admin-page'
 import { EditReleasePage, NewReleasePage } from '../features/admin/pages/release-form-page'
 import { ProtectedRoute } from '../features/auth/components/protected-route'
+import { ForgotPasswordPage } from '../features/auth/pages/forgot-password-page'
+import { ResetPasswordPage } from '../features/auth/pages/reset-password-page'
+import { VerifyEmailPage } from '../features/auth/pages/verify-email-page'
 import { LoginPage } from '../features/auth/pages/login-page'
 import { RegisterPage } from '../features/auth/pages/register-page'
 import { HomePage } from '../features/home/pages/home-page'
@@ -38,6 +41,9 @@ export const router = createBrowserRouter([
       { path: '/guia', element: <StyleguidePage /> },
       { path: '/entrar', element: <LoginPage /> },
       { path: '/cadastro', element: <RegisterPage /> },
+      { path: '/esqueci-a-senha', element: <ForgotPasswordPage /> },
+      { path: '/redefinir-senha', element: <ResetPasswordPage /> },
+      { path: '/confirmar-email', element: <VerifyEmailPage /> },
       { path: '/u/:username', element: <ProfilePage /> },
       {
         // Tudo aqui dentro exige login.

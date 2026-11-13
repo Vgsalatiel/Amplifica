@@ -1,4 +1,5 @@
 import { Outlet, ScrollRestoration, useLocation } from 'react-router'
+import { EmailVerificationBanner } from './email-verification-banner'
 import { SiteFooter } from './site-footer'
 import { SlowApiNotice } from './slow-api-notice'
 import { SiteHeader } from './site-header'
@@ -17,6 +18,7 @@ export function AppLayout() {
       </a>
       <SiteHeader />
       <SlowApiNotice />
+      <EmailVerificationBanner />
       {/*
         A `key` muda a cada troca de página, o que faz o React remontar o <main> e
         reiniciar a animação de entrada. Cabeçalho e rodapé ficam fora dela e não piscam.

@@ -1,7 +1,7 @@
 import { fireEvent, screen } from '@testing-library/react'
 import { describe, expect, it } from 'vitest'
 import { endSession, startSession } from '../../../lib/session'
-import { mockApi, renderRoutes, sessionFor } from '../../../test/helpers'
+import { mockApi, renderRoutes, sessionFor, testUser } from '../../../test/helpers'
 import { notFound, review } from '../../../test/fixtures'
 import { RatingPrompt } from './rating-prompt'
 
@@ -119,5 +119,16 @@ describe('RatingPrompt', () => {
     expect(await screen.findByRole('button', { name: 'Publicar avaliação' })).toBeInTheDocument()
     expect(screen.getByLabelText('Sua resenha (opcional)')).toHaveValue('')
     expect(screen.queryByRole('radio', { checked: true })).not.toBeInTheDocument()
+  })
+
+  it('quem ainda não confirmou o e-mail não vê o formulário: vê como confirmar', () => {
+    startSession(sessionFor({ ...testUser, needsEmailVerification: true }))
+    const fetchMock = mockApi({})
+    renderRoutes(routes, '/lancamentos/sempiternal')
+
+    expect(screen.getByText(/Para avaliar, confirme seu e-mail/)).toBeInTheDocument()
+    expect(screen.getByRole('button', { name: 'Reenviar e-mail' })).toBeInTheDocument()
+    expect(screen.queryByRole('radio')).not.toBeInTheDocument()
+    expect(fetchMock).not.toHaveBeenCalled()
   })
 })

@@ -15,6 +15,7 @@ import { SkipThrottle, Throttle } from '@nestjs/throttler';
 import type { Request, Response } from 'express';
 import type { Env } from '../../config/env.js';
 import { ImagesService } from '../images/images.service.js';
+import { MailService } from '../mail/mail.service.js';
 import {
   toPrivateUser,
   type AuthUser,
@@ -22,10 +23,16 @@ import {
 } from '../users/user.types.js';
 import { AuthThrottlerGuard } from './auth-throttler.guard.js';
 import {
+  forgotPasswordSchema,
   loginSchema,
   registerSchema,
+  resetPasswordSchema,
+  verifyEmailSchema,
+  type ForgotPasswordDto,
   type LoginDto,
   type RegisterDto,
+  type ResetPasswordDto,
+  type VerifyEmailDto,
 } from './auth.schemas.js';
 import { AuthService, type AuthResult } from './auth.service.js';
 import {
@@ -50,6 +57,7 @@ export class AuthController {
   constructor(
     private readonly auth: AuthService,
     private readonly images: ImagesService,
+    private readonly mail: MailService,
     config: ConfigService<Env, true>,
   ) {
     this.secureCookies =
@@ -105,11 +113,56 @@ export class AuthController {
     clearRefreshCookie(response, this.secureCookies);
   }
 
+  /** Confirma o e-mail com o token do link recebido. */
+  @Public()
+  @Throttle({ default: { limit: 10, ttl: 60_000 } })
+  @HttpCode(204)
+  @Post('verify-email')
+  async verifyEmail(
+    @Body({ schema: verifyEmailSchema }) body: VerifyEmailDto,
+  ): Promise<void> {
+    await this.auth.verifyEmail(body.token);
+  }
+
+  /** Reenvia o link de confirmação para quem está logado. */
+  @Can.Anyone()
+  @Throttle({ default: { limit: 3, ttl: 600_000 } })
+  @HttpCode(204)
+  @Post('resend-verification')
+  async resendVerification(@CurrentUser() user: AuthUser): Promise<void> {
+    await this.auth.resendVerification(user);
+  }
+
+  /** "Esqueci a senha": a resposta é a mesma exista a conta ou não. */
+  @Public()
+  @Throttle({ default: { limit: 3, ttl: 600_000 } })
+  @HttpCode(204)
+  @Post('forgot-password')
+  async forgotPassword(
+    @Body({ schema: forgotPasswordSchema }) body: ForgotPasswordDto,
+  ): Promise<void> {
+    await this.auth.forgotPassword(body.email);
+  }
+
+  @Public()
+  @Throttle({ default: { limit: 10, ttl: 60_000 } })
+  @HttpCode(204)
+  @Post('reset-password')
+  async resetPassword(
+    @Body({ schema: resetPasswordSchema }) body: ResetPasswordDto,
+  ): Promise<void> {
+    await this.auth.resetPassword(body.token, body.password);
+  }
+
   @Can.Anyone()
   @SkipThrottle()
   @Get('me')
   me(@CurrentUser() user: AuthUser): PrivateUserResponse {
-    return toPrivateUser(user, (path) => this.images.toSet(path));
+    return toPrivateUser(
+      user,
+      (path) => this.images.toSet(path),
+      this.mail.canDeliver,
+    );
   }
 
   private startSession(
@@ -120,7 +173,11 @@ export class AuthController {
     return {
       accessToken: tokens.accessToken,
       expiresIn: tokens.expiresIn,
-      user: toPrivateUser(user, (path) => this.images.toSet(path)),
+      user: toPrivateUser(
+        user,
+        (path) => this.images.toSet(path),
+        this.mail.canDeliver,
+      ),
     };
   }
 }

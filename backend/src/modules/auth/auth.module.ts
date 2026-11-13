@@ -7,6 +7,7 @@ import { UsersModule } from '../users/users.module.js';
 import { AuthThrottlerGuard } from './auth-throttler.guard.js';
 import { AuthController } from './auth.controller.js';
 import { AuthService } from './auth.service.js';
+import { EmailTokensService } from './email-tokens.service.js';
 import { JwtAuth } from './jwt-auth.provider.js';
 import { PrismaRefreshTokenStore } from './prisma-refresh-token.store.js';
 
@@ -43,6 +44,7 @@ import { PrismaRefreshTokenStore } from './prisma-refresh-token.store.js';
   controllers: [AuthController],
   providers: [
     AuthService,
+    EmailTokensService,
     JwtAuth,
     PrismaRefreshTokenStore,
     AuthThrottlerGuard,

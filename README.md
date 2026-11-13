@@ -4,7 +4,7 @@
 
 Plataforma de descoberta musical e comunidade voltada ao rock e suas vertentes: discografias organizadas, gêneros como mapa de navegação, notas e resenhas com assinatura.
 
-> Projeto em desenvolvimento. Estado atual: **etapa 6 (descoberta)** concluída — busca sem acento por artistas e discos, lista de lançamentos com filtros (gênero, tipo, ano) e ordem por nota, e a nota de cada disco nas listas. Antes, a etapa 5: nota de 1 a 10 e resenha por pessoa e por disco. Gêneros, artistas e discos já abrem a qualquer visitante, com o Bring Me The Horizon como primeiro artista. Guia visual em [`/guia`](https://amplificacore.netlify.app/guia).
+> Projeto em desenvolvimento. Estado atual: **etapa 6 (descoberta)** concluída, mais confirmação de e-mail, recuperação de senha, aviso de API acordando e prévia de links — busca sem acento por artistas e discos, lista de lançamentos com filtros (gênero, tipo, ano) e ordem por nota, e a nota de cada disco nas listas. Antes, a etapa 5: nota de 1 a 10 e resenha por pessoa e por disco. Gêneros, artistas e discos já abrem a qualquer visitante, com o Bring Me The Horizon como primeiro artista. Guia visual em [`/guia`](https://amplificacore.netlify.app/guia).
 
 ## Stack
 
@@ -93,6 +93,8 @@ cd backend && ADMIN_EMAIL=voce@exemplo.com ADMIN_USERNAME=voce ADMIN_PASSWORD=um
 
 Em produção, promova uma conta já cadastrada no editor SQL do banco: `UPDATE "User" SET role = 'ADMIN' WHERE email = 'voce@exemplo.com';`
 
+Os e-mails de confirmação e de nova senha saem pelo [Resend](https://resend.com) quando `RESEND_API_KEY` e `MAIL_FROM` estão definidos. Em desenvolvimento, sem elas, o link aparece no terminal da API. Em produção, sem elas, a confirmação de e-mail não é exigida e "esqueci a senha" fica indisponível ([ADR 0009](docs/adr/0009-confirmacao-de-email-e-senha.md)).
+
 Imagens enviadas em desenvolvimento ficam em `backend/storage` (ignorada pelo Git). Em produção, o envio só funciona depois de configurar o bucket (variáveis `STORAGE_*`).
 
 ## Scripts
@@ -121,7 +123,11 @@ Todas as rotas ficam sob `/api/v1`. Erros seguem um formato único: `{ statusCod
 | `POST /auth/login` | Pública | Inicia a sessão |
 | `POST /auth/refresh` | Cookie | Renova a sessão e troca o token de renovação |
 | `POST /auth/logout` | Cookie | Encerra a sessão do dispositivo |
-| `GET /auth/me` | Autenticada | Dados da própria conta |
+| `GET /auth/me` | Autenticada | Dados da própria conta (`needsEmailVerification` diz se falta confirmar o e-mail) |
+| `POST /auth/verify-email` | Pública | Confirma o e-mail com o token do link recebido |
+| `POST /auth/resend-verification` | Autenticada | Reenvia o link de confirmação (invalida o anterior) |
+| `POST /auth/forgot-password` | Pública | Pede o link de nova senha. A resposta é a mesma exista a conta ou não |
+| `POST /auth/reset-password` | Pública | Define a nova senha com o token do link e encerra todas as sessões da conta |
 | `GET /users/:username` | Pública | Perfil público |
 | `PATCH /users/me` | Autenticada | Edita nome de exibição e bio |
 | `GET /releases/:slug/reviews` | Pública | Resenhas com texto do disco, paginadas, da mais recente para a mais antiga |
