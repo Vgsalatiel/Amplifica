@@ -131,6 +131,7 @@ model Genre {
   parent   Genre?        @relation("GenreTree", fields: [parentId], references: [id], onDelete: Restrict)
   children Genre[]       @relation("GenreTree")
   artists  ArtistGenre[]
+  shows    ShowGenre[]
 
   @@index([parentId])
 }
@@ -156,6 +157,7 @@ model Artist {
 
   genres   ArtistGenre[]
   releases ReleaseArtist[]
+  shows    ShowAct[]
 
   @@index([name])
 }
@@ -250,4 +252,75 @@ model Review {
   @@index([releaseId, createdAt])
   // Avaliações de uma pessoa, na página do perfil dela.
   @@index([userId, createdAt])
+}
+
+// ---------------------------------------------------------------------------
+// Shows
+// ---------------------------------------------------------------------------
+
+enum ShowStatus {
+  CONFIRMED
+  SOLD_OUT
+  CANCELLED
+}
+
+// Um show (ou festival) no Brasil. A escalação fica em ShowAct, para cobrir eventos com várias bandas.
+model Show {
+  id         String     @id @default(uuid(7)) @db.Uuid
+  // Nome do evento, quando existe (festival, turnê). Show comum não precisa.
+  name       String?
+  slug       String     @unique
+  // Dia do show, sem horário: a data de calendário no Brasil.
+  date       DateTime   @db.Date
+  // Horário de início, como "20:00". Opcional: nem todo anúncio traz.
+  startTime  String?
+  venue      String
+  city       String
+  // Sigla do estado, como "SP". Uma regra CHECK na migration garante o formato.
+  state      String
+  // Link do vendedor ou da página oficial do evento. Só http e https.
+  ticketUrl  String?
+  status     ShowStatus @default(CONFIRMED)
+  // Quando alguém conferiu esta informação pela última vez. Aparece na página.
+  verifiedAt DateTime   @default(now())
+  createdAt  DateTime   @default(now())
+  updatedAt  DateTime   @updatedAt
+
+  acts   ShowAct[]
+  genres ShowGenre[]
+
+  // Agenda: próximos shows, com ou sem filtro de estado.
+  @@index([date])
+  @@index([state, date])
+}
+
+// Uma atração da escalação. Com `artistId`, liga à página da banda no catálogo;
+// sem ele (banda fora do catálogo), só o nome aparece.
+model ShowAct {
+  id       String  @id @default(uuid(7)) @db.Uuid
+  showId   String  @db.Uuid
+  // Ordem na escalação; a primeira é a atração principal.
+  position Int
+  name     String
+  artistId String? @db.Uuid
+
+  show   Show    @relation(fields: [showId], references: [id], onDelete: Cascade)
+  // SetNull: apagar a banda do catálogo não apaga o show, só desfaz o link.
+  artist Artist? @relation(fields: [artistId], references: [id], onDelete: SetNull)
+
+  @@unique([showId, position])
+  @@index([artistId])
+}
+
+// Gêneros do show. Próprios do show (e não herdados do artista) para valer também para bandas de fora do catálogo.
+model ShowGenre {
+  showId  String @db.Uuid
+  genreId String @db.Uuid
+
+  show  Show  @relation(fields: [showId], references: [id], onDelete: Cascade)
+  // Restrict: um gênero em uso por shows não pode ser excluído.
+  genre Genre @relation(fields: [genreId], references: [id], onDelete: Restrict)
+
+  @@id([showId, genreId])
+  @@index([genreId])
 }

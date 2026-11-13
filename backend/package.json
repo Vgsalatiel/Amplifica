@@ -27,7 +27,8 @@
     "seed:admin": "nest build && node dist/scripts/seed-admin.js",
     "seed:genres": "nest build && node dist/scripts/seed-genres.js",
     "catalog:fetch": "nest build && node dist/scripts/musicbrainz-fetch.js",
-    "catalog:seed": "nest build && node dist/scripts/seed-catalog.js"
+    "catalog:seed": "nest build && node dist/scripts/seed-catalog.js",
+    "shows:seed": "nest build && node dist/scripts/seed-shows.js"
   },
   "dependencies": {
     "@nestjs/authentication": "^0.1.5",

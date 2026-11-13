@@ -11,6 +11,7 @@ import { ImagesModule } from './modules/images/images.module.js';
 import { MailModule } from './modules/mail/mail.module.js';
 import { ReleasesModule } from './modules/releases/releases.module.js';
 import { ReviewsModule } from './modules/reviews/reviews.module.js';
+import { ShowsModule } from './modules/shows/shows.module.js';
 import { UsersModule } from './modules/users/users.module.js';
 import { PrismaModule } from './prisma/prisma.module.js';
 
@@ -30,6 +31,7 @@ import { PrismaModule } from './prisma/prisma.module.js';
     ArtistsModule,
     ReleasesModule,
     ReviewsModule,
+    ShowsModule,
     HealthModule,
   ],
 })

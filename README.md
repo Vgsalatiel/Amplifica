@@ -149,6 +149,7 @@ Os mesmos nos dois projetos, salvo indicação:
 | `npm run build` | Build de produção |
 | `npm run prisma:migrate` | Cria e aplica migrations em desenvolvimento (só no backend) |
 | `npm run catalog:fetch`, `npm run catalog:seed` | Busca e carrega a discografia de um artista a partir de um arquivo revisável (só no backend) |
+| `npm run shows:seed` | Carrega shows de um arquivo revisável em `prisma/data/shows/` (só no backend) |
 | `npm run seed:genres` | Cria a árvore inicial de gêneros; pode rodar de novo sem duplicar (só no backend) |
 | `npm run seed:admin` | Cria o primeiro administrador a partir de `ADMIN_EMAIL`, `ADMIN_USERNAME` e `ADMIN_PASSWORD` (só no backend) |
 
@@ -178,7 +179,9 @@ Todas as rotas ficam sob `/api/v1`. Erros seguem um formato único: `{ statusCod
 | `GET /artists/:slug` | Pública | Artista com discografia, do lançamento mais recente ao mais antigo |
 | `GET /releases` | Pública | Lista paginada, com `rating` (média e contagem) em cada item. Filtros: `type`, `artist`, `genre` (inclui subgêneros), `year`, `q` (título ou artista, sem acento). Ordem: `sort=recent` (padrão), `rating` (sem nota por último) ou `title` |
 | `GET /releases/:slug` | Pública | Lançamento com faixas, cor de destaque e vídeo |
-| `POST`, `PATCH`, `DELETE` em `/genres`, `/artists`, `/releases` | ADMIN | Cadastro e edição do catálogo |
+| `GET /shows` | Pública | Agenda paginada: por padrão os próximos shows, sem cancelados. Filtros: `when` (`upcoming`, `past`, `all`), `state`, `city`, `genre` (inclui subgêneros), `artist`, `month` (AAAA-MM), `status` |
+| `GET /shows/:slug` | Pública | Show com escalação, gêneros, link oficial e data da última conferência |
+| `POST`, `PATCH`, `DELETE` em `/genres`, `/artists`, `/releases`, `/shows` | ADMIN | Cadastro e edição do catálogo e da agenda |
 | `PUT`, `DELETE` em `/artists/:id/image` e `/releases/:id/cover` | ADMIN | Foto do artista e capa do lançamento |
 | `PUT`, `DELETE /users/me/avatar` | Autenticada | Avatar da própria conta |
 | `GET /health` | Pública | Estado da API e do banco |
@@ -208,6 +211,7 @@ Cada decisão relevante tem uma página própria, com contexto, alternativas e l
 | [0007](docs/adr/0007-avaliacoes.md) | Notas, resenhas e média calculada na leitura |
 | [0008](docs/adr/0008-descoberta.md) | Busca sem acento, filtros e ordem por nota |
 | [0009](docs/adr/0009-confirmacao-de-email-e-senha.md) | Confirmação de e-mail e recuperação de senha |
+| [0010](docs/adr/0010-shows.md) | Shows: escalação, gêneros próprios, data de conferência |
 
 ## Limites conhecidos
 

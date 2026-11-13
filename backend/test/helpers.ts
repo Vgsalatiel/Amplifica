@@ -31,6 +31,8 @@ export async function cleanTestData(
   const prisma = app.get(PrismaService);
 
   const slug = { startsWith: TEST_SLUG_PREFIX };
+  // Shows primeiro: eles seguram gêneros (RESTRICT) e apontam para artistas.
+  await prisma.show.deleteMany({ where: { slug } });
   await prisma.release.deleteMany({ where: { slug } });
   await prisma.artist.deleteMany({ where: { slug } });
   // Gêneros têm ON DELETE RESTRICT para o pai: solta a árvore antes de apagar.

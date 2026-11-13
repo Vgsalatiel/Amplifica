@@ -137,17 +137,20 @@ export class GenresService {
   async remove(id: string): Promise<void> {
     const genre = await this.prisma.genre.findUnique({
       where: { id },
-      include: { _count: { select: { children: true, artists: true } } },
+      include: {
+        _count: { select: { children: true, artists: true, shows: true } },
+      },
     });
     if (!genre) {
       throw new NotFoundException(NOT_FOUND);
     }
 
-    const { children, artists } = genre._count;
-    if (children > 0 || artists > 0) {
+    const { children, artists, shows } = genre._count;
+    if (children > 0 || artists > 0 || shows > 0) {
       const reasons = [
         children > 0 ? `${children} subgênero(s)` : null,
         artists > 0 ? `${artists} artista(s)` : null,
+        shows > 0 ? `${shows} show(s)` : null,
       ].filter(Boolean);
       throw new ConflictException(
         apiError(

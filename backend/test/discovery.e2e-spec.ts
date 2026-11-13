@@ -112,8 +112,12 @@ describe('Descoberta: busca, filtros e notas nas listas (e2e)', () => {
     });
 
     it('% e _ valem como texto também na busca de lançamentos', async () => {
-      const literal = await get(`/releases?q=${encodeURIComponent('100%')}`).expect(200);
-      expect(literal.body.items).toHaveLength(0);
+      // Se % e _ funcionassem como curinga, estas buscas achariam "Cem% Verdade_Absoluta".
+      // (Termos escolhidos para não coincidir com títulos reais do catálogo de desenvolvimento.)
+      for (const q of ['cem%absoluta', 'verdadexabsoluta']) {
+        const literal = await get(`/releases?q=${encodeURIComponent(q)}`).expect(200);
+        expect(literal.body.items).toHaveLength(0);
+      }
       const real = await get(`/releases?q=${encodeURIComponent('cem% verdade_')}`).expect(200);
       expect(titles(real.body)).toEqual(['Cem% Verdade_Absoluta']);
     });
