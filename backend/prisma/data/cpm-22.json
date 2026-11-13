@@ -1,0 +1,1454 @@
+{
+  "generatedAt": "2026-11-13T13:45:34.225Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "a305918f-ce88-4834-a134-3381e34ad4e8",
+    "name": "CPM 22",
+    "slug": "cpm-22",
+    "type": "BAND",
+    "country": "BR",
+    "city": "Barueri",
+    "formedYear": 1995,
+    "disbandedYear": null,
+    "bio": "O CPM 22 se formou em 1995, em Barueri, São Paulo, inicialmente com o nome CPM. A primeira demo saiu em 1996, e em 1998 a banda adotou o nome atual, que remete a uma caixa postal de número 1022, embora o guitarrista Wally conteste essa origem. O disco de estreia, A Alguns Quilômetros de Lugar Nenhum, saiu em 2000.\n\nEntre 2001 e 2007 vieram CPM 22 (2001), Chegou a Hora de Recomeçar (2002), Felicidade Instantânea (2005) e Cidade Cinza (2007), além do ao vivo MTV ao Vivo: CPM 22 (2006), gravado em maio de 2006 no Espaço das Américas, em São Paulo. Em 2008, Cidade Cinza ganhou o Grammy Latino de melhor álbum de rock brasileiro.\n\nEm 2011, depois de deixar a gravadora Arsenal Music, a banda lançou Depois de um Longo Inverno. Seguiram-se CPM 22 Acústico (2013), CPM 22 ao Vivo no Rock in Rio (2016), Suor e Sacrifício (2017) e Enfrente (2024), o oitavo álbum de estúdio. Japinha saiu em 2020, e a formação atual tem Badauí nos vocais, Luciano Garcia e Phil Fargnoli nas guitarras, Ali Zaher Jr. no baixo e Daniel Siqueira na bateria.\n\nA banda costuma ser classificada como hardcore melódico e punk rock, com influências de emocore, embora rejeite os rótulos de hardcore e emo. Entre as influências citadas estão Ramones, Bad Religion e Rancid.",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/a305918f-ce88-4834-a134-3381e34ad4e8"
+      },
+      {
+        "name": "Wikipédia em português: CPM 22",
+        "url": "https://pt.wikipedia.org/wiki/CPM_22"
+      }
+    ],
+    "genres": [
+      "rock-nacional",
+      "pop-punk",
+      "melodic-hardcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "14e31add-0836-4f6e-97a4-0ab53899135a",
+      "releaseMbid": "539adb8d-444d-49ef-bcc0-7df32036b487",
+      "title": "Como por Moral",
+      "type": "EP",
+      "releaseDate": "1996-08",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Tente",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 122000
+        },
+        {
+          "title": "Mudança de personalidade",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 103000
+        },
+        {
+          "title": "Garrafada do Norte",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 87000
+        },
+        {
+          "title": "Eu prometo",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 91000
+        },
+        {
+          "title": "Viva o Colorado",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 104000
+        }
+      ]
+    },
+    {
+      "mbid": "523e90cd-2f6c-36a6-88da-b4eb6e5d78bb",
+      "releaseMbid": "f438d8d6-6d06-4623-a42e-0c5784e9a53d",
+      "title": "A Alguns Quilômetros de Lugar Nenhum",
+      "type": "ALBUM",
+      "releaseDate": "2000",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Regina Let's Go",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 141066
+        },
+        {
+          "title": "O mundo dá voltas",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 172853
+        },
+        {
+          "title": "+ 1 dia",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 127240
+        },
+        {
+          "title": "Por quê?",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 143000
+        },
+        {
+          "title": "Garota da T.V.",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 91133
+        },
+        {
+          "title": "Bohrizlozer",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 173533
+        },
+        {
+          "title": "... é isso",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 150000
+        },
+        {
+          "title": "Peter",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 87840
+        },
+        {
+          "title": "60s",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 70266
+        },
+        {
+          "title": "Light Blue Night",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 124333
+        },
+        {
+          "title": "Anteontem",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 161733
+        },
+        {
+          "title": "Vai mudar?",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 143720
+        },
+        {
+          "title": "Pregur",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 112373
+        },
+        {
+          "title": "A alguns quilômetros de lugar nenhum",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 212907
+        }
+      ]
+    },
+    {
+      "mbid": "849ffc61-2442-3844-9d15-ee9301ed6679",
+      "releaseMbid": "ee2fd994-a6f1-4786-85a5-d09d0fcd0d8b",
+      "title": "CPM 22",
+      "type": "ALBUM",
+      "releaseDate": "2001",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/849ffc61-2442-3844-9d15-ee9301ed6679/front-1200",
+      "tracks": [
+        {
+          "title": "Regina Let's Go!",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 135666
+        },
+        {
+          "title": "Tarde de outubro",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 139533
+        },
+        {
+          "title": "O chão que ela pisa",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 179893
+        },
+        {
+          "title": "O perdedor (Bohrizloser)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 173666
+        },
+        {
+          "title": "Anteontem",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 184240
+        },
+        {
+          "title": "60 segundos",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 148066
+        },
+        {
+          "title": "A velha história",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 208426
+        },
+        {
+          "title": "Antes que seja tarde",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 189906
+        },
+        {
+          "title": "Melancolia",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 221800
+        },
+        {
+          "title": "O mundo dá voltas",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 177800
+        },
+        {
+          "title": "+ 1 dia",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 125360
+        },
+        {
+          "title": "... é isso",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 154373
+        },
+        {
+          "title": "Últimas palavras",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 186360
+        },
+        {
+          "title": "2 semanas",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 166266
+        }
+      ]
+    },
+    {
+      "mbid": "07ca652f-1d15-3a8d-9214-7ab00da19ff1",
+      "releaseMbid": "da1c0df9-9771-47e5-9b7c-38cfe876e077",
+      "title": "Chegou a Hora de Recomeçar",
+      "type": "ALBUM",
+      "releaseDate": "2002",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/07ca652f-1d15-3a8d-9214-7ab00da19ff1/front-1200",
+      "tracks": [
+        {
+          "title": "Desconfio",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 164733
+        },
+        {
+          "title": "Sonhos e planos",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 172733
+        },
+        {
+          "title": "Vidas que se encontram",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 179560
+        },
+        {
+          "title": "Dias atrás",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 248373
+        },
+        {
+          "title": "Amigos perdidos",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 134226
+        },
+        {
+          "title": "Especial como você",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 173506
+        },
+        {
+          "title": "Não sei viver sem ter você",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 226693
+        },
+        {
+          "title": "Atordoado",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 151306
+        },
+        {
+          "title": "Garota da TV",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 148466
+        },
+        {
+          "title": "Ontem",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 235160
+        },
+        {
+          "title": "Coragem",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 128373
+        },
+        {
+          "title": "Argumento",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 168600
+        },
+        {
+          "title": "Peter",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 90333
+        },
+        {
+          "title": "Mentiras novas",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 242200
+        }
+      ]
+    },
+    {
+      "mbid": "9aab2af2-563f-3ecc-9fb2-e9416126d5b0",
+      "releaseMbid": "68bff007-09ff-3058-8964-a53ebc0a5eb4",
+      "title": "Felicidade Instantânea",
+      "type": "ALBUM",
+      "releaseDate": "2005",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/9aab2af2-563f-3ecc-9fb2-e9416126d5b0/front-1200",
+      "tracks": [
+        {
+          "title": "Felicidade instantânea",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 154226
+        },
+        {
+          "title": "Um minuto para o fim do mundo",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 198000
+        },
+        {
+          "title": "Apostas & Certezas",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 151306
+        },
+        {
+          "title": "Irreversível",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 230533
+        },
+        {
+          "title": "Não vá embora",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 220493
+        },
+        {
+          "title": "A cura",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 174906
+        },
+        {
+          "title": "Recíproca",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 192960
+        },
+        {
+          "title": "Pensamentos negativos",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 190706
+        },
+        {
+          "title": "Cidade em chamas",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 179626
+        },
+        {
+          "title": "Park, park",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 156866
+        },
+        {
+          "title": "Jovem, alcoólatra, suicida",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 219773
+        },
+        {
+          "title": "Crise de existência",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 183293
+        },
+        {
+          "title": "Contagem regressiva",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 146533
+        },
+        {
+          "title": "Reflexões",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 184400
+        },
+        {
+          "title": "Depois do fim",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 120040
+        },
+        {
+          "title": "Repetição",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 169334
+        }
+      ]
+    },
+    {
+      "mbid": "564012b1-3142-31e7-9825-e440ee6ea353",
+      "releaseMbid": "015d0a79-c7ee-42fb-9d5e-7f5ffb4852a6",
+      "title": "MTV ao Vivo",
+      "type": "LIVE",
+      "releaseDate": "2006-05-11",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/564012b1-3142-31e7-9825-e440ee6ea353/front-1200",
+      "tracks": [
+        {
+          "title": "Regina Let's Go!",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 171000
+        },
+        {
+          "title": "Desconfio",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 170000
+        },
+        {
+          "title": "O mundo dá voltas",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 169000
+        },
+        {
+          "title": "Dias atrás",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 248000
+        },
+        {
+          "title": "Inevitável",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 151000
+        },
+        {
+          "title": "Irreversível",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 220000
+        },
+        {
+          "title": "Light Blue Night",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 119000
+        },
+        {
+          "title": "Anteontem",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 181000
+        },
+        {
+          "title": "Não sei viver sem ter você",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 221000
+        },
+        {
+          "title": "Além de nós",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 198000
+        },
+        {
+          "title": "Atordoado",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 147000
+        },
+        {
+          "title": "Apostas & Certezas",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 146000
+        },
+        {
+          "title": "Um minuto para o fim do mundo",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 191000
+        },
+        {
+          "title": "Não vá embora",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 213000
+        },
+        {
+          "title": "Pouco pra mim",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 140000
+        },
+        {
+          "title": "Peter / 60 segundos / Garota da TV",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 232000
+        },
+        {
+          "title": "Ontem",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 266000
+        },
+        {
+          "title": "Cidade em chamas",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 171000
+        },
+        {
+          "title": "A cura",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 171000
+        },
+        {
+          "title": "Libertar",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 144000
+        },
+        {
+          "title": "Tarde de outubro",
+          "discNumber": 1,
+          "position": 21,
+          "durationMs": 177000
+        }
+      ]
+    },
+    {
+      "mbid": "5e949eb5-219d-3bac-953c-9199ba09ff0e",
+      "releaseMbid": "c32e7079-15eb-4622-baed-31d58f6ee5f8",
+      "title": "Cidade Cinza",
+      "type": "ALBUM",
+      "releaseDate": "2007",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Estranho no espelho",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 200000
+        },
+        {
+          "title": "Nossa música",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 197000
+        },
+        {
+          "title": "Ano que vem talvez",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 231000
+        },
+        {
+          "title": "Escolhas, provas e promessas",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 178000
+        },
+        {
+          "title": "Tempestade de facas",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 154000
+        },
+        {
+          "title": "1000 motivos",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 187000
+        },
+        {
+          "title": "Depois de horas",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 118000
+        },
+        {
+          "title": "Mais rápido que as lágrimas",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 114000
+        },
+        {
+          "title": "Reais amigos",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 148000
+        },
+        {
+          "title": "Tempo",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 115000
+        },
+        {
+          "title": "Maldita herança",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 125000
+        },
+        {
+          "title": "Cidade cinza",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 180000
+        }
+      ]
+    },
+    {
+      "mbid": "75ef5cb0-2808-4ec4-a4b4-6cf159cdcc57",
+      "releaseMbid": "ff060c5c-0175-45ba-abaf-bcf45b819626",
+      "title": "Depois de um Longo Inverno",
+      "type": "ALBUM",
+      "releaseDate": "2011-04-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/75ef5cb0-2808-4ec4-a4b4-6cf159cdcc57/front-1200",
+      "tracks": [
+        {
+          "title": "Abominável",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 178000
+        },
+        {
+          "title": "Vida Ou Morte",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 176000
+        },
+        {
+          "title": "Filme Que Eu Nunca Vi",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 182000
+        },
+        {
+          "title": "Hospital Do Sofredor",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 178000
+        },
+        {
+          "title": "Cavaleiro Metal",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 218000
+        },
+        {
+          "title": "Quem Sou Eu",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 184000
+        },
+        {
+          "title": "Na Medida Certa",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 216000
+        },
+        {
+          "title": "Um Pouco de Paciência",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 190000
+        },
+        {
+          "title": "Sofridos e Excluídos",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 171000
+        },
+        {
+          "title": "Nova Ordem",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 120000
+        },
+        {
+          "title": "CPM 22",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 205000
+        },
+        {
+          "title": "Minoria",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 160000
+        },
+        {
+          "title": "Março 76",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 439000
+        }
+      ]
+    },
+    {
+      "mbid": "af238aac-68a8-4385-845b-65653f27ff20",
+      "releaseMbid": "1d49769b-f7a5-46f5-921b-f43f96388f31",
+      "title": "Acústico",
+      "type": "LIVE",
+      "releaseDate": "2013-09-19",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/af238aac-68a8-4385-845b-65653f27ff20/front-1200",
+      "tracks": [
+        {
+          "title": "Não sei viver sem ter você",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 233000
+        },
+        {
+          "title": "Desconfio",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 176000
+        },
+        {
+          "title": "O chão que ela pisa",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 175000
+        },
+        {
+          "title": "Tony Galano",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 193000
+        },
+        {
+          "title": "Vida ou morte",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 177000
+        },
+        {
+          "title": "Vai mudar?",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 152000
+        },
+        {
+          "title": "Irreversível",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 251000
+        },
+        {
+          "title": "Por nós 3",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 169000
+        },
+        {
+          "title": "Tarde de outubro",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 153000
+        },
+        {
+          "title": "Sofridos e excluídos",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 165000
+        },
+        {
+          "title": "Dias atrás",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 274000
+        },
+        {
+          "title": "Perdas",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 202000
+        },
+        {
+          "title": "Sonhos e planos",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 177000
+        },
+        {
+          "title": "Nossa música",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 195000
+        },
+        {
+          "title": "O mundo dá voltas",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 191000
+        },
+        {
+          "title": "A alguns quilômetros de lugar nenhum",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 226000
+        },
+        {
+          "title": "Pra sempre",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 234000
+        },
+        {
+          "title": "Um minuto para o fim do mundo",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 199000
+        },
+        {
+          "title": "CPM 22",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 207000
+        },
+        {
+          "title": "A cura",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 187000
+        },
+        {
+          "title": "1000 motivos",
+          "discNumber": 1,
+          "position": 21,
+          "durationMs": 202000
+        },
+        {
+          "title": "Regina Let's Go!",
+          "discNumber": 1,
+          "position": 22,
+          "durationMs": 177000
+        }
+      ]
+    },
+    {
+      "mbid": "54e0afee-eea4-488e-b60f-fd7200f5424d",
+      "releaseMbid": "06f18b0a-46d0-4c4b-bcdc-54beb6147d65",
+      "title": "CPM22 - 20 Anos",
+      "type": "COMPILATION",
+      "releaseDate": "2015-09-11",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/54e0afee-eea4-488e-b60f-fd7200f5424d/front-1200",
+      "tracks": [
+        {
+          "title": "Regina Let's Go!",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 134453
+        },
+        {
+          "title": "Tarde De Outubro",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 138453
+        },
+        {
+          "title": "O Mundo Dá Voltas",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 178026
+        },
+        {
+          "title": "Desconfio",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 165853
+        },
+        {
+          "title": "Dias Atrás",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 247306
+        },
+        {
+          "title": "Não Sei Viver Sem Ter Você",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 228386
+        },
+        {
+          "title": "Ontem",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 234413
+        },
+        {
+          "title": "Um Minuto Para O Fim Do Mundo",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 197253
+        },
+        {
+          "title": "Irreversível",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 230653
+        },
+        {
+          "title": "Apostas & Certezas",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 152346
+        },
+        {
+          "title": "Inevitável (Ao Vivo)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 150573
+        },
+        {
+          "title": "Nossa Música",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 197640
+        },
+        {
+          "title": "Vida Ou Morte",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 176053
+        },
+        {
+          "title": "Perdas (Live)",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 207800
+        },
+        {
+          "title": "Por Que?",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 144773
+        },
+        {
+          "title": "Entre O Céu E O Inferno",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 152480
+        },
+        {
+          "title": "Estranho No Espelho",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 199518
+        },
+        {
+          "title": "Sonhos E Planos",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 171559
+        },
+        {
+          "title": "Atordoado",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 151775
+        },
+        {
+          "title": "Anteontem",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 183608
+        }
+      ]
+    },
+    {
+      "mbid": "ad58885b-1363-4bd4-94f1-6d92bb125fb1",
+      "releaseMbid": "04c1b383-4c32-4802-b93a-fe31213518be",
+      "title": "Ao Vivo no Rock in Rio",
+      "type": "LIVE",
+      "releaseDate": "2016-11-04",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ad58885b-1363-4bd4-94f1-6d92bb125fb1/front-1200",
+      "tracks": [
+        {
+          "title": "Regina Let's Go!",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 166653
+        },
+        {
+          "title": "O mundo dá voltas",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 175967
+        },
+        {
+          "title": "Tarde de outubro",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 144933
+        },
+        {
+          "title": "Dias atrás",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 334013
+        },
+        {
+          "title": "Não sei viver sem ter você",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 233831
+        },
+        {
+          "title": "Atordoado",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 152905
+        },
+        {
+          "title": "Vida ou morte",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 196873
+        },
+        {
+          "title": "Sheena Is a Punk Rocker",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 199000
+        },
+        {
+          "title": "Um minuto para o fim do mundo",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 303276
+        },
+        {
+          "title": "Irreversível",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 254490
+        },
+        {
+          "title": "Apostas & certezas",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 226790
+        },
+        {
+          "title": "Não vá embora",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 218198
+        },
+        {
+          "title": "Inevitável",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 166105
+        },
+        {
+          "title": "Ontem",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 265000
+        },
+        {
+          "title": "Anteontem",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 187509
+        },
+        {
+          "title": "Desconfio",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 355682
+        },
+        {
+          "title": "Irreversível",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 253720
+        },
+        {
+          "title": "Ontem",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 265000
+        },
+        {
+          "title": "Um minuto para o fim do mundo",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 303970
+        },
+        {
+          "title": "Apostas & certezas",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 227493
+        },
+        {
+          "title": "Não vá embora",
+          "discNumber": 1,
+          "position": 21,
+          "durationMs": 218317
+        },
+        {
+          "title": "Desconfio",
+          "discNumber": 1,
+          "position": 22,
+          "durationMs": 356388
+        },
+        {
+          "title": "Anteontem",
+          "discNumber": 1,
+          "position": 23,
+          "durationMs": 187787
+        },
+        {
+          "title": "Inevitável",
+          "discNumber": 1,
+          "position": 24,
+          "durationMs": 166800
+        },
+        {
+          "title": "Sheena Is a Punk Rocker",
+          "discNumber": 1,
+          "position": 25,
+          "durationMs": 199165
+        },
+        {
+          "title": "Vida ou morte",
+          "discNumber": 1,
+          "position": 26,
+          "durationMs": 197397
+        },
+        {
+          "title": "Regina Let's Go",
+          "discNumber": 1,
+          "position": 27,
+          "durationMs": 166767
+        },
+        {
+          "title": "O mundo dá voltas",
+          "discNumber": 1,
+          "position": 28,
+          "durationMs": 176677
+        },
+        {
+          "title": "Tarde de outubro",
+          "discNumber": 1,
+          "position": 29,
+          "durationMs": 145645
+        },
+        {
+          "title": "Atordoado",
+          "discNumber": 1,
+          "position": 30,
+          "durationMs": 153152
+        },
+        {
+          "title": "Não sei viver sem ter você",
+          "discNumber": 1,
+          "position": 31,
+          "durationMs": 234533
+        },
+        {
+          "title": "Dias atrás",
+          "discNumber": 1,
+          "position": 32,
+          "durationMs": 334700
+        }
+      ]
+    },
+    {
+      "mbid": "4ac7e914-6922-40f4-a111-076d5b9e4ac6",
+      "releaseMbid": "aa4ce986-3bb9-429e-a691-6993e2dea456",
+      "title": "Suor e Sacrifício",
+      "type": "ALBUM",
+      "releaseDate": "2017-04-28",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4ac7e914-6922-40f4-a111-076d5b9e4ac6/front-1200",
+      "tracks": [
+        {
+          "title": "Combustível",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 177133
+        },
+        {
+          "title": "Pagar pra ver?!",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 184309
+        },
+        {
+          "title": "Ser mais simples",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 215960
+        },
+        {
+          "title": "Conta comigo",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 254253
+        },
+        {
+          "title": "Linha de frente",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 235907
+        },
+        {
+          "title": "A esperança não morreu",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 187213
+        },
+        {
+          "title": "Como no passado",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 235707
+        },
+        {
+          "title": "Desconexo",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 207867
+        },
+        {
+          "title": "Never Going to Be the Same",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 230987
+        },
+        {
+          "title": "Honrar teu nome",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 248813
+        },
+        {
+          "title": "Segunda chance",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 172947
+        },
+        {
+          "title": "Destemido",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 113120
+        },
+        {
+          "title": "Em busca de uma pista",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 175598
+        },
+        {
+          "title": "Todos por 1 / Citação: Hino nacional",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 176973
+        },
+        {
+          "title": "Revolução",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 211067
+        },
+        {
+          "title": "Cruz",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 125880
+        }
+      ]
+    },
+    {
+      "mbid": "37d87bf9-b4e1-4eff-ad28-31011a60b0e6",
+      "releaseMbid": "a928d8cb-eea3-4ca9-a668-058b6d6108f5",
+      "title": "Enfrente",
+      "type": "ALBUM",
+      "releaseDate": "2024-05-23",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/37d87bf9-b4e1-4eff-ad28-31011a60b0e6/front-1200",
+      "tracks": [
+        {
+          "title": "Porto Seguro",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 116081
+        },
+        {
+          "title": "Dono Da Verdade",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 172838
+        },
+        {
+          "title": "Rivais",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 202750
+        },
+        {
+          "title": "Mágoas Passadas",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 260341
+        },
+        {
+          "title": "Enfrente",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 224477
+        },
+        {
+          "title": "Direto e Reto",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 152308
+        },
+        {
+          "title": "Conselhos",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 187122
+        },
+        {
+          "title": "O Ano Em Que a Terra Parou",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 185350
+        },
+        {
+          "title": "Alívio Imediato",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 194899
+        },
+        {
+          "title": "Nunca Se Sabe",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 216985
+        },
+        {
+          "title": "Feriado Punk",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 124313
+        },
+        {
+          "title": "Convicto",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 198443
+        },
+        {
+          "title": "Covarde Digital",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 78295
+        },
+        {
+          "title": "Urbano",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 236812
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

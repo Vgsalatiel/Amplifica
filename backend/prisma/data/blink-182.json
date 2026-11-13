@@ -1,0 +1,1315 @@
+{
+  "generatedAt": "2026-11-13T13:55:51.888Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "0743b15a-3c32-48c8-ad58-cb325350befa",
+    "name": "blink‐182",
+    "slug": "blink-182",
+    "type": "BAND",
+    "country": "US",
+    "city": "Poway",
+    "formedYear": 1992,
+    "disbandedYear": null,
+    "bio": "O blink-182 se formou em 1992, na Califórnia, por Mark Hoppus, Tom DeLonge e Scott Raynor, tocando punk rock californiano com humor escrachado. Hoppus é o único membro presente desde o começo. A banda assinou com a MCA Records e lançou o disco de estreia, Cheshire Cat, em 1994. Dude Ranch (1997) trouxe os singles Josie e Dammit.\n\nEm 1998, Scott Raynor saiu, e Travis Barker entrou na bateria. Enema of the State (1999) tornou a banda muito famosa, com What's My Age Again?, All the Small Things e Adam's Song. Take Off Your Pants and Jacket (2001) repetiu o sucesso e estreou em primeiro lugar na Billboard 200. O álbum blink-182, de 2003, trouxe uma sonoridade mais madura.\n\nEm fevereiro de 2005, o grupo anunciou um hiato por tempo indeterminado. Mark e Travis formaram o +44, e Tom fundou o Angels & Airwaves. Em 2008, Travis sobreviveu a um acidente de avião. A banda voltou em 2009 e lançou Neighborhoods em 2011. Em janeiro de 2015, Tom DeLonge saiu, e Matt Skiba, do Alkaline Trio, assumiu vocais e guitarra, nos álbuns California (2016) e Nine (2019).\n\nEm outubro de 2022, Tom DeLonge voltou à formação original. O álbum One More Time... (2023) chegou ao primeiro lugar da Billboard 200.",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/0743b15a-3c32-48c8-ad58-cb325350befa"
+      },
+      {
+        "name": "Wikipédia em português: Blink-182",
+        "url": "https://pt.wikipedia.org/wiki/Blink-182"
+      }
+    ],
+    "genres": [
+      "pop-punk",
+      "punk-rock"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "b9ed79e9-b925-3631-bf80-98258226e5c6",
+      "releaseMbid": "d908246c-5ef9-4c21-a149-003a8e6891aa",
+      "title": "Buddha",
+      "type": "ALBUM",
+      "releaseDate": "1994-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b9ed79e9-b925-3631-bf80-98258226e5c6/front-1200",
+      "tracks": [
+        {
+          "title": "Carousel",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 162026
+        },
+        {
+          "title": "TV",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 120026
+        },
+        {
+          "title": "Strings",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 151040
+        },
+        {
+          "title": "Fentoozler",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 126040
+        },
+        {
+          "title": "Time",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 169026
+        },
+        {
+          "title": "Romeo and Rebecca",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 153613
+        },
+        {
+          "title": "21 Days",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 247013
+        },
+        {
+          "title": "Sometimes",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 68013
+        },
+        {
+          "title": "Degenerate",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 151040
+        },
+        {
+          "title": "Point of View",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 75013
+        },
+        {
+          "title": "My Pet Sally",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 99026
+        },
+        {
+          "title": "Reebok Commercial",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 159026
+        },
+        {
+          "title": "Toast and Bananas",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 153013
+        },
+        {
+          "title": "The Family Next Door",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 107013
+        },
+        {
+          "title": "Transvestite",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 239067
+        }
+      ]
+    },
+    {
+      "mbid": "0a467c9c-c9f7-3a86-bce1-c013e3bacd5f",
+      "releaseMbid": "b237e335-1858-425b-b6e0-92489a5831ec",
+      "title": "Cheshire Cat",
+      "type": "ALBUM",
+      "releaseDate": "1995-02-17",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0a467c9c-c9f7-3a86-bce1-c013e3bacd5f/front-1200",
+      "tracks": [
+        {
+          "title": "Carousel",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 194960
+        },
+        {
+          "title": "M+M’s",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 159773
+        },
+        {
+          "title": "Fentoozler",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 124826
+        },
+        {
+          "title": "Touchdown Boy",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 190506
+        },
+        {
+          "title": "Strings",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 145760
+        },
+        {
+          "title": "Peggy Sue",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 158440
+        },
+        {
+          "title": "Sometimes",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 68933
+        },
+        {
+          "title": "Does My Breath Smell?",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 158093
+        },
+        {
+          "title": "Cacophony",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 185706
+        },
+        {
+          "title": "TV",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 101893
+        },
+        {
+          "title": "Toast and Bananas",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 162600
+        },
+        {
+          "title": "Wasting Time",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 169373
+        },
+        {
+          "title": "Romeo and Rebecca",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 154026
+        },
+        {
+          "title": "Ben Wah Balls",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 235666
+        },
+        {
+          "title": "Just About Done",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 136400
+        },
+        {
+          "title": "Depends",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 168773
+        }
+      ]
+    },
+    {
+      "mbid": "19b6b24f-b273-3d4b-91f4-0720cd0f3bcd",
+      "releaseMbid": "153fc8b2-29c1-4b22-80c6-63b84074da67",
+      "title": "Dude Ranch",
+      "type": "ALBUM",
+      "releaseDate": "1997-04-14",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Pathetic",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 147800
+        },
+        {
+          "title": "Voyeur",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 164000
+        },
+        {
+          "title": "Dammit",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 164600
+        },
+        {
+          "title": "Boring",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 102266
+        },
+        {
+          "title": "Dick Lips",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 176600
+        },
+        {
+          "title": "Waggy",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 197133
+        },
+        {
+          "title": "Enthused",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 168133
+        },
+        {
+          "title": "Untitled",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 166733
+        },
+        {
+          "title": "Apple Shampoo",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 171933
+        },
+        {
+          "title": "Emo",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 170600
+        },
+        {
+          "title": "Josie",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 200000
+        },
+        {
+          "title": "A New Hope",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 225226
+        },
+        {
+          "title": "Degenerate",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 148000
+        },
+        {
+          "title": "Lemmings",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 157533
+        },
+        {
+          "title": "I’m Sorry",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 338000
+        }
+      ]
+    },
+    {
+      "mbid": "cd367c59-eb86-384b-bbc7-62f6d2d677b9",
+      "releaseMbid": "07045f16-2e83-4fc2-a21a-d9bfaded00c2",
+      "title": "Enema of the State",
+      "type": "ALBUM",
+      "releaseDate": "1999-06-01",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Dumpweed",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 143866
+        },
+        {
+          "title": "Don’t Leave Me",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 143560
+        },
+        {
+          "title": "Aliens Exist",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 192973
+        },
+        {
+          "title": "Going Away to College",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 179160
+        },
+        {
+          "title": "What’s My Age Again?",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 148573
+        },
+        {
+          "title": "Dysentery Gary",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 165200
+        },
+        {
+          "title": "Adam’s Song",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 249800
+        },
+        {
+          "title": "All the Small Things",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 168000
+        },
+        {
+          "title": "The Party Song",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 139200
+        },
+        {
+          "title": "Mutt",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 203800
+        },
+        {
+          "title": "Wendy Clear",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 170200
+        },
+        {
+          "title": "Anthem",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 219600
+        }
+      ]
+    },
+    {
+      "mbid": "916dacf4-041d-382f-bdd6-e8bd24c8b83e",
+      "releaseMbid": "508e0a1d-963c-4afb-b0fe-34b1ef951f3e",
+      "title": "The Mark, Tom, and Travis Show (The Enema Strikes Back!)",
+      "type": "LIVE",
+      "releaseDate": "2000-11-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/916dacf4-041d-382f-bdd6-e8bd24c8b83e/front-1200",
+      "tracks": [
+        {
+          "title": "Dumpweed",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 175866
+        },
+        {
+          "title": "Don’t Leave Me",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 160026
+        },
+        {
+          "title": "Aliens Exist",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 225626
+        },
+        {
+          "title": "Family Reunion",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 53333
+        },
+        {
+          "title": "Going Away to College",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 222573
+        },
+        {
+          "title": "What’s My Age Again?",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 200240
+        },
+        {
+          "title": "Dick Lips",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 217760
+        },
+        {
+          "title": "Blow Job",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 42866
+        },
+        {
+          "title": "Untitled",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 189240
+        },
+        {
+          "title": "Voyeur",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 210733
+        },
+        {
+          "title": "Pathetic",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 173080
+        },
+        {
+          "title": "Adam’s Song",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 277480
+        },
+        {
+          "title": "Peggy Sue",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 229960
+        },
+        {
+          "title": "Wendy Clear",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 251786
+        },
+        {
+          "title": "Carousel",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 220600
+        },
+        {
+          "title": "All the Small Things",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 217666
+        },
+        {
+          "title": "Mutt",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 221973
+        },
+        {
+          "title": "The Country Song",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 62226
+        },
+        {
+          "title": "Dammit",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 187946
+        },
+        {
+          "title": "Man Overboard",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 166813
+        }
+      ]
+    },
+    {
+      "mbid": "e9acecde-4ae1-3430-baf7-eae53cb9d75f",
+      "releaseMbid": "20dd10b3-c08f-4607-bdaf-570b1de03d49",
+      "title": "Take Off Your Pants and Jacket",
+      "type": "ALBUM",
+      "releaseDate": "2001-06-11",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/e9acecde-4ae1-3430-baf7-eae53cb9d75f/front-1200",
+      "tracks": [
+        {
+          "title": "Anthem, Part Two",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 227000
+        },
+        {
+          "title": "Online Songs",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 146000
+        },
+        {
+          "title": "First Date",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 172000
+        },
+        {
+          "title": "Happy Holidays, You Bastard",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 42000
+        },
+        {
+          "title": "Story of a Lonely Guy",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 220000
+        },
+        {
+          "title": "The Rock Show",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 171000
+        },
+        {
+          "title": "Stay Together for the Kids",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 239000
+        },
+        {
+          "title": "Roller Coaster",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 168000
+        },
+        {
+          "title": "Reckless Abandon",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 186000
+        },
+        {
+          "title": "Everytime I Look for You",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 186000
+        },
+        {
+          "title": "Give Me One Good Reason",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 199000
+        },
+        {
+          "title": "Shut Up",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 200000
+        },
+        {
+          "title": "Please Take Me Home",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 185000
+        }
+      ]
+    },
+    {
+      "mbid": "04e0cb66-e8ee-38b9-863d-b4f21dee887d",
+      "releaseMbid": "78525146-6461-4684-8a2d-30bb7631c503",
+      "title": "Blink-182",
+      "type": "ALBUM",
+      "releaseDate": "2003-11-15",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Feeling This",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 172613
+        },
+        {
+          "title": "Obvious",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 163506
+        },
+        {
+          "title": "I Miss You",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 227253
+        },
+        {
+          "title": "Violence",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 320040
+        },
+        {
+          "title": "Stockholm Syndrome",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 161133
+        },
+        {
+          "title": "Down",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 183866
+        },
+        {
+          "title": "The Fallen Interlude",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 132346
+        },
+        {
+          "title": "Go",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 113226
+        },
+        {
+          "title": "Asthenia",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 259760
+        },
+        {
+          "title": "Always",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 251866
+        },
+        {
+          "title": "Easy Target",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 140573
+        },
+        {
+          "title": "All of This",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 280026
+        },
+        {
+          "title": "Here’s Your Letter",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 174666
+        },
+        {
+          "title": "I’m Lost Without You",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 381360
+        },
+        {
+          "title": "Anthem, Part Two (live in Chicago)",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 224693
+        }
+      ]
+    },
+    {
+      "mbid": "d40233d7-f8af-3daa-9c29-a96bac9b2a7c",
+      "releaseMbid": "eba2c1a2-e922-4417-a3d7-70784820206e",
+      "title": "Greatest Hits",
+      "type": "COMPILATION",
+      "releaseDate": "2005-10-28",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Carousel",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 191666
+        },
+        {
+          "title": "M+M’s",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 155786
+        },
+        {
+          "title": "Dammit",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 166266
+        },
+        {
+          "title": "Josie",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 185640
+        },
+        {
+          "title": "What’s My Age Again?",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 149466
+        },
+        {
+          "title": "All the Small Things",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 171066
+        },
+        {
+          "title": "Adam’s Song",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 247226
+        },
+        {
+          "title": "Man Overboard",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 166693
+        },
+        {
+          "title": "The Rock Show",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 171133
+        },
+        {
+          "title": "First Date",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 171280
+        },
+        {
+          "title": "Stay Together for the Kids",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 232720
+        },
+        {
+          "title": "Feeling This",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 173946
+        },
+        {
+          "title": "I Miss You",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 227813
+        },
+        {
+          "title": "Down",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 193013
+        },
+        {
+          "title": "Always",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 257613
+        },
+        {
+          "title": "Not Now",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 263573
+        },
+        {
+          "title": "Another Girl Another Planet",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 162333
+        },
+        {
+          "title": "I Won’t Be Home for Christmas",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 199466
+        },
+        {
+          "title": "Go (BBC Radio 1 session)",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 112000
+        },
+        {
+          "title": "Don’t Tell Me It’s Over",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 154000
+        },
+        {
+          "title": "I Miss You (live in Minneapolis)",
+          "discNumber": 1,
+          "position": 21,
+          "durationMs": 239000
+        }
+      ]
+    },
+    {
+      "mbid": "efb9eedc-b036-4fbe-a436-281342259800",
+      "releaseMbid": "b35047a5-3299-4d34-be14-92f9f9cecdb6",
+      "title": "Neighborhoods",
+      "type": "ALBUM",
+      "releaseDate": "2011-09-23",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/efb9eedc-b036-4fbe-a436-281342259800/front-1200",
+      "tracks": [
+        {
+          "title": "Ghost on the Dance Floor",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 257653
+        },
+        {
+          "title": "Natives",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 235173
+        },
+        {
+          "title": "Up All Night",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 200013
+        },
+        {
+          "title": "After Midnight",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 205773
+        },
+        {
+          "title": "Heart’s All Gone",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 195960
+        },
+        {
+          "title": "Wishing Well",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 200213
+        },
+        {
+          "title": "Kaleidoscope",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 232560
+        },
+        {
+          "title": "This Is Home",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 166693
+        },
+        {
+          "title": "MH 4.18.2011",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 207160
+        },
+        {
+          "title": "Love Is Dangerous",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 267560
+        }
+      ]
+    },
+    {
+      "mbid": "edbe47dd-afe4-4285-b9f6-eefc07c00b36",
+      "releaseMbid": "094370d2-ed60-46e2-a9f7-c0838edbd0e3",
+      "title": "Dogs Eating Dogs",
+      "type": "EP",
+      "releaseDate": "2012-12-18",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/edbe47dd-afe4-4285-b9f6-eefc07c00b36/front-1200",
+      "tracks": [
+        {
+          "title": "When I Was Young",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 208000
+        },
+        {
+          "title": "Dogs Eating Dogs",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 210000
+        },
+        {
+          "title": "Disaster",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 222000
+        },
+        {
+          "title": "Boxing Day",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 239000
+        },
+        {
+          "title": "Pretty Little Girl",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 260000
+        }
+      ]
+    },
+    {
+      "mbid": "986ceaa4-3a6e-4ec8-acb9-79d3110fc94b",
+      "releaseMbid": "7ec72aec-a2b2-4f46-8be6-0c03ced706b1",
+      "title": "California",
+      "type": "ALBUM",
+      "releaseDate": "2016-07-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/986ceaa4-3a6e-4ec8-acb9-79d3110fc94b/front-1200",
+      "tracks": [
+        {
+          "title": "Cynical",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 115520
+        },
+        {
+          "title": "Bored to Death",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 235613
+        },
+        {
+          "title": "She’s Out of Her Mind",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 162720
+        },
+        {
+          "title": "Los Angeles",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 183266
+        },
+        {
+          "title": "Sober",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 179613
+        },
+        {
+          "title": "Built This Pool",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 16666
+        },
+        {
+          "title": "No Future",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 225813
+        },
+        {
+          "title": "Home Is Such a Lonely Place",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 201480
+        },
+        {
+          "title": "Kings of the Weekend",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 176426
+        },
+        {
+          "title": "Teenage Satellites",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 191573
+        },
+        {
+          "title": "Left Alone",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 189746
+        },
+        {
+          "title": "Rabbit Hole",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 155773
+        },
+        {
+          "title": "San Diego",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 192946
+        },
+        {
+          "title": "The Only Thing That Matters",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 117640
+        },
+        {
+          "title": "California",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 190400
+        },
+        {
+          "title": "Brohemian Rhapsody",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 30213
+        }
+      ]
+    },
+    {
+      "mbid": "5eae653a-fb0d-4b3f-8ced-875ad83b6371",
+      "releaseMbid": "2dfb7afa-18da-4e92-9f85-3e277806a4e2",
+      "title": "Nine",
+      "type": "ALBUM",
+      "releaseDate": "2019-09-20",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/5eae653a-fb0d-4b3f-8ced-875ad83b6371/front-1200",
+      "tracks": [
+        {
+          "title": "The First Time",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 146933
+        },
+        {
+          "title": "Happy Days",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 179000
+        },
+        {
+          "title": "Heaven",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 197373
+        },
+        {
+          "title": "Darkside",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 180960
+        },
+        {
+          "title": "Blame It on My Youth",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 185986
+        },
+        {
+          "title": "Generational Divide",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 49146
+        },
+        {
+          "title": "Run Away",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 147746
+        },
+        {
+          "title": "Black Rain",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 166320
+        },
+        {
+          "title": "I Really Wish I Hated You",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 191066
+        },
+        {
+          "title": "Pin the Grenade",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 179440
+        },
+        {
+          "title": "No Heart to Speak Of",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 220293
+        },
+        {
+          "title": "Ransom",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 85120
+        },
+        {
+          "title": "On Some Emo Shit",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 189693
+        },
+        {
+          "title": "Hungover You",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 178546
+        },
+        {
+          "title": "Remember to Forget Me",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 209813
+        }
+      ]
+    },
+    {
+      "mbid": "520d6d45-19c8-4ee1-a954-180e7902f3da",
+      "releaseMbid": "8e8affb7-4a80-416c-83c7-12a44015de1f",
+      "title": "One More Time...",
+      "type": "ALBUM",
+      "releaseDate": "2023-10-20",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/520d6d45-19c8-4ee1-a954-180e7902f3da/front-1200",
+      "tracks": [
+        {
+          "title": "ANTHEM PART 3",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 213186
+        },
+        {
+          "title": "DANCE WITH ME",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 188160
+        },
+        {
+          "title": "FELL IN LOVE",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 138453
+        },
+        {
+          "title": "TERRIFIED",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 168133
+        },
+        {
+          "title": "ONE MORE TIME",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 208106
+        },
+        {
+          "title": "MORE THAN YOU KNOW",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 217200
+        },
+        {
+          "title": "TURN THIS OFF!",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 23600
+        },
+        {
+          "title": "WHEN WE WERE YOUNG",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 160413
+        },
+        {
+          "title": "EDGING",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 149480
+        },
+        {
+          "title": "YOU DON’T KNOW WHAT YOU’VE GOT",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 198680
+        },
+        {
+          "title": "BLINK WAVE",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 188226
+        },
+        {
+          "title": "BAD NEWS",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 139680
+        },
+        {
+          "title": "HURT (INTERLUDE)",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 81613
+        },
+        {
+          "title": "TURPENTINE",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 185426
+        },
+        {
+          "title": "FUCK FACE",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 27480
+        },
+        {
+          "title": "OTHER SIDE",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 130360
+        },
+        {
+          "title": "CHILDHOOD",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 257826
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

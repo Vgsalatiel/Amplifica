@@ -1,0 +1,1418 @@
+{
+  "generatedAt": "2026-11-13T13:43:42.442Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "29b550f2-04a3-4733-b6f5-4e347fac7e11",
+    "name": "Charlie Brown Jr.",
+    "slug": "charlie-brown-jr",
+    "type": "BAND",
+    "country": "BR",
+    "city": "Santos",
+    "formedYear": 1992,
+    "disbandedYear": 2013,
+    "bio": "O Charlie Brown Jr. se formou em Santos, São Paulo, em 1992. A formação original tinha Chorão nos vocais, Champignon no baixo, Marcão Britto e Thiago Castanho nas guitarras e Renato Pelado na bateria. O nome veio depois, em referência ao personagem Charlie Brown. O disco de estreia, Transpiração Contínua Prolongada, saiu em 1997, pela Virgin Records.\n\nVieram Preço Curto... Prazo Longo (1999), Nadando com os Tubarões (2000), 100% Charlie Brown Jr. - Abalando a Sua Fábrica (2001), Bocas Ordinárias (2002), Tamo Aí na Atividade (2004), Imunidade Musical (2005), Ritmo, Ritual e Responsa (2007) e Camisa 10 Joga Bola Até na Chuva (2009). O som mistura skate punk, hardcore melódico e rock alternativo com rap, funk e reggae.\n\nChorão foi encontrado morto em seu apartamento, em São Paulo, em 6 de março de 2013, aos 42 anos. Os integrantes que restaram passaram a tocar como A Banca, com Champignon nos vocais. Champignon morreu em 9 de setembro de 2013, e a banda encerrou as atividades nesse mesmo ano. O álbum póstumo La Familia 013 saiu em 2013.\n\nSegundo um levantamento do Deezer em 2015, citado pela Wikipédia, o Charlie Brown Jr. era a segunda banda de rock brasileira mais ouvida no exterior, atrás apenas do Sepultura.",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/29b550f2-04a3-4733-b6f5-4e347fac7e11"
+      },
+      {
+        "name": "Wikipédia em português: Charlie Brown Jr.",
+        "url": "https://pt.wikipedia.org/wiki/Charlie_Brown_Jr."
+      }
+    ],
+    "genres": [
+      "rock-nacional",
+      "punk-rock"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "b6fb9b8b-4525-310b-a916-57e6b14747fc",
+      "releaseMbid": "e9bdf2fc-fd7f-4ce1-aa04-10112f26c594",
+      "title": "Transpiração Contínua Prolongada",
+      "type": "ALBUM",
+      "releaseDate": "1997",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b6fb9b8b-4525-310b-a916-57e6b14747fc/front-1200",
+      "tracks": [
+        {
+          "title": "Tributo ao frango da Malásia (intro)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 25533
+        },
+        {
+          "title": "O coro vai comê!",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 141133
+        },
+        {
+          "title": "Tudo que ela gosta de escutar",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 176066
+        },
+        {
+          "title": "Sheik",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 171333
+        },
+        {
+          "title": "Hei ! Arreia... (vinheta)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 26533
+        },
+        {
+          "title": "Gimme o anel",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 170000
+        },
+        {
+          "title": "Molengol's groove (vinheta)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 53000
+        },
+        {
+          "title": "Aquela paz",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 182200
+        },
+        {
+          "title": "Quinta-feira",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 290200
+        },
+        {
+          "title": "Proibida pra mim (Grazon)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 167933
+        },
+        {
+          "title": "Lombra",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 191626
+        },
+        {
+          "title": "Corra vagabundo",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 215466
+        },
+        {
+          "title": "Falar, falar...",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 167306
+        },
+        {
+          "title": "Festa",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 171693
+        },
+        {
+          "title": "Escalas tropicais",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 128573
+        },
+        {
+          "title": "Charlie Brown Jr.",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 192000
+        }
+      ]
+    },
+    {
+      "mbid": "2f3601f0-ba05-3e73-8825-65e0ffa9aaa8",
+      "releaseMbid": "5492c6d0-f588-4d9a-b759-bc373e861ee2",
+      "title": "Preço Curto, Prazo Longo",
+      "type": "ALBUM",
+      "releaseDate": "1999-03-09",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/2f3601f0-ba05-3e73-8825-65e0ffa9aaa8/front-1200",
+      "tracks": [
+        {
+          "title": "Confisco",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 178866
+        },
+        {
+          "title": "Zóio d lula",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 252226
+        },
+        {
+          "title": "Resolve meu problema aí",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 179506
+        },
+        {
+          "title": "Te levar",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 184866
+        },
+        {
+          "title": "O que é da casa é da casa",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 61026
+        },
+        {
+          "title": "O preço",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 210666
+        },
+        {
+          "title": "Não deixe o mar te engolir",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 309440
+        },
+        {
+          "title": "Hoje de noite",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 160960
+        },
+        {
+          "title": "Bons aliados",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 144773
+        },
+        {
+          "title": "Puxa carro",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 173560
+        },
+        {
+          "title": "União",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 179640
+        },
+        {
+          "title": "Aquele velho carteado e algumas manobrinhas",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 155333
+        },
+        {
+          "title": "333",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 148133
+        },
+        {
+          "title": "Mantenha a dúvida",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 184026
+        },
+        {
+          "title": "Do surf",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 115333
+        },
+        {
+          "title": "História mal escrita",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 242600
+        },
+        {
+          "title": "Chicano (Skate nos cano)",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 84173
+        },
+        {
+          "title": "A grande volta",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 139200
+        },
+        {
+          "title": "Cruzei uma doida",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 105626
+        },
+        {
+          "title": "12+1",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 181000
+        },
+        {
+          "title": "Cidade grande",
+          "discNumber": 1,
+          "position": 21,
+          "durationMs": 195000
+        },
+        {
+          "title": "Local",
+          "discNumber": 1,
+          "position": 22,
+          "durationMs": 131000
+        },
+        {
+          "title": "Muito antes que você",
+          "discNumber": 1,
+          "position": 23,
+          "durationMs": 148466
+        },
+        {
+          "title": "Depois de uma bela Session (Um belo sofá, cerveja, pizza e um videozinho de SKT)",
+          "discNumber": 1,
+          "position": 24,
+          "durationMs": 67866
+        },
+        {
+          "title": "Deu entrada prá subir!",
+          "discNumber": 1,
+          "position": 25,
+          "durationMs": 186707
+        }
+      ]
+    },
+    {
+      "mbid": "15ebb4a6-beec-397c-bb72-ee0787ef7b91",
+      "releaseMbid": "8d6b053e-b8c9-4f0f-82c4-5777471269bc",
+      "title": "Nadando com os Tubarões",
+      "type": "ALBUM",
+      "releaseDate": "2000-04-25",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/15ebb4a6-beec-397c-bb72-ee0787ef7b91/front-1200",
+      "tracks": [
+        {
+          "title": "Rubão",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 134800
+        },
+        {
+          "title": "Ralé",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 195666
+        },
+        {
+          "title": "Não é sério",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 291466
+        },
+        {
+          "title": "O penetra",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 193333
+        },
+        {
+          "title": "A banca",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 353733
+        },
+        {
+          "title": "Tudo mudar",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 134026
+        },
+        {
+          "title": "Fichado",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 189306
+        },
+        {
+          "title": "Ouviu-se falar",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 192066
+        },
+        {
+          "title": "Amor pelas ruas",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 117693
+        },
+        {
+          "title": "Essa é por quem ficou pra trás",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 217040
+        },
+        {
+          "title": "Transar no escuro",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 183160
+        },
+        {
+          "title": "Fundão",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 117866
+        },
+        {
+          "title": "Somos extremes no esporte e na música",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 270800
+        },
+        {
+          "title": "Talvez a metade do caminho",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 182973
+        },
+        {
+          "title": "Pra mais tarde fazermos a cabeça",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 180960
+        },
+        {
+          "title": "No desafio, Ibiraboys / A união prevalece",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 230440
+        },
+        {
+          "title": "Trocando uma idéia com Deus",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 181426
+        }
+      ]
+    },
+    {
+      "mbid": "2aec7479-81fc-365a-a273-e5764783cfc4",
+      "releaseMbid": "16254d4b-4f1f-46d8-9f70-78e44abdda24",
+      "title": "100% Charlie Brown Jr. - Abalando a Sua Fábrica",
+      "type": "ALBUM",
+      "releaseDate": "2001",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/2aec7479-81fc-365a-a273-e5764783cfc4/front-1200",
+      "tracks": [
+        {
+          "title": "Eu protesto",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 266000
+        },
+        {
+          "title": "Hoje eu acordei feliz",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 138000
+        },
+        {
+          "title": "Sino dourado",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 161000
+        },
+        {
+          "title": "Quebra-mar",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 177000
+        },
+        {
+          "title": "Lugar ao Sol",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 213000
+        },
+        {
+          "title": "Descubra o que há de errado com você",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 99000
+        },
+        {
+          "title": "Só lazer",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 178000
+        },
+        {
+          "title": "Você vai de limusine, eu vou de trem",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 178000
+        },
+        {
+          "title": "O lado certo da vida errada",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 110000
+        },
+        {
+          "title": "T.F.D.P.",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 172000
+        },
+        {
+          "title": "Tudo pro alto",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 203000
+        },
+        {
+          "title": "Como tudo deve ser",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 273000
+        }
+      ]
+    },
+    {
+      "mbid": "cae3de6c-3965-3c7c-be6b-a2dc61879893",
+      "releaseMbid": "484a2a59-4b01-444a-b0f6-15d902c4d4fb",
+      "title": "Bocas Ordinárias",
+      "type": "ALBUM",
+      "releaseDate": "2002",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/cae3de6c-3965-3c7c-be6b-a2dc61879893/front-1200",
+      "tracks": [
+        {
+          "title": "Papo reto (Prazer é sexo, o resto é negócio)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 208000
+        },
+        {
+          "title": "Hoje eu só procuro a minha paz",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 252093
+        },
+        {
+          "title": "Baader-Meinhof Blues",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 173106
+        },
+        {
+          "title": "Só por uma noite",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 203600
+        },
+        {
+          "title": "My Mini Ramp",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 132493
+        },
+        {
+          "title": "Bocas ordinárias, guerrilha",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 256706
+        },
+        {
+          "title": "Não fure os olhos da verdade",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 167560
+        },
+        {
+          "title": "Sou quem eu sou (O que é seu também é meu e o que é meu não é nosso)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 199906
+        },
+        {
+          "title": "Com minha loucura faço meu dinheiro, com meu dinheiro faço minhas loucuras",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 148493
+        },
+        {
+          "title": "Somos poucos mas somos loucos",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 330933
+        },
+        {
+          "title": "Com a boca amargando",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 304173
+        },
+        {
+          "title": "Tarja preta",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 167934
+        }
+      ]
+    },
+    {
+      "mbid": "152867f9-7b28-37da-8ba8-975cb1c7c9f0",
+      "releaseMbid": "edd92fb4-69a4-456b-8288-8e8c49909c5f",
+      "title": "Acústico MTV",
+      "type": "LIVE",
+      "releaseDate": "2003-09-20",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Quebra-mar",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 115893
+        },
+        {
+          "title": "O que é da casa é da casa / Papo reto (Prazer é sexo o resto é negócio)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 274000
+        },
+        {
+          "title": "Zóio de lula",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 226973
+        },
+        {
+          "title": "Vícios e virtudes",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 191933
+        },
+        {
+          "title": "Hoje",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 264533
+        },
+        {
+          "title": "O preço",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 195933
+        },
+        {
+          "title": "Tudo pro alto",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 186093
+        },
+        {
+          "title": "Não uso sapato",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 174800
+        },
+        {
+          "title": "O coro vai comê!",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 130106
+        },
+        {
+          "title": "Tudo o que ela gosta de escutar",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 192960
+        },
+        {
+          "title": "Não é sério",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 322333
+        },
+        {
+          "title": "Vinheta Beat Box II / Como tudo deve ser",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 284333
+        },
+        {
+          "title": "A Banca (Ratatá é bicho solto)",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 242200
+        },
+        {
+          "title": "Samba makossa",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 248106
+        },
+        {
+          "title": "Quinta-feira",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 319160
+        },
+        {
+          "title": "Só por uma noite",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 192400
+        },
+        {
+          "title": "Oba, lá vem ela",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 168840
+        },
+        {
+          "title": "Tudo mudar",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 142200
+        },
+        {
+          "title": "Proibida pra mim (Grazon)",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 153666
+        },
+        {
+          "title": "Charlie Brown Jr",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 229534
+        }
+      ]
+    },
+    {
+      "mbid": "b0f2ea17-7b59-3929-b516-58d157513146",
+      "releaseMbid": "f5bb21bc-d107-44ad-be0b-964564eeccdd",
+      "title": "Tamo Aí na Atividade",
+      "type": "ALBUM",
+      "releaseDate": "2004",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Malabarizando (Quem é de fé continua com a gente)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 100400
+        },
+        {
+          "title": "Champanhe e água benta",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 151293
+        },
+        {
+          "title": "Tâmo aí na atividade",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 219573
+        },
+        {
+          "title": "Eu vim de Santos, sou Charlie Brown",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 246333
+        },
+        {
+          "title": "So Far Away",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 141693
+        },
+        {
+          "title": "Longe de você",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 202600
+        },
+        {
+          "title": "Di-SK8 eu vim",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 78373
+        },
+        {
+          "title": "Di-SK8 eu vou",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 201400
+        },
+        {
+          "title": "Vivendo nesse absurdo",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 273160
+        },
+        {
+          "title": "Todos iguais",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 243240
+        },
+        {
+          "title": "Cheirando cola",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 94000
+        },
+        {
+          "title": "O errado que deu certo",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 170600
+        },
+        {
+          "title": "Malokero SK8 board",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 129800
+        },
+        {
+          "title": "Indicados para o Prêmio Nobel da Paz",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 126093
+        },
+        {
+          "title": "O lixo e o luxo",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 315906
+        }
+      ]
+    },
+    {
+      "mbid": "42ae98b8-4681-3b14-8003-6e1463a54cae",
+      "releaseMbid": "bc4ca570-40e3-4f80-9503-13f60b758bc5",
+      "title": "Imunidade Musical",
+      "type": "ALBUM",
+      "releaseDate": "2005-12-21",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Too Fast to Live Too Young to Die",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 39266
+        },
+        {
+          "title": "No passo a passo",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 147600
+        },
+        {
+          "title": "Lutar pelo que é meu",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 201000
+        },
+        {
+          "title": "É quente",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 179200
+        },
+        {
+          "title": "Onde não existe a paz não existe o amor",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 247733
+        },
+        {
+          "title": "Ela vai voltar (Todos os defeitos de uma mulher perfeita)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 188200
+        },
+        {
+          "title": "O mundo explodiu lá fora",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 180466
+        },
+        {
+          "title": "Senhor do tempo",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 202826
+        },
+        {
+          "title": "Liberdade acima de tudo",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 187600
+        },
+        {
+          "title": "Pra não dizer que não falei das flores",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 327506
+        },
+        {
+          "title": "Abrir seus olhos",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 118133
+        },
+        {
+          "title": "Green Goes",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 279800
+        },
+        {
+          "title": "I Feel So Good Today",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 248800
+        },
+        {
+          "title": "Peso da batida do errado que deu certo",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 127000
+        },
+        {
+          "title": "Aquela paz",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 176960
+        },
+        {
+          "title": "Cada cabeça falante tem sua tromba de elefante",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 269333
+        },
+        {
+          "title": "Onde está o mundo bom? (Living in L.A.)",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 143800
+        },
+        {
+          "title": "O nosso Blues",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 328240
+        },
+        {
+          "title": "O futuro é um labirinto pra quem não sabe o que quer",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 179360
+        },
+        {
+          "title": "Na palma da mão / O ragga da Baixada",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 320533
+        },
+        {
+          "title": "Skate Vibration",
+          "discNumber": 1,
+          "position": 21,
+          "durationMs": 123933
+        },
+        {
+          "title": "Criando anticorpos",
+          "discNumber": 1,
+          "position": 22,
+          "durationMs": 53640
+        },
+        {
+          "title": "Dias de luta, dias de glória",
+          "discNumber": 1,
+          "position": 23,
+          "durationMs": 145466
+        }
+      ]
+    },
+    {
+      "mbid": "b463f5cb-87c4-3936-a149-fb293f8c17d3",
+      "releaseMbid": "855ddbf1-f8f8-4801-b3ec-486768aba72f",
+      "title": "Ritmo, Ritual e Responsa",
+      "type": "ALBUM",
+      "releaseDate": "2007-11-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b463f5cb-87c4-3936-a149-fb293f8c17d3/front-1200",
+      "tracks": [
+        {
+          "title": "Pontes indestrutíveis",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 212000
+        },
+        {
+          "title": "O que ela gosta é de barriga",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 111000
+        },
+        {
+          "title": "Não viva em vão",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 234000
+        },
+        {
+          "title": "Ritmo, ritual e responsa",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 225000
+        },
+        {
+          "title": "Be Myself",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 273000
+        },
+        {
+          "title": "Uma criança com seu olhar",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 253000
+        },
+        {
+          "title": "Liberdade é tudo (instrumental)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 103000
+        },
+        {
+          "title": "O universo a nosso favor",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 262000
+        },
+        {
+          "title": "Ninguém entende você",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 189000
+        },
+        {
+          "title": "Quando tudo aconteceu (instrumental)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 135000
+        },
+        {
+          "title": "Beco sem saída",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 197000
+        },
+        {
+          "title": "Sem medo da escuridão",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 344000
+        },
+        {
+          "title": "Nua, linda e inigualável",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 190000
+        },
+        {
+          "title": "Vida de magnata",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 164000
+        },
+        {
+          "title": "Que espécie de vermes são vocês?",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 123000
+        },
+        {
+          "title": "Buscando um novo rumo (instrumental)",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 161000
+        },
+        {
+          "title": "Vivendo a vida numa louca viagem",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 320000
+        },
+        {
+          "title": "Curva de Hill",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 96000
+        },
+        {
+          "title": "Direto e reto sempre",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 166000
+        },
+        {
+          "title": "Skateboard amor eterno",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 234000
+        },
+        {
+          "title": "Café Fundation (instrumental)",
+          "discNumber": 1,
+          "position": 21,
+          "durationMs": 83000
+        },
+        {
+          "title": "Paranormal",
+          "discNumber": 1,
+          "position": 22,
+          "durationMs": 492000
+        },
+        {
+          "title": "Senhor do Tempo",
+          "discNumber": 1,
+          "position": 23,
+          "durationMs": 227000
+        }
+      ]
+    },
+    {
+      "mbid": "71a3e0b4-27c6-40ca-b5ac-ba50e9640d96",
+      "releaseMbid": "8d264046-d738-4707-90e5-0350ed2de95a",
+      "title": "Camisa 10 Joga Bola Até na Chuva",
+      "type": "ALBUM",
+      "releaseDate": "2009-09-25",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Dona do meu pensamento",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 240000
+        },
+        {
+          "title": "Me encontra",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 211000
+        },
+        {
+          "title": "Só os loucos sabem",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 211000
+        },
+        {
+          "title": "Inabalavelmente",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 265000
+        },
+        {
+          "title": "Só existe o agora",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 268000
+        },
+        {
+          "title": "Só pra vadiar",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 245000
+        },
+        {
+          "title": "Puro sangue",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 248000
+        },
+        {
+          "title": "O dom, a inteligência e a voz",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 189000
+        },
+        {
+          "title": "Os cortes",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 263000
+        },
+        {
+          "title": "Uma só vida pra viver, tenho sede nela eu vou",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 302000
+        },
+        {
+          "title": "Viver dias de Sol",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 259000
+        },
+        {
+          "title": "Comigo ninguém tira onda",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 179000
+        },
+        {
+          "title": "Camisa 10 joga bola até na chuva (Bomba sônica)",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 190000
+        }
+      ]
+    },
+    {
+      "mbid": "b821889d-e945-4fcf-8c8a-2f57d1c71f7c",
+      "releaseMbid": "e563292f-5a19-4cf4-87ca-a6820f9dc96e",
+      "title": "La Familia 013",
+      "type": "ALBUM",
+      "releaseDate": "2013-10-08",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Um dia a gente se encontra",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Fina arte",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Cheia de vida",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Meu novo mundo",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Do jeito que eu gosto, do jeito que eu quero",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Rock Star",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Vem ser minha",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Hoje sou eu que não mais te quero",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "Camisa preta",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Vou me embriagar de você",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": null
+        },
+        {
+          "title": "A mais linda do bar",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": null
+        },
+        {
+          "title": "Samba triste",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": null
+        },
+        {
+          "title": "Contrastes da vida",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "52b8dd16-e776-4e6b-a329-c7ffe766ea2c",
+      "releaseMbid": "dd17aafa-a554-4e9a-b719-172a4811af0c",
+      "title": "Chorão: Marginal Alado",
+      "type": "ALBUM",
+      "releaseDate": "2021-04-08",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/52b8dd16-e776-4e6b-a329-c7ffe766ea2c/front-1200",
+      "tracks": [
+        {
+          "title": "Não Deixe O Mar Te Engolir",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 309440
+        },
+        {
+          "title": "O Coro Vai Come (Ao Vivo)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 128106
+        },
+        {
+          "title": "Rubão, O Dono Do Mundo",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 136800
+        },
+        {
+          "title": "Gimme O Anel",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 170000
+        },
+        {
+          "title": "Tudo Que Ela Gosta De Escutar",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 175906
+        },
+        {
+          "title": "Zóio De Lula",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 252813
+        },
+        {
+          "title": "O Que É Da Casa, É Da Casa / Papo Reto (Prazer É Sexo O Resto É Negocio) (Ao Vivo)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 272000
+        },
+        {
+          "title": "Papo Reto (Prazer É Sexo O Resto É Negócio)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 208400
+        },
+        {
+          "title": "Vícios E Virtudes (Ao Vivo)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 189933
+        },
+        {
+          "title": "O Preço",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 210666
+        },
+        {
+          "title": "Champanhe E Água Benta",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 151293
+        },
+        {
+          "title": "Lixo E O Luxo",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 163906
+        },
+        {
+          "title": "Vida De Magnata",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 164453
+        },
+        {
+          "title": "O Futuro É Um Labirinto Pra Quem Não Sabe O Que Quer",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 179360
+        },
+        {
+          "title": "Proibida Pra Mim (Grazon) (Ao Vivo)",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 263366
+        },
+        {
+          "title": "É Quente",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 179200
+        },
+        {
+          "title": "Liberdade Acima De Tudo",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 187600
+        },
+        {
+          "title": "Com A Boca Amargando",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 304226
+        },
+        {
+          "title": "Senhor Do Tempo",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 203120
+        },
+        {
+          "title": "Lugar Ao Sol",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 212600
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

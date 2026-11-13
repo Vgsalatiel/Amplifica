@@ -1,0 +1,2129 @@
+{
+  "generatedAt": "2026-11-13T14:01:55.592Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "c1a669b9-30f4-4171-a2a9-a15d9461ca04",
+    "name": "Titãs",
+    "slug": "titas",
+    "type": "BAND",
+    "country": "BR",
+    "city": "São Paulo",
+    "formedYear": 1982,
+    "disbandedYear": null,
+    "bio": "Os Titãs se formaram em São Paulo, em 1982, com o nome Titãs do Iê-Iê, e chegaram a ter nove integrantes. Os primeiros shows foram em outubro de 1982, no Sesc Pompeia. Ciro Pessoa saiu em 1984, antes do primeiro disco, e em 1985 Charles Gavin entrou no lugar de André Jung, formando a escalação que ficou conhecida como clássica. O som começou no pós-punk, no punk rock e na new wave, e depois incorporou grunge, MPB e música eletrônica.\n\nOs álbuns de estúdio começam com Titãs (1984) e Televisão (1985), passam por Cabeça Dinossauro (1986), Jesus Não Tem Dentes no País dos Banguelas (1987) e Õ Blésq Blom (1989), e seguem com Tudo ao Mesmo Tempo Agora (1991), Titanomaquia (1993), Domingo (1995), Volume Dois (1998), As Dez Mais (1999), A Melhor Banda de Todos os Tempos da Última Semana (2001), Como Estão Vocês? (2003), Sacos Plásticos (2009), Nheengatu (2014), Doze Flores Amarelas (2018), Titãs Trio Acústico (2021) e Olho Furta-cor (2022).\n\nEm 1997, o show Acústico MTV, gravado no Teatro João Caetano, no Rio de Janeiro, com instrumentos desplugados, virou um dos trabalhos de maior sucesso do grupo. Arnaldo Antunes saiu em dezembro de 1992 para seguir carreira solo. Marcelo Fromer morreu em 2001, dois dias depois de ser atropelado por uma moto em São Paulo. Nando Reis deixou a banda em 2002, Charles Gavin em 2010 e Paulo Miklos em 2016. Desde então, os integrantes oficiais são Branco Mello, Sérgio Britto e Tony Bellotto, com músicos de apoio.\n\nSegundo a Wikipédia, os Titãs venderam mais de 6,3 milhões de álbuns, ganharam um Grammy Latino em 2009, por Sacos Plásticos, e o Troféu Imprensa de Melhor Banda quatro vezes. A banda faz parte do chamado Quarteto Sagrado do rock brasileiro dos anos 1980, ao lado de Legião Urbana, Os Paralamas do Sucesso e Barão Vermelho.",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/c1a669b9-30f4-4171-a2a9-a15d9461ca04"
+      },
+      {
+        "name": "Wikipédia em português: Titãs",
+        "url": "https://pt.wikipedia.org/wiki/Tit%C3%A3s_(banda)"
+      }
+    ],
+    "genres": [
+      "rock-nacional"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "f48f0866-8741-397b-a01a-a035a3de76fb",
+      "releaseMbid": "e3b8288f-c433-4d3a-a93a-c8c5c20a7473",
+      "title": "Titãs",
+      "type": "ALBUM",
+      "releaseDate": "1984",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f48f0866-8741-397b-a01a-a035a3de76fb/front-1200",
+      "tracks": [
+        {
+          "title": "Sonífera ilha",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 176000
+        },
+        {
+          "title": "Marvin",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 255000
+        },
+        {
+          "title": "Babi índio",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 222000
+        },
+        {
+          "title": "Go Back",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 221000
+        },
+        {
+          "title": "Pule",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 143000
+        },
+        {
+          "title": "Querem meu sangue",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 191000
+        },
+        {
+          "title": "Mulher Robot",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 145000
+        },
+        {
+          "title": "Demais",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 171000
+        },
+        {
+          "title": "Toda cor",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 204000
+        },
+        {
+          "title": "Balada para John e Yoko",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 158000
+        },
+        {
+          "title": "Seu interesse",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 191000
+        }
+      ]
+    },
+    {
+      "mbid": "8caf9e06-45d0-3b45-bb80-97dc83bb9ba9",
+      "releaseMbid": "e86b6b5e-969a-44e7-94f9-2515642fd0fa",
+      "title": "Televisão",
+      "type": "ALBUM",
+      "releaseDate": "1985",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Televisão",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 223000
+        },
+        {
+          "title": "Insensível",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 263000
+        },
+        {
+          "title": "Pavimentação",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 142000
+        },
+        {
+          "title": "Dona Nenê",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 209000
+        },
+        {
+          "title": "Pra dizer adeus",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 297000
+        },
+        {
+          "title": "Não vou me adaptar",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 159000
+        },
+        {
+          "title": "Tudo vai passar",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 217000
+        },
+        {
+          "title": "Sonho com você",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 188000
+        },
+        {
+          "title": "O homem cinza",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 216000
+        },
+        {
+          "title": "Autonomia",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 175000
+        },
+        {
+          "title": "Massacre",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 100000
+        }
+      ]
+    },
+    {
+      "mbid": "0e5b26b2-24f4-356c-b6d6-1a6d63143f22",
+      "releaseMbid": "ffd89782-36ab-4ffe-b5d1-bc95bac8e658",
+      "title": "Cabeça Dinossauro",
+      "type": "ALBUM",
+      "releaseDate": "1986-06",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0e5b26b2-24f4-356c-b6d6-1a6d63143f22/front-1200",
+      "tracks": [
+        {
+          "title": "Cabeça dinossauro",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 140093
+        },
+        {
+          "title": "AA UU",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 183866
+        },
+        {
+          "title": "Igreja",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 168933
+        },
+        {
+          "title": "Polícia",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 128933
+        },
+        {
+          "title": "Estado violência",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 191466
+        },
+        {
+          "title": "A face do destruidor",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 38306
+        },
+        {
+          "title": "Porrada",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 172626
+        },
+        {
+          "title": "Tô cansado",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 140333
+        },
+        {
+          "title": "Bichos escrotos",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 195173
+        },
+        {
+          "title": "Família",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 213360
+        },
+        {
+          "title": "Homem primata",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 210306
+        },
+        {
+          "title": "Dívidas",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 189626
+        },
+        {
+          "title": "O quê",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 345974
+        }
+      ]
+    },
+    {
+      "mbid": "4a3189f1-60bb-3f3a-afe3-8afa0f12ceab",
+      "releaseMbid": "9a5f30ef-fa94-4e37-9927-a000d0d74ff6",
+      "title": "Jesus Não Tem Dentes no País dos Banguelas",
+      "type": "ALBUM",
+      "releaseDate": "1987",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4a3189f1-60bb-3f3a-afe3-8afa0f12ceab/front-1200",
+      "tracks": [
+        {
+          "title": "Todo mundo quer amor",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 78000
+        },
+        {
+          "title": "Comida",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 239000
+        },
+        {
+          "title": "O inimigo",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 133000
+        },
+        {
+          "title": "Corações e mentes",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 227000
+        },
+        {
+          "title": "Diversão",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 285000
+        },
+        {
+          "title": "Infelizmente",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 181000
+        },
+        {
+          "title": "Jesus não tem dentes no país dos banguelas",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 131000
+        },
+        {
+          "title": "Mentiras",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 129000
+        },
+        {
+          "title": "Desordem",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 241000
+        },
+        {
+          "title": "Lugar nenhum",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 176000
+        },
+        {
+          "title": "Armas pra lutar",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 130000
+        },
+        {
+          "title": "Nome aos bois",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 126000
+        },
+        {
+          "title": "Violência",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 168000
+        }
+      ]
+    },
+    {
+      "mbid": "14ed4b66-b779-358a-9d78-ec053b816169",
+      "releaseMbid": "74357f83-8ce4-41ef-bc94-6391192cb692",
+      "title": "Go Back",
+      "type": "LIVE",
+      "releaseDate": "1988",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/14ed4b66-b779-358a-9d78-ec053b816169/front-1200",
+      "tracks": [
+        {
+          "title": "Jesus não tem dentes no país dos banguelas",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 152333
+        },
+        {
+          "title": "Nome aos bois",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 107066
+        },
+        {
+          "title": "Bichos escrotos",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 198933
+        },
+        {
+          "title": "Pavimentação",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 213826
+        },
+        {
+          "title": "Diversão",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 303506
+        },
+        {
+          "title": "Marvin (Patches)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 261399
+        },
+        {
+          "title": "AA - UU",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 156133
+        },
+        {
+          "title": "Go Back",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 220493
+        },
+        {
+          "title": "Polícia",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 137000
+        },
+        {
+          "title": "Cabeça dinossauro",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 145600
+        },
+        {
+          "title": "Massacre",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 118466
+        },
+        {
+          "title": "Não vou me adaptar",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 200440
+        },
+        {
+          "title": "Lugar nenhum",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 254026
+        },
+        {
+          "title": "Marvin (Patches) (remix)",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 236106
+        },
+        {
+          "title": "Go Back (remix)",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 323066
+        }
+      ]
+    },
+    {
+      "mbid": "3f9aa60f-a0b4-3839-bfd9-f8bd0c866220",
+      "releaseMbid": "e24af212-6347-4862-a6ea-0f873dbd7b0f",
+      "title": "Õ Blésq Blom",
+      "type": "ALBUM",
+      "releaseDate": "1989",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/3f9aa60f-a0b4-3839-bfd9-f8bd0c866220/front-1200",
+      "tracks": [
+        {
+          "title": "Introdução por Mauro e Quitéria",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 42000
+        },
+        {
+          "title": "Miséria",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 268000
+        },
+        {
+          "title": "Racio símio",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 200000
+        },
+        {
+          "title": "O camelo e o dromedário",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 322000
+        },
+        {
+          "title": "Palavras",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 154000
+        },
+        {
+          "title": "Medo",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 125000
+        },
+        {
+          "title": "Natureza morta",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 18000
+        },
+        {
+          "title": "Flores",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 207000
+        },
+        {
+          "title": "O pulso",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 165000
+        },
+        {
+          "title": "32 dentes",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 148000
+        },
+        {
+          "title": "Faculdade",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 194000
+        },
+        {
+          "title": "Deus e o diabo",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 208000
+        },
+        {
+          "title": "Vinheta final por Mauro e Quitéria",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 34000
+        }
+      ]
+    },
+    {
+      "mbid": "b1dedab0-c638-324c-a179-226b8508017d",
+      "releaseMbid": "6eeb11e9-7f8b-4bac-9f0d-c059aeee3c3a",
+      "title": "Tudo ao Mesmo Tempo Agora",
+      "type": "ALBUM",
+      "releaseDate": "1991-09-23",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Clitóris",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 227760
+        },
+        {
+          "title": "O fácil é o certo",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 133000
+        },
+        {
+          "title": "Filantrópico",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 146800
+        },
+        {
+          "title": "Cabeça",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 125306
+        },
+        {
+          "title": "Já",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 133760
+        },
+        {
+          "title": "Eu vezes eu",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 170200
+        },
+        {
+          "title": "Isso para mim é perfume",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 199066
+        },
+        {
+          "title": "Saia de mim",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 192773
+        },
+        {
+          "title": "Flat / Cemitério / Apartamento",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 97760
+        },
+        {
+          "title": "Agora",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 155573
+        },
+        {
+          "title": "Não é por não falar",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 151000
+        },
+        {
+          "title": "Obrigado",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 68733
+        },
+        {
+          "title": "Se você está aqui",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 174293
+        },
+        {
+          "title": "Eu não sei fazer música",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 170400
+        },
+        {
+          "title": "Uma coisa de cada vez",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 197574
+        }
+      ]
+    },
+    {
+      "mbid": "ad853813-ef2a-33f3-bba7-0507ec0c4050",
+      "releaseMbid": "33678738-c6b7-4b84-9757-e2c3ab329836",
+      "title": "Titanomaquia",
+      "type": "ALBUM",
+      "releaseDate": "1993",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ad853813-ef2a-33f3-bba7-0507ec0c4050/front-1200",
+      "tracks": [
+        {
+          "title": "Será que é isso o que eu necessito?",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 169773
+        },
+        {
+          "title": "Nem sempre se pode ser deus",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 135200
+        },
+        {
+          "title": "Disneylândia",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 166360
+        },
+        {
+          "title": "Hereditário",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 126040
+        },
+        {
+          "title": "Estados alterados da mente",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 222066
+        },
+        {
+          "title": "Agonizando",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 216133
+        },
+        {
+          "title": "De olhos fechados",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 131866
+        },
+        {
+          "title": "Fazer o quê?",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 207666
+        },
+        {
+          "title": "A verdadeira Mary Poppins",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 142000
+        },
+        {
+          "title": "Felizes são os peixes",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 133493
+        },
+        {
+          "title": "Tempo pra gastar",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 225866
+        },
+        {
+          "title": "Dissertação do papa sobre o crime seguida de orgia",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 187600
+        },
+        {
+          "title": "Taxidermia",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 215507
+        }
+      ]
+    },
+    {
+      "mbid": "e420d8da-0aa1-337f-8423-c3f186399a42",
+      "releaseMbid": "084297aa-15e8-4ef7-979f-565df278a53c",
+      "title": "Domingo",
+      "type": "ALBUM",
+      "releaseDate": "1995",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Eu não aguento",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 268026
+        },
+        {
+          "title": "Domingo",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 244906
+        },
+        {
+          "title": "Tudo o que você quiser",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 151733
+        },
+        {
+          "title": "Rock americano",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 248266
+        },
+        {
+          "title": "Tudo em dia",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 169666
+        },
+        {
+          "title": "Vámonos",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 151266
+        },
+        {
+          "title": "Eu não vou dizer nada (além do que estou dizendo)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 234333
+        },
+        {
+          "title": "O caroço da cabeça",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 236520
+        },
+        {
+          "title": "Ridi pagliaccio",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 171106
+        },
+        {
+          "title": "Qualquer negócio",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 225600
+        },
+        {
+          "title": "Brasileiro",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 261600
+        },
+        {
+          "title": "Um copo de pinga",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 81906
+        },
+        {
+          "title": "Turnê",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 162333
+        },
+        {
+          "title": "Uns iguais aos outros",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 311826
+        }
+      ]
+    },
+    {
+      "mbid": "210af403-c134-48e8-8c08-2d678d1757c4",
+      "releaseMbid": "dd37a980-36c8-41ec-882d-fdd1b5e90132",
+      "title": "Acústico MTV",
+      "type": "LIVE",
+      "releaseDate": "1997-03-06",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/210af403-c134-48e8-8c08-2d678d1757c4/front-1200",
+      "tracks": [
+        {
+          "title": "Comida",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 322560
+        },
+        {
+          "title": "Go Back",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 230440
+        },
+        {
+          "title": "Pra Dizer Adeus",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 222426
+        },
+        {
+          "title": "Família",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 218266
+        },
+        {
+          "title": "Os Cegos Do Castelo",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 296773
+        },
+        {
+          "title": "O Pulso",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 199066
+        },
+        {
+          "title": "Marvin",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 264293
+        },
+        {
+          "title": "Nem 5 Minutos Guardados",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 245933
+        },
+        {
+          "title": "Flores",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 215440
+        },
+        {
+          "title": "Palavras",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 158400
+        },
+        {
+          "title": "Hereditário",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 151626
+        },
+        {
+          "title": "A Melhor Forma",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 191440
+        },
+        {
+          "title": "Cabeça Dinossauro (Vinheta)",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 37066
+        },
+        {
+          "title": "32 Dentes",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 184893
+        },
+        {
+          "title": "Bichos Escrotos (Vinheta)",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 104933
+        },
+        {
+          "title": "Não Vou Lutar",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 189933
+        },
+        {
+          "title": "Homem Primata (Vinheta)",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 34106
+        },
+        {
+          "title": "Homem Primata",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 195426
+        },
+        {
+          "title": "Polícia (Vinheta)",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 56040
+        },
+        {
+          "title": "Querem Meu Sangue",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 212333
+        },
+        {
+          "title": "Diversão",
+          "discNumber": 1,
+          "position": 21,
+          "durationMs": 285866
+        },
+        {
+          "title": "Televisão",
+          "discNumber": 1,
+          "position": 22,
+          "durationMs": 293600
+        }
+      ]
+    },
+    {
+      "mbid": "0a71b68e-1cc2-3ff5-afde-0616d1141508",
+      "releaseMbid": "b6d63db4-7d51-40d6-8ad1-3e209097175e",
+      "title": "Volume Dois",
+      "type": "ALBUM",
+      "releaseDate": "1998",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0a71b68e-1cc2-3ff5-afde-0616d1141508/front-1200",
+      "tracks": [
+        {
+          "title": "Sonífera ilha",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 170600
+        },
+        {
+          "title": "Lugar nenhum",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 195760
+        },
+        {
+          "title": "Sua impossível chance",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 246533
+        },
+        {
+          "title": "Desordem",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 213200
+        },
+        {
+          "title": "Não vou me adaptar",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 221733
+        },
+        {
+          "title": "Domingo",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 208533
+        },
+        {
+          "title": "Amanhã não se sabe",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 189360
+        },
+        {
+          "title": "Caras como eu",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 183000
+        },
+        {
+          "title": "Senhora e senhor",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 203613
+        },
+        {
+          "title": "Era uma vez",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 224160
+        },
+        {
+          "title": "Miséria",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 262106
+        },
+        {
+          "title": "Insensível",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 207733
+        },
+        {
+          "title": "Eu e ela",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 275933
+        },
+        {
+          "title": "Toda cor",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 209000
+        },
+        {
+          "title": "É preciso saber viver",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 251026
+        },
+        {
+          "title": "Senhor delegado / Eu não aguento",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 156573
+        }
+      ]
+    },
+    {
+      "mbid": "c04a764d-9a49-3b83-9971-ead228f208a7",
+      "releaseMbid": "86d106ec-4e79-42e8-b859-64f749762b36",
+      "title": "As Dez Mais",
+      "type": "ALBUM",
+      "releaseDate": "1999",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Gostava tanto de você",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 239226
+        },
+        {
+          "title": "Sete cidades",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 206533
+        },
+        {
+          "title": "Circo de feras",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 230533
+        },
+        {
+          "title": "Rotina",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 199440
+        },
+        {
+          "title": "Querem acabar comigo",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 219733
+        },
+        {
+          "title": "Fuga №11",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 275866
+        },
+        {
+          "title": "Pelados em Santos",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 209733
+        },
+        {
+          "title": "Um certo alguém",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 201360
+        },
+        {
+          "title": "Ciúme",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 246266
+        },
+        {
+          "title": "Aluga-se",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 199307
+        }
+      ]
+    },
+    {
+      "mbid": "47279028-3737-309b-9179-eca781677782",
+      "releaseMbid": "c1c50528-4bfb-4c14-9219-b1700d9168c3",
+      "title": "A Melhor Banda de Todos os Tempos da Última Semana",
+      "type": "ALBUM",
+      "releaseDate": "2001",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/47279028-3737-309b-9179-eca781677782/front-1200",
+      "tracks": [
+        {
+          "title": "Vamos Ao Trabalho",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 112133
+        },
+        {
+          "title": "A Melhor Banda de Todos Os Tempos da Última Semana",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 185466
+        },
+        {
+          "title": "O Mundo É Bão, Sebastião!",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 255933
+        },
+        {
+          "title": "Bom Gosto",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 157866
+        },
+        {
+          "title": "Um Morto de Férias",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 201426
+        },
+        {
+          "title": "Epitáfio",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 176773
+        },
+        {
+          "title": "É Bom Desconfiar",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 206560
+        },
+        {
+          "title": "Não Fuja da Dor",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 214373
+        },
+        {
+          "title": "Daqui Pra Lá",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 203133
+        },
+        {
+          "title": "Isso",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 160466
+        },
+        {
+          "title": "Eu Não Presto",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 148693
+        },
+        {
+          "title": "Mundo Cão",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 179600
+        },
+        {
+          "title": "Mesmo Sozinho",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 269106
+        },
+        {
+          "title": "Bananas",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 262960
+        },
+        {
+          "title": "Alma Lavada",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 152533
+        },
+        {
+          "title": "Cuidado Com Você",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 113400
+        }
+      ]
+    },
+    {
+      "mbid": "8eca0b64-0b97-3e67-a6a5-6b9c0a428e07",
+      "releaseMbid": "0ada8944-9da4-407e-aaff-110122cb8c57",
+      "title": "Como Estão Vocês?",
+      "type": "ALBUM",
+      "releaseDate": "2003-11",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/8eca0b64-0b97-3e67-a6a5-6b9c0a428e07/front-1200",
+      "tracks": [
+        {
+          "title": "Nós estamos bem",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 147853
+        },
+        {
+          "title": "Você é minha",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 166533
+        },
+        {
+          "title": "Gina superstar",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 150373
+        },
+        {
+          "title": "KGB",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 224066
+        },
+        {
+          "title": "Livres para escolher",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 224546
+        },
+        {
+          "title": "Eu não sou um bom lugar",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 165560
+        },
+        {
+          "title": "Pra você ficar",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 178826
+        },
+        {
+          "title": "Enquanto houver sol",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 182186
+        },
+        {
+          "title": "Esperando para atravessar a rua",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 191480
+        },
+        {
+          "title": "Provas de amor",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 199253
+        },
+        {
+          "title": "Ser estranho",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 192013
+        },
+        {
+          "title": "Vou duvidar",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 132746
+        },
+        {
+          "title": "Pelo avesso",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 161880
+        },
+        {
+          "title": "A guerra é aqui",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 195413
+        },
+        {
+          "title": "As aventuras do guitarrista gourmet atrás da refeição ideal",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 170267
+        }
+      ]
+    },
+    {
+      "mbid": "4e1adfb7-e0f8-33e9-92d9-fb0023ba08ea",
+      "releaseMbid": "19f9ed84-26b6-4510-a01b-a004fbe7f9aa",
+      "title": "MTV ao Vivo",
+      "type": "LIVE",
+      "releaseDate": "2005-08-12",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4e1adfb7-e0f8-33e9-92d9-fb0023ba08ea/front-1200",
+      "tracks": [
+        {
+          "title": "A melhor banda",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 198000
+        },
+        {
+          "title": "AA UU",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 149000
+        },
+        {
+          "title": "Vossa Excelência",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 177000
+        },
+        {
+          "title": "Aluga-se",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 188000
+        },
+        {
+          "title": "Lugar nenhum",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 217000
+        },
+        {
+          "title": "Enquanto houver sol",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 171000
+        },
+        {
+          "title": "Provas de amor",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 190000
+        },
+        {
+          "title": "Mentiras",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 128000
+        },
+        {
+          "title": "Anjo exterminador",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 194000
+        },
+        {
+          "title": "Vamos ao trabalho",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 106000
+        },
+        {
+          "title": "Cabeça dinossauro",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 104000
+        },
+        {
+          "title": "Não vou lutar",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 187000
+        },
+        {
+          "title": "Bichos escrotos",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 196000
+        },
+        {
+          "title": "Eu não sei fazer música",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 110000
+        },
+        {
+          "title": "O inferno são os outros",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 170000
+        },
+        {
+          "title": "Polícia",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 109000
+        },
+        {
+          "title": "O portão",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 198000
+        },
+        {
+          "title": "Epitáfio",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 171000
+        },
+        {
+          "title": "Flores",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 203000
+        },
+        {
+          "title": "Diversão",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 214000
+        }
+      ]
+    },
+    {
+      "mbid": "332040c6-e250-4d62-88d1-9f752c240992",
+      "releaseMbid": "c53d818d-9aea-4044-b229-07d858b2f94f",
+      "title": "Sacos Plásticos",
+      "type": "ALBUM",
+      "releaseDate": "2009",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/332040c6-e250-4d62-88d1-9f752c240992/front-1200",
+      "tracks": [
+        {
+          "title": "Amor por dinheiro",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 153000
+        },
+        {
+          "title": "Antes de você",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 204000
+        },
+        {
+          "title": "Sacos plásticos",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 189000
+        },
+        {
+          "title": "Porque eu sei que é amor",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 198000
+        },
+        {
+          "title": "A estrada",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 185000
+        },
+        {
+          "title": "Agora eu vou sonhar",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 213000
+        },
+        {
+          "title": "Quanto tempo",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 203000
+        },
+        {
+          "title": "Deixa eu sangrar",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 217000
+        },
+        {
+          "title": "Problema",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 235000
+        },
+        {
+          "title": "Não espere perfeição",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 167000
+        },
+        {
+          "title": "Quem vai salvar você do mundo?",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 207000
+        },
+        {
+          "title": "Múmias",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 229000
+        },
+        {
+          "title": "Deixa eu entrar",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 168000
+        },
+        {
+          "title": "Nem mais uma palavra",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 240000
+        }
+      ]
+    },
+    {
+      "mbid": "dc4036c5-1415-43fe-98eb-8a6fb6d0f280",
+      "releaseMbid": "8a4b8280-aa97-46c4-b26b-5aaba408df39",
+      "title": "Nheengatu",
+      "type": "ALBUM",
+      "releaseDate": "2014-05-12",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/dc4036c5-1415-43fe-98eb-8a6fb6d0f280/front-1200",
+      "tracks": [
+        {
+          "title": "Fardado",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 149000
+        },
+        {
+          "title": "Mensageiro da desgraça",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 210000
+        },
+        {
+          "title": "República dos bananas",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 123000
+        },
+        {
+          "title": "Fala, Renata",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 182000
+        },
+        {
+          "title": "Cadáver sobre cadáver",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 176000
+        },
+        {
+          "title": "Canalha",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 197000
+        },
+        {
+          "title": "Pedofilia",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 123000
+        },
+        {
+          "title": "Chegada ao Brasil (Terra à vista)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 143000
+        },
+        {
+          "title": "Eu me sinto bem",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 125000
+        },
+        {
+          "title": "Flores pra ela",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 212000
+        },
+        {
+          "title": "Não pode",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 135000
+        },
+        {
+          "title": "Senhor",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 172000
+        },
+        {
+          "title": "Baião de dois",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 164000
+        },
+        {
+          "title": "Quem são os animais?",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 144000
+        }
+      ]
+    },
+    {
+      "mbid": "16240a5d-2ed8-4a4d-81eb-a50724f5b8ed",
+      "releaseMbid": "f5c55724-d412-419d-b258-cce1998ba926",
+      "title": "Doze Flores Amarelas",
+      "type": "ALBUM",
+      "releaseDate": "2018-04-27",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Abertura",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 67000
+        },
+        {
+          "title": "Nada nos basta",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 204000
+        },
+        {
+          "title": "O facilitador",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 121000
+        },
+        {
+          "title": "Weird Sisters",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 163000
+        },
+        {
+          "title": "Disney Drugs",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 172000
+        },
+        {
+          "title": "A festa",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 200000
+        },
+        {
+          "title": "Fim de festa",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 204000
+        },
+        {
+          "title": "Me estuprem",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 173000
+        },
+        {
+          "title": "Interlúdio 1",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": 67000
+        },
+        {
+          "title": "O bom pastor",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": 143000
+        },
+        {
+          "title": "Eu sou maria",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": 303000
+        },
+        {
+          "title": "Canção da vingança",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": 130000
+        },
+        {
+          "title": "Hoje",
+          "discNumber": 2,
+          "position": 5,
+          "durationMs": 120000
+        },
+        {
+          "title": "Nossa bela vida",
+          "discNumber": 2,
+          "position": 6,
+          "durationMs": 99000
+        },
+        {
+          "title": "Personal hater",
+          "discNumber": 2,
+          "position": 7,
+          "durationMs": 89000
+        },
+        {
+          "title": "Interlúdio 2",
+          "discNumber": 2,
+          "position": 8,
+          "durationMs": 36000
+        },
+        {
+          "title": "De janeiro até dezembro",
+          "discNumber": 2,
+          "position": 9,
+          "durationMs": 88000
+        },
+        {
+          "title": "Mesmo assim",
+          "discNumber": 2,
+          "position": 10,
+          "durationMs": 206000
+        },
+        {
+          "title": "Não sei",
+          "discNumber": 2,
+          "position": 11,
+          "durationMs": 111000
+        },
+        {
+          "title": "Essa gente tem que morrer",
+          "discNumber": 2,
+          "position": 12,
+          "durationMs": 176000
+        },
+        {
+          "title": "Interlúdio 3",
+          "discNumber": 3,
+          "position": 1,
+          "durationMs": 67000
+        },
+        {
+          "title": "Me chamem de veneno",
+          "discNumber": 3,
+          "position": 2,
+          "durationMs": 210000
+        },
+        {
+          "title": "Doze flores amarelas",
+          "discNumber": 3,
+          "position": 3,
+          "durationMs": 250000
+        },
+        {
+          "title": "Ele morreu",
+          "discNumber": 3,
+          "position": 4,
+          "durationMs": 135000
+        },
+        {
+          "title": "Pacto de sangue",
+          "discNumber": 3,
+          "position": 5,
+          "durationMs": 111000
+        },
+        {
+          "title": "O jardineiro",
+          "discNumber": 3,
+          "position": 6,
+          "durationMs": 145000
+        },
+        {
+          "title": "Réquiem",
+          "discNumber": 3,
+          "position": 7,
+          "durationMs": 181000
+        },
+        {
+          "title": "É você",
+          "discNumber": 3,
+          "position": 8,
+          "durationMs": 203000
+        },
+        {
+          "title": "Sei que seremos",
+          "discNumber": 3,
+          "position": 9,
+          "durationMs": 126000
+        }
+      ]
+    },
+    {
+      "mbid": "e8d6a644-772f-419e-9523-d29d427f7991",
+      "releaseMbid": "3d65fb45-0e91-4c7d-9fdf-efd26adc20d1",
+      "title": "Titãs Trio Acústico",
+      "type": "ALBUM",
+      "releaseDate": "2021-01-29",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Sonífera ilha",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 160000
+        },
+        {
+          "title": "Por que eu sei que é amor",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 212000
+        },
+        {
+          "title": "Isso",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 157000
+        },
+        {
+          "title": "O pulso",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 184000
+        },
+        {
+          "title": "Miséria",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 251000
+        },
+        {
+          "title": "To cansado",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 122000
+        },
+        {
+          "title": "Querem meu sangue",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 167000
+        },
+        {
+          "title": "Família",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 203000
+        },
+        {
+          "title": "Enquanto houver sol",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 214000
+        },
+        {
+          "title": "Toda cor",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 172000
+        },
+        {
+          "title": "Go Back",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 231000
+        },
+        {
+          "title": "Televisão",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 235000
+        },
+        {
+          "title": "Pra dizer adeus",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 224000
+        },
+        {
+          "title": "Comida",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 253000
+        },
+        {
+          "title": "32 dentes",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 169000
+        },
+        {
+          "title": "E você",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 204000
+        },
+        {
+          "title": "Epitáfio",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 173000
+        },
+        {
+          "title": "Flores",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 203000
+        },
+        {
+          "title": "É preciso saber viver",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 215000
+        },
+        {
+          "title": "Cabeça dinossauro",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 76000
+        },
+        {
+          "title": "Nem 5 minutos guardados",
+          "discNumber": 1,
+          "position": 21,
+          "durationMs": 265000
+        },
+        {
+          "title": "Polícia",
+          "discNumber": 1,
+          "position": 22,
+          "durationMs": 112000
+        },
+        {
+          "title": "Homem primata",
+          "discNumber": 1,
+          "position": 23,
+          "durationMs": 154000
+        },
+        {
+          "title": "Bichos escrotos",
+          "discNumber": 1,
+          "position": 24,
+          "durationMs": 234000
+        },
+        {
+          "title": "Enquanto houver sol",
+          "discNumber": 1,
+          "position": 25,
+          "durationMs": 208000
+        }
+      ]
+    },
+    {
+      "mbid": "c23aa8cf-2b07-470a-aa42-ca7a9942fdbf",
+      "releaseMbid": "bb9e4364-82c7-4b1a-9aa4-f4fc39f41778",
+      "title": "Olho Furta-cor",
+      "type": "ALBUM",
+      "releaseDate": "2022-09-02",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c23aa8cf-2b07-470a-aa42-ca7a9942fdbf/front-1200",
+      "tracks": [
+        {
+          "title": "Apocalipse só",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 211329
+        },
+        {
+          "title": "Caos",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 193386
+        },
+        {
+          "title": "São Paulo 3",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 176439
+        },
+        {
+          "title": "Como é bom ser simples",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 176008
+        },
+        {
+          "title": "Raul",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 166109
+        },
+        {
+          "title": "Um mundo",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 163083
+        },
+        {
+          "title": "Há de ser assim",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 186399
+        },
+        {
+          "title": "Papai e mamãe",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 194143
+        },
+        {
+          "title": "Eu sou o mal",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 139864
+        },
+        {
+          "title": "Por Galletas",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 165395
+        },
+        {
+          "title": "O melhor amigo do cão",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 148373
+        },
+        {
+          "title": "Preciso falar",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 129565
+        },
+        {
+          "title": "Miss Brasil 200 anos",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 138709
+        },
+        {
+          "title": "São Paulo 1",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 195037
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

@@ -1,0 +1,1346 @@
+{
+  "generatedAt": "2026-11-13T13:53:26.296Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419",
+    "name": "Linkin Park",
+    "slug": "linkin-park",
+    "type": "BAND",
+    "country": "US",
+    "city": "Agoura Hills",
+    "formedYear": 1996,
+    "disbandedYear": null,
+    "bio": "O Linkin Park se formou em 1996, em Agoura Hills, na Califórnia, um subúrbio de Los Angeles, a partir de colegas de escola que primeiro se chamaram Xero. O nome mudou para Hybrid Theory antes de virar Linkin Park. Em 1999, com a ajuda do produtor Jeff Blue, a banda assinou com a Warner Bros. Records.\n\nO disco de estreia, Hybrid Theory, saiu em 24 de outubro de 2000 e se tornou um dos mais vendidos de todos os tempos. Depois vieram Meteora (2003), Minutes to Midnight (2007), A Thousand Suns (2010), Living Things (2012), The Hunting Party (2014) e One More Light (2017). O som passou pelo nu metal, pelo rap rock, pelo rock alternativo e pelo rock eletrônico, e a banda ganhou dois prêmios Grammy.\n\nO vocalista Chester Bennington morreu em 20 de julho de 2017, em sua casa em Palos Verdes Estates, na Califórnia. A banda entrou em hiato, e o baterista Rob Bourdon depois decidiu não continuar.\n\nEm 2024, o Linkin Park voltou com a vocalista Emily Armstrong e o baterista Colin Brittain, ao lado de Mike Shinoda, Brad Delson, Dave Farrell e Joe Hahn. O oitavo álbum de estúdio, From Zero, saiu nesse ano.",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/f59c5520-5f46-4d2c-b2c4-822eabf53419"
+      },
+      {
+        "name": "Wikipédia em português: Linkin Park",
+        "url": "https://pt.wikipedia.org/wiki/Linkin_Park"
+      }
+    ],
+    "genres": [
+      "nu-metal",
+      "alternative-rock"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "b5b4bb4b-8ba5-3acf-88cb-4cae2699d8da",
+      "releaseMbid": "5fc6445c-05ce-34e7-ab31-63bf7d3a9f24",
+      "title": "Hybrid Theory",
+      "type": "ALBUM",
+      "releaseDate": "2000-05-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b5b4bb4b-8ba5-3acf-88cb-4cae2699d8da/front-1200",
+      "tracks": [
+        {
+          "title": "Papercut",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 184706
+        },
+        {
+          "title": "One Step Closer",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 155666
+        },
+        {
+          "title": "With You",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 203266
+        },
+        {
+          "title": "Points of Authority",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 200266
+        },
+        {
+          "title": "Crawling",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 209000
+        },
+        {
+          "title": "Runaway",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 183933
+        },
+        {
+          "title": "By Myself",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 189800
+        },
+        {
+          "title": "In the End",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 216293
+        },
+        {
+          "title": "A Place for My Head",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 184600
+        },
+        {
+          "title": "Forgotten",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 194466
+        },
+        {
+          "title": "Cure for the Itch",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 157200
+        },
+        {
+          "title": "Pushing Me Away",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 193800
+        }
+      ]
+    },
+    {
+      "mbid": "bd0fa028-36ce-3e0e-81f2-e7d2b3e058c1",
+      "releaseMbid": "2ffd8818-7843-466c-aad6-2838c46a3183",
+      "title": "Reanimation",
+      "type": "ALBUM",
+      "releaseDate": "2002-07-29",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Opening",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 67000
+        },
+        {
+          "title": "Pts.of.Athrty",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 225000
+        },
+        {
+          "title": "Enth E Nd",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 239000
+        },
+        {
+          "title": "[Chali]",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 23000
+        },
+        {
+          "title": "Frgt/10",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 212426
+        },
+        {
+          "title": "P5hng Me A*wy",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 277000
+        },
+        {
+          "title": "Plc.4 Mie Hæd",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 260000
+        },
+        {
+          "title": "X-Ecutioner Style",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 109000
+        },
+        {
+          "title": "H! Vltg3",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 210000
+        },
+        {
+          "title": "[Riff Raff]",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 21000
+        },
+        {
+          "title": "Wth>You",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 251893
+        },
+        {
+          "title": "Ntr\\mssion",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": 29000
+        },
+        {
+          "title": "Ppr:kut",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": 206000
+        },
+        {
+          "title": "Rnw@y",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": 193000
+        },
+        {
+          "title": "My<Dsmbr",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": 257000
+        },
+        {
+          "title": "[Stef]",
+          "discNumber": 2,
+          "position": 5,
+          "durationMs": 10000
+        },
+        {
+          "title": "By_Myslf",
+          "discNumber": 2,
+          "position": 6,
+          "durationMs": 222000
+        },
+        {
+          "title": "Kyur4 th Ich",
+          "discNumber": 2,
+          "position": 7,
+          "durationMs": 152000
+        },
+        {
+          "title": "1Stp Klosr",
+          "discNumber": 2,
+          "position": 8,
+          "durationMs": 346000
+        },
+        {
+          "title": "Krwlng",
+          "discNumber": 2,
+          "position": 9,
+          "durationMs": 340000
+        }
+      ]
+    },
+    {
+      "mbid": "09474d62-17dd-3a4f-98fb-04c65f38a479",
+      "releaseMbid": "01e51f7c-4b95-4ae3-a707-181b74b1ebab",
+      "title": "Meteora",
+      "type": "ALBUM",
+      "releaseDate": "2003-03-24",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/09474d62-17dd-3a4f-98fb-04c65f38a479/front-1200",
+      "tracks": [
+        {
+          "title": "Foreword",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 13440
+        },
+        {
+          "title": "Don’t Stay",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 187933
+        },
+        {
+          "title": "Somewhere I Belong",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 213933
+        },
+        {
+          "title": "Lying From You",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 175053
+        },
+        {
+          "title": "Hit the Floor",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 164213
+        },
+        {
+          "title": "Easier to Run",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 204173
+        },
+        {
+          "title": "Faint",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 162106
+        },
+        {
+          "title": "Figure.09",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 197506
+        },
+        {
+          "title": "Breaking the Habit",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 196133
+        },
+        {
+          "title": "From the Inside",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 175506
+        },
+        {
+          "title": "Nobody’s Listening",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 178866
+        },
+        {
+          "title": "Session",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 144733
+        },
+        {
+          "title": "Numb",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 187520
+        }
+      ]
+    },
+    {
+      "mbid": "4db1d241-d2db-3033-9f73-88331f2faee1",
+      "releaseMbid": "9aa57174-4ce6-4fca-b70d-3670a8c9ab19",
+      "title": "Live in Texas",
+      "type": "LIVE",
+      "releaseDate": "2003-11-18",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4db1d241-d2db-3033-9f73-88331f2faee1/front-1200",
+      "tracks": [
+        {
+          "title": "Don't Stay",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 196000
+        },
+        {
+          "title": "Somewhere I Belong",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 217000
+        },
+        {
+          "title": "Lying From You",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 218000
+        },
+        {
+          "title": "Papercut",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 188000
+        },
+        {
+          "title": "Points of Authority",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 206000
+        },
+        {
+          "title": "Runaway",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 226000
+        },
+        {
+          "title": "Faint",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 168000
+        },
+        {
+          "title": "From the Inside",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 185000
+        },
+        {
+          "title": "Figure.09",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 231000
+        },
+        {
+          "title": "With You",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 201000
+        },
+        {
+          "title": "By Myself",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 338000
+        },
+        {
+          "title": "P5hng Me A*wy",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 347000
+        },
+        {
+          "title": "Numb",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 211000
+        },
+        {
+          "title": "Crawling",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 210000
+        },
+        {
+          "title": "In the End",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 246000
+        },
+        {
+          "title": "A Place for My Head",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 259000
+        },
+        {
+          "title": "One Step Closer",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 412000
+        },
+        {
+          "title": "Somewhere I Belong",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": 217773
+        },
+        {
+          "title": "Lying From You",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": 187493
+        },
+        {
+          "title": "Papercut",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": 186160
+        },
+        {
+          "title": "Points of Authority",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": 205133
+        },
+        {
+          "title": "Runaway",
+          "discNumber": 2,
+          "position": 5,
+          "durationMs": 187613
+        },
+        {
+          "title": "Faint",
+          "discNumber": 2,
+          "position": 6,
+          "durationMs": 167040
+        },
+        {
+          "title": "From the Inside",
+          "discNumber": 2,
+          "position": 7,
+          "durationMs": 180920
+        },
+        {
+          "title": "P5hng Me A*Wy",
+          "discNumber": 2,
+          "position": 8,
+          "durationMs": 305253
+        },
+        {
+          "title": "Numb",
+          "discNumber": 2,
+          "position": 9,
+          "durationMs": 186773
+        },
+        {
+          "title": "Crawling",
+          "discNumber": 2,
+          "position": 10,
+          "durationMs": 213853
+        },
+        {
+          "title": "In the End",
+          "discNumber": 2,
+          "position": 11,
+          "durationMs": 211760
+        },
+        {
+          "title": "One Step Closer",
+          "discNumber": 2,
+          "position": 12,
+          "durationMs": 253120
+        }
+      ]
+    },
+    {
+      "mbid": "8ef859e3-feb2-4dd1-93da-22b91280d768",
+      "releaseMbid": "75886e2f-929f-4490-b1b1-bcf6ceec5714",
+      "title": "Collision Course",
+      "type": "EP",
+      "releaseDate": "2004-11-29",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Dirt Off Your Shoulder / Lying From You",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 244693
+        },
+        {
+          "title": "Big Pimpin’ / Papercut",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 156320
+        },
+        {
+          "title": "Jigga What / Faint",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 211173
+        },
+        {
+          "title": "Numb / Encore",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 205280
+        },
+        {
+          "title": "Izzo / In the End",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 164866
+        },
+        {
+          "title": "Points of Authority / 99 Problems / One Step Closer",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 295826
+        },
+        {
+          "title": "Intro",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": 33000
+        },
+        {
+          "title": "In the Studio",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": 240000
+        },
+        {
+          "title": "Jay‐Z Arrives",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": 461000
+        },
+        {
+          "title": "Rehearsal",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": 153000
+        },
+        {
+          "title": "Sound Check",
+          "discNumber": 2,
+          "position": 5,
+          "durationMs": 96000
+        },
+        {
+          "title": "Dirt Off Your Shoulder / Lying From You",
+          "discNumber": 2,
+          "position": 6,
+          "durationMs": 268000
+        },
+        {
+          "title": "Big Pimpin’ / Papercut",
+          "discNumber": 2,
+          "position": 7,
+          "durationMs": 156000
+        },
+        {
+          "title": "Jigga What / Faint",
+          "discNumber": 2,
+          "position": 8,
+          "durationMs": 248000
+        },
+        {
+          "title": "Numb / Encore",
+          "discNumber": 2,
+          "position": 9,
+          "durationMs": 209000
+        },
+        {
+          "title": "Izzo / In the End",
+          "discNumber": 2,
+          "position": 10,
+          "durationMs": 160000
+        },
+        {
+          "title": "Points of Authority / 99 Problems / One Step Closer",
+          "discNumber": 2,
+          "position": 11,
+          "durationMs": 467000
+        },
+        {
+          "title": "End Credits",
+          "discNumber": 2,
+          "position": 12,
+          "durationMs": 205000
+        },
+        {
+          "title": "It’s Going Down (MTV Ultimate Mash‐Ups)",
+          "discNumber": 2,
+          "position": 13,
+          "durationMs": 84000
+        },
+        {
+          "title": "Dirt Off Your Shoulder / Lying From You (MTV Ultimate Mash‐Ups)",
+          "discNumber": 2,
+          "position": 14,
+          "durationMs": 288000
+        },
+        {
+          "title": "Jigga What / Faint (MTV Ultimate Mash‐Ups)",
+          "discNumber": 2,
+          "position": 15,
+          "durationMs": 280000
+        },
+        {
+          "title": "Numb / Encore (MTV Ultimate Mash‐Ups)",
+          "discNumber": 2,
+          "position": 16,
+          "durationMs": 229000
+        },
+        {
+          "title": "Points of Authority / 99 Problems / One Step Closer (MTV Ultimate Mash‐Ups)",
+          "discNumber": 2,
+          "position": 17,
+          "durationMs": 414000
+        }
+      ]
+    },
+    {
+      "mbid": "a4201f5c-f0d7-319c-ba9d-ba0bac38da7a",
+      "releaseMbid": "062a3dfa-5c36-4c4c-ac9e-d65c8fea5805",
+      "title": "Minutes to Midnight",
+      "type": "ALBUM",
+      "releaseDate": "2007-05-11",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a4201f5c-f0d7-319c-ba9d-ba0bac38da7a/front-1200",
+      "tracks": [
+        {
+          "title": "Wake",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 100920
+        },
+        {
+          "title": "Given Up",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 189293
+        },
+        {
+          "title": "Leave Out All the Rest",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 209306
+        },
+        {
+          "title": "Bleed It Out",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 164426
+        },
+        {
+          "title": "Shadow of the Day",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 289906
+        },
+        {
+          "title": "What I've Done",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 205226
+        },
+        {
+          "title": "Hands Held High",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 233133
+        },
+        {
+          "title": "No More Sorrow",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 221693
+        },
+        {
+          "title": "Valentine's Day",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 196840
+        },
+        {
+          "title": "In Between",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 196746
+        },
+        {
+          "title": "In Pieces",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 218013
+        },
+        {
+          "title": "The Little Things Give You Away",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 383506
+        }
+      ]
+    },
+    {
+      "mbid": "65404106-2976-4f98-a0e2-4e76923ea06d",
+      "releaseMbid": "103a3ac3-6239-459a-b59c-47948bb79362",
+      "title": "A Thousand Suns",
+      "type": "ALBUM",
+      "releaseDate": "2010-09-08",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/65404106-2976-4f98-a0e2-4e76923ea06d/front-1200",
+      "tracks": [
+        {
+          "title": "The Requiem",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 121120
+        },
+        {
+          "title": "The Radiance",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 57800
+        },
+        {
+          "title": "Burning in the Skies",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 253160
+        },
+        {
+          "title": "Empty Spaces",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 18333
+        },
+        {
+          "title": "When They Come for Me",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 295600
+        },
+        {
+          "title": "Robot Boy",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 268986
+        },
+        {
+          "title": "Jornada del Muerto",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 94906
+        },
+        {
+          "title": "Waiting for the End",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 231680
+        },
+        {
+          "title": "Blackout",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 279453
+        },
+        {
+          "title": "Wretches and Kings",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 255293
+        },
+        {
+          "title": "Wisdom, Justice, and Love",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 98773
+        },
+        {
+          "title": "Iridescent",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 296560
+        },
+        {
+          "title": "Fallout",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 83053
+        },
+        {
+          "title": "The Catalyst",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 339853
+        },
+        {
+          "title": "The Messenger",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 181893
+        }
+      ]
+    },
+    {
+      "mbid": "af682b63-021e-4806-afac-9aa4380fc6bd",
+      "releaseMbid": "9f04efc2-e3ce-4b47-91ae-c95c84c49ac8",
+      "title": "Living Things",
+      "type": "ALBUM",
+      "releaseDate": "2012-06-20",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/af682b63-021e-4806-afac-9aa4380fc6bd/front-1200",
+      "tracks": [
+        {
+          "title": "Lost in the Echo",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 205773
+        },
+        {
+          "title": "In My Remains",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 200693
+        },
+        {
+          "title": "Burn It Down",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 230253
+        },
+        {
+          "title": "Lies Greed Misery",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 147160
+        },
+        {
+          "title": "I'll Be Gone",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 211093
+        },
+        {
+          "title": "Castle of Glass",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 205453
+        },
+        {
+          "title": "Victimized",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 106360
+        },
+        {
+          "title": "Roads Untravelled",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 229933
+        },
+        {
+          "title": "Skin to Bone",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 168346
+        },
+        {
+          "title": "Until It Breaks",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 223400
+        },
+        {
+          "title": "Tinfoil",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 71893
+        },
+        {
+          "title": "Powerless",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 224466
+        }
+      ]
+    },
+    {
+      "mbid": "20292abb-7023-495b-8081-4b7be106a3b1",
+      "releaseMbid": "2c508ac0-bd71-451e-9477-c912a57c36d6",
+      "title": "The Hunting Party",
+      "type": "ALBUM",
+      "releaseDate": "2014-06-13",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/20292abb-7023-495b-8081-4b7be106a3b1/front-1200",
+      "tracks": [
+        {
+          "title": "Keys to the Kingdom",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 218546
+        },
+        {
+          "title": "All for Nothing",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 213653
+        },
+        {
+          "title": "Guilty All the Same",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 353586
+        },
+        {
+          "title": "The Summoning",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 60440
+        },
+        {
+          "title": "War",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 131160
+        },
+        {
+          "title": "Wastelands",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 195893
+        },
+        {
+          "title": "Until It's Gone",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 233240
+        },
+        {
+          "title": "Rebellion",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 224160
+        },
+        {
+          "title": "Mark the Graves",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 305013
+        },
+        {
+          "title": "Drawbar",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 166933
+        },
+        {
+          "title": "Final Masquerade",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 217613
+        },
+        {
+          "title": "A Line in the Sand",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 395066
+        },
+        {
+          "title": "Opening",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": 71000
+        },
+        {
+          "title": "A Place for My Head",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": 169000
+        },
+        {
+          "title": "New Divide",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": 280000
+        },
+        {
+          "title": "Somewhere I Belong",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": 256000
+        },
+        {
+          "title": "Points of Authority",
+          "discNumber": 2,
+          "position": 5,
+          "durationMs": 201000
+        },
+        {
+          "title": "Lies Greed Misery",
+          "discNumber": 2,
+          "position": 6,
+          "durationMs": 149000
+        },
+        {
+          "title": "Lost in the Echo",
+          "discNumber": 2,
+          "position": 7,
+          "durationMs": 235000
+        },
+        {
+          "title": "What I've Done",
+          "discNumber": 2,
+          "position": 8,
+          "durationMs": 217000
+        },
+        {
+          "title": "Burn It Down",
+          "discNumber": 2,
+          "position": 9,
+          "durationMs": 234000
+        },
+        {
+          "title": "In the End",
+          "discNumber": 2,
+          "position": 10,
+          "durationMs": 210000
+        },
+        {
+          "title": "Bleed It Out",
+          "discNumber": 2,
+          "position": 11,
+          "durationMs": 291000
+        },
+        {
+          "title": "One Step Closer",
+          "discNumber": 2,
+          "position": 12,
+          "durationMs": 304000
+        }
+      ]
+    },
+    {
+      "mbid": "b976c959-d13e-487c-85d7-cab70ed7c842",
+      "releaseMbid": "0bba6a37-4087-49c9-bf9e-f68363d343b6",
+      "title": "One More Light",
+      "type": "ALBUM",
+      "releaseDate": "2017-05-19",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b976c959-d13e-487c-85d7-cab70ed7c842/front-1200",
+      "tracks": [
+        {
+          "title": "Nobody Can Save Me",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 225000
+        },
+        {
+          "title": "Good Goodbye",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 211000
+        },
+        {
+          "title": "Talking to Myself",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 231000
+        },
+        {
+          "title": "Battle Symphony",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 216000
+        },
+        {
+          "title": "Invisible",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 214000
+        },
+        {
+          "title": "Heavy",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 169000
+        },
+        {
+          "title": "Sorry for Now",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 203000
+        },
+        {
+          "title": "Halfway Right",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 217000
+        },
+        {
+          "title": "One More Light",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 255000
+        },
+        {
+          "title": "Sharp Edges",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 178000
+        }
+      ]
+    },
+    {
+      "mbid": "a6885eb5-2e32-491f-b2cc-aaeb13278c08",
+      "releaseMbid": "f51fedd2-9125-491b-915d-3d4eaba813f6",
+      "title": "One More Light Live",
+      "type": "LIVE",
+      "releaseDate": "2017-12-14",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a6885eb5-2e32-491f-b2cc-aaeb13278c08/front-1200",
+      "tracks": [
+        {
+          "title": "Talking to Myself",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 316533
+        },
+        {
+          "title": "Burn It Down",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 253573
+        },
+        {
+          "title": "Battle Symphony",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 225133
+        },
+        {
+          "title": "New Divide",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 270560
+        },
+        {
+          "title": "Invisible",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 270186
+        },
+        {
+          "title": "Nobody Can Save Me",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 239986
+        },
+        {
+          "title": "One More Light",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 259386
+        },
+        {
+          "title": "Crawling",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 209493
+        },
+        {
+          "title": "Leave Out All the Rest",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 290720
+        },
+        {
+          "title": "Good Goodbye",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 248880
+        },
+        {
+          "title": "What I’ve Done",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 273440
+        },
+        {
+          "title": "In the End",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 228186
+        },
+        {
+          "title": "Sharp Edges",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 287546
+        },
+        {
+          "title": "Numb",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 230573
+        },
+        {
+          "title": "Heavy",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 176413
+        },
+        {
+          "title": "Bleed It Out",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 297240
+        }
+      ]
+    },
+    {
+      "mbid": "a3159fb4-2ad3-4678-ba51-36fbc8b8430d",
+      "releaseMbid": "1122464e-56c9-4e4e-a2e1-5bfd12ad056b",
+      "title": "From Zero",
+      "type": "ALBUM",
+      "releaseDate": "2024-11-15",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "From Zero (Intro)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 22173
+        },
+        {
+          "title": "The Emptiness Machine",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 190413
+        },
+        {
+          "title": "Cut the Bridge",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 228613
+        },
+        {
+          "title": "Heavy Is the Crown",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 167013
+        },
+        {
+          "title": "Over Each Other",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 170440
+        },
+        {
+          "title": "Casualty",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 140920
+        },
+        {
+          "title": "Overflow",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 211013
+        },
+        {
+          "title": "Two Faced",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 183586
+        },
+        {
+          "title": "Stained",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 185413
+        },
+        {
+          "title": "IGYEIH",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 209080
+        },
+        {
+          "title": "Good Things Go",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 211840
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

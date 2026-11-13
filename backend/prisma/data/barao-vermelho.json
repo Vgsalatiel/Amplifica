@@ -1,0 +1,1524 @@
+{
+  "generatedAt": "2026-11-13T13:41:53.746Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "84ac395b-482b-48cb-b381-b9bc420b2dd3",
+    "name": "Barão Vermelho",
+    "slug": "barao-vermelho",
+    "type": "BAND",
+    "country": "BR",
+    "city": "Rio de Janeiro",
+    "formedYear": 1981,
+    "disbandedYear": null,
+    "bio": "O Barão Vermelho se formou no Rio de Janeiro, em 1981, por iniciativa dos estudantes Guto Goffi e Maurício Barros, que escolheram o nome em referência ao piloto alemão da Primeira Guerra Manfred von Richthofen. A formação original tinha Cazuza nos vocais, Frejat na guitarra, Dé Palmeira no baixo, Maurício Barros nos teclados e Guto Goffi na bateria. O primeiro show foi em novembro de 1981.\n\nO disco de estreia, Barão Vermelho, saiu em 1982, seguido de Barão Vermelho 2 (1983) e Maior Abandonado (1984). Cazuza deixou a banda em 1985, e Frejat passou a cantar. Vieram Declare Guerra (1986), Rock'n Geral (1987), Carnaval (1988) e Na Calada da Noite (1990). Cazuza morreu em 7 de julho de 1990, depois de cinco anos de doença.\n\nOs álbuns seguintes foram Supermercados da Vida (1992), Carne Crua (1994), Álbum (1996), Puro Êxtase (1998), Barão Vermelho (2004) e Viva (2019). A banda entrou em hiato em 2001 e de novo depois de 2007. Frejat saiu em 2017, e Rodrigo Suricato assumiu os vocais.\n\nA música do Barão passa pelo pop rock, pelo blues rock, pelo hard rock e pela MPB. A banda integra o Quarteto Sagrado do rock brasileiro dos anos 1980, ao lado de Legião Urbana, Os Paralamas do Sucesso e Titãs.",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/84ac395b-482b-48cb-b381-b9bc420b2dd3"
+      },
+      {
+        "name": "Wikipédia em português: Barão Vermelho",
+        "url": "https://pt.wikipedia.org/wiki/Bar%C3%A3o_Vermelho"
+      }
+    ],
+    "genres": [
+      "rock-nacional"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "3b15cfca-db64-33c2-a5c0-d428d4be4408",
+      "releaseMbid": "304a39f3-e138-4652-a981-61653a85673d",
+      "title": "Barão Vermelho",
+      "type": "ALBUM",
+      "releaseDate": "1982",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/3b15cfca-db64-33c2-a5c0-d428d4be4408/front-1200",
+      "tracks": [
+        {
+          "title": "Posando de star",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 137000
+        },
+        {
+          "title": "Down em mim",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 219000
+        },
+        {
+          "title": "Conto de fadas",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 163000
+        },
+        {
+          "title": "Billy negão",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 203000
+        },
+        {
+          "title": "Certo dia na cidade",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 283000
+        },
+        {
+          "title": "Rock'n geral",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 195000
+        },
+        {
+          "title": "Ponto fraco",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 174000
+        },
+        {
+          "title": "Por aí",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 135000
+        },
+        {
+          "title": "Todo amor que houver nessa vida",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 220000
+        },
+        {
+          "title": "Bilhetinho azul",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 138000
+        }
+      ]
+    },
+    {
+      "mbid": "ff91c884-f86b-343b-a62d-b41fafbab8cf",
+      "releaseMbid": "344583e9-dda3-44de-a57f-e11952545e65",
+      "title": "Barão Vermelho 2",
+      "type": "ALBUM",
+      "releaseDate": "1983",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ff91c884-f86b-343b-a62d-b41fafbab8cf/front-1200",
+      "tracks": [
+        {
+          "title": "Intro/Menina Mimada",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 38000
+        },
+        {
+          "title": "O que a gente quiser",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 181000
+        },
+        {
+          "title": "Vem comigo",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 161000
+        },
+        {
+          "title": "Bicho humano",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 192000
+        },
+        {
+          "title": "Carente profissional",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 177000
+        },
+        {
+          "title": "Largado no mundo",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 136000
+        },
+        {
+          "title": "Carne de pescoço",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 217000
+        },
+        {
+          "title": "Pro dia nascer feliz",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 266000
+        },
+        {
+          "title": "Manhã sem sonho",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 196000
+        },
+        {
+          "title": "Blues do iniciante",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 236000
+        }
+      ]
+    },
+    {
+      "mbid": "ff66f540-7f4d-358a-ab30-3c63b1491860",
+      "releaseMbid": "a5fa6f9c-db14-4aa5-a3e7-afc9d6b466bc",
+      "title": "Maior Abandonado",
+      "type": "ALBUM",
+      "releaseDate": "1984",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ff66f540-7f4d-358a-ab30-3c63b1491860/front-1200",
+      "tracks": [
+        {
+          "title": "Maior abandonado",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 163000
+        },
+        {
+          "title": "Baby suporte",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 189000
+        },
+        {
+          "title": "Sem vergonha",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 193000
+        },
+        {
+          "title": "Você se parece com todo mundo",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 173000
+        },
+        {
+          "title": "Milagres",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 149000
+        },
+        {
+          "title": "Não amo ninguém",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 228000
+        },
+        {
+          "title": "Por que a gente é assim?",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 271000
+        },
+        {
+          "title": "Narciso",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 167000
+        },
+        {
+          "title": "Nós",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 192000
+        },
+        {
+          "title": "Dolorosa",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 174000
+        },
+        {
+          "title": "Bete Balanço",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 213000
+        }
+      ]
+    },
+    {
+      "mbid": "46f5765f-ce51-3083-9060-d63ba6cddcdd",
+      "releaseMbid": "01156528-6339-450e-a7e3-c52aeb242a07",
+      "title": "Declare Guerra",
+      "type": "ALBUM",
+      "releaseDate": "1986",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/46f5765f-ce51-3083-9060-d63ba6cddcdd/front-1200",
+      "tracks": [
+        {
+          "title": "Um dia na vida",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 162000
+        },
+        {
+          "title": "Desabrigado",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 207000
+        },
+        {
+          "title": "Torre de Babel",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 187000
+        },
+        {
+          "title": "Bagatelas",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 200000
+        },
+        {
+          "title": "Não quero seu perdão",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 159000
+        },
+        {
+          "title": "Bumerangue blues",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 169000
+        },
+        {
+          "title": "Declare guerra",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 235000
+        },
+        {
+          "title": "Linda e burra",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 203000
+        },
+        {
+          "title": "Maioridade",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 215000
+        },
+        {
+          "title": "Que o Deus venha",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 228000
+        },
+        {
+          "title": "Eu tô feliz",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 238000
+        }
+      ]
+    },
+    {
+      "mbid": "24f21bf5-a568-3f5d-bca7-db13f9d41151",
+      "releaseMbid": "91230caf-4d95-43e6-a6c4-b997353068f5",
+      "title": "Rock'n Geral",
+      "type": "ALBUM",
+      "releaseDate": "1987",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Amor de irmão",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 223000
+        },
+        {
+          "title": "Sonhos que dinheiro nenhum compra",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 196000
+        },
+        {
+          "title": "Ta difícil de aturar",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 269000
+        },
+        {
+          "title": "Completamente nova",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 119000
+        },
+        {
+          "title": "Blues do abandono",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 181000
+        },
+        {
+          "title": "Me acalmo, me desespero",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 238000
+        },
+        {
+          "title": "Copacabana",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 301000
+        },
+        {
+          "title": "Dignidade",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 201000
+        },
+        {
+          "title": "Agora tudo acabou",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 210000
+        },
+        {
+          "title": "Quem me olha só",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 238000
+        },
+        {
+          "title": "Contravenção",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 181000
+        }
+      ]
+    },
+    {
+      "mbid": "a6135522-319d-3e7e-b094-958dcf2f840b",
+      "releaseMbid": "1f685dd7-de17-4759-a0ec-161ff5a05073",
+      "title": "Carnaval",
+      "type": "ALBUM",
+      "releaseDate": "1988",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Lente",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 198000
+        },
+        {
+          "title": "Pense e dance",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 239000
+        },
+        {
+          "title": "Não me acabo",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 187000
+        },
+        {
+          "title": "O que você faz à noite",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 218000
+        },
+        {
+          "title": "Nunca existiu pecado",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 316000
+        },
+        {
+          "title": "Como um furacão",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 198000
+        },
+        {
+          "title": "Quem me escuta",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 165000
+        },
+        {
+          "title": "Selvagem",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 223000
+        },
+        {
+          "title": "Carnaval",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 247000
+        },
+        {
+          "title": "Rock da descerebração",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 176000
+        }
+      ]
+    },
+    {
+      "mbid": "a39c2419-5983-3284-bee4-df3778c37075",
+      "releaseMbid": "10de1291-e7c8-4457-9e2b-7dbc41d63202",
+      "title": "Barão ao Vivo",
+      "type": "LIVE",
+      "releaseDate": "1989",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a39c2419-5983-3284-bee4-df3778c37075/front-1200",
+      "tracks": [
+        {
+          "title": "Ponto fraco",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 172000
+        },
+        {
+          "title": "Carne de pescoço",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 237000
+        },
+        {
+          "title": "Pense e dançe",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 226000
+        },
+        {
+          "title": "Bete balanço",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 246000
+        },
+        {
+          "title": "Não amo ninguém",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 261000
+        },
+        {
+          "title": "Por que a gente é assim?",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 229000
+        },
+        {
+          "title": "Rock do cachorro morto",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 187000
+        },
+        {
+          "title": "Quem você pensa que é?",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 205000
+        },
+        {
+          "title": "Pro dia nascer feliz",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 308000
+        },
+        {
+          "title": "Satisfaction",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 261000
+        }
+      ]
+    },
+    {
+      "mbid": "3a682a3c-3d68-3e15-87c8-5d894969f0fb",
+      "releaseMbid": "a53143ef-0418-4e2a-a92a-554a546edafc",
+      "title": "Na Calada da Noite",
+      "type": "ALBUM",
+      "releaseDate": "1990",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/3a682a3c-3d68-3e15-87c8-5d894969f0fb/front-1200",
+      "tracks": [
+        {
+          "title": "Política voz",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 163000
+        },
+        {
+          "title": "O invisível",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 188000
+        },
+        {
+          "title": "Na calada da noite",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 252000
+        },
+        {
+          "title": "Beijos de arame farpado",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 290000
+        },
+        {
+          "title": "Sonhos pra voar",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 113000
+        },
+        {
+          "title": "Seco",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 50000
+        },
+        {
+          "title": "Tão longe de tudo",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 221000
+        },
+        {
+          "title": "A voz da chuva",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 223000
+        },
+        {
+          "title": "Tua canção",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 125000
+        },
+        {
+          "title": "Invejo os bichos",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 190000
+        },
+        {
+          "title": "O poeta está vivo",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 261000
+        }
+      ]
+    },
+    {
+      "mbid": "919ca7b4-6f1d-4aff-b55a-5a379275bfbb",
+      "releaseMbid": "7e38d129-5e37-4992-9b2c-3764597f8693",
+      "title": "Acústico MTV",
+      "type": "LIVE",
+      "releaseDate": "1991",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/919ca7b4-6f1d-4aff-b55a-5a379275bfbb/front-1200",
+      "tracks": [
+        {
+          "title": "Seco",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 70000
+        },
+        {
+          "title": "Largado No Mundo",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 157000
+        },
+        {
+          "title": "Política Voz",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 201000
+        },
+        {
+          "title": "Tão Longe de Tudo",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 210000
+        },
+        {
+          "title": "Tua Canção",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 142000
+        },
+        {
+          "title": "Bumerangue Blues",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 183000
+        },
+        {
+          "title": "O Poeta Está Vivo",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 327000
+        },
+        {
+          "title": "Vale Quanto Pesa",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 197000
+        },
+        {
+          "title": "Bete Balanço",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 252000
+        },
+        {
+          "title": "Ponto Fraco",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 210000
+        }
+      ]
+    },
+    {
+      "mbid": "ba9ba85a-fdb8-3617-9b1a-305bb633128e",
+      "releaseMbid": "97bc4187-1e99-4601-b6fd-b28d7ce00dcd",
+      "title": "Supermercados da Vida",
+      "type": "ALBUM",
+      "releaseDate": "1992-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ba9ba85a-fdb8-3617-9b1a-305bb633128e/front-1200",
+      "tracks": [
+        {
+          "title": "Fúria e folia",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 172746
+        },
+        {
+          "title": "Odeio-te meu amor",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 179546
+        },
+        {
+          "title": "Pedra flor e espinho",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 258640
+        },
+        {
+          "title": "Flores do mal",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 187813
+        },
+        {
+          "title": "Azul, azulão",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 170320
+        },
+        {
+          "title": "Fogo de palha",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 142680
+        },
+        {
+          "title": "Fios elétricos",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 173813
+        },
+        {
+          "title": "Supermercados da vida",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 153400
+        },
+        {
+          "title": "Sombras no escuro",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 136506
+        },
+        {
+          "title": "Cidade fria",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 232693
+        },
+        {
+          "title": "A noite não acabou",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 191093
+        },
+        {
+          "title": "Comendo vidro",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 212573
+        },
+        {
+          "title": "Portos livres",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 237053
+        },
+        {
+          "title": "Marcas no pescoço",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 209120
+        }
+      ]
+    },
+    {
+      "mbid": "4519ef8a-ed88-3aa1-8f24-b9eb74ef3fb1",
+      "releaseMbid": "16962435-78af-464a-8d6f-d69262767d33",
+      "title": "Carne Crua",
+      "type": "ALBUM",
+      "releaseDate": "1994",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4519ef8a-ed88-3aa1-8f24-b9eb74ef3fb1/front-1200",
+      "tracks": [
+        {
+          "title": "Carne crua",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 192000
+        },
+        {
+          "title": "Meus bons amigos",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 259000
+        },
+        {
+          "title": "Daqui por diante",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 233000
+        },
+        {
+          "title": "Sem dó",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 242000
+        },
+        {
+          "title": "Pergunte ao tio José",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 230000
+        },
+        {
+          "title": "Guarda essa canção",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 269000
+        },
+        {
+          "title": "Seremos macacos outra vez",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 232000
+        },
+        {
+          "title": "Não me fuja pelas mãos",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 264000
+        },
+        {
+          "title": "Vida frágil",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 226000
+        },
+        {
+          "title": "Rock do vapor",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 199000
+        },
+        {
+          "title": "O inferno é aqui",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 220000
+        }
+      ]
+    },
+    {
+      "mbid": "85cc3f8c-19bd-4a3f-b3d0-e8686c34d4f0",
+      "releaseMbid": "29842b80-59fd-4ebe-adee-cc4f15c50664",
+      "title": "Álbum",
+      "type": "ALBUM",
+      "releaseDate": "1996",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/85cc3f8c-19bd-4a3f-b3d0-e8686c34d4f0/front-1200",
+      "tracks": [
+        {
+          "title": "[Data Track]",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 789013
+        },
+        {
+          "title": "Só pra Variar",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 180506
+        },
+        {
+          "title": "Malandragem Dá Um Tempo",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 223040
+        },
+        {
+          "title": "Vem Quente que Eu Estou Fervendo",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 209733
+        },
+        {
+          "title": "Só as Mães São Felizes",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 321720
+        },
+        {
+          "title": "Vale Quanto Pesa",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 227986
+        },
+        {
+          "title": "Perdidos na Selva",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 231773
+        },
+        {
+          "title": "Amor Meu Grande Amor",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 277346
+        },
+        {
+          "title": "Não Há Dinheiro que Pague",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 259373
+        },
+        {
+          "title": "Jardins da Babilônia",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 197453
+        },
+        {
+          "title": "Um Índio / 1,2,3,4...",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 398013
+        }
+      ]
+    },
+    {
+      "mbid": "0ea87379-9703-3185-b867-1f0869eaf050",
+      "releaseMbid": "97b7e8b9-6426-4cdb-ab37-9d199d24c1b5",
+      "title": "Puro Êxtase",
+      "type": "ALBUM",
+      "releaseDate": "1998",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0ea87379-9703-3185-b867-1f0869eaf050/front-1200",
+      "tracks": [
+        {
+          "title": "Iceberg",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 180360
+        },
+        {
+          "title": "Puro êxtase",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 236840
+        },
+        {
+          "title": "Por você",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 210960
+        },
+        {
+          "title": "Presente ordinário",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 229040
+        },
+        {
+          "title": "Cena de cinema",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 199200
+        },
+        {
+          "title": "Quando você não está por perto",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 173133
+        },
+        {
+          "title": "Vou correndo até você",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 233266
+        },
+        {
+          "title": "O sono vem",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 221920
+        },
+        {
+          "title": "No topo do mundo",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 214573
+        },
+        {
+          "title": "Estranho exemplo",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 1138707
+        }
+      ]
+    },
+    {
+      "mbid": "13ca98d9-b19a-350f-9bb3-6f6855cd7e92",
+      "releaseMbid": "f9b82a23-3587-48ee-bddb-b0be7db5983c",
+      "title": "Balada MTV",
+      "type": "LIVE",
+      "releaseDate": "1999-04-24",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/13ca98d9-b19a-350f-9bb3-6f6855cd7e92/front-1200",
+      "tracks": [
+        {
+          "title": "Bilhetinho Azul",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 170493
+        },
+        {
+          "title": "Tente Outra Vez",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 190973
+        },
+        {
+          "title": "Por Que a Gente É Assim",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 220733
+        },
+        {
+          "title": "Enquanto Ela Não Chegar",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 253733
+        },
+        {
+          "title": "Por Você",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 212493
+        },
+        {
+          "title": "Meus Bons Amigos",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 204933
+        },
+        {
+          "title": "Pedra, Flor e Espinho",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 245573
+        },
+        {
+          "title": "O Poeta Está Vivo",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 264026
+        },
+        {
+          "title": "Eu Queria Ter Uma Bomba",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 193600
+        },
+        {
+          "title": "O Tempo Não Pára",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 272173
+        },
+        {
+          "title": "Todo o Amor Que Houver Nessa Vida",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 227026
+        },
+        {
+          "title": "Puro Êxtase",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 248600
+        },
+        {
+          "title": "Pense e Dance",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 184600
+        },
+        {
+          "title": "Quando o Sol Bater Na Janela Do Seu Quarto",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 196440
+        }
+      ]
+    },
+    {
+      "mbid": "27639662-e995-328f-a157-124d6e91f26e",
+      "releaseMbid": "fb5ad0ab-8734-419f-8b8a-5fda30a7e13a",
+      "title": "Barão Vermelho",
+      "type": "ALBUM",
+      "releaseDate": "2004",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/27639662-e995-328f-a157-124d6e91f26e/front-1200",
+      "tracks": [
+        {
+          "title": "Cara a cara",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 210000
+        },
+        {
+          "title": "Cuidado",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 155000
+        },
+        {
+          "title": "Mais perto do sol",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 206000
+        },
+        {
+          "title": "A chave da porta da frente",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 247000
+        },
+        {
+          "title": "Pra toda vida",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 276000
+        },
+        {
+          "title": "Embriague-se",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 190000
+        },
+        {
+          "title": "O dia em que você me salvou",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 201000
+        },
+        {
+          "title": "Cigarro aceso no braço",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 263000
+        },
+        {
+          "title": "Tão inconveniente",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 201000
+        },
+        {
+          "title": "A máquina de escrever",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 257000
+        },
+        {
+          "title": "Só o tempo",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 206000
+        }
+      ]
+    },
+    {
+      "mbid": "bb0f80a3-baa8-327b-8cb2-c48906e0874a",
+      "releaseMbid": "7d2911af-3a3b-4427-aaa4-be9c2599ca7e",
+      "title": "Rock in Rio 1985",
+      "type": "LIVE",
+      "releaseDate": "2007",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/bb0f80a3-baa8-327b-8cb2-c48906e0874a/front-1200",
+      "tracks": [
+        {
+          "title": "Maior Abandonado",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 203800
+        },
+        {
+          "title": "Milagres",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 133760
+        },
+        {
+          "title": "Subproduto de Rock",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 252706
+        },
+        {
+          "title": "Sem Vergonha",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 144466
+        },
+        {
+          "title": "Narciso",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 249400
+        },
+        {
+          "title": "Todo Amor que Houver nessa Vida",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 116133
+        },
+        {
+          "title": "Baby Suporte",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 202933
+        },
+        {
+          "title": "Bete Balanço",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 258466
+        },
+        {
+          "title": "Mal Nenhum",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 129533
+        },
+        {
+          "title": "Down em Mim",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 199426
+        },
+        {
+          "title": "Por que a Gente É Assim?",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 235240
+        },
+        {
+          "title": "Menina Mimada",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 174533
+        },
+        {
+          "title": "Pro dia Nascer Feliz",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 331960
+        },
+        {
+          "title": "Um dia na Vida",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 149533
+        }
+      ]
+    },
+    {
+      "mbid": "984ee26d-9041-4f64-a124-49618ba6b148",
+      "releaseMbid": "1543d22e-edc7-4ff1-86d6-eef17d0a2c03",
+      "title": "Barão pra sempre",
+      "type": "ALBUM",
+      "releaseDate": "2018-04-20",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/984ee26d-9041-4f64-a124-49618ba6b148/front-1200",
+      "tracks": [
+        {
+          "title": "Pense e dance",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Puro êxtase",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Meus bons amigos",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Eu queria ter uma bomba",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Tão longe de tudo",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Pro dia nascer feliz",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Billy Negão",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Por você (acústico)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "Brasil (acústico)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "7e7b7e51-59b4-4836-b066-d62fc6f04a76",
+      "releaseMbid": "e72435b5-fff5-4d23-9098-f81a7fa4095e",
+      "title": "Viva",
+      "type": "ALBUM",
+      "releaseDate": "2019-08-16",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Eu Nunca Estou Só",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 204000
+        },
+        {
+          "title": "Por Onde Eu For",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 210000
+        },
+        {
+          "title": "Jeito",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 179000
+        },
+        {
+          "title": "Tudo por Nós 2",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 198000
+        },
+        {
+          "title": "Um Dia Igual ao Outro",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 244000
+        },
+        {
+          "title": "Vai Ser Melhor Assim",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 193000
+        },
+        {
+          "title": "Castelos",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 256000
+        },
+        {
+          "title": "A Solidão Te Engole Vivo",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 189000
+        },
+        {
+          "title": "Pra Não Te Perder",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 205000
+        }
+      ]
+    },
+    {
+      "mbid": "a241650b-d4a2-4cc3-85f3-9547dbca4c34",
+      "releaseMbid": "4a1199ec-ca7c-4ba3-90a1-241a757c71bc",
+      "title": "Barão 40",
+      "type": "LIVE",
+      "releaseDate": "2022-09-11",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a241650b-d4a2-4cc3-85f3-9547dbca4c34/front-1200",
+      "tracks": [
+        {
+          "title": "Meus bons amigos",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 248917
+        },
+        {
+          "title": "Tão longe de tudo",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 234666
+        },
+        {
+          "title": "A solidão te engole vivo",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 194069
+        },
+        {
+          "title": "Sombras no escuro",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 177983
+        },
+        {
+          "title": "O poeta está vivo",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 275810
+        },
+        {
+          "title": "Solidão que nada",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 204842
+        },
+        {
+          "title": "Por que a gente é assim?",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 221687
+        },
+        {
+          "title": "Guarda essa canção",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 261375
+        },
+        {
+          "title": "Um dia igual ao outro",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 244394
+        },
+        {
+          "title": "Amor meu grande amor",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 249488
+        },
+        {
+          "title": "Down em mim",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 242297
+        },
+        {
+          "title": "Não amo ninguém",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 270131
+        },
+        {
+          "title": "Amor pra recomeçar",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 207418
+        },
+        {
+          "title": "O tempo não para",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 264223
+        },
+        {
+          "title": "Pro dia nascer feliz",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 316057
+        },
+        {
+          "title": "Exagerado",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 208515
+        },
+        {
+          "title": "Puro êxtase",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 279055
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

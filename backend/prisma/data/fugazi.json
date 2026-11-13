@@ -1,0 +1,861 @@
+{
+  "generatedAt": "2026-11-13T13:58:22.189Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "233fc3f3-6de2-465c-985e-e721dbabbace",
+    "name": "Fugazi",
+    "slug": "fugazi",
+    "type": "BAND",
+    "country": "US",
+    "city": "Washington, D.C.",
+    "formedYear": 1986,
+    "disbandedYear": null,
+    "bio": "O Fugazi se formou em Washington, D.C., em 1986. Os integrantes principais são Ian MacKaye (guitarra e voz), Guy Picciotto (guitarra e voz), Joe Lally (baixo) e Brendan Canty (bateria). Em setembro de 1986, MacKaye reuniu Colin Sears, ex-baterista do Dag Nasty, e Joe Lally para formar o grupo. Sears voltou ao Dag Nasty e foi substituído por Canty, e Guy Picciotto entrou depois, quando MacKaye o convidou para ser membro permanente. O primeiro show citado na Wikipédia é de setembro de 1987.\n\nO nome veio de uma coletânea de histórias de veteranos da Guerra do Vietnã, de Mark Baker, em que a palavra era uma sigla para \"ferrado\". A banda seguia o ideal do faça você mesmo, herdado da cultura punk, e se mantinha longe de práticas comerciais: nas primeiras turnês, decidiu não vender mercadoria e procurou clubes de rock alternativo em vez de casas convencionais.\n\nOs álbuns de estúdio são Repeater (1990), Steady Diet of Nothing (1991), In on the Kill Taker (1993), Red Medicine (1995), End Hits (1998) e The Argument (2001). Entre os EPs estão Fugazi (1988), Margin Walker (1989) e Furniture (2001), e há ainda a compilação 13 Songs (1989).\n\nA banda é classificada como post-hardcore, art punk e rock experimental, e se descreveu como \"The Stooges com reggae\". Está em hiato desde o início dos anos 2000. Suas influências citadas incluem funk, reggae, soul e noise.",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/233fc3f3-6de2-465c-985e-e721dbabbace"
+      },
+      {
+        "name": "Wikipédia em português: Fugazi",
+        "url": "https://pt.wikipedia.org/wiki/Fugazi"
+      }
+    ],
+    "genres": [
+      "post-hardcore",
+      "hardcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "5be01c92-bb45-326c-9634-badf08f9ad7f",
+      "releaseMbid": "206f4eb9-6d74-4725-90f9-d787559479b1",
+      "title": "Fugazi",
+      "type": "EP",
+      "releaseDate": "1988",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/5be01c92-bb45-326c-9634-badf08f9ad7f/front-1200",
+      "tracks": [
+        {
+          "title": "Waiting Room",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 174000
+        },
+        {
+          "title": "Bulldog Front",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 173000
+        },
+        {
+          "title": "Bad Mouth",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 156000
+        },
+        {
+          "title": "Burning",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 159000
+        },
+        {
+          "title": "Give Me the Cure",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 179000
+        },
+        {
+          "title": "Suggestion",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 284000
+        },
+        {
+          "title": "Glue Man",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 261000
+        }
+      ]
+    },
+    {
+      "mbid": "0cd03748-df2f-322f-985b-cb03079ff483",
+      "releaseMbid": "b2e2f4fc-46e8-41b2-b058-04fa5bcaada9",
+      "title": "Margin Walker",
+      "type": "EP",
+      "releaseDate": "1989-06",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0cd03748-df2f-322f-985b-cb03079ff483/front-1200",
+      "tracks": [
+        {
+          "title": "Margin Walker",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 150000
+        },
+        {
+          "title": "And the Same",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 207000
+        },
+        {
+          "title": "Burning Too",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 162000
+        },
+        {
+          "title": "Provisional",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 138000
+        },
+        {
+          "title": "Lockdown",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 131000
+        },
+        {
+          "title": "Promises",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 242000
+        }
+      ]
+    },
+    {
+      "mbid": "e65e574d-6129-3798-84d9-5952876ad210",
+      "releaseMbid": "f64e26a7-99f4-4dc9-918e-a6da60fd5c38",
+      "title": "13 Songs",
+      "type": "COMPILATION",
+      "releaseDate": "1989-09",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/e65e574d-6129-3798-84d9-5952876ad210/front-1200",
+      "tracks": [
+        {
+          "title": "Waiting Room",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 174840
+        },
+        {
+          "title": "Bulldog Front",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 173800
+        },
+        {
+          "title": "Bad Mouth",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 156333
+        },
+        {
+          "title": "Burning",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 159533
+        },
+        {
+          "title": "Give Me the Cure",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 179333
+        },
+        {
+          "title": "Suggestion",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 284626
+        },
+        {
+          "title": "Glue Man",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 261306
+        },
+        {
+          "title": "Margin Walker",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 150200
+        },
+        {
+          "title": "And the Same",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 207026
+        },
+        {
+          "title": "Burning Too",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 161666
+        },
+        {
+          "title": "Provisional",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 137440
+        },
+        {
+          "title": "Lockdown",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 130533
+        },
+        {
+          "title": "Promises",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 241560
+        }
+      ]
+    },
+    {
+      "mbid": "c7c2de8e-3c98-3923-a4d9-54c4295d20b4",
+      "releaseMbid": "00baa173-29db-33a9-af6d-fe109e53a211",
+      "title": "Repeater",
+      "type": "ALBUM",
+      "releaseDate": "1990-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c7c2de8e-3c98-3923-a4d9-54c4295d20b4/front-1200",
+      "tracks": [
+        {
+          "title": "Turnover",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 258000
+        },
+        {
+          "title": "Repeater",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 183000
+        },
+        {
+          "title": "Brendan #1",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 155000
+        },
+        {
+          "title": "Merchandise",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 181000
+        },
+        {
+          "title": "Blueprint",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 235000
+        },
+        {
+          "title": "Sieve-Fisted Find",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 206000
+        },
+        {
+          "title": "Greed",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 110000
+        },
+        {
+          "title": "Two Beats Off",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 210000
+        },
+        {
+          "title": "Styrofoam",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 157000
+        },
+        {
+          "title": "Reprovisional",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 140000
+        },
+        {
+          "title": "Shut the Door",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 291000
+        }
+      ]
+    },
+    {
+      "mbid": "80b98ced-1d30-3e5d-8172-245c16b56fa6",
+      "releaseMbid": "975991e7-41b6-4ada-965d-13c603db5dba",
+      "title": "Steady Diet of Nothing",
+      "type": "ALBUM",
+      "releaseDate": "1991-08-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/80b98ced-1d30-3e5d-8172-245c16b56fa6/front-1200",
+      "tracks": [
+        {
+          "title": "Exit Only",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 192640
+        },
+        {
+          "title": "Reclamation",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 200933
+        },
+        {
+          "title": "Nice New Outfit",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 206533
+        },
+        {
+          "title": "Stacks",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 188800
+        },
+        {
+          "title": "Latin Roots",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 192760
+        },
+        {
+          "title": "Steady Diet",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 221666
+        },
+        {
+          "title": "Long Division",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 132240
+        },
+        {
+          "title": "Runaway Return",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 239066
+        },
+        {
+          "title": "Polish",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 218000
+        },
+        {
+          "title": "Dear Justice Letter",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 207066
+        },
+        {
+          "title": "KYEO",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 178333
+        }
+      ]
+    },
+    {
+      "mbid": "3e65d48b-804d-3e6b-8d52-558ee8e1850c",
+      "releaseMbid": "35704cbf-172f-30b9-b182-824eb9da6342",
+      "title": "In on the Kill Taker",
+      "type": "ALBUM",
+      "releaseDate": "1993-06-30",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Facet Squared",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 162426
+        },
+        {
+          "title": "Public Witness Program",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 124466
+        },
+        {
+          "title": "Returning the Screw",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 193640
+        },
+        {
+          "title": "Smallpox Champion",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 241066
+        },
+        {
+          "title": "Rend It",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 228066
+        },
+        {
+          "title": "23 Beats Off",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 401866
+        },
+        {
+          "title": "Sweet and Low",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 216426
+        },
+        {
+          "title": "Cassavetes",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 150333
+        },
+        {
+          "title": "Great Cop",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 112106
+        },
+        {
+          "title": "Walken’s Syndrome",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 198133
+        },
+        {
+          "title": "Instrument",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 223826
+        },
+        {
+          "title": "Last Chance for a Slow Dance",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 278240
+        }
+      ]
+    },
+    {
+      "mbid": "5b6401e0-54a3-3b91-9dac-b289ef456de1",
+      "releaseMbid": "1f62d07a-ff81-469f-ba61-1e7083055be2",
+      "title": "Red Medicine",
+      "type": "ALBUM",
+      "releaseDate": "1995-06-12",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Do You Like Me",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 196453
+        },
+        {
+          "title": "Bed for the Scraping",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 170240
+        },
+        {
+          "title": "Latest Disgrace",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 214506
+        },
+        {
+          "title": "Birthday Pony",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 188800
+        },
+        {
+          "title": "Forensic Scene",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 185026
+        },
+        {
+          "title": "Combination Lock",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 186600
+        },
+        {
+          "title": "Fell, Destroyed",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 226240
+        },
+        {
+          "title": "By You",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 311666
+        },
+        {
+          "title": "Version",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 200026
+        },
+        {
+          "title": "Target",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 212173
+        },
+        {
+          "title": "Back to Base",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 105160
+        },
+        {
+          "title": "Downed City",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 173773
+        },
+        {
+          "title": "Long Distance Runner",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 257760
+        }
+      ]
+    },
+    {
+      "mbid": "733df4d9-4350-3ce7-9fb3-81f0c2223841",
+      "releaseMbid": "a1c10eec-8aba-4544-89e2-252631f9ab4a",
+      "title": "End Hits",
+      "type": "ALBUM",
+      "releaseDate": "1998-04-14",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/733df4d9-4350-3ce7-9fb3-81f0c2223841/front-1200",
+      "tracks": [
+        {
+          "title": "Break",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 132000
+        },
+        {
+          "title": "Place Position",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 165000
+        },
+        {
+          "title": "Recap Modotti",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 231000
+        },
+        {
+          "title": "No Surprise",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 252000
+        },
+        {
+          "title": "Five Corporations",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 149000
+        },
+        {
+          "title": "Caustic Acrostic",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 121000
+        },
+        {
+          "title": "Closed Captioned",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 293000
+        },
+        {
+          "title": "Floating Boy",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 346000
+        },
+        {
+          "title": "Foreman’s Dog",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 269000
+        },
+        {
+          "title": "Arpeggiator",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 269000
+        },
+        {
+          "title": "Guilford Fall",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 177000
+        },
+        {
+          "title": "Pink Frosty",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 249000
+        },
+        {
+          "title": "F/D",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 221000
+        }
+      ]
+    },
+    {
+      "mbid": "8525edf9-61aa-3500-8627-34ca597fed29",
+      "releaseMbid": "32009e87-0f5c-411a-897b-c0414cfceb60",
+      "title": "Instrument",
+      "type": "ALBUM",
+      "releaseDate": "1999-03-23",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/8525edf9-61aa-3500-8627-34ca597fed29/front-1200",
+      "tracks": [
+        {
+          "title": "Pink Frosty (demo)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 227000
+        },
+        {
+          "title": "Lusty Scripps",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 222360
+        },
+        {
+          "title": "Arpeggiator (demo)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 174200
+        },
+        {
+          "title": "Afterthought",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 88573
+        },
+        {
+          "title": "Trio's",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 135693
+        },
+        {
+          "title": "Turkish Disco",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 154840
+        },
+        {
+          "title": "Me and Thumbelina",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 45800
+        },
+        {
+          "title": "Floating Boy (demo)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 214960
+        },
+        {
+          "title": "Link Track",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 86506
+        },
+        {
+          "title": "Little Debbie",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 109200
+        },
+        {
+          "title": "H.B.",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 79333
+        },
+        {
+          "title": "I'm So Tired",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 118933
+        },
+        {
+          "title": "Rend It (demo)",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 212160
+        },
+        {
+          "title": "Closed Captioned (demo)",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 350040
+        },
+        {
+          "title": "Guilford Fall (demo)",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 209466
+        },
+        {
+          "title": "Swingset",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 97666
+        },
+        {
+          "title": "Shaken All Over",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 58093
+        },
+        {
+          "title": "Slo Crostic",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 160840
+        }
+      ]
+    },
+    {
+      "mbid": "4042fe4e-0444-338b-9f2a-ac80faabcb1f",
+      "releaseMbid": "4dfe2adc-41f5-37a6-bbb3-9c56966db8a1",
+      "title": "Furniture",
+      "type": "EP",
+      "releaseDate": "2001-10-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4042fe4e-0444-338b-9f2a-ac80faabcb1f/front-1200",
+      "tracks": [
+        {
+          "title": "Furniture",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 215533
+        },
+        {
+          "title": "Number 5",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 189226
+        },
+        {
+          "title": "Hello Morning",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 126520
+        }
+      ]
+    },
+    {
+      "mbid": "7b1cb5fb-7ba5-3472-a687-1cb8f2d896e7",
+      "releaseMbid": "ff6225b3-2e83-494e-8605-e6b057a4eefe",
+      "title": "The Argument",
+      "type": "ALBUM",
+      "releaseDate": "2001-10-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/7b1cb5fb-7ba5-3472-a687-1cb8f2d896e7/front-1200",
+      "tracks": [
+        {
+          "title": "[untitled]",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 52000
+        },
+        {
+          "title": "Cashout",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 264000
+        },
+        {
+          "title": "Full Disclosure",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 233080
+        },
+        {
+          "title": "Epic Problem",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 239000
+        },
+        {
+          "title": "Life and Limb",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 189000
+        },
+        {
+          "title": "The Kill",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 327360
+        },
+        {
+          "title": "Strangelight",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 353000
+        },
+        {
+          "title": "Oh",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 269400
+        },
+        {
+          "title": "Ex-Spectator",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 258000
+        },
+        {
+          "title": "Nightshop",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 242000
+        },
+        {
+          "title": "Argument",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 267000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

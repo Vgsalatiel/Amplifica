@@ -1,0 +1,917 @@
+{
+  "generatedAt": "2026-11-13T13:57:15.307Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "44cf61b8-5197-448a-b82b-cef6ee89fac5",
+    "name": "Paramore",
+    "slug": "paramore",
+    "type": "BAND",
+    "country": "US",
+    "city": "Franklin",
+    "formedYear": 2004,
+    "disbandedYear": null,
+    "bio": "O Paramore se formou em 2004, em Franklin, no Tennessee, por Hayley Williams, Josh Farro, Zac Farro e Jeremy Davis, com Jason Bynum chegando logo depois. A banda assinou com a Fueled by Ramen em abril de 2005, enquanto Hayley Williams assinou separadamente com a Atlantic Records.\n\nOs álbuns de estúdio são All We Know Is Falling (2005), Riot! (2007), Brand New Eyes (2009), Paramore (2013), After Laughter (2017) e This Is Why (2023). Brand New Eyes chegou ao segundo lugar da Billboard 200, e Paramore foi o primeiro disco do grupo a liderar a parada americana.\n\nJosh e Zac Farro saíram em dezembro de 2010. Taylor York, que entrou em 2007, segue como guitarrista. Jeremy Davis saiu no fim de 2015, e Zac Farro voltou em 2017. A formação atual é Hayley Williams, Taylor York e Zac Farro, e Hayley é a única presente nos seis álbuns de estúdio.\n\nO primeiro Grammy veio em 2015, de Melhor Canção de Rock por Ain't It Fun. Em 2024, a banda ganhou Melhor Álbum de Rock por This Is Why e Melhor Performance de Música Alternativa pela faixa-título, e foi citada como o primeiro grupo com uma mulher nos vocais a vencer Melhor Álbum de Rock. Nesse ano, encerrou a parceria com a Atlantic e seguiu de forma independente. O som é associado ao rock alternativo, ao pop punk, ao power pop, à new wave e ao emo.",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/44cf61b8-5197-448a-b82b-cef6ee89fac5"
+      },
+      {
+        "name": "Wikipédia em português: Paramore",
+        "url": "https://pt.wikipedia.org/wiki/Paramore"
+      }
+    ],
+    "genres": [
+      "alternative-rock",
+      "emo",
+      "pop-punk"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "db2f644e-daf7-3e70-b9ff-b7205e1bcfce",
+      "releaseMbid": "6f0fa84a-8770-4b21-b6f3-8291e6ec5a06",
+      "title": "All We Know Is Falling",
+      "type": "ALBUM",
+      "releaseDate": "2005-07-26",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "All We Know",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 193000
+        },
+        {
+          "title": "Pressure",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 185000
+        },
+        {
+          "title": "Emergency",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 240000
+        },
+        {
+          "title": "Brighter",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 223000
+        },
+        {
+          "title": "Here We Go Again",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 226000
+        },
+        {
+          "title": "Never Let This Go",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 220000
+        },
+        {
+          "title": "Whoa",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 201000
+        },
+        {
+          "title": "Conspiracy",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 222000
+        },
+        {
+          "title": "Franklin",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 198000
+        },
+        {
+          "title": "My Heart",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 239000
+        }
+      ]
+    },
+    {
+      "mbid": "0af75332-4c74-3afa-849c-f76f203bf58d",
+      "releaseMbid": "b8237d33-ad0a-41ae-96e6-99d0671700ec",
+      "title": "The Summer Tic EP",
+      "type": "EP",
+      "releaseDate": "2006-06-18",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0af75332-4c74-3afa-849c-f76f203bf58d/front-1200",
+      "tracks": [
+        {
+          "title": "Emergency (Crab mix)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 243546
+        },
+        {
+          "title": "O Star",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 227106
+        },
+        {
+          "title": "Stuck on You",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 267493
+        },
+        {
+          "title": "This Circle",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 245466
+        }
+      ]
+    },
+    {
+      "mbid": "ebd19544-9af0-317a-a2d3-f0c57ddd79f7",
+      "releaseMbid": "32738c35-e6de-4416-9090-5fde9c60090f",
+      "title": "Riot!",
+      "type": "ALBUM",
+      "releaseDate": "2007-06-11",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "For a Pessimist, I'm Pretty Optimistic",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 228293
+        },
+        {
+          "title": "That's What You Get",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 220480
+        },
+        {
+          "title": "Hallelujah",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 203640
+        },
+        {
+          "title": "Misery Business",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 211520
+        },
+        {
+          "title": "When It Rains",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 215093
+        },
+        {
+          "title": "Let the Flames Begin",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 198226
+        },
+        {
+          "title": "Miracle",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 209746
+        },
+        {
+          "title": "crushcrushcrush",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 189373
+        },
+        {
+          "title": "We Are Broken",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 218333
+        },
+        {
+          "title": "Fences",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 198973
+        },
+        {
+          "title": "Born for This",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 238626
+        }
+      ]
+    },
+    {
+      "mbid": "d6a5fd39-7cfc-3610-a13e-03daaa5698ca",
+      "releaseMbid": "ed5d5a9b-2aaf-4a7d-8a40-65d1baf295c5",
+      "title": "The B-Sides",
+      "type": "COMPILATION",
+      "releaseDate": "2008",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d6a5fd39-7cfc-3610-a13e-03daaa5698ca/front-1200",
+      "tracks": [
+        {
+          "title": "Decoy",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 197000
+        },
+        {
+          "title": "Another Day",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 211000
+        },
+        {
+          "title": "Oh Star",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 227000
+        },
+        {
+          "title": "Stop This Song (Lovesick Melody)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 203000
+        },
+        {
+          "title": "Just Like Me",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 268000
+        },
+        {
+          "title": "Decode (acoustic)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 267000
+        },
+        {
+          "title": "My Hero",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 227000
+        },
+        {
+          "title": "Stuck on You",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 268000
+        },
+        {
+          "title": "Hello Hello",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 258000
+        },
+        {
+          "title": "When It Rains (demo)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 204000
+        },
+        {
+          "title": "Emergency (Crab mix)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 244000
+        },
+        {
+          "title": "Rewind (demo)",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 227000
+        },
+        {
+          "title": "This Circle",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 246000
+        },
+        {
+          "title": "Adore",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 212000
+        },
+        {
+          "title": "My Number One",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 226000
+        },
+        {
+          "title": "Hallelujah (demo)",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 228000
+        },
+        {
+          "title": "Sunday Bloody Sunday",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 258000
+        },
+        {
+          "title": "I Caught Myself",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": 235000
+        },
+        {
+          "title": "Throwing Punches",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": 288000
+        },
+        {
+          "title": "Breathe (Until Tomorrow)",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": 288000
+        },
+        {
+          "title": "Swim in Silence",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": 335000
+        },
+        {
+          "title": "Stay Away",
+          "discNumber": 2,
+          "position": 5,
+          "durationMs": 219000
+        },
+        {
+          "title": "Temporary",
+          "discNumber": 2,
+          "position": 6,
+          "durationMs": 205000
+        },
+        {
+          "title": "Teenagers",
+          "discNumber": 2,
+          "position": 7,
+          "durationMs": 126000
+        },
+        {
+          "title": "Oh Star (demo)",
+          "discNumber": 2,
+          "position": 8,
+          "durationMs": 260000
+        },
+        {
+          "title": "In the Mourning (demo)",
+          "discNumber": 2,
+          "position": 9,
+          "durationMs": 186000
+        }
+      ]
+    },
+    {
+      "mbid": "d8dde094-3955-34ff-8983-9b20814829be",
+      "releaseMbid": "c3b38be6-5e55-4511-81b4-73766d9ce734",
+      "title": "The Final Riot!",
+      "type": "LIVE",
+      "releaseDate": "2008-11-24",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d8dde094-3955-34ff-8983-9b20814829be/front-1200",
+      "tracks": [
+        {
+          "title": "Born for This",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 346333
+        },
+        {
+          "title": "That’s What You Get",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 213853
+        },
+        {
+          "title": "Here We Go Again",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 249666
+        },
+        {
+          "title": "Fences",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 210653
+        },
+        {
+          "title": "crushcrushcrush",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 195106
+        },
+        {
+          "title": "Let the Flames Begin",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 338000
+        },
+        {
+          "title": "When It Rains",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 243760
+        },
+        {
+          "title": "My Heart",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 330826
+        },
+        {
+          "title": "Decoy",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 193626
+        },
+        {
+          "title": "Pressure",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 181506
+        },
+        {
+          "title": "For a Pessimist, I’m Pretty Optimistic",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 266826
+        },
+        {
+          "title": "We Are Broken",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 324813
+        },
+        {
+          "title": "Emergency",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 322453
+        },
+        {
+          "title": "Hallelujah",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 297133
+        },
+        {
+          "title": "Misery Business",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 279800
+        }
+      ]
+    },
+    {
+      "mbid": "cd706457-8b16-4809-a61a-cdba1b281d39",
+      "releaseMbid": "38ae0388-de4d-49dd-b0a3-a68363185c7b",
+      "title": "Brand New Eyes",
+      "type": "ALBUM",
+      "releaseDate": "2009-09-22",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/cd706457-8b16-4809-a61a-cdba1b281d39/front-1200",
+      "tracks": [
+        {
+          "title": "Careful",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 230440
+        },
+        {
+          "title": "Ignorance",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 218626
+        },
+        {
+          "title": "Playing God",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 182800
+        },
+        {
+          "title": "Brick by Boring Brick",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 253946
+        },
+        {
+          "title": "Turn It Off",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 259720
+        },
+        {
+          "title": "The Only Exception",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 267653
+        },
+        {
+          "title": "Feeling Sorry",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 185146
+        },
+        {
+          "title": "Looking Up",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 209426
+        },
+        {
+          "title": "Where the Lines Overlap",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 198746
+        },
+        {
+          "title": "Misguided Ghosts",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 181506
+        },
+        {
+          "title": "All I Wanted",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 228266
+        },
+        {
+          "title": "Decode",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 262346
+        }
+      ]
+    },
+    {
+      "mbid": "d1b61f6e-aa3c-4f3f-9cd0-09f8ec0f01f7",
+      "releaseMbid": "ca942fed-6c93-438c-aff8-9be79af2e927",
+      "title": "Paramore",
+      "type": "ALBUM",
+      "releaseDate": "2013-04-05",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d1b61f6e-aa3c-4f3f-9cd0-09f8ec0f01f7/front-1200",
+      "tracks": [
+        {
+          "title": "Fast in My Car",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 222693
+        },
+        {
+          "title": "Now",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 247413
+        },
+        {
+          "title": "Grow Up",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 230906
+        },
+        {
+          "title": "Daydreaming",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 271026
+        },
+        {
+          "title": "Interlude: Moving On",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 90320
+        },
+        {
+          "title": "Ain’t It Fun",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 296520
+        },
+        {
+          "title": "Part II",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 281240
+        },
+        {
+          "title": "Last Hope",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 309973
+        },
+        {
+          "title": "Still Into You",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 216013
+        },
+        {
+          "title": "Anklebiters",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 137933
+        },
+        {
+          "title": "Interlude: Holiday",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 69680
+        },
+        {
+          "title": "Proof",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 195386
+        },
+        {
+          "title": "Hate to See Your Heart Break",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 309293
+        },
+        {
+          "title": "(One of Those) Crazy Girls",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 212560
+        },
+        {
+          "title": "Interlude: I’m Not Angry Anymore",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 52600
+        },
+        {
+          "title": "Be Alone",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 220080
+        },
+        {
+          "title": "Future",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 472933
+        }
+      ]
+    },
+    {
+      "mbid": "359726a0-3d49-4a9a-8fba-4a92e1bfe38d",
+      "releaseMbid": "1080af22-6a39-45a0-9762-b1e9dfcfe642",
+      "title": "After Laughter",
+      "type": "ALBUM",
+      "releaseDate": "2017-05-12",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/359726a0-3d49-4a9a-8fba-4a92e1bfe38d/front-1200",
+      "tracks": [
+        {
+          "title": "Hard Times",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 183000
+        },
+        {
+          "title": "Rose‐Colored Boy",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 213000
+        },
+        {
+          "title": "Told You So",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 189000
+        },
+        {
+          "title": "Forgiveness",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 220000
+        },
+        {
+          "title": "Fake Happy",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 236000
+        },
+        {
+          "title": "26",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 222000
+        },
+        {
+          "title": "Pool",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 233000
+        },
+        {
+          "title": "Grudges",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 187000
+        },
+        {
+          "title": "Caught in the Middle",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 214000
+        },
+        {
+          "title": "Idle Worship",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 198000
+        },
+        {
+          "title": "No Friend",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 204000
+        },
+        {
+          "title": "Tell Me How",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 260000
+        }
+      ]
+    },
+    {
+      "mbid": "05c73df7-423f-4dab-b600-afdc7d453e4e",
+      "releaseMbid": "0b9b8a20-60f0-426e-92b9-a95c0a67c8f7",
+      "title": "This Is Why",
+      "type": "ALBUM",
+      "releaseDate": "2023-02-10",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/05c73df7-423f-4dab-b600-afdc7d453e4e/front-1200",
+      "tracks": [
+        {
+          "title": "This Is Why",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 206680
+        },
+        {
+          "title": "The News",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 187666
+        },
+        {
+          "title": "Running Out of Time",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 192426
+        },
+        {
+          "title": "C’est comme ça",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 149226
+        },
+        {
+          "title": "Big Man, Little Dignity",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 260373
+        },
+        {
+          "title": "You First",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 245493
+        },
+        {
+          "title": "Figure 8",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 204946
+        },
+        {
+          "title": "Liar",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 261853
+        },
+        {
+          "title": "Crave",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 234986
+        },
+        {
+          "title": "Thick Skull",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 233013
+        }
+      ]
+    },
+    {
+      "mbid": "a0d05018-dc46-4752-9517-40b506172acb",
+      "releaseMbid": "eb9d1feb-5edb-4b89-82c2-532547bbc61c",
+      "title": "Re: This Is Why",
+      "type": "COMPILATION",
+      "releaseDate": "2023-10-06",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "This Is Why (Re: Foals)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 351000
+        },
+        {
+          "title": "The News (Re: The Linda Lindas)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 205000
+        },
+        {
+          "title": "Running Out of Time (Re: Panda Bear)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 263000
+        },
+        {
+          "title": "Running Out of Time (Re: Zane Lowe)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 284000
+        },
+        {
+          "title": "C’est comme ça (Re: Wet Leg)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 144000
+        },
+        {
+          "title": "Big Man, Little Dignity (Re: DOMi & JD BECK)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 179000
+        },
+        {
+          "title": "You First (Re: Remi Wolf)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 234000
+        },
+        {
+          "title": "Figure 8 (Re: Bartees Strange)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 215000
+        },
+        {
+          "title": "Liar (Re: Romy)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 276000
+        },
+        {
+          "title": "Crave (Re: Claud)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 210000
+        },
+        {
+          "title": "Thick Skull (Re: Julien Baker)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 294000
+        },
+        {
+          "title": "Sanity (demo)",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 210000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

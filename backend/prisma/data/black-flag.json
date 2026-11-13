@@ -1,0 +1,1145 @@
+{
+  "generatedAt": "2026-11-13T14:03:41.675Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "9941a936-196a-4a62-ae53-a69cbc33f20e",
+    "name": "Black Flag",
+    "slug": "black-flag",
+    "type": "BAND",
+    "country": "US",
+    "city": "Hermosa Beach",
+    "formedYear": 1976,
+    "disbandedYear": null,
+    "bio": "O Black Flag se formou em 1976, em Hermosa Beach, na Califórnia, pelo guitarrista Greg Ginn, que primeiro a chamou de Panic. Depois de um primeiro show em Redondo Beach, em dezembro de 1977, a banda mudou o nome para Black Flag em 1978, para evitar confusão com outro grupo. Nesse ano lançou o single Nervous Breakdown pela SST Records, gravadora de Ginn.\n\nA formação inicial teve Keith Morris nos vocais, e a banda passou por muitas trocas de integrantes. Morris saiu em 1979 para formar o Circle Jerks, e Ron Reyes e Dez Cadena também cantaram na fase inicial. Em 1981, Henry Rollins entrou como vocalista, e o som ficou mais sério. Os álbuns desse período incluem Damaged (1981), My War (1983), Slip It In (1984), Loose Nut e In My Head (ambos de 1985).\n\nA banda se separou em outubro de 1986, quando Ginn, o único membro original que restava, decidiu encerrá-la. Rollins formou em seguida a Rollins Band. Em 2013, o Black Flag anunciou a volta, com Ron Reyes, e lançou o álbum What The... Mike Vallely também integrou a formação depois.\n\nÉ considerado um dos pilares do hardcore punk e influenciou bandas de outros gêneros, como o grunge. O logotipo foi criado por Raymond Pettibon, irmão de Greg Ginn, que também desenhou a maioria das capas de disco da banda.",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/9941a936-196a-4a62-ae53-a69cbc33f20e"
+      },
+      {
+        "name": "Wikipédia em português: Black Flag",
+        "url": "https://pt.wikipedia.org/wiki/Black_Flag"
+      }
+    ],
+    "genres": [
+      "hardcore",
+      "punk-rock"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "db01619d-f228-3f17-8205-2b63e11d6493",
+      "releaseMbid": "3eb6c9cc-494c-4b07-b17d-ce70fa1dca7a",
+      "title": "Nervous Breakdown",
+      "type": "EP",
+      "releaseDate": "1978-01-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/db01619d-f228-3f17-8205-2b63e11d6493/front-1200",
+      "tracks": [
+        {
+          "title": "Nervous Breakdown",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 129000
+        },
+        {
+          "title": "Fix Me",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 58000
+        },
+        {
+          "title": "I've Had It",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 85000
+        },
+        {
+          "title": "Wasted",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 51000
+        }
+      ]
+    },
+    {
+      "mbid": "6ea5385c-8a92-3d3b-94d6-35d0bad1233f",
+      "releaseMbid": "375b994e-16e6-3059-aa48-9e6309c1218b",
+      "title": "Jealous Again",
+      "type": "EP",
+      "releaseDate": "1980-08",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/6ea5385c-8a92-3d3b-94d6-35d0bad1233f/front-1200",
+      "tracks": [
+        {
+          "title": "Jealous Again",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 109000
+        },
+        {
+          "title": "Revenge",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 58000
+        },
+        {
+          "title": "White Minority",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 64000
+        },
+        {
+          "title": "No Values",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 105000
+        },
+        {
+          "title": "You Bet We’ve Got Something Personal Against You!",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 52374
+        }
+      ]
+    },
+    {
+      "mbid": "a80b0807-857f-3e39-8f26-48f7e9f1fe6e",
+      "releaseMbid": "2b62809d-1f80-4dcc-b0bb-dfe0d9a03756",
+      "title": "Six Pack",
+      "type": "EP",
+      "releaseDate": "1981-06",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Six Pack",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 137000
+        },
+        {
+          "title": "I’ve Heard It Before",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 98000
+        },
+        {
+          "title": "American Waste",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 90000
+        }
+      ]
+    },
+    {
+      "mbid": "2cf40300-0f67-3136-9b84-57104f1f7a50",
+      "releaseMbid": "136a731b-8515-4023-9cca-722e6de4cf60",
+      "title": "Damaged",
+      "type": "ALBUM",
+      "releaseDate": "1981-11-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/2cf40300-0f67-3136-9b84-57104f1f7a50/front-1200",
+      "tracks": [
+        {
+          "title": "Rise Above",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 148600
+        },
+        {
+          "title": "Spray Paint",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 35560
+        },
+        {
+          "title": "Six Pack",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 142560
+        },
+        {
+          "title": "What I See",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 117853
+        },
+        {
+          "title": "TV Party",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 213240
+        },
+        {
+          "title": "Thirsty and Miserable",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 127880
+        },
+        {
+          "title": "Police Story",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 94680
+        },
+        {
+          "title": "Gimmie Gimmie Gimmie",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 109173
+        },
+        {
+          "title": "Depression",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 150920
+        },
+        {
+          "title": "Room 13",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 126773
+        },
+        {
+          "title": "Damaged II",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 205120
+        },
+        {
+          "title": "No More",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 148000
+        },
+        {
+          "title": "Padded Cell",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 109080
+        },
+        {
+          "title": "Life of Pain",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 172520
+        },
+        {
+          "title": "Damaged I",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 230786
+        }
+      ]
+    },
+    {
+      "mbid": "b557415d-6f92-3530-b59b-f4c0e0cdc99e",
+      "releaseMbid": "22be5654-6142-491b-8504-2b0402ec1886",
+      "title": "Everything Went Black",
+      "type": "COMPILATION",
+      "releaseDate": "1982-01-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b557415d-6f92-3530-b59b-f4c0e0cdc99e/front-1200",
+      "tracks": [
+        {
+          "title": "Gimmie Gimmie Gimmie",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 119533
+        },
+        {
+          "title": "I Don't Care",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 59133
+        },
+        {
+          "title": "White Minority",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 72040
+        },
+        {
+          "title": "No Values",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 119600
+        },
+        {
+          "title": "Revenge",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 65293
+        },
+        {
+          "title": "Depression",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 130133
+        },
+        {
+          "title": "Clocked In",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 90866
+        },
+        {
+          "title": "Police Story",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 92306
+        },
+        {
+          "title": "Wasted",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 44626
+        },
+        {
+          "title": "Gimmie Gimmie Gimmie",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 102000
+        },
+        {
+          "title": "Depression",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 162466
+        },
+        {
+          "title": "Police Story",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 93666
+        },
+        {
+          "title": "Clocked In",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 97666
+        },
+        {
+          "title": "My Rules",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 64666
+        },
+        {
+          "title": "Jealous Again",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 141573
+        },
+        {
+          "title": "Police Story",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 96800
+        },
+        {
+          "title": "Damaged I",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 129360
+        },
+        {
+          "title": "Louie Louie",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 87333
+        },
+        {
+          "title": "No More",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 182200
+        },
+        {
+          "title": "Room 13",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 128106
+        },
+        {
+          "title": "Depression",
+          "discNumber": 1,
+          "position": 21,
+          "durationMs": 160733
+        },
+        {
+          "title": "Damaged II",
+          "discNumber": 1,
+          "position": 22,
+          "durationMs": 253160
+        },
+        {
+          "title": "Padded Cell",
+          "discNumber": 1,
+          "position": 23,
+          "durationMs": 113866
+        },
+        {
+          "title": "Gimmie Gimmie Gimmie",
+          "discNumber": 1,
+          "position": 24,
+          "durationMs": 108200
+        },
+        {
+          "title": "Crass Commercialism",
+          "discNumber": 1,
+          "position": 25,
+          "durationMs": 1030133
+        }
+      ]
+    },
+    {
+      "mbid": "5030de85-4231-3b36-b1cf-bfa4fb5987c1",
+      "releaseMbid": "a7f6c7d7-6be7-482b-b89d-b3d1f2ccbabf",
+      "title": "TV Party",
+      "type": "EP",
+      "releaseDate": "1982-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/5030de85-4231-3b36-b1cf-bfa4fb5987c1/front-1200",
+      "tracks": [
+        {
+          "title": "TV Party",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 220000
+        },
+        {
+          "title": "I've Got to Run",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 105000
+        },
+        {
+          "title": "My Rules",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 70000
+        }
+      ]
+    },
+    {
+      "mbid": "b5d5157e-2b5d-3a51-860a-e5d233738491",
+      "releaseMbid": "832e2ea3-13fb-3bb5-b928-f08a3eab2806",
+      "title": "The First Four Years",
+      "type": "COMPILATION",
+      "releaseDate": "1983-01-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b5d5157e-2b5d-3a51-860a-e5d233738491/front-1200",
+      "tracks": [
+        {
+          "title": "Nervous Breakdown",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 127000
+        },
+        {
+          "title": "Fix Me",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 55000
+        },
+        {
+          "title": "I’ve Had It",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 80000
+        },
+        {
+          "title": "Wasted",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 51106
+        },
+        {
+          "title": "Jealous Again",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 107000
+        },
+        {
+          "title": "Revenge",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 58000
+        },
+        {
+          "title": "White Minority",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 64000
+        },
+        {
+          "title": "No Values",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 64000
+        },
+        {
+          "title": "You Bet We’ve Got Something Personal Against You!",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 51000
+        },
+        {
+          "title": "Clocked In",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 90000
+        },
+        {
+          "title": "Six Pack",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 138000
+        },
+        {
+          "title": "I’ve Heard It Before",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 98000
+        },
+        {
+          "title": "American Waste",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 90000
+        },
+        {
+          "title": "Machine",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 85000
+        },
+        {
+          "title": "Louie Louie",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 77000
+        },
+        {
+          "title": "Damaged I",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 245000
+        }
+      ]
+    },
+    {
+      "mbid": "aa074df1-9246-35c2-a4ef-21c77ba37d8b",
+      "releaseMbid": "e9ab350c-baea-4ef2-ad1a-ab65d3c13802",
+      "title": "My War",
+      "type": "ALBUM",
+      "releaseDate": "1984-03",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/aa074df1-9246-35c2-a4ef-21c77ba37d8b/front-1200",
+      "tracks": [
+        {
+          "title": "My War",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 225640
+        },
+        {
+          "title": "Can't Decide",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 322333
+        },
+        {
+          "title": "Beat My Head Against the Wall",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 154093
+        },
+        {
+          "title": "I Love You",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 207173
+        },
+        {
+          "title": "Forever Time",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 150600
+        },
+        {
+          "title": "The Swinging Man",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 184400
+        },
+        {
+          "title": "Nothing Left Inside",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 394093
+        },
+        {
+          "title": "Three Nights",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 373306
+        },
+        {
+          "title": "Scream",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 411360
+        }
+      ]
+    },
+    {
+      "mbid": "81494ca4-5c93-3328-90eb-e048d0439d85",
+      "releaseMbid": "e071f8a7-5f2b-422f-8dfe-bd94b0f1b01e",
+      "title": "Family Man",
+      "type": "ALBUM",
+      "releaseDate": "1984-09-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/81494ca4-5c93-3328-90eb-e048d0439d85/front-1200",
+      "tracks": [
+        {
+          "title": "Family Man",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 81066
+        },
+        {
+          "title": "Salt on a Slug",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 92760
+        },
+        {
+          "title": "Hollywood Diary",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 35533
+        },
+        {
+          "title": "Let Your Fingers Do the Walking",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 154706
+        },
+        {
+          "title": "Shed Reading (Rattus Norvegicus)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 85000
+        },
+        {
+          "title": "No Deposit - No Return",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 41133
+        },
+        {
+          "title": "Armageddon Man",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 554960
+        },
+        {
+          "title": "Long Lost Dog of It",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 125133
+        },
+        {
+          "title": "I Won't Stick Any of You Unless and Until I Can Stick All of You!",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 350133
+        },
+        {
+          "title": "Account for What?",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 260106
+        },
+        {
+          "title": "The Pups Are Doggin' It",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 256360
+        }
+      ]
+    },
+    {
+      "mbid": "616ddcb0-f13c-34e5-a18c-c844bb869fb2",
+      "releaseMbid": "fc00d3b3-dae6-4bec-8523-ea4a001a2d9d",
+      "title": "Slip It In",
+      "type": "ALBUM",
+      "releaseDate": "1984-12",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/616ddcb0-f13c-34e5-a18c-c844bb869fb2/front-1200",
+      "tracks": [
+        {
+          "title": "Slip It In",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 377600
+        },
+        {
+          "title": "Black Coffee",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 295800
+        },
+        {
+          "title": "Wound Up",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 263333
+        },
+        {
+          "title": "Rat's Eyes",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 247533
+        },
+        {
+          "title": "Obliteration",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 356600
+        },
+        {
+          "title": "The Bars",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 277840
+        },
+        {
+          "title": "My Ghetto",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 125266
+        },
+        {
+          "title": "You're Not Evil",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 429534
+        }
+      ]
+    },
+    {
+      "mbid": "216eb671-acb1-3135-b5de-9b38c5066a25",
+      "releaseMbid": "6fecc954-3dac-4977-94aa-b80b5662e409",
+      "title": "Loose Nut",
+      "type": "ALBUM",
+      "releaseDate": "1985-05",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/216eb671-acb1-3135-b5de-9b38c5066a25/front-1200",
+      "tracks": [
+        {
+          "title": "Loose Nut",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 272000
+        },
+        {
+          "title": "Bastard in Love",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 195000
+        },
+        {
+          "title": "Annihilate This Week",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 283000
+        },
+        {
+          "title": "Best One Yet",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 153000
+        },
+        {
+          "title": "Modern Man",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 187000
+        },
+        {
+          "title": "This Is Good",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 205000
+        },
+        {
+          "title": "I’m the One",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 190000
+        },
+        {
+          "title": "Sinking",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 272000
+        },
+        {
+          "title": "Now She’s Black",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 290000
+        }
+      ]
+    },
+    {
+      "mbid": "da385e97-ec3b-35db-829a-7722d38168af",
+      "releaseMbid": "f158c8ca-03c5-45f3-9394-d385cd912452",
+      "title": "The Process of Weeding Out",
+      "type": "EP",
+      "releaseDate": "1985-09",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/da385e97-ec3b-35db-829a-7722d38168af/front-1200",
+      "tracks": [
+        {
+          "title": "Your Last Affront",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 578400
+        },
+        {
+          "title": "Screw the Law",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 144133
+        },
+        {
+          "title": "The Process of Weeding Out",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 598573
+        },
+        {
+          "title": "Southern Rise",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 298894
+        }
+      ]
+    },
+    {
+      "mbid": "46d32ab1-a694-3243-be78-5bcfb5597564",
+      "releaseMbid": "3e175d2b-7dc9-496a-94cb-9c5de7ad3d30",
+      "title": "In My Head",
+      "type": "ALBUM",
+      "releaseDate": "1985-10",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Paralyzed",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 162306
+        },
+        {
+          "title": "The Crazy Girl",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 171760
+        },
+        {
+          "title": "Black Love",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 166106
+        },
+        {
+          "title": "White Hot",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 306093
+        },
+        {
+          "title": "In My Head",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 278640
+        },
+        {
+          "title": "Out of This World",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 135360
+        },
+        {
+          "title": "I Can See You",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 200533
+        },
+        {
+          "title": "Drinking and Driving",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 203533
+        },
+        {
+          "title": "Retired at 21",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 303373
+        },
+        {
+          "title": "Society’s Tease",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 375160
+        },
+        {
+          "title": "It’s All Up to You",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 320640
+        },
+        {
+          "title": "You Let Me Down",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 222000
+        }
+      ]
+    },
+    {
+      "mbid": "6169796e-e9c5-3a15-9855-2f5eee3af168",
+      "releaseMbid": "04a65cd6-21a1-4c36-9997-954d613736d5",
+      "title": "Wasted...Again",
+      "type": "COMPILATION",
+      "releaseDate": "1987-12",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/6169796e-e9c5-3a15-9855-2f5eee3af168/front-1200",
+      "tracks": [
+        {
+          "title": "Wasted",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 53306
+        },
+        {
+          "title": "TV Party",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 211826
+        },
+        {
+          "title": "Six Pack",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 140333
+        },
+        {
+          "title": "I Don’t Care",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 60173
+        },
+        {
+          "title": "I’ve Had It",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 84893
+        },
+        {
+          "title": "Jealous Again",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 110840
+        },
+        {
+          "title": "Slip It In",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 376693
+        },
+        {
+          "title": "Annihilate This Week",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 284066
+        },
+        {
+          "title": "Loose Nut",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 273466
+        },
+        {
+          "title": "Gimmie Gimmie Gimmie",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 120066
+        },
+        {
+          "title": "Louie Louie",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 79733
+        },
+        {
+          "title": "Drinking & Driving",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 202400
+        }
+      ]
+    },
+    {
+      "mbid": "f5621731-8657-4e04-be56-6f5ff6c2552d",
+      "releaseMbid": "1bdb7ebf-7616-4204-b864-6025cf2613d5",
+      "title": "What The...",
+      "type": "ALBUM",
+      "releaseDate": "2013-11-13",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f5621731-8657-4e04-be56-6f5ff6c2552d/front-1200",
+      "tracks": [
+        {
+          "title": "My Heart's Pumping",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 131379
+        },
+        {
+          "title": "Down in the Dirt",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 216603
+        },
+        {
+          "title": "Blood and Ashes",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 105795
+        },
+        {
+          "title": "Now Is the Time",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 105723
+        },
+        {
+          "title": "Wallow in Despair",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 87963
+        },
+        {
+          "title": "Slow Your Ass Down",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 105627
+        },
+        {
+          "title": "It's So Absurd",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 67131
+        },
+        {
+          "title": "Shut Up",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 97923
+        },
+        {
+          "title": "This Is Hell",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 116355
+        },
+        {
+          "title": "Go Away",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 147003
+        },
+        {
+          "title": "The Bitter End",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 116835
+        },
+        {
+          "title": "The Chase",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 131619
+        },
+        {
+          "title": "I'm Sick",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 104451
+        },
+        {
+          "title": "It's Not My Time to Go-Go",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 92571
+        },
+        {
+          "title": "Lies",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 159507
+        },
+        {
+          "title": "Get Out of My Way",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 58731
+        },
+        {
+          "title": "Outside",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 159339
+        },
+        {
+          "title": "No Teeth",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 99987
+        },
+        {
+          "title": "To Hell and Back",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 97299
+        },
+        {
+          "title": "Give Me All Your Dough",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 83643
+        },
+        {
+          "title": "You Gotta Be Joking",
+          "discNumber": 1,
+          "position": 21,
+          "durationMs": 74451
+        },
+        {
+          "title": "Off My Shoulders",
+          "discNumber": 1,
+          "position": 22,
+          "durationMs": 197595
+        }
+      ]
+    }
+  ],
+  "pending": []
+}
