@@ -69,3 +69,21 @@ export function todayInBrazil(now: Date = new Date()): string {
     day: '2-digit',
   }).format(now)
 }
+
+const WEEKDAYS = ['dom', 'seg', 'ter', 'qua', 'qui', 'sex', 'sáb']
+
+/**
+ * Partes de um dia de show, para o cartão da agenda: "2027-03-15" vira dia "15", dia da semana
+ * "seg", mês "março" e ano "2027". Feita à mão, sem fuso: o dia do show nunca se desloca.
+ */
+export function showDay(date: string): { day: string; weekday: string; month: string; year: string } {
+  const [year = 0, month = 1, day = 1] = date.split('-').map(Number)
+  const weekday = WEEKDAYS[new Date(Date.UTC(year, month - 1, day)).getUTCDay()] ?? ''
+  return { day: String(day), weekday, month: MONTHS[month - 1] ?? '', year: String(year) }
+}
+
+/** "2027-03-15" vira "março de 2027", o título de cada grupo da agenda. */
+export function monthHeading(date: string): string {
+  const { month, year } = showDay(date)
+  return `${month} de ${year}`
+}

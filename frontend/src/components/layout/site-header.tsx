@@ -14,7 +14,7 @@ const BASE_NAV_ITEMS = [
   { to: '/artistas', label: 'Artistas' },
   { to: '/lancamentos', label: 'Lançamentos' },
   { to: '/generos', label: 'Gêneros' },
-  { to: '/guia', label: 'Guia visual' },
+  { to: '/shows', label: 'Shows' },
 ]
 
 const linkBase =

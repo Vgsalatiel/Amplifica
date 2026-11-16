@@ -26,6 +26,7 @@ import { GenresPage } from '../features/catalog/pages/genres-page'
 import { ReleasePage } from '../features/catalog/pages/release-page'
 import { ReleasesPage } from '../features/catalog/pages/releases-page'
 import { SearchPage } from '../features/search/pages/search-page'
+import { ShowsPage } from '../features/shows/pages/shows-page'
 import { StyleguidePage } from '../features/styleguide/pages/styleguide-page'
 
 export const router = createBrowserRouter([
@@ -40,6 +41,7 @@ export const router = createBrowserRouter([
       { path: '/buscar', element: <SearchPage /> },
       { path: '/generos', element: <GenresPage /> },
       { path: '/generos/:slug', element: <GenrePage /> },
+      { path: '/shows', element: <ShowsPage /> },
       { path: '/guia', element: <StyleguidePage /> },
       { path: '/entrar', element: <LoginPage /> },
       { path: '/cadastro', element: <RegisterPage /> },

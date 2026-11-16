@@ -5,7 +5,7 @@ import { mockApi, renderWithProviders, sessionFor, testUser } from '../../test/h
 import { SiteHeader } from './site-header'
 
 function renderHeader() {
-  return renderWithProviders(<SiteHeader />, '/guia')
+  return renderWithProviders(<SiteHeader />, '/shows')
 }
 
 describe('SiteHeader', () => {
@@ -37,12 +37,19 @@ describe('SiteHeader', () => {
 
     expect(screen.getByRole('link', { name: 'Artistas' })).toHaveAttribute('href', '/artistas')
     expect(screen.getByRole('link', { name: 'Gêneros' })).toHaveAttribute('href', '/generos')
+    expect(screen.getByRole('link', { name: 'Shows' })).toHaveAttribute('href', '/shows')
+  })
+
+  it('não mostra o guia visual no menu', () => {
+    renderHeader()
+
+    expect(screen.queryByRole('link', { name: 'Guia visual' })).not.toBeInTheDocument()
   })
 
   it('marca a página atual na navegação', () => {
     renderHeader()
 
-    expect(screen.getByRole('link', { name: 'Guia visual' })).toHaveAttribute('aria-current', 'page')
+    expect(screen.getByRole('link', { name: 'Shows' })).toHaveAttribute('aria-current', 'page')
     expect(screen.getByRole('link', { name: 'Início' })).not.toHaveAttribute('aria-current')
   })
 

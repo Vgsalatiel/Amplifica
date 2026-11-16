@@ -7,6 +7,7 @@ import type {
   ReleaseDetail,
   ReleaseSummary,
   Review,
+  Show,
   UserReview,
 } from '../types/api'
 
@@ -123,6 +124,25 @@ export function userReview(overrides: Partial<UserReview> = {}): UserReview {
     updatedAt: '2026-11-10T12:00:00.000Z',
     edited: false,
     release: releaseSummary(),
+    ...overrides,
+  }
+}
+
+export function show(overrides: Partial<Show> = {}): Show {
+  return {
+    id: 's1',
+    slug: 'linkin-park-sao-paulo-2027-03-15',
+    name: null,
+    date: '2027-03-15',
+    startTime: null,
+    venue: 'Allianz Parque',
+    city: 'São Paulo',
+    state: 'SP',
+    status: 'CONFIRMED',
+    ticketUrl: 'https://ingressos.exemplo.test/lp',
+    verifiedAt: '2026-11-13T15:30:00.000Z',
+    acts: [{ position: 0, name: 'Linkin Park', artist: null }],
+    genres: [{ id: 'g1', name: 'Alternative Rock', slug: 'alternative-rock' }],
     ...overrides,
   }
 }

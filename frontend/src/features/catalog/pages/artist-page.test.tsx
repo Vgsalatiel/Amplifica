@@ -2,7 +2,7 @@ import { screen, within } from '@testing-library/react'
 import { describe, expect, it } from 'vitest'
 import { endSession } from '../../../lib/session'
 import { mockApi, renderRoutes } from '../../../test/helpers'
-import { artistDetail, notFound } from '../../../test/fixtures'
+import { artistDetail, notFound, show } from '../../../test/fixtures'
 import { ArtistPage } from './artist-page'
 
 const open = (slug = 'bring-me-the-horizon') =>
@@ -98,5 +98,36 @@ describe('ArtistPage', () => {
     mockApi({ 'GET /artists/nada': notFound })
     open('nada')
     expect(await screen.findByRole('heading', { name: 'Esse artista não existe' })).toBeInTheDocument()
+  })
+
+  it('mostra os próximos shows da banda, com link para a agenda completa', async () => {
+    endSession()
+    mockApi({
+      'GET /artists/x': { status: 200, body: artistDetail() },
+      'GET /shows?artist=bring-me-the-horizon&limit=10': {
+        status: 200,
+        body: { items: [show({ id: 's9' })], meta: { page: 1, limit: 10, total: 1, totalPages: 1 } },
+      },
+    })
+    open('x')
+
+    expect(await screen.findByRole('heading', { level: 2, name: 'Próximos shows' })).toBeInTheDocument()
+    expect(screen.getByRole('heading', { level: 3, name: 'Linkin Park' })).toBeInTheDocument()
+    expect(screen.getByRole('link', { name: 'Ver a agenda completa' })).toHaveAttribute('href', '/shows')
+  })
+
+  it('sem shows marcados, a página não mostra a seção', async () => {
+    endSession()
+    mockApi({
+      'GET /artists/x': { status: 200, body: artistDetail() },
+      'GET /shows?artist=bring-me-the-horizon&limit=10': {
+        status: 200,
+        body: { items: [], meta: { page: 1, limit: 10, total: 0, totalPages: 1 } },
+      },
+    })
+    open('x')
+
+    await screen.findByRole('heading', { level: 1 })
+    expect(screen.queryByRole('heading', { name: 'Próximos shows' })).not.toBeInTheDocument()
   })
 })

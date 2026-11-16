@@ -9,6 +9,7 @@ import { countryName } from '../../../lib/format-date'
 import { ApiError } from '../../../lib/http'
 import { ARTIST_TYPE_LABELS } from '../../../lib/labels'
 import type { ArtistDetail } from '../../../types/api'
+import { UpcomingShows } from '../../shows/components/upcoming-shows'
 import { Discography } from '../components/discography'
 import { useArtist } from '../hooks/use-catalog'
 
@@ -119,6 +120,8 @@ export function ArtistPage() {
           <Discography releases={data.releases} />
         </div>
       </section>
+
+      <UpcomingShows artistSlug={data.slug} />
     </Container>
   )
 }
