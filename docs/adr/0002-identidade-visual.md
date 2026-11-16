@@ -1,7 +1,7 @@
-# ADR 0002 — Identidade visual "Editorial"
+# ADR 0002 — Identidade visual
 
 - **Data:** 2026-11-11
-- **Status:** aceita
+- **Status:** aceita; **revisada em 2026-11-16** (de "Editorial" para "Emo anos 2000", veja a última seção)
 
 ## Contexto
 
@@ -38,3 +38,23 @@ Quando a licença for adquirida, a troca é feita em um único arquivo: `fronten
 
 - O medidor mostra a nota de 1 a 10 diretamente, o mesmo valor que será guardado no banco.
 - Componentes novos devem usar os tokens; cores avulsas em hexadecimal não entram no código.
+
+## Revisão de 2026-11-16: "Emo anos 2000"
+
+O autor pediu uma cara mais de emocore. Entre três direções (flyer de show DIY, emo anos 2000 e midwest emo), escolheu **emo anos 2000**, para o site inteiro. A identidade "Editorial" acima fica como histórico; os tokens continuam sendo a única fonte de cores e fontes, e a troca mexeu nos valores e em poucos componentes.
+
+| Elemento | Escolha |
+| --- | --- |
+| Fundo | Preto `#0B0B0D`, com grafite `#18171C` em faixas |
+| Texto | Branco quente `#F6F1F3` (17,6:1) e cinza `#B8B0B6` (9,3:1) |
+| Destaque | Rosa-choque `#FF2E93` (5,7:1); o texto sobre ele é preto (5,7:1) |
+| Erros | Vermelho claro `#FF7A7A` (7,8:1) |
+| Títulos e logotipo | Permanent Marker (Apache 2.0) |
+| Recados e enfeites | Reenie Beanie (OFL), nunca em texto de leitura |
+| Textos longos e interface | Newsreader e Instrument Sans, como antes |
+| Detalhes | Botões em pílula, listras diagonais rosa e preto no cabeçalho e no rodapé, estrela nos títulos de seção, recado manuscrito na página inicial |
+
+- **Cor do disco no tema escuro.** A cor de destaque de cada disco chega da API escura (com contraste sobre branco). Sobre o preto, ela é clareada em direção ao branco (`onDark`, em `lib/accent.ts`), o que mantém legíveis o texto, os links e o medidor de nota. O texto sobre a cor continua preto.
+- **Letra de marcador sem itálico.** A fonte não tem itálico, e o navegador inventaria um torto. Uma regra fora das camadas do Tailwind anula o `italic` dos títulos. Títulos longos quebram com `overflow-wrap: anywhere`, porque a letra é larga.
+- **Pendência do logotipo resolvida.** A Permanent Marker pode ser usada em logotipos e redistribuída, ao contrário da demo da Maskneyes.
+- **Acessibilidade.** Todos os pares de cor passam em AA; as estrelas, os corações e o recado manuscrito são decorativos (`aria-hidden`); a animação do mural respeita `prefers-reduced-motion`.

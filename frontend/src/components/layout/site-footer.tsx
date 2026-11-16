@@ -2,7 +2,8 @@ import { Container } from './container'
 
 export function SiteFooter() {
   return (
-    <footer className="border-t border-rule">
+    <footer>
+      <div aria-hidden="true" className="stripes h-2" />
       <Container className="flex flex-col gap-2 py-8 text-sm text-muted md:flex-row md:justify-between">
         <div className="flex flex-col gap-2">
           <p>Amplifica: discografias, notas e resenhas de quem ouve rock.</p>

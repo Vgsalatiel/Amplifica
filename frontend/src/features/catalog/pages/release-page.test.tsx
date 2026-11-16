@@ -30,7 +30,7 @@ describe('ReleasePage', () => {
 
     const heading = await screen.findByRole('heading', { level: 1 })
     const themed = heading.closest('[style]') as HTMLElement
-    expect(themed.getAttribute('style')).toContain('--color-accent: #D8281D')
+    expect(themed.getAttribute('style')).toContain('--color-accent: color-mix(in oklab, #D8281D 45%, white)')
     expect(document.body.getAttribute('style') ?? '').not.toContain('--color-accent')
   })
 

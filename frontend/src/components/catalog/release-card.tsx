@@ -23,12 +23,13 @@ export function ReleaseCard({ release, showArtists = true }: ReleaseCardProps) {
         {releaseYear(release.releaseDate)}
       </p>
       {release.rating.average !== null && (
-        <p className="mt-1.5 flex items-center gap-2 text-sm">
+        // <div>, e não <p>: o medidor de nota é um <div>, que não pode ficar dentro de um parágrafo.
+        <div className="mt-1.5 flex items-center gap-2 text-sm">
           <RatingMeter value={release.rating.average} size="sm" />
           <span aria-hidden="true" className="font-semibold">
             {formatRating(release.rating.average)}
           </span>
-        </p>
+        </div>
       )}
     </Link>
   )

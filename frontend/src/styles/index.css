@@ -6,29 +6,36 @@
 @import '@fontsource-variable/newsreader/opsz.css';
 @import '@fontsource-variable/newsreader/opsz-italic.css';
 @import '@fontsource-variable/instrument-sans/wght.css';
+/* Letra de marcador (títulos) e letra de caderno (recados): identidade "emo anos 2000". */
+@import '@fontsource/permanent-marker/latin-400.css';
+@import '@fontsource/reenie-beanie/latin-400.css';
 
 /*
- * Tokens da identidade "Editorial": revista de música em papel branco.
+ * Tokens da identidade "Emo anos 2000": palco preto, rosa-choque, letra de marcador.
  * Os nomes descrevem o papel da cor (surface, ink, accent), não a cor em si, para que
  * trocar a paleta não exija renomear classes. Cada token vira classes do Tailwind
  * (bg-surface, text-ink, text-accent, font-display...).
- * Contrastes medidos sobre surface: ink 17,2:1, muted 6,8:1, accent 7,7:1.
+ * Contrastes medidos sobre surface (preto): ink 17,6:1, muted 9,3:1, rule-strong 5,3:1,
+ * accent 5,7:1, danger 7,8:1. O texto sobre o rosa é preto (5,7:1).
  */
 @theme {
-  --color-surface: #ffffff;
-  --color-surface-raised: #f3efe6;
-  --color-ink: #1b1b1d;
-  --color-muted: #5f5a52;
-  --color-rule: #d9d4c8;
+  --color-surface: #0b0b0d;
+  --color-surface-raised: #18171c;
+  --color-ink: #f6f1f3;
+  --color-muted: #b8b0b6;
+  --color-rule: #2e2a32;
   /* Borda de campos de formulário: precisa de 3:1 contra o fundo. */
-  --color-rule-strong: #8a857c;
-  --color-accent: #5630d0;
-  --color-accent-hover: #3f1fa6;
+  --color-rule-strong: #8a828a;
+  --color-accent: #ff2e93;
+  --color-accent-hover: #ff7ab8;
   /* Texto sobre a cor de destaque (botão principal). */
-  --color-on-accent: #ffffff;
-  --color-danger: #b42318;
+  --color-on-accent: #0b0b0d;
+  --color-danger: #ff7a7a;
 
-  --font-display: 'Fraunces Variable', Georgia, serif;
+  /* Letra de marcador: títulos e o logotipo. */
+  --font-display: 'Permanent Marker', 'Fraunces Variable', Georgia, serif;
+  /* Letra de caderno: recados curtos e enfeites, nunca texto de leitura. */
+  --font-hand: 'Reenie Beanie', 'Permanent Marker', cursive;
   --font-serif: 'Newsreader Variable', Georgia, serif;
   --font-sans: 'Instrument Sans Variable', system-ui, sans-serif;
 
@@ -50,7 +57,7 @@
 
 @layer base {
   html {
-    color-scheme: light;
+    color-scheme: dark;
   }
 
   body {
@@ -61,16 +68,17 @@
     -webkit-font-smoothing: antialiased;
   }
 
-  /* Foco de teclado sempre visível, na cor de destaque. */
   /*
-   * A Fraunces ajusta o contraste ao tamanho do texto (eixo "opsz"). Em títulos muito grandes
-   * ela afina os traços finos a ponto de a barra do "e" sumir, e "Me the Horizon" vira
-   * "Mc thc Horizon". Limitar o eixo mantém o desenho sólido em qualquer tamanho.
+   * Títulos longos ("Bring Me the Horizon") não podem estourar a coluna no celular: a letra de
+   * marcador é larga. O `opsz` só vale para a Fraunces, que é a fonte reserva se o marcador falhar
+   * (e que afina demais em corpo grande: sem o limite, "Me the Horizon" viraria "Mc thc Horizon").
    */
   .font-display {
     font-variation-settings: 'opsz' 48;
+    overflow-wrap: anywhere;
   }
 
+  /* Foco de teclado sempre visível, na cor de destaque. */
   :focus-visible {
     outline: 2px solid var(--color-accent);
     outline-offset: 3px;
@@ -80,4 +88,21 @@
     background-color: var(--color-accent);
     color: var(--color-on-accent);
   }
+}
+
+/*
+ * A letra de marcador não tem itálico: o navegador inventaria um itálico torto. Fica fora das
+ * camadas do Tailwind de propósito, para valer mais do que a classe `italic` usada nos títulos.
+ */
+.font-display {
+  font-style: normal;
+}
+
+/* Faixa de listras diagonais rosa e preto: bordas do cabeçalho, do rodapé e divisórias. */
+@utility stripes {
+  background-image: repeating-linear-gradient(
+    135deg,
+    var(--color-accent) 0 7px,
+    var(--color-surface) 7px 14px
+  );
 }

@@ -77,6 +77,7 @@ export function SiteHeader() {
           </svg>
         </button>
       </Container>
+      <div aria-hidden="true" className="stripes h-2" />
 
       {menuOpen && (
         <nav id="menu-celular" aria-label="Principal" className="border-y border-rule xl:hidden">
