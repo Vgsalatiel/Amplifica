@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { artistTags, escapeHtml, injectTags, matchTarget, releaseTags, renderTags } from './og.ts'
+import { artistTags, escapeHtml, injectTags, matchTarget, releaseTags, renderTags } from '../edge-functions/lib/og.ts'
 
 const ORIGIN = 'https://amplificacore.netlify.app'
 const release = {

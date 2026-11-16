@@ -1,5 +1,5 @@
 import { afterEach, describe, expect, it, vi } from 'vitest'
-import handler from './og.ts'
+import handler from '../edge-functions/og.ts'
 
 const HTML = '<html><head><title>Amplifica</title><meta name="description" content="x" /></head><body>app</body></html>'
 const next = () => Promise.resolve(new Response(HTML, { headers: { 'content-type': 'text/html; charset=utf-8', 'content-length': String(HTML.length) } }))
