@@ -1,0 +1,781 @@
+{
+  "generatedAt": "2026-11-13T00:00:00Z",
+  "source": "Pesquisa de 13/11/2026: páginas dos vendedores quando abertas (Clube do Ingresso, Fastix, Uhuu, Ingresso Master, Minha Entrada, Ticketmaster), e notícias e agendas (Wikimetal, Billboard Brasil, Rolling Stone Brasil) quando não. Conferir cada link antes de publicar.",
+  "shows": [
+    {
+      "date": "2027-01-10",
+      "venue": "Carioca Club",
+      "city": "São Paulo",
+      "state": "SP",
+      "ticketUrl": "https://www.clubedoingresso.com/evento/avatar-cariocaclub",
+      "verifiedAt": "2026-11-13",
+      "acts": [
+        {
+          "name": "Avatar"
+        }
+      ],
+      "genres": [
+        "metal"
+      ]
+    },
+    {
+      "date": "2027-01-15",
+      "venue": "Estádio do Maracanã",
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "ticketUrl": "https://www.eventim.com.br/event/system-of-a-down-e-faith-no-more-estadio-maracana-22023211/",
+      "verifiedAt": "2026-11-13",
+      "acts": [
+        {
+          "name": "System of a Down"
+        },
+        {
+          "name": "Faith No More"
+        }
+      ],
+      "genres": [
+        "metal",
+        "alternative-rock"
+      ]
+    },
+    {
+      "name": "Fifty Something Tour",
+      "date": "2027-01-22",
+      "venue": "Arena da Baixada",
+      "city": "Curitiba",
+      "state": "PR",
+      "ticketUrl": "https://www.eventim.com.br/campaign/rush",
+      "verifiedAt": "2026-11-13",
+      "acts": [
+        {
+          "name": "Rush"
+        }
+      ],
+      "genres": [
+        "progressive-rock",
+        "hard-rock"
+      ]
+    },
+    {
+      "date": "2027-01-22",
+      "venue": "Carioca Club",
+      "city": "São Paulo",
+      "state": "SP",
+      "ticketUrl": "https://www.clubedoingresso.com/evento/ulijonroth-saopaulo",
+      "verifiedAt": "2026-11-13",
+      "acts": [
+        {
+          "name": "Uli Jon Roth"
+        }
+      ],
+      "genres": [
+        "hard-rock"
+      ]
+    },
+    {
+      "date": "2027-01-24",
+      "venue": "Teatro RioMar Fortaleza",
+      "city": "Fortaleza",
+      "state": "CE",
+      "ticketUrl": "https://uhuu.com/evento/ce/fortaleza/geoff-tate-turne-2027-16383",
+      "verifiedAt": "2026-11-13",
+      "acts": [
+        {
+          "name": "Geoff Tate"
+        }
+      ],
+      "genres": [
+        "metal"
+      ]
+    },
+    {
+      "name": "Fifty Something Tour",
+      "date": "2027-01-24",
+      "venue": "Nubank Parque",
+      "city": "São Paulo",
+      "state": "SP",
+      "ticketUrl": "https://www.eventim.com.br/campaign/rush",
+      "verifiedAt": "2026-11-13",
+      "acts": [
+        {
+          "name": "Rush"
+        }
+      ],
+      "genres": [
+        "progressive-rock",
+        "hard-rock"
+      ]
+    },
+    {
+      "name": "Fifty Something Tour",
+      "date": "2027-01-26",
+      "venue": "Nubank Parque",
+      "city": "São Paulo",
+      "state": "SP",
+      "ticketUrl": "https://www.eventim.com.br/campaign/rush",
+      "verifiedAt": "2026-11-13",
+      "acts": [
+        {
+          "name": "Rush"
+        }
+      ],
+      "genres": [
+        "progressive-rock",
+        "hard-rock"
+      ]
+    },
+    {
+      "date": "2027-01-27",
+      "venue": "Teatro Bradesco",
+      "city": "São Paulo",
+      "state": "SP",
+      "ticketUrl": "https://uhuu.com/evento/sp/sao-paulo/geoff-tate-turne-2027-16387",
+      "verifiedAt": "2026-11-13",
+      "acts": [
+        {
+          "name": "Geoff Tate"
+        }
+      ],
+      "genres": [
+        "metal"
+      ]
+    },
+    {
+      "name": "Fifty Something Tour",
+      "date": "2027-01-30",
+      "venue": "Estádio Nilton Santos",
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "ticketUrl": "https://www.eventim.com.br/campaign/rush",
+      "verifiedAt": "2026-11-13",
+      "acts": [
+        {
+          "name": "Rush"
+        }
+      ],
+      "genres": [
+        "progressive-rock",
+        "hard-rock"
+      ]
+    },
+    {
+      "name": "Fifty Something Tour",
+      "date": "2027-02-01",
+      "venue": "Estádio Mineirão",
+      "city": "Belo Horizonte",
+      "state": "MG",
+      "ticketUrl": "https://www.eventim.com.br/campaign/rush",
+      "verifiedAt": "2026-11-13",
+      "acts": [
+        {
+          "name": "Rush"
+        }
+      ],
+      "genres": [
+        "progressive-rock",
+        "hard-rock"
+      ]
+    },
+    {
+      "name": "Fifty Something Tour",
+      "date": "2027-02-04",
+      "venue": "Arena BRB Mané Garrincha",
+      "city": "Brasília",
+      "state": "DF",
+      "ticketUrl": "https://www.eventim.com.br/campaign/rush",
+      "verifiedAt": "2026-11-13",
+      "acts": [
+        {
+          "name": "Rush"
+        }
+      ],
+      "genres": [
+        "progressive-rock",
+        "hard-rock"
+      ]
+    },
+    {
+      "name": "Take Cover Tour",
+      "date": "2027-02-18",
+      "venue": "Arena MRV",
+      "city": "Belo Horizonte",
+      "state": "MG",
+      "ticketUrl": "https://www.ticketmaster.com.br/event/foo-fighters",
+      "verifiedAt": "2026-11-13",
+      "acts": [
+        {
+          "name": "Foo Fighters"
+        }
+      ],
+      "genres": [
+        "alternative-rock"
+      ]
+    },
+    {
+      "date": "2027-02-19",
+      "venue": "Teatro Rival Petrobras",
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "ticketUrl": "https://www.clubedoingresso.com/evento/alcestnoriodejaneiro",
+      "verifiedAt": "2026-11-13",
+      "acts": [
+        {
+          "name": "Alcest"
+        }
+      ],
+      "genres": [
+        "metal"
+      ]
+    },
+    {
+      "date": "2027-02-20",
+      "venue": "Carioca Club",
+      "city": "São Paulo",
+      "state": "SP",
+      "ticketUrl": "https://www.clubedoingresso.com/evento/alcestemsaopaulo",
+      "verifiedAt": "2026-11-13",
+      "acts": [
+        {
+          "name": "Alcest"
+        }
+      ],
+      "genres": [
+        "metal"
+      ]
+    },
+    {
+      "name": "Take Cover Tour",
+      "date": "2027-02-20",
+      "venue": "Estádio do MorumBIS",
+      "city": "São Paulo",
+      "state": "SP",
+      "ticketUrl": "https://www.ticketmaster.com.br/event/foo-fighters",
+      "verifiedAt": "2026-11-13",
+      "acts": [
+        {
+          "name": "Foo Fighters"
+        }
+      ],
+      "genres": [
+        "alternative-rock"
+      ]
+    },
+    {
+      "date": "2027-02-21",
+      "venue": "Tork n' Roll",
+      "city": "Curitiba",
+      "state": "PR",
+      "ticketUrl": "https://www.clubedoingresso.com/evento/alcestemcuritiba",
+      "verifiedAt": "2026-11-13",
+      "acts": [
+        {
+          "name": "Alcest"
+        }
+      ],
+      "genres": [
+        "metal"
+      ]
+    },
+    {
+      "name": "Rhapsody Final Shows",
+      "date": "2027-02-27",
+      "venue": "Carioca Club",
+      "city": "São Paulo",
+      "state": "SP",
+      "ticketUrl": "https://www.clubedoingresso.com/evento/rhapsodyfinalshows-sp",
+      "verifiedAt": "2026-11-13",
+      "acts": [
+        {
+          "name": "Rhapsody"
+        }
+      ],
+      "genres": [
+        "metal"
+      ]
+    },
+    {
+      "name": "Rhapsody Final Shows",
+      "date": "2027-02-28",
+      "venue": "Tork n' Roll",
+      "city": "Curitiba",
+      "state": "PR",
+      "ticketUrl": "https://www.clubedoingresso.com/evento/rhapsodyfinalshows-pr",
+      "verifiedAt": "2026-11-13",
+      "acts": [
+        {
+          "name": "Rhapsody"
+        }
+      ],
+      "genres": [
+        "metal"
+      ]
+    },
+    {
+      "date": "2027-02-28",
+      "venue": "Hangar 110",
+      "city": "São Paulo",
+      "state": "SP",
+      "ticketUrl": "https://www.clubedoingresso.com/evento/eleine-saopaulo",
+      "verifiedAt": "2026-11-13",
+      "acts": [
+        {
+          "name": "Eleine"
+        }
+      ],
+      "genres": [
+        "metal"
+      ]
+    },
+    {
+      "date": "2027-03-04",
+      "venue": "Tork n' Roll",
+      "city": "Curitiba",
+      "state": "PR",
+      "ticketUrl": "https://www.clubedoingresso.com/evento/overkillcuritiba",
+      "verifiedAt": "2026-11-13",
+      "acts": [
+        {
+          "name": "Overkill"
+        }
+      ],
+      "genres": [
+        "metal"
+      ]
+    },
+    {
+      "name": "Overload Beer Fest 2027",
+      "date": "2027-03-06",
+      "venue": "Carioca Club",
+      "city": "São Paulo",
+      "state": "SP",
+      "ticketUrl": "https://www.clubedoingresso.com/evento/overload-beerfest2027",
+      "verifiedAt": "2026-11-13",
+      "acts": [
+        {
+          "name": "Overkill"
+        },
+        {
+          "name": "The Troops of Doom"
+        },
+        {
+          "name": "Trovão"
+        },
+        {
+          "name": "Whipstriker"
+        },
+        {
+          "name": "Sadistic Messiah"
+        }
+      ],
+      "genres": [
+        "metal"
+      ]
+    },
+    {
+      "date": "2027-03-07",
+      "venue": "Mister Rock",
+      "city": "Belo Horizonte",
+      "state": "MG",
+      "ticketUrl": "https://www.clubedoingresso.com/evento/overkillbelohorizonte",
+      "verifiedAt": "2026-11-13",
+      "acts": [
+        {
+          "name": "Overkill"
+        }
+      ],
+      "genres": [
+        "metal"
+      ]
+    },
+    {
+      "date": "2027-03-10",
+      "venue": "Audio",
+      "city": "São Paulo",
+      "state": "SP",
+      "ticketUrl": "https://fastix.com.br/events/cavalera-conspiracy-toca-chaos-ad-em-sao-paulo",
+      "verifiedAt": "2026-11-13",
+      "acts": [
+        {
+          "name": "Cavalera Conspiracy"
+        }
+      ],
+      "genres": [
+        "metal"
+      ]
+    },
+    {
+      "name": "The Greatest Show on Earth",
+      "date": "2027-03-10",
+      "venue": "Estádio do MorumBIS",
+      "city": "São Paulo",
+      "state": "SP",
+      "ticketUrl": "https://www.ticketmaster.com.br/event/u2",
+      "verifiedAt": "2026-11-13",
+      "acts": [
+        {
+          "name": "U2"
+        }
+      ],
+      "genres": [
+        "alternative-rock"
+      ]
+    },
+    {
+      "name": "The Greatest Show on Earth",
+      "date": "2027-03-12",
+      "venue": "Estádio do MorumBIS",
+      "city": "São Paulo",
+      "state": "SP",
+      "ticketUrl": "https://www.ticketmaster.com.br/event/u2",
+      "verifiedAt": "2026-11-13",
+      "acts": [
+        {
+          "name": "U2"
+        }
+      ],
+      "genres": [
+        "alternative-rock"
+      ]
+    },
+    {
+      "name": "The Greatest Show on Earth",
+      "date": "2027-03-14",
+      "venue": "Estádio do MorumBIS",
+      "city": "São Paulo",
+      "state": "SP",
+      "ticketUrl": "https://www.ticketmaster.com.br/event/u2",
+      "verifiedAt": "2026-11-13",
+      "acts": [
+        {
+          "name": "U2"
+        }
+      ],
+      "genres": [
+        "alternative-rock"
+      ]
+    },
+    {
+      "name": "The Greatest Show on Earth",
+      "date": "2027-03-16",
+      "venue": "Estádio do MorumBIS",
+      "city": "São Paulo",
+      "state": "SP",
+      "ticketUrl": "https://www.ticketmaster.com.br/event/u2",
+      "verifiedAt": "2026-11-13",
+      "acts": [
+        {
+          "name": "U2"
+        }
+      ],
+      "genres": [
+        "alternative-rock"
+      ]
+    },
+    {
+      "date": "2027-04-10",
+      "venue": "Arena Opus",
+      "city": "São José",
+      "state": "SC",
+      "ticketUrl": "https://minhaentrada.com.br/evento/slash-featuring-myles-kennedy-and-the-conspirators--30517",
+      "verifiedAt": "2026-11-13",
+      "acts": [
+        {
+          "name": "Slash featuring Myles Kennedy and The Conspirators"
+        }
+      ],
+      "genres": [
+        "hard-rock"
+      ]
+    },
+    {
+      "date": "2027-04-11",
+      "venue": "Live Curitiba",
+      "city": "Curitiba",
+      "state": "PR",
+      "ticketUrl": "https://www.eventim.com.br/artist/slash/",
+      "verifiedAt": "2026-11-13",
+      "acts": [
+        {
+          "name": "Slash featuring Myles Kennedy and The Conspirators"
+        }
+      ],
+      "genres": [
+        "hard-rock"
+      ]
+    },
+    {
+      "date": "2027-04-13",
+      "venue": "Fundição Progresso",
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "ticketUrl": "https://www.eventim.com.br/artist/slash/",
+      "verifiedAt": "2026-11-13",
+      "acts": [
+        {
+          "name": "Slash featuring Myles Kennedy and The Conspirators"
+        }
+      ],
+      "genres": [
+        "hard-rock"
+      ]
+    },
+    {
+      "date": "2027-04-14",
+      "venue": "Espaço Unimed",
+      "city": "São Paulo",
+      "state": "SP",
+      "ticketUrl": "https://www.eventim.com.br/artist/slash/",
+      "verifiedAt": "2026-11-13",
+      "acts": [
+        {
+          "name": "Slash featuring Myles Kennedy and The Conspirators"
+        }
+      ],
+      "genres": [
+        "hard-rock"
+      ]
+    },
+    {
+      "date": "2027-04-16",
+      "venue": "Tokio Marine Hall",
+      "city": "São Paulo",
+      "state": "SP",
+      "ticketUrl": "https://www.ticketmaster.com.br/event/till-lindemann",
+      "verifiedAt": "2026-11-13",
+      "acts": [
+        {
+          "name": "Till Lindemann"
+        }
+      ],
+      "genres": [
+        "metal"
+      ]
+    },
+    {
+      "name": "Bangers Open Air 2027 (24 e 25 de abril)",
+      "date": "2027-04-24",
+      "venue": "Memorial da América Latina",
+      "city": "São Paulo",
+      "state": "SP",
+      "ticketUrl": "https://www.clubedoingresso.com/evento/bangersopenair2027",
+      "verifiedAt": "2026-11-13",
+      "acts": [
+        {
+          "name": "King Diamond"
+        },
+        {
+          "name": "Amon Amarth"
+        },
+        {
+          "name": "Edguy"
+        },
+        {
+          "name": "HammerFall"
+        },
+        {
+          "name": "Children of Bodom"
+        },
+        {
+          "name": "Emperor"
+        }
+      ],
+      "genres": [
+        "metal"
+      ]
+    },
+    {
+      "date": "2027-05-13",
+      "venue": "Qualistage",
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "ticketUrl": "https://www.eventim.com.br/Simple-Plan-2027",
+      "verifiedAt": "2026-11-13",
+      "acts": [
+        {
+          "name": "Simple Plan"
+        },
+        {
+          "name": "All Time Low"
+        },
+        {
+          "name": "Supercombo"
+        }
+      ],
+      "genres": [
+        "pop-punk"
+      ]
+    },
+    {
+      "date": "2027-05-15",
+      "venue": "Arena da Baixada",
+      "city": "Curitiba",
+      "state": "PR",
+      "ticketUrl": "https://www.eventim.com.br/Simple-Plan-2027",
+      "verifiedAt": "2026-11-13",
+      "acts": [
+        {
+          "name": "Simple Plan"
+        },
+        {
+          "name": "All Time Low"
+        },
+        {
+          "name": "Supercombo"
+        },
+        {
+          "name": "Fresno"
+        },
+        {
+          "name": "Set It Off"
+        },
+        {
+          "name": "Di Ferrero"
+        }
+      ],
+      "genres": [
+        "pop-punk"
+      ]
+    },
+    {
+      "date": "2027-05-16",
+      "venue": "Nubank Parque",
+      "city": "São Paulo",
+      "state": "SP",
+      "ticketUrl": "https://www.eventim.com.br/Simple-Plan-2027",
+      "verifiedAt": "2026-11-13",
+      "acts": [
+        {
+          "name": "Simple Plan"
+        },
+        {
+          "name": "All Time Low"
+        },
+        {
+          "name": "Supercombo"
+        },
+        {
+          "name": "Fresno"
+        },
+        {
+          "name": "Set It Off"
+        },
+        {
+          "name": "Di Ferrero"
+        }
+      ],
+      "genres": [
+        "pop-punk"
+      ]
+    },
+    {
+      "date": "2027-05-29",
+      "venue": "Tokio Marine Hall",
+      "city": "São Paulo",
+      "state": "SP",
+      "ticketUrl": "https://www.ticketmaster.com.br/event/tarja-tokio-marine-hall",
+      "verifiedAt": "2026-11-13",
+      "acts": [
+        {
+          "name": "Tarja"
+        }
+      ],
+      "genres": [
+        "metal"
+      ]
+    },
+    {
+      "name": "Dark Dimensions Fest 2027 (10 e 11 de julho)",
+      "date": "2027-07-10",
+      "venue": "Vip Station",
+      "city": "São Paulo",
+      "state": "SP",
+      "ticketUrl": "https://ingresso-master.com/108/dark-dimensions-fest-2027-27-anos/",
+      "verifiedAt": "2026-11-13",
+      "acts": [
+        {
+          "name": "Prong"
+        },
+        {
+          "name": "Delains"
+        },
+        {
+          "name": "Siegrid Ingrid"
+        },
+        {
+          "name": "Storia"
+        },
+        {
+          "name": "Medjay"
+        }
+      ],
+      "genres": [
+        "metal"
+      ]
+    },
+    {
+      "date": "2027-09-10",
+      "venue": "Carioca Club",
+      "city": "São Paulo",
+      "state": "SP",
+      "ticketUrl": "https://fastix.com.br/events/hatebreed-em-sao-paulo",
+      "verifiedAt": "2026-11-13",
+      "acts": [
+        {
+          "name": "Hatebreed"
+        }
+      ],
+      "genres": [
+        "hardcore",
+        "metalcore"
+      ]
+    },
+    {
+      "date": "2027-09-17",
+      "venue": "Tork n' Roll",
+      "city": "Curitiba",
+      "state": "PR",
+      "ticketUrl": "https://fastix.com.br/events/toy-dolls-em-curitiba",
+      "verifiedAt": "2026-11-13",
+      "acts": [
+        {
+          "name": "The Toy Dolls"
+        }
+      ],
+      "genres": [
+        "punk-rock"
+      ]
+    },
+    {
+      "date": "2027-09-18",
+      "venue": "Cine Joia",
+      "city": "São Paulo",
+      "state": "SP",
+      "ticketUrl": "https://fastix.com.br/events/toy-dolls-em-sao-paulo",
+      "verifiedAt": "2026-11-13",
+      "acts": [
+        {
+          "name": "The Toy Dolls"
+        }
+      ],
+      "genres": [
+        "punk-rock"
+      ]
+    },
+    {
+      "date": "2027-09-19",
+      "venue": "Mister Rock",
+      "city": "Belo Horizonte",
+      "state": "MG",
+      "ticketUrl": "https://fastix.com.br/events/toy-dolls-em-belo-horizonte",
+      "verifiedAt": "2026-11-13",
+      "acts": [
+        {
+          "name": "The Toy Dolls"
+        }
+      ],
+      "genres": [
+        "punk-rock"
+      ]
+    }
+  ]
+}

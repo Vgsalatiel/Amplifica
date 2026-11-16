@@ -13,6 +13,9 @@ export const GENRE_SEEDS: GenreSeed[] = [
   { name: 'Alternative Rock' },
   { name: 'Indie Rock', parent: 'Alternative Rock' },
 
+  { name: 'Hard Rock' },
+  { name: 'Progressive Rock' },
+
   { name: 'Emo' },
   { name: 'Midwest Emo', parent: 'Emo' },
   { name: 'Screamo', parent: 'Emo' },

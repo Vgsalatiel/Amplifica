@@ -244,34 +244,45 @@ describe('Shows (e2e)', () => {
     let soon: { slug: string };
     let past: { slug: string };
     let cancelled: { slug: string };
+    // Todos os shows desta seção levam este gênero: as consultas o usam para isolar os dados do
+    // teste dos shows reais que possam estar no banco de desenvolvimento.
+    const only = '&genre=e2e-agenda&limit=50';
 
     beforeAll(async () => {
+      const agendaGenre = (
+        await post('/genres', admin, {
+          name: 'E2E Agenda',
+          slug: 'e2e-agenda',
+        }).expect(201)
+      ).body.id as string;
       soon = await createShow('agenda-soon', {
         date: daysFromNow(3),
         city: 'Curitiba',
         state: 'PR',
-        genreIds: [coreId],
+        genreIds: [coreId, agendaGenre],
         acts: [{ name: 'E2E Agenda Soon', artistId: bandId }],
       });
       future = await createShow('agenda-future', {
         date: daysFromNow(200),
         city: 'Porto Alegre',
         state: 'RS',
-        genreIds: [folkId],
+        genreIds: [folkId, agendaGenre],
       });
       past = await createShow('agenda-past', {
         date: daysFromNow(-20),
         city: 'Recife',
         state: 'PE',
+        genreIds: [agendaGenre],
       });
       cancelled = await createShow('agenda-cancelled', {
         date: daysFromNow(10),
         status: 'CANCELLED',
+        genreIds: [agendaGenre],
       });
     });
 
     it('por padrão traz só os próximos, do mais perto para o mais longe, sem cancelados', async () => {
-      const { body } = await get('/shows?limit=50').expect(200);
+      const { body } = await get(`/shows?${only}`).expect(200);
       const found = slugs(body).filter((slug: string) =>
         slug.startsWith('e2e-agenda-'),
       );
@@ -281,33 +292,31 @@ describe('Shows (e2e)', () => {
     });
 
     it('when=past traz os que já passaram, do mais recente para o mais antigo', async () => {
-      const { body } = await get('/shows?when=past&limit=50').expect(200);
+      const { body } = await get(`/shows?when=past${only}`).expect(200);
       expect(slugs(body)).toContain(past.slug);
       expect(slugs(body)).not.toContain(soon.slug);
     });
 
     it('when=all traz passados e futuros', async () => {
-      const { body } = await get('/shows?when=all&limit=50').expect(200);
+      const { body } = await get(`/shows?when=all${only}`).expect(200);
       expect(slugs(body)).toEqual(
         expect.arrayContaining([past.slug, soon.slug, future.slug]),
       );
     });
 
     it('status=CANCELLED mostra os cancelados', async () => {
-      const { body } = await get('/shows?status=CANCELLED&limit=50').expect(
-        200,
-      );
+      const { body } = await get(`/shows?status=CANCELLED${only}`).expect(200);
       expect(slugs(body)).toContain(cancelled.slug);
       expect(slugs(body)).not.toContain(soon.slug);
     });
 
     it('filtra por estado e por cidade (sem diferenciar maiúsculas)', async () => {
       expect(
-        slugs((await get('/shows?state=pr&limit=50').expect(200)).body),
+        slugs((await get(`/shows?state=pr${only}`).expect(200)).body),
       ).toEqual([soon.slug]);
       expect(
         slugs(
-          (await get('/shows?city=porto%20alegre&limit=50').expect(200)).body,
+          (await get(`/shows?city=porto%20alegre${only}`).expect(200)).body,
         ),
       ).toEqual([future.slug]);
     });
@@ -340,7 +349,7 @@ describe('Shows (e2e)', () => {
 
     it('filtra por mês', async () => {
       const month = daysFromNow(200).slice(0, 7);
-      const { body } = await get(`/shows?month=${month}&limit=50`).expect(200);
+      const { body } = await get(`/shows?month=${month}${only}`).expect(200);
       expect(slugs(body)).toContain(future.slug);
       expect(slugs(body)).not.toContain(soon.slug);
       await get('/shows?month=2027-13').expect(400);
