@@ -39,6 +39,8 @@ export async function cleanTestData(
   const prisma = app.get(PrismaService);
 
   const slug = { startsWith: TEST_SLUG_PREFIX };
+  // Clipes de teste: o YouTube falso devolve sempre títulos que começam com "E2E ".
+  await prisma.clip.deleteMany({ where: { title: { startsWith: 'E2E ' } } });
   // Shows primeiro: eles seguram gêneros (RESTRICT) e apontam para artistas.
   await prisma.show.deleteMany({ where: { slug } });
   await prisma.release.deleteMany({ where: { slug } });

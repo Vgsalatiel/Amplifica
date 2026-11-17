@@ -2,6 +2,7 @@ import { Module } from '@nestjs/common';
 import { AuthorizationModule } from '@nestjs/authorization';
 import { ConfigModule } from '@nestjs/config';
 import { validateEnv } from './config/env.js';
+import { ClipsModule } from './modules/clips/clips.module.js';
 import { ArtistsModule } from './modules/artists/artists.module.js';
 import { AuthModule } from './modules/auth/auth.module.js';
 import { CatalogModule } from './modules/catalog/catalog.module.js';
@@ -32,6 +33,7 @@ import { PrismaModule } from './prisma/prisma.module.js';
     ReleasesModule,
     ReviewsModule,
     ShowsModule,
+    ClipsModule,
     HealthModule,
   ],
 })

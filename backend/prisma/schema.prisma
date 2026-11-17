@@ -35,6 +35,7 @@ model User {
 
   reviews     Review[]
   emailTokens EmailToken[]
+  clips       Clip[]
 }
 
 enum EmailTokenPurpose {
@@ -158,6 +159,7 @@ model Artist {
   genres   ArtistGenre[]
   releases ReleaseArtist[]
   shows    ShowAct[]
+  clips    Clip[]
 
   @@index([name])
 }
@@ -328,4 +330,40 @@ model ShowGenre {
 
   @@id([showId, genreId])
   @@index([genreId])
+}
+
+enum ClipStatus {
+  PENDING
+  APPROVED
+  REJECTED
+}
+
+// Clipe da playlist "Agora na tela", na página inicial. Os fixos abrem a playlist; os demais são
+// sugestões de quem tem conta e só aparecem depois de aprovados por um administrador.
+model Clip {
+  id            String     @id @default(uuid(7)) @db.Uuid
+  // Código do vídeo no YouTube (11 caracteres; uma regra CHECK na migration garante o formato).
+  // Único: o mesmo vídeo não entra duas vezes, nem como sugestão repetida.
+  youtubeId     String     @unique
+  // Título e canal vêm do YouTube no momento da sugestão.
+  title         String
+  channelName   String
+  // Banda do catálogo à qual o clipe pertence, quando alguém a ligou (administrador).
+  artistId      String?    @db.Uuid
+  // Clipes fixos tocam antes das sugestões, na ordem de `position`.
+  pinned        Boolean    @default(false)
+  position      Int        @default(0)
+  status        ClipStatus @default(PENDING)
+  // Quem sugeriu. Se a conta for apagada, o clipe fica sem autor em vez de sumir.
+  submittedById String?    @db.Uuid
+  createdAt     DateTime   @default(now())
+  reviewedAt    DateTime?
+
+  artist      Artist? @relation(fields: [artistId], references: [id], onDelete: SetNull)
+  submittedBy User?   @relation(fields: [submittedById], references: [id], onDelete: SetNull)
+
+  // Playlist pública: aprovados, fixos primeiro.
+  @@index([status, pinned, createdAt])
+  // Limite diário de sugestões por pessoa.
+  @@index([submittedById, createdAt])
 }
