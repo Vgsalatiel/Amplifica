@@ -16,8 +16,9 @@ describe.each(files)('prisma/data/%s', (name) => {
 
   it('não repete lançamentos, nem entre os que carregam e os pendentes', () => {
     const data = result.data!;
+    // Sem MusicBrainz, a obra é reconhecida pelo título.
     const ids = [...data.releases, ...data.pending].map(
-      (release) => release.mbid,
+      (release) => release.mbid ?? `titulo:${release.title}`,
     );
 
     expect(new Set(ids).size).toBe(ids.length);

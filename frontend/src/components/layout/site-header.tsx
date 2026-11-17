@@ -14,6 +14,7 @@ const BASE_NAV_ITEMS = [
   { to: '/artistas', label: 'Artistas' },
   { to: '/lancamentos', label: 'Lançamentos' },
   { to: '/generos', label: 'Gêneros' },
+  { to: '/cena-br', label: 'Cena BR' },
   { to: '/shows', label: 'Shows' },
 ]
 

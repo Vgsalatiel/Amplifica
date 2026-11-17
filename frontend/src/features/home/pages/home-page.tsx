@@ -10,6 +10,7 @@ import { TextLink } from '../../../components/ui/text-link'
 import { useSession } from '../../auth/hooks/use-session'
 import { useArtistList, useGenreTree, useReleaseList } from '../../catalog/hooks/use-catalog'
 import { useShowList } from '../../shows/hooks/use-shows'
+import { NEW_BAND_FROM_YEAR } from '../../catalog/pages/brazil-scene-page'
 import { CoverMural, MURAL_SIZE } from '../components/cover-mural'
 
 /** Página inicial: a abertura com o mural de capas, os próximos shows e a porta de entrada do catálogo. */
@@ -20,6 +21,7 @@ export function HomePage() {
   const shows = useShowList({ limit: 5 })
   const releases = useReleaseList({ limit: 8 })
   const artists = useArtistList({ limit: 8 })
+  const brazil = useArtistList({ country: 'BR', formedFrom: NEW_BAND_FROM_YEAR, sort: 'newest', limit: 4 })
   const genres = useGenreTree()
 
   const hasMural = (featured.data?.items ?? []).some((release) => release.cover)
@@ -70,6 +72,24 @@ export function HomePage() {
           </ul>
           <p className="mt-6">
             <TextLink to="/shows">Ver a agenda completa</TextLink>
+          </p>
+        </section>
+      )}
+
+      {brazil.data && brazil.data.items.length > 0 && (
+        <section className="mt-24" aria-labelledby="cena-br-titulo">
+          <SectionHeading as="h2">
+            <span id="cena-br-titulo">Cena BR: bandas novas</span>
+          </SectionHeading>
+          <ul className="mt-8 grid grid-cols-2 gap-x-6 gap-y-10 md:grid-cols-4">
+            {brazil.data.items.map((artist) => (
+              <li key={artist.id}>
+                <ArtistCard artist={artist} />
+              </li>
+            ))}
+          </ul>
+          <p className="mt-8">
+            <TextLink to="/cena-br">Ver a cena brasileira</TextLink>
           </p>
         </section>
       )}

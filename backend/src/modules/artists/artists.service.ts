@@ -61,11 +61,27 @@ export class ArtistsService {
       where.genres = { some: { genreId: { in: genreIds } } };
     }
 
+    if (query.country) {
+      where.country = query.country;
+    }
+    if (query.formedFrom) {
+      where.formedYear = { gte: query.formedFrom };
+    }
+
+    const orderBy: Prisma.ArtistOrderByWithRelationInput[] =
+      query.sort === 'newest'
+        ? [
+            { formedYear: { sort: 'desc', nulls: 'last' } },
+            { name: 'asc' },
+            { id: 'asc' },
+          ]
+        : [{ name: 'asc' }, { id: 'asc' }];
+
     const [artists, total] = await Promise.all([
       this.prisma.artist.findMany({
         where,
         include: artistSummaryInclude,
-        orderBy: [{ name: 'asc' }, { id: 'asc' }],
+        orderBy,
         ...toSkipTake(query),
       }),
       this.prisma.artist.count({ where }),

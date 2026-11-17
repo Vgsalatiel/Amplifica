@@ -9,8 +9,11 @@ import { parseReleaseDate } from '../../modules/releases/release-date.js';
  * Os limites são os mesmos da API, para que nada do arquivo falhe depois numa edição pelo admin.
  */
 const releaseSchema = z.object({
-  /** Release group do MusicBrainz: identifica a obra, não uma edição. */
-  mbid: z.string(),
+  /**
+   * Release group do MusicBrainz: identifica a obra, não uma edição. Fica `null` quando a obra
+   * não está lá (banda nova, só nas plataformas); a carga então a reconhece pelo título e pelo artista.
+   */
+  mbid: z.string().nullable(),
   /** A edição usada para ler as faixas, anotada para conferência. */
   releaseMbid: z.string().nullable(),
   title: z.string().min(1).max(200),

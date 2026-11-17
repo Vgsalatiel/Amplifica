@@ -96,6 +96,17 @@ export const listArtistsSchema = paginationSchema.extend({
   genre: z.string().trim().min(1).max(80).optional(),
   /** Trecho do nome. */
   q: z.string().trim().min(1).max(80).optional(),
+  /** País de origem, como "BR". */
+  country: z
+    .string()
+    .trim()
+    .toUpperCase()
+    .regex(/^[A-Z]{2}$/, 'Use o código do país com duas letras, como BR.')
+    .optional(),
+  /** Bandas formadas neste ano ou depois: o critério de "banda nova". */
+  formedFrom: z.coerce.number().int().min(1900).max(2100).optional(),
+  /** `newest` põe as formadas mais recentemente primeiro. */
+  sort: z.enum(['name', 'newest']).default('name'),
 });
 
 export type CreateArtistDto = z.infer<typeof createArtistSchema>;

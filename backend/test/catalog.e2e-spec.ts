@@ -286,6 +286,24 @@ describe('Catálogo (e2e)', () => {
       expect(unknown.items).toEqual([]);
     });
 
+    it('filtra por país e por ano de formação (bandas novas)', async () => {
+      const slugs = async (queryString: string) =>
+        (
+          await request(server())
+            .get(`${API}/artists?genre=e2e-metal&${queryString}`)
+            .expect(200)
+        ).body.items.map((item: { slug: string }) => item.slug);
+
+      expect(await slugs('country=br')).toEqual(['e2e-vidro-fosco']);
+      expect(await slugs('country=US')).toEqual([]);
+      // A banda do teste foi formada em 2016: entra em 2016, sai em 2017.
+      expect(await slugs('formedFrom=2016&sort=newest')).toEqual([
+        'e2e-vidro-fosco',
+      ]);
+      expect(await slugs('formedFrom=2017')).toEqual([]);
+      await request(server()).get(`${API}/artists?country=brasil`).expect(400);
+    });
+
     it('recusa parâmetros de paginação inválidos', async () => {
       await request(server()).get(`${API}/artists?limit=500`).expect(400);
       await request(server()).get(`${API}/artists?page=0`).expect(400);

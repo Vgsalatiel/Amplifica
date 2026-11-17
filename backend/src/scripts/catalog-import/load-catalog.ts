@@ -80,15 +80,24 @@ export async function loadCatalog(
     report.artist = 'updated';
   }
 
+  // Acha o lançamento já gravado: pelo MusicBrainz ou, sem ele, pelo título dentro do artista.
+  const findStored = (release: CatalogRelease) =>
+    release.mbid
+      ? prisma.release.findUnique({ where: { mbid: release.mbid } })
+      : prisma.release.findFirst({
+          where: {
+            title: release.title,
+            artists: { some: { artistId: artist.id } },
+          },
+        });
+
   // --- lançamentos
   for (const release of data.releases) {
     const fields = releaseFields(release);
     const tracks = release.tracks.map((track) => ({ ...track }));
     report.tracks += tracks.length;
 
-    const existing = await prisma.release.findUnique({
-      where: { mbid: release.mbid },
-    });
+    const existing = await findStored(release);
     if (!existing) {
       const slug = await uniqueSlug(
         slugify(`${artist.slug} ${release.title}`),
@@ -129,9 +138,7 @@ export async function loadCatalog(
       if (!release.coverUrl || report.covers.skipped) {
         continue;
       }
-      const stored = await prisma.release.findUnique({
-        where: { mbid: release.mbid },
-      });
+      const stored = await findStored(release);
       if (!stored || stored.coverPath) {
         continue;
       }

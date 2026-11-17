@@ -69,6 +69,11 @@ export interface ArtistListParams {
   limit?: number
   q?: string
   genre?: string
+  /** País de origem, como "BR". */
+  country?: string
+  /** Bandas formadas neste ano ou depois. */
+  formedFrom?: number
+  sort?: 'name' | 'newest'
 }
 
 export const listArtists = (params: ArtistListParams) =>

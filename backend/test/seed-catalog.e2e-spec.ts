@@ -220,4 +220,23 @@ describe('Carga do catálogo (e2e)', () => {
       await prisma.artist.count({ where: { slug: 'e2e-outra-banda' } }),
     ).toBe(0);
   });
+
+  it('reconhece pelo título um lançamento sem MusicBrainz, sem duplicar', async () => {
+    const data = dataFile();
+    data.artist.slug = 'e2e-banda-sem-mb';
+    data.releases = [
+      { ...data.releases[0]!, mbid: null, title: 'Disco Só no Streaming' },
+    ];
+
+    const first = await load(data);
+    expect(first.releases).toMatchObject({ created: 1, kept: 0 });
+    const second = await load(data);
+    expect(second.releases).toMatchObject({ created: 0, kept: 1 });
+
+    const releases = await prisma.release.findMany({
+      where: { artists: { some: { artist: { slug: 'e2e-banda-sem-mb' } } } },
+    });
+    expect(releases).toHaveLength(1);
+    expect(releases[0]!.slug).toBe('e2e-banda-sem-mb-disco-so-no-streaming');
+  });
 });
