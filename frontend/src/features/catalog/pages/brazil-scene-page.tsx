@@ -33,9 +33,7 @@ export function BrazilScenePage() {
         </p>
         <BrazilSceneNav />
 
-        <div className="mt-12">
-          <FeaturedAlbums slugs={BRAZIL_FEATURED_RELEASES} />
-        </div>
+        <FeaturedAlbums slugs={BRAZIL_FEATURED_RELEASES} />
 
         <section className="mt-12" aria-labelledby="todas-titulo">
           <SectionHeading as="h2">

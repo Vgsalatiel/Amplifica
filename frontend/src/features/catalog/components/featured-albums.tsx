@@ -1,8 +1,11 @@
+import { useQueries } from '@tanstack/react-query'
 import { Link } from 'react-router'
 import { Cover } from '../../../components/catalog/cover'
 import { cn } from '../../../lib/cn'
 import { releaseYear, todayInBrazil } from '../../../lib/format-date'
-import { useRelease } from '../hooks/use-catalog'
+import { retryDelay, shouldRetry } from '../../../lib/retry'
+import type { ReleaseDetail } from '../../../types/api'
+import { getRelease } from '../api/catalog-api'
 
 /**
  * Posição de cada cartão: um leve giro, uma altura diferente (só a partir do `sm`, para o celular
@@ -17,31 +20,46 @@ const CARD_STYLES = [
 
 /**
  * Discos em destaque, como cartões soltos (estilo foto instantânea): capa, título, banda e ano.
- * Os quatro aparecem de uma vez. Disco que não existe no catálogo não aparece.
+ * Os que existem no catálogo aparecem de uma vez; um que não exista é pulado. Se nenhum existir
+ * (catálogo ainda sem esses discos), a seção inteira some, em vez de mostrar cartões vazios.
  */
 export function FeaturedAlbums({ slugs }: { slugs: string[] }) {
+  const results = useQueries({
+    queries: slugs.map((slug) => ({
+      queryKey: ['release', slug],
+      queryFn: () => getRelease(slug),
+      retry: shouldRetry,
+      retryDelay,
+    })),
+  })
+
+  const loaded = results.flatMap((result, index) =>
+    result.data ? [{ slug: slugs[index]!, release: result.data }] : [],
+  )
+  const waiting = results.filter((result) => result.isPending).length
+
+  if (waiting === 0 && loaded.length === 0) {
+    return null
+  }
+
   return (
     <ul
       aria-label="Discos em destaque"
-      className="grid grid-cols-2 items-start gap-x-5 gap-y-8 pb-8 sm:grid-cols-4 sm:gap-x-6"
+      className="mt-12 grid grid-cols-2 items-start gap-x-5 gap-y-8 pb-8 sm:grid-cols-4 sm:gap-x-6"
     >
-      {slugs.map((slug, position) => (
-        <FeaturedAlbum key={slug} slug={slug} style={CARD_STYLES[position % CARD_STYLES.length]!} />
+      {loaded.map(({ slug, release }, position) => (
+        <FeaturedAlbum key={slug} slug={slug} release={release} style={CARD_STYLES[position % CARD_STYLES.length]!} />
+      ))}
+      {/* Enquanto os outros ainda carregam, um espaço neutro no lugar de cada um. */}
+      {Array.from({ length: waiting }, (_, index) => (
+        <li key={`espera-${index}`} aria-hidden="true" className="aspect-[4/5] bg-surface-raised" />
       ))}
     </ul>
   )
 }
 
-function FeaturedAlbum({ slug, style }: { slug: string; style: string }) {
-  const release = useRelease(slug)
-
-  if (release.isPending) {
-    return <li aria-hidden="true" className={cn('aspect-[4/5] bg-surface-raised', style)} />
-  }
-  if (!release.data) {
-    return null
-  }
-  const { title, cover, artists, releaseDate } = release.data
+function FeaturedAlbum({ slug, release, style }: { slug: string; release: ReleaseDetail; style: string }) {
+  const { title, cover, artists, releaseDate } = release
   const band = artists.map((artist) => artist.name).join(', ')
   const isNew = releaseYear(releaseDate) === todayInBrazil().slice(0, 4)
 

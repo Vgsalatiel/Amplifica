@@ -65,6 +65,19 @@ describe('BrazilScenePage', () => {
     expect(document.title).toBe('Cena BR | Amplifica')
   })
 
+  it('se nenhum dos discos em destaque existe no catálogo, a seção some em vez de mostrar cartões vazios', async () => {
+    endSession()
+    mockApi({
+      ...emoTour,
+      ...Object.fromEntries(BRAZIL_FEATURED_RELEASES.map((slug) => [`GET /releases/${slug}`, notFound])),
+      'GET /artists?country=BR&page=1&limit=24': { status: 200, body: page([artistSummary()]) },
+    })
+    open()
+
+    expect(await screen.findByRole('link', { name: /Bring Me the Horizon/ })).toBeInTheDocument()
+    expect(screen.queryByRole('list', { name: 'Discos em destaque' })).not.toBeInTheDocument()
+  })
+
   it('sem bandas cadastradas, avisa', async () => {
     endSession()
     mockApi({
