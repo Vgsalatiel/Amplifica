@@ -25,7 +25,7 @@ export function TextArea({ label, hint, error, className, id, rows = 4, ...props
         aria-invalid={error ? true : undefined}
         aria-describedby={error || hint ? messageId : undefined}
         className={cn(
-          'rounded-xs border bg-transparent px-3 py-2.5 font-serif text-lg text-ink placeholder:text-muted',
+          'rounded-xs border bg-transparent px-3 py-2.5 text-lg text-ink placeholder:text-muted',
           error ? 'border-2 border-danger' : 'border-rule-strong hover:border-ink',
         )}
         {...props}

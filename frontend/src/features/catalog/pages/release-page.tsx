@@ -50,7 +50,7 @@ export function ReleasePage() {
   const data = release!
 
   return (
-    // Redefine a cor de destaque só aqui dentro: o resto do site continua no violeta.
+    // Redefine a cor de destaque só aqui dentro: o resto do site continua no amarelo.
     <div style={accentStyle(data.accentColor)}>
       <Container className="pt-8 md:pt-12">
         <div className="grid gap-10 md:grid-cols-[minmax(0,30rem)_minmax(0,1fr)] md:gap-16">
@@ -86,7 +86,7 @@ export function ReleasePage() {
               </p>
             )}
 
-            {data.description && <p className="mt-8 max-w-xl font-serif text-xl whitespace-pre-line">{data.description}</p>}
+            {data.description && <p className="mt-8 max-w-xl text-xl whitespace-pre-line">{data.description}</p>}
 
             <RatingSummaryBlock rating={data.rating} />
 

@@ -27,7 +27,7 @@ export function ForgotPasswordPage() {
 
       {mutation.isSuccess ? (
         <div role="status" className="mt-8 max-w-xl">
-          <p className="font-serif text-xl">
+          <p className="text-xl">
             Se existe uma conta com o e-mail <strong>{email.trim()}</strong>, enviamos um link para criar uma nova senha. Ele vale por 1 hora.
           </p>
           <p className="mt-4 text-muted">Não chegou? Olhe a caixa de spam e confira se o endereço está certo.</p>
@@ -37,7 +37,7 @@ export function ForgotPasswordPage() {
         </div>
       ) : (
         <>
-          <p className="mt-5 max-w-xl font-serif text-xl">Digite o e-mail da sua conta. Se ele existir, enviamos um link para você escolher outra senha.</p>
+          <p className="mt-5 max-w-xl text-xl">Digite o e-mail da sua conta. Se ele existir, enviamos um link para você escolher outra senha.</p>
           <form onSubmit={submit} noValidate className="mt-8 flex max-w-md flex-col gap-6">
             <FormAlert message={formMessageFrom(mutation.error)} />
             <TextField

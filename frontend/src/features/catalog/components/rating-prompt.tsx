@@ -52,12 +52,12 @@ export function RatingPrompt({ slug, releaseDate }: RatingPromptProps) {
         {out ? 'Já ouviu este disco?' : 'Ainda não saiu'}
       </h2>
       {!out ? (
-        <p className="mt-4 max-w-xl font-serif text-xl">
+        <p className="mt-4 max-w-xl text-xl">
           Este disco ainda não foi lançado, então ainda não pode receber nota.
         </p>
       ) : session.status === 'anonymous' ? (
         <>
-          <p className="mt-4 max-w-xl font-serif text-xl">
+          <p className="mt-4 max-w-xl text-xl">
             Crie uma conta para dar sua nota e escrever sua resenha. Para ver discos, bandas e gêneros, você não precisa de conta.
           </p>
           <div className="mt-6 flex flex-wrap gap-4">
@@ -71,7 +71,7 @@ export function RatingPrompt({ slug, releaseDate }: RatingPromptProps) {
         </>
       ) : session.user.needsEmailVerification ? (
         <div className="mt-4 max-w-xl">
-          <p className="font-serif text-xl">
+          <p className="text-xl">
             Para avaliar, confirme seu e-mail. Enviamos um link para {session.user.email}.
           </p>
           <p className="mt-5">

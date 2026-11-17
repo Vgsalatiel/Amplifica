@@ -10,9 +10,6 @@ interface SectionHeadingProps {
 export function SectionHeading({ children, as: Tag = 'h2', className }: SectionHeadingProps) {
   return (
     <Tag className={cn('font-display text-4xl leading-none font-normal', className)}>
-      <span aria-hidden="true" className="mr-3 align-middle text-2xl text-accent">
-        ★
-      </span>
       {children}
     </Tag>
   )

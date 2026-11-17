@@ -17,7 +17,7 @@ export function GenresPage() {
   return (
     <Container className="pt-10 md:pt-16">
       <h1 className="font-display text-6xl leading-none font-normal tracking-tight md:text-7xl">Gêneros</h1>
-      <p className="mt-5 max-w-xl font-serif text-xl">
+      <p className="mt-5 max-w-xl text-xl">
         Do punk ao metal, passando pelo emo e pelo rock alternativo. Escolha um gênero para ver as bandas dele; os subgêneros contam junto.
       </p>
 

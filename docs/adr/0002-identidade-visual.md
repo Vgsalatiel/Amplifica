@@ -58,3 +58,23 @@ O autor pediu uma cara mais de emocore. Entre três direções (flyer de show DI
 - **Letra de marcador sem itálico.** A fonte não tem itálico, e o navegador inventaria um torto. Uma regra fora das camadas do Tailwind anula o `italic` dos títulos. Títulos longos quebram com `overflow-wrap: anywhere`, porque a letra é larga.
 - **Pendência do logotipo resolvida.** A Permanent Marker pode ser usada em logotipos e redistribuída, ao contrário da demo da Maskneyes.
 - **Acessibilidade.** Todos os pares de cor passam em AA; as estrelas, os corações e o recado manuscrito são decorativos (`aria-hidden`); a animação do mural respeita `prefers-reduced-motion`.
+
+## Revisão de 2026-11-17: "TV de clipes" (versão equilibrada)
+
+Depois de ver cinco direções em mockups (zine, revista, tropical, índice e TV de clipes), o autor gostou da **TV de clipes**, que lembra a MTV Brasil, mas achou o resultado forte demais para o site inteiro. Foi aprovada a **versão equilibrada**: o visual de TV fica na página inicial, na Cena BR e na agenda, e as páginas de leitura (disco, banda, resenhas, administração) ficam calmas, com as capas como destaque. Os tokens continuam sendo a única fonte de cores e fontes. Esta é a etapa 1 da troca (base: cores, fontes, botões, cabeçalho, rodapé, logotipo e guia visual); início, páginas internas e o player "Agora na tela" vêm nas etapas seguintes.
+
+| Elemento | Escolha |
+| --- | --- |
+| Fundo | Quase preto `#0B0B0C`, com grafite `#161618` em faixas |
+| Texto | Branco `#FFFFFF` (19,7:1) e cinza `#B9B9BD` (10,1:1) |
+| Cor principal | Amarelo `#FFE600` (15,5:1); o texto sobre ele é preto (15,5:1) |
+| Selos | Rosa `#FF2D95` (5,7:1), só em selos pequenos como "AGORA"; o texto sobre ele é preto |
+| Erros | Vermelho claro `#FF7A7A` (7,8:1) |
+| Títulos e logotipo | Archivo Black (OFL, que permite uso em logotipo) |
+| Texto e interface | Archivo (OFL), em peso variável |
+| Detalhes | Logotipo em bloco amarelo inclinado, botões em pílula, página atual do menu em pílula amarela, listras diagonais amarelas e pretas e rodapé amarelo |
+
+- **Saem** a Permanent Marker, a Reenie Beanie, a Fraunces, a Newsreader e a Instrument Sans, assim como as estrelas, os corações e o recado manuscrito. O rosa deixou de ser a cor principal.
+- **Cor do disco.** Continua valendo só na página do disco (`onDark`, em `lib/accent.ts`). Sem cor própria, a página usa o amarelo do site.
+- **Uma só família no texto corrido.** O texto de leitura (resenhas, descrições) passou a usar a Archivo, a mesma da interface, em vez de uma fonte serifada separada.
+- **Acessibilidade.** Todos os pares de cor passam em AA. A Archivo Black não tem itálico: a regra que anula o `italic` dos títulos continua, e títulos longos quebram com `overflow-wrap: anywhere`.

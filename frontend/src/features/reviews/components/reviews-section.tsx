@@ -26,7 +26,7 @@ function ReviewItem({ review, canModerate }: { review: Review; canModerate: bool
         , {formatReviewDate(review.createdAt)}
         {review.edited && ', editada'}
       </p>
-      <p className="mt-3 max-w-2xl font-serif text-xl whitespace-pre-line break-words">{review.body}</p>
+      <p className="mt-3 max-w-2xl text-xl whitespace-pre-line break-words">{review.body}</p>
       {canModerate && (
         <div className="mt-3">
           <DeleteButton

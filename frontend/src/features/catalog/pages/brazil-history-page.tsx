@@ -16,7 +16,7 @@ export function BrazilHistoryPage() {
   return (
     <Container className="pt-10 md:pt-16">
       <h1 className="font-display text-6xl leading-none font-normal tracking-tight md:text-7xl">História da cena BR</h1>
-      <p className="mt-5 max-w-xl font-serif text-xl">
+      <p className="mt-5 max-w-xl text-xl">
         Do hardcore dos anos 80 ao emo e ao metalcore de hoje, em cinco capítulos curtos. Os nomes em sublinhado levam à
         página da banda no catálogo.
       </p>
@@ -26,11 +26,11 @@ export function BrazilHistoryPage() {
         {HISTORY_ERAS.map((era) => (
           <li key={era.id}>
             <section aria-labelledby={era.id}>
-              <p className="font-hand text-3xl text-accent">{era.period}</p>
+              <p className="font-display text-2xl text-accent">{era.period}</p>
               <SectionHeading as="h2" className="mt-1">
                 <span id={era.id}>{era.title}</span>
               </SectionHeading>
-              <div className="mt-5 max-w-2xl space-y-4 font-serif text-lg leading-relaxed">
+              <div className="mt-5 max-w-2xl space-y-4 text-lg leading-relaxed">
                 {era.paragraphs.map((text) => (
                   <p key={text}>{text}</p>
                 ))}

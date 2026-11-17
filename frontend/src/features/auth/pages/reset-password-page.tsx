@@ -44,14 +44,14 @@ export function ResetPasswordPage() {
 
       {mutation.isSuccess ? (
         <div role="status" className="mt-8 max-w-xl">
-          <p className="font-serif text-xl">Por segurança, você foi desconectado de todos os aparelhos. Entre com a nova senha.</p>
+          <p className="text-xl">Por segurança, você foi desconectado de todos os aparelhos. Entre com a nova senha.</p>
           <p className="mt-6">
             <ButtonLink to="/entrar">Entrar</ButtonLink>
           </p>
         </div>
       ) : linkProblem ? (
         <div className="mt-8 max-w-xl">
-          <p role="alert" className="font-serif text-xl">
+          <p role="alert" className="text-xl">
             {token ? 'Esse link venceu ou já foi usado.' : 'Esse link está incompleto.'} Peça um novo para escolher a senha.
           </p>
           <p className="mt-6">

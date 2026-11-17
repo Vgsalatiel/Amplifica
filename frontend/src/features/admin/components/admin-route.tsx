@@ -20,7 +20,7 @@ export function AdminRoute() {
   return (
     <Container className="pt-16 md:pt-24">
       <h1 className="font-display text-5xl leading-none font-normal tracking-tight md:text-6xl">Área restrita</h1>
-      <p className="mt-6 max-w-xl font-serif text-xl">
+      <p className="mt-6 max-w-xl text-xl">
         Só administradores cadastram artistas e lançamentos. Sua conta não tem essa permissão.
       </p>
       <p className="mt-6">

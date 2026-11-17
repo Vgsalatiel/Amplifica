@@ -54,11 +54,11 @@ export function ShowRow({ show }: { show: Show }) {
           {eventIsTitle ? show.name : <Acts show={show} />}
         </h3>
         {eventIsTitle ? (
-          <p className="mt-1 font-serif text-lg">
+          <p className="mt-1 text-lg">
             <Acts show={show} />
           </p>
         ) : (
-          show.name && <p className="mt-1 font-serif text-lg">{show.name}</p>
+          show.name && <p className="mt-1 text-lg">{show.name}</p>
         )}
         <p className="mt-2 text-muted">
           {show.venue}, {show.city}/{show.state}

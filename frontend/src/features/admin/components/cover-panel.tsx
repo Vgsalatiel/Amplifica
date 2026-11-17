@@ -9,8 +9,11 @@ import { removeReleaseCover, updateRelease, uploadReleaseCover } from '../../cat
 import { useInvalidateCatalog } from '../../catalog/hooks/use-catalog'
 import { ImageUploader } from './image-uploader'
 
-/** Violeta padrão do site: a cor usada quando o lançamento não tem cor própria. */
-const DEFAULT_ACCENT = '#5630D0'
+/**
+ * Ponto de partida do seletor quando o lançamento não tem cor própria: um dourado escuro, porque a cor
+ * do disco é guardada escura e clareada na página (o amarelo do site é o que vale sem cor própria).
+ */
+const DEFAULT_ACCENT = '#7A6200'
 
 /**
  * Capa e cor de destaque do lançamento. Ao enviar a capa, a API escolhe a cor; aqui o admin
@@ -120,7 +123,7 @@ export function CoverPanel({ release }: { release: ReleaseDetail }) {
           </p>
         )}
         {!release.accentColor && !draftColor && (
-          <p className="text-sm text-muted">Sem cor própria: a página usa o violeta padrão do site.</p>
+          <p className="text-sm text-muted">Sem cor própria: a página usa o amarelo padrão do site.</p>
         )}
       </section>
     </div>

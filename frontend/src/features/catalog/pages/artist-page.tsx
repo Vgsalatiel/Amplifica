@@ -85,7 +85,7 @@ export function ArtistPage() {
           <SectionHeading as="h2">
             <span id="historia-titulo">História</span>
           </SectionHeading>
-          <div className="mt-8 flex max-w-2xl flex-col gap-5 font-serif text-xl leading-relaxed">
+          <div className="mt-8 flex max-w-2xl flex-col gap-5 text-xl leading-relaxed">
             {paragraphs.map((paragraph, index) => (
               <p key={index}>{paragraph}</p>
             ))}

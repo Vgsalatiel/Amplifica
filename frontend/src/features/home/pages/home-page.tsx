@@ -39,7 +39,7 @@ export function HomePage() {
           <h1 className="max-w-3xl font-display text-6xl leading-[1.04] font-normal tracking-tight text-balance md:text-6xl lg:text-7xl">
             Descubra pelo disco, não pelo algoritmo.
           </h1>
-          <p className="mt-8 max-w-xl font-serif text-xl leading-normal md:text-[22px]">
+          <p className="mt-8 max-w-xl text-xl leading-normal md:text-[22px]">
             O Amplifica é um catálogo de rock e suas vertentes, do midwest emo ao metalcore, com discografias
             organizadas, resenhas assinadas por quem ouve e a agenda de shows no Brasil.
           </p>
@@ -50,10 +50,6 @@ export function HomePage() {
             </ButtonLink>
             {session.status === 'anonymous' && <TextLink to="/cadastro">Criar conta</TextLink>}
           </div>
-          {/* Recado à mão: só enfeite, a página inteira se explica sem ele. */}
-          <p aria-hidden="true" className="mt-8 -rotate-2 font-hand text-3xl text-accent">
-            ♥ ouça o disco inteiro, do começo ao fim ♥
-          </p>
         </div>
         {hasMural && <CoverMural releases={featured.data!.items} />}
       </div>

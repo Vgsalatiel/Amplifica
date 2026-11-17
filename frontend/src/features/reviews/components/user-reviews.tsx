@@ -71,7 +71,7 @@ export function UserReviews({ username, displayName, isOwnProfile }: UserReviews
                   <RatingMeter value={review.rating} size="sm" />
                   <p className="font-display text-xl leading-none">{review.rating}/10</p>
                 </div>
-                {review.body && <p className="mt-3 max-w-2xl font-serif text-lg whitespace-pre-line break-words">{review.body}</p>}
+                {review.body && <p className="mt-3 max-w-2xl text-lg whitespace-pre-line break-words">{review.body}</p>}
                 <p className="mt-2 text-sm text-muted">
                   {formatReviewDate(review.createdAt)}
                   {review.edited && ', editada'}

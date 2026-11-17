@@ -204,7 +204,7 @@ Cada decisão relevante tem uma página própria, com contexto, alternativas e l
 | ADR | Assunto |
 | --- | --- |
 | [0001](docs/adr/0001-arquitetura-base.md) | Arquitetura base: estrutura do repositório, stack e ambientes |
-| [0002](docs/adr/0002-identidade-visual.md) | Identidade visual (revisada em 16/11: "Emo anos 2000") e tokens de tema |
+| [0002](docs/adr/0002-identidade-visual.md) | Identidade visual (revisada em 17/11: "TV de clipes", versão equilibrada) e tokens de tema |
 | [0003](docs/adr/0003-autenticacao.md) | Autenticação e sessão: token de acesso em memória, renovação em cookie `HttpOnly`, scrypt |
 | [0004](docs/adr/0004-catalogo-e-imagens.md) | Modelo do catálogo, permissões e imagens |
 | [0005](docs/adr/0005-administracao.md) | Área administrativa |

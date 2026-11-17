@@ -97,7 +97,7 @@ export function ReleasesPage() {
   return (
     <Container className="pt-10 md:pt-16">
       <h1 className="font-display text-6xl leading-none font-normal tracking-tight md:text-7xl">Lançamentos</h1>
-      <p className="mt-5 max-w-xl font-serif text-xl">
+      <p className="mt-5 max-w-xl text-xl">
         Álbuns, EPs e outros discos do catálogo. Filtre por gênero, tipo ou ano, ou ordene pela nota.
       </p>
 

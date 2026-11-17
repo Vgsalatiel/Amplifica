@@ -49,7 +49,7 @@ export function GenrePage() {
         </p>
       )}
       <h1 className="mt-2 font-display text-6xl leading-none font-normal tracking-tight md:text-7xl">{data.name}</h1>
-      {data.description && <p className="mt-5 max-w-xl font-serif text-xl">{data.description}</p>}
+      {data.description && <p className="mt-5 max-w-xl text-xl">{data.description}</p>}
 
       {data.children.length > 0 && (
         <section className="mt-8" aria-label="Subgêneros">

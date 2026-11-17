@@ -41,7 +41,7 @@ export function PromptField({
       <h1 className="font-display text-5xl leading-[0.98] font-normal tracking-tight text-balance md:text-7xl">
         <label htmlFor={inputId}>{question}</label>
       </h1>
-      <p className="mt-5 max-w-xl font-serif text-xl text-muted">{description}</p>
+      <p className="mt-5 max-w-xl text-xl text-muted">{description}</p>
 
       <div
         className={cn(

@@ -40,7 +40,7 @@ export function ArtistsPage() {
   return (
     <Container className="pt-10 md:pt-16">
       <h1 className="font-display text-6xl leading-none font-normal tracking-tight md:text-7xl">Artistas</h1>
-      <p className="mt-5 max-w-xl font-serif text-xl">Bandas e artistas do catálogo. Escolha um gênero para filtrar, ou busque pelo nome.</p>
+      <p className="mt-5 max-w-xl text-xl">Bandas e artistas do catálogo. Escolha um gênero para filtrar, ou busque pelo nome.</p>
 
       <div className="mt-10 grid gap-6 md:grid-cols-[minmax(0,16rem)_minmax(0,24rem)] md:items-end">
         <Select label="Gênero" value={genre} onChange={(event) => update({ genre: event.target.value })}>

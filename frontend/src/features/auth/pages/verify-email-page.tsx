@@ -47,7 +47,7 @@ export function VerifyEmailPage() {
       {mutation.isSuccess ? (
         <>
           <h1 className="font-display text-5xl leading-[1.06] font-normal tracking-tight md:text-6xl">E-mail confirmado</h1>
-          <p role="status" className="mt-5 max-w-xl font-serif text-xl">
+          <p role="status" className="mt-5 max-w-xl text-xl">
             Pronto. Agora você pode avaliar discos e escrever resenhas.
           </p>
           <p className="mt-6">
@@ -57,7 +57,7 @@ export function VerifyEmailPage() {
       ) : expired || mutation.isError ? (
         <>
           <h1 className="font-display text-5xl leading-[1.06] font-normal tracking-tight md:text-6xl">Não foi possível confirmar</h1>
-          <p role="alert" className="mt-5 max-w-xl font-serif text-xl">
+          <p role="alert" className="mt-5 max-w-xl text-xl">
             {expired
               ? 'Esse link venceu, já foi usado ou está incompleto.'
               : 'O servidor não respondeu. Tente abrir o link de novo em instantes.'}

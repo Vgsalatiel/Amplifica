@@ -36,7 +36,7 @@ export function ShowsPage() {
   return (
     <Container className="pt-10 md:pt-16">
       <h1 className="font-display text-6xl leading-none font-normal tracking-tight md:text-7xl">Shows</h1>
-      <p className="mt-5 max-w-xl font-serif text-xl">
+      <p className="mt-5 max-w-xl text-xl">
         Shows de rock, metal, hardcore e punk marcados no Brasil. Cada show leva ao site do vendedor, e a data ao lado
         mostra quando a informação foi conferida.
       </p>

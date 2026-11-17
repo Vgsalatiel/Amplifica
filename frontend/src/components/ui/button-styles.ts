@@ -12,7 +12,7 @@ const variants: Record<ButtonVariant, string> = {
 /** Aparência de botão, compartilhada entre <Button> e <ButtonLink>. */
 export function buttonClasses(variant: ButtonVariant = 'primary', className?: string): string {
   return cn(
-    'inline-flex h-12 cursor-pointer items-center justify-center rounded-full px-7 font-semibold transition-colors',
+    'inline-flex h-12 cursor-pointer items-center justify-center rounded-full px-7 font-extrabold transition-colors',
     'disabled:cursor-not-allowed disabled:opacity-50',
     variants[variant],
     className,

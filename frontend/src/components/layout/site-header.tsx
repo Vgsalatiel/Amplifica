@@ -19,10 +19,11 @@ const BASE_NAV_ITEMS = [
 ]
 
 const linkBase =
-  'inline-flex min-h-11 items-center whitespace-nowrap text-[15px] font-medium underline-offset-8 transition-colors hover:text-accent'
+  'inline-flex min-h-11 items-center whitespace-nowrap rounded-full px-3 text-[15px] font-semibold transition-colors hover:text-accent'
 
+/** A página atual vira uma pílula amarela, com texto preto. */
 function navLinkClass({ isActive }: { isActive: boolean }): string {
-  return cn(linkBase, isActive && 'underline decoration-accent decoration-2')
+  return cn(linkBase, isActive && 'bg-accent font-extrabold text-on-accent hover:text-on-accent')
 }
 
 export function SiteHeader() {
@@ -37,12 +38,12 @@ export function SiteHeader() {
 
   return (
     <header>
-      <Container className="flex items-center gap-10 pt-5 pb-3">
+      <Container className="flex items-center gap-4 pt-5 pb-4">
         <Link to="/" aria-label="Amplifica, página inicial">
-          <Logo className="text-4xl" />
+          <Logo className="text-3xl" />
         </Link>
 
-        <nav aria-label="Principal" className="hidden gap-8 xl:flex">
+        <nav aria-label="Principal" className="hidden gap-1 xl:flex">
           {NAV_ITEMS.map((item) => (
             <NavLink key={item.to} to={item.to} end={item.to === '/'} className={navLinkClass}>
               {item.label}
@@ -50,7 +51,7 @@ export function SiteHeader() {
           ))}
         </nav>
 
-        <HeaderSearch className="ml-auto hidden w-56 xl:flex" />
+        <HeaderSearch className="ml-auto hidden w-44 shrink-0 xl:flex" />
 
         <div className="hidden items-center gap-6 xl:flex">
           <AccountLinks onNavigate={closeMenu} />

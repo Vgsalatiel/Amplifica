@@ -5,7 +5,7 @@ import { isHexColor } from './color'
  * Tema de uma página pela cor do disco. As cores do site são variáveis CSS (`--color-accent`
  * e `--color-accent-hover`); redefini-las em um elemento muda botões, notas e links de tudo
  * que está dentro dele, sem tocar em nenhum componente. Fora desse elemento o site continua
- * no rosa padrão.
+ * no amarelo padrão.
  *
  * O site é preto, mas a cor do disco chega da API escura (com contraste sobre branco). Por isso ela
  * é clareada em direção ao branco (`onDark`): assim o texto, os links e o medidor de nota continuam

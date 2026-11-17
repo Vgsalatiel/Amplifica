@@ -32,7 +32,7 @@ export function SearchPage() {
     return (
       <Container className="pt-10 md:pt-16">
         <h1 className="font-display text-6xl leading-none font-normal tracking-tight md:text-7xl">Busca</h1>
-        <p className="mt-5 max-w-xl font-serif text-xl">
+        <p className="mt-5 max-w-xl text-xl">
           Digite o nome de um artista ou de um disco na caixa de busca, no alto da página. Para explorar sem procurar, veja os{' '}
           <TextLink to="/artistas">artistas</TextLink> ou os <TextLink to="/lancamentos">lançamentos</TextLink>.
         </p>
@@ -69,7 +69,7 @@ export function SearchPage() {
           </button>
         </p>
       ) : nothing ? (
-        <p className="mt-10 max-w-xl font-serif text-xl">
+        <p className="mt-10 max-w-xl text-xl">
           Nada encontrado para “{q}”. Confira a grafia (acentos e maiúsculas não importam) ou tente menos palavras. Você também pode ver os{' '}
           <TextLink to="/artistas">artistas</TextLink> ou os <TextLink to="/lancamentos">lançamentos</TextLink>.
         </p>

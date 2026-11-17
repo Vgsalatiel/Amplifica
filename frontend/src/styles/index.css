@@ -1,43 +1,36 @@
 @import 'tailwindcss';
 
 /* Fontes servidas pelo próprio site (pacotes Fontsource, licença SIL OFL). */
-@import '@fontsource-variable/fraunces/opsz.css';
-@import '@fontsource-variable/fraunces/opsz-italic.css';
-@import '@fontsource-variable/newsreader/opsz.css';
-@import '@fontsource-variable/newsreader/opsz-italic.css';
-@import '@fontsource-variable/instrument-sans/wght.css';
-/* Letra de marcador (títulos) e letra de caderno (recados): identidade "emo anos 2000". */
-@import '@fontsource/permanent-marker/latin-400.css';
-@import '@fontsource/reenie-beanie/latin-400.css';
+@import '@fontsource-variable/archivo/wght.css';
+@import '@fontsource/archivo-black/latin-400.css';
 
 /*
- * Tokens da identidade "Emo anos 2000": palco preto, rosa-choque, letra de marcador.
- * Os nomes descrevem o papel da cor (surface, ink, accent), não a cor em si, para que
+ * Tokens da identidade "TV de clipes": palco quase preto, amarelo como cor principal e rosa só em
+ * selos. Os nomes descrevem o papel da cor (surface, ink, accent), não a cor em si, para que
  * trocar a paleta não exija renomear classes. Cada token vira classes do Tailwind
  * (bg-surface, text-ink, text-accent, font-display...).
- * Contrastes medidos sobre surface (preto): ink 17,6:1, muted 9,3:1, rule-strong 5,3:1,
- * accent 5,7:1, danger 7,8:1. O texto sobre o rosa é preto (5,7:1).
+ * Contrastes medidos sobre surface (preto): ink 19,7:1, muted 10,1:1, rule-strong 5,7:1,
+ * accent 15,5:1, badge 5,7:1, danger 7,8:1. O texto sobre amarelo (15,5:1) e sobre rosa (5,7:1) é preto.
  */
 @theme {
-  --color-surface: #0b0b0d;
-  --color-surface-raised: #18171c;
-  --color-ink: #f6f1f3;
-  --color-muted: #b8b0b6;
-  --color-rule: #2e2a32;
+  --color-surface: #0b0b0c;
+  --color-surface-raised: #161618;
+  --color-ink: #ffffff;
+  --color-muted: #b9b9bd;
+  --color-rule: #2a2a2e;
   /* Borda de campos de formulário: precisa de 3:1 contra o fundo. */
-  --color-rule-strong: #8a828a;
-  --color-accent: #ff2e93;
-  --color-accent-hover: #ff7ab8;
+  --color-rule-strong: #8a8a90;
+  --color-accent: #ffe600;
+  --color-accent-hover: #fff27a;
   /* Texto sobre a cor de destaque (botão principal). */
-  --color-on-accent: #0b0b0d;
+  --color-on-accent: #0b0b0c;
+  /* Rosa dos selos ("AGORA", "AO VIVO"): pequeno e raro, nunca texto corrido. O texto sobre ele é preto. */
+  --color-badge: #ff2d95;
   --color-danger: #ff7a7a;
 
-  /* Letra de marcador: títulos e o logotipo. */
-  --font-display: 'Permanent Marker', 'Fraunces Variable', Georgia, serif;
-  /* Letra de caderno: recados curtos e enfeites, nunca texto de leitura. */
-  --font-hand: 'Reenie Beanie', 'Permanent Marker', cursive;
-  --font-serif: 'Newsreader Variable', Georgia, serif;
-  --font-sans: 'Instrument Sans Variable', system-ui, sans-serif;
+  /* Letra de título: títulos de página, de seção, nomes de banda e o logotipo. */
+  --font-display: 'Archivo Black', 'Archivo Variable', system-ui, sans-serif;
+  --font-sans: 'Archivo Variable', system-ui, sans-serif;
 
   /* Entrada de página: o conteúdo sobe alguns pixels enquanto aparece. Curta de
      propósito, para dar continuidade entre telas sem atrasar quem navega rápido. */
@@ -68,13 +61,8 @@
     -webkit-font-smoothing: antialiased;
   }
 
-  /*
-   * Títulos longos ("Bring Me the Horizon") não podem estourar a coluna no celular: a letra de
-   * marcador é larga. O `opsz` só vale para a Fraunces, que é a fonte reserva se o marcador falhar
-   * (e que afina demais em corpo grande: sem o limite, "Me the Horizon" viraria "Mc thc Horizon").
-   */
+  /* Títulos longos ("Bring Me the Horizon") não podem estourar a coluna no celular: a letra é larga. */
   .font-display {
-    font-variation-settings: 'opsz' 48;
     overflow-wrap: anywhere;
   }
 
@@ -91,18 +79,18 @@
 }
 
 /*
- * A letra de marcador não tem itálico: o navegador inventaria um itálico torto. Fica fora das
+ * A Archivo Black não tem itálico: o navegador inventaria um itálico torto. Fica fora das
  * camadas do Tailwind de propósito, para valer mais do que a classe `italic` usada nos títulos.
  */
 .font-display {
   font-style: normal;
 }
 
-/* Faixa de listras diagonais rosa e preto: bordas do cabeçalho, do rodapé e divisórias. */
+/* Faixa de listras diagonais amarelo e preto: bordas do cabeçalho, do rodapé e divisórias. */
 @utility stripes {
   background-image: repeating-linear-gradient(
-    135deg,
-    var(--color-accent) 0 7px,
-    var(--color-surface) 7px 14px
+    -45deg,
+    var(--color-accent) 0 12px,
+    var(--color-surface) 12px 24px
   );
 }

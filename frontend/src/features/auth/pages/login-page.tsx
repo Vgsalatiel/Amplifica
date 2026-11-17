@@ -52,7 +52,7 @@ export function LoginPage() {
             className="relative flex flex-col border-b-[3px] border-dashed border-surface-raised bg-accent px-8 py-8 text-on-accent md:min-h-[480px] md:border-r-[3px] md:border-b-0 md:px-9 md:py-10"
           >
             <p className="text-[15px]">Admite uma pessoa</p>
-            <p className="mt-6 font-display text-7xl leading-[0.9] tracking-tight italic md:mt-auto md:text-[92px]">
+            <p className="mt-6 font-display text-6xl leading-[0.9] tracking-tight md:mt-auto md:text-[52px]">
               Entrada
             </p>
             <p className="mt-5 border-t border-on-accent/45 pt-4 text-[15px]">

@@ -41,7 +41,7 @@ export function ProfilePage() {
         <h1 className="font-display text-5xl leading-none font-normal tracking-tight md:text-6xl">
           {notFound ? 'Esse perfil não existe' : 'Não foi possível carregar o perfil'}
         </h1>
-        <p className="mt-6 max-w-xl font-serif text-xl">
+        <p className="mt-6 max-w-xl text-xl">
           {notFound
             ? `Ninguém usa o nome "${username}" no Amplifica.`
             : 'O servidor não respondeu. Tente de novo em instantes.'}
@@ -80,7 +80,7 @@ export function ProfilePage() {
       </header>
 
       {user.bio ? (
-        <p className="mt-8 max-w-2xl font-serif text-xl whitespace-pre-line">{user.bio}</p>
+        <p className="mt-8 max-w-2xl text-xl whitespace-pre-line">{user.bio}</p>
       ) : (
         isOwnProfile && (
           <p className="mt-8 max-w-2xl text-muted">
