@@ -1,6 +1,6 @@
 {
   "generatedAt": "2026-11-16T00:00:00.000Z",
-  "source": "Spotify (páginas públicas dos artistas)",
+  "source": "Spotify e YouTube Music (páginas públicas dos artistas)",
   "artist": {
     "mbid": null,
     "name": "Bad Luv",
@@ -19,6 +19,14 @@
       {
         "name": "YouTube Music",
         "url": "https://music.youtube.com/channel/UCKGpEOMqN_II987m8qRHj-g"
+      },
+      {
+        "name": "YouTube Music: O MEDO NÃO ME PAROU",
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_nhYcYDwTYjyCBWZaxS906UelWlG1OYRP4"
+      },
+      {
+        "name": "YouTube Music: Nós",
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_lwV3Dzp5aFAKszg0LsPi4qNDYV-2dbZfE"
       }
     ],
     "genres": [
@@ -29,48 +37,127 @@
     {
       "mbid": null,
       "releaseMbid": null,
-      "title": "O Medo Não Me Parou",
+      "title": "Nós",
       "type": "ALBUM",
-      "releaseDate": "2026",
-      "description": null,
-      "coverUrl": null,
-      "tracks": []
-    }
-  ],
-  "pending": [
-    {
-      "mbid": null,
-      "releaseMbid": null,
-      "title": "Furacão",
-      "type": "SINGLE",
-      "releaseDate": "2026",
+      "releaseDate": "2025",
       "description": null,
       "coverUrl": null,
       "tracks": [
         {
-          "title": "Furacão",
+          "title": "Cicatrizes",
           "discNumber": 1,
           "position": 1,
-          "durationMs": null
+          "durationMs": 219000
+        },
+        {
+          "title": "Me faz tão bem",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 222000
+        },
+        {
+          "title": "Nós2",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 213000
+        },
+        {
+          "title": "Na noite passada eu não dormi (part. Luccas Carlos)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 208000
+        },
+        {
+          "title": "Autorretrato",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 240000
+        },
+        {
+          "title": "Tradução de saudade",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 236000
+        },
+        {
+          "title": "Reaprender",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 166000
+        },
+        {
+          "title": "Talvez não",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 233000
         }
       ]
     },
     {
       "mbid": null,
       "releaseMbid": null,
-      "title": "Sinto Sua Falta",
-      "type": "SINGLE",
+      "title": "O Medo Não Me Parou",
+      "type": "ALBUM",
       "releaseDate": "2026",
       "description": null,
       "coverUrl": null,
       "tracks": [
         {
-          "title": "Sinto Sua Falta",
+          "title": "O medo não me parou",
           "discNumber": 1,
           "position": 1,
-          "durationMs": null
+          "durationMs": 218000
+        },
+        {
+          "title": "Furacão",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 199000
+        },
+        {
+          "title": "Dias difíceis (part. Badauí)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 176000
+        },
+        {
+          "title": "Memória",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 188000
+        },
+        {
+          "title": "Enquanto você se lembrar",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 181000
+        },
+        {
+          "title": "Revolta",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 209000
+        },
+        {
+          "title": "Sinto sua falta",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 203000
+        },
+        {
+          "title": "Vício",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 210000
+        },
+        {
+          "title": "Sonho bom",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 160000
         }
       ]
     }
-  ]
+  ],
+  "pending": []
 }
