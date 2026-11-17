@@ -1,5 +1,5 @@
 import { fireEvent, screen } from '@testing-library/react'
-import { describe, expect, it } from 'vitest'
+import { afterEach, describe, expect, it, vi } from 'vitest'
 import { endSession, sessionStore } from '../../../lib/session'
 import { mockApi, renderRoutes, sessionFor, testUser } from '../../../test/helpers'
 import { LoginPage } from './login-page'
@@ -25,6 +25,15 @@ function fillAndSubmit() {
   fireEvent.change(screen.getByLabelText('Senha'), { target: { value: 'senha-segura' } })
   fireEvent.click(screen.getByRole('button', { name: 'Entrar' }))
 }
+
+function motion(reduced: boolean) {
+  vi.stubGlobal('matchMedia', (query: string) => ({ matches: reduced && query.includes('reduce'), media: query }))
+}
+
+afterEach(() => {
+  vi.useRealTimers()
+  vi.unstubAllGlobals()
+})
 
 describe('LoginPage', () => {
   it('entra, guarda a sessão e vai para o início', async () => {
@@ -78,5 +87,35 @@ describe('LoginPage', () => {
     renderLogin()
 
     expect(screen.getByRole('link', { name: 'Esqueci minha senha' })).toHaveAttribute('href', '/esqueci-a-senha')
+  })
+
+  it('ao entrar, o ingresso se parte: o formulário cai, o canhoto fica e a página só abre depois', async () => {
+    vi.useFakeTimers({ shouldAdvanceTime: true })
+    motion(false)
+    mockApi({ 'POST /auth/login': { status: 200, body: sessionFor() } })
+    renderLogin()
+    const form = document.querySelector('form')!
+
+    fillAndSubmit()
+
+    await vi.waitFor(() => expect(form).toHaveClass('opacity-0'))
+    expect(form).toHaveAttribute('inert')
+    expect(screen.getByRole('status')).toHaveTextContent('Você entrou. Abrindo a página.')
+    expect(screen.getByText('Entrada')).toBeInTheDocument()
+    expect(screen.queryByText('Página inicial')).not.toBeInTheDocument()
+
+    await vi.advanceTimersByTimeAsync(1200)
+
+    expect(await screen.findByText('Página inicial')).toBeInTheDocument()
+  })
+
+  it('com a preferência de menos movimento, entra direto, sem a animação', async () => {
+    motion(true)
+    mockApi({ 'POST /auth/login': { status: 200, body: sessionFor() } })
+    renderLogin()
+
+    fillAndSubmit()
+
+    expect(await screen.findByText('Página inicial')).toBeInTheDocument()
   })
 })
