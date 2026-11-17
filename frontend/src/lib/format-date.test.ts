@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { countryName, formatReleaseDate, releaseYear, monthHeading, showDay } from './format-date'
+import { countryName, formatReleaseDate, formatShowHour, releaseYear, monthHeading, showDay } from './format-date'
 
 describe('formatReleaseDate', () => {
   it('mostra só a parte conhecida da data', () => {
@@ -50,5 +50,14 @@ describe('monthHeading', () => {
   it('escreve o mês por extenso com o ano', () => {
     expect(monthHeading('2027-03-15')).toBe('março de 2027')
     expect(monthHeading('2026-12-31')).toBe('dezembro de 2026')
+  })
+})
+
+describe('formatShowHour', () => {
+  it('escreve a hora do jeito que se fala', () => {
+    expect(formatShowHour('14:00')).toBe('14h')
+    expect(formatShowHour('09:05')).toBe('9h05')
+    expect(formatShowHour('20:30')).toBe('20h30')
+    expect(formatShowHour(null)).toBeNull()
   })
 })

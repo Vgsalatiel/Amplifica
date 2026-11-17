@@ -35,6 +35,17 @@
   /* Entrada de página: o conteúdo sobe alguns pixels enquanto aparece. Curta de
      propósito, para dar continuidade entre telas sem atrasar quem navega rápido. */
   --animate-page-enter: page-enter 280ms cubic-bezier(0.2, 0, 0, 1) both;
+  /* Faixa de letreiro: o texto passa da direita para a esquerda; dois blocos iguais emendam sem salto. */
+  --animate-marquee: marquee 60s linear infinite;
+
+  @keyframes marquee {
+    from {
+      transform: translateX(0);
+    }
+    to {
+      transform: translateX(-50%);
+    }
+  }
 
   @keyframes page-enter {
     from {

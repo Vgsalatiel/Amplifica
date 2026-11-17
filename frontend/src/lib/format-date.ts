@@ -87,3 +87,12 @@ export function monthHeading(date: string): string {
   const { month, year } = showDay(date)
   return `${month} de ${year}`
 }
+
+/** Horário de início para a grade: "14:00" vira "14h" e "20:30" vira "20h30"; sem horário, `null`. */
+export function formatShowHour(startTime: string | null): string | null {
+  if (!startTime) {
+    return null
+  }
+  const [hour, minute] = startTime.split(':')
+  return minute === '00' ? `${Number(hour)}h` : `${Number(hour)}h${minute}`
+}
