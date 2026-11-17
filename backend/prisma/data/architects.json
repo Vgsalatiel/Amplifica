@@ -1,0 +1,1511 @@
+{
+  "generatedAt": "2026-11-17T12:52:15.316Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "05dffdbe-dc6e-4c8d-a075-50a09c4cb45c",
+    "name": "Architects",
+    "slug": "architects",
+    "type": "BAND",
+    "country": "GB",
+    "city": "Brighton",
+    "formedYear": 2004,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/05dffdbe-dc6e-4c8d-a075-50a09c4cb45c"
+      }
+    ],
+    "genres": [
+      "metalcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "4c9973a7-3451-332c-90d4-a6393ffea2df",
+      "releaseMbid": "31a94eb1-f3ce-4687-89c3-340a635d6e45",
+      "title": "Nightmares",
+      "type": "ALBUM",
+      "releaseDate": "2006-05-15",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4c9973a7-3451-332c-90d4-a6393ffea2df/front-1200",
+      "tracks": [
+        {
+          "title": "To the Death",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 161000
+        },
+        {
+          "title": "You Don’t Walk Away From Dismemberment",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 299000
+        },
+        {
+          "title": "Minesweeper",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 213000
+        },
+        {
+          "title": "They’ll Be Hanging Us Tonight",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 211000
+        },
+        {
+          "title": "This Confession Means Nothing",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 210000
+        },
+        {
+          "title": "In the Desert",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 246000
+        },
+        {
+          "title": "A Portrait for the Deceased",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 263000
+        },
+        {
+          "title": "The Darkest Tomb",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 222000
+        }
+      ]
+    },
+    {
+      "mbid": "a8a6e83a-fcc0-4e77-a2fd-de4be2ca7471",
+      "releaseMbid": "cefac0e6-1648-4ad2-b88b-3e0e7b6f0582",
+      "title": "Architects / Dead Swans",
+      "type": "EP",
+      "releaseDate": "2008",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a8a6e83a-fcc0-4e77-a2fd-de4be2ca7471/front-1200",
+      "tracks": [
+        {
+          "title": "We’re All Alone",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 182000
+        },
+        {
+          "title": "Broken Clocks",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 222000
+        },
+        {
+          "title": "In the Halflight",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 206000
+        },
+        {
+          "title": "Swallow",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 159000
+        }
+      ]
+    },
+    {
+      "mbid": "c1dbf7a9-274f-45fc-a190-9651c3f5444a",
+      "releaseMbid": "fdd69148-f6fc-4542-a780-050f7d5ffa61",
+      "title": "Ruin",
+      "type": "ALBUM",
+      "releaseDate": "2008-06-02",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c1dbf7a9-274f-45fc-a190-9651c3f5444a/front-1200",
+      "tracks": [
+        {
+          "title": "Buried at Sea",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 222133
+        },
+        {
+          "title": "Hunt Them Down",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 198880
+        },
+        {
+          "title": "You'll Find Safety",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 213466
+        },
+        {
+          "title": "Always",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 251493
+        },
+        {
+          "title": "Sail This Ship Alone",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 115120
+        },
+        {
+          "title": "Heartless",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 268013
+        },
+        {
+          "title": "North Lane",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 195240
+        },
+        {
+          "title": "I Can't See the Light",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 263813
+        },
+        {
+          "title": "Low",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 143800
+        },
+        {
+          "title": "Running From the Sun",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 223493
+        },
+        {
+          "title": "Save Me",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 267680
+        }
+      ]
+    },
+    {
+      "mbid": "acf67728-ad4c-34dd-838f-79c7e02c68d3",
+      "releaseMbid": "c8d664dd-916b-4092-8581-970eb0063fab",
+      "title": "Hollow Crown",
+      "type": "ALBUM",
+      "releaseDate": "2009-01-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/acf67728-ad4c-34dd-838f-79c7e02c68d3/front-1200",
+      "tracks": [
+        {
+          "title": "Early Grave",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 212000
+        },
+        {
+          "title": "Dethroned",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 187000
+        },
+        {
+          "title": "Numbers Count for Nothing",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 230000
+        },
+        {
+          "title": "Follow the Water",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 221000
+        },
+        {
+          "title": "In Elegance",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 257000
+        },
+        {
+          "title": "We’re All Alone",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 181000
+        },
+        {
+          "title": "Borrowed Time",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 150000
+        },
+        {
+          "title": "Every Last Breath",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 209000
+        },
+        {
+          "title": "One of These Days",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 154000
+        },
+        {
+          "title": "Dead March",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 227000
+        },
+        {
+          "title": "Left With a Last Minute",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 178000
+        },
+        {
+          "title": "Hollow Crown",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 265000
+        }
+      ]
+    },
+    {
+      "mbid": "b22c15b1-8310-4277-9ff6-2a101d4392be",
+      "releaseMbid": "7f59eee8-cd76-4cf0-b679-6279d62c8b0c",
+      "title": "Hollow Crown & Ruin",
+      "type": "COMPILATION",
+      "releaseDate": "2010",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Early Grave",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Dethroned",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Numbers Count for Nothing",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Follow the Water",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "In Elegance",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "We're All Alone",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Borrowed Time",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Every Last Breath",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "One of These Days",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Dead March",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": null
+        },
+        {
+          "title": "Left With a Last Minute",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": null
+        },
+        {
+          "title": "Hollow Crown",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": null
+        },
+        {
+          "title": "Buried at Sea",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Hunt Them Down",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "You'll Find Safety",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Always",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Sail This Ship Alone",
+          "discNumber": 2,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Heartless",
+          "discNumber": 2,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "North Lane",
+          "discNumber": 2,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "I Can't See the Light",
+          "discNumber": 2,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "Low",
+          "discNumber": 2,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Running From the Sun",
+          "discNumber": 2,
+          "position": 10,
+          "durationMs": null
+        },
+        {
+          "title": "Save Me",
+          "discNumber": 2,
+          "position": 11,
+          "durationMs": null
+        },
+        {
+          "title": "Broken Clocks",
+          "discNumber": 2,
+          "position": 12,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "18ef0cf0-c361-4653-8ced-71fb95f1c498",
+      "releaseMbid": "5cc4dca7-50a8-42bd-9c4b-2110e5c6ecb2",
+      "title": "The Here and Now",
+      "type": "ALBUM",
+      "releaseDate": "2011-01-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/18ef0cf0-c361-4653-8ced-71fb95f1c498/front-1200",
+      "tracks": [
+        {
+          "title": "Day In Day Out",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 190400
+        },
+        {
+          "title": "Learn to Live",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 241493
+        },
+        {
+          "title": "Delete, Rewind",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 188440
+        },
+        {
+          "title": "BTN",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 237853
+        },
+        {
+          "title": "An Open Letter to Myself",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 196080
+        },
+        {
+          "title": "The Blues",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 196826
+        },
+        {
+          "title": "Red Eyes",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 256986
+        },
+        {
+          "title": "Stay Young Forever",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 182493
+        },
+        {
+          "title": "Heartburn",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 217066
+        },
+        {
+          "title": "Year In Year Out/Up and Away",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 447840
+        },
+        {
+          "title": "Day In Day Out (Big Chocolate remix)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 286906
+        }
+      ]
+    },
+    {
+      "mbid": "d91eade8-ba60-4d5f-98f1-28d73204b617",
+      "releaseMbid": "80da4d14-c6bf-4b3a-a8fd-2927a863caa3",
+      "title": "Daybreaker",
+      "type": "ALBUM",
+      "releaseDate": "2012-05-28",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "The Bitter End",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 175080
+        },
+        {
+          "title": "Alpha Omega",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 235946
+        },
+        {
+          "title": "These Colours Don't Run",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 241386
+        },
+        {
+          "title": "Daybreak",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 212920
+        },
+        {
+          "title": "Truth, Be Told",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 271253
+        },
+        {
+          "title": "Even If You Win, You're Still a Rat",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 192640
+        },
+        {
+          "title": "Outsider Heart",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 207986
+        },
+        {
+          "title": "Behind the Throne",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 248653
+        },
+        {
+          "title": "Devil's Island",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 246866
+        },
+        {
+          "title": "Feather of Lead",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 170426
+        },
+        {
+          "title": "Unbeliever",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 284986
+        }
+      ]
+    },
+    {
+      "mbid": "a0c7d0ad-60e6-4daa-a6a6-4242b4bbb5db",
+      "releaseMbid": "c2612c14-2649-4336-b9e6-a44faf43cba8",
+      "title": "Original Album Collection",
+      "type": "COMPILATION",
+      "releaseDate": "2014",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a0c7d0ad-60e6-4daa-a6a6-4242b4bbb5db/front-1200",
+      "tracks": [
+        {
+          "title": "Early Grave",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Dethroned",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Numbers Count For Nothing",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Follow The Water",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "In Elegance",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "We're All Alone",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Borrowed Time",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Every Last Breath",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "One Of These Days",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Dead March",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": null
+        },
+        {
+          "title": "Left With A Last Minute",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": null
+        },
+        {
+          "title": "Hollow Crown",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": null
+        },
+        {
+          "title": "Day In Day Out",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Learn To Live",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Delete, Rewind",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Btn",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "An Open Letter To Myself",
+          "discNumber": 2,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "The Blues",
+          "discNumber": 2,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Red Eyes",
+          "discNumber": 2,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Stay Young Forever",
+          "discNumber": 2,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "Heartburn",
+          "discNumber": 2,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Year In Year Out/ Up And Away",
+          "discNumber": 2,
+          "position": 10,
+          "durationMs": null
+        },
+        {
+          "title": "The Bitter End",
+          "discNumber": 3,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Alpha Omega",
+          "discNumber": 3,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "These Colours Don't Run",
+          "discNumber": 3,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Daybreak",
+          "discNumber": 3,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Truth, Be Told",
+          "discNumber": 3,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Even If You Win, You're Still A Rat",
+          "discNumber": 3,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Outsider Heart",
+          "discNumber": 3,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Behind The Throne",
+          "discNumber": 3,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "Devil's Island",
+          "discNumber": 3,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Feather Of Lead",
+          "discNumber": 3,
+          "position": 10,
+          "durationMs": null
+        },
+        {
+          "title": "Unbeliever",
+          "discNumber": 3,
+          "position": 11,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "b07d09d3-d8f9-44a2-9c14-5fc1897cf9dd",
+      "releaseMbid": "db412f0a-c58b-47f5-ac5f-d163e9ffa715",
+      "title": "Lost Forever // Lost Together",
+      "type": "ALBUM",
+      "releaseDate": "2014-03-07",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Gravedigger",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 245300
+        },
+        {
+          "title": "Naysayer",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 205664
+        },
+        {
+          "title": "Broken Cross",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 232939
+        },
+        {
+          "title": "The Devil Is Near",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 215470
+        },
+        {
+          "title": "Dead Man Talking",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 244165
+        },
+        {
+          "title": "Red Hypergiant",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 129840
+        },
+        {
+          "title": "C.A.N.C.E.R",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 257453
+        },
+        {
+          "title": "Colony Collapse",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 271419
+        },
+        {
+          "title": "Castles in the Air",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 222604
+        },
+        {
+          "title": "Youth Is Wasted on the Young",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 249613
+        },
+        {
+          "title": "The Distant Blue",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 312350
+        }
+      ]
+    },
+    {
+      "mbid": "aaf1877b-1c16-404e-991d-096b75ee9807",
+      "releaseMbid": "16461a05-4539-4937-b591-cc07274084cc",
+      "title": "All Our Gods Have Abandoned Us",
+      "type": "ALBUM",
+      "releaseDate": "2016-05-27",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/aaf1877b-1c16-404e-991d-096b75ee9807/front-1200",
+      "tracks": [
+        {
+          "title": "Nihilist",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 171163
+        },
+        {
+          "title": "Deathwish",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 232614
+        },
+        {
+          "title": "Phantom Fear",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 246074
+        },
+        {
+          "title": "Downfall",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 244615
+        },
+        {
+          "title": "Gone With the Wind",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 225801
+        },
+        {
+          "title": "The Empty Hourglass",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 251877
+        },
+        {
+          "title": "A Match Made in Heaven",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 228018
+        },
+        {
+          "title": "Gravity",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 198098
+        },
+        {
+          "title": "All Love Is Lost",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 260192
+        },
+        {
+          "title": "From the Wilderness",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 224734
+        },
+        {
+          "title": "Memento Mori",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 492782
+        }
+      ]
+    },
+    {
+      "mbid": "0810452a-10ba-4069-b6c0-f0fb30814aae",
+      "releaseMbid": "516683e9-5f62-4ad4-a0e0-527717756c29",
+      "title": "Holy Hell",
+      "type": "ALBUM",
+      "releaseDate": "2018-11-09",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0810452a-10ba-4069-b6c0-f0fb30814aae/front-1200",
+      "tracks": [
+        {
+          "title": "Death Is Not Defeat",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 225000
+        },
+        {
+          "title": "Hereafter",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 256000
+        },
+        {
+          "title": "Mortal After All",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 220000
+        },
+        {
+          "title": "Holy Hell",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 254000
+        },
+        {
+          "title": "Damnation",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 249000
+        },
+        {
+          "title": "Royal Beggars",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 242000
+        },
+        {
+          "title": "Modern Misery",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 253000
+        },
+        {
+          "title": "Dying to Heal",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 231000
+        },
+        {
+          "title": "The Seventh Circle",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 109000
+        },
+        {
+          "title": "Doomsday",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 249000
+        },
+        {
+          "title": "A Wasted Hymn",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 275000
+        }
+      ]
+    },
+    {
+      "mbid": "4a0f80ce-b194-4cb1-b601-5c09041b7643",
+      "releaseMbid": "669590fc-e87c-43ce-b06d-3459075413a4",
+      "title": "For Those That Wish to Exist",
+      "type": "ALBUM",
+      "releaseDate": "2021-02-26",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4a0f80ce-b194-4cb1-b601-5c09041b7643/front-1200",
+      "tracks": [
+        {
+          "title": "Do You Dream of Armageddon?",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 98874
+        },
+        {
+          "title": "Black Lungs",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 231162
+        },
+        {
+          "title": "Giving Blood",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 212064
+        },
+        {
+          "title": "Discourse Is Dead",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 226605
+        },
+        {
+          "title": "Dead Butterflies",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 242407
+        },
+        {
+          "title": "An Ordinary Extinction",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 247664
+        },
+        {
+          "title": "Impermanence",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 242356
+        },
+        {
+          "title": "Flight Without Feathers",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 228813
+        },
+        {
+          "title": "Little Wonder",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 227813
+        },
+        {
+          "title": "Animals",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 244365
+        },
+        {
+          "title": "Libertine",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 241866
+        },
+        {
+          "title": "Goliath",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 257989
+        },
+        {
+          "title": "Demi God",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 266558
+        },
+        {
+          "title": "Meteor",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 241034
+        },
+        {
+          "title": "Dying Is Absolutely Safe",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 299014
+        }
+      ]
+    },
+    {
+      "mbid": "e9ad6ca5-8cac-4b27-bc2c-bf7a49a6c530",
+      "releaseMbid": "e55fec6c-aa24-4300-97fe-96780948f7c2",
+      "title": "Live at the Royal Albert Hall",
+      "type": "LIVE",
+      "releaseDate": "2022-02-15",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Intro",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 108000
+        },
+        {
+          "title": "Nihilist",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 153000
+        },
+        {
+          "title": "Modern Misery",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 271000
+        },
+        {
+          "title": "Discourse Is Dead",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 223000
+        },
+        {
+          "title": "Broken Cross",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 238000
+        },
+        {
+          "title": "Death Is Not Defeat",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 222000
+        },
+        {
+          "title": "Royal Beggars",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 260000
+        },
+        {
+          "title": "Gone With the Wind",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 224000
+        },
+        {
+          "title": "Mortal After All",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 230000
+        },
+        {
+          "title": "Gravedigger",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": 238000
+        },
+        {
+          "title": "Animals",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": 270000
+        },
+        {
+          "title": "Holy Hell",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": 260000
+        },
+        {
+          "title": "Dead Butterflies",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": 304000
+        },
+        {
+          "title": "Memento Mori (acoustic)",
+          "discNumber": 2,
+          "position": 5,
+          "durationMs": 123000
+        },
+        {
+          "title": "A Wasted Hymn (acoustic)",
+          "discNumber": 2,
+          "position": 6,
+          "durationMs": 247000
+        },
+        {
+          "title": "A Match Made in Heaven",
+          "discNumber": 2,
+          "position": 7,
+          "durationMs": 228000
+        },
+        {
+          "title": "Hereafter",
+          "discNumber": 2,
+          "position": 8,
+          "durationMs": 269000
+        },
+        {
+          "title": "Doomsday",
+          "discNumber": 2,
+          "position": 9,
+          "durationMs": 286000
+        }
+      ]
+    },
+    {
+      "mbid": "ebd646db-07a5-4c76-b1e8-7e42a10cae9f",
+      "releaseMbid": "bcc63b7a-a88e-492d-8a30-90f9f7f8d44a",
+      "title": "For Those That Wish to Exist at Abbey Road",
+      "type": "LIVE",
+      "releaseDate": "2022-03-25",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ebd646db-07a5-4c76-b1e8-7e42a10cae9f/front-1200",
+      "tracks": [
+        {
+          "title": "Do You Dream of Armageddon? (Abbey Road version)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 106000
+        },
+        {
+          "title": "Black Lungs (Abbey Road version)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 235000
+        },
+        {
+          "title": "Giving Blood (Abbey Road version)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 217000
+        },
+        {
+          "title": "Discourse Is Dead (Abbey Road version)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 226000
+        },
+        {
+          "title": "Dead Butterflies (Abbey Road version)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 245000
+        },
+        {
+          "title": "An Ordinary Extinction (Abbey Road version)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 249000
+        },
+        {
+          "title": "Impermanence (Abbey Road version)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 244000
+        },
+        {
+          "title": "Flight Without Feathers (Abbey Road version)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 229000
+        },
+        {
+          "title": "Little Wonder (Abbey Road version)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 228000
+        },
+        {
+          "title": "Animals (Abbey Road version)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 247000
+        },
+        {
+          "title": "Libertine (Abbey Road version)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 257000
+        },
+        {
+          "title": "Goliath (Abbey Road version)",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 252000
+        },
+        {
+          "title": "Demi God (Abbey Road version)",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 272000
+        },
+        {
+          "title": "Meteor (Abbey Road version)",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 246000
+        },
+        {
+          "title": "Dying Is Absolutely Safe (Abbey Road version)",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 306000
+        }
+      ]
+    },
+    {
+      "mbid": "b71b865c-08ae-45db-994e-1fa580b1ea35",
+      "releaseMbid": "cc56346b-6a67-489a-98ea-7014c620ac5c",
+      "title": "the classic symptoms of a broken spirit",
+      "type": "ALBUM",
+      "releaseDate": "2022-10-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b71b865c-08ae-45db-994e-1fa580b1ea35/front-1200",
+      "tracks": [
+        {
+          "title": "deep fake",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 213866
+        },
+        {
+          "title": "tear gas",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 257906
+        },
+        {
+          "title": "spit the bone",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 212480
+        },
+        {
+          "title": "burn down my house",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 259133
+        },
+        {
+          "title": "living is killing us",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 221413
+        },
+        {
+          "title": "when we were young",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 193880
+        },
+        {
+          "title": "doomscrolling",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 261573
+        },
+        {
+          "title": "born again pessimist",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 211400
+        },
+        {
+          "title": "a new moral low ground",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 211840
+        },
+        {
+          "title": "all the love in the world",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 241040
+        },
+        {
+          "title": "be very afraid",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 260079
+        }
+      ]
+    },
+    {
+      "mbid": "4b40ab66-fbbe-4434-8514-287b3408f15d",
+      "releaseMbid": "64cebd1d-3554-4d22-b025-4f6279b7c705",
+      "title": "The Sky, the Earth & All Between",
+      "type": "ALBUM",
+      "releaseDate": "2025-02-28",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4b40ab66-fbbe-4434-8514-287b3408f15d/front-1200",
+      "tracks": [
+        {
+          "title": "Elegy",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 217786
+        },
+        {
+          "title": "Whiplash",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 228173
+        },
+        {
+          "title": "Blackhole",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 202800
+        },
+        {
+          "title": "Everything Ends",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 222000
+        },
+        {
+          "title": "Brain Dead",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 170933
+        },
+        {
+          "title": "Evil Eyes",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 233226
+        },
+        {
+          "title": "Landmines",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 216866
+        },
+        {
+          "title": "Judgement Day",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 196933
+        },
+        {
+          "title": "Broken Mirror",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 192573
+        },
+        {
+          "title": "Curse",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 183133
+        },
+        {
+          "title": "Seeing Red",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 222573
+        },
+        {
+          "title": "Chandelier",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 247040
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

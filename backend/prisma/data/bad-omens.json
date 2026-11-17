@@ -1,0 +1,925 @@
+{
+  "generatedAt": "2026-11-17T13:04:36.371Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "eecada09-acfc-472d-ae55-e9e5a43f12d8",
+    "name": "Bad Omens",
+    "slug": "bad-omens",
+    "type": "BAND",
+    "country": "US",
+    "city": "Richmond",
+    "formedYear": 2015,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/eecada09-acfc-472d-ae55-e9e5a43f12d8"
+      }
+    ],
+    "genres": [
+      "metalcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "4458c891-cd82-401d-92af-b9d12a556cff",
+      "releaseMbid": "015792e3-36cd-494f-aef3-317d178c8414",
+      "title": "Bad Omens",
+      "type": "ALBUM",
+      "releaseDate": "2016-08-19",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Glass Houses",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 240000
+        },
+        {
+          "title": "Exit Wounds",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 206000
+        },
+        {
+          "title": "The Worst in Me",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 229000
+        },
+        {
+          "title": "F E R A L",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 245000
+        },
+        {
+          "title": "Enough, Enough Now",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 245000
+        },
+        {
+          "title": "Malice",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 180000
+        },
+        {
+          "title": "Hedonist",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 127000
+        },
+        {
+          "title": "Broken Youth",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 194000
+        },
+        {
+          "title": "Crawl",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 247000
+        },
+        {
+          "title": "The Letdown",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 246000
+        },
+        {
+          "title": "Reprise (The Sound of the End)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 201000
+        },
+        {
+          "title": "The Fountain",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 239000
+        }
+      ]
+    },
+    {
+      "mbid": "d177acaa-93e5-424b-b34b-a1bc16a95c88",
+      "releaseMbid": "830e4fad-bff8-4dab-9499-834d84ca74fb",
+      "title": "Finding God Before God Finds Me",
+      "type": "ALBUM",
+      "releaseDate": "2019-08-02",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d177acaa-93e5-424b-b34b-a1bc16a95c88/front-1200",
+      "tracks": [
+        {
+          "title": "Kingdom of Cards",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 262000
+        },
+        {
+          "title": "Running in Circles",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 236000
+        },
+        {
+          "title": "Careful What You Wish For",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 272800
+        },
+        {
+          "title": "The Hell I Overcame",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 214399
+        },
+        {
+          "title": "Dethrone",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 209000
+        },
+        {
+          "title": "Blood",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 231000
+        },
+        {
+          "title": "Mercy",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 317000
+        },
+        {
+          "title": "Said & Done",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 204867
+        },
+        {
+          "title": "Burning Out",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 265400
+        },
+        {
+          "title": "If I'm There",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 322000
+        }
+      ]
+    },
+    {
+      "mbid": "c5974977-9833-49ad-90f0-8f32a29f9e37",
+      "releaseMbid": "6b9dfc81-7094-432d-93c0-8938effd9079",
+      "title": "FGBGFM Unplugged",
+      "type": "COMPILATION",
+      "releaseDate": "2020-10-29",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c5974977-9833-49ad-90f0-8f32a29f9e37/front-1200",
+      "tracks": [
+        {
+          "title": "Never Know (unplugged)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 210032
+        },
+        {
+          "title": "Limits (unplugged)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 196350
+        },
+        {
+          "title": "Careful What You Wish For (unplugged)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 218549
+        },
+        {
+          "title": "Mercy (unplugged)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 300357
+        },
+        {
+          "title": "Burning Out (unplugged)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 247083
+        },
+        {
+          "title": "If I’m There (unplugged)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 309083
+        }
+      ]
+    },
+    {
+      "mbid": "db1c1cde-c671-4ac1-a529-c37dedc57ff7",
+      "releaseMbid": "a227453a-58f6-4c8a-bc5c-e5d350443b55",
+      "title": "LIVE",
+      "type": "LIVE",
+      "releaseDate": "2021-07-22",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/db1c1cde-c671-4ac1-a529-c37dedc57ff7/front-1200",
+      "tracks": [
+        {
+          "title": "Glass Houses (live)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 253565
+        },
+        {
+          "title": "The Worst in Me (live)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 262941
+        },
+        {
+          "title": "Never Know (live)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 211578
+        },
+        {
+          "title": "Careful What You Wish For (live)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 337576
+        },
+        {
+          "title": "Limits (live)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 240291
+        },
+        {
+          "title": "Dethrone (live)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 238400
+        },
+        {
+          "title": "Mercy (live)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 352588
+        }
+      ]
+    },
+    {
+      "mbid": "3b75caf3-907a-463a-828c-7aa5e929bd7e",
+      "releaseMbid": "85268058-f8ca-4fad-9a94-07d7ec27a33d",
+      "title": "THE DEATH OF PEACE OF MIND",
+      "type": "ALBUM",
+      "releaseDate": "2022-02-25",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/3b75caf3-907a-463a-828c-7aa5e929bd7e/front-1200",
+      "tracks": [
+        {
+          "title": "CONCRETE JUNGLE",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 220495
+        },
+        {
+          "title": "Nowhere to Go",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 246774
+        },
+        {
+          "title": "Take Me First",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 199685
+        },
+        {
+          "title": "THE DEATH OF PEACE OF MIND",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 241499
+        },
+        {
+          "title": "What It Cost",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 103744
+        },
+        {
+          "title": "Like a Villain",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 210685
+        },
+        {
+          "title": "bad decisions",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 261346
+        },
+        {
+          "title": "Just Pretend",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 204676
+        },
+        {
+          "title": "The Grey",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 246336
+        },
+        {
+          "title": "Who are you?",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 217349
+        },
+        {
+          "title": "Somebody else.",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 236730
+        },
+        {
+          "title": "IDWT$",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 202952
+        },
+        {
+          "title": "What do you want from me?",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 175845
+        },
+        {
+          "title": "ARTIFICIAL SUICIDE",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 195000
+        },
+        {
+          "title": "Miracle",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 225000
+        }
+      ]
+    },
+    {
+      "mbid": "1db058ab-7294-44b3-a3f3-8680d6458729",
+      "releaseMbid": "88dfc105-2aa7-4e62-acc4-c4437a2fdaa9",
+      "title": "CONCRETE JUNGLE [THE OST]",
+      "type": "ALBUM",
+      "releaseDate": "2024-05-31",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/1db058ab-7294-44b3-a3f3-8680d6458729/front-1200",
+      "tracks": [
+        {
+          "title": "C:\\Projects\\CJOST\\BEATDEATH",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 57783
+        },
+        {
+          "title": "V.A.N",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 274098
+        },
+        {
+          "title": "THE DRAIN",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 225701
+        },
+        {
+          "title": "TERMS & CONDITIONS",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 127601
+        },
+        {
+          "title": "HEDONIST [RECHARGED]",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 203647
+        },
+        {
+          "title": "EVEN",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 178235
+        },
+        {
+          "title": "LOADING SCREEN",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 113162
+        },
+        {
+          "title": "ANYTHING > HUMAN",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 235092
+        },
+        {
+          "title": "DIGITAL FOOTPRINT",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 286031
+        },
+        {
+          "title": "NERVOUS SYSTEM",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 200610
+        },
+        {
+          "title": "C:\\Projects\\CJOST\\FINDPEACE",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 57783
+        },
+        {
+          "title": "ARTIFICIAL SUICIDE [UNZIPPED]",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 112973
+        },
+        {
+          "title": "THE GREY [UNZIPPED]",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 189435
+        },
+        {
+          "title": "THE DEATH OF PEACE OF MIND [WE ARE FURY PATCH]",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 154050
+        },
+        {
+          "title": "THE DEATH OF PEACE OF MIND [SO WYLIE PATCH]",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 165274
+        },
+        {
+          "title": "BAD DECISIONS [LOFI]",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 245379
+        },
+        {
+          "title": "JUST PRETEND [CREDITS]",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 239139
+        },
+        {
+          "title": "C:\\Projects\\CJOST\\CLEARMIND",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 57783
+        },
+        {
+          "title": "ARTIFICIAL SUICIDE [LIVE 2024]",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 255870
+        },
+        {
+          "title": "LIKE A VILLAIN [LIVE 2024]",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 250000
+        },
+        {
+          "title": "THE GREY [LIVE 2024]",
+          "discNumber": 1,
+          "position": 21,
+          "durationMs": 269800
+        },
+        {
+          "title": "WHAT DO YOU WANT FROM ME? [LIVE 2024]",
+          "discNumber": 1,
+          "position": 22,
+          "durationMs": 224874
+        },
+        {
+          "title": "NOWHERE TO GO [LIVE 2024]",
+          "discNumber": 1,
+          "position": 23,
+          "durationMs": 294000
+        },
+        {
+          "title": "V.A.N [LIVE 2024]",
+          "discNumber": 1,
+          "position": 24,
+          "durationMs": 218752
+        },
+        {
+          "title": "THE DEATH OF PEACE OF MIND [LIVE 2024]",
+          "discNumber": 1,
+          "position": 25,
+          "durationMs": 294656
+        },
+        {
+          "title": "JUST PRETEND [LIVE 2024]",
+          "discNumber": 1,
+          "position": 26,
+          "durationMs": 587633
+        }
+      ]
+    },
+    {
+      "mbid": "d56602d8-c241-45ff-8746-153d72ab30cc",
+      "releaseMbid": "56a4e7cc-4b23-4b33-87e5-b9dc4201a9ee",
+      "title": "CONCRETE JUNGLE [THE OST] (Minus Lives)",
+      "type": "ALBUM",
+      "releaseDate": "2024-05-31",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d56602d8-c241-45ff-8746-153d72ab30cc/front-1200",
+      "tracks": [
+        {
+          "title": "C:\\Projects\\CJOST\\BEATDEATH",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 57783
+        },
+        {
+          "title": "V.A.N",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 274098
+        },
+        {
+          "title": "THE DRAIN",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 225701
+        },
+        {
+          "title": "TERMS & CONDITIONS",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 127601
+        },
+        {
+          "title": "HEDONIST [RECHARGED]",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 203647
+        },
+        {
+          "title": "EVEN",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 178235
+        },
+        {
+          "title": "LOADING SCREEN",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 113162
+        },
+        {
+          "title": "ANYTHING > HUMAN",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 235092
+        },
+        {
+          "title": "DIGITAL FOOTPRINT",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 286031
+        },
+        {
+          "title": "NERVOUS SYSTEM",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 200610
+        },
+        {
+          "title": "C:\\Projects\\CJOST\\FINDPEACE",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 57783
+        },
+        {
+          "title": "ARTIFICIAL SUICIDE [UNZIPPED]",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 112973
+        },
+        {
+          "title": "THE GREY [UNZIPPED]",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 189435
+        },
+        {
+          "title": "THE DEATH OF PEACE OF MIND [WE ARE FURY PATCH]",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 154050
+        },
+        {
+          "title": "THE DEATH OF PEACE OF MIND [SO WYLIE PATCH]",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 165273
+        },
+        {
+          "title": "BAD DECISIONS [LOFI]",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 245379
+        },
+        {
+          "title": "JUST PRETEND [CREDITS]",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 239139
+        },
+        {
+          "title": "C:\\Projects\\CJOST\\CLEARMIND",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 57783
+        }
+      ]
+    },
+    {
+      "mbid": "605b4b36-ab28-47a7-88ef-2136903895d1",
+      "releaseMbid": "9f62ac8a-3955-402f-952e-4ca024e99338",
+      "title": "The Death of Peace of Mind + Concrete Jungle [The OST]",
+      "type": "COMPILATION",
+      "releaseDate": "2024-08-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/605b4b36-ab28-47a7-88ef-2136903895d1/front-1200",
+      "tracks": [
+        {
+          "title": "CONCRETE JUNGLE",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 220920
+        },
+        {
+          "title": "Nowhere to Go",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 246773
+        },
+        {
+          "title": "Take Me First",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 199680
+        },
+        {
+          "title": "THE DEATH OF PEACE OF MIND",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 241506
+        },
+        {
+          "title": "What It Cost",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 103840
+        },
+        {
+          "title": "Like a Villain",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 210586
+        },
+        {
+          "title": "bad decisions",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 261346
+        },
+        {
+          "title": "Just Pretend",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 204680
+        },
+        {
+          "title": "The Grey",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 246333
+        },
+        {
+          "title": "Who are you?",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 217346
+        },
+        {
+          "title": "Somebody else.",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 236733
+        },
+        {
+          "title": "IDWT$",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 202946
+        },
+        {
+          "title": "What do you want from me?",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 175853
+        },
+        {
+          "title": "ARTIFICIAL SUICIDE",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 195000
+        },
+        {
+          "title": "Miracle",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 225813
+        },
+        {
+          "title": "THE DEATH OF PEACE OF MIND [LIVE 2024]",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 295000
+        },
+        {
+          "title": "JUST PRETEND [LIVE 2024]",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 588000
+        },
+        {
+          "title": "C:\\Projects\\CJOST\\BEATDEATH",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": 57783
+        },
+        {
+          "title": "V.A.N",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": 274098
+        },
+        {
+          "title": "THE DRAIN",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": 225701
+        },
+        {
+          "title": "TERMS & CONDITIONS",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": 127601
+        },
+        {
+          "title": "HEDONIST [RECHARGED]",
+          "discNumber": 2,
+          "position": 5,
+          "durationMs": 203647
+        },
+        {
+          "title": "EVEN",
+          "discNumber": 2,
+          "position": 6,
+          "durationMs": 178235
+        },
+        {
+          "title": "LOADING SCREEN",
+          "discNumber": 2,
+          "position": 7,
+          "durationMs": 113162
+        },
+        {
+          "title": "ANYTHING > HUMAN",
+          "discNumber": 2,
+          "position": 8,
+          "durationMs": 235092
+        },
+        {
+          "title": "DIGITAL FOOTPRINT",
+          "discNumber": 2,
+          "position": 9,
+          "durationMs": 286031
+        },
+        {
+          "title": "NERVOUS SYSTEM",
+          "discNumber": 2,
+          "position": 10,
+          "durationMs": 200610
+        },
+        {
+          "title": "C:\\Projects\\CJOST\\FINDPEACE",
+          "discNumber": 2,
+          "position": 11,
+          "durationMs": 57783
+        },
+        {
+          "title": "ARTIFICIAL SUICIDE [UNZIPPED]",
+          "discNumber": 2,
+          "position": 12,
+          "durationMs": 112973
+        },
+        {
+          "title": "THE GREY [UNZIPPED]",
+          "discNumber": 2,
+          "position": 13,
+          "durationMs": 189435
+        },
+        {
+          "title": "THE DEATH OF PEACE OF MIND [WE ARE FURY PATCH]",
+          "discNumber": 2,
+          "position": 14,
+          "durationMs": 154050
+        },
+        {
+          "title": "THE DEATH OF PEACE OF MIND [SO WYLIE PATCH]",
+          "discNumber": 2,
+          "position": 15,
+          "durationMs": 165274
+        },
+        {
+          "title": "BAD DECISIONS [LOFI]",
+          "discNumber": 2,
+          "position": 16,
+          "durationMs": 245379
+        },
+        {
+          "title": "JUST PRETEND [CREDITS]",
+          "discNumber": 2,
+          "position": 17,
+          "durationMs": 239139
+        },
+        {
+          "title": "C:\\Projects\\CJOST\\CLEARMIND",
+          "discNumber": 2,
+          "position": 18,
+          "durationMs": 57783
+        },
+        {
+          "title": "ARTIFICIAL SUICIDE [LIVE 2024]",
+          "discNumber": 2,
+          "position": 19,
+          "durationMs": 255870
+        },
+        {
+          "title": "LIKE A VILLAIN [LIVE 2024]",
+          "discNumber": 2,
+          "position": 20,
+          "durationMs": 250000
+        },
+        {
+          "title": "THE GREY [LIVE 2024]",
+          "discNumber": 2,
+          "position": 21,
+          "durationMs": 269800
+        },
+        {
+          "title": "WHAT DO YOU WANT FROM ME? [LIVE 2024]",
+          "discNumber": 2,
+          "position": 22,
+          "durationMs": 224874
+        },
+        {
+          "title": "NOWHERE TO GO [LIVE 2024]",
+          "discNumber": 2,
+          "position": 23,
+          "durationMs": 294000
+        },
+        {
+          "title": "V.A.N [LIVE 2024]",
+          "discNumber": 2,
+          "position": 24,
+          "durationMs": 218752
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

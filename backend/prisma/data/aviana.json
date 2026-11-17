@@ -1,0 +1,329 @@
+{
+  "generatedAt": "2026-11-17T13:03:33.670Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "2bbc7a00-ead2-42cb-85ae-1d666893e7ab",
+    "name": "Aviana",
+    "slug": "aviana",
+    "type": "BAND",
+    "country": "SE",
+    "city": "Gothenburg",
+    "formedYear": 2016,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/2bbc7a00-ead2-42cb-85ae-1d666893e7ab"
+      }
+    ],
+    "genres": [
+      "metalcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "966ae036-cccb-498c-a716-3f5e519d76b4",
+      "releaseMbid": "96f17a7a-7c75-4421-828e-cef4fdfb0929",
+      "title": "Polarize",
+      "type": "ALBUM",
+      "releaseDate": "2017-01-20",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/966ae036-cccb-498c-a716-3f5e519d76b4/front-1200",
+      "tracks": [
+        {
+          "title": "Ominous",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 234827
+        },
+        {
+          "title": "Reach",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 227067
+        },
+        {
+          "title": "Solar",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 194667
+        },
+        {
+          "title": "Canvas",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 216787
+        },
+        {
+          "title": "Ares",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 191400
+        },
+        {
+          "title": "Pulsar",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 145947
+        },
+        {
+          "title": "In Time",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 224933
+        },
+        {
+          "title": "Zephyr",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 199627
+        },
+        {
+          "title": "The Affliction",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 208333
+        },
+        {
+          "title": "The Remedy",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 215360
+        }
+      ]
+    },
+    {
+      "mbid": "47378e02-f349-445c-95f6-223bf53f5008",
+      "releaseMbid": "eaa82add-ce0e-43a0-a503-058e33e48a04",
+      "title": "Epicenter",
+      "type": "ALBUM",
+      "releaseDate": "2019-08-23",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/47378e02-f349-445c-95f6-223bf53f5008/front-1200",
+      "tracks": [
+        {
+          "title": "My Worst Enemy",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 271000
+        },
+        {
+          "title": "Red Sky",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 241000
+        },
+        {
+          "title": "Altitude Sickness",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 221000
+        },
+        {
+          "title": "Erased",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 234000
+        },
+        {
+          "title": "Heavy Feather",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 270000
+        },
+        {
+          "title": "Look Away",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 209000
+        },
+        {
+          "title": "Celosia",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 280000
+        },
+        {
+          "title": "Frail",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 200000
+        },
+        {
+          "title": "Melancholia",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 188000
+        },
+        {
+          "title": "Hidden",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 248000
+        },
+        {
+          "title": "Ikigai",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 135000
+        },
+        {
+          "title": "More Than a Name",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 272000
+        }
+      ]
+    },
+    {
+      "mbid": "23829070-e1d8-47c0-acde-129e163f0d51",
+      "releaseMbid": "c5bfafc9-9eb1-4719-98e3-2302eb602e96",
+      "title": "Corporation",
+      "type": "ALBUM",
+      "releaseDate": "2022-09-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/23829070-e1d8-47c0-acde-129e163f0d51/front-1200",
+      "tracks": [
+        {
+          "title": "Curriculum",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 76000
+        },
+        {
+          "title": "Obsession",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 210000
+        },
+        {
+          "title": "Rage",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 217000
+        },
+        {
+          "title": "Paradox",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 211000
+        },
+        {
+          "title": "Oblivion",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 248000
+        },
+        {
+          "title": "Retaliation",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 150000
+        },
+        {
+          "title": "Anomaly",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 223000
+        },
+        {
+          "title": "Transcendent",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 218000
+        },
+        {
+          "title": "Illuminate",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 198000
+        },
+        {
+          "title": "Overcome",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 226000
+        },
+        {
+          "title": "Negligence",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 127000
+        }
+      ]
+    },
+    {
+      "mbid": "d779db74-e5b6-4324-8af0-ee50dd20d552",
+      "releaseMbid": "bbba9808-66c4-48f0-9ca1-5987cd9337e9",
+      "title": "VOID",
+      "type": "ALBUM",
+      "releaseDate": "2025-10-31",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d779db74-e5b6-4324-8af0-ee50dd20d552/front-1200",
+      "tracks": [
+        {
+          "title": "ITER INCIPERE",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 150621
+        },
+        {
+          "title": "INTO THE VOID",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 223045
+        },
+        {
+          "title": "FATHER",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 218959
+        },
+        {
+          "title": "HEAVENLY SPARKS",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 219200
+        },
+        {
+          "title": "REDROOM",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 181161
+        },
+        {
+          "title": "DELIRIUM",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 112069
+        },
+        {
+          "title": "IN CONTINUA ITER",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 183500
+        },
+        {
+          "title": "STORM ABLAZE",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 209790
+        },
+        {
+          "title": "EVERMORE",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 221250
+        },
+        {
+          "title": "WORLDS PULSE",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 296307
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

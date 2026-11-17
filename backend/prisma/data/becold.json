@@ -1,0 +1,26 @@
+{
+  "generatedAt": "2026-11-17T13:28:18.304Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "9bb596df-b54b-45be-8709-417b531f91e4",
+    "name": "Becold",
+    "slug": "becold",
+    "type": "BAND",
+    "country": null,
+    "city": null,
+    "formedYear": 2022,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/9bb596df-b54b-45be-8709-417b531f91e4"
+      }
+    ],
+    "genres": [
+      "screamo"
+    ]
+  },
+  "releases": [],
+  "pending": []
+}

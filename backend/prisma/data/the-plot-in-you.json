@@ -1,0 +1,743 @@
+{
+  "generatedAt": "2026-11-17T13:11:38.742Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "c2e7d4ac-5e30-4b55-99b7-e49d99fd7c63",
+    "name": "The Plot in You",
+    "slug": "the-plot-in-you",
+    "type": "BAND",
+    "country": "US",
+    "city": "Hancock County",
+    "formedYear": 2010,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/c2e7d4ac-5e30-4b55-99b7-e49d99fd7c63"
+      }
+    ],
+    "genres": [
+      "metalcore",
+      "post-hardcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "35879f05-8c14-4e20-888d-1de2c6f80366",
+      "releaseMbid": "3e57d475-03a6-4284-83f2-dce217457480",
+      "title": "Wife Beater",
+      "type": "EP",
+      "releaseDate": "2010-07-13",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/35879f05-8c14-4e20-888d-1de2c6f80366/front-1200",
+      "tracks": [
+        {
+          "title": "Wife Beater",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 200000
+        },
+        {
+          "title": "Clots",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 174000
+        },
+        {
+          "title": "Molester",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 152000
+        },
+        {
+          "title": "Abuser",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 147000
+        },
+        {
+          "title": "Bleeders",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 154000
+        },
+        {
+          "title": "Guts",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 82000
+        },
+        {
+          "title": "Small Face",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 175000
+        }
+      ]
+    },
+    {
+      "mbid": "7d6b2817-63d3-4e4c-90af-2645dc059f09",
+      "releaseMbid": "78fda4a0-dfbe-4ec2-aab6-e7371ffd3faa",
+      "title": "First Born",
+      "type": "ALBUM",
+      "releaseDate": "2011-04-18",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/7d6b2817-63d3-4e4c-90af-2645dc059f09/front-1200",
+      "tracks": [
+        {
+          "title": "The Fathers Seed",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 175000
+        },
+        {
+          "title": "Small Face",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 176000
+        },
+        {
+          "title": "Bully",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 200000
+        },
+        {
+          "title": "Miscarriage",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 214000
+        },
+        {
+          "title": "Rat Poison",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 171000
+        },
+        {
+          "title": "Neighbors",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 198000
+        },
+        {
+          "title": "Filth",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 177000
+        },
+        {
+          "title": "Unwelcome",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 210000
+        },
+        {
+          "title": "Nothing Leaves This Room",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 190000
+        },
+        {
+          "title": "Dear Dad",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 104000
+        }
+      ]
+    },
+    {
+      "mbid": "67427cad-0596-4da7-80c8-f38f77a1d0d0",
+      "releaseMbid": "2221c67f-6523-4df1-a41c-d628f2fca3aa",
+      "title": "Could You Watch Your Children Burn",
+      "type": "ALBUM",
+      "releaseDate": "2013-01-14",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/67427cad-0596-4da7-80c8-f38f77a1d0d0/front-1200",
+      "tracks": [
+        {
+          "title": "Premeditated",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 245000
+        },
+        {
+          "title": "Fiction Religion",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 216000
+        },
+        {
+          "title": "Digging Your Grave",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 198000
+        },
+        {
+          "title": "Population Control",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 205000
+        },
+        {
+          "title": "Troll",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 198000
+        },
+        {
+          "title": "The Devil’s Contract",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 209000
+        },
+        {
+          "title": "Shyann Weeps",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 188000
+        },
+        {
+          "title": "Sober and Soulless",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 245000
+        },
+        {
+          "title": "Bible Butcher",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 202000
+        },
+        {
+          "title": "Glad You’re Gone",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 242000
+        }
+      ]
+    },
+    {
+      "mbid": "e9e8f45f-6291-4128-8faf-c153db66218d",
+      "releaseMbid": "8514de6e-e097-4456-bf21-78c20ca240b8",
+      "title": "Happiness in Self Destruction",
+      "type": "ALBUM",
+      "releaseDate": "2015-10-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/e9e8f45f-6291-4128-8faf-c153db66218d/front-1200",
+      "tracks": [
+        {
+          "title": "Hole in the Wall",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 181253
+        },
+        {
+          "title": "Dear Old Friend",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 239506
+        },
+        {
+          "title": "Take Me Away",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 220240
+        },
+        {
+          "title": "Runaway",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 208000
+        },
+        {
+          "title": "Pillhead",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 235413
+        },
+        {
+          "title": "Better Vibes",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 252026
+        },
+        {
+          "title": "My Old Ways",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 239813
+        },
+        {
+          "title": "Die Like Your Brothers",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 204413
+        },
+        {
+          "title": "Mind Controlled",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 174720
+        },
+        {
+          "title": "Time Changes Everything",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 233866
+        },
+        {
+          "title": "Living Your Dream",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 143000
+        },
+        {
+          "title": "A Song About Myself",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 224253
+        },
+        {
+          "title": "Forgive Me",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 261746
+        },
+        {
+          "title": "Washed Up",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 226000
+        },
+        {
+          "title": "Happiness in Self Destruction",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 428000
+        }
+      ]
+    },
+    {
+      "mbid": "ec9bec4f-3d9e-41b3-8961-b3e36f308f7b",
+      "releaseMbid": "f52613d2-1636-43de-a300-7664e90c1ef2",
+      "title": "DISPOSE",
+      "type": "ALBUM",
+      "releaseDate": "2018-02-12",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ec9bec4f-3d9e-41b3-8961-b3e36f308f7b/front-1200",
+      "tracks": [
+        {
+          "title": "Rigged",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 260000
+        },
+        {
+          "title": "Not Just Breathing",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 233000
+        },
+        {
+          "title": "One Last Time",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 199000
+        },
+        {
+          "title": "I Always Wanted to Leave",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 198000
+        },
+        {
+          "title": "Feel Nothing",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 216000
+        },
+        {
+          "title": "Happy",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 61000
+        },
+        {
+          "title": "The One You Loved",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 205000
+        },
+        {
+          "title": "Paid in Full",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 226000
+        },
+        {
+          "title": "The Sound",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 248000
+        },
+        {
+          "title": "Disposable Fix",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 228000
+        }
+      ]
+    },
+    {
+      "mbid": "d4e05eb6-79b7-450a-8ab3-37451b3b5706",
+      "releaseMbid": "30f353d2-cdd4-42a4-bcad-4b10f96a86c1",
+      "title": "Swan Song",
+      "type": "ALBUM",
+      "releaseDate": "2021-09-17",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d4e05eb6-79b7-450a-8ab3-37451b3b5706/front-1200",
+      "tracks": [
+        {
+          "title": "Letters to a Dead Friend",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 235000
+        },
+        {
+          "title": "Fall Again",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 195000
+        },
+        {
+          "title": "Face Me",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 208000
+        },
+        {
+          "title": "Too Far Gone",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 234000
+        },
+        {
+          "title": "Paradigm",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 201000
+        },
+        {
+          "title": "Both to Blame",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 235000
+        },
+        {
+          "title": "Too Heavy",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 220000
+        },
+        {
+          "title": "Enemy",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 220000
+        },
+        {
+          "title": "Whole Without Me",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 173000
+        },
+        {
+          "title": "Freed",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 201000
+        }
+      ]
+    },
+    {
+      "mbid": "2cb5da39-27ed-44ea-8f02-f0d4af3bec9e",
+      "releaseMbid": "336cc423-982d-417e-b865-c63eff52b147",
+      "title": "Vol. 1",
+      "type": "EP",
+      "releaseDate": "2024-01-12",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/2cb5da39-27ed-44ea-8f02-f0d4af3bec9e/front-1200",
+      "tracks": [
+        {
+          "title": "Divide",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 208835
+        },
+        {
+          "title": "Left Behind",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 206924
+        },
+        {
+          "title": "Forgotten",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 175249
+        }
+      ]
+    },
+    {
+      "mbid": "3086318f-ad90-4051-b5ca-375a9d5b04a8",
+      "releaseMbid": "638380b5-c40f-43f9-b7fe-4a013c689eb0",
+      "title": "Vol. 2",
+      "type": "EP",
+      "releaseDate": "2024-05-10",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/3086318f-ad90-4051-b5ca-375a9d5b04a8/front-1200",
+      "tracks": [
+        {
+          "title": "Closure",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 193593
+        },
+        {
+          "title": "Don’t Look Away",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 193933
+        },
+        {
+          "title": "All That I Can Give",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 198086
+        }
+      ]
+    },
+    {
+      "mbid": "8490b339-fd08-4de9-9b4a-7874b218e1e6",
+      "releaseMbid": "37ddbc88-47e9-4329-a902-560d8ffb67a5",
+      "title": "Vol. 3",
+      "type": "EP",
+      "releaseDate": "2024-11-08",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/8490b339-fd08-4de9-9b4a-7874b218e1e6/front-1200",
+      "tracks": [
+        {
+          "title": "Been Here Before",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 267877
+        },
+        {
+          "title": "Pretend",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 185346
+        },
+        {
+          "title": "Spare Me",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 217830
+        }
+      ]
+    },
+    {
+      "mbid": "ca5013cd-217a-4124-8e16-65b0848a41da",
+      "releaseMbid": "e865bd56-bcae-47fd-b253-8f6943321fd2",
+      "title": "Live From the Palladium",
+      "type": "LIVE",
+      "releaseDate": "2025-03-14",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ca5013cd-217a-4124-8e16-65b0848a41da/front-1200",
+      "tracks": [
+        {
+          "title": "All That I Can Give",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 217000
+        },
+        {
+          "title": "Been Here Before",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 281000
+        },
+        {
+          "title": "Closure",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 193000
+        },
+        {
+          "title": "Crows",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 200000
+        },
+        {
+          "title": "Disposable Fix",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 197000
+        },
+        {
+          "title": "Divide",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 209000
+        },
+        {
+          "title": "Don’t Look Away",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 357000
+        },
+        {
+          "title": "Face Me",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 210000
+        },
+        {
+          "title": "Feel Nothing",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 222000
+        },
+        {
+          "title": "Forgotten",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 203000
+        },
+        {
+          "title": "Left Behind",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 195000
+        },
+        {
+          "title": "Paradigm",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 202000
+        },
+        {
+          "title": "Pretend",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 195000
+        },
+        {
+          "title": "Spare Me",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 199000
+        },
+        {
+          "title": "The One You Loved",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 231000
+        },
+        {
+          "title": "Time Changes Everything",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 251000
+        }
+      ]
+    },
+    {
+      "mbid": "6c7fe306-6a28-4fa7-970c-f465019ec8eb",
+      "releaseMbid": "16c5b200-f28b-4ae2-bbc1-7232a8a7ea73",
+      "title": "The Plot in You",
+      "type": "ALBUM",
+      "releaseDate": "2026-07-10",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/6c7fe306-6a28-4fa7-970c-f465019ec8eb/front-1200",
+      "tracks": [
+        {
+          "title": "Divide",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 208000
+        },
+        {
+          "title": "Left Behind",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 206000
+        },
+        {
+          "title": "Forgotten",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 175000
+        },
+        {
+          "title": "Closure",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 193000
+        },
+        {
+          "title": "Don’t Look Away",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 193000
+        },
+        {
+          "title": "All That I Can Give",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 198000
+        },
+        {
+          "title": "Been Here Before",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 267000
+        },
+        {
+          "title": "Pretend",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 185000
+        },
+        {
+          "title": "Spare Me",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 217000
+        },
+        {
+          "title": "Silence",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 191000
+        },
+        {
+          "title": "You Get One",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 180000
+        },
+        {
+          "title": "Carved",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 198000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

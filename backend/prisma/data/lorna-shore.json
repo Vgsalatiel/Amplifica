@@ -1,0 +1,747 @@
+{
+  "generatedAt": "2026-11-17T13:14:37.449Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "e86fc1f5-d632-44b2-8aea-38f83aadffe8",
+    "name": "Lorna Shore",
+    "slug": "lorna-shore",
+    "type": "BAND",
+    "country": "US",
+    "city": "Warren County",
+    "formedYear": 2010,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/e86fc1f5-d632-44b2-8aea-38f83aadffe8"
+      }
+    ],
+    "genres": [
+      "deathcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "d4e56c05-8b61-4a4d-b6ef-84eb50b74283",
+      "releaseMbid": "3900a239-e7af-443c-90e4-ca40a586214a",
+      "title": "Triumph",
+      "type": "EP",
+      "releaseDate": "2010-10-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d4e56c05-8b61-4a4d-b6ef-84eb50b74283/front-1200",
+      "tracks": [
+        {
+          "title": "A71",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 79000
+        },
+        {
+          "title": "Second Skin",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 272000
+        },
+        {
+          "title": "Infection",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 268000
+        },
+        {
+          "title": "Where There’s Ruin",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 240000
+        },
+        {
+          "title": "The Alliance",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 257000
+        }
+      ]
+    },
+    {
+      "mbid": "abbef0bc-b82c-4442-abc2-6223f59aaa6f",
+      "releaseMbid": "b20ff237-b0e8-416e-9522-a348a0d261be",
+      "title": "Bone Kingdom",
+      "type": "EP",
+      "releaseDate": "2012-02-14",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/abbef0bc-b82c-4442-abc2-6223f59aaa6f/front-1200",
+      "tracks": [
+        {
+          "title": "Annihilator",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 210000
+        },
+        {
+          "title": "Life of Fear",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 243000
+        },
+        {
+          "title": "Cerebral Cortex",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 214000
+        },
+        {
+          "title": "Bone Kingdom",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 236000
+        },
+        {
+          "title": "I Before You",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 180000
+        }
+      ]
+    },
+    {
+      "mbid": "f43182a9-f08d-4158-8b62-a8eb36004025",
+      "releaseMbid": "6e7f8dca-1221-46bc-b8c1-83a60652fb94",
+      "title": "Maleficium",
+      "type": "EP",
+      "releaseDate": "2013-12-20",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f43182a9-f08d-4158-8b62-a8eb36004025/front-1200",
+      "tracks": [
+        {
+          "title": "Godmaker",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 269000
+        },
+        {
+          "title": "Cre(H)ate",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 235000
+        },
+        {
+          "title": "Maleficium",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 203000
+        },
+        {
+          "title": "Born in Blood",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 231000
+        },
+        {
+          "title": "Accumulatory Genophage",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 232000
+        }
+      ]
+    },
+    {
+      "mbid": "23e4074b-16fd-4208-83bd-adfb7c4e9264",
+      "releaseMbid": "e4b502da-8eaf-4732-9df0-08e97b506fe0",
+      "title": "Psalms",
+      "type": "ALBUM",
+      "releaseDate": "2015-06-09",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/23e4074b-16fd-4208-83bd-adfb7c4e9264/front-1200",
+      "tracks": [
+        {
+          "title": "Grimoire",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 290853
+        },
+        {
+          "title": "Harvest Realms",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 212306
+        },
+        {
+          "title": "Throne of Worms",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 247800
+        },
+        {
+          "title": "White Noise",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 253386
+        },
+        {
+          "title": "From the Pale Mist",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 233385
+        },
+        {
+          "title": "Infernal Haunting",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 224174
+        },
+        {
+          "title": "Death Gowns",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 199653
+        },
+        {
+          "title": "Wretching in Torment",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 213253
+        },
+        {
+          "title": "Traces of Supremacy",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 208000
+        },
+        {
+          "title": "Eternally Oblivion",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 315733
+        }
+      ]
+    },
+    {
+      "mbid": "ea258f35-e1d4-4d7d-92d1-dc7fde29d378",
+      "releaseMbid": "5028204f-b6f7-4741-9f5d-58d3bd05a41f",
+      "title": "Flesh Coffin",
+      "type": "ALBUM",
+      "releaseDate": "2017-02-17",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ea258f35-e1d4-4d7d-92d1-dc7fde29d378/front-1200",
+      "tracks": [
+        {
+          "title": "Offering of Fire",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 348736
+        },
+        {
+          "title": "Denounce the Light",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 279247
+        },
+        {
+          "title": "The Astral Wake of Time",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 235331
+        },
+        {
+          "title": "Desolate Veil",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 291787
+        },
+        {
+          "title": "FVNERAL MOON",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 300000
+        },
+        {
+          "title": "Void",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 255000
+        },
+        {
+          "title": "Infernum",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 237433
+        },
+        {
+          "title": "The//Watcher",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 243000
+        },
+        {
+          "title": "Black Hollow",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 252641
+        },
+        {
+          "title": "Flesh Coffin",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 294041
+        }
+      ]
+    },
+    {
+      "mbid": "a1c3af43-ad90-43ee-ac49-b42303391c29",
+      "releaseMbid": "46b3f40b-b156-4f10-8563-37cd42756d24",
+      "title": "Immortal",
+      "type": "ALBUM",
+      "releaseDate": "2020-01-31",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a1c3af43-ad90-43ee-ac49-b42303391c29/front-1200",
+      "tracks": [
+        {
+          "title": "Immortal",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 413000
+        },
+        {
+          "title": "Death Portrait",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 309000
+        },
+        {
+          "title": "This Is Hell",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 322000
+        },
+        {
+          "title": "Hollow Sentence",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 231000
+        },
+        {
+          "title": "Warpath of Disease",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 243000
+        },
+        {
+          "title": "Misery System",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 234000
+        },
+        {
+          "title": "Obsession",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 223000
+        },
+        {
+          "title": "King ov Deception",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 234000
+        },
+        {
+          "title": "Darkest Spawn",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 275000
+        },
+        {
+          "title": "Relentless Torment",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 265000
+        }
+      ]
+    },
+    {
+      "mbid": "0faaefb2-dcd7-4ada-b2b9-33e43cec0f66",
+      "releaseMbid": "288d313d-5223-4914-ab48-ce13e3abab67",
+      "title": "Immortal (instrumental)",
+      "type": "COMPILATION",
+      "releaseDate": "2021-03-05",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Immortal",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 412879
+        },
+        {
+          "title": "Death Portrait",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 308815
+        },
+        {
+          "title": "This Is Hell",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 321579
+        },
+        {
+          "title": "Hollow Sentence",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 230700
+        },
+        {
+          "title": "Warpath of Disease",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 242274
+        },
+        {
+          "title": "Misery System",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 233935
+        },
+        {
+          "title": "Obsession",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 222000
+        },
+        {
+          "title": "King ov Deception",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 233676
+        },
+        {
+          "title": "Darkest Spawn",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 273969
+        },
+        {
+          "title": "Relentless Torment",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 263571
+        }
+      ]
+    },
+    {
+      "mbid": "9d298e93-08c7-4c7b-9e0b-efaf907d468e",
+      "releaseMbid": "166e9572-5ff4-4a77-8311-f7547ed7b11d",
+      "title": "…And I Return to Nothingness",
+      "type": "EP",
+      "releaseDate": "2021-08-13",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/9d298e93-08c7-4c7b-9e0b-efaf907d468e/front-1200",
+      "tracks": [
+        {
+          "title": "To the Hellfire",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 369000
+        },
+        {
+          "title": "Of the Abyss",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 343000
+        },
+        {
+          "title": "…And I Return to Nothingness",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 370000
+        }
+      ]
+    },
+    {
+      "mbid": "0338bd3d-177f-4162-b257-0ed078da8727",
+      "releaseMbid": "c00f965f-ef56-43ed-9ab9-1295df8ebe44",
+      "title": "Immortal (Will Ramos edition)",
+      "type": "EP",
+      "releaseDate": "2022-09",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0338bd3d-177f-4162-b257-0ed078da8727/front-1200",
+      "tracks": [
+        {
+          "title": "Immortal",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 413000
+        },
+        {
+          "title": "Death Portrait",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 309000
+        },
+        {
+          "title": "This Is Hell",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 322000
+        },
+        {
+          "title": "Hollow Sentence",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 231000
+        },
+        {
+          "title": "Warpath of Disease",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 243000
+        },
+        {
+          "title": "Misery System",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 234000
+        },
+        {
+          "title": "Obsession",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 223000
+        },
+        {
+          "title": "King ov Deception",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "Darkest Spawn",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Relentless Torment",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "4fbaf076-bffe-4013-8068-09bf35602747",
+      "releaseMbid": "0cecf933-4305-4459-8775-10cc3a18d903",
+      "title": "Pain Remains",
+      "type": "ALBUM",
+      "releaseDate": "2022-10-14",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4fbaf076-bffe-4013-8068-09bf35602747/front-1200",
+      "tracks": [
+        {
+          "title": "Welcome Back, O’ Sleeping Dreamer",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Into the Earth",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Sun//Eater",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Cursed to Die",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Soulless Existence",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Apotheosis",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Wrath",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Pain Remains I: Dancing Like Flames",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Pain Remains II: After All I’ve Done, I’ll Disappear",
+          "discNumber": 2,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Pain Remains III: In a Sea of Fire",
+          "discNumber": 2,
+          "position": 6,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "bafbfeb5-5dcc-48d7-805e-7171b89bf755",
+      "releaseMbid": "03710aab-4710-4014-916b-4166260c9ecd",
+      "title": "Pain Remains (instrumental)",
+      "type": "COMPILATION",
+      "releaseDate": "2023-11-03",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/bafbfeb5-5dcc-48d7-805e-7171b89bf755/front-1200",
+      "tracks": [
+        {
+          "title": "Welcome Back, O’ Sleeping Dreamer",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 441000
+        },
+        {
+          "title": "Into the Earth",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 312000
+        },
+        {
+          "title": "Sun//Eater",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 370500
+        },
+        {
+          "title": "Cursed to Die",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 280000
+        },
+        {
+          "title": "Soulless Existence",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 432500
+        },
+        {
+          "title": "Apotheosis",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 294750
+        },
+        {
+          "title": "Wrath",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 297250
+        },
+        {
+          "title": "Pain Remains I: Dancing Like Flames",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 352562
+        },
+        {
+          "title": "Pain Remains II: After All I’ve Done, I’ll Disappear",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 336812
+        },
+        {
+          "title": "Pain Remains III: In a Sea of Fire",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 551624
+        }
+      ]
+    },
+    {
+      "mbid": "3f74c6e4-d990-49c3-9b28-0b33d82fb0d7",
+      "releaseMbid": "094c94ee-f642-4818-801b-e530203fbe26",
+      "title": "I Feel the Everblack Festering Within Me",
+      "type": "ALBUM",
+      "releaseDate": "2025-09-11",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/3f74c6e4-d990-49c3-9b28-0b33d82fb0d7/front-1200",
+      "tracks": [
+        {
+          "title": "Prison of Flesh",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 420346
+        },
+        {
+          "title": "Oblivion",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 499866
+        },
+        {
+          "title": "In Darkness",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 403000
+        },
+        {
+          "title": "Unbreakable",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 289133
+        },
+        {
+          "title": "Glenwood",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 403866
+        },
+        {
+          "title": "Lionheart",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 344000
+        },
+        {
+          "title": "Death Can Take Me",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 436000
+        },
+        {
+          "title": "War Machine",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 293946
+        },
+        {
+          "title": "A Nameless Hymn",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 314413
+        },
+        {
+          "title": "Forevermore",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 588026
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

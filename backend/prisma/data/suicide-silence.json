@@ -1,0 +1,1664 @@
+{
+  "generatedAt": "2026-11-17T12:59:40.111Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "4fd53e84-ffa1-4434-9146-3fab25ece7e0",
+    "name": "Suicide Silence",
+    "slug": "suicide-silence",
+    "type": "BAND",
+    "country": "US",
+    "city": "Riverside",
+    "formedYear": 2002,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/4fd53e84-ffa1-4434-9146-3fab25ece7e0"
+      }
+    ],
+    "genres": [
+      "deathcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "77b508c4-5caf-44a4-affc-f8e43e234bc1",
+      "releaseMbid": "71a57725-5ac7-4ff2-9b19-b49302e88f69",
+      "title": "Death Awaits Demo 2003",
+      "type": "EP",
+      "releaseDate": "2003",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Victim of Tragedy",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 263000
+        },
+        {
+          "title": "Stand Strong",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 353000
+        },
+        {
+          "title": "Soak in Tears",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 189000
+        }
+      ]
+    },
+    {
+      "mbid": "44a12607-a5a1-4818-a67c-1ece3b08c7af",
+      "releaseMbid": "7a5bcbc1-ac11-4a05-aed3-7c76e29ebac1",
+      "title": "Suicide Silence",
+      "type": "EP",
+      "releaseDate": "2004",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Distorted Thought of Addiction",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 241000
+        },
+        {
+          "title": "Stand Strong",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 206000
+        },
+        {
+          "title": "Till the Bubbles Stop...",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 197000
+        },
+        {
+          "title": "Destruction of a Statue",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 205000
+        }
+      ]
+    },
+    {
+      "mbid": "ded7de49-d105-329f-b6cc-1a20d3dd7c73",
+      "releaseMbid": "6897f81f-3a07-4958-95f7-c7d14441c98d",
+      "title": "Suicide Silence",
+      "type": "EP",
+      "releaseDate": "2005-09-30",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ded7de49-d105-329f-b6cc-1a20d3dd7c73/front-1200",
+      "tracks": [
+        {
+          "title": "Ending Is the Beginning",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 157413
+        },
+        {
+          "title": "Swarm",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 220506
+        },
+        {
+          "title": "About a Plane Crash",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 167986
+        },
+        {
+          "title": "Distorted Thought of Addiction",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 235386
+        },
+        {
+          "title": "Destruction of a Statue (live)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 196093
+        }
+      ]
+    },
+    {
+      "mbid": "81d11cb2-72f0-4bf8-bafb-1049df8339df",
+      "releaseMbid": "076312f8-8e1e-4871-b713-244117ca38fe",
+      "title": "Demo 2006",
+      "type": "EP",
+      "releaseDate": "2006",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Dead Current",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 211000
+        },
+        {
+          "title": "The Green Monster",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 222000
+        },
+        {
+          "title": "Girl Of Glass",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 154000
+        },
+        {
+          "title": "No Pity For A Coward",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 195000
+        }
+      ]
+    },
+    {
+      "mbid": "ed3e9829-5b91-3b46-9eaf-8747e3577e41",
+      "releaseMbid": "add5a981-f8ef-479a-b65a-734f253debf4",
+      "title": "The Cleansing",
+      "type": "ALBUM",
+      "releaseDate": "2007-09-18",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ed3e9829-5b91-3b46-9eaf-8747e3577e41/front-1200",
+      "tracks": [
+        {
+          "title": "Revelations (intro)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 33000
+        },
+        {
+          "title": "Unanswered",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 135000
+        },
+        {
+          "title": "Hands of a Killer",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 254000
+        },
+        {
+          "title": "The Price of Beauty",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 165000
+        },
+        {
+          "title": "The Fallen",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 247000
+        },
+        {
+          "title": "No Pity for a Coward",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 191000
+        },
+        {
+          "title": "The Disease",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 262000
+        },
+        {
+          "title": "Bludgeoned to Death",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 154000
+        },
+        {
+          "title": "Girl of Glass",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 172000
+        },
+        {
+          "title": "In a Photograph",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 272000
+        },
+        {
+          "title": "Eyes Sewn Shut",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 178000
+        },
+        {
+          "title": "Green Monster",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 349000
+        },
+        {
+          "title": "Destruction of a Statue",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 224000
+        }
+      ]
+    },
+    {
+      "mbid": "0c2f43aa-15e9-4522-9a4a-6d498cff6835",
+      "releaseMbid": "ef6bfd5f-455b-4e61-820a-f3fe97a5c4ad",
+      "title": "Green Monster",
+      "type": "EP",
+      "releaseDate": "2008-12",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0c2f43aa-15e9-4522-9a4a-6d498cff6835/front-1200",
+      "tracks": [
+        {
+          "title": "Green Monster",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 349000
+        },
+        {
+          "title": "Engine No. 9",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 207000
+        },
+        {
+          "title": "No Pity for a Coward (live in paris)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 211000
+        }
+      ]
+    },
+    {
+      "mbid": "7268701c-c596-4700-9dbd-4900e4f458e1",
+      "releaseMbid": "dcba596c-d7d9-4375-bd1e-614c4ad30931",
+      "title": "No Time to Bleed",
+      "type": "ALBUM",
+      "releaseDate": "2009-06-30",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/7268701c-c596-4700-9dbd-4900e4f458e1/front-1200",
+      "tracks": [
+        {
+          "title": "Wake Up",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 228000
+        },
+        {
+          "title": "Lifted",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 248000
+        },
+        {
+          "title": "Smoke",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 188000
+        },
+        {
+          "title": "Something Invisible",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 177000
+        },
+        {
+          "title": "No Time to Bleed",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 142000
+        },
+        {
+          "title": "Suffer",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 235000
+        },
+        {
+          "title": "…And Then She Bled",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 234000
+        },
+        {
+          "title": "Wasted",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 193000
+        },
+        {
+          "title": "Your Creations",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 239000
+        },
+        {
+          "title": "Genocide",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 137000
+        },
+        {
+          "title": "Disengage",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 244000
+        }
+      ]
+    },
+    {
+      "mbid": "9508e27e-d661-4d74-815e-8c9124a4889b",
+      "releaseMbid": "30f91e2b-30ad-4210-ad49-c193c6101a5e",
+      "title": "Wake Up",
+      "type": "EP",
+      "releaseDate": "2010-03-30",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Wake Up",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 227000
+        },
+        {
+          "title": "Wake Up (Clown of Slipknot remix)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 338000
+        },
+        {
+          "title": "Wake Up (live @ the Galaxy)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 230000
+        }
+      ]
+    },
+    {
+      "mbid": "7eedd437-2416-4b19-867f-5f8eed65c293",
+      "releaseMbid": "9b79f5ad-eccd-4e2f-ad52-2ddd7c28f4c9",
+      "title": "The Black Crown",
+      "type": "ALBUM",
+      "releaseDate": "2011-07-12",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/7eedd437-2416-4b19-867f-5f8eed65c293/front-1200",
+      "tracks": [
+        {
+          "title": "Slaves to Substance",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 207000
+        },
+        {
+          "title": "O.C.D.",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 199000
+        },
+        {
+          "title": "Human Violence",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 227000
+        },
+        {
+          "title": "You Only Live Once",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 192000
+        },
+        {
+          "title": "Fuck Everything",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 273000
+        },
+        {
+          "title": "March to the Black Crown",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 90000
+        },
+        {
+          "title": "Witness the Addiction",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 332000
+        },
+        {
+          "title": "Cross‐Eyed Catastrophe",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 205000
+        },
+        {
+          "title": "Smashed",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 186000
+        },
+        {
+          "title": "The Only Thing That Sets Us Apart",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 250000
+        },
+        {
+          "title": "Cancerous Skies",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 194000
+        }
+      ]
+    },
+    {
+      "mbid": "c2618865-8814-4ce9-99c7-0097df205e0c",
+      "releaseMbid": "4356efe4-e261-4773-82de-5be2d88fd1da",
+      "title": "Ending Is the Beginning: The Mitch Lucker Memorial Show",
+      "type": "LIVE",
+      "releaseDate": "2014-02-18",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c2618865-8814-4ce9-99c7-0097df205e0c/front-1200",
+      "tracks": [
+        {
+          "title": "Destruction of a Statue",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 206400
+        },
+        {
+          "title": "Distorted Thought of Addiction",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 238200
+        },
+        {
+          "title": "Ending Is the Beginning",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 170106
+        },
+        {
+          "title": "Bludgeoned to Death",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 173400
+        },
+        {
+          "title": "Unanswered",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 156706
+        },
+        {
+          "title": "Girl of Glass",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 185000
+        },
+        {
+          "title": "The Price of Beauty",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 187306
+        },
+        {
+          "title": "No Pity for a Coward",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 219600
+        },
+        {
+          "title": "Disengage",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 261506
+        },
+        {
+          "title": "No Time to Bleed",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 212200
+        },
+        {
+          "title": "Smoke",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 234306
+        },
+        {
+          "title": "Wake Up",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 240600
+        },
+        {
+          "title": "March of the Black Crown",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 72200
+        },
+        {
+          "title": "Slaves to Substance",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 225400
+        },
+        {
+          "title": "OCD",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 214000
+        },
+        {
+          "title": "Fuck Everything",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 292306
+        },
+        {
+          "title": "Die Young",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 330400
+        },
+        {
+          "title": "Roots Bloody Roots",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 245506
+        },
+        {
+          "title": "Engine #9",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 268400
+        },
+        {
+          "title": "You Only Live Once",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 271506
+        },
+        {
+          "title": "Intro",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Destruction of a Statue",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Distorted Thought of Addiction",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Ending Is the Beginning",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Bludgeoned to Death",
+          "discNumber": 2,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Unanswered",
+          "discNumber": 2,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Girl of Glass",
+          "discNumber": 2,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "The Price of Beauty",
+          "discNumber": 2,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "No Pity for a Coward",
+          "discNumber": 2,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Disengage",
+          "discNumber": 2,
+          "position": 10,
+          "durationMs": null
+        },
+        {
+          "title": "No Time to Bleed",
+          "discNumber": 2,
+          "position": 11,
+          "durationMs": null
+        },
+        {
+          "title": "Smoke",
+          "discNumber": 2,
+          "position": 12,
+          "durationMs": null
+        },
+        {
+          "title": "Wake Up",
+          "discNumber": 2,
+          "position": 13,
+          "durationMs": null
+        },
+        {
+          "title": "Slaves to Substance",
+          "discNumber": 2,
+          "position": 14,
+          "durationMs": null
+        },
+        {
+          "title": "OCD",
+          "discNumber": 2,
+          "position": 15,
+          "durationMs": null
+        },
+        {
+          "title": "Fuck Everything",
+          "discNumber": 2,
+          "position": 16,
+          "durationMs": null
+        },
+        {
+          "title": "Die Young",
+          "discNumber": 2,
+          "position": 17,
+          "durationMs": null
+        },
+        {
+          "title": "Roots Bloody Roots",
+          "discNumber": 2,
+          "position": 18,
+          "durationMs": null
+        },
+        {
+          "title": "Engine #9",
+          "discNumber": 2,
+          "position": 19,
+          "durationMs": null
+        },
+        {
+          "title": "You Only Live Once",
+          "discNumber": 2,
+          "position": 20,
+          "durationMs": null
+        },
+        {
+          "title": "Ending Credits",
+          "discNumber": 2,
+          "position": 21,
+          "durationMs": null
+        },
+        {
+          "title": "Behind‐the‐Scenes Featurette",
+          "discNumber": 2,
+          "position": 22,
+          "durationMs": 1948000
+        },
+        {
+          "title": "Mitch Lucker’s Last Interview",
+          "discNumber": 2,
+          "position": 23,
+          "durationMs": 296000
+        },
+        {
+          "title": "Photo Slideshow",
+          "discNumber": 2,
+          "position": 24,
+          "durationMs": 590000
+        }
+      ]
+    },
+    {
+      "mbid": "e700c6f0-c76d-483c-a9a6-52e637aa40a8",
+      "releaseMbid": "c248ac1f-379c-4795-9f1d-aa030e77d078",
+      "title": "Original Album Collection",
+      "type": "COMPILATION",
+      "releaseDate": "2014-03-11",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/e700c6f0-c76d-483c-a9a6-52e637aa40a8/front-1200",
+      "tracks": [
+        {
+          "title": "Revelations (intro)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 33000
+        },
+        {
+          "title": "Unanswered",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 135000
+        },
+        {
+          "title": "Hands of a Killer",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 254000
+        },
+        {
+          "title": "The Price of Beauty",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 165000
+        },
+        {
+          "title": "The Fallen",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 247000
+        },
+        {
+          "title": "No Pity for a Coward",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 191000
+        },
+        {
+          "title": "The Disease",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 262000
+        },
+        {
+          "title": "Bludgeoned to Death",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 154000
+        },
+        {
+          "title": "Girl of Glass",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 172000
+        },
+        {
+          "title": "In a Photograph",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 272000
+        },
+        {
+          "title": "Eyes Sewn Shut",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 178000
+        },
+        {
+          "title": "Green Monster",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 349000
+        },
+        {
+          "title": "Destruction of a Statue",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 224000
+        },
+        {
+          "title": "Wake Up",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": 228000
+        },
+        {
+          "title": "Lifted",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": 248000
+        },
+        {
+          "title": "Smoke",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": 188000
+        },
+        {
+          "title": "Something Invisible",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": 177000
+        },
+        {
+          "title": "No Time to Bleed",
+          "discNumber": 2,
+          "position": 5,
+          "durationMs": 142000
+        },
+        {
+          "title": "Suffer",
+          "discNumber": 2,
+          "position": 6,
+          "durationMs": 235000
+        },
+        {
+          "title": "...and Then She Bled",
+          "discNumber": 2,
+          "position": 7,
+          "durationMs": 234000
+        },
+        {
+          "title": "Wasted",
+          "discNumber": 2,
+          "position": 8,
+          "durationMs": 193000
+        },
+        {
+          "title": "Your Creations",
+          "discNumber": 2,
+          "position": 9,
+          "durationMs": 239000
+        },
+        {
+          "title": "Genocide",
+          "discNumber": 2,
+          "position": 10,
+          "durationMs": 137000
+        },
+        {
+          "title": "Disengage",
+          "discNumber": 2,
+          "position": 11,
+          "durationMs": 244000
+        },
+        {
+          "title": "Slaves to Substance",
+          "discNumber": 3,
+          "position": 1,
+          "durationMs": 207000
+        },
+        {
+          "title": "O.C.D.",
+          "discNumber": 3,
+          "position": 2,
+          "durationMs": 199000
+        },
+        {
+          "title": "Human Violence",
+          "discNumber": 3,
+          "position": 3,
+          "durationMs": 227000
+        },
+        {
+          "title": "You Only Live Once",
+          "discNumber": 3,
+          "position": 4,
+          "durationMs": 192000
+        },
+        {
+          "title": "Fuck Everything",
+          "discNumber": 3,
+          "position": 5,
+          "durationMs": 273000
+        },
+        {
+          "title": "March to the Black Crown",
+          "discNumber": 3,
+          "position": 6,
+          "durationMs": 90000
+        },
+        {
+          "title": "Witness the Addiction",
+          "discNumber": 3,
+          "position": 7,
+          "durationMs": 332000
+        },
+        {
+          "title": "Cross-Eyed Catastrophe",
+          "discNumber": 3,
+          "position": 8,
+          "durationMs": 205000
+        },
+        {
+          "title": "Smashed",
+          "discNumber": 3,
+          "position": 9,
+          "durationMs": 186000
+        },
+        {
+          "title": "The Only Thing That Sets Us Apart",
+          "discNumber": 3,
+          "position": 10,
+          "durationMs": 250000
+        },
+        {
+          "title": "Cancerous Skies",
+          "discNumber": 3,
+          "position": 11,
+          "durationMs": 194000
+        }
+      ]
+    },
+    {
+      "mbid": "92b0f81b-cea4-47ed-9b71-b5cdc10a36af",
+      "releaseMbid": "226cdc6c-a387-4465-a23d-bde39ed554c5",
+      "title": "You Can’t Stop Me",
+      "type": "ALBUM",
+      "releaseDate": "2014-07-09",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/92b0f81b-cea4-47ed-9b71-b5cdc10a36af/front-1200",
+      "tracks": [
+        {
+          "title": "M.A.L.",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 47000
+        },
+        {
+          "title": "Inherit the Crown",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 208000
+        },
+        {
+          "title": "Cease to Exist",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 222000
+        },
+        {
+          "title": "Sacred Words",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 260000
+        },
+        {
+          "title": "Control",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 173000
+        },
+        {
+          "title": "Warrior",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 179000
+        },
+        {
+          "title": "You Can't Stop Me",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 247000
+        },
+        {
+          "title": "Monster Within",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 217000
+        },
+        {
+          "title": "We Have All Had Enough",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 216000
+        },
+        {
+          "title": "Ending Is the Beginning",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 158000
+        },
+        {
+          "title": "Don't Die",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 225000
+        },
+        {
+          "title": "Ouroboros",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 244000
+        }
+      ]
+    },
+    {
+      "mbid": "bb938d14-c140-4177-b510-3ac85a12c730",
+      "releaseMbid": "5ef6f9df-761a-4279-8aed-1a20f75dcd21",
+      "title": "Sacred Words",
+      "type": "EP",
+      "releaseDate": "2015-10-23",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/bb938d14-c140-4177-b510-3ac85a12c730/front-1200",
+      "tracks": [
+        {
+          "title": "Sacred Words",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 261000
+        },
+        {
+          "title": "Inherit the Crown (live)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 259000
+        },
+        {
+          "title": "Cease to Exist (live)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 261000
+        },
+        {
+          "title": "Sacred Words (live)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 283000
+        },
+        {
+          "title": "Sacred Words (We Are Strong remix)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 191000
+        },
+        {
+          "title": "Sacred Words (instrumental)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 262000
+        }
+      ]
+    },
+    {
+      "mbid": "7eba95e0-2b9d-4636-9fe2-e897fb9b8322",
+      "releaseMbid": "3ba3b61f-4f5d-42de-bb8c-8b0d740bc304",
+      "title": "Suicide Silence",
+      "type": "ALBUM",
+      "releaseDate": "2017-02-24",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Doris",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 267000
+        },
+        {
+          "title": "Silence",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 280000
+        },
+        {
+          "title": "Listen",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 332000
+        },
+        {
+          "title": "Dying in a Red Room",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 285000
+        },
+        {
+          "title": "Hold Me Up, Hold Me Down",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 318000
+        },
+        {
+          "title": "Run",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 265000
+        },
+        {
+          "title": "The Zero",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 293000
+        },
+        {
+          "title": "Conformity",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 353000
+        },
+        {
+          "title": "Don’t Be Careful, You Might Hurt Yourself",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 260000
+        }
+      ]
+    },
+    {
+      "mbid": "0d78e809-f306-4ae6-8969-0601da55f57f",
+      "releaseMbid": "1e936c12-ba3f-4607-a53d-ef48af73c390",
+      "title": "Rare Ass Shit",
+      "type": "COMPILATION",
+      "releaseDate": "2019-06-14",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0d78e809-f306-4ae6-8969-0601da55f57f/front-1200",
+      "tracks": [
+        {
+          "title": "Ending Is the Beginning (EP mix)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 157413
+        },
+        {
+          "title": "Swarm (EP mix)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 220506
+        },
+        {
+          "title": "About a Plane Crash (EP mix)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 167986
+        },
+        {
+          "title": "Distorted Thought of Addiction (EP mix)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 235386
+        },
+        {
+          "title": "Destruction of a Statue (live) [EP mix]",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 196093
+        },
+        {
+          "title": "No Pity for a Coward (pre‐pro)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 195536
+        },
+        {
+          "title": "A Dead Current (pre‐pro)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 222037
+        },
+        {
+          "title": "Girl of Glass (pre‐pro)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 155671
+        },
+        {
+          "title": "Unanswered (pre‐pro)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 140153
+        },
+        {
+          "title": "The Price of Beauty (pre‐pro)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 174572
+        },
+        {
+          "title": "Green Monster (pre‐pro)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 223021
+        },
+        {
+          "title": "Bludgeoned to Death (demo)",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 163908
+        },
+        {
+          "title": "No Pity for a Coward (demo)",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 140306
+        },
+        {
+          "title": "A Dead Current, a Cold Filament (demo)",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 210573
+        },
+        {
+          "title": "Destruction of a Statue (demo)",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 205531
+        },
+        {
+          "title": "Distorted Thought of Addiction (demo)",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 240683
+        },
+        {
+          "title": "Stand Strong",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 205370
+        },
+        {
+          "title": "Til the Bubbles Stop",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 160879
+        },
+        {
+          "title": "Distorted Thought of Addiction (live)",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 235608
+        },
+        {
+          "title": "About a Plane Crash (live)",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 179401
+        },
+        {
+          "title": "Stand Strong (live)",
+          "discNumber": 1,
+          "position": 21,
+          "durationMs": 205370
+        },
+        {
+          "title": "Ending Is the Beginning (live)",
+          "discNumber": 1,
+          "position": 22,
+          "durationMs": 162441
+        },
+        {
+          "title": "Swarm (live)",
+          "discNumber": 1,
+          "position": 23,
+          "durationMs": 222564
+        },
+        {
+          "title": "Bludgeoned to Death (live)",
+          "discNumber": 1,
+          "position": 24,
+          "durationMs": 148919
+        },
+        {
+          "title": "Soak in Tears (Tanner vocals)",
+          "discNumber": 1,
+          "position": 25,
+          "durationMs": 264411
+        },
+        {
+          "title": "Stand Strong (Tanner vocals)",
+          "discNumber": 1,
+          "position": 26,
+          "durationMs": 190215
+        },
+        {
+          "title": "Victim of Tragedy (Tanner vocals)",
+          "discNumber": 1,
+          "position": 27,
+          "durationMs": 296096
+        }
+      ]
+    },
+    {
+      "mbid": "77e76fd2-11f7-4bcf-83bb-cc42f23e8a2a",
+      "releaseMbid": "fddc8fce-72a9-42e2-a716-7199a8cbdc8c",
+      "title": "Live & Mental",
+      "type": "LIVE",
+      "releaseDate": "2019-07-12",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/77e76fd2-11f7-4bcf-83bb-cc42f23e8a2a/front-1200",
+      "tracks": [
+        {
+          "title": "Unanswered (Live)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 185000
+        },
+        {
+          "title": "No Pity for a Coward (Live)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 198000
+        },
+        {
+          "title": "Inherit the Crown (Live)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 209000
+        },
+        {
+          "title": "Wake Up (Live)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 273000
+        },
+        {
+          "title": "Fuck Everything (Live)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 291000
+        },
+        {
+          "title": "Cease to Exist (Live)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 236000
+        },
+        {
+          "title": "Sacred Words (Live)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 258000
+        },
+        {
+          "title": "Disengage (Live)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 274000
+        },
+        {
+          "title": "Slaves to Substance (Live)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 248000
+        },
+        {
+          "title": "You Can't Stop Me (Live)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 275000
+        },
+        {
+          "title": "Destruction of a Statue (Live)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 270000
+        },
+        {
+          "title": "Blind (Live)",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 242000
+        },
+        {
+          "title": "Bludgeoned to Death (Live)",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 184000
+        },
+        {
+          "title": "You Only Live Once (Live)",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 241000
+        }
+      ]
+    },
+    {
+      "mbid": "e5cb51dd-8197-4d14-9ce7-091cc1d19286",
+      "releaseMbid": "1500fd0a-a9a3-4fcd-868d-75e8f019e184",
+      "title": "Become the Hunter",
+      "type": "ALBUM",
+      "releaseDate": "2020-02-14",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/e5cb51dd-8197-4d14-9ce7-091cc1d19286/front-1200",
+      "tracks": [
+        {
+          "title": "メルトダウン",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 132576
+        },
+        {
+          "title": "ツーステップ",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 202323
+        },
+        {
+          "title": "フィール・アライヴ",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 209732
+        },
+        {
+          "title": "ラブ・ミー・トゥー・デス",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 255034
+        },
+        {
+          "title": "イン・ハイディング",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 177161
+        },
+        {
+          "title": "デスズ・アンザァイアティ",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 193835
+        },
+        {
+          "title": "スキン・タイツ",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 250483
+        },
+        {
+          "title": "ザ・サイズ",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 282843
+        },
+        {
+          "title": "セリーン・オブシーン",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 265528
+        },
+        {
+          "title": "ディザスター・ヴァリー",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 234624
+        },
+        {
+          "title": "ビカム・ザ・ハンター",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 188857
+        }
+      ]
+    },
+    {
+      "mbid": "9aa98ecb-fa10-49ee-8e4f-2541fe478d34",
+      "releaseMbid": "3a2baf34-f409-4e3f-b66c-638c866c46e2",
+      "title": "Remember… You Must Die",
+      "type": "ALBUM",
+      "releaseDate": "2023-03-10",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/9aa98ecb-fa10-49ee-8e4f-2541fe478d34/front-1200",
+      "tracks": [
+        {
+          "title": "Remember…",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 51000
+        },
+        {
+          "title": "You Must Die",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 162000
+        },
+        {
+          "title": "Capable of Violence (N.F.W.)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 224000
+        },
+        {
+          "title": "Fucked for Life",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 233000
+        },
+        {
+          "title": "Kill Forever",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 193000
+        },
+        {
+          "title": "God Be Damned",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 239000
+        },
+        {
+          "title": "Alter of Self",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 189000
+        },
+        {
+          "title": "Endless Dark",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 140000
+        },
+        {
+          "title": "The Third Death",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 210000
+        },
+        {
+          "title": "Be Deceived",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 180000
+        },
+        {
+          "title": "Dying Life",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 200000
+        },
+        {
+          "title": "Full Void",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 344000
+        }
+      ]
+    },
+    {
+      "mbid": "22a60daa-5386-4ade-bc25-77c8587bf33c",
+      "releaseMbid": "cd780da1-6661-4d4f-9ab3-344732cd30e0",
+      "title": "Graceless",
+      "type": "ALBUM",
+      "releaseDate": "2026-11-20",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Graceless",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 113559
+        },
+        {
+          "title": "Unenlightened",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 169676
+        },
+        {
+          "title": "Make Your Exit",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 153971
+        },
+        {
+          "title": "Rotting Inside",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 179647
+        },
+        {
+          "title": "Cursed Since Birth",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 167471
+        },
+        {
+          "title": "Incisions",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 187412
+        },
+        {
+          "title": "Parasitic",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 197206
+        },
+        {
+          "title": "Reminders of Hell",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 209647
+        },
+        {
+          "title": "NVRFXLD",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 197912
+        },
+        {
+          "title": "Devoured Dreams",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 181235
+        },
+        {
+          "title": "Sour",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 182735
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

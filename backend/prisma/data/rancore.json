@@ -1,0 +1,434 @@
+{
+  "generatedAt": "2026-11-17T13:23:14.292Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "83048ffe-00f8-4b1b-b554-8ecfbdf2dd66",
+    "name": "Rancore",
+    "slug": "rancore",
+    "type": "BAND",
+    "country": "BR",
+    "city": "São Paulo",
+    "formedYear": 2001,
+    "disbandedYear": 2014,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/83048ffe-00f8-4b1b-b554-8ecfbdf2dd66"
+      }
+    ],
+    "genres": []
+  },
+  "releases": [
+    {
+      "mbid": "0053b37d-0fca-489e-8c10-f0e471a75eb7",
+      "releaseMbid": "c6b2fb16-e620-433a-9626-43a93666703b",
+      "title": "Yoga, Stress e Cafeína",
+      "type": "ALBUM",
+      "releaseDate": "2006",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0053b37d-0fca-489e-8c10-f0e471a75eb7/front-1200",
+      "tracks": [
+        {
+          "title": "Yoga, Stress e Cafeína",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 253560
+        },
+        {
+          "title": "Odisséia",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 228413
+        },
+        {
+          "title": "Inutilia Truncat",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 50707
+        },
+        {
+          "title": "Déjà Vu",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 133947
+        },
+        {
+          "title": "Rubraglossina",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 187200
+        },
+        {
+          "title": "Cicatrizes",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 162680
+        },
+        {
+          "title": "Owiotúzio",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 180800
+        },
+        {
+          "title": "Os 5 Segundos Que Precedem a Sua Queda",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 117320
+        },
+        {
+          "title": "Álamo",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 212893
+        },
+        {
+          "title": "Sobreviver",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 185680
+        },
+        {
+          "title": "M. E. I.",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 445653
+        }
+      ]
+    },
+    {
+      "mbid": "9494723a-6008-41d4-bad7-680cd43d9f34",
+      "releaseMbid": "f8171ecb-bfda-4b6a-b785-3c046de254ff",
+      "title": "Liberta",
+      "type": "ALBUM",
+      "releaseDate": "2008-12-04",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/9494723a-6008-41d4-bad7-680cd43d9f34/front-1200",
+      "tracks": [
+        {
+          "title": "Canto Gritando",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 225828
+        },
+        {
+          "title": "Respeito É A Lei",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 232672
+        },
+        {
+          "title": "Temporário",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 183275
+        },
+        {
+          "title": "Liberta",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 163030
+        },
+        {
+          "title": "Escadacronia",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 289906
+        },
+        {
+          "title": "Bem Aqui",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 244140
+        },
+        {
+          "title": "Voar",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 186958
+        },
+        {
+          "title": "Quarto Escuro",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 185417
+        },
+        {
+          "title": "Castelo",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 290507
+        },
+        {
+          "title": "Cresci",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 437707
+        }
+      ]
+    },
+    {
+      "mbid": "04e9f13d-5ea7-47a3-8989-836e0268ca36",
+      "releaseMbid": "80240b19-2c6c-4f8c-b663-149b4a0c6e87",
+      "title": "Seiva",
+      "type": "ALBUM",
+      "releaseDate": "2011-04-30",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/04e9f13d-5ea7-47a3-8989-836e0268ca36/front-1200",
+      "tracks": [
+        {
+          "title": "Ritual",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 241240
+        },
+        {
+          "title": "Planto",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 164916
+        },
+        {
+          "title": "Jeito Livre",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 225323
+        },
+        {
+          "title": "Mãe",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 191558
+        },
+        {
+          "title": "5:20",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 293506
+        },
+        {
+          "title": "Mulher",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 236961
+        },
+        {
+          "title": "Escravo Espiritual",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 125071
+        },
+        {
+          "title": "Samba",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 200221
+        },
+        {
+          "title": "Transa",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 221357
+        },
+        {
+          "title": "Seleção Natural",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 320748
+        },
+        {
+          "title": "Inocentes",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 217991
+        },
+        {
+          "title": "A Ponte",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 257079
+        }
+      ]
+    },
+    {
+      "mbid": "50ecec39-dd22-43f1-abd0-8d729fbc190d",
+      "releaseMbid": "3dcda069-09a5-49c4-8459-29b9daa7e6d8",
+      "title": "Rancore (Ao Vivo)",
+      "type": "LIVE",
+      "releaseDate": "2019-02-22",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Escravo Espiritual - Ao Vivo",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 174000
+        },
+        {
+          "title": "Samba - Ao Vivo",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 238000
+        },
+        {
+          "title": "Jeito Livre - Ao Vivo",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 251000
+        },
+        {
+          "title": "5:20 + Ritual - Ao Vivo",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 727000
+        },
+        {
+          "title": "Liberta + Respeito é a Lei - Ao Vivo",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 402750
+        },
+        {
+          "title": "Planto - Ao Vivo",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 182000
+        },
+        {
+          "title": "Escadacronia - Ao Vivo",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 324000
+        },
+        {
+          "title": "Temporário - Ao Vivo",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 200000
+        },
+        {
+          "title": "Inocentes - Ao Vivo",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 328000
+        },
+        {
+          "title": "Infinito - Ao Vivo",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 200000
+        },
+        {
+          "title": "M.E.I. - Ao Vivo",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 340000
+        },
+        {
+          "title": "Seleção Natural - Ao Vivo",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 388500
+        },
+        {
+          "title": "Quarto Escuro - Ao Vivo",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 220000
+        },
+        {
+          "title": "Cresci - Ao Vivo",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 532000
+        },
+        {
+          "title": "Yoga, Stress e Cafeína - Ao Vivo",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 396000
+        },
+        {
+          "title": "Aventura / O Vôo da Águia - Ao Vivo",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 199971
+        }
+      ]
+    },
+    {
+      "mbid": "38d02575-4fc8-47ec-aece-a251dfe1d3dc",
+      "releaseMbid": "3285969a-7602-4b2b-8181-3c2f9973bc1b",
+      "title": "BRIO",
+      "type": "ALBUM",
+      "releaseDate": "2026-04-30",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/38d02575-4fc8-47ec-aece-a251dfe1d3dc/front-1200",
+      "tracks": [
+        {
+          "title": "TEORIA DO CAOS",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 204000
+        },
+        {
+          "title": "EU QUERO VIVER",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 193000
+        },
+        {
+          "title": "PRECIOSAS CORES",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 191000
+        },
+        {
+          "title": "A NASCENTE",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 192000
+        },
+        {
+          "title": "SEXO SELVAGEM",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 162000
+        },
+        {
+          "title": "CARA DE LOUCO",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 191000
+        },
+        {
+          "title": "UNHAS E DENTES",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 153000
+        },
+        {
+          "title": "VALSA DO IMPREVISÍVEL",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 283000
+        },
+        {
+          "title": "CORDÃO DE OURO",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 191000
+        },
+        {
+          "title": "EXPANSÃO",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 142000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

@@ -1,0 +1,2117 @@
+{
+  "generatedAt": "2026-11-17T13:02:14.261Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "d530dbf9-69b1-404f-98f2-0431104f5a1e",
+    "name": "Bullet for My Valentine",
+    "slug": "bullet-for-my-valentine",
+    "type": "BAND",
+    "country": "GB",
+    "city": "Bridgend",
+    "formedYear": 2003,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/d530dbf9-69b1-404f-98f2-0431104f5a1e"
+      }
+    ],
+    "genres": [
+      "metalcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "9ecd5f13-c45e-361b-8649-bfb1dfe019bb",
+      "releaseMbid": "def35f73-abc3-4296-b41e-fc51ef0e177b",
+      "title": "Bullet for My Valentine (EP)",
+      "type": "EP",
+      "releaseDate": "2004-11-15",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/9ecd5f13-c45e-361b-8649-bfb1dfe019bb/front-1200",
+      "tracks": [
+        {
+          "title": "Hand of Blood",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 218226
+        },
+        {
+          "title": "Cries in Vain",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 240293
+        },
+        {
+          "title": "Curses",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 239853
+        },
+        {
+          "title": "No Control",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 214520
+        },
+        {
+          "title": "Just Another Star",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 177880
+        }
+      ]
+    },
+    {
+      "mbid": "8fc4742b-2d82-36a1-9736-685e56333f47",
+      "releaseMbid": "47d372e1-9bce-4d82-96b6-45726eff57aa",
+      "title": "The Poison",
+      "type": "ALBUM",
+      "releaseDate": "2005-09-30",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/8fc4742b-2d82-36a1-9736-685e56333f47/front-1200",
+      "tracks": [
+        {
+          "title": "Intro",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 141453
+        },
+        {
+          "title": "Her Voice Resides",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 258279
+        },
+        {
+          "title": "4 Words (to Choke Upon)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 223760
+        },
+        {
+          "title": "Tears Don’t Fall",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 348386
+        },
+        {
+          "title": "Suffocating Under Words of Sorrow (What Can I Do)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 215533
+        },
+        {
+          "title": "Hit the Floor",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 210120
+        },
+        {
+          "title": "All These Things I Hate (Revolve Around Me)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 225440
+        },
+        {
+          "title": "Hand of Blood",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 216133
+        },
+        {
+          "title": "Room 409",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 241280
+        },
+        {
+          "title": "The Poison",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 219466
+        },
+        {
+          "title": "10 Years Today",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 235960
+        },
+        {
+          "title": "Cries in Vain",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 236333
+        },
+        {
+          "title": "The End",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 416746
+        }
+      ]
+    },
+    {
+      "mbid": "bc4de982-54f6-4419-a5b7-bb420c8cf4f2",
+      "releaseMbid": "64d1b7e8-b74a-49e1-9435-62935e75f473",
+      "title": "Hand of Blood: Live at Brixton",
+      "type": "LIVE",
+      "releaseDate": "2006-10-06",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Hand of Blood (live)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 254000
+        },
+        {
+          "title": "Suffocating Under Words of Sorrow (What Can I Do) (live)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 227000
+        },
+        {
+          "title": "Cries in Vain (live)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 296000
+        },
+        {
+          "title": "Tears Don’t Fall (live)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 368000
+        },
+        {
+          "title": "All These Things I Hate (Revolve Around Me) (live)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 233000
+        }
+      ]
+    },
+    {
+      "mbid": "7e278997-52dc-3805-9c74-11543f0a7053",
+      "releaseMbid": "eb79c2b7-f445-4a98-a0e5-16e2cdc89b04",
+      "title": "The Poison: Live at Brixton",
+      "type": "LIVE",
+      "releaseDate": "2006-12-19",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Intro",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 204000
+        },
+        {
+          "title": "Her Voice Resides",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 270000
+        },
+        {
+          "title": "4 Words (To Choke Upon)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 289000
+        },
+        {
+          "title": "Suffocating Under Words of Sorrow (What Can I Do)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 288000
+        },
+        {
+          "title": "All These Things I Hate (Revolve Around Me)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 273000
+        },
+        {
+          "title": "The Poison",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 268000
+        },
+        {
+          "title": "Spit You Out",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 316000
+        },
+        {
+          "title": "Cries in Vain",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 304000
+        },
+        {
+          "title": "Just Another Star",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 212000
+        },
+        {
+          "title": "Tears Don’t Fall",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 444000
+        },
+        {
+          "title": "No Control",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 365000
+        },
+        {
+          "title": "Hand of Blood",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 233000
+        },
+        {
+          "title": "The End / Credits",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 514000
+        },
+        {
+          "title": "Hand of Blood",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 212000
+        },
+        {
+          "title": "4 Words (To Choke Upon)",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 229000
+        },
+        {
+          "title": "Suffocating Under Words of Sorrow (What Can I Do)",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 215000
+        },
+        {
+          "title": "All These Things I Hate (Revolve Around Me)",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 234000
+        },
+        {
+          "title": "Tears Don't Fall",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 280000
+        },
+        {
+          "title": "Behind the Scenes at Brixton Academy",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 825000
+        },
+        {
+          "title": "Mullet's Here",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 239000
+        },
+        {
+          "title": "Download and Dirty",
+          "discNumber": 1,
+          "position": 21,
+          "durationMs": 260000
+        },
+        {
+          "title": "Spit or Swallow",
+          "discNumber": 1,
+          "position": 22,
+          "durationMs": 85000
+        },
+        {
+          "title": "Spot The Gimp",
+          "discNumber": 1,
+          "position": 23,
+          "durationMs": 243000
+        },
+        {
+          "title": "Motherland",
+          "discNumber": 1,
+          "position": 24,
+          "durationMs": 273000
+        },
+        {
+          "title": "The Bucket",
+          "discNumber": 1,
+          "position": 25,
+          "durationMs": 240000
+        },
+        {
+          "title": "Download 2006",
+          "discNumber": 1,
+          "position": 26,
+          "durationMs": 272000
+        },
+        {
+          "title": "Meatal Hammer Awards",
+          "discNumber": 1,
+          "position": 27,
+          "durationMs": 243000
+        },
+        {
+          "title": "Introduction",
+          "discNumber": 1,
+          "position": 28,
+          "durationMs": 58000
+        },
+        {
+          "title": "Backstage Entrance",
+          "discNumber": 1,
+          "position": 29,
+          "durationMs": 83000
+        },
+        {
+          "title": "Night Out Part 1",
+          "discNumber": 1,
+          "position": 30,
+          "durationMs": 67000
+        },
+        {
+          "title": "Night Out Part 2",
+          "discNumber": 1,
+          "position": 31,
+          "durationMs": 77000
+        },
+        {
+          "title": "The Tour Bus Part 1",
+          "discNumber": 1,
+          "position": 32,
+          "durationMs": 59000
+        },
+        {
+          "title": "The Tour Bus Part 2",
+          "discNumber": 1,
+          "position": 33,
+          "durationMs": 81000
+        },
+        {
+          "title": "Video Shoot Part 1",
+          "discNumber": 1,
+          "position": 34,
+          "durationMs": 65000
+        },
+        {
+          "title": "Video Shoot Part 2/The End",
+          "discNumber": 1,
+          "position": 35,
+          "durationMs": 84000
+        }
+      ]
+    },
+    {
+      "mbid": "c85452ff-4bda-4ba4-961d-026d29eee34d",
+      "releaseMbid": "09b076a7-a093-4430-af82-352e81e565cc",
+      "title": "Rare Cuts",
+      "type": "EP",
+      "releaseDate": "2007-08-08",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c85452ff-4bda-4ba4-961d-026d29eee34d/front-1200",
+      "tracks": [
+        {
+          "title": "My Fist, Your Mouth, Her Scars",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 234133
+        },
+        {
+          "title": "Seven Days",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 206066
+        },
+        {
+          "title": "Welcome Home (Sanitarium)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 375906
+        },
+        {
+          "title": "Domination",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 305306
+        },
+        {
+          "title": "Tears Don’t Fall (acoustic)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 277360
+        },
+        {
+          "title": "4 Words (To Choke Upon) [Filmed Live at Club Quattro, Shibuya, Tokyo]",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Suffocating Under Words of Sorrow (What Can I Do) [Filmed Live at Club Quattro, Shibuya, Tokyo]",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Cries in Vain [Filmed Live at Club Quattro, Shibuya, Tokyo]",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Tears Don't Fall (Unreleased Voodoo Version)",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "8dd17ff9-1cf3-461c-ab33-befef646d875",
+      "releaseMbid": "24541b33-42c3-4f9d-8bd2-16dbfe5f290c",
+      "title": "Road to Nowhere",
+      "type": "EP",
+      "releaseDate": "2008",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/8dd17ff9-1cf3-461c-ab33-befef646d875/front-1200",
+      "tracks": [
+        {
+          "title": "Road to Nowhere",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 261000
+        },
+        {
+          "title": "Watching Us Die Tonight",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 233000
+        },
+        {
+          "title": "One Good Reason Why",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 244000
+        },
+        {
+          "title": "Ashes of the Innocent",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 255000
+        }
+      ]
+    },
+    {
+      "mbid": "d93f7b01-256f-3d69-8456-b61fbff701a1",
+      "releaseMbid": "42ecd6bd-6c3f-40a8-887a-ad7bcee4a3f5",
+      "title": "Scream Aim Fire",
+      "type": "ALBUM",
+      "releaseDate": "2008-01-23",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Scream Aim Fire",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 266440
+        },
+        {
+          "title": "Eye of the Storm",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 242920
+        },
+        {
+          "title": "Hearts Burst Into Fire",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 297946
+        },
+        {
+          "title": "Waking the Demon",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 247693
+        },
+        {
+          "title": "Disappear",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 245160
+        },
+        {
+          "title": "Deliver Us From Evil",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 358280
+        },
+        {
+          "title": "Take It Out on Me",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 352133
+        },
+        {
+          "title": "Say Goodnight",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 283413
+        },
+        {
+          "title": "End of Days",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 258399
+        },
+        {
+          "title": "Last to Know",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 197253
+        },
+        {
+          "title": "Forever and Always",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 408466
+        }
+      ]
+    },
+    {
+      "mbid": "908057f1-95c4-4749-bc35-f174abc3996e",
+      "releaseMbid": "5c681319-b6da-41e0-a773-c8b0e1439ef5",
+      "title": "The Poison / Scream Aim Fire",
+      "type": "COMPILATION",
+      "releaseDate": "2010",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/908057f1-95c4-4749-bc35-f174abc3996e/front-1200",
+      "tracks": [
+        {
+          "title": "Intro",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 142000
+        },
+        {
+          "title": "Her Voice Resides",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 257000
+        },
+        {
+          "title": "4 Words (To Choke Upon)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 223000
+        },
+        {
+          "title": "Tears Don't Fall",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 348000
+        },
+        {
+          "title": "Suffocating Under The Words Of Sorrow (What Can I Do)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 215000
+        },
+        {
+          "title": "Hit The Floor",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 210000
+        },
+        {
+          "title": "All These Things I Hate (Revolve Around Me)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 225000
+        },
+        {
+          "title": "Room 409",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 215000
+        },
+        {
+          "title": "The Poison",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 241000
+        },
+        {
+          "title": "10 Years Today",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 219000
+        },
+        {
+          "title": "Cries In Vain",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 236000
+        },
+        {
+          "title": "Spit You Out",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 247000
+        },
+        {
+          "title": "The End",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 408000
+        },
+        {
+          "title": "Scream Aim Fire",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": 266000
+        },
+        {
+          "title": "Eye Of The Storm",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": 242000
+        },
+        {
+          "title": "Hearts Burst Into Fire",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": 297000
+        },
+        {
+          "title": "Waking The Demon",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": 247000
+        },
+        {
+          "title": "Disappear",
+          "discNumber": 2,
+          "position": 5,
+          "durationMs": 245000
+        },
+        {
+          "title": "Deliver Us From Evil",
+          "discNumber": 2,
+          "position": 6,
+          "durationMs": 358000
+        },
+        {
+          "title": "Take It Out On Me",
+          "discNumber": 2,
+          "position": 7,
+          "durationMs": 352000
+        },
+        {
+          "title": "Say Goodnight",
+          "discNumber": 2,
+          "position": 8,
+          "durationMs": 283000
+        },
+        {
+          "title": "End Of Days",
+          "discNumber": 2,
+          "position": 9,
+          "durationMs": 258000
+        },
+        {
+          "title": "Last To Know",
+          "discNumber": 2,
+          "position": 10,
+          "durationMs": 197000
+        },
+        {
+          "title": "Forever And Always",
+          "discNumber": 2,
+          "position": 11,
+          "durationMs": 406000
+        }
+      ]
+    },
+    {
+      "mbid": "5f2b51b4-3c8f-48ba-993a-94bd2b8f4919",
+      "releaseMbid": "3986cc3c-13ec-4bd9-b2cb-84f5943e3a94",
+      "title": "Fever",
+      "type": "ALBUM",
+      "releaseDate": "2010-04-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/5f2b51b4-3c8f-48ba-993a-94bd2b8f4919/front-1200",
+      "tracks": [
+        {
+          "title": "Your Betrayal",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Fever",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "The Last Fight",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "A Place Where You Belong",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Pleasure and Pain",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Alone",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Breaking Out, Breaking Down",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Bittersweet Memories",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "Dignity",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Begging for Mercy",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Pretty on the Outside",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "a3a32b88-a060-44bb-a136-647b50f6b34f",
+      "releaseMbid": "d4c8466e-76d0-45db-bf9f-fbb7d510774f",
+      "title": "Scream Aim Fire / Fever",
+      "type": "COMPILATION",
+      "releaseDate": "2013",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a3a32b88-a060-44bb-a136-647b50f6b34f/front-1200",
+      "tracks": [
+        {
+          "title": "Scream Aim Fire",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Eye of the Storm",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Hearts Burst Into Fire",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Waking the Demon",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Disappear",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Deliver Us From Evil",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Take It Out on Me",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Say Goodnight",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "End of Days",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Last to Know",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": null
+        },
+        {
+          "title": "Forever and Always",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": null
+        },
+        {
+          "title": "Your Betrayal",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Fever",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "The Last Fight",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "A Place Where You Belong",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Pleasure and Pain",
+          "discNumber": 2,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Alone",
+          "discNumber": 2,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Breaking Out, Breaking Down",
+          "discNumber": 2,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Bittersweet Memories",
+          "discNumber": 2,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "Dignity",
+          "discNumber": 2,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Begging for Mercy",
+          "discNumber": 2,
+          "position": 10,
+          "durationMs": null
+        },
+        {
+          "title": "Pretty on the Outside",
+          "discNumber": 2,
+          "position": 11,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "bd7d9636-9147-47e2-b25f-dbe21bcdedf4",
+      "releaseMbid": "5e1f88fe-6634-4493-9a97-4fad8ac21113",
+      "title": "Temper Temper",
+      "type": "ALBUM",
+      "releaseDate": "2013-02-06",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/bd7d9636-9147-47e2-b25f-dbe21bcdedf4/front-1200",
+      "tracks": [
+        {
+          "title": "Breaking Point",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 221000
+        },
+        {
+          "title": "Truth Hurts",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 216000
+        },
+        {
+          "title": "Temper Temper",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 188000
+        },
+        {
+          "title": "P.O.W.",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 233000
+        },
+        {
+          "title": "Dirty Little Secret",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 294000
+        },
+        {
+          "title": "Leech",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 238000
+        },
+        {
+          "title": "Dead to the World",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 315000
+        },
+        {
+          "title": "Riot",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 168000
+        },
+        {
+          "title": "Saints & Sinners",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 208000
+        },
+        {
+          "title": "Tears Don't Fall (Part 2)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 338000
+        },
+        {
+          "title": "Livin' Life (On the Edge of a Knife)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 241000
+        }
+      ]
+    },
+    {
+      "mbid": "20452797-1853-4d4e-a62f-84996c736c63",
+      "releaseMbid": "75e4e232-23ed-4762-972c-57618f18cea0",
+      "title": "Temper Temper (track by track commentary)",
+      "type": "ALBUM",
+      "releaseDate": "2013-02-08",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/20452797-1853-4d4e-a62f-84996c736c63/front-1200",
+      "tracks": [
+        {
+          "title": "About Breaking Point (commentary)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 62906
+        },
+        {
+          "title": "About Truth Hurts (commentary)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 73466
+        },
+        {
+          "title": "About Temper Temper (commentary)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 79026
+        },
+        {
+          "title": "About P.O.W. (commentary)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 65106
+        },
+        {
+          "title": "About Dirty Little Secret (commentary)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 71786
+        },
+        {
+          "title": "About Leech (commentary)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 67520
+        },
+        {
+          "title": "About Dead to the World (commentary)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 93266
+        },
+        {
+          "title": "About Riot (commentary)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 76106
+        },
+        {
+          "title": "About Saints & Sinners (commentary)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 46746
+        },
+        {
+          "title": "About Tears Don’t Fall (Part 2) (commentary)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 82720
+        },
+        {
+          "title": "About Livin’ Life (On the Edge of a Knife) (commentary)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 58546
+        }
+      ]
+    },
+    {
+      "mbid": "1554069c-5931-4d9e-9653-2b1e04972e0e",
+      "releaseMbid": "59c27531-4697-4132-b400-cc5e10d36d2c",
+      "title": "Original Album Classics",
+      "type": "COMPILATION",
+      "releaseDate": "2015-03-23",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/1554069c-5931-4d9e-9653-2b1e04972e0e/front-1200",
+      "tracks": [
+        {
+          "title": "Intro",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 141280
+        },
+        {
+          "title": "Her Voice Resides",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 258279
+        },
+        {
+          "title": "4 Words (To Choke Upon)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 223760
+        },
+        {
+          "title": "Tears Don't Fall",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 348386
+        },
+        {
+          "title": "Suffocating Under Words Of Sorrow (What Can I Do)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 215533
+        },
+        {
+          "title": "Hit The Floor",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 210120
+        },
+        {
+          "title": "All These Things I Hate (Revolve Around Me)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 225440
+        },
+        {
+          "title": "Room 409",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 241280
+        },
+        {
+          "title": "The Poison",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 219466
+        },
+        {
+          "title": "10 Years Today",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 235960
+        },
+        {
+          "title": "Cries In Vain",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 236333
+        },
+        {
+          "title": "Spit You Out",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 247733
+        },
+        {
+          "title": "The End",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 416693
+        },
+        {
+          "title": "Scream Aim Fire",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": 266440
+        },
+        {
+          "title": "Eye Of The Storm",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": 242920
+        },
+        {
+          "title": "Hearts Burst Into Fire",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": 297946
+        },
+        {
+          "title": "Waking The Demon",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": 247693
+        },
+        {
+          "title": "Disappear",
+          "discNumber": 2,
+          "position": 5,
+          "durationMs": 245160
+        },
+        {
+          "title": "Deliver Us From Evil",
+          "discNumber": 2,
+          "position": 6,
+          "durationMs": 358280
+        },
+        {
+          "title": "Take It Out On Me",
+          "discNumber": 2,
+          "position": 7,
+          "durationMs": 352133
+        },
+        {
+          "title": "Say Goodnight",
+          "discNumber": 2,
+          "position": 8,
+          "durationMs": 283413
+        },
+        {
+          "title": "End Of Days",
+          "discNumber": 2,
+          "position": 9,
+          "durationMs": 258399
+        },
+        {
+          "title": "Last To Know",
+          "discNumber": 2,
+          "position": 10,
+          "durationMs": 197253
+        },
+        {
+          "title": "Forever And Always",
+          "discNumber": 2,
+          "position": 11,
+          "durationMs": 409466
+        },
+        {
+          "title": "Ashes Of The Innocent",
+          "discNumber": 2,
+          "position": 12,
+          "durationMs": 253080
+        },
+        {
+          "title": "Your Betrayal",
+          "discNumber": 3,
+          "position": 1,
+          "durationMs": 291426
+        },
+        {
+          "title": "Fever",
+          "discNumber": 3,
+          "position": 2,
+          "durationMs": 237320
+        },
+        {
+          "title": "The Last Fight",
+          "discNumber": 3,
+          "position": 3,
+          "durationMs": 259306
+        },
+        {
+          "title": "A Place Where You Belong",
+          "discNumber": 3,
+          "position": 4,
+          "durationMs": 306466
+        },
+        {
+          "title": "Pleasure And Pain",
+          "discNumber": 3,
+          "position": 5,
+          "durationMs": 233426
+        },
+        {
+          "title": "Alone",
+          "discNumber": 3,
+          "position": 6,
+          "durationMs": 356280
+        },
+        {
+          "title": "Breaking Out, Breaking Down",
+          "discNumber": 3,
+          "position": 7,
+          "durationMs": 244386
+        },
+        {
+          "title": "Bittersweet Memories",
+          "discNumber": 3,
+          "position": 8,
+          "durationMs": 308826
+        },
+        {
+          "title": "Dignity",
+          "discNumber": 3,
+          "position": 9,
+          "durationMs": 269000
+        },
+        {
+          "title": "Begging For Mercy",
+          "discNumber": 3,
+          "position": 10,
+          "durationMs": 236386
+        },
+        {
+          "title": "Pretty On The Outside",
+          "discNumber": 3,
+          "position": 11,
+          "durationMs": 235626
+        }
+      ]
+    },
+    {
+      "mbid": "aa3e90c1-8105-4264-bc09-eb6a0234e26e",
+      "releaseMbid": "d0069eae-48d4-4907-beb0-ca3022a9241a",
+      "title": "Venom",
+      "type": "ALBUM",
+      "releaseDate": "2015-08-14",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/aa3e90c1-8105-4264-bc09-eb6a0234e26e/front-1200",
+      "tracks": [
+        {
+          "title": "V",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 86400
+        },
+        {
+          "title": "No Way Out",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 233933
+        },
+        {
+          "title": "Army of Noise",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 258173
+        },
+        {
+          "title": "Worthless",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 198106
+        },
+        {
+          "title": "You Want a Battle? (Here’s a War)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 254613
+        },
+        {
+          "title": "Broken",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 219960
+        },
+        {
+          "title": "Venom",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 234826
+        },
+        {
+          "title": "The Harder the Heart (The Harder It Breaks)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 240333
+        },
+        {
+          "title": "Skin",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 239186
+        },
+        {
+          "title": "Hell or High Water",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 276720
+        },
+        {
+          "title": "Pariah",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 227853
+        },
+        {
+          "title": "Playing God",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 232160
+        },
+        {
+          "title": "Run for Your Life",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 214866
+        },
+        {
+          "title": "In Loving Memory (demo version)",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 242480
+        },
+        {
+          "title": "Raising Hell",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 275400
+        }
+      ]
+    },
+    {
+      "mbid": "d4bb6117-b7fa-460e-8260-6881696ead2f",
+      "releaseMbid": "99d6a003-5002-4fc7-8f64-be3da0166e50",
+      "title": "Live From Kingston",
+      "type": "LIVE",
+      "releaseDate": "2015-10-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d4bb6117-b7fa-460e-8260-6881696ead2f/front-1200",
+      "tracks": [
+        {
+          "title": "Your Betrayal",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 302000
+        },
+        {
+          "title": "Army of Noise",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 268000
+        },
+        {
+          "title": "The Last Fight",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 272000
+        },
+        {
+          "title": "Tears Don't Fall",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 377000
+        },
+        {
+          "title": "Waking the Demon",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 322000
+        },
+        {
+          "title": "Worthless",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 210000
+        }
+      ]
+    },
+    {
+      "mbid": "7ca33fbd-956c-4ddc-af90-043d148a9a96",
+      "releaseMbid": "de8a6d8d-cb81-46ec-ab6b-fb0c0acd0649",
+      "title": "Live from Brixton: Chapter Two",
+      "type": "LIVE",
+      "releaseDate": "2017-07-28",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/7ca33fbd-956c-4ddc-af90-043d148a9a96/front-1200",
+      "tracks": [
+        {
+          "title": "V",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 89000
+        },
+        {
+          "title": "No Way Out",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 243000
+        },
+        {
+          "title": "Skin",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 248000
+        },
+        {
+          "title": "Your Betrayal",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 342000
+        },
+        {
+          "title": "Scream Aim Fire",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 331000
+        },
+        {
+          "title": "Venom",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 264000
+        },
+        {
+          "title": "4 Words (To Choke Upon)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 250000
+        },
+        {
+          "title": "You Want a Battle? (Here's a War)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 260000
+        },
+        {
+          "title": "The Last Fight",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 377000
+        },
+        {
+          "title": "Hearts Burst Into Fire",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 375000
+        },
+        {
+          "title": "Alone",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 365000
+        },
+        {
+          "title": "Worthless",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 205000
+        },
+        {
+          "title": "Hand of Blood",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 233000
+        },
+        {
+          "title": "Don't Need You",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 305000
+        },
+        {
+          "title": "Tears Don't Fall",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 430000
+        },
+        {
+          "title": "Waking the Demon",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 371000
+        },
+        {
+          "title": "Intro",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 154000
+        },
+        {
+          "title": "Her Voice Resides",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 314000
+        },
+        {
+          "title": "4 Words (To Choke Upon)",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 309000
+        },
+        {
+          "title": "Tears Don't Fall",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 398000
+        },
+        {
+          "title": "Suffocating Under Words of Sorrow (What Can I Do)",
+          "discNumber": 1,
+          "position": 21,
+          "durationMs": 276000
+        },
+        {
+          "title": "Hit the Floor",
+          "discNumber": 1,
+          "position": 22,
+          "durationMs": 234000
+        },
+        {
+          "title": "All These Things I Hate (Revolve Around Me)",
+          "discNumber": 1,
+          "position": 23,
+          "durationMs": 237000
+        },
+        {
+          "title": "Room 409",
+          "discNumber": 1,
+          "position": 24,
+          "durationMs": 289000
+        },
+        {
+          "title": "The Poison",
+          "discNumber": 1,
+          "position": 25,
+          "durationMs": 230000
+        },
+        {
+          "title": "10 Years Today",
+          "discNumber": 1,
+          "position": 26,
+          "durationMs": 248000
+        },
+        {
+          "title": "Cries in Vain",
+          "discNumber": 1,
+          "position": 27,
+          "durationMs": 284000
+        },
+        {
+          "title": "Spit You Out",
+          "discNumber": 1,
+          "position": 28,
+          "durationMs": 262000
+        },
+        {
+          "title": "The End",
+          "discNumber": 1,
+          "position": 29,
+          "durationMs": 372000
+        },
+        {
+          "title": "V",
+          "discNumber": 1,
+          "position": 30,
+          "durationMs": 85000
+        },
+        {
+          "title": "No Way Out",
+          "discNumber": 1,
+          "position": 31,
+          "durationMs": 243000
+        },
+        {
+          "title": "Your Betrayal",
+          "discNumber": 1,
+          "position": 32,
+          "durationMs": 353000
+        },
+        {
+          "title": "Waking the Demon",
+          "discNumber": 1,
+          "position": 33,
+          "durationMs": 279000
+        },
+        {
+          "title": "Don't Need You",
+          "discNumber": 1,
+          "position": 34,
+          "durationMs": 345000
+        }
+      ]
+    },
+    {
+      "mbid": "47f5b4d2-a1ae-49e2-8dec-b29883fe5086",
+      "releaseMbid": "88523905-4704-4322-9c94-93a4d3793944",
+      "title": "Live from Brixton: Chapter Two, Night Two, Performing the Poison in Its Entirety",
+      "type": "LIVE",
+      "releaseDate": "2017-11-10",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/47f5b4d2-a1ae-49e2-8dec-b29883fe5086/front-1200",
+      "tracks": [
+        {
+          "title": "Intro",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 153707
+        },
+        {
+          "title": "Her Voice Resides",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 313547
+        },
+        {
+          "title": "4 Words (to Choke Upon)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 308653
+        },
+        {
+          "title": "Tears Don’t Fall",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 398333
+        },
+        {
+          "title": "Suffocating Under Words of Sorrow",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 275960
+        },
+        {
+          "title": "Hit the Floor",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 234293
+        },
+        {
+          "title": "All These Things I Hate (Revolve Around Me)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 237147
+        },
+        {
+          "title": "Room 409",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 288960
+        },
+        {
+          "title": "The Poison",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 230107
+        },
+        {
+          "title": "10 Years Today",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 247654
+        },
+        {
+          "title": "Cries in Vain",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 284253
+        },
+        {
+          "title": "Spit You Out",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 262200
+        },
+        {
+          "title": "The End",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 371760
+        },
+        {
+          "title": "V",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 85427
+        },
+        {
+          "title": "No Way Out",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 243240
+        },
+        {
+          "title": "Your Betrayal",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 352907
+        },
+        {
+          "title": "Waking the Demon",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 279227
+        },
+        {
+          "title": "Don’t Need You",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 345263
+        }
+      ]
+    },
+    {
+      "mbid": "5f80e5c8-3e0b-4809-8faa-7c78a964508b",
+      "releaseMbid": "3e53883d-7243-4c74-a88e-bea83f0d2a84",
+      "title": "Gravity",
+      "type": "ALBUM",
+      "releaseDate": "2018-06-29",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/5f80e5c8-3e0b-4809-8faa-7c78a964508b/front-1200",
+      "tracks": [
+        {
+          "title": "Leap of Faith",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 199253
+        },
+        {
+          "title": "Over It",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 227866
+        },
+        {
+          "title": "Letting You Go",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 223653
+        },
+        {
+          "title": "Not Dead Yet",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 201866
+        },
+        {
+          "title": "The Very Last Time",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 237066
+        },
+        {
+          "title": "Piece of Me",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 206013
+        },
+        {
+          "title": "Under Again",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 250600
+        },
+        {
+          "title": "Gravity",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 240520
+        },
+        {
+          "title": "Coma",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 213573
+        },
+        {
+          "title": "Don’t Need You",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 290266
+        },
+        {
+          "title": "Breathe Underwater",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 221160
+        }
+      ]
+    },
+    {
+      "mbid": "aad96520-2ffa-44b5-b311-24e61f55c794",
+      "releaseMbid": "0c42eebf-2130-471b-8b57-08fc42e02339",
+      "title": "Bullet for My Valentine",
+      "type": "ALBUM",
+      "releaseDate": "2021-11-05",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/aad96520-2ffa-44b5-b311-24e61f55c794/front-1200",
+      "tracks": [
+        {
+          "title": "Parasite",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 337106
+        },
+        {
+          "title": "Knives",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 253426
+        },
+        {
+          "title": "My Reverie",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 280106
+        },
+        {
+          "title": "No Happy Ever After",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 246333
+        },
+        {
+          "title": "Can’t Escape the Waves",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 274186
+        },
+        {
+          "title": "Bastards",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 324866
+        },
+        {
+          "title": "Rainbow Veins",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 296546
+        },
+        {
+          "title": "Shatter",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 322973
+        },
+        {
+          "title": "Paralysed",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 249453
+        },
+        {
+          "title": "Death by a Thousand Cuts",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 266120
+        }
+      ]
+    },
+    {
+      "mbid": "aa56840f-c8b0-4a09-b4f8-dc9fa06c09f7",
+      "releaseMbid": "adf59893-aa92-48a4-9b16-5a9fb8d3359b",
+      "title": "No More Tears to Cry",
+      "type": "EP",
+      "releaseDate": "2022-07-29",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/aa56840f-c8b0-4a09-b4f8-dc9fa06c09f7/front-1200",
+      "tracks": [
+        {
+          "title": "No More Tears to Cry",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 221433
+        },
+        {
+          "title": "Stitches",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 301427
+        },
+        {
+          "title": "Omen",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 233325
+        }
+      ]
+    },
+    {
+      "mbid": "ca0e8ec1-f0a5-47a8-9216-1e18c5b82f8e",
+      "releaseMbid": "47a2d639-9e0e-4c85-a8d3-372a00d02b2a",
+      "title": "Rainbow Veins",
+      "type": "EP",
+      "releaseDate": "2023",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ca0e8ec1-f0a5-47a8-9216-1e18c5b82f8e/front-1200",
+      "tracks": [
+        {
+          "title": "Rainbow Veins",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 298185
+        },
+        {
+          "title": "Shatter (Edit)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 281757
+        },
+        {
+          "title": "Parasite (Edit)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 242063
+        },
+        {
+          "title": "Knives",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 256068
+        }
+      ]
+    },
+    {
+      "mbid": "7c5cfb99-04c5-469a-9c9c-ae4e34afd2ec",
+      "releaseMbid": "1762ab52-4c3a-40d1-864b-9cfc0903645f",
+      "title": "Social Apocalypse",
+      "type": "ALBUM",
+      "releaseDate": "2027-03-19",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Social Apocalypse",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 239000
+        },
+        {
+          "title": "In the Absence of You",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "I Don't Trust Tomorrow",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Here Without You",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Acid Rain",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Fragile",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "CVLT",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Masquerade",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "Read Between the Lines",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Enough Is Never Enough",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": null
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

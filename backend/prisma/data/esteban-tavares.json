@@ -1,0 +1,539 @@
+{
+  "generatedAt": "2026-11-17T13:26:56.352Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "91682b26-bcde-409f-8b4e-44f09107e71a",
+    "name": "Esteban Tavares",
+    "slug": "esteban-tavares",
+    "type": "SOLO",
+    "country": null,
+    "city": null,
+    "formedYear": null,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/91682b26-bcde-409f-8b4e-44f09107e71a"
+      }
+    ],
+    "genres": []
+  },
+  "releases": [
+    {
+      "mbid": "90181cd4-bab2-4543-91db-371b6067b275",
+      "releaseMbid": "3a6b9e2e-470e-45cb-be99-5df54c8cdb26",
+      "title": "¡Adiós, Esteban!",
+      "type": "ALBUM",
+      "releaseDate": "2012",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/90181cd4-bab2-4543-91db-371b6067b275/front-1200",
+      "tracks": [
+        {
+          "title": "Canal 12",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 248133
+        },
+        {
+          "title": "Pianinho",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 196480
+        },
+        {
+          "title": "Visita",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 300426
+        },
+        {
+          "title": "Muda",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 353653
+        },
+        {
+          "title": "Sophia",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 288640
+        },
+        {
+          "title": "Muito Além Do Sofá",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 293026
+        },
+        {
+          "title": "Sua Canção",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 282146
+        },
+        {
+          "title": "Segunda Feira",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 256760
+        },
+        {
+          "title": "Sinto Muito Blues",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 293346
+        },
+        {
+          "title": "(Eu Sei) Você Esqueceu",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 353746
+        },
+        {
+          "title": "Tudo Pra Você",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 178773
+        },
+        {
+          "title": "¡Adiós, Sophia!",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 161960
+        }
+      ]
+    },
+    {
+      "mbid": "69b20fa4-a7e3-469d-bac4-98916e2bfab0",
+      "releaseMbid": "d9e74fdb-180b-47f3-a5cd-744f9b52fa87",
+      "title": "Smokers in Airplanes",
+      "type": "EP",
+      "releaseDate": "2013-08-14",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Red Light Sparkle",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 382000
+        },
+        {
+          "title": "Overboard",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 333000
+        },
+        {
+          "title": "Modern Love",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 264000
+        },
+        {
+          "title": "Follow",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 301000
+        }
+      ]
+    },
+    {
+      "mbid": "f394218c-5700-40de-86e2-fcaf299e83f4",
+      "releaseMbid": "f501a618-115a-47ab-98d1-f8b52deb0037",
+      "title": "Liquid Love Reality",
+      "type": "EP",
+      "releaseDate": "2014-03-01",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Smokers in Airplanes",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 291000
+        },
+        {
+          "title": "Future Tense",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 243000
+        },
+        {
+          "title": "Lights On",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 272000
+        },
+        {
+          "title": "One More Day",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 382000
+        }
+      ]
+    },
+    {
+      "mbid": "b22b0122-9c72-48da-9431-c9117d6f4fcb",
+      "releaseMbid": "21b7bfa3-1f90-45e9-8502-6ebd6d7590a0",
+      "title": "Saca La Muerte De Tu Vida",
+      "type": "ALBUM",
+      "releaseDate": "2015",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b22b0122-9c72-48da-9431-c9117d6f4fcb/front-1200",
+      "tracks": [
+        {
+          "title": "Janeiro",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 314000
+        },
+        {
+          "title": "Pra Ser",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 234000
+        },
+        {
+          "title": "Chacarera Da Saudade",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 286000
+        },
+        {
+          "title": "Cigarros e Capitais",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 215000
+        },
+        {
+          "title": "Tango Novo (Nada Impede A Onda De Passar)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 354000
+        },
+        {
+          "title": "As Terças Podem Se Inverter",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 252000
+        },
+        {
+          "title": "Martes",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 324000
+        },
+        {
+          "title": "O Que Não Vem",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 306000
+        },
+        {
+          "title": "Me Sinto Humano",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 210000
+        },
+        {
+          "title": "Se",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 117000
+        },
+        {
+          "title": "Carta Aos Desinteressados",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 238000
+        },
+        {
+          "title": "Maria",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 379000
+        },
+        {
+          "title": "Chacarera 2",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 259000
+        }
+      ]
+    },
+    {
+      "mbid": "828ea036-8ba6-4c2a-9f1f-a4b601e6ed60",
+      "releaseMbid": "cbb09fa9-d796-463e-9b74-44a94e9eaa80",
+      "title": "Eu, Tu e o Mundo",
+      "type": "ALBUM",
+      "releaseDate": "2017-06-09",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Primeiro Avião",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 253000
+        },
+        {
+          "title": "Noites de Berlim",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 244000
+        },
+        {
+          "title": "Basta",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 249000
+        },
+        {
+          "title": "Tango Novo",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 356000
+        },
+        {
+          "title": "Sétima Maior",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 240000
+        },
+        {
+          "title": "Partindo",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 221000
+        },
+        {
+          "title": "Sobre Você",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 250000
+        },
+        {
+          "title": "Talvez",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 201000
+        },
+        {
+          "title": "Livre",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 227000
+        },
+        {
+          "title": "Muda",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 323000
+        },
+        {
+          "title": "Pra Ser",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 239000
+        },
+        {
+          "title": "Chacarera da Saudade",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 291000
+        },
+        {
+          "title": "Fotos Instantâneas",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 235000
+        },
+        {
+          "title": "Naquela Esquina",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 248000
+        }
+      ]
+    },
+    {
+      "mbid": "bebf28a9-7ec1-4c45-808e-68c33e11fb9e",
+      "releaseMbid": "76547070-41b4-4226-b18d-a703fb34d31a",
+      "title": "Toda Mañana Tendrás Una Nueva Canción: Santa Fe",
+      "type": "ALBUM",
+      "releaseDate": "2019-12-06",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Digital",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 268000
+        },
+        {
+          "title": "Milonguita",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 310000
+        },
+        {
+          "title": "Pra Não Esquecer, Pt. 2",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 455000
+        },
+        {
+          "title": "Você de Volta",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 242000
+        },
+        {
+          "title": "Rosario",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 268000
+        },
+        {
+          "title": "Toda Mañana Tendrás Una Nueva Canción",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 262000
+        }
+      ]
+    },
+    {
+      "mbid": "2bc22f60-b9a1-4f43-b06f-3b066e5b3e15",
+      "releaseMbid": "cbe810a4-6388-487f-9e4b-2e8f0becf011",
+      "title": "Esteban Tavares no Estúdio Showlivre (Ao Vivo)",
+      "type": "LIVE",
+      "releaseDate": "2023-03-13",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/2bc22f60-b9a1-4f43-b06f-3b066e5b3e15/front-1200",
+      "tracks": [
+        {
+          "title": "Canal 12 (Ao Vivo)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 245188
+        },
+        {
+          "title": "Pianinho (Ao Vivo)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 207233
+        },
+        {
+          "title": "Visita (Ao Vivo)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 296044
+        },
+        {
+          "title": "Sophia (Ao Vivo)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 277982
+        },
+        {
+          "title": "Muda (Ao Vivo)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 361280
+        },
+        {
+          "title": "Segunda Feira (Ao Vivo)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 258454
+        },
+        {
+          "title": "Sua Canção (Ao Vivo)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 284911
+        },
+        {
+          "title": "Eu Sei, Você Esqueceu (Ao Vivo)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 354327
+        },
+        {
+          "title": "Tudo Pra Você (Ao Vivo)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 175401
+        },
+        {
+          "title": "Sinto Muito Blues (Ao Vivo)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 424250
+        }
+      ]
+    },
+    {
+      "mbid": "1cc650f1-aef7-42e4-a42f-452b5c6b160f",
+      "releaseMbid": "0ed68267-6e64-47d8-ad63-e2865eb461d0",
+      "title": "Entressafra",
+      "type": "ALBUM",
+      "releaseDate": "2024-01-11",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Temporal",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 221000
+        },
+        {
+          "title": "Basta",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 239000
+        },
+        {
+          "title": "Milonguita (Acústico)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 314000
+        },
+        {
+          "title": "As Terças Podem Se Inverter",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 276000
+        },
+        {
+          "title": "Naquela Esquina",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 263000
+        },
+        {
+          "title": "Vida Real",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 230000
+        },
+        {
+          "title": "Amsterdam",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 328000
+        },
+        {
+          "title": "Chacarera da Saudade (Acústico)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 290000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

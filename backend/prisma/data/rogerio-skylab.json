@@ -1,0 +1,3857 @@
+{
+  "generatedAt": "2026-11-17T13:21:55.189Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "84d23ac2-1b9b-4e92-910f-a14c203dad3b",
+    "name": "Rogério Skylab",
+    "slug": "rogerio-skylab",
+    "type": "SOLO",
+    "country": "BR",
+    "city": "Rio de Janeiro",
+    "formedYear": 1958,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/84d23ac2-1b9b-4e92-910f-a14c203dad3b"
+      }
+    ],
+    "genres": []
+  },
+  "releases": [
+    {
+      "mbid": "e3ddf461-81d7-4944-a7c6-865d37dcfdb8",
+      "releaseMbid": "2897e4ce-8e0d-4f3d-bab9-cb3d88a1f85b",
+      "title": "Fora Da Grei",
+      "type": "ALBUM",
+      "releaseDate": "1992",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Fora Da Grei",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 186000
+        },
+        {
+          "title": "Blues Do Parachoque",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 210000
+        },
+        {
+          "title": "Tucuruí",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 130000
+        },
+        {
+          "title": "Palavras São Voláteis",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 245000
+        },
+        {
+          "title": "Casas Da Banha",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 189000
+        },
+        {
+          "title": "Essa Voz",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 122000
+        },
+        {
+          "title": "Polka",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 316000
+        },
+        {
+          "title": "Minha Vida É Uma Estrada",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 437000
+        },
+        {
+          "title": "Naquela Noite",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 231000
+        },
+        {
+          "title": "Uma Idéia Na Mão E Um Violão Vagabundo Na Cabeça",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 137000
+        }
+      ]
+    },
+    {
+      "mbid": "0d640d4b-6a65-416f-8c64-079db6ed1ba1",
+      "releaseMbid": "1e6b7ab2-0f9d-4b41-99af-bd8a5dea48d1",
+      "title": "Skylab",
+      "type": "ALBUM",
+      "releaseDate": "1999",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0d640d4b-6a65-416f-8c64-079db6ed1ba1/front-1200",
+      "tracks": [
+        {
+          "title": "Moto-Serra",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 209000
+        },
+        {
+          "title": "Urubu",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 277000
+        },
+        {
+          "title": "Matador De Passarinho",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 153000
+        },
+        {
+          "title": "Matadouro De Almas",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 231000
+        },
+        {
+          "title": "Derrame",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 166000
+        },
+        {
+          "title": "No Cemitério",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 185000
+        },
+        {
+          "title": "Funérea",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 200000
+        },
+        {
+          "title": "Naquela Noite",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 255000
+        },
+        {
+          "title": "Vampiro Mordido",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 172000
+        },
+        {
+          "title": "Pedigree",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 225000
+        },
+        {
+          "title": "Carne Humana",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 210000
+        }
+      ]
+    },
+    {
+      "mbid": "5e300d6b-c77e-3130-b5c4-4a3e9debbce8",
+      "releaseMbid": "fcdd0176-bd67-498f-9802-bb34f9f18967",
+      "title": "Skylab II",
+      "type": "LIVE",
+      "releaseDate": "2000",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Metrô",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Jesus",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Carne Humana",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Moto-Serra",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Naquela Noite",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Convento das Carmelitas",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Derrame",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Urubu",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "Matadouro das Almas",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Sensações",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": null
+        },
+        {
+          "title": "Música Suave",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": null
+        },
+        {
+          "title": "Ato Falho",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": null
+        },
+        {
+          "title": "Carrocinha de Cachorro Quente",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": null
+        },
+        {
+          "title": "Privada Entupida",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": null
+        },
+        {
+          "title": "Funérea",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": null
+        },
+        {
+          "title": "Cú e Boca",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": null
+        },
+        {
+          "title": "Samba",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": null
+        },
+        {
+          "title": "Matador de Passarinho",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "c20aa0db-c7c1-3ab3-86e0-8ee8481b5cab",
+      "releaseMbid": "af9fcf4a-f90d-4065-8c45-74822467aba2",
+      "title": "Skylab III",
+      "type": "ALBUM",
+      "releaseDate": "2002",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Segunda-Feira",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 232586
+        },
+        {
+          "title": "Acorda Siva Maria",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 143093
+        },
+        {
+          "title": "Lágrimas de Sangue",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 274800
+        },
+        {
+          "title": "Inferno",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 308440
+        },
+        {
+          "title": "Blues do Pára-Choque",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 214493
+        },
+        {
+          "title": "Dólar",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 215013
+        },
+        {
+          "title": "Cocô",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 222066
+        },
+        {
+          "title": "Esqueletos",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 284253
+        },
+        {
+          "title": "Cântico dos Cânticos",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 309053
+        },
+        {
+          "title": "É Tudo Falso",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 191106
+        },
+        {
+          "title": "Tiger",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 161493
+        }
+      ]
+    },
+    {
+      "mbid": "d9d97080-32b1-3eba-8175-f1f31aeedcb2",
+      "releaseMbid": "38525c4c-5232-46bf-a809-29c555f3aa9e",
+      "title": "Skylab IV",
+      "type": "ALBUM",
+      "releaseDate": "2003",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d9d97080-32b1-3eba-8175-f1f31aeedcb2/front-1200",
+      "tracks": [
+        {
+          "title": "IML",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 176986
+        },
+        {
+          "title": "Arrebentados",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 240720
+        },
+        {
+          "title": "O Meu Pau Fica Duro",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 179600
+        },
+        {
+          "title": "Puta",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 85320
+        },
+        {
+          "title": "Música para Paralítico",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 93640
+        },
+        {
+          "title": "Eu Quero Saber Quem Matou",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 159640
+        },
+        {
+          "title": "Parafuso na Cabeça",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 251786
+        },
+        {
+          "title": "Bunda Suja",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 192373
+        },
+        {
+          "title": "Um Carro",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 246440
+        },
+        {
+          "title": "Ninguém",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 164560
+        },
+        {
+          "title": "Lava as Mãos",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 290880
+        },
+        {
+          "title": "Mictório",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 209906
+        },
+        {
+          "title": "Eu Esporro",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 196693
+        },
+        {
+          "title": "Desarmônica",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 288093
+        },
+        {
+          "title": "Por dentro, Por Fora",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 115013
+        },
+        {
+          "title": "Câncer no Cu",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": 190000
+        },
+        {
+          "title": "Chico Xavier & Roberto Carlos",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": 224000
+        }
+      ]
+    },
+    {
+      "mbid": "f55633f3-4777-4acf-8c16-7281b3377682",
+      "releaseMbid": "66e565ba-6f99-4715-9e5d-5c48b02da68f",
+      "title": "Skylab V",
+      "type": "ALBUM",
+      "releaseDate": "2004-06-24",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f55633f3-4777-4acf-8c16-7281b3377682/front-1200",
+      "tracks": [
+        {
+          "title": "Os Ratos",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 197560
+        },
+        {
+          "title": "Tarado",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 221680
+        },
+        {
+          "title": "Você Vai Continuar Fazendo Música?",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 248227
+        },
+        {
+          "title": "Não Sou Ninguém",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 178013
+        },
+        {
+          "title": "22x2=43",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 262027
+        },
+        {
+          "title": "Homem Do Mal",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 147373
+        },
+        {
+          "title": "Eu Fico Nervoso",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 224147
+        },
+        {
+          "title": "Legal, Legal",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 179587
+        },
+        {
+          "title": "Mastigando Um Chiclete",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 291320
+        },
+        {
+          "title": "A Natureza",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 296160
+        },
+        {
+          "title": "Semana Passada",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 238387
+        },
+        {
+          "title": "Viver Morrendo",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 255040
+        },
+        {
+          "title": "Aquela Coisa Toda",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 226160
+        },
+        {
+          "title": "Dinheiro",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 175760
+        },
+        {
+          "title": "Você É Feia",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 286080
+        },
+        {
+          "title": "O Coveiro",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 290213
+        },
+        {
+          "title": "Eu Tô Pensando",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 242547
+        }
+      ]
+    },
+    {
+      "mbid": "93f511ff-db2e-4c80-abf6-58abc0e37148",
+      "releaseMbid": "801496ae-3da9-4ff9-a770-6098f79a883b",
+      "title": "Skylab IV",
+      "type": "ALBUM",
+      "releaseDate": "2005-09-02",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "IML",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 176000
+        },
+        {
+          "title": "Arrebentados",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 240000
+        },
+        {
+          "title": "O Meu Pau Fica Duro",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 179000
+        },
+        {
+          "title": "Puta",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 85000
+        },
+        {
+          "title": "Música Para Paralítico",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 93000
+        },
+        {
+          "title": "Eu Quero Saber Quem Matou",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 159000
+        },
+        {
+          "title": "Parafuso Na Cabeça",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 251000
+        },
+        {
+          "title": "Bunda Suja",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 192000
+        },
+        {
+          "title": "Um Carro Hermeticamente Fechado",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 246000
+        },
+        {
+          "title": "Ninguém",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 164000
+        },
+        {
+          "title": "Lava As Mãos",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 290000
+        },
+        {
+          "title": "Mictório",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 209000
+        },
+        {
+          "title": "Eu Esporro",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 196000
+        },
+        {
+          "title": "Desarmônica",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 288000
+        },
+        {
+          "title": "Por Dentro, Por Fora",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 115000
+        }
+      ]
+    },
+    {
+      "mbid": "cee5d2d9-742c-37bd-bee0-1055fe1b00f8",
+      "releaseMbid": "91f6db64-4f5d-4d5c-b09a-dbb41a9a6459",
+      "title": "Rogério Skylab VI",
+      "type": "COMPILATION",
+      "releaseDate": "2006",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Alucinalção",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 462653
+        },
+        {
+          "title": "Isso Não É John Cage",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 61880
+        },
+        {
+          "title": "Cú E Boca",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 195440
+        },
+        {
+          "title": "Hino Nacional Do Skylab",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 138666
+        },
+        {
+          "title": "Vamos Repetir De Novo",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 243266
+        },
+        {
+          "title": "Quer Tc Comigo?",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 294973
+        },
+        {
+          "title": "Quanto Pior Melhor",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 229013
+        },
+        {
+          "title": "Amo Muito Tudo Isso",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 189733
+        },
+        {
+          "title": "Torto, Torto",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 253093
+        },
+        {
+          "title": "Tudo Me Faz Bem",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 264760
+        },
+        {
+          "title": "Cadê Meu Pau?",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 252320
+        },
+        {
+          "title": "Dedo, Língua, Cu E Boceta",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 220960
+        },
+        {
+          "title": "Todo Mundo Mora Mal",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 270640
+        },
+        {
+          "title": "Pára De Roncar, Filha Da Puta!",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 268133
+        },
+        {
+          "title": "Eu E Vôce",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 241600
+        },
+        {
+          "title": "Põe a Cabeça No Cu",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 94853
+        },
+        {
+          "title": "Eu Não Tenho Eu",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 437253
+        },
+        {
+          "title": "Me Dá Tudo Que Tiveres",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 199320
+        },
+        {
+          "title": "Tudo",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 59360
+        }
+      ]
+    },
+    {
+      "mbid": "a308b4ba-cc54-44f3-89e7-af58abefb3a1",
+      "releaseMbid": "fa144ae5-05ad-452b-832d-96352aab5761",
+      "title": "Skylab VI",
+      "type": "ALBUM",
+      "releaseDate": "2006-02-09",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Alucinação",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 462000
+        },
+        {
+          "title": "Isto Não É John Cage",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 61000
+        },
+        {
+          "title": "Cu e Boca",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 195000
+        },
+        {
+          "title": "Hino Nacional do Skylab",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 138000
+        },
+        {
+          "title": "Vamos Repetir de Novo",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 243000
+        },
+        {
+          "title": "Quer tc Comigo?",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 295000
+        },
+        {
+          "title": "Quanto Pior, Melhor",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 229000
+        },
+        {
+          "title": "Amo Muito Tudo Isso",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 189000
+        },
+        {
+          "title": "Torto, Torto",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 253000
+        },
+        {
+          "title": "Tudo Me Faz Bem",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 264000
+        },
+        {
+          "title": "Cadê Meu Pau?",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 252000
+        },
+        {
+          "title": "Dedo, Língua, Cu e Boceta",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 221000
+        },
+        {
+          "title": "Todo Mundo Mora Mal",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 270000
+        },
+        {
+          "title": "Para de Roncar, Filha da Puta!!!",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 268000
+        },
+        {
+          "title": "Eu e Você",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 241000
+        },
+        {
+          "title": "Põe a Cabeça no Cu",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 94000
+        },
+        {
+          "title": "Eu Não Tenho Eu (feat. Clóvis Bornay)",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 437000
+        },
+        {
+          "title": "Me Dá Tudo que Tiveres",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 199000
+        },
+        {
+          "title": "Tudo",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 59000
+        }
+      ]
+    },
+    {
+      "mbid": "4fa314db-578f-43ee-93bb-a2c7e9d088f0",
+      "releaseMbid": "4a3e4d76-8b9b-4f05-9d22-2061f8cba1f0",
+      "title": "Skylab VII",
+      "type": "ALBUM",
+      "releaseDate": "2007-03-04",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Qual Foi O Lucro Obtido?",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 131000
+        },
+        {
+          "title": "Há Quanto Tempo?",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 256000
+        },
+        {
+          "title": "Quanto Mais Saúde Eu Morro",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 145000
+        },
+        {
+          "title": "Samba Isquemia Noise",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 388000
+        },
+        {
+          "title": "Corpo E Membro Sem Cabeça",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 338000
+        },
+        {
+          "title": "Eu Chupo O Meu Pau",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 483000
+        },
+        {
+          "title": "É Tudo Atonal",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 99000
+        },
+        {
+          "title": "Dá Um Beijo Na Boca Dele",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 243000
+        },
+        {
+          "title": "Chove Chuva Na Minha Cabeça",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 197000
+        },
+        {
+          "title": "A Irmã Da Minha Mulher",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 325000
+        },
+        {
+          "title": "Hei Moço, Já Matou Uma Velhinha Hoje?",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 85000
+        },
+        {
+          "title": "Eu Vou Dizer",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 383000
+        },
+        {
+          "title": "Vou, Vou, Vou",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 352000
+        },
+        {
+          "title": "O Primeiro Tapa É Meu",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 147000
+        },
+        {
+          "title": "Desperdício De Tudo",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 318000
+        },
+        {
+          "title": "A Última Valsa",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 215000
+        },
+        {
+          "title": "As Asas De Um Anjo",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 398000
+        },
+        {
+          "title": "O Mundo Tá Sempre Girando",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 195000
+        }
+      ]
+    },
+    {
+      "mbid": "b275def1-012f-3272-a4cb-09412a7e93b1",
+      "releaseMbid": "c07da3e0-3372-48c7-9ca3-193ad37c69cd",
+      "title": "Skylab VIII",
+      "type": "ALBUM",
+      "releaseDate": "2008",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Tira Tudo",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 373280
+        },
+        {
+          "title": "Eu Não Tô Entendendo",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 321880
+        },
+        {
+          "title": "Batmasterson",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 251053
+        },
+        {
+          "title": "Eu Tô Sempre Dopado",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 247240
+        },
+        {
+          "title": "Samba Bem Quente",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 266453
+        },
+        {
+          "title": "Preciso De Você Comigo",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 240573
+        },
+        {
+          "title": "Batman",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 251586
+        },
+        {
+          "title": "Eu Estou Só",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 444226
+        },
+        {
+          "title": "Ladrão É Polícia",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 289986
+        },
+        {
+          "title": "Casas Da Banha",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 137293
+        },
+        {
+          "title": "Peida, Peida",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 173600
+        },
+        {
+          "title": "Cheirando Mal",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 212546
+        },
+        {
+          "title": "Eu Sou Cliente De Lá",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 354080
+        },
+        {
+          "title": "O Ar",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 429120
+        },
+        {
+          "title": "Meu Diário",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 167146
+        },
+        {
+          "title": "Um Furo",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 297413
+        }
+      ]
+    },
+    {
+      "mbid": "5eaa1647-10cb-47cf-8fef-de8f3d6adbfe",
+      "releaseMbid": "2a941897-c401-484e-8979-4e2dda910d6f",
+      "title": "Rogério Skylab Em Skylab IX Ao Vivo",
+      "type": "ALBUM",
+      "releaseDate": "2009",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/5eaa1647-10cb-47cf-8fef-de8f3d6adbfe/front-1200",
+      "tracks": [
+        {
+          "title": "Sem Anestesia",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 328000
+        },
+        {
+          "title": "Vácuo",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 531000
+        },
+        {
+          "title": "O Mundo Tá Sempre Girando",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 267000
+        },
+        {
+          "title": "Matadouro Das Almas",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 237000
+        },
+        {
+          "title": "Funérea",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 170000
+        },
+        {
+          "title": "Carrocinha De Cachorro Quente",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 199000
+        },
+        {
+          "title": "Porrada Na Cabeça",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 97000
+        },
+        {
+          "title": "Você Vai Continuar Fazendo Música?",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 244000
+        },
+        {
+          "title": "Naquela Noite",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 268000
+        },
+        {
+          "title": "Samba De Uma Nota Só Ao Contrário",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 308000
+        },
+        {
+          "title": "Oficial De Justiça",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 225000
+        },
+        {
+          "title": "Samba",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 387000
+        },
+        {
+          "title": "Eu Tô Sempre Dopado",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 161000
+        },
+        {
+          "title": "Show Do Rappa",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 326000
+        },
+        {
+          "title": "Você É Feia",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 295000
+        },
+        {
+          "title": "Matador De Passarinho",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 304000
+        }
+      ]
+    },
+    {
+      "mbid": "a177983b-524d-4f68-b4c8-020b6cc772d7",
+      "releaseMbid": "b835b6de-e9a9-41d5-a164-ddca1fbeb07d",
+      "title": "Rogerio Skylab & Orquestra Zé Felipe",
+      "type": "ALBUM",
+      "releaseDate": "2009-06-02",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "A Gente Vai Ficar Surdo",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Buceta Dominante ou Dominada?",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "A Múmia",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Preto, Negro, Criolo",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Ah Coitado de Mim",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Paz, Pés, Pis, Pós, Pus",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Tem Cigarro Aí?",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Óbvio",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "Um Lado É Diferente do Outro",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Marcha Fúnebre",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "38577d48-b4a8-4dbc-a96d-1117a46f3e20",
+      "releaseMbid": "414e0ff4-855d-4f22-9850-4f8580e35eac",
+      "title": "Skygirls",
+      "type": "ALBUM",
+      "releaseDate": "2009-08-21",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "A Tela",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 339000
+        },
+        {
+          "title": "Abacaxi",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 368000
+        },
+        {
+          "title": "Deixa Ficar",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 251000
+        },
+        {
+          "title": "Eu Me Contradisse Ou Não Me Contradisse?",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 600000
+        },
+        {
+          "title": "Eu Penso Nela Sempre",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 195000
+        },
+        {
+          "title": "O Sol",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 369000
+        },
+        {
+          "title": "Você Viu Cat Power?",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 413000
+        },
+        {
+          "title": "Ilha De Lesbos",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 616000
+        },
+        {
+          "title": "La Mer",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 276000
+        },
+        {
+          "title": "Skygirls",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 224000
+        },
+        {
+          "title": "Na Casa De Mamãe",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 335000
+        },
+        {
+          "title": "A Festa No Meu AP",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 387000
+        },
+        {
+          "title": "Oh Melody",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 145000
+        },
+        {
+          "title": "O Que Eu Quero",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 247000
+        },
+        {
+          "title": "Maria Bethânia",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 86000
+        },
+        {
+          "title": "Tudo É Tão Bom, Tudo É Tão Mau",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 281000
+        },
+        {
+          "title": "Vazio Bom",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 321000
+        }
+      ]
+    },
+    {
+      "mbid": "439c1fb8-9e9b-4bf8-950f-74d432d22e60",
+      "releaseMbid": "dc55aade-9664-4c7c-afd1-c2d369e71e6f",
+      "title": "Skylab IX",
+      "type": "LIVE",
+      "releaseDate": "2009-09-02",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Sem Anestesia",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "A Dança Do Corpo E Dos Membros",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Vácuo",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Jesus",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Eu Chupo Meu Pau",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Derrame",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Dedo, Língua, Cu E Buceta",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "O Mundo Tá Sempre Girando",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "Moto-Serra",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Convento Das Carmelitas",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": null
+        },
+        {
+          "title": "Parafuso Na Cabeça",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": null
+        },
+        {
+          "title": "Lava As Mãos",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": null
+        },
+        {
+          "title": "Matadouro Das Almas",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": null
+        },
+        {
+          "title": "Funérea",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": null
+        },
+        {
+          "title": "Carrocinha De Cachorro Quente",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": null
+        },
+        {
+          "title": "Porrada Na Cabeça",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": null
+        },
+        {
+          "title": "Você Vai Continuar Fazendo Música?",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": null
+        },
+        {
+          "title": "Samba De Uma Nota Só Ao Contrário",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": null
+        },
+        {
+          "title": "Lágrimas De Sangue",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": null
+        },
+        {
+          "title": "Naquela Noite",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": null
+        },
+        {
+          "title": "Dá Um Beijo Na Boca Dele",
+          "discNumber": 1,
+          "position": 21,
+          "durationMs": null
+        },
+        {
+          "title": "Oficial De Justiça",
+          "discNumber": 1,
+          "position": 22,
+          "durationMs": null
+        },
+        {
+          "title": "Eu Fico Nervoso",
+          "discNumber": 1,
+          "position": 23,
+          "durationMs": null
+        },
+        {
+          "title": "Metrô",
+          "discNumber": 1,
+          "position": 24,
+          "durationMs": null
+        },
+        {
+          "title": "Samba",
+          "discNumber": 1,
+          "position": 25,
+          "durationMs": null
+        },
+        {
+          "title": "Eu Tô Sempre Dopado",
+          "discNumber": 1,
+          "position": 26,
+          "durationMs": null
+        },
+        {
+          "title": "Show Do Rappa",
+          "discNumber": 1,
+          "position": 27,
+          "durationMs": null
+        },
+        {
+          "title": "Você É Feia",
+          "discNumber": 1,
+          "position": 28,
+          "durationMs": null
+        },
+        {
+          "title": "Desperdício De Tudo",
+          "discNumber": 1,
+          "position": 29,
+          "durationMs": null
+        },
+        {
+          "title": "Matador De Passarinho",
+          "discNumber": 1,
+          "position": 30,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "98cf5041-aea4-47ab-93dc-4658fcfcc925",
+      "releaseMbid": "d6e7da14-cd1d-419a-baf6-fded24f5dc08",
+      "title": "Best Of",
+      "type": "COMPILATION",
+      "releaseDate": "2010",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Matador De Passarinho",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 153293
+        },
+        {
+          "title": "Motosserra",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 209253
+        },
+        {
+          "title": "Urubu",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 275080
+        },
+        {
+          "title": "Matadouro Das Almas",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 230866
+        },
+        {
+          "title": "Derrame",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 164733
+        },
+        {
+          "title": "No Cemitério",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 185813
+        },
+        {
+          "title": "Funérea",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 198533
+        },
+        {
+          "title": "Carne Humana",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 210146
+        },
+        {
+          "title": "Metrô",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 189760
+        },
+        {
+          "title": "Convento Das Carmelitas",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 211560
+        },
+        {
+          "title": "Sensações",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 289213
+        },
+        {
+          "title": "Acorda Silva Maria",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 144386
+        },
+        {
+          "title": "Cântico Dos Cânticos",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 311040
+        },
+        {
+          "title": "Bunda Suja",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 192866
+        },
+        {
+          "title": "Eu Fico Nervoso",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 226133
+        },
+        {
+          "title": "Você É Feia",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 288066
+        },
+        {
+          "title": "Eu Tô Pensando",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 243213
+        },
+        {
+          "title": "Cadê Meu Pau?",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 254306
+        },
+        {
+          "title": "O Primeiro Tapa É Meu",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 147280
+        },
+        {
+          "title": "Eu Tô Sempre Dopado",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 247013
+        }
+      ]
+    },
+    {
+      "mbid": "610827cf-11ba-4c20-9ef8-0a90bc44a670",
+      "releaseMbid": "29e9aae3-fdd2-4f66-9775-14ea20c3fc4d",
+      "title": "Skylab X",
+      "type": "ALBUM",
+      "releaseDate": "2011-05-23",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Analfabeto",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 360000
+        },
+        {
+          "title": "Se Tá Tudo Por Um Triz",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 429000
+        },
+        {
+          "title": "Aonde Eu Vivo, Aonde Eu Moro",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 304000
+        },
+        {
+          "title": "Eu Não Consigo Sair Daqui",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 253000
+        },
+        {
+          "title": "Bandeira Negra",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 307000
+        },
+        {
+          "title": "Zumbi É Gay",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 244000
+        },
+        {
+          "title": "Cueca",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 491000
+        },
+        {
+          "title": "Avesso",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 178000
+        },
+        {
+          "title": "Eu Roubei A Gravata?",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 262000
+        },
+        {
+          "title": "No Sertão Da Minha Vida",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 221000
+        },
+        {
+          "title": "O Pensamento Voa",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 215000
+        },
+        {
+          "title": "O Trem",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 183000
+        },
+        {
+          "title": "O Corvo",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 424000
+        },
+        {
+          "title": "Quem Responde É O Diabo",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 305000
+        },
+        {
+          "title": "Rota Em Colisão",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 245000
+        }
+      ]
+    },
+    {
+      "mbid": "b92e3dfc-611d-4375-b355-3d8ab93fff66",
+      "releaseMbid": "4e027ef6-b84c-4f5d-98fd-dd1c0f4f65dd",
+      "title": "Abismo e Carnaval",
+      "type": "ALBUM",
+      "releaseDate": "2012-06-02",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b92e3dfc-611d-4375-b355-3d8ab93fff66/front-1200",
+      "tracks": [
+        {
+          "title": "Abismo E Carnaval",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 200000
+        },
+        {
+          "title": "Sem Saída",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 228000
+        },
+        {
+          "title": "Um Acorde Imperfeito",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 176000
+        },
+        {
+          "title": "Palmeira Brasileira",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 276000
+        },
+        {
+          "title": "Seca E Capim",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 231000
+        },
+        {
+          "title": "Empadinha De Camarão",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 210000
+        },
+        {
+          "title": "Se Fosse Impossível A Canção",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 215000
+        },
+        {
+          "title": "Só",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 328000
+        },
+        {
+          "title": "Num Banco Da Praça",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 310000
+        },
+        {
+          "title": "Baleia De Aquário",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 255000
+        },
+        {
+          "title": "Eu Sou Uma Pedra",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 141000
+        },
+        {
+          "title": "Equivocidade",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "a571d2ca-d709-467f-bc44-64663227b755",
+      "releaseMbid": "77759f14-3ca6-4f2f-808f-7a4830fecb8e",
+      "title": "Melancolia e Carnaval",
+      "type": "ALBUM",
+      "releaseDate": "2014-02-27",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a571d2ca-d709-467f-bc44-64663227b755/front-1200",
+      "tracks": [
+        {
+          "title": "Elegante, Decadente",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 184000
+        },
+        {
+          "title": "Beira Do Cais",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 245000
+        },
+        {
+          "title": "Palavras São Voláteis",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 303000
+        },
+        {
+          "title": "Hino Americano",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 194000
+        },
+        {
+          "title": "Cogito",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 179000
+        },
+        {
+          "title": "Desmanchar",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 222000
+        },
+        {
+          "title": "Aqui Todo Mundo É Preto",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 272000
+        },
+        {
+          "title": "Tudo É Tão Deprê",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 255000
+        },
+        {
+          "title": "Eu Corro",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 271000
+        },
+        {
+          "title": "Curador",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 179000
+        },
+        {
+          "title": "Vamos Esquecer",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 246000
+        }
+      ]
+    },
+    {
+      "mbid": "b7e85d5f-1adb-4eb9-989b-39854686d6fa",
+      "releaseMbid": "307f925f-670d-4d03-8cc5-3f079658c3df",
+      "title": "Desterro E Carnaval",
+      "type": "ALBUM",
+      "releaseDate": "2015",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b7e85d5f-1adb-4eb9-989b-39854686d6fa/front-1200",
+      "tracks": [
+        {
+          "title": "Branco do Brasil",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 233000
+        },
+        {
+          "title": "Pero Juan Caballero",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 336000
+        },
+        {
+          "title": "Deixa",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 257000
+        },
+        {
+          "title": "Atravesso os dias",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 231000
+        },
+        {
+          "title": "Desde quando eu era bem menino",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 281000
+        },
+        {
+          "title": "O que te perturba",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 158000
+        },
+        {
+          "title": "As ondas sonoras",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 285000
+        },
+        {
+          "title": "Longe de você",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 179000
+        },
+        {
+          "title": "Quanto tempo",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 297000
+        },
+        {
+          "title": "Tão perto e longe",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 268000
+        },
+        {
+          "title": "Quando voltava das festas",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 222000
+        },
+        {
+          "title": "Elefante",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 162000
+        },
+        {
+          "title": "Sem você",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 203000
+        },
+        {
+          "title": "Mariana",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 169000
+        },
+        {
+          "title": "Lívia (Delia's gone)",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 195000
+        },
+        {
+          "title": "Eu era feliz",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 232000
+        },
+        {
+          "title": "A árvore",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 317000
+        }
+      ]
+    },
+    {
+      "mbid": "9a5a8825-8f14-4a1e-924b-f0c75e63db83",
+      "releaseMbid": "b54e8bb5-55c9-42c3-9235-9ecc56641264",
+      "title": "Trilogia dos Carnavais (25 Anos de Carreira ou de Lápide)",
+      "type": "ALBUM",
+      "releaseDate": "2016-08-31",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/9a5a8825-8f14-4a1e-924b-f0c75e63db83/front-1200",
+      "tracks": [
+        {
+          "title": "Abismo e Carnaval",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 267387
+        },
+        {
+          "title": "Baleia de Aquário",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 272653
+        },
+        {
+          "title": "Empadinha de Camarão",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 209400
+        },
+        {
+          "title": "Branco do Brasil",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 236773
+        },
+        {
+          "title": "Lívia",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 217173
+        },
+        {
+          "title": "Hino Americano",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 195707
+        },
+        {
+          "title": "Aqui Todo Mundo É Preto",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 271120
+        },
+        {
+          "title": "Quando Voltava das Festas",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 226853
+        },
+        {
+          "title": "O Que Te Perturba",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 193933
+        },
+        {
+          "title": "Atravesso os Dias",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 224893
+        },
+        {
+          "title": "Tarde de Sol no Rio de Janeiro",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 196360
+        },
+        {
+          "title": "Um Acorde Imperfeito",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 191227
+        },
+        {
+          "title": "A Árvore",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 354453
+        },
+        {
+          "title": "Eu e Minha Ex",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 434800
+        }
+      ]
+    },
+    {
+      "mbid": "45d04bf9-edde-4006-8721-418c5f9cc1e9",
+      "releaseMbid": "4a34153d-2139-40c8-b8fb-db1638bfcd93",
+      "title": "Skylab & Tragtenberg – vol. 1",
+      "type": "ALBUM",
+      "releaseDate": "2016-11-03",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Um baê obá",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Bengala de Cego",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "As mesas de bar",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Último trem",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Um Suspiro",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Juazeiro do Brasil",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Hino do Fluminense Futebol Clube",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "A Máscara",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "Gosto de você",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Muito Pouco",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": null
+        },
+        {
+          "title": "Hino Francês",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": null
+        },
+        {
+          "title": "O Gozo",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "0b1a5586-bcc1-4311-bdee-1e9b876b5b41",
+      "releaseMbid": "6b075ffd-35ee-4396-9fce-13fe25047e99",
+      "title": "Skylab & Tragtenberg – vol. 2",
+      "type": "ALBUM",
+      "releaseDate": "2016-11-30",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "A Gente",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Refugiado",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Ir, ri",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Futebol de cego",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "ESCADA DE FRANKFURT",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "No meio",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Noite tranquila",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "As horas pela alameda",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "Suruba alienígena",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Assobio transcendental",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": null
+        },
+        {
+          "title": "Três tristes tigres",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": null
+        },
+        {
+          "title": "Matador de passarinho 2",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": null
+        },
+        {
+          "title": "Eu não moro em lugar nenhum",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": null
+        },
+        {
+          "title": "Nós perdemos todos os amigos",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": null
+        },
+        {
+          "title": "Entre o céu e o mar",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": null
+        },
+        {
+          "title": "Apocalipopótese",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "2a4b8774-d14e-4404-87ba-7cf504048d90",
+      "releaseMbid": "956e4558-0eca-4be8-a0f1-dde7772939a5",
+      "title": "Skylab & Tragtenberg - vol. 3",
+      "type": "ALBUM",
+      "releaseDate": "2018-02-13",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Ogum",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 215000
+        },
+        {
+          "title": "Coitus Interruptus",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 245000
+        },
+        {
+          "title": "Companheiro",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 338000
+        },
+        {
+          "title": "Quando A Noite Chegar",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 581000
+        },
+        {
+          "title": "A Dança Dos Malucos",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 477000
+        },
+        {
+          "title": "Bocetinha De Cocô",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 272000
+        },
+        {
+          "title": "Nova Bossa",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 202000
+        },
+        {
+          "title": "Travesti",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 257000
+        },
+        {
+          "title": "Morto-Vivo",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 93000
+        },
+        {
+          "title": "Palito De Fósforo",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 313000
+        },
+        {
+          "title": "Não Quero",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 35000
+        },
+        {
+          "title": "Índio Infinito",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 202000
+        },
+        {
+          "title": "É Tarde",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 374000
+        },
+        {
+          "title": "Vampiro",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 133000
+        }
+      ]
+    },
+    {
+      "mbid": "98b88fd7-8c8b-413c-8d0b-046783aca1b1",
+      "releaseMbid": "755d1692-d20b-4a2b-8328-7066e82cf433",
+      "title": "O Rei do Cu",
+      "type": "ALBUM",
+      "releaseDate": "2018-05-13",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/98b88fd7-8c8b-413c-8d0b-046783aca1b1/front-1200",
+      "tracks": [
+        {
+          "title": "Eu Durmo Pouco pra Ficar com Sono",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 314154
+        },
+        {
+          "title": "Dedo no Cu e Gritaria",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 280613
+        },
+        {
+          "title": "O Eco da Queda",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 185125
+        },
+        {
+          "title": "O Impossível",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 218875
+        },
+        {
+          "title": "Meu Signo",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 124375
+        },
+        {
+          "title": "O Grande Fim",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 186625
+        },
+        {
+          "title": "Cara de Cu",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 220163
+        },
+        {
+          "title": "Antes Que o Dia Amanheça",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 198384
+        },
+        {
+          "title": "Jeneci, Kassin, Tulipa",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 302907
+        },
+        {
+          "title": "Maré Cheia",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 180921
+        },
+        {
+          "title": "O Preto do Brizola",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 238398
+        },
+        {
+          "title": "O Rei do Cu",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 315345
+        }
+      ]
+    },
+    {
+      "mbid": "b89b5dc3-caff-4fa1-831b-1c8871339279",
+      "releaseMbid": "7f3f0209-6128-4f15-87a1-f4300b7f028c",
+      "title": "Nas Portas do Cu",
+      "type": "ALBUM",
+      "releaseDate": "2019-01-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b89b5dc3-caff-4fa1-831b-1c8871339279/front-1200",
+      "tracks": [
+        {
+          "title": "Nas Canções de Amor",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 559942
+        },
+        {
+          "title": "Sertão",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 198397
+        },
+        {
+          "title": "A Voz do Cu",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 257198
+        },
+        {
+          "title": "Nas Portas do Cu",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 346024
+        },
+        {
+          "title": "Capa Negra",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 309744
+        },
+        {
+          "title": "O Amor Tem Razões",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 260186
+        },
+        {
+          "title": "Sem Freio",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 293661
+        },
+        {
+          "title": "Um Anjo Torto",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 257892
+        },
+        {
+          "title": "Catatau",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 238214
+        },
+        {
+          "title": "Tarde pra Negar",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 351961
+        },
+        {
+          "title": "Venham Saturno, Júpiter",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 208075
+        },
+        {
+          "title": "Eu Vou Botar Silicone na Bunda",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 416478
+        },
+        {
+          "title": "Você Sabe Que É pra Sempre",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 230284
+        }
+      ]
+    },
+    {
+      "mbid": "056cc99a-d39c-4301-9905-dddd62279e6c",
+      "releaseMbid": "55667f58-2aad-41d4-9cc8-4381a30b7492",
+      "title": "Crítica da faculdade do Cu",
+      "type": "ALBUM",
+      "releaseDate": "2019-09-10",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/056cc99a-d39c-4301-9905-dddd62279e6c/front-1200",
+      "tracks": [
+        {
+          "title": "Crítica Da Faculdade Do Cu",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 304000
+        },
+        {
+          "title": "A Marchinha Psicótica De Dr. Soup",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 410000
+        },
+        {
+          "title": "Fundo Do Mar",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 376000
+        },
+        {
+          "title": "Homem Sacer",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 149000
+        },
+        {
+          "title": "Tem Cigarro Aí",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 502000
+        },
+        {
+          "title": "A Máquina Fantástica",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 201000
+        },
+        {
+          "title": "Caetano De Dedé",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 305000
+        },
+        {
+          "title": "Quando Nos Encontramos",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 146000
+        },
+        {
+          "title": "Cabecinha",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 157000
+        },
+        {
+          "title": "Beijar É Mais Importante Que Fuder",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 251000
+        },
+        {
+          "title": "Sem Fim",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 129000
+        },
+        {
+          "title": "Buceta Bradesco",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 397000
+        },
+        {
+          "title": "Minha Escola De Samba",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 136000
+        },
+        {
+          "title": "O Aleijado",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 233000
+        },
+        {
+          "title": "Hieróglifos",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 287000
+        },
+        {
+          "title": "Yemanjá",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 180000
+        },
+        {
+          "title": "Segredos",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 239000
+        }
+      ]
+    },
+    {
+      "mbid": "a564c417-9781-4585-9199-4476364d4c31",
+      "releaseMbid": "c2ca246e-932e-47d9-8c63-a078c9f35c54",
+      "title": "Cosmos",
+      "type": "ALBUM",
+      "releaseDate": "2020-06-24",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Festa Infernal",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 213000
+        },
+        {
+          "title": "Batuque",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 240000
+        },
+        {
+          "title": "A Sombra De Um Horizonte",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 306000
+        },
+        {
+          "title": "Misterioso Trem",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 317000
+        },
+        {
+          "title": "Falo",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 255000
+        },
+        {
+          "title": "Marcha Fúnebre",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 218000
+        },
+        {
+          "title": "O Corpo Real Da Paola",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 357000
+        },
+        {
+          "title": "Capim Gordura",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 245000
+        },
+        {
+          "title": "Teus Olhos",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 278000
+        },
+        {
+          "title": "The Sky",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 303000
+        },
+        {
+          "title": "Tudo Ao Mesmo Tempo",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 241000
+        },
+        {
+          "title": "Depois Da Festa",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 213000
+        }
+      ]
+    },
+    {
+      "mbid": "60581f5f-3aa3-4090-ab04-1e4039426e61",
+      "releaseMbid": "4c81fa64-d808-4f92-8a50-acf2da98ccab",
+      "title": "Os Cosmonautas",
+      "type": "ALBUM",
+      "releaseDate": "2020-10-30",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Uma Canção Impossível",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 273000
+        },
+        {
+          "title": "Nenhum Fio No Labirinto",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 166000
+        },
+        {
+          "title": "Um Quarto Sem Janelas E Uma Cama De Pregos",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 176000
+        },
+        {
+          "title": "A Engrenagem",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 187000
+        },
+        {
+          "title": "Os Cosmonautas",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 324000
+        },
+        {
+          "title": "O Fora",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 258000
+        },
+        {
+          "title": "Poética",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 195000
+        },
+        {
+          "title": "The Jolly Corner",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 141000
+        },
+        {
+          "title": "Todo Mundo",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 353000
+        },
+        {
+          "title": "Le Bateau Ivre",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 306000
+        },
+        {
+          "title": "O Mensageiro",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 338000
+        },
+        {
+          "title": "Álbum De Família",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 215000
+        },
+        {
+          "title": "Rota Em Transe",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 198000
+        },
+        {
+          "title": "Ruídos",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 104000
+        },
+        {
+          "title": "La Reina",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 258000
+        }
+      ]
+    },
+    {
+      "mbid": "75992ae2-18cb-4fb6-84e6-0e6e6ad1b108",
+      "releaseMbid": "f20e7a05-88dc-450d-936b-5a0b7ec18965",
+      "title": "Caos E Cosmos 1",
+      "type": "ALBUM",
+      "releaseDate": "2021-10-01",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Nave Prateada",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 335000
+        },
+        {
+          "title": "As Vozes",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 341000
+        },
+        {
+          "title": "E Recomeça Tudo A Girar",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 300000
+        },
+        {
+          "title": "Eu",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 339000
+        },
+        {
+          "title": "No Vazio Da Canção",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 350000
+        },
+        {
+          "title": "Canção Da Meia Noite",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 271000
+        },
+        {
+          "title": "Quem Será Que Ele É?",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 226000
+        },
+        {
+          "title": "Esse Nosso Papo",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 372000
+        },
+        {
+          "title": "Leste",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 291000
+        },
+        {
+          "title": "Seguem As Fotos",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 308000
+        },
+        {
+          "title": "Cópia Da Cópia",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 255000
+        },
+        {
+          "title": "Nômades",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 316000
+        },
+        {
+          "title": "Ritual",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 230000
+        },
+        {
+          "title": "Cantos De Maldoror",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 362000
+        },
+        {
+          "title": "O Que Tinha Pra Contar",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 233000
+        },
+        {
+          "title": "As Coisas Que Ficaram Por Dizer",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 312000
+        },
+        {
+          "title": "Será Que Tem?",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 265000
+        },
+        {
+          "title": "Uma Partícula",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 292000
+        }
+      ]
+    },
+    {
+      "mbid": "7f50cb71-6eb3-4a64-b246-9da0edd774f1",
+      "releaseMbid": "e51a3acf-0c80-4d1c-a553-67dab9fadab7",
+      "title": "Caos E Cosmos 2",
+      "type": "ALBUM",
+      "releaseDate": "2022-08-05",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Ato Falho",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 336000
+        },
+        {
+          "title": "Um Som Assim",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 205000
+        },
+        {
+          "title": "Arlequim E Pierrot",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 349000
+        },
+        {
+          "title": "A Gente Vai Ficar Surdo 1",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 221000
+        },
+        {
+          "title": "A Flor Do Absinto",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 299000
+        },
+        {
+          "title": "Chorinho Do Sky",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 237000
+        },
+        {
+          "title": "Quando Eu Te Conheci",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 278000
+        },
+        {
+          "title": "Música Suave",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 274000
+        },
+        {
+          "title": "Caos E Cosmos",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 187000
+        },
+        {
+          "title": "Meu Canto Triste",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 225000
+        },
+        {
+          "title": "Terror",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 337000
+        },
+        {
+          "title": "Vi Depois",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 265000
+        },
+        {
+          "title": "Meu Sobrenome É Ninguém",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 249000
+        },
+        {
+          "title": "Planeta Ninguém",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 234000
+        },
+        {
+          "title": "Pedigree",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 406000
+        },
+        {
+          "title": "A Gente Vai Ficar Surdo",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 239000
+        }
+      ]
+    },
+    {
+      "mbid": "9b851df8-aacd-43fb-bb57-283d0b51c1a9",
+      "releaseMbid": "805ebe1e-9d81-41c1-a9cd-afd289c1d277",
+      "title": "Caos e Cosmos 3",
+      "type": "ALBUM",
+      "releaseDate": "2023-09-08",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/9b851df8-aacd-43fb-bb57-283d0b51c1a9/front-1200",
+      "tracks": [
+        {
+          "title": "Rua Barão de Mesquita",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 380032
+        },
+        {
+          "title": "Araguaia",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 123883
+        },
+        {
+          "title": "Rua Tutoia",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 75915
+        },
+        {
+          "title": "Rua Paranapanema",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 19655
+        },
+        {
+          "title": "Canudos",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 53956
+        },
+        {
+          "title": "La Higuera",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 249483
+        },
+        {
+          "title": "Rua da Passagem",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 134864
+        },
+        {
+          "title": "Alameda Casa Branca",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 361420
+        },
+        {
+          "title": "Brotas de Macaubas",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 88427
+        },
+        {
+          "title": "Rua Conselheiro Barros, 18",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 196629
+        },
+        {
+          "title": "Vala de Perus",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 241739
+        },
+        {
+          "title": "Rua Joaquim Palhares",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 55451
+        },
+        {
+          "title": "200 East 10th Street",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 46915
+        },
+        {
+          "title": "Avenida Brasil",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 67548
+        },
+        {
+          "title": "Base Aérea do Galeão",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 285074
+        }
+      ]
+    },
+    {
+      "mbid": "045746a1-e189-451c-ab5a-b5710bc7a293",
+      "releaseMbid": "25d142ed-7985-408d-97b4-ec9123ae7544",
+      "title": "Trilogia do Fim 1",
+      "type": "ALBUM",
+      "releaseDate": "2024-08-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/045746a1-e189-451c-ab5a-b5710bc7a293/front-1200",
+      "tracks": [
+        {
+          "title": "Minha Música",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 218456
+        },
+        {
+          "title": "Corpo Sem Pé, Corpo Sem Cabeça",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 256289
+        },
+        {
+          "title": "Skylab's Wake",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 304912
+        },
+        {
+          "title": "Pas, Pés, Pis, Pós, Pus",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 143375
+        },
+        {
+          "title": "Os Nicks",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 226750
+        },
+        {
+          "title": "Perdição",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 250565
+        },
+        {
+          "title": "Queria Poder",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 485929
+        },
+        {
+          "title": "Suicídio",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 302437
+        },
+        {
+          "title": "Vamos Abrir",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 298246
+        },
+        {
+          "title": "Rainha do Mar",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 361739
+        },
+        {
+          "title": "Vontade",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 223993
+        },
+        {
+          "title": "Africana",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 214372
+        }
+      ]
+    },
+    {
+      "mbid": "4598d92d-1d11-45bf-8f1b-27cfe45a0f0d",
+      "releaseMbid": "bea7884f-9ca1-436a-a567-d4153b434c4c",
+      "title": "Trilogia do Fim 2",
+      "type": "ALBUM",
+      "releaseDate": "2024-08-30",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4598d92d-1d11-45bf-8f1b-27cfe45a0f0d/front-1200",
+      "tracks": [
+        {
+          "title": "O Grande Dia",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 313573
+        },
+        {
+          "title": "A Irmã da Minha Mulher",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 200481
+        },
+        {
+          "title": "A Gente Dançando",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 323804
+        },
+        {
+          "title": "Eu Fiz uma Canção",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 226467
+        },
+        {
+          "title": "O Que Sobrou de Mim",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 187742
+        },
+        {
+          "title": "Eu Não Vou",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 285864
+        },
+        {
+          "title": "Essa Música Já Existe",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 235585
+        },
+        {
+          "title": "Não Se Morre Mais",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 193033
+        },
+        {
+          "title": "O Impossível",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 253099
+        },
+        {
+          "title": "É por Isso que eu Vou",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 214897
+        },
+        {
+          "title": "A Fome, a Beleza e o Caos",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 277051
+        },
+        {
+          "title": "Vou, Vou, Vou",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 355902
+        },
+        {
+          "title": "O que Aconteceu?",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 207521
+        }
+      ]
+    },
+    {
+      "mbid": "b6c74d2a-1c64-4ba8-aecb-0056a11cb229",
+      "releaseMbid": "6d5af39c-1ec3-45b4-bb4b-b73d4a9af77a",
+      "title": "Trilogia do Fim 3",
+      "type": "ALBUM",
+      "releaseDate": "2024-09-13",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b6c74d2a-1c64-4ba8-aecb-0056a11cb229/front-1200",
+      "tracks": [
+        {
+          "title": "A mais Gostosa do Brasil",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 50037
+        },
+        {
+          "title": "Clinâmen",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 62856
+        },
+        {
+          "title": "Afogado",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 66493
+        },
+        {
+          "title": "Quando eu te Vi",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 140699
+        },
+        {
+          "title": "A Lira do Desejo",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 160661
+        },
+        {
+          "title": "Mi Querido Buenos Aires",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 181225
+        },
+        {
+          "title": "Qualquer um",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 223618
+        },
+        {
+          "title": "O Gato e o Rato",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 183944
+        },
+        {
+          "title": "Todo Dia Remedinho",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 215847
+        },
+        {
+          "title": "O Homem-Bomba",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 161454
+        },
+        {
+          "title": "Tem Alguém Aí",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 221970
+        },
+        {
+          "title": "Corpo, Corpo",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 496667
+        },
+        {
+          "title": "Um Salto no Abismo",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 216171
+        },
+        {
+          "title": "As Passagens",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 220404
+        },
+        {
+          "title": "Happy Rap",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 339494
+        },
+        {
+          "title": "Carnaval",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 180217
+        },
+        {
+          "title": "Um Curta de Tarkovski",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 215934
+        }
+      ]
+    },
+    {
+      "mbid": "b37e491d-f795-4645-9564-e11dfb6f132b",
+      "releaseMbid": "75b718f7-cdfe-49a5-ad31-0c2763e37e27",
+      "title": "Trilogia da Putrefação - Volume 1",
+      "type": "ALBUM",
+      "releaseDate": "2025-08-15",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b37e491d-f795-4645-9564-e11dfb6f132b/front-1200",
+      "tracks": [
+        {
+          "title": "Mão no Pau",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 201301
+        },
+        {
+          "title": "Acontecimento",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 202110
+        },
+        {
+          "title": "Ah!",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 132230
+        },
+        {
+          "title": "Eu Preferiria Não",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 282762
+        },
+        {
+          "title": "Comunidade dos sem Comunidade",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 294016
+        },
+        {
+          "title": "As Coxinhas de Catupiry com Camarão",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 247913
+        },
+        {
+          "title": "Édipo",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 329351
+        },
+        {
+          "title": "Fui por Aí",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 186758
+        },
+        {
+          "title": "Toda Mulher Tem Pau",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 237160
+        },
+        {
+          "title": "Você Deu",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 195384
+        },
+        {
+          "title": "Alguma Coisa Caiu",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 255171
+        },
+        {
+          "title": "Eu Vou te Dar",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 327289
+        },
+        {
+          "title": "Matar",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 287614
+        },
+        {
+          "title": "Mesa de Dissecação",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 227742
+        }
+      ]
+    },
+    {
+      "mbid": "526e2ca9-cebe-4706-be31-b010cea907e2",
+      "releaseMbid": "90372ca5-dd12-4d7c-8288-7b3490416c3f",
+      "title": "Trilogia da Putrefação - Volume 2",
+      "type": "ALBUM",
+      "releaseDate": "2025-10-31",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/526e2ca9-cebe-4706-be31-b010cea907e2/front-1200",
+      "tracks": [
+        {
+          "title": "Exu-Mensageiro",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 261446
+        },
+        {
+          "title": "Terras de Algodão",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 141057
+        },
+        {
+          "title": "Beleza Estranha",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 282745
+        },
+        {
+          "title": "Destruição",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 196440
+        },
+        {
+          "title": "Praça Central",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 186233
+        },
+        {
+          "title": "Cadê a Canção?",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 254607
+        },
+        {
+          "title": "Mil e uma Noites",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 170139
+        },
+        {
+          "title": "Nenhuma História",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 271395
+        },
+        {
+          "title": "Odisseu",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 128500
+        },
+        {
+          "title": "A Voz do Enforcado",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 301637
+        }
+      ]
+    },
+    {
+      "mbid": "cedeeab6-72a6-4320-80b9-8745476d2cd7",
+      "releaseMbid": "71eae2eb-9133-4ee6-b238-02a9a73a5725",
+      "title": "Trilogia da Putrefação - Volume 3",
+      "type": "ALBUM",
+      "releaseDate": "2025-11-28",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/cedeeab6-72a6-4320-80b9-8745476d2cd7/front-1200",
+      "tracks": [
+        {
+          "title": "Será Mesmo Assim?",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 267944
+        },
+        {
+          "title": "Falta Pouco",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 201974
+        },
+        {
+          "title": "Quem foi que Disse?",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 231124
+        },
+        {
+          "title": "Espaço Sideral",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 201132
+        },
+        {
+          "title": "Na Cabeça",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 182993
+        },
+        {
+          "title": "A Sombra de um Monstro",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 140223
+        },
+        {
+          "title": "O Morto",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 259862
+        },
+        {
+          "title": "Noite de Festas",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 354230
+        },
+        {
+          "title": "Todo Mundo Comendo Todo Mundo",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 144972
+        },
+        {
+          "title": "Vamos Dançar até Morrer",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 182667
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

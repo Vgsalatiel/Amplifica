@@ -1,0 +1,734 @@
+{
+  "generatedAt": "2026-11-17T13:17:02.027Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "6733a849-0e99-4a82-85ec-dc99b21f5474",
+    "name": "Terno Rei",
+    "slug": "terno-rei",
+    "type": "BAND",
+    "country": "BR",
+    "city": null,
+    "formedYear": 2014,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/6733a849-0e99-4a82-85ec-dc99b21f5474"
+      }
+    ],
+    "genres": [
+      "indie-rock"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "8065e6d9-4c1f-4c80-a03f-8e148de6db75",
+      "releaseMbid": "0787613a-33ef-4946-a0d9-61bb17ce6428",
+      "title": "Metrópole",
+      "type": "EP",
+      "releaseDate": "2012-09-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/8065e6d9-4c1f-4c80-a03f-8e148de6db75/front-1200",
+      "tracks": [
+        {
+          "title": "Entorpecer",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 205000
+        },
+        {
+          "title": "Leve Sentimento",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 214000
+        },
+        {
+          "title": "Estrago",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 223000
+        },
+        {
+          "title": "Metrópole",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 300000
+        },
+        {
+          "title": "Realizei",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 298000
+        },
+        {
+          "title": "Roda do Mundo",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 259000
+        }
+      ]
+    },
+    {
+      "mbid": "7ab4b0a8-2600-453c-937f-d44d00d39dbd",
+      "releaseMbid": "d88e7093-6799-496e-b9da-c149f8f8c1d4",
+      "title": "Vigilia",
+      "type": "ALBUM",
+      "releaseDate": "2014-04-22",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/7ab4b0a8-2600-453c-937f-d44d00d39dbd/front-1200",
+      "tracks": [
+        {
+          "title": "Manga Rosa",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 278000
+        },
+        {
+          "title": "Luz de Bem",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 202000
+        },
+        {
+          "title": "Ela",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 199000
+        },
+        {
+          "title": "O Fogo Queimaria",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 240000
+        },
+        {
+          "title": "Passagem",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 202000
+        },
+        {
+          "title": "Dia de Treino",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 207000
+        },
+        {
+          "title": "Quando o Dia Raiou",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 306000
+        },
+        {
+          "title": "Salto da Pedra da Gavea",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 230000
+        },
+        {
+          "title": "Esconderijo",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 404000
+        },
+        {
+          "title": "Saudade",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 324000
+        }
+      ]
+    },
+    {
+      "mbid": "f091363f-0d64-4e90-9577-d1aba2da8e66",
+      "releaseMbid": "c5b319f3-2b43-4ad6-8d37-cb78c0311567",
+      "title": "Trem Leva Minhas Pernas",
+      "type": "EP",
+      "releaseDate": "2015-02-20",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f091363f-0d64-4e90-9577-d1aba2da8e66/front-1200",
+      "tracks": [
+        {
+          "title": "Trem Leva Minhas Pernas",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 189000
+        },
+        {
+          "title": "Neblina",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 228000
+        }
+      ]
+    },
+    {
+      "mbid": "33132ac1-4e3a-4369-a07b-373b1a756e69",
+      "releaseMbid": "eeec8a94-6b10-408d-8279-9a74744d1537",
+      "title": "Essa Noite Bateu Com Um Sonho",
+      "type": "ALBUM",
+      "releaseDate": "2016-11-11",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/33132ac1-4e3a-4369-a07b-373b1a756e69/front-1200",
+      "tracks": [
+        {
+          "title": "Sinais",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Criança",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Depressão na Pista de Dança",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Circulares",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Litoral",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "A Prosa",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Para o Centro",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Da Janela",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "Olha Você",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Chegadas e Partidas",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": null
+        },
+        {
+          "title": "Essa Noite Bateu Com Um Sonho",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": null
+        },
+        {
+          "title": "Desconhecido",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "0f4ab125-d319-452b-a894-fbf8533fc424",
+      "releaseMbid": "7276753f-aa17-4712-8927-f8086394a1f5",
+      "title": "Low / Live (Ao Vivo)",
+      "type": "LIVE",
+      "releaseDate": "2017-09-05",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "A Prosa (Ao Vivo)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 190002
+        },
+        {
+          "title": "Circulares (Ao Vivo)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 184754
+        },
+        {
+          "title": "Criança (Ao Vivo)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 266986
+        },
+        {
+          "title": "Litoral (Ao Vivo)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 152458
+        }
+      ]
+    },
+    {
+      "mbid": "47dc6c98-5264-4859-8ca8-ca57651b5fd4",
+      "releaseMbid": "ce5bb814-916b-4911-8965-800596583093",
+      "title": "Violeta",
+      "type": "ALBUM",
+      "releaseDate": "2019-02-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/47dc6c98-5264-4859-8ca8-ca57651b5fd4/front-1200",
+      "tracks": [
+        {
+          "title": "Yoko",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 225000
+        },
+        {
+          "title": "Dia Lindo",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 110000
+        },
+        {
+          "title": "Solidão de Volta",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 162000
+        },
+        {
+          "title": "93",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 156000
+        },
+        {
+          "title": "Medo",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 194000
+        },
+        {
+          "title": "Estava Ali",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 163000
+        },
+        {
+          "title": "Amor-Perfeito",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 166000
+        },
+        {
+          "title": "São Paulo",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 171000
+        },
+        {
+          "title": "Luzes de Natal",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 164000
+        },
+        {
+          "title": "Roda Gigante",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 154000
+        },
+        {
+          "title": "Vento na Cara",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 208000
+        }
+      ]
+    },
+    {
+      "mbid": "2fa5a5bc-984a-4b84-9213-e9588f10f4eb",
+      "releaseMbid": "f5f279c5-0c17-4a76-aa9e-a661cc288d57",
+      "title": "Acústico",
+      "type": "LIVE",
+      "releaseDate": "2020-10-02",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "São Paulo (Acústico)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 196106
+        },
+        {
+          "title": "Dia Lindo (Acústico)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 112106
+        },
+        {
+          "title": "Medo (Acústico)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 192128
+        },
+        {
+          "title": "Luzes de Natal (Acústico)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 163285
+        },
+        {
+          "title": "Eu Amo Você (Acústico)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 280853
+        }
+      ]
+    },
+    {
+      "mbid": "f0071c1b-026d-4243-801b-6a8a5a6665a0",
+      "releaseMbid": "04d550a9-84ef-4dcc-b52d-41a4b11f573d",
+      "title": "Conexão Balaclava: Samuel Rosa e Terno Rei",
+      "type": "EP",
+      "releaseDate": "2021-10-04",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f0071c1b-026d-4243-801b-6a8a5a6665a0/front-1200",
+      "tracks": [
+        {
+          "title": "Balada do Amor Inabalável",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 210706
+        },
+        {
+          "title": "Medo",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 199729
+        },
+        {
+          "title": "Resposta",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 233193
+        }
+      ]
+    },
+    {
+      "mbid": "32992621-57fd-4e33-b5d5-379e2253d005",
+      "releaseMbid": "c8471882-7bc2-4b7f-b959-f90d7274e3ea",
+      "title": "Gêmeos",
+      "type": "ALBUM",
+      "releaseDate": "2022-03-09",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/32992621-57fd-4e33-b5d5-379e2253d005/front-1200",
+      "tracks": [
+        {
+          "title": "Esperando Você",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 227000
+        },
+        {
+          "title": "Dias da Juventude",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 175000
+        },
+        {
+          "title": "Sorte Ainda",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 163759
+        },
+        {
+          "title": "Difícil",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 186466
+        },
+        {
+          "title": "Brutal",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 160000
+        },
+        {
+          "title": "Internet",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 166000
+        },
+        {
+          "title": "Aviões",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 166242
+        },
+        {
+          "title": "Só Eu Sei",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 153000
+        },
+        {
+          "title": "Retrovisor",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 165000
+        },
+        {
+          "title": "Isabella",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 230002
+        },
+        {
+          "title": "Trailers",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 159000
+        },
+        {
+          "title": "Olha Só",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 166000
+        }
+      ]
+    },
+    {
+      "mbid": "f611bfac-241e-4281-b33b-07c690231ee5",
+      "releaseMbid": "18914bbf-8fcd-4684-81d5-3d6c9b86e931",
+      "title": "Gêmeos Live Session",
+      "type": "LIVE",
+      "releaseDate": "2022-12-15",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Brutal",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 171520
+        },
+        {
+          "title": "Isabella",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 280374
+        },
+        {
+          "title": "Retrovisor",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 166485
+        },
+        {
+          "title": "Esperando Você",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 227328
+        },
+        {
+          "title": "Sorte Ainda",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 165916
+        },
+        {
+          "title": "Difícil",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 186282
+        }
+      ]
+    },
+    {
+      "mbid": "c537e8ab-5738-4a89-a1e5-f0a32e37c199",
+      "releaseMbid": "6bef76f3-1bd7-499f-817c-8bcd89257d86",
+      "title": "B-Sides Gêmeos",
+      "type": "EP",
+      "releaseDate": "2023-07-10",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c537e8ab-5738-4a89-a1e5-f0a32e37c199/front-1200",
+      "tracks": [
+        {
+          "title": "Mercado",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 186000
+        },
+        {
+          "title": "Chuva",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 159000
+        },
+        {
+          "title": "Mantra",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 229000
+        },
+        {
+          "title": "Cores Vivas",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 180000
+        }
+      ]
+    },
+    {
+      "mbid": "4a83013c-2f6e-498e-b4a0-229b601cb805",
+      "releaseMbid": "5a108dd1-b6ed-44aa-bebc-cd116e7924df",
+      "title": "Nenhuma Estrela",
+      "type": "ALBUM",
+      "releaseDate": "2025-04-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4a83013c-2f6e-498e-b4a0-229b601cb805/front-1200",
+      "tracks": [
+        {
+          "title": "Peito",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 223000
+        },
+        {
+          "title": "Nada Igual",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 162000
+        },
+        {
+          "title": "Nenhuma Estrela",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 190000
+        },
+        {
+          "title": "Próxima Parada",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 172000
+        },
+        {
+          "title": "Casa Vazia",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 146000
+        },
+        {
+          "title": "Relógio",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 165000
+        },
+        {
+          "title": "Pega",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 179000
+        },
+        {
+          "title": "Programação Normal",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 240000
+        },
+        {
+          "title": "32",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 145000
+        },
+        {
+          "title": "Coração Partido",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 191000
+        },
+        {
+          "title": "Tempo",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 232000
+        },
+        {
+          "title": "Viver de Amor",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 165000
+        },
+        {
+          "title": "Acordo",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 212000
+        }
+      ]
+    },
+    {
+      "mbid": "e7c1664a-a301-4e9a-82ea-b3dd65dbecb4",
+      "releaseMbid": "51ff2437-ecd0-4415-a6ef-f9d379ea47da",
+      "title": "Terno Rei ilumina Sonastério",
+      "type": "LIVE",
+      "releaseDate": "2025-11-14",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Nada Igual",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 163066
+        },
+        {
+          "title": "Nenhuma Estrela",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 231168
+        },
+        {
+          "title": "Viver de Amor",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 189604
+        },
+        {
+          "title": "Peito",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 221312
+        },
+        {
+          "title": "Relógio",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 164261
+        },
+        {
+          "title": "Pega",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 201892
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

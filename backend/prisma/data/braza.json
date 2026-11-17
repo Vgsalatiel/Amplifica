@@ -1,0 +1,617 @@
+{
+  "generatedAt": "2026-11-17T13:18:22.931Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "b69da71f-9afb-41dc-84d2-5c4cac399930",
+    "name": "BRAZA",
+    "slug": "braza",
+    "type": "BAND",
+    "country": "BR",
+    "city": null,
+    "formedYear": 2016,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/b69da71f-9afb-41dc-84d2-5c4cac399930"
+      }
+    ],
+    "genres": [
+      "alternative-rock"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "4239dfcb-6be4-47c5-ab89-4c569248b230",
+      "releaseMbid": "bb940823-d4ea-4b76-b80c-7e438c703bea",
+      "title": "BRAZA",
+      "type": "ALBUM",
+      "releaseDate": "2016-03-17",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4239dfcb-6be4-47c5-ab89-4c569248b230/front-1200",
+      "tracks": [
+        {
+          "title": "Segue o Baile",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 150000
+        },
+        {
+          "title": "Oxalá",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 200000
+        },
+        {
+          "title": "Normal",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 209000
+        },
+        {
+          "title": "Embrasa",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 205000
+        },
+        {
+          "title": "Easy Road",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 184000
+        },
+        {
+          "title": "Pedro Pedreiro Parou de Esperar",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 171000
+        },
+        {
+          "title": "Além",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 223000
+        },
+        {
+          "title": "We Are Terceiro Mundo",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 167000
+        },
+        {
+          "title": "Hoan vs Hozin",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 153000
+        },
+        {
+          "title": "Subindo Santa",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 185000
+        },
+        {
+          "title": "Tanto",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 234000
+        },
+        {
+          "title": "Jaya",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 249000
+        }
+      ]
+    },
+    {
+      "mbid": "cf40814c-fe46-488a-9a06-0927e3781870",
+      "releaseMbid": "81fa1bf4-3e3f-4460-bf1d-d5663b19b192",
+      "title": "Tijolo por Tijolo",
+      "type": "ALBUM",
+      "releaseDate": "2017-06-02",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/cf40814c-fe46-488a-9a06-0927e3781870/front-1200",
+      "tracks": [
+        {
+          "title": "Ande",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 240000
+        },
+        {
+          "title": "Selecta",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 233000
+        },
+        {
+          "title": "Moldado em Barro",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 171000
+        },
+        {
+          "title": "Ela Me Chamou Pra Dançar um Ragga",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 164000
+        },
+        {
+          "title": "Tijolo por Tijolo",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 214000
+        },
+        {
+          "title": "Chão Chão Terra Terra",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 190000
+        },
+        {
+          "title": "Dubrasilis",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 172000
+        },
+        {
+          "title": "Racha a Canela",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 181000
+        },
+        {
+          "title": "Exército Sem Farda",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 159000
+        },
+        {
+          "title": "Qual é o Rosto de Deus?",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 217000
+        }
+      ]
+    },
+    {
+      "mbid": "3f5370d3-9d2b-4a74-9099-046b21f326c2",
+      "releaseMbid": "1bc66d96-c136-414a-9e48-4552d93bcc6b",
+      "title": "Liquidificador",
+      "type": "EP",
+      "releaseDate": "2018-05-15",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/3f5370d3-9d2b-4a74-9099-046b21f326c2/front-1200",
+      "tracks": [
+        {
+          "title": "Chama",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 194000
+        },
+        {
+          "title": "Fé no Afeto",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 165000
+        },
+        {
+          "title": "Free Som",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 185000
+        },
+        {
+          "title": "Liquidificador",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 254000
+        },
+        {
+          "title": "Sob o Céu",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 243000
+        }
+      ]
+    },
+    {
+      "mbid": "6c679954-b3d7-439f-8153-418a76a4482c",
+      "releaseMbid": "7ba251c2-5d0c-49f1-9ecb-980b4984b852",
+      "title": "Braza - COLAB Records",
+      "type": "LIVE",
+      "releaseDate": "2018-10-05",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/6c679954-b3d7-439f-8153-418a76a4482c/front-1200",
+      "tracks": [
+        {
+          "title": "Chama",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 189269
+        },
+        {
+          "title": "Qual É o Rosto de Deus",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 211125
+        },
+        {
+          "title": "Sob o Céu",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 249640
+        }
+      ]
+    },
+    {
+      "mbid": "e06d7095-fbe1-431c-bcfc-785022a28bbb",
+      "releaseMbid": "f0bd14b0-caee-4d1b-b8c1-013d0329cc2d",
+      "title": "Francisca La Braza",
+      "type": "EP",
+      "releaseDate": "2018-12-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/e06d7095-fbe1-431c-bcfc-785022a28bbb/front-1200",
+      "tracks": [
+        {
+          "title": "Batida do Amor",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 234000
+        },
+        {
+          "title": "Áudio do Macaxeira",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 57000
+        },
+        {
+          "title": "Calor da Rua",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 192000
+        },
+        {
+          "title": "Áudio do Seb",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 15000
+        },
+        {
+          "title": "Liquidificador",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 222000
+        }
+      ]
+    },
+    {
+      "mbid": "46a0fee5-7c68-4161-98a4-117832ae0817",
+      "releaseMbid": "cce5343a-8cc0-40a4-8736-d714e9de67ac",
+      "title": "BRAZA no Estúdio Showlivre",
+      "type": "LIVE",
+      "releaseDate": "2019-03-08",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/46a0fee5-7c68-4161-98a4-117832ae0817/front-1200",
+      "tracks": [
+        {
+          "title": "Liquidificador (Ao Vivo)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 373048
+        },
+        {
+          "title": "Segue o Baile (Ao Vivo)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 174565
+        },
+        {
+          "title": "Selecta (Ao Vivo)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 224343
+        },
+        {
+          "title": "Normal (Ao Vivo)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 221378
+        },
+        {
+          "title": "Oxalá (Ao Vivo)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 196865
+        },
+        {
+          "title": "Ande (Ao Vivo)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 245698
+        },
+        {
+          "title": "Embrasa (Ao Vivo)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 227590
+        },
+        {
+          "title": "Ela Me Chamou para Dançar um Ragga (Ao Vivo)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 187591
+        },
+        {
+          "title": "Qual É o Rosto de Deus (Ao Vivo)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 249527
+        },
+        {
+          "title": "Fé no Afeto (Ao Vivo)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 238916
+        },
+        {
+          "title": "Moldado em Barro (Ao Vivo)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 223030
+        }
+      ]
+    },
+    {
+      "mbid": "52130c84-a72a-4cf0-8fa0-44cc9137730d",
+      "releaseMbid": "3558feb8-6ccc-4e7c-9e48-d7c815210f17",
+      "title": "Remixes, Vol. 1",
+      "type": "COMPILATION",
+      "releaseDate": "2020-02-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/52130c84-a72a-4cf0-8fa0-44cc9137730d/front-1200",
+      "tracks": [
+        {
+          "title": "Liquidificador (Gabriel Souto remix)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 236000
+        },
+        {
+          "title": "Segue o baile (Ruxell remix)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 168000
+        },
+        {
+          "title": "Chama (Papatinho remix)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 170000
+        },
+        {
+          "title": "Ande / Ela me chamou para dançar um ragga (Mateo Piracés-Ugarte remix)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 226000
+        },
+        {
+          "title": "Easy Road (Buguinha dub)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 214000
+        },
+        {
+          "title": "Exército sem farda (Victor Rice remix)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 139000
+        },
+        {
+          "title": "Normal (Sirsir remix)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 222000
+        },
+        {
+          "title": "Fé no afeto (Tropkillaz remix)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 138000
+        },
+        {
+          "title": "Racha a canela (DJ Flavya remix)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 274000
+        },
+        {
+          "title": "Selecta Dub (Mangaio remix)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 238000
+        }
+      ]
+    },
+    {
+      "mbid": "5564d104-d382-4157-ad74-3d791a53d74f",
+      "releaseMbid": "746c235a-eede-4874-b6cc-d0dd18e6c010",
+      "title": "EITA",
+      "type": "ALBUM",
+      "releaseDate": "2022-02-18",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/5564d104-d382-4157-ad74-3d791a53d74f/front-1200",
+      "tracks": [
+        {
+          "title": "Avenida",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 180000
+        },
+        {
+          "title": "Cartas do Tarô",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 158000
+        },
+        {
+          "title": "Lá Adiante",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 185000
+        },
+        {
+          "title": "Paciência",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 213000
+        },
+        {
+          "title": "Andei Andei (Incidental: Le Bolívia)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 252000
+        },
+        {
+          "title": "Mais Que Folclore",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 195000
+        },
+        {
+          "title": "Olinda",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 223000
+        },
+        {
+          "title": "Vai Surgir",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 163000
+        }
+      ]
+    },
+    {
+      "mbid": "0cf1a557-fed3-45e6-8f5b-2b04a93b005b",
+      "releaseMbid": "3ecf6247-e368-4896-9950-f62feb80df03",
+      "title": "BRAZA ilumina Sonastério",
+      "type": "LIVE",
+      "releaseDate": "2022-06-30",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0cf1a557-fed3-45e6-8f5b-2b04a93b005b/front-1200",
+      "tracks": [
+        {
+          "title": "Selecta (Ao Vivo no Sonastério)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 245556
+        },
+        {
+          "title": "Mais Que Folclore (Ao Vivo no Sonastério)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 213900
+        },
+        {
+          "title": "Cartas do Tarô (Ao Vivo no Sonastério)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 206550
+        },
+        {
+          "title": "Qual É o Rosto de Deus? (Ao Vivo no Sonastério)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 224606
+        },
+        {
+          "title": "Andei Andei (Incidental: Le Bolívia) (Ao Vivo no Sonastério)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 245795
+        },
+        {
+          "title": "Segue o Baile (Ao Vivo no Sonastério)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 184221
+        }
+      ]
+    },
+    {
+      "mbid": "84ac8214-fa70-4a17-bff0-a203d06651d2",
+      "releaseMbid": "72983023-f0b6-4e8e-bd3c-7b021e95dd92",
+      "title": "Baile Cítrico Utrópico Solar",
+      "type": "ALBUM",
+      "releaseDate": "2025-06-06",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/84ac8214-fa70-4a17-bff0-a203d06651d2/front-1200",
+      "tracks": [
+        {
+          "title": "Magnética",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 196000
+        },
+        {
+          "title": "A Massa",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 187000
+        },
+        {
+          "title": "Ziriguidum",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 186000
+        },
+        {
+          "title": "Vai Dar Bom",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 199000
+        },
+        {
+          "title": "Aos Poucos Eu Vou",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 207000
+        },
+        {
+          "title": "Dame Dame",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 180000
+        },
+        {
+          "title": "Raio de Sol",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 206000
+        },
+        {
+          "title": "Te Encontrar",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 177000
+        },
+        {
+          "title": "Bem Devagar",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 197000
+        },
+        {
+          "title": "Procurando Um Lugar",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 180000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

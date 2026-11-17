@@ -1,0 +1,270 @@
+{
+  "generatedAt": "2026-11-17T13:27:21.829Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "8d9debce-c0f4-4853-bb4b-658282345ff5",
+    "name": "Fake Number",
+    "slug": "fake-number",
+    "type": "BAND",
+    "country": null,
+    "city": null,
+    "formedYear": null,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/8d9debce-c0f4-4853-bb4b-658282345ff5"
+      }
+    ],
+    "genres": [
+      "emo"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "c4e3c099-634c-4ca4-a87f-7badfc62918e",
+      "releaseMbid": "d4113fd9-f037-46b6-97eb-e25dcbfc169b",
+      "title": "Cinco faces de um segredo",
+      "type": "ALBUM",
+      "releaseDate": "2007-04-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c4e3c099-634c-4ca4-a87f-7badfc62918e/front-1200",
+      "tracks": [
+        {
+          "title": "Fake Number",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 27000
+        },
+        {
+          "title": "Segredos que guardei",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 244000
+        },
+        {
+          "title": "Conto de farsas",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 197000
+        },
+        {
+          "title": "Procurei em sonhos",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 174000
+        },
+        {
+          "title": "Aquela música",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 244000
+        },
+        {
+          "title": "Apenas mais um",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 236000
+        },
+        {
+          "title": "Mais do que palavras",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 238000
+        },
+        {
+          "title": "Não quero seu mal (Fake)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 203000
+        },
+        {
+          "title": "Idéias falsas",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 181000
+        },
+        {
+          "title": "Como se você estivesse aqui",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 215000
+        },
+        {
+          "title": "Não finja se importar",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 196000
+        },
+        {
+          "title": "A cada dia",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 181000
+        },
+        {
+          "title": "Platônico",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 166000
+        }
+      ]
+    },
+    {
+      "mbid": "d490ca61-7af0-422c-9c19-62c4b66f1c07",
+      "releaseMbid": "4fc5280c-eda5-42a8-aa28-b802f950af39",
+      "title": "Fake Number",
+      "type": "ALBUM",
+      "releaseDate": "2010-04-20",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Você Vai Lembrar",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 206280
+        },
+        {
+          "title": "Platônico",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 164347
+        },
+        {
+          "title": "Segredos Que Guardei",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 254507
+        },
+        {
+          "title": "Quando Chegar",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 152867
+        },
+        {
+          "title": "Aquela Música",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 241053
+        },
+        {
+          "title": "Esquecer",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 197240
+        },
+        {
+          "title": "O Tempo",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 176893
+        },
+        {
+          "title": "4 Mil Horas",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 231507
+        },
+        {
+          "title": "Perto de Mim",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 196093
+        },
+        {
+          "title": "Ignorar",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 188413
+        },
+        {
+          "title": "Te Deixar Ir",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 176667
+        },
+        {
+          "title": "Melhor pra Nós",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 177067
+        },
+        {
+          "title": "Um Final",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 169480
+        }
+      ]
+    },
+    {
+      "mbid": "20b698f0-53bd-4aaa-b1f5-d93eb349164b",
+      "releaseMbid": "bdb50b22-b7cf-41fa-ace5-aad049cc251c",
+      "title": "Contra o Tempo",
+      "type": "ALBUM",
+      "releaseDate": "2012-07-02",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Contra o Tempo",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 204253
+        },
+        {
+          "title": "Primeira Lembrança",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 202907
+        },
+        {
+          "title": "Outro Mundo",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 186667
+        },
+        {
+          "title": "Pode Ir",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 195933
+        },
+        {
+          "title": "Último Trem",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 190733
+        },
+        {
+          "title": "Meu Futuro",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 192467
+        },
+        {
+          "title": "Não Volto Mais",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 175038
+        },
+        {
+          "title": "O Que Faltava em Mim",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 197378
+        },
+        {
+          "title": "Segunda Chance",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 197880
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

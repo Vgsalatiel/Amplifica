@@ -1,0 +1,406 @@
+{
+  "generatedAt": "2026-11-17T13:13:13.121Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "775ad383-ac2d-479a-af9d-b561442cb749",
+    "name": "Sleep Token",
+    "slug": "sleep-token",
+    "type": "BAND",
+    "country": "GB",
+    "city": "London",
+    "formedYear": 2016,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/775ad383-ac2d-479a-af9d-b561442cb749"
+      }
+    ],
+    "genres": [
+      "alternative-rock",
+      "metal"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "8b013b39-e624-4141-8a66-ba7caa271e92",
+      "releaseMbid": "7e630e9a-2127-4181-9132-bc1aed93efcd",
+      "title": "One",
+      "type": "EP",
+      "releaseDate": "2016-12-02",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/8b013b39-e624-4141-8a66-ba7caa271e92/front-1200",
+      "tracks": [
+        {
+          "title": "Thread the Needle",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 396000
+        },
+        {
+          "title": "Fields of Elation",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 271250
+        },
+        {
+          "title": "When the Bough Breaks",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 455474
+        }
+      ]
+    },
+    {
+      "mbid": "96dec693-abc1-480b-8ab4-848eb08ffb82",
+      "releaseMbid": "90698f24-dde9-497b-bc40-514887c4d98a",
+      "title": "Two",
+      "type": "EP",
+      "releaseDate": "2017-07-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/96dec693-abc1-480b-8ab4-848eb08ffb82/front-1200",
+      "tracks": [
+        {
+          "title": "Calcutta",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 413666
+        },
+        {
+          "title": "Nazareth",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 336840
+        },
+        {
+          "title": "Jericho",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 317093
+        }
+      ]
+    },
+    {
+      "mbid": "42eccef3-fd51-4317-8992-b8965bd67808",
+      "releaseMbid": "0c8ed9b3-0330-4139-b656-29b6bf746238",
+      "title": "Sundowning",
+      "type": "ALBUM",
+      "releaseDate": "2019-11-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/42eccef3-fd51-4317-8992-b8965bd67808/front-1200",
+      "tracks": [
+        {
+          "title": "The Night Does Not Belong to God",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 303507
+        },
+        {
+          "title": "The Offering",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 349653
+        },
+        {
+          "title": "Levitate",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 298453
+        },
+        {
+          "title": "Dark Signs",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 268400
+        },
+        {
+          "title": "Higher",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 321707
+        },
+        {
+          "title": "Take Aim",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 219480
+        },
+        {
+          "title": "Give",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 236307
+        },
+        {
+          "title": "Gods",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 205480
+        },
+        {
+          "title": "Sugar",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 292000
+        },
+        {
+          "title": "Say That You Will",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 303053
+        },
+        {
+          "title": "Drag Me Under",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 236760
+        },
+        {
+          "title": "Blood Sport",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 247200
+        }
+      ]
+    },
+    {
+      "mbid": "ac9d3d59-77dd-4af2-9e1e-5740abbc3a23",
+      "releaseMbid": "1793ac58-977e-4d6f-9fcc-fdcb046cc0a1",
+      "title": "This Place Will Become Your Tomb",
+      "type": "ALBUM",
+      "releaseDate": "2021-09-24",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ac9d3d59-77dd-4af2-9e1e-5740abbc3a23/front-1200",
+      "tracks": [
+        {
+          "title": "Atlantic",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 293000
+        },
+        {
+          "title": "Hypnosis",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 335960
+        },
+        {
+          "title": "Mine",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 296533
+        },
+        {
+          "title": "Like That",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 214906
+        },
+        {
+          "title": "The Love You Want",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 263320
+        },
+        {
+          "title": "Fall for Me",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 146213
+        },
+        {
+          "title": "Alkaline",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 214106
+        },
+        {
+          "title": "Distraction",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 262413
+        },
+        {
+          "title": "Descending",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 278106
+        },
+        {
+          "title": "Telomeres",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 307480
+        },
+        {
+          "title": "High Water",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 313280
+        },
+        {
+          "title": "Missing Limbs",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 200946
+        }
+      ]
+    },
+    {
+      "mbid": "cffd54b1-1ce7-4a99-a0a9-3947a08137df",
+      "releaseMbid": "030c3a9c-abae-45a3-9063-0c78ed893a04",
+      "title": "Take Me Back to Eden",
+      "type": "ALBUM",
+      "releaseDate": "2023-05-19",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/cffd54b1-1ce7-4a99-a0a9-3947a08137df/front-1200",
+      "tracks": [
+        {
+          "title": "Chokehold",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 304000
+        },
+        {
+          "title": "The Summoning",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 395000
+        },
+        {
+          "title": "Granite",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 225000
+        },
+        {
+          "title": "Aqua Regia",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 236000
+        },
+        {
+          "title": "Vore",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 339000
+        },
+        {
+          "title": "Ascensionism",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 428000
+        },
+        {
+          "title": "Are You Really Okay?",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 306000
+        },
+        {
+          "title": "The Apparition",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 268000
+        },
+        {
+          "title": "DYWTYLM",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 240000
+        },
+        {
+          "title": "Rain",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 252000
+        },
+        {
+          "title": "Take Me Back to Eden",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 500000
+        },
+        {
+          "title": "Euclid",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 313000
+        }
+      ]
+    },
+    {
+      "mbid": "c7298ce6-88d0-4b44-be45-808ab8132a5e",
+      "releaseMbid": "09eb430c-afe4-44d1-a9c5-5e45ad959a67",
+      "title": "Even in Arcadia",
+      "type": "ALBUM",
+      "releaseDate": "2025-05-09",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c7298ce6-88d0-4b44-be45-808ab8132a5e/front-1200",
+      "tracks": [
+        {
+          "title": "Look to Windward",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 466453
+        },
+        {
+          "title": "Emergence",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 386253
+        },
+        {
+          "title": "Past Self",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 214653
+        },
+        {
+          "title": "Dangerous",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 251373
+        },
+        {
+          "title": "Caramel",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 290106
+        },
+        {
+          "title": "Even in Arcadia",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 268373
+        },
+        {
+          "title": "Provider",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 365906
+        },
+        {
+          "title": "Damocles",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 264826
+        },
+        {
+          "title": "Gethsemane",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 383400
+        },
+        {
+          "title": "Infinite Baths",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 503280
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

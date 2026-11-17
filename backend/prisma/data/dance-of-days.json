@@ -1,0 +1,1370 @@
+{
+  "generatedAt": "2026-11-17T13:25:47.942Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "d7aac6a6-e438-4fe4-a801-6cd37b1bbbf8",
+    "name": "Dance of Days",
+    "slug": "dance-of-days",
+    "type": "BAND",
+    "country": "BR",
+    "city": null,
+    "formedYear": null,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/d7aac6a6-e438-4fe4-a801-6cd37b1bbbf8"
+      }
+    ],
+    "genres": [
+      "melodic-hardcore",
+      "emo"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "daceda80-7276-4c9d-9033-5c37a5354bc7",
+      "releaseMbid": "f0fa8299-84a3-4b84-afe1-32b4949d4f30",
+      "title": "6 First Hits",
+      "type": "ALBUM",
+      "releaseDate": "1997",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/daceda80-7276-4c9d-9033-5c37a5354bc7/front-1200",
+      "tracks": [
+        {
+          "title": "I Thought It Was Only a Brand New Start",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 120960
+        },
+        {
+          "title": "Left",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 105173
+        },
+        {
+          "title": "Fallen",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 111786
+        },
+        {
+          "title": "Monsters Under Your Bed",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 100346
+        },
+        {
+          "title": "Plague",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 152933
+        },
+        {
+          "title": "Lastkissmissed",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 152426
+        }
+      ]
+    },
+    {
+      "mbid": "61ca6a51-a5bb-3b0d-baf2-24870f7de87a",
+      "releaseMbid": "45e155ff-60b9-4818-b293-51b935bd0572",
+      "title": "A História Não Tem Fim",
+      "type": "ALBUM",
+      "releaseDate": "2001",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/61ca6a51-a5bb-3b0d-baf2-24870f7de87a/front-1200",
+      "tracks": [
+        {
+          "title": "Se Essas Paredes Falassem",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 207293
+        },
+        {
+          "title": "Ícaro Sobre as Chamas",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 165786
+        },
+        {
+          "title": "Corvos Do Paraiso",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 98146
+        },
+        {
+          "title": "Vinde a Mim",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 188760
+        },
+        {
+          "title": "Flores Aos Rebeldes Que Falharam",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 157346
+        },
+        {
+          "title": "Carro Bomba",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 168000
+        },
+        {
+          "title": "Acho Que É Sua Vez De Jogar",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 147280
+        },
+        {
+          "title": "Me Leve Às Estrelas",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 256493
+        },
+        {
+          "title": "Balada Do Corcel Verde Velho",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 182800
+        },
+        {
+          "title": "Os Mesmo Dias",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 235906
+        },
+        {
+          "title": "Mais Um Café Gelado Por Favor",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 154946
+        },
+        {
+          "title": "Apertem Os Cintos (Estamos Perdendo a Pressão Na Aeronave)",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 212306
+        },
+        {
+          "title": "Astro Boy",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 163106
+        },
+        {
+          "title": "Instantes",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 210586
+        },
+        {
+          "title": "Suburbia, 1986",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 312040
+        }
+      ]
+    },
+    {
+      "mbid": "bc9709ab-7de2-3310-b940-700b4749300d",
+      "releaseMbid": "7a57178d-0ff9-47a9-8024-0f9b4d9bd042",
+      "title": "Coração De Tróia",
+      "type": "ALBUM",
+      "releaseDate": "2002",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/bc9709ab-7de2-3310-b940-700b4749300d/front-1200",
+      "tracks": [
+        {
+          "title": "Macaco Com Navalha",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 149093
+        },
+        {
+          "title": "Nos Olhos De Guernica (Um Curto Verão Em La Mancha)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 147386
+        },
+        {
+          "title": "Correção",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 114880
+        },
+        {
+          "title": "Tochas Para Joana",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 104480
+        },
+        {
+          "title": "E Só o Inferno E Mais Nada",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 149146
+        },
+        {
+          "title": "O Rastro De Teseu",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 185653
+        },
+        {
+          "title": "Pregos, Cruzes E Um Saco De Moedas",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 210293
+        },
+        {
+          "title": "Buck Rogers E o Eterno Retorno",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 128093
+        },
+        {
+          "title": "Tijolos Amarelos",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 92653
+        },
+        {
+          "title": "Caulfield",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 184800
+        },
+        {
+          "title": "Horizontes De Outono",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 240920
+        }
+      ]
+    },
+    {
+      "mbid": "f2e5cf99-eecb-4f7a-930d-1f9aa994c7d2",
+      "releaseMbid": "ff328a5b-b8c4-436a-94fd-418d97dfe092",
+      "title": "A Noite Da Vez do Brasil",
+      "type": "LIVE",
+      "releaseDate": "2002",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Vinde a Mim/ Flores Aos Rebeldes Que Falharam",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 331978
+        },
+        {
+          "title": "Se Estas Paredes Falassem/ Ícaro Sobre as Chamas",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 392294
+        },
+        {
+          "title": "Balada do Corcel Verde Velho",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 170907
+        }
+      ]
+    },
+    {
+      "mbid": "9e6b9d10-026e-3dca-8ef8-60dc8a5046a4",
+      "releaseMbid": "c05e0d58-3e7b-415f-a317-354d9d03a3be",
+      "title": "A Valsa Das Águas Vivas",
+      "type": "ALBUM",
+      "releaseDate": "2004",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Um Dia Comum",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 188546
+        },
+        {
+          "title": "Vai Ver é Assim Mesmo",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 99933
+        },
+        {
+          "title": "Adeus Sofia",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 238573
+        },
+        {
+          "title": "Os Funerais Do Coelho Branco",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 168786
+        },
+        {
+          "title": "A Valsa de Águas-Vivas",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 162986
+        },
+        {
+          "title": "Cem Mil Bolas de Neve",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 134933
+        },
+        {
+          "title": "Quando o Veneno Sobe a Lança",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 181853
+        },
+        {
+          "title": "Dorian",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 187920
+        },
+        {
+          "title": "Quando o Dia Aquece Sementes Mortas (A Amarga História Do Rei de Nada)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 221680
+        },
+        {
+          "title": "Um Canto Para Caronte (Ou de Como a Mantícora Aprendeu a Voar)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 206720
+        },
+        {
+          "title": "Antítese",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 205253
+        },
+        {
+          "title": "Nada Demais",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 153306
+        },
+        {
+          "title": "Trabalhando Em Um Bom Título (Mas Que Não Seja Repetitivo)",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 149760
+        },
+        {
+          "title": "A Vitória (Ou Coisa Que o Valha)",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 196506
+        }
+      ]
+    },
+    {
+      "mbid": "e8a3dc66-7d16-4e1e-911f-46bf0d2df353",
+      "releaseMbid": "c37b81a7-9539-4abb-98b2-6b2f4349eb08",
+      "title": "Brasil 2000 - Ao Vivo",
+      "type": "LIVE",
+      "releaseDate": "2004",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Flores Aos Rebeldes Que Falharam",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 145774
+        },
+        {
+          "title": "Adeus Sofia",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 242613
+        },
+        {
+          "title": "A Valsa Das Águas Vivas",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 149437
+        },
+        {
+          "title": "Ziggy Stardust",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 167735
+        },
+        {
+          "title": "Horizontes De Outono",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 221767
+        },
+        {
+          "title": "Os Funerais Do Coelho Branco",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 165564
+        },
+        {
+          "title": "É Só O Inferno E Mais Nada",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 135993
+        },
+        {
+          "title": "Pregos, Cruzes E Um Saco De Moedas",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 204782
+        },
+        {
+          "title": "A Vitoria Ou Coisa Que O Valha",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 171560
+        }
+      ]
+    },
+    {
+      "mbid": "a0b125a7-914c-358a-8033-d5584dd6b49d",
+      "releaseMbid": "7766fe0c-9cd5-4407-8b9f-940d706eb9cd",
+      "title": "6 First Hits Plus Rare Tracks",
+      "type": "ALBUM",
+      "releaseDate": "2004-10-20",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a0b125a7-914c-358a-8033-d5584dd6b49d/front-1200",
+      "tracks": [
+        {
+          "title": "I Thought It Was Only a Brand New Start",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 120960
+        },
+        {
+          "title": "Left",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 105173
+        },
+        {
+          "title": "Fallen",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 111786
+        },
+        {
+          "title": "Monsters Under Your Bed",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 100346
+        },
+        {
+          "title": "Plague",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 152933
+        },
+        {
+          "title": "Lastkissmissed",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 152426
+        },
+        {
+          "title": "As I Fall (The 7th Hit)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 149933
+        },
+        {
+          "title": "Celbrate Isolation",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 181866
+        },
+        {
+          "title": "After Taste (Endpoint)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 124040
+        },
+        {
+          "title": "Nietzsche Is Dead",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 132960
+        },
+        {
+          "title": "Bad Seed",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 193800
+        },
+        {
+          "title": "Crush Us All (Seaweed)",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 232533
+        },
+        {
+          "title": "Ceremony of the Mercy Master",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 137933
+        }
+      ]
+    },
+    {
+      "mbid": "05fc93aa-7f9f-3dc8-a453-6922a462fa38",
+      "releaseMbid": "43174d1b-a40e-4c7d-b570-3104e0be11df",
+      "title": "Lírios Aos Anjos",
+      "type": "ALBUM",
+      "releaseDate": "2005",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Linda, a Dor Nao E Tao Glamourosa Assim Afinal",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 207906
+        },
+        {
+          "title": "Inimigo Eu, Devorador De Pecados",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 168173
+        },
+        {
+          "title": "Lírios Aos Anjos",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 217093
+        },
+        {
+          "title": "Mil Glorias",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 189746
+        },
+        {
+          "title": "Quem Vai Limpar o Quarto De Gregor Samsa",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 207960
+        },
+        {
+          "title": "Vaudeville",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 228080
+        },
+        {
+          "title": "O Vampiro E o Helianto",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 225146
+        },
+        {
+          "title": "Interlúdio Para Um Bar De Estrada Por 33 Anos Fora Do Mapa",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 165800
+        },
+        {
+          "title": "Por Onde Estive",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 237200
+        },
+        {
+          "title": "Selene",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 155693
+        },
+        {
+          "title": "Alice Narcoléptica",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 95813
+        },
+        {
+          "title": "Camposanto 300 Por Hora (Mr Hyde Mode on)",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 137333
+        }
+      ]
+    },
+    {
+      "mbid": "a769e2ba-99cb-45e8-b350-130c10c000ef",
+      "releaseMbid": "0b85191b-30a1-4290-b232-d71b7daefc7b",
+      "title": "Faixas Raras",
+      "type": "COMPILATION",
+      "releaseDate": "2007",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Com Você Nao Vou Ter Medo",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 196585
+        },
+        {
+          "title": "Tudo Que Ficou",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 203690
+        },
+        {
+          "title": "Sera Que A Gente Consegue Fazer Um 77",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 156276
+        },
+        {
+          "title": "À Porta ao Lado (Astro Boy II)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 173885
+        }
+      ]
+    },
+    {
+      "mbid": "a9d18332-9ad1-48ca-8ebc-be97b8555fdb",
+      "releaseMbid": "7eb8bbc6-bbd5-4a63-8701-c4e237308e6e",
+      "title": "Ao Vivo no showlivre.com",
+      "type": "LIVE",
+      "releaseDate": "2007",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a9d18332-9ad1-48ca-8ebc-be97b8555fdb/front-1200",
+      "tracks": [
+        {
+          "title": "Buck Rogers e o Eterno Retorno",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 114430
+        },
+        {
+          "title": "Esta música me diz tanto que nem sei como não tem meu nome",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 146561
+        },
+        {
+          "title": "Instantes",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 195645
+        },
+        {
+          "title": "Mais um Café Gelado por Favor",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 141780
+        },
+        {
+          "title": "Me Leva Pra Sair",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 189375
+        },
+        {
+          "title": "Me Leve às Estrelas",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 228298
+        },
+        {
+          "title": "Quando o Veneno Sobe a Lança",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 172709
+        },
+        {
+          "title": "Trabalhando em um bom título",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 157375
+        }
+      ]
+    },
+    {
+      "mbid": "f6637581-395a-4bbe-ab6a-bc83a14dff54",
+      "releaseMbid": "df32f4c0-1a02-4f5b-8d3a-1d3db2dfc9fc",
+      "title": "Kazebre - Ao Vivo",
+      "type": "LIVE",
+      "releaseDate": "2007",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Se Essas Paredes Falassem",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 205832
+        },
+        {
+          "title": "Com Você Não Vou Ter Medo",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 181774
+        },
+        {
+          "title": "Lirios aos Anjos",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 216334
+        },
+        {
+          "title": "A Valsa de Águas Vivas",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 154423
+        },
+        {
+          "title": "Mil Glorias",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 194965
+        },
+        {
+          "title": "Adeus Sofia",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 253166
+        },
+        {
+          "title": "Os Funerais do Coelho Branco",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 174250
+        },
+        {
+          "title": "Linda a Dor Não e Tão Glamourosa",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 204866
+        },
+        {
+          "title": "Vinde a Mim",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 181878
+        },
+        {
+          "title": "Interludio Para Um Bar de Estrada",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 163540
+        },
+        {
+          "title": "Balada do Corcel Verde Velho",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 176784
+        },
+        {
+          "title": "Vai Ver e Assim Mesmo",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 104843
+        },
+        {
+          "title": "Me Leve as Estrelas",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 262126
+        },
+        {
+          "title": "Camposanto",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 136164
+        },
+        {
+          "title": "Tochas Para Joana",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 107090
+        },
+        {
+          "title": "Correção",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 111452
+        }
+      ]
+    },
+    {
+      "mbid": "ced9048d-b1c0-3408-b16a-c99209816292",
+      "releaseMbid": "b15c50c7-d62e-4162-b953-06111726339a",
+      "title": "Insônia 2008",
+      "type": "ALBUM",
+      "releaseDate": "2007-12-18",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ced9048d-b1c0-3408-b16a-c99209816292/front-1200",
+      "tracks": [
+        {
+          "title": "Prelúdio ao testamento do apanhador (daqui até Granadinas)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Eu só quero evitar",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Jogando pra perder",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Com você não vou ter medo",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Sigo o coração que diz que não sabe mas é segredo",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "A Frequência",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Essa música me diz tanto que nem sei como não tem seu nome",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "O Melhor dançarino de São Paulo",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "Parque de giz",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Teorias de viver",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": null
+        },
+        {
+          "title": "Insônia",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": null
+        },
+        {
+          "title": "Me leva pra sair",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": null
+        },
+        {
+          "title": "Comerciais de Cigarro",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": null
+        },
+        {
+          "title": "Stella Maris",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "49986c6a-f16c-4b9f-81ac-374587aa0766",
+      "releaseMbid": "ae947eb9-a3a3-44ff-a080-febf16f22cf9",
+      "title": "Canções Proibidas - Ao Vivo Hangar 110",
+      "type": "LIVE",
+      "releaseDate": "2009",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/49986c6a-f16c-4b9f-81ac-374587aa0766/front-1200",
+      "tracks": [
+        {
+          "title": "Prelúdio ao Testamento do Apanhador (Ao Vivo)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 198986
+        },
+        {
+          "title": "Insônia (Ao Vivo)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 193173
+        },
+        {
+          "title": "Vinde a Mim (Ao Vivo)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 172173
+        },
+        {
+          "title": "Lírios aos Anjos (Ao Vivo)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 201280
+        },
+        {
+          "title": "Eu Só Quero Evitar (Ao Vivo)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 192346
+        },
+        {
+          "title": "Essa Música Me Diz Tanto Que Nem Sei Como Não Tem Meu Nome (Ao Vivo)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 138120
+        },
+        {
+          "title": "Vai Ver É Assim Mesmo (Ao Vivo)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 98640
+        },
+        {
+          "title": "Interlúdio para um Bar de Estrada por 33 Anos Fora do Mapa (Ao Vivo)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 154946
+        },
+        {
+          "title": "Se Essas Paredes Falassem (Ao Vivo)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 189146
+        },
+        {
+          "title": "Trabalhando em um Bom Título (Mas, Que Não Seja Repetitivo) (Ao Vivo)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 141933
+        },
+        {
+          "title": "O Vampiro e o Helianto (Ao Vivo)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 222293
+        },
+        {
+          "title": "Me Leva pra Sair (Ao Vivo)",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 172400
+        },
+        {
+          "title": "Ao Que É Bom Nessa Vida (Ao Vivo)",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 172693
+        },
+        {
+          "title": "Me Leve às Estrelas (Ao Vivo)",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 244573
+        },
+        {
+          "title": "É Só o Inferno e Mais Nada (Ao Vivo)",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 132360
+        },
+        {
+          "title": "Quem Vai Limpar o Quarto de Gregor Samsa? (Ao Vivo)",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 195773
+        },
+        {
+          "title": "Linda, a Dor Não É Tão Glamurosa Assim Afinal (Ao Vivo)",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 189773
+        },
+        {
+          "title": "A Valsa de Águas Vivas (Ao Vivo)",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 142826
+        },
+        {
+          "title": "Adeus Sofia (Ao Vivo)",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 229146
+        },
+        {
+          "title": "Com Você Não Vou Ter Medo (Ao Vivo)",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 180520
+        },
+        {
+          "title": "Mais um Café Gelado por Favor (Ao Vivo)",
+          "discNumber": 1,
+          "position": 21,
+          "durationMs": 176693
+        },
+        {
+          "title": "A Vitória (Ou Coisa Que o Valha) (Ao Vivo)",
+          "discNumber": 1,
+          "position": 22,
+          "durationMs": 164933
+        },
+        {
+          "title": "Correção (Ao Vivo)",
+          "discNumber": 1,
+          "position": 23,
+          "durationMs": 109826
+        },
+        {
+          "title": "I Thought It Was Only a Brand New Start (Ao Vivo)",
+          "discNumber": 1,
+          "position": 24,
+          "durationMs": 156573
+        }
+      ]
+    },
+    {
+      "mbid": "a3c21f0f-c21e-4a27-8655-59bf2027764a",
+      "releaseMbid": "c91e3577-805d-474b-9934-10504881c578",
+      "title": "A Dança das Estações",
+      "type": "ALBUM",
+      "releaseDate": "2011",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Ao Que É Bom Nessa Vida",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Sobre Promessas E Tubarões",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Qual É o Seu Lugar?",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "A Dança Das Estações",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Pra Onde Vou",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Dragões Em Guerra",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Esboço de Uma Teoria Falida",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Os Funerais Do Coelho Branco II (Em Linha Reta)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "Te Prometo Estar Sempre Por Aqui",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Tudo Que Ficou",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "c662fe4b-1c3e-4279-b4f3-570ae76d1ddc",
+      "releaseMbid": "94c0e8b8-50da-4e6d-bb47-997beae81fec",
+      "title": "Na Estrada",
+      "type": "ALBUM",
+      "releaseDate": "2013",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c662fe4b-1c3e-4279-b4f3-570ae76d1ddc/front-1200",
+      "tracks": [
+        {
+          "title": "Dance, Rádio, Dance!",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 176986
+        },
+        {
+          "title": "Clandestino",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 102306
+        },
+        {
+          "title": "E Quando For Rimar Amor Vai Ser Pra Rádio AM",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 218000
+        },
+        {
+          "title": "Na Estrada",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 241320
+        }
+      ]
+    },
+    {
+      "mbid": "4d382e7a-e0ef-4986-9328-07dd04cf8938",
+      "releaseMbid": "4c1fa9d2-90ce-4963-85ce-e11609fe344d",
+      "title": "Não Maltrates Teu Coração",
+      "type": "ALBUM",
+      "releaseDate": "2014",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4d382e7a-e0ef-4986-9328-07dd04cf8938/front-1200",
+      "tracks": [
+        {
+          "title": "Não Maltrates Teu Coração",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 256186
+        },
+        {
+          "title": "Tenho Sede",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 215480
+        },
+        {
+          "title": "Não Chores Pequeno Anjo",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 218053
+        },
+        {
+          "title": "Todo Mundo Fala Sobre O Tempo... Nós Não",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 140786
+        }
+      ]
+    },
+    {
+      "mbid": "f026cc85-0e13-4434-9937-1f6949d85cfe",
+      "releaseMbid": "e7389479-faa7-4760-a8e5-c3ed4edf2ae0",
+      "title": "O Melhor Tempo Da Sua Vida",
+      "type": "ALBUM",
+      "releaseDate": "2014",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f026cc85-0e13-4434-9937-1f6949d85cfe/front-1200",
+      "tracks": [
+        {
+          "title": "O Melhor Tempo Da Sua Vida",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 179746
+        },
+        {
+          "title": "Caro Combatente,",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 222146
+        },
+        {
+          "title": "Os Corações Mal Comportados Nem Sempre São Doentes",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 166346
+        },
+        {
+          "title": "Eu Não Vou Mais Perder Tempo Tendo Medo De Não Ser Bom O Suficiente Pra Você",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 151000
+        }
+      ]
+    },
+    {
+      "mbid": "56a5b7eb-ace9-4746-8436-50b0e5a9b660",
+      "releaseMbid": "b0c32e49-19e3-4cfe-b4f2-d20d7e45ec55",
+      "title": "Acontece Agora",
+      "type": "EP",
+      "releaseDate": "2015",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/56a5b7eb-ace9-4746-8436-50b0e5a9b660/front-1200",
+      "tracks": [
+        {
+          "title": "Eu Vou Lutar Outra Vez",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 178000
+        },
+        {
+          "title": "Tudo Que Eu Preciso",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 164160
+        },
+        {
+          "title": "Acontece Agora, Ou A Carta De Adeus Do Garoto Unabomber",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 233000
+        },
+        {
+          "title": "The Boy On The Road",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 155280
+        }
+      ]
+    },
+    {
+      "mbid": "e458ec1a-6623-4e0c-929a-616ffe41082d",
+      "releaseMbid": "62a0d024-5489-47f3-a500-2c7680d4ada2",
+      "title": "Unplugged",
+      "type": "ALBUM",
+      "releaseDate": "2019",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Quando For Rimar Amor Vai Ser Pra Rádio",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 217823
+        },
+        {
+          "title": "Comerciais De Cigarro",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 240654
+        },
+        {
+          "title": "Me Leve Às Estrelas",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 265757
+        },
+        {
+          "title": "A Vitória",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 186450
+        }
+      ]
+    },
+    {
+      "mbid": "6be985b5-8752-45c7-a3bc-5b9976b512a1",
+      "releaseMbid": "db56c57a-691d-4af8-ae0b-cec89b646272",
+      "title": "Dance Finite",
+      "type": "ALBUM",
+      "releaseDate": "2025-12-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/6be985b5-8752-45c7-a3bc-5b9976b512a1/front-1200",
+      "tracks": [
+        {
+          "title": "F.T.F.A.",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 264094
+        },
+        {
+          "title": "Hound of Love",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 287800
+        },
+        {
+          "title": "Silent Scream",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 96322
+        },
+        {
+          "title": "Faces of Another",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 321391
+        },
+        {
+          "title": "It Rains",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 243715
+        },
+        {
+          "title": "E.A.O (Elegy & Ode)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 357249
+        },
+        {
+          "title": "Shadows Play",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 224823
+        },
+        {
+          "title": "Forever War",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 297064
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

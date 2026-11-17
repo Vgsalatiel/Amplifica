@@ -1,0 +1,748 @@
+{
+  "generatedAt": "2026-11-17T13:07:30.906Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "6eaab7b4-f2cb-4c80-9b36-7e7d5c2fa8c5",
+    "name": "Fit for a King",
+    "slug": "fit-for-a-king",
+    "type": "BAND",
+    "country": "US",
+    "city": "Tyler",
+    "formedYear": 2007,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/6eaab7b4-f2cb-4c80-9b36-7e7d5c2fa8c5"
+      }
+    ],
+    "genres": [
+      "metalcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "04e221d2-40ab-4d21-9a36-9bb719022962",
+      "releaseMbid": "cc72e9e2-89ef-4874-bc81-845deb3ac945",
+      "title": "Fit for a King",
+      "type": "EP",
+      "releaseDate": "2008",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/04e221d2-40ab-4d21-9a36-9bb719022962/front-1200",
+      "tracks": [
+        {
+          "title": "Intro",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 66000
+        },
+        {
+          "title": "Oh Crap! We’re in Neutral",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 199000
+        },
+        {
+          "title": "Bleed Turtle Bleed",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 202000
+        },
+        {
+          "title": "I’m Not Superstitious, But I’m a Little Stitious",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 262000
+        },
+        {
+          "title": "Rocko the Snake Charmer",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 267000
+        },
+        {
+          "title": "I Stole the Cats Pajamas",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 170000
+        }
+      ]
+    },
+    {
+      "mbid": "62de7c9c-b1d8-4524-b136-65a4339bdb7d",
+      "releaseMbid": "85baec1e-b07f-41da-81fd-671e86108a26",
+      "title": "Awaken the Vesper",
+      "type": "EP",
+      "releaseDate": "2009",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/62de7c9c-b1d8-4524-b136-65a4339bdb7d/front-1200",
+      "tracks": [
+        {
+          "title": "Towers of Babylon",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 190000
+        },
+        {
+          "title": "Awaken the Vesper",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 211000
+        },
+        {
+          "title": "Blood of the Saints",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 255000
+        }
+      ]
+    },
+    {
+      "mbid": "0c284ab1-f007-4a0e-bf4a-3823598f36d9",
+      "releaseMbid": "aade12a8-ece3-4ad8-9ce0-2fed6fe2e785",
+      "title": "Descendants",
+      "type": "ALBUM",
+      "releaseDate": "2011-09-23",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0c284ab1-f007-4a0e-bf4a-3823598f36d9/front-1200",
+      "tracks": [
+        {
+          "title": "Il Diluvio",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 28000
+        },
+        {
+          "title": "Ancient Waters",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 231000
+        },
+        {
+          "title": "Buried",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 232000
+        },
+        {
+          "title": "Parallels",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 198000
+        },
+        {
+          "title": "The Architect",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 221000
+        },
+        {
+          "title": "Descendants",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 140000
+        },
+        {
+          "title": "Hollow Eyes",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 209000
+        },
+        {
+          "title": "The Roots Within",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 174000
+        },
+        {
+          "title": "The Faint, the Desolate",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 122000
+        },
+        {
+          "title": "Messenger, Messenger",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 182000
+        },
+        {
+          "title": "A Love That Transcends Understanding",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 182000
+        },
+        {
+          "title": "Unchanging",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 298000
+        }
+      ]
+    },
+    {
+      "mbid": "24cf9d9a-7303-43a4-af40-53170bcd296d",
+      "releaseMbid": "48d36b14-20e3-47d2-b42a-5d70cf149490",
+      "title": "Creation|Destruction",
+      "type": "ALBUM",
+      "releaseDate": "2013-03-12",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Creation",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 29000
+        },
+        {
+          "title": "Warpath",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 195000
+        },
+        {
+          "title": "Hollow King (Sound of the End)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 216000
+        },
+        {
+          "title": "Broken Fame",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 199000
+        },
+        {
+          "title": "Bitter End",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 197000
+        },
+        {
+          "title": "Skin & Bones",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 226000
+        },
+        {
+          "title": "The Resistance",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 256000
+        },
+        {
+          "title": "Identity",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 185000
+        },
+        {
+          "title": "The Lioness",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 200000
+        },
+        {
+          "title": "Eyes to See",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 182000
+        },
+        {
+          "title": "Destruction",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 207000
+        }
+      ]
+    },
+    {
+      "mbid": "120ceeb7-9ef9-4d0c-9a47-d8ca393b5961",
+      "releaseMbid": "3921012c-1316-4155-bb2c-4f7358d660cb",
+      "title": "Slave to Nothing",
+      "type": "ALBUM",
+      "releaseDate": "2014-10-14",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/120ceeb7-9ef9-4d0c-9a47-d8ca393b5961/front-1200",
+      "tracks": [
+        {
+          "title": "Kill the Pain",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 200000
+        },
+        {
+          "title": "Young & Undeserving",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 233000
+        },
+        {
+          "title": "Slave to Nothing",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 236000
+        },
+        {
+          "title": "Break Away",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 220000
+        },
+        {
+          "title": "Hooked",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 192000
+        },
+        {
+          "title": "Selfish Eyes",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 222000
+        },
+        {
+          "title": "A Greater Sense of Self",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 241000
+        },
+        {
+          "title": "Forever Unbroken",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 194000
+        },
+        {
+          "title": "Impostor",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 183000
+        },
+        {
+          "title": "Cleanse My Soul",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 205000
+        },
+        {
+          "title": "The Final Thoughts of a Dying Man",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 250000
+        }
+      ]
+    },
+    {
+      "mbid": "16480195-598d-4797-a24b-140c29710ce6",
+      "releaseMbid": "5b2f6471-1d58-4dc1-babf-fef04ea46550",
+      "title": "Deathgrip",
+      "type": "ALBUM",
+      "releaseDate": "2016-10-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/16480195-598d-4797-a24b-140c29710ce6/front-1200",
+      "tracks": [
+        {
+          "title": "The End’s Beginning",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 48320
+        },
+        {
+          "title": "Pissed Off",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 211054
+        },
+        {
+          "title": "Dead Memory",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 253279
+        },
+        {
+          "title": "Cold Room",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 171632
+        },
+        {
+          "title": "Disease",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 211988
+        },
+        {
+          "title": "Shadows & Echoes",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 226565
+        },
+        {
+          "title": "More Than Nameless",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 193589
+        },
+        {
+          "title": "We Are All Lost",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 247209
+        },
+        {
+          "title": "Unclaimed, Unloved",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 180588
+        },
+        {
+          "title": "Stacking Bodies",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 193862
+        },
+        {
+          "title": "Deathgrip",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 254998
+        }
+      ]
+    },
+    {
+      "mbid": "64211841-ede8-46af-80de-7e7a2e56182f",
+      "releaseMbid": "0e250d3b-f0cb-4738-b344-f65e595710a3",
+      "title": "Dark Skies",
+      "type": "ALBUM",
+      "releaseDate": "2018-09-14",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Engraved",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 296025
+        },
+        {
+          "title": "The Price of Agony",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 287999
+        },
+        {
+          "title": "Backbreaker",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 170475
+        },
+        {
+          "title": "Anthem of the Defeated",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 157380
+        },
+        {
+          "title": "When Everything Means Nothing",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 231588
+        },
+        {
+          "title": "Youth Division",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 255800
+        },
+        {
+          "title": "Shattered Glass",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 214515
+        },
+        {
+          "title": "Tower of Pain",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 269965
+        },
+        {
+          "title": "Debts of the Soul",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 158087
+        },
+        {
+          "title": "Oblivion",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 266851
+        }
+      ]
+    },
+    {
+      "mbid": "04fabed4-4f74-4a49-965f-2c4f6f746a17",
+      "releaseMbid": "5dcb71f1-4f1d-487e-9d96-06b413f749db",
+      "title": "The Path",
+      "type": "ALBUM",
+      "releaseDate": "2020-09-18",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/04fabed4-4f74-4a49-965f-2c4f6f746a17/front-1200",
+      "tracks": [
+        {
+          "title": "The Face of Hate",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 221213
+        },
+        {
+          "title": "Breaking the Mirror",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 214226
+        },
+        {
+          "title": "Annihilation",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 190160
+        },
+        {
+          "title": "The Path",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 246706
+        },
+        {
+          "title": "Prophet",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 257279
+        },
+        {
+          "title": "Locked (in My Head)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 186026
+        },
+        {
+          "title": "God of Fire",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 210706
+        },
+        {
+          "title": "Stockholm",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 150186
+        },
+        {
+          "title": "The Louder Voice",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 271493
+        },
+        {
+          "title": "Vendetta",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 187146
+        }
+      ]
+    },
+    {
+      "mbid": "e8422ee5-2a0b-4ea8-b4ba-a59d5ddd9657",
+      "releaseMbid": "3f640df1-6160-45fc-9d30-c5e1760ccdc7",
+      "title": "Guardians of the Path",
+      "type": "EP",
+      "releaseDate": "2021-07-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/e8422ee5-2a0b-4ea8-b4ba-a59d5ddd9657/front-1200",
+      "tracks": [
+        {
+          "title": "Defender",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 261000
+        },
+        {
+          "title": "God of Fire",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 210000
+        },
+        {
+          "title": "Provision",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 280000
+        },
+        {
+          "title": "When Everything Means Nothing",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 232000
+        }
+      ]
+    },
+    {
+      "mbid": "ed63d483-856e-411c-8201-66e5426e2b54",
+      "releaseMbid": "7c2e6bb1-0525-4568-b66c-37062a6e4c09",
+      "title": "The Hell We Create",
+      "type": "ALBUM",
+      "releaseDate": "2022-10-28",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ed63d483-856e-411c-8201-66e5426e2b54/front-1200",
+      "tracks": [
+        {
+          "title": "The Hell We Create",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 254533
+        },
+        {
+          "title": "End (The Other Side)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 230613
+        },
+        {
+          "title": "Falling Through the Sky",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 261333
+        },
+        {
+          "title": "Sink Below",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 188093
+        },
+        {
+          "title": "Reaper",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 199493
+        },
+        {
+          "title": "Times Like This",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 249093
+        },
+        {
+          "title": "Eyes Roll Back",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 209080
+        },
+        {
+          "title": "Fracture",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 204000
+        },
+        {
+          "title": "Reaching Out",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 261426
+        },
+        {
+          "title": "What You Left Behind",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 244693
+        }
+      ]
+    },
+    {
+      "mbid": "9ba04d4f-30cc-4bfa-b979-5123b22ec6d9",
+      "releaseMbid": "9a32414f-645b-4c72-bfdb-6ee7a31304be",
+      "title": "Lonely God",
+      "type": "ALBUM",
+      "releaseDate": "2025-08-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/9ba04d4f-30cc-4bfa-b979-5123b22ec6d9/front-1200",
+      "tracks": [
+        {
+          "title": "Begin the Sacrifice",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 238000
+        },
+        {
+          "title": "The Temple",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 225000
+        },
+        {
+          "title": "Extinction",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 132000
+        },
+        {
+          "title": "No Tomorrow",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 251000
+        },
+        {
+          "title": "Shelter",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 206000
+        },
+        {
+          "title": "Monolith",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 167000
+        },
+        {
+          "title": "Lonely God",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 197000
+        },
+        {
+          "title": "Between Us",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 220000
+        },
+        {
+          "title": "Sentient",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 220000
+        },
+        {
+          "title": "Blue Venom",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 112000
+        },
+        {
+          "title": "TECHNIUM",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 184000
+        },
+        {
+          "title": "Witness the End",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 248000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

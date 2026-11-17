@@ -1,0 +1,1214 @@
+{
+  "generatedAt": "2026-11-17T13:09:58.881Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "ba147ea0-60c4-4a40-9da6-0d5c2b2e7b03",
+    "name": "As I Lay Dying",
+    "slug": "as-i-lay-dying",
+    "type": "BAND",
+    "country": "US",
+    "city": "San Diego",
+    "formedYear": 2000,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/ba147ea0-60c4-4a40-9da6-0d5c2b2e7b03"
+      }
+    ],
+    "genres": [
+      "metalcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "145975b8-5a52-38a4-b265-aa88be5599f2",
+      "releaseMbid": "e40b910f-9a78-43c3-b132-36c871e1aff4",
+      "title": "Beneath the Encasing of Ashes",
+      "type": "ALBUM",
+      "releaseDate": "2001-06-12",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Beneath the Encasing of Ashes",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 183520
+        },
+        {
+          "title": "Torn Within",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 106266
+        },
+        {
+          "title": "Forced to Die",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 163480
+        },
+        {
+          "title": "A Breath in the Eyes of Eternity",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 178093
+        },
+        {
+          "title": "Blood Turned to Tears",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 98213
+        },
+        {
+          "title": "The Voices That Betray Me",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 178306
+        },
+        {
+          "title": "When This World Fades",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 152400
+        },
+        {
+          "title": "A Long March",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 116933
+        },
+        {
+          "title": "Surrounded",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 50653
+        },
+        {
+          "title": "Refined by Your Embrace",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 104586
+        },
+        {
+          "title": "The Innocence Spilled",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 216706
+        },
+        {
+          "title": "Behind Me Lies Another Fallen Soldier",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 253053
+        }
+      ]
+    },
+    {
+      "mbid": "cbffa30d-470e-3bf3-af86-eb58611abbcb",
+      "releaseMbid": "cd219be9-780d-4838-a133-efd0b12f80f9",
+      "title": "As I Lay Dying / American Tragedy",
+      "type": "COMPILATION",
+      "releaseDate": "2002-06-18",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/cbffa30d-470e-3bf3-af86-eb58611abbcb/front-1200",
+      "tracks": [
+        {
+          "title": "Illusions",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 236000
+        },
+        {
+          "title": "The Beginning",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 167986
+        },
+        {
+          "title": "Reinvention",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 296413
+        },
+        {
+          "title": "The Pain of Separation",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 169720
+        },
+        {
+          "title": "Forever",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 255720
+        },
+        {
+          "title": "[untitled]",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 73546
+        },
+        {
+          "title": "Choking of a Dream",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 108653
+        },
+        {
+          "title": "World Intruded",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 245240
+        },
+        {
+          "title": "Spite and Splinter",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 191693
+        },
+        {
+          "title": "Porcelain Angels",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 122973
+        },
+        {
+          "title": "Moments and in Between",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 306054
+        }
+      ]
+    },
+    {
+      "mbid": "03a6ca4c-a46c-3766-b96a-9032257201bc",
+      "releaseMbid": "dbbf3486-b3ce-4046-b46e-0a6f00b0d536",
+      "title": "Frail Words Collapse",
+      "type": "ALBUM",
+      "releaseDate": "2003-07-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/03a6ca4c-a46c-3766-b96a-9032257201bc/front-1200",
+      "tracks": [
+        {
+          "title": "94 Hours",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 190693
+        },
+        {
+          "title": "Falling Upon Deaf Ears",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 151800
+        },
+        {
+          "title": "Forever",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 282533
+        },
+        {
+          "title": "Collision",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 191173
+        },
+        {
+          "title": "Distance Is Darkness",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 158533
+        },
+        {
+          "title": "Behind Me Lies Another Fallen Soldier",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 182986
+        },
+        {
+          "title": "Undefined",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 136680
+        },
+        {
+          "title": "A Thousand Steps",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 105666
+        },
+        {
+          "title": "The Beginning",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 209200
+        },
+        {
+          "title": "Song 10",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 256000
+        },
+        {
+          "title": "The Pain of Separation",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 177466
+        },
+        {
+          "title": "Elegy",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 287426
+        }
+      ]
+    },
+    {
+      "mbid": "fca9f5a9-34ca-39f4-bfae-11a88e533401",
+      "releaseMbid": "5bc16dee-3e93-46d9-b9e4-ae6a898a7d1d",
+      "title": "Shadows Are Security",
+      "type": "ALBUM",
+      "releaseDate": "2005-06-14",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/fca9f5a9-34ca-39f4-bfae-11a88e533401/front-1200",
+      "tracks": [
+        {
+          "title": "Meaning in Tragedy",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 192626
+        },
+        {
+          "title": "Confined",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 191533
+        },
+        {
+          "title": "Losing Sight",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 204373
+        },
+        {
+          "title": "The Darkest Nights",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 231826
+        },
+        {
+          "title": "Empty Hearts",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 168906
+        },
+        {
+          "title": "Reflection",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 191533
+        },
+        {
+          "title": "Repeating Yesterday",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 242426
+        },
+        {
+          "title": "Through Struggle",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 238173
+        },
+        {
+          "title": "The Truth of My Perception",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 186226
+        },
+        {
+          "title": "Control Is Dead",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 176840
+        },
+        {
+          "title": "Morning Waits",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 236066
+        },
+        {
+          "title": "Illusions",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 348266
+        }
+      ]
+    },
+    {
+      "mbid": "052c4598-7e7c-3c8d-8d50-89ef97ae1839",
+      "releaseMbid": "9b85b2df-8974-3b29-af4b-8804e9e6d36d",
+      "title": "A Long March: The First Recordings",
+      "type": "COMPILATION",
+      "releaseDate": "2006-05-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/052c4598-7e7c-3c8d-8d50-89ef97ae1839/front-1200",
+      "tracks": [
+        {
+          "title": "Illusions (re-recorded)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 247493
+        },
+        {
+          "title": "The Beginning (re-recorded)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 208906
+        },
+        {
+          "title": "Reinvention (re-recorded)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 299733
+        },
+        {
+          "title": "The Pain of Separation (re-recorded)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 177426
+        },
+        {
+          "title": "Forever (re-recorded)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 284773
+        },
+        {
+          "title": "Beneath the Encasing of Ashes",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 167933
+        },
+        {
+          "title": "Torn Within",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 105960
+        },
+        {
+          "title": "Forced to Die",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 162333
+        },
+        {
+          "title": "A Breath in the Eyes of Eternity",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 177266
+        },
+        {
+          "title": "Blood Turned to Tears",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 96640
+        },
+        {
+          "title": "The Voices That Betray Me",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 177026
+        },
+        {
+          "title": "When This World Fades",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 150866
+        },
+        {
+          "title": "A Long March",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 115933
+        },
+        {
+          "title": "Surrounded",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 50533
+        },
+        {
+          "title": "Refined by Your Embrace",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 103973
+        },
+        {
+          "title": "The Innocence Spilled",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 216760
+        },
+        {
+          "title": "Behind Me Lies Another Fallen Soldier",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 251506
+        },
+        {
+          "title": "Illusions",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 234733
+        },
+        {
+          "title": "The Beginning",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 167360
+        },
+        {
+          "title": "Reinvention",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 295773
+        },
+        {
+          "title": "The Pain of Separation",
+          "discNumber": 1,
+          "position": 21,
+          "durationMs": 169160
+        },
+        {
+          "title": "Forever",
+          "discNumber": 1,
+          "position": 22,
+          "durationMs": 250466
+        }
+      ]
+    },
+    {
+      "mbid": "cf968cc1-a541-3e53-abc4-05dee65ad670",
+      "releaseMbid": "2402b3b3-8f37-4a6b-99bc-75b4f5783f23",
+      "title": "An Ocean Between Us",
+      "type": "ALBUM",
+      "releaseDate": "2007-08-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/cf968cc1-a541-3e53-abc4-05dee65ad670/front-1200",
+      "tracks": [
+        {
+          "title": "Separation",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 75920
+        },
+        {
+          "title": "Nothing Left",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 223653
+        },
+        {
+          "title": "An Ocean Between Us",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 253080
+        },
+        {
+          "title": "Within Destruction",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 234586
+        },
+        {
+          "title": "Forsaken",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 318026
+        },
+        {
+          "title": "Comfort Betrays",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 170266
+        },
+        {
+          "title": "I Never Wanted",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 284106
+        },
+        {
+          "title": "Bury Us All",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 143653
+        },
+        {
+          "title": "The Sound of Truth",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 260786
+        },
+        {
+          "title": "Departed",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 100586
+        },
+        {
+          "title": "Wrath Upon Ourselves",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 241186
+        },
+        {
+          "title": "This Is Who We Are",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 294893
+        }
+      ]
+    },
+    {
+      "mbid": "d2aada35-b27e-4717-a4d8-7009fd0352fa",
+      "releaseMbid": "ed46b77b-3fff-4353-99b9-577f3947b927",
+      "title": "This Is Who We Are",
+      "type": "LIVE",
+      "releaseDate": "2009-04-14",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d2aada35-b27e-4717-a4d8-7009fd0352fa/front-1200",
+      "tracks": [
+        {
+          "title": "This Is Who We Are... From the Beginning - Documentary",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Falling Upon Deaf Ears (Seacoast Community Church)",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Forever (Seacoast Community Church)",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Meaning in Tragedy (The Jumping Turtle)",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "The Darkest Nights (The Jumping Turtle)",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Separation (The Grove of Anaheim)",
+          "discNumber": 2,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Nothing Left (The Grove of Anaheim)",
+          "discNumber": 2,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "An Ocean Between Us (The Grove of Anaheim)",
+          "discNumber": 2,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Within Destruction (The Grove of Anaheim)",
+          "discNumber": 2,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "Forsaken (The Grove of Anaheim)",
+          "discNumber": 2,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Distance Is Darkness (The Grove of Anaheim)",
+          "discNumber": 2,
+          "position": 10,
+          "durationMs": null
+        },
+        {
+          "title": "I Never Wanted (The Grove of Anaheim)",
+          "discNumber": 2,
+          "position": 11,
+          "durationMs": null
+        },
+        {
+          "title": "The Sound of Truth (The Grove of Anaheim)",
+          "discNumber": 2,
+          "position": 12,
+          "durationMs": null
+        },
+        {
+          "title": "94 Hours (Cornerstone)",
+          "discNumber": 2,
+          "position": 13,
+          "durationMs": null
+        },
+        {
+          "title": "Through Struggle (Wacken Open Air)",
+          "discNumber": 2,
+          "position": 14,
+          "durationMs": null
+        },
+        {
+          "title": "Reflection (With Full Force Festival)",
+          "discNumber": 2,
+          "position": 15,
+          "durationMs": null
+        },
+        {
+          "title": "Confined (Wacken Open Air)",
+          "discNumber": 2,
+          "position": 16,
+          "durationMs": null
+        },
+        {
+          "title": "Nothing Left",
+          "discNumber": 3,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Sound of Truth",
+          "discNumber": 3,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Within Destruction",
+          "discNumber": 3,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Confined",
+          "discNumber": 3,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Through Struggle",
+          "discNumber": 3,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "The Darkest Nights",
+          "discNumber": 3,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Forever",
+          "discNumber": 3,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "94 Hours",
+          "discNumber": 3,
+          "position": 8,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "77b2fee4-de04-4b9c-ab16-663d27e7df93",
+      "releaseMbid": "6538523f-bfec-4eef-916f-86914fbb43c8",
+      "title": "The Powerless Rise",
+      "type": "ALBUM",
+      "releaseDate": "2010-05-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/77b2fee4-de04-4b9c-ab16-663d27e7df93/front-1200",
+      "tracks": [
+        {
+          "title": "Beyond Our Suffering",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 169773
+        },
+        {
+          "title": "Anodyne Sea",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 274866
+        },
+        {
+          "title": "Without Conclusion",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 195133
+        },
+        {
+          "title": "Parallels",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 297426
+        },
+        {
+          "title": "The Plague",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 222413
+        },
+        {
+          "title": "Anger and Apathy",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 265626
+        },
+        {
+          "title": "Condemned",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 169466
+        },
+        {
+          "title": "Upside Down Kingdom",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 240120
+        },
+        {
+          "title": "Vacancy",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 266680
+        },
+        {
+          "title": "The Only Constant Is Change",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 247506
+        },
+        {
+          "title": "The Blinding of False Light",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 304946
+        }
+      ]
+    },
+    {
+      "mbid": "38bc5ca4-2986-432d-be28-1792d470b7dd",
+      "releaseMbid": "f67a0075-628f-403f-949f-f26d6950cda8",
+      "title": "Decas",
+      "type": "COMPILATION",
+      "releaseDate": "2011-11-04",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/38bc5ca4-2986-432d-be28-1792d470b7dd/front-1200",
+      "tracks": [
+        {
+          "title": "Paralyzed",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 184493
+        },
+        {
+          "title": "From Shapeless to Breakable",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 164493
+        },
+        {
+          "title": "Moving Forward",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 222026
+        },
+        {
+          "title": "War Ensemble",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 290560
+        },
+        {
+          "title": "Hellion",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 44346
+        },
+        {
+          "title": "Electric Eye",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 225986
+        },
+        {
+          "title": "Coffee Mug",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 40266
+        },
+        {
+          "title": "Beneath the Encasing (re‐recorded medley)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 237720
+        },
+        {
+          "title": "The Blinding of False Light (Innerpartysystem remix)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 258813
+        },
+        {
+          "title": "Wrath Upon Ourselves (Benjamin Weinman remix)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 145826
+        },
+        {
+          "title": "Confined (Kelly “Carnage” Cairns remix)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 231826
+        },
+        {
+          "title": "Elegy (Big Chocolate remix)",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 260560
+        },
+        {
+          "title": "Upside Down Kingdom (Iron Krill remix)",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 182000
+        }
+      ]
+    },
+    {
+      "mbid": "f3f42dcd-61c6-4732-8187-7ec8a92f72bf",
+      "releaseMbid": "e565c4a3-2c95-4b78-beb3-1a6ed83c1dec",
+      "title": "Awakened",
+      "type": "ALBUM",
+      "releaseDate": "2012-09-25",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f3f42dcd-61c6-4732-8187-7ec8a92f72bf/front-1200",
+      "tracks": [
+        {
+          "title": "Cauterize",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 217906
+        },
+        {
+          "title": "A Greater Foundation",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 226226
+        },
+        {
+          "title": "Resilience",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 247680
+        },
+        {
+          "title": "Wasted Words",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 260906
+        },
+        {
+          "title": "Whispering Silence",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 270173
+        },
+        {
+          "title": "Overcome",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 276666
+        },
+        {
+          "title": "No Lungs to Breathe",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 244880
+        },
+        {
+          "title": "Defender",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 244773
+        },
+        {
+          "title": "Washed Away",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 60906
+        },
+        {
+          "title": "My Only Home",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 245813
+        },
+        {
+          "title": "Tear Out My Eyes",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 277026
+        }
+      ]
+    },
+    {
+      "mbid": "2a3ceab1-1ab2-42b3-a43b-93602355be2a",
+      "releaseMbid": "a1c46a28-c5a1-4426-b577-ac9b7b256aba",
+      "title": "Shaped by Fire",
+      "type": "ALBUM",
+      "releaseDate": "2019-09-20",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/2a3ceab1-1ab2-42b3-a43b-93602355be2a/front-1200",
+      "tracks": [
+        {
+          "title": "Burn to Emerge",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 52173
+        },
+        {
+          "title": "Blinded",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 202146
+        },
+        {
+          "title": "Shaped by Fire",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 218453
+        },
+        {
+          "title": "Undertow",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 237066
+        },
+        {
+          "title": "Torn Between",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 241240
+        },
+        {
+          "title": "Gatekeeper",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 204386
+        },
+        {
+          "title": "The Wreckage",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 282866
+        },
+        {
+          "title": "My Own Grave",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 253320
+        },
+        {
+          "title": "Take What’s Left",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 253306
+        },
+        {
+          "title": "Redefined",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 255000
+        },
+        {
+          "title": "Only After We’ve Fallen",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 208506
+        },
+        {
+          "title": "The Toll It Takes",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 236413
+        }
+      ]
+    },
+    {
+      "mbid": "8ea51aa5-d71f-4f64-81e2-b8f8b7ecc938",
+      "releaseMbid": "40665e4a-58d1-4044-baa6-2a6b75a39abc",
+      "title": "Through Storms Ahead",
+      "type": "ALBUM",
+      "releaseDate": "2024-11-15",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/8ea51aa5-d71f-4f64-81e2-b8f8b7ecc938/front-1200",
+      "tracks": [
+        {
+          "title": "Permanence",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 71373
+        },
+        {
+          "title": "A Broken Reflection",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 234880
+        },
+        {
+          "title": "Burden",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 245946
+        },
+        {
+          "title": "We Are the Dead",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 223746
+        },
+        {
+          "title": "Whitewashed Tomb",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 238000
+        },
+        {
+          "title": "Through Storms Ahead",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 246200
+        },
+        {
+          "title": "The Void Within",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 204400
+        },
+        {
+          "title": "Strength to Survive",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 275400
+        },
+        {
+          "title": "Gears That Never Stop",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 227666
+        },
+        {
+          "title": "The Cave We Fear to Enter",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 307000
+        },
+        {
+          "title": "Taken From Nothing",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 262000
+        }
+      ]
+    },
+    {
+      "mbid": "89924ae3-1cb7-4a37-8bfd-6899580c1ce9",
+      "releaseMbid": "6eacc0c1-f49d-4294-9769-8e05f21888aa",
+      "title": "As I Lay Dying",
+      "type": "ALBUM",
+      "releaseDate": "2027-02-05",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/89924ae3-1cb7-4a37-8bfd-6899580c1ce9/front-1200",
+      "tracks": [
+        {
+          "title": "Satellites",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 199510
+        },
+        {
+          "title": "Echoes",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 269207
+        },
+        {
+          "title": "Relentless",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 221974
+        },
+        {
+          "title": "The Cost to Stay",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 221410
+        },
+        {
+          "title": "Polarized",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 222589
+        },
+        {
+          "title": "Retribution",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 248676
+        },
+        {
+          "title": "A Heart Meant to Break",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 235286
+        },
+        {
+          "title": "No Way Out",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 222296
+        },
+        {
+          "title": "If I Fall",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 256735
+        },
+        {
+          "title": "After the Storm",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 318367
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

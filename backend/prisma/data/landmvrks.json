@@ -1,0 +1,465 @@
+{
+  "generatedAt": "2026-11-17T13:08:36.477Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "8e9ed070-ed81-4c04-9d47-68cf571507cb",
+    "name": "LANDMVRKS",
+    "slug": "landmvrks",
+    "type": "BAND",
+    "country": "FR",
+    "city": "Marseille",
+    "formedYear": 2014,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/8e9ed070-ed81-4c04-9d47-68cf571507cb"
+      }
+    ],
+    "genres": [
+      "metalcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "edd34511-da83-4caa-abf6-8e17d9fc2a25",
+      "releaseMbid": "ba4f02bc-836f-4390-95de-056fdb369795",
+      "title": "Live at Hellfest",
+      "type": "LIVE",
+      "releaseDate": "2016",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/edd34511-da83-4caa-abf6-8e17d9fc2a25/front-1200",
+      "tracks": [
+        {
+          "title": "Winter (live)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 230000
+        },
+        {
+          "title": "Outside and In (live)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 207000
+        },
+        {
+          "title": "Wrong Generation (live)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 163000
+        },
+        {
+          "title": "Empty Place (live)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 295000
+        },
+        {
+          "title": "Meaningless (live)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 257000
+        },
+        {
+          "title": "World of Pain (live)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 212000
+        }
+      ]
+    },
+    {
+      "mbid": "b63d4dba-f2dc-426a-86ac-6cce5a5d5d9e",
+      "releaseMbid": "d940b463-d5be-4062-9c46-f041beeb7f09",
+      "title": "Hollow",
+      "type": "ALBUM",
+      "releaseDate": "2016-05-10",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b63d4dba-f2dc-426a-86ac-6cce5a5d5d9e/front-1200",
+      "tracks": [
+        {
+          "title": "Hollow",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 91000
+        },
+        {
+          "title": "Perspective",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 174000
+        },
+        {
+          "title": "Winter",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 229000
+        },
+        {
+          "title": "Outside and In",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 208000
+        },
+        {
+          "title": "November 15th",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 97000
+        },
+        {
+          "title": "Wrong Generation",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 162000
+        },
+        {
+          "title": "Empty Place",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 319000
+        },
+        {
+          "title": "Meaningless",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 250000
+        },
+        {
+          "title": "Endless Paradox",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 210000
+        },
+        {
+          "title": "World of Pain",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 220000
+        },
+        {
+          "title": "Meaningless (acoustic)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 239000
+        }
+      ]
+    },
+    {
+      "mbid": "44f7d941-3652-4b61-81c3-e12ba27aa4ce",
+      "releaseMbid": "2328dd2f-eeb1-47e4-9dbc-3d8e24dfd01f",
+      "title": "Fantasy",
+      "type": "ALBUM",
+      "releaseDate": "2018-11-02",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/44f7d941-3652-4b61-81c3-e12ba27aa4ce/front-1200",
+      "tracks": [
+        {
+          "title": "Fantasy",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 221760
+        },
+        {
+          "title": "Wake Up Call",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 186146
+        },
+        {
+          "title": "Scars",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 254106
+        },
+        {
+          "title": "The Worst of You and Me",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 252413
+        },
+        {
+          "title": "Blistering",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 262200
+        },
+        {
+          "title": "False Reality",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 214586
+        },
+        {
+          "title": "Reckoning",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 238320
+        },
+        {
+          "title": "Alive",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 281946
+        },
+        {
+          "title": "Dead Inside",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 214693
+        },
+        {
+          "title": "Kurhah",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 112533
+        },
+        {
+          "title": "Disdain",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 296520
+        }
+      ]
+    },
+    {
+      "mbid": "3fb785b6-caec-4a29-bf85-02bc34a86679",
+      "releaseMbid": "00ed8381-fbd9-4229-84ef-cc9148579113",
+      "title": "Live at Espace Julien, Marseille",
+      "type": "LIVE",
+      "releaseDate": "2019-01-25",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/3fb785b6-caec-4a29-bf85-02bc34a86679/front-1200",
+      "tracks": [
+        {
+          "title": "Hollow (live)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 156000
+        },
+        {
+          "title": "Wrong Generation (live)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 165000
+        },
+        {
+          "title": "Blistering (live)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 278000
+        },
+        {
+          "title": "Winter (live)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 245000
+        },
+        {
+          "title": "Wake Up Call (live)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 201000
+        },
+        {
+          "title": "Fat Lip (live)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 189000
+        },
+        {
+          "title": "Scars (live)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 257000
+        },
+        {
+          "title": "Reckoning (live)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 260000
+        },
+        {
+          "title": "The Worst of You and Me (live)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 257000
+        },
+        {
+          "title": "Empty Place (live)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 324000
+        },
+        {
+          "title": "World of Pain (live)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 212000
+        },
+        {
+          "title": "Endless Paradox (live)",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 222000
+        },
+        {
+          "title": "Fantasy (live)",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 258000
+        }
+      ]
+    },
+    {
+      "mbid": "4c69a841-2254-4f75-8e74-2f8f088476ec",
+      "releaseMbid": "2d551569-4f34-4e72-bed0-70a143b2657f",
+      "title": "Lost in the Waves",
+      "type": "ALBUM",
+      "releaseDate": "2021-03-19",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4c69a841-2254-4f75-8e74-2f8f088476ec/front-1200",
+      "tracks": [
+        {
+          "title": "Lost in a Wave",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 225000
+        },
+        {
+          "title": "Rainfall",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 195000
+        },
+        {
+          "title": "Silent",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 198000
+        },
+        {
+          "title": "Visage",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 194000
+        },
+        {
+          "title": "Tired of It All",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 217000
+        },
+        {
+          "title": "Say No Word",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 150000
+        },
+        {
+          "title": "Always",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 255000
+        },
+        {
+          "title": "Shoreline",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 34000
+        },
+        {
+          "title": "Overrated",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 205000
+        },
+        {
+          "title": "Paralyzed",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 216000
+        }
+      ]
+    },
+    {
+      "mbid": "d6485a55-13d8-4a4d-a5e6-0fab04f447ad",
+      "releaseMbid": "03bb9fca-0884-4ccf-97de-d1521857bb42",
+      "title": "The Darkest Place I’ve Ever Been",
+      "type": "ALBUM",
+      "releaseDate": "2025-04-25",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d6485a55-13d8-4a4d-a5e6-0fab04f447ad/front-1200",
+      "tracks": [
+        {
+          "title": "The Darkest Place I’ve Ever Been",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 207216
+        },
+        {
+          "title": "Creature",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 225278
+        },
+        {
+          "title": "A Line in the Dust",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 235443
+        },
+        {
+          "title": "Blood Red",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 209146
+        },
+        {
+          "title": "Sulfur",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 206181
+        },
+        {
+          "title": "Sombre 16",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 70303
+        },
+        {
+          "title": "The Great Unknown",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 187744
+        },
+        {
+          "title": "La valse du temps",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 326920
+        },
+        {
+          "title": "Deep Inferno",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 212149
+        },
+        {
+          "title": "Requiem",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 240869
+        },
+        {
+          "title": "Funeral",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 172000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

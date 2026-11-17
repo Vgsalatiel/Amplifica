@@ -1,0 +1,151 @@
+{
+  "generatedAt": "2026-11-17T13:28:01.057Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "93e0be57-b6c8-4ae3-9951-18b4a7e5c33f",
+    "name": "Plutão Já Foi Planeta",
+    "slug": "plutao-ja-foi-planeta",
+    "type": "BAND",
+    "country": "BR",
+    "city": "Natal",
+    "formedYear": 2013,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/93e0be57-b6c8-4ae3-9951-18b4a7e5c33f"
+      }
+    ],
+    "genres": [
+      "indie-rock"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "c29e7e93-262e-4d1b-b86b-04be361c0f08",
+      "releaseMbid": "4aead5a5-358d-4012-b75a-572ff85bda56",
+      "title": "Daqui Pra Lá",
+      "type": "ALBUM",
+      "releaseDate": "2014-10-16",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Suma Daqui",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 211000
+        },
+        {
+          "title": "Daqui pra Lá",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 250000
+        },
+        {
+          "title": "Haverá de Se",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 242000
+        },
+        {
+          "title": "Viagem Perdida",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 252000
+        },
+        {
+          "title": "Sonho de Palmer",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 178000
+        },
+        {
+          "title": "A Hora",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 234000
+        },
+        {
+          "title": "Você Não É Mais Planeta",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 208000
+        }
+      ]
+    },
+    {
+      "mbid": "c01e7da3-4adc-4491-bae7-f8c87f852639",
+      "releaseMbid": "d2f1d9d4-fab3-4f8c-994c-78ce9a7a649f",
+      "title": "A Última Palavra Feche a Porta",
+      "type": "ALBUM",
+      "releaseDate": "2017-03-24",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c01e7da3-4adc-4491-bae7-f8c87f852639/front-1200",
+      "tracks": [
+        {
+          "title": "Alto Mar",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 268068
+        },
+        {
+          "title": "O Ficar E O Ir Da Gente",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 198530
+        },
+        {
+          "title": "Deixa Pra Lá",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 173975
+        },
+        {
+          "title": "Mesa 16",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 210024
+        },
+        {
+          "title": "Me Leve",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 237113
+        },
+        {
+          "title": "Anna",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 257724
+        },
+        {
+          "title": "Insone",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 223843
+        },
+        {
+          "title": "Duas",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 268695
+        },
+        {
+          "title": "Post-It",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 243252
+        },
+        {
+          "title": "Quem Sou?",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 354011
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

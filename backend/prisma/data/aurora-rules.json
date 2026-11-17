@@ -1,0 +1,27 @@
+{
+  "generatedAt": "2026-11-17T13:29:14.425Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "61ff65b2-2224-406b-a437-0964394f71f9",
+    "name": "Aurora Rules",
+    "slug": "aurora-rules",
+    "type": "BAND",
+    "country": "BR",
+    "city": null,
+    "formedYear": 2008,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/61ff65b2-2224-406b-a437-0964394f71f9"
+      }
+    ],
+    "genres": [
+      "metalcore",
+      "post-hardcore"
+    ]
+  },
+  "releases": [],
+  "pending": []
+}

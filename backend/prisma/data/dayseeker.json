@@ -1,0 +1,602 @@
+{
+  "generatedAt": "2026-11-17T12:55:20.264Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "d9a9b6aa-c5c5-40dc-95ec-0bff029245c0",
+    "name": "Dayseeker",
+    "slug": "dayseeker",
+    "type": "BAND",
+    "country": "US",
+    "city": "Anaheim",
+    "formedYear": 2012,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/d9a9b6aa-c5c5-40dc-95ec-0bff029245c0"
+      }
+    ],
+    "genres": [
+      "post-hardcore",
+      "metalcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "d6089bea-699e-486b-9b04-320287a00e3f",
+      "releaseMbid": "04894dc8-734b-4151-8d1d-804ef33c80d2",
+      "title": "What It Means to Be Defeated",
+      "type": "ALBUM",
+      "releaseDate": "2013-10-29",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d6089bea-699e-486b-9b04-320287a00e3f/front-1200",
+      "tracks": [
+        {
+          "title": "Black Earth",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 273400
+        },
+        {
+          "title": "Collision.Survive",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 254093
+        },
+        {
+          "title": "What It Means to Be Defeated",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 266000
+        },
+        {
+          "title": "Incinerate",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 281866
+        },
+        {
+          "title": "Hollow Shell",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 244466
+        },
+        {
+          "title": "Dead Man",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 177920
+        },
+        {
+          "title": "Resurrect",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 242586
+        },
+        {
+          "title": "The Home We Built",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 273093
+        },
+        {
+          "title": "Sleep in the Sea",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 227640
+        },
+        {
+          "title": "The Quiet Disconnect",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 300546
+        }
+      ]
+    },
+    {
+      "mbid": "3d96726d-918b-43ed-9e6e-d55ec3252ce8",
+      "releaseMbid": "c8cd32ca-2315-4d5a-81ee-1e34ecdf85ab",
+      "title": "Origin",
+      "type": "ALBUM",
+      "releaseDate": "2015-04-17",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/3d96726d-918b-43ed-9e6e-d55ec3252ce8/front-1200",
+      "tracks": [
+        {
+          "title": "The Nail in Our Coffin",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 219083
+        },
+        {
+          "title": "A Cancer Uncontained",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 250307
+        },
+        {
+          "title": "Dead to the World: Alive in My Eyes",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 208985
+        },
+        {
+          "title": "The Earth Will Turn",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 282923
+        },
+        {
+          "title": "The Darkness Won't Divide",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 79072
+        },
+        {
+          "title": "Origin",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 270886
+        },
+        {
+          "title": "The Burning of Bridges",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 245929
+        },
+        {
+          "title": "Spotless Mind",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 264450
+        },
+        {
+          "title": "The World Was Quiet",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 288821
+        },
+        {
+          "title": "Lucid Dreamer",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 164599
+        },
+        {
+          "title": "A God Without a Face",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 258680
+        },
+        {
+          "title": "Never See the Sun Rise",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 310308
+        }
+      ]
+    },
+    {
+      "mbid": "384aa2fe-490a-4a40-9ee6-b9c79d43067f",
+      "releaseMbid": "703b66b8-c17b-4cc0-b400-5ee64eaa9d84",
+      "title": "Dreaming Is Sinking /// Waking Is Rising",
+      "type": "ALBUM",
+      "releaseDate": "2017-07-14",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/384aa2fe-490a-4a40-9ee6-b9c79d43067f/front-1200",
+      "tracks": [
+        {
+          "title": "Dreaming Is Sinking",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 44000
+        },
+        {
+          "title": "Vultures",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 240125
+        },
+        {
+          "title": "Cold, Dark Winter",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 199000
+        },
+        {
+          "title": "Abandon",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 242250
+        },
+        {
+          "title": "Sleep in the Sea, Pt. II",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 278125
+        },
+        {
+          "title": "Six Feet Under",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 270719
+        },
+        {
+          "title": "Hanging by a Thread",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 116938
+        },
+        {
+          "title": "Desolate",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 228344
+        },
+        {
+          "title": "Carved From Stone",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 277500
+        },
+        {
+          "title": "Come Hell or High Water",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 239844
+        },
+        {
+          "title": "Counterpart",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 274000
+        },
+        {
+          "title": "Waking Is Rising",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 289000
+        }
+      ]
+    },
+    {
+      "mbid": "90a97b62-80a7-43dd-b454-dac265147532",
+      "releaseMbid": "25ccf09a-36bc-4293-a49c-db5e2dcb81bb",
+      "title": "Dreaming Is Sinking /// Waking Is Rising (Reimagined)",
+      "type": "EP",
+      "releaseDate": "2018-06-29",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/90a97b62-80a7-43dd-b454-dac265147532/front-1200",
+      "tracks": [
+        {
+          "title": "Carved From Stone (Reimagined)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 263000
+        },
+        {
+          "title": "Six Feet Under (Reimagined)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 262000
+        },
+        {
+          "title": "Counterpart (Reimagined)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 294000
+        },
+        {
+          "title": "Versace on the Floor",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 262000
+        },
+        {
+          "title": "Crawling",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 199000
+        }
+      ]
+    },
+    {
+      "mbid": "9634e671-f30d-4a32-8160-7a3532d0e89a",
+      "releaseMbid": "712bc553-d943-4875-bc87-1c7fece39457",
+      "title": "Sleeptalk",
+      "type": "ALBUM",
+      "releaseDate": "2019-09-27",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/9634e671-f30d-4a32-8160-7a3532d0e89a/front-1200",
+      "tracks": [
+        {
+          "title": "Drunk",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 220000
+        },
+        {
+          "title": "Crooked Soul",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 235000
+        },
+        {
+          "title": "Burial Plot",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 237000
+        },
+        {
+          "title": "Sleeptalk",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 223000
+        },
+        {
+          "title": "The Embers Glow",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 82000
+        },
+        {
+          "title": "The Color Black",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 243000
+        },
+        {
+          "title": "Already Numb",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 242000
+        },
+        {
+          "title": "Gates of Ivory",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 234000
+        },
+        {
+          "title": "Starving to Be Empty",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 223000
+        },
+        {
+          "title": "Crash and Burn",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 248000
+        }
+      ]
+    },
+    {
+      "mbid": "0ae6fc05-1c46-4f6e-8167-31a8dd9937fa",
+      "releaseMbid": "ea85cab6-283a-4847-b677-cc0e09513480",
+      "title": "Dark Sun",
+      "type": "ALBUM",
+      "releaseDate": "2022-11-04",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0ae6fc05-1c46-4f6e-8167-31a8dd9937fa/front-1200",
+      "tracks": [
+        {
+          "title": "Dreamstate",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 219000
+        },
+        {
+          "title": "Neon Grave",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 240000
+        },
+        {
+          "title": "Without Me",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 225000
+        },
+        {
+          "title": "Homesick",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 228000
+        },
+        {
+          "title": "Midnight Eternal",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 156000
+        },
+        {
+          "title": "Dark Sun",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 219000
+        },
+        {
+          "title": "Quicksand",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 212000
+        },
+        {
+          "title": "Paper Heart",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 235000
+        },
+        {
+          "title": "Crying While You’re Dancing",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 215000
+        },
+        {
+          "title": "Parallel",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 188000
+        },
+        {
+          "title": "Afterglow (Hazel’s Song)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 252000
+        }
+      ]
+    },
+    {
+      "mbid": "33a3baa5-e39b-4784-80fe-0c6d3e9c900f",
+      "releaseMbid": "a7a4113f-5474-44bd-ae87-bcd82c4788c9",
+      "title": "Replica",
+      "type": "ALBUM",
+      "releaseDate": "2024-04-05",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/33a3baa5-e39b-4784-80fe-0c6d3e9c900f/front-1200",
+      "tracks": [
+        {
+          "title": "Sleeptalk (acoustic)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 233000
+        },
+        {
+          "title": "Without Me (acoustic)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 249000
+        },
+        {
+          "title": "Neon Grave (acoustic)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 198000
+        },
+        {
+          "title": "Starving to Be Empty (acoustic)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 233000
+        },
+        {
+          "title": "Homesick (acoustic)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 233000
+        },
+        {
+          "title": "Crying While You’re Dancing (acoustic)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 232000
+        },
+        {
+          "title": "Burial Plot (acoustic)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 256000
+        },
+        {
+          "title": "Drunk (acoustic)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 239000
+        },
+        {
+          "title": "Afterglow (acoustic)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 251000
+        },
+        {
+          "title": "My Immortal (acoustic)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 270000
+        }
+      ]
+    },
+    {
+      "mbid": "4f4ed728-0074-4526-82ad-46dd029aab0e",
+      "releaseMbid": "50adb802-0f78-4c51-a3ed-bcbedb671166",
+      "title": "Creature in the Black Night",
+      "type": "ALBUM",
+      "releaseDate": "2025-10-24",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4f4ed728-0074-4526-82ad-46dd029aab0e/front-1200",
+      "tracks": [
+        {
+          "title": "Pale Moonlight",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 220000
+        },
+        {
+          "title": "Creature in the Black Night",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 229000
+        },
+        {
+          "title": "Crawl Back to My Coffin",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 242000
+        },
+        {
+          "title": "Shapeshift",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 247000
+        },
+        {
+          "title": "Soulburn",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 180000
+        },
+        {
+          "title": "Bloodlust",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 210000
+        },
+        {
+          "title": "Cemetery Blues",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 202000
+        },
+        {
+          "title": "Nocturnal Remedy",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 219000
+        },
+        {
+          "title": "The Living Dead",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 188000
+        },
+        {
+          "title": "Meet the Reaper",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 211000
+        },
+        {
+          "title": "Forgotten Ghost",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 210000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

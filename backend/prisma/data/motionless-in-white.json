@@ -1,0 +1,850 @@
+{
+  "generatedAt": "2026-11-17T13:06:02.437Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "1c5b9bd6-76e8-4fe7-a6df-3bc0b5a452cc",
+    "name": "Motionless in White",
+    "slug": "motionless-in-white",
+    "type": "BAND",
+    "country": "US",
+    "city": "Scranton",
+    "formedYear": 2005,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/1c5b9bd6-76e8-4fe7-a6df-3bc0b5a452cc"
+      }
+    ],
+    "genres": [
+      "metalcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "11d84960-3cd5-417d-ab36-cc57a7d4599e",
+      "releaseMbid": "bc871ac0-b84a-4836-baea-81a483cbc342",
+      "title": "The Whorror",
+      "type": "EP",
+      "releaseDate": "2007-10-23",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/11d84960-3cd5-417d-ab36-cc57a7d4599e/front-1200",
+      "tracks": [
+        {
+          "title": "Just When You Thought We Couldn't Get Any More Emo, We Go and Pull a Stunt Like This",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 214000
+        },
+        {
+          "title": "She Never Made It to the Emergency Room",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 192000
+        },
+        {
+          "title": "We Put the Fun in Funeral",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 140000
+        },
+        {
+          "title": "Black",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 138000
+        },
+        {
+          "title": "Apocolips",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 237000
+        },
+        {
+          "title": "Schitzophrenicannibalisticsexfest.com",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 259000
+        }
+      ]
+    },
+    {
+      "mbid": "95abf305-32e7-3932-9de4-200f9d7ffbe9",
+      "releaseMbid": "b97f81fa-0039-4fc3-9db5-cc8754c28beb",
+      "title": "When Love Met Destruction",
+      "type": "EP",
+      "releaseDate": "2009-01-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/95abf305-32e7-3932-9de4-200f9d7ffbe9/front-1200",
+      "tracks": [
+        {
+          "title": "To Keep From Getting Burned",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 210000
+        },
+        {
+          "title": "Ghost in the Mirror",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 217000
+        },
+        {
+          "title": "Whatever You Do… Don’t Push the Red Button",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 215000
+        },
+        {
+          "title": "Destroying Everything",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 302000
+        },
+        {
+          "title": "Billy in 4‐C Never Saw It Coming",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 242000
+        },
+        {
+          "title": "The Seventh Circle",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 212000
+        }
+      ]
+    },
+    {
+      "mbid": "0a8eeec0-b347-44f2-9b9b-94e76d2502e3",
+      "releaseMbid": "743dc22f-5fd5-494c-93d8-8212d7bf9866",
+      "title": "The Word Alive / Motionless in White",
+      "type": "EP",
+      "releaseDate": "2009-08-26",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0a8eeec0-b347-44f2-9b9b-94e76d2502e3/front-1200",
+      "tracks": [
+        {
+          "title": "Battle Royale",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 238000
+        },
+        {
+          "title": "Quit While You’re Ahead",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 225000
+        },
+        {
+          "title": "Casanova Rodeo",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 217000
+        },
+        {
+          "title": "The Only Rule Is That There Are No Rules",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 233000
+        },
+        {
+          "title": "Inviting Eyes",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 201000
+        },
+        {
+          "title": "How to Build an Empire",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 272000
+        },
+        {
+          "title": "How to Build an Empire (demo)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 281000
+        },
+        {
+          "title": "To Keep From Getting Burned",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 210000
+        },
+        {
+          "title": "Ghost in the Mirror",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 217000
+        },
+        {
+          "title": "Whatever You Do… Don’t Push the Red Button",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 215000
+        },
+        {
+          "title": "Destroying Everything",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 302000
+        },
+        {
+          "title": "Billy in 4‐C Never Saw It Coming",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 242000
+        },
+        {
+          "title": "The Seventh Circle",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 213000
+        },
+        {
+          "title": "When Love Met Destruction",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 135000
+        }
+      ]
+    },
+    {
+      "mbid": "6ba1dcd3-0b06-4f5b-bc4e-df8cbb04550e",
+      "releaseMbid": "4e9c0b65-0acb-4e58-beeb-e42c74654cf7",
+      "title": "Creatures",
+      "type": "ALBUM",
+      "releaseDate": "2010-10-12",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/6ba1dcd3-0b06-4f5b-bc4e-df8cbb04550e/front-1200",
+      "tracks": [
+        {
+          "title": "Immaculate Misconception",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 234773
+        },
+        {
+          "title": "We Only Come Out at Night",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 203600
+        },
+        {
+          "title": "London in Terror",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 221826
+        },
+        {
+          "title": "Abigail",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 172920
+        },
+        {
+          "title": "Creatures",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 227626
+        },
+        {
+          "title": "Cobwebs",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 209520
+        },
+        {
+          "title": ".Com, Part II",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 229186
+        },
+        {
+          "title": "Count Choculitis",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 243293
+        },
+        {
+          "title": "City Lights",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 187973
+        },
+        {
+          "title": "Puppets (The First Snow)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 260680
+        },
+        {
+          "title": "Undead Ahead",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 237693
+        },
+        {
+          "title": "Scissorhands (The Last Snow)",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 333253
+        }
+      ]
+    },
+    {
+      "mbid": "0f3973fc-4fe1-4ff0-8034-4a50fc67d568",
+      "releaseMbid": "3de59ec8-1d90-42ed-b523-d639f7bb5c87",
+      "title": "Infamous",
+      "type": "ALBUM",
+      "releaseDate": "2012-11-12",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0f3973fc-4fe1-4ff0-8034-4a50fc67d568/front-1200",
+      "tracks": [
+        {
+          "title": "Black Damask (The Fog)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 231493
+        },
+        {
+          "title": "Devil’s Night",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 236973
+        },
+        {
+          "title": "A-M-E-R-I-C-A",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 217653
+        },
+        {
+          "title": "Burned at Both Ends",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 210227
+        },
+        {
+          "title": "The Divine Infection",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 218240
+        },
+        {
+          "title": "Puppets 2 (The Rain)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 297507
+        },
+        {
+          "title": "Sinematic",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 289093
+        },
+        {
+          "title": "If It’s Dead, We’ll Kill It",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 190947
+        },
+        {
+          "title": "Synthetic Love",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 212453
+        },
+        {
+          "title": "Hatefuck",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 191480
+        },
+        {
+          "title": "Underdog",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 236800
+        },
+        {
+          "title": "Infamous",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 263787
+        }
+      ]
+    },
+    {
+      "mbid": "2e9c3836-6e41-470d-a60c-d9978b09a8f4",
+      "releaseMbid": "84b80454-1780-4277-906b-855af2fbb693",
+      "title": "Reincarnate",
+      "type": "ALBUM",
+      "releaseDate": "2014-09-15",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/2e9c3836-6e41-470d-a60c-d9978b09a8f4/front-1200",
+      "tracks": [
+        {
+          "title": "Death March",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 283000
+        },
+        {
+          "title": "Reincarnate",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 220000
+        },
+        {
+          "title": "Puppets 3 (The Grand Finale)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 255000
+        },
+        {
+          "title": "Unstoppable",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 207000
+        },
+        {
+          "title": "Everybody Sells Cocaine",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 235000
+        },
+        {
+          "title": "Contemptress",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 242000
+        },
+        {
+          "title": "Break the Cycle",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 242000
+        },
+        {
+          "title": "Generation Lost",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 179000
+        },
+        {
+          "title": "Dark Passenger",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 229000
+        },
+        {
+          "title": "Wasp",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 421000
+        },
+        {
+          "title": "Dead as Fuck",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 177000
+        },
+        {
+          "title": "Final Dictvm",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 306000
+        },
+        {
+          "title": "Carry the Torch",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 357000
+        }
+      ]
+    },
+    {
+      "mbid": "9ec7d5cd-cdc2-4c97-b78e-f752b72ce6be",
+      "releaseMbid": "ebe0acf2-166f-4fcb-ac0d-993f91c35d80",
+      "title": "Graveyard Shift",
+      "type": "ALBUM",
+      "releaseDate": "2017-05-05",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/9ec7d5cd-cdc2-4c97-b78e-f752b72ce6be/front-1200",
+      "tracks": [
+        {
+          "title": "Rats",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 236000
+        },
+        {
+          "title": "Queen for Queen",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 203000
+        },
+        {
+          "title": "Necessary Evil",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 228000
+        },
+        {
+          "title": "Soft",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 210000
+        },
+        {
+          "title": "Untouchable",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 238000
+        },
+        {
+          "title": "Not My Type: Dead as Fuck 2",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 263000
+        },
+        {
+          "title": "The Ladder",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 258000
+        },
+        {
+          "title": "Voices",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 224000
+        },
+        {
+          "title": "Loud (Fuck It)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 223000
+        },
+        {
+          "title": "570",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 272000
+        },
+        {
+          "title": "Hourglass",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 225000
+        },
+        {
+          "title": "Eternally Yours",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 312000
+        }
+      ]
+    },
+    {
+      "mbid": "2809f31a-38ca-4f83-9845-95c7d5248712",
+      "releaseMbid": "29d200a8-8749-4e82-8f63-d4faf7c4a1e5",
+      "title": "Disguise",
+      "type": "ALBUM",
+      "releaseDate": "2019-06-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/2809f31a-38ca-4f83-9845-95c7d5248712/front-1200",
+      "tracks": [
+        {
+          "title": "Disguise",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 238000
+        },
+        {
+          "title": "Headache",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 209000
+        },
+        {
+          "title": "</c0de>",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 228000
+        },
+        {
+          "title": "Thoughts & Prayers",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 241000
+        },
+        {
+          "title": "Legacy",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 214000
+        },
+        {
+          "title": "Undead Ahead 2: The Tale of the Midnight Ride",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 274000
+        },
+        {
+          "title": "Holding on to Smoke",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 254000
+        },
+        {
+          "title": "Another Life",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 205000
+        },
+        {
+          "title": "Broadcasting From Beyond the Grave: Death Inc.",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 235000
+        },
+        {
+          "title": "Brand New Numb",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 223000
+        },
+        {
+          "title": "Catharsis",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 232000
+        }
+      ]
+    },
+    {
+      "mbid": "061ed304-bcf8-402a-833f-42757464ad78",
+      "releaseMbid": "b9d06b9a-c02a-4ef1-b620-2297708ad5a9",
+      "title": "Another Life / Eternally Yours: Motion Picture Collection",
+      "type": "EP",
+      "releaseDate": "2020-08-10",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/061ed304-bcf8-402a-833f-42757464ad78/front-1200",
+      "tracks": [
+        {
+          "title": "Another Life: Motion Picture Collection",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 236000
+        },
+        {
+          "title": "Eternally Yours: Motion Picture Collection",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 314000
+        },
+        {
+          "title": "Another Life: Motion Picture Collection (Instrumental)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 236000
+        },
+        {
+          "title": "Eternally Yours: Motion Picture Collection (Instrumental)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 314000
+        }
+      ]
+    },
+    {
+      "mbid": "c3e2dc06-b96a-4df9-aefd-8944776afe51",
+      "releaseMbid": "04f76525-0505-4270-9e1e-b1116b97e22c",
+      "title": "Scoring the End of the World",
+      "type": "ALBUM",
+      "releaseDate": "2022-06-10",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c3e2dc06-b96a-4df9-aefd-8944776afe51/front-1200",
+      "tracks": [
+        {
+          "title": "Meltdown",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 268000
+        },
+        {
+          "title": "Sign of Life",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 220000
+        },
+        {
+          "title": "Werewolf",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 212000
+        },
+        {
+          "title": "Porcelain",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 216000
+        },
+        {
+          "title": "Slaughterhouse",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 263000
+        },
+        {
+          "title": "Masterpiece",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 206000
+        },
+        {
+          "title": "Cause of Death",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 243000
+        },
+        {
+          "title": "We Become the Night",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 211000
+        },
+        {
+          "title": "Burned at Both Ends II",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 237000
+        },
+        {
+          "title": "B.F.B.T.G: Corpse Nation",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 214000
+        },
+        {
+          "title": "Cyberhex",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 275000
+        },
+        {
+          "title": "Red, White & Boom",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 198000
+        },
+        {
+          "title": "Scoring the End of the World",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 228000
+        }
+      ]
+    },
+    {
+      "mbid": "710d8154-ec20-4e02-aee3-3bd46f966bc2",
+      "releaseMbid": "1e88a226-48ed-47a1-97ee-966cf3dd1a06",
+      "title": "Decades",
+      "type": "ALBUM",
+      "releaseDate": "2026-07-17",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/710d8154-ec20-4e02-aee3-3bd46f966bc2/front-1200",
+      "tracks": [
+        {
+          "title": "Decades",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 231000
+        },
+        {
+          "title": "log_in//crash_out",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 231000
+        },
+        {
+          "title": "R.I.P.",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 240000
+        },
+        {
+          "title": "Fight Like Hell",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 189000
+        },
+        {
+          "title": "Playing God",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 219000
+        },
+        {
+          "title": "All That I've Ever Known",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 264000
+        },
+        {
+          "title": "Blood Rave",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": 215000
+        },
+        {
+          "title": "Love at First Bite",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": 212000
+        },
+        {
+          "title": "Count Back From Zero",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": 270000
+        },
+        {
+          "title": "Blood Pact",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": 200000
+        },
+        {
+          "title": "Afraid of the Dark",
+          "discNumber": 2,
+          "position": 5,
+          "durationMs": 278000
+        },
+        {
+          "title": "Sunglasses at Night",
+          "discNumber": 2,
+          "position": 6,
+          "durationMs": 239000
+        },
+        {
+          "title": "Hollywood",
+          "discNumber": 2,
+          "position": 7,
+          "durationMs": 250000
+        },
+        {
+          "title": "Fight Like Hell",
+          "discNumber": 2,
+          "position": 8,
+          "durationMs": 189000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

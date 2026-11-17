@@ -1,0 +1,1103 @@
+{
+  "generatedAt": "2026-11-17T12:57:31.996Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "56ba013c-610e-4d9b-98ed-c2ccff977a9e",
+    "name": "Whitechapel",
+    "slug": "whitechapel",
+    "type": "BAND",
+    "country": "US",
+    "city": "Knoxville",
+    "formedYear": 2006,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/56ba013c-610e-4d9b-98ed-c2ccff977a9e"
+      }
+    ],
+    "genres": [
+      "deathcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "1d144924-8a4d-4d70-b711-514e31a0408e",
+      "releaseMbid": "6c8fd64c-35e3-4dae-a15c-df55018f7227",
+      "title": "Demo 2",
+      "type": "EP",
+      "releaseDate": "2006",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/1d144924-8a4d-4d70-b711-514e31a0408e/front-1200",
+      "tracks": [
+        {
+          "title": "Alone in the Morgue",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 215000
+        },
+        {
+          "title": "Articulo Mortis",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 212000
+        },
+        {
+          "title": "Devirgination Studies",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 207000
+        },
+        {
+          "title": "Fairy Fay",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 208000
+        },
+        {
+          "title": "Festering Fiesta",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 138000
+        },
+        {
+          "title": "Ear to Ear",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 212000
+        }
+      ]
+    },
+    {
+      "mbid": "355b5cbe-b3cf-3e75-b25e-34917dc58822",
+      "releaseMbid": "edc3a47b-16ae-4c58-a4d2-f4c218a41b35",
+      "title": "Demo 2006",
+      "type": "EP",
+      "releaseDate": "2006",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Articulo Mortis",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 214000
+        },
+        {
+          "title": "Ear to Ear",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 211000
+        },
+        {
+          "title": "Festering Fiesta",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 143000
+        },
+        {
+          "title": "Fairy Fay",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 215000
+        },
+        {
+          "title": "Festering Fiesta (New version)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 146000
+        },
+        {
+          "title": "Prostatic Fluid",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 211000
+        }
+      ]
+    },
+    {
+      "mbid": "c0db0afd-7fcb-4b2a-843d-b61e35b7a718",
+      "releaseMbid": "67b07924-abc4-47eb-94c6-341d8bb07695",
+      "title": "Demo 1",
+      "type": "EP",
+      "releaseDate": "2006",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Articulo Mortis",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 214000
+        },
+        {
+          "title": "Ear to Ear",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 211000
+        },
+        {
+          "title": "Fairy Fay",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 216000
+        },
+        {
+          "title": "Festering Fiesta",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 143000
+        },
+        {
+          "title": "Prostatic Fluid",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 212000
+        }
+      ]
+    },
+    {
+      "mbid": "87b9ce08-fbd5-3f82-a720-9a3e39f7139d",
+      "releaseMbid": "76cc82b0-4e53-4aff-b7c8-f53251638ded",
+      "title": "The Somatic Defilement",
+      "type": "ALBUM",
+      "releaseDate": "2007-07-31",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/87b9ce08-fbd5-3f82-a720-9a3e39f7139d/front-1200",
+      "tracks": [
+        {
+          "title": "Necrotizing",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 35893
+        },
+        {
+          "title": "The Somatic Defilement",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 319693
+        },
+        {
+          "title": "Devirgination Studies",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 192440
+        },
+        {
+          "title": "Prostatic Fluid Asphyxiation",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 213480
+        },
+        {
+          "title": "Fairy Fay",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 212960
+        },
+        {
+          "title": "Ear to Ear",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 210626
+        },
+        {
+          "title": "Alone in the Morgue",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 173640
+        },
+        {
+          "title": "Festering Fiesta",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 149240
+        },
+        {
+          "title": "Vicer Exciser",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 172186
+        },
+        {
+          "title": "Articulo Mortis",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 243000
+        }
+      ]
+    },
+    {
+      "mbid": "0a8c9064-b701-3ba0-9446-561352fb9492",
+      "releaseMbid": "7ac34d7e-f0c0-4da8-8cdd-31378b305e10",
+      "title": "This Is Exile",
+      "type": "ALBUM",
+      "releaseDate": "2008-07-08",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0a8c9064-b701-3ba0-9446-561352fb9492/front-1200",
+      "tracks": [
+        {
+          "title": "Father of Lies",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 243786
+        },
+        {
+          "title": "This Is Exile",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 220120
+        },
+        {
+          "title": "Possession",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 304306
+        },
+        {
+          "title": "To All That Are Dead",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 218293
+        },
+        {
+          "title": "Exalt",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 185600
+        },
+        {
+          "title": "Somatically Incorrect",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 190506
+        },
+        {
+          "title": "Death Becomes Him",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 198693
+        },
+        {
+          "title": "Daemon (The Procreated)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 193106
+        },
+        {
+          "title": "Eternal Refuge",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 222093
+        },
+        {
+          "title": "Of Legions",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 163800
+        },
+        {
+          "title": "Messiahbolical",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 442706
+        }
+      ]
+    },
+    {
+      "mbid": "31697395-d17b-405a-8707-4484f6a132a0",
+      "releaseMbid": "0041e14c-2b54-4597-903f-7a07e298bb05",
+      "title": "A New Era of Corruption",
+      "type": "ALBUM",
+      "releaseDate": "2010-06-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/31697395-d17b-405a-8707-4484f6a132a0/front-1200",
+      "tracks": [
+        {
+          "title": "Devolver",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 238866
+        },
+        {
+          "title": "Breeding Violence",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 199586
+        },
+        {
+          "title": "The Darkest Day of Man",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 180053
+        },
+        {
+          "title": "Reprogrammed to Hate",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 225933
+        },
+        {
+          "title": "End of Flesh",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 243813
+        },
+        {
+          "title": "Unnerving",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 219280
+        },
+        {
+          "title": "A Future Corrupt",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 177226
+        },
+        {
+          "title": "Prayer of Mockery",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 215173
+        },
+        {
+          "title": "Murder Sermon",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 239373
+        },
+        {
+          "title": "Necromechanical",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 261399
+        },
+        {
+          "title": "Single File to Dehumanization",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 283373
+        }
+      ]
+    },
+    {
+      "mbid": "a0c90c84-f410-42cc-9db9-39c4c05892bb",
+      "releaseMbid": "bdafc82b-ae98-4675-88ee-546bd1382319",
+      "title": "Demo 3",
+      "type": "EP",
+      "releaseDate": "2011",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a0c90c84-f410-42cc-9db9-39c4c05892bb/front-1200",
+      "tracks": [
+        {
+          "title": "Sentinel of Perdition",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 236680
+        },
+        {
+          "title": "Walking With the Dead",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 374413
+        },
+        {
+          "title": "Lost",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 70504
+        },
+        {
+          "title": "The Crowning",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 256653
+        },
+        {
+          "title": "Bloodline",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 221419
+        },
+        {
+          "title": "Bloodline (instrumental)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 220630
+        }
+      ]
+    },
+    {
+      "mbid": "991f1c05-c48d-4b14-9805-89dcb200707b",
+      "releaseMbid": "0fc2e559-ce7e-4c88-a206-9d510bb33f86",
+      "title": "Recorrupted",
+      "type": "EP",
+      "releaseDate": "2011-11-08",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Section 8",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 266000
+        },
+        {
+          "title": "Strength Beyond Strength",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 227000
+        },
+        {
+          "title": "Breeding Violence (Big Chocolate remix)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 172000
+        },
+        {
+          "title": "This Is Exile (Ben Weinman remix)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 195000
+        },
+        {
+          "title": "End of Flesh (acoustic version)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 259000
+        }
+      ]
+    },
+    {
+      "mbid": "d88323bf-1f31-461e-b964-2b164da6e4e8",
+      "releaseMbid": "941f9b02-354d-47cf-9d1d-f9607182327d",
+      "title": "Whitechapel",
+      "type": "ALBUM",
+      "releaseDate": "2012-06-15",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d88323bf-1f31-461e-b964-2b164da6e4e8/front-1200",
+      "tracks": [
+        {
+          "title": "Make It Bleed",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 252093
+        },
+        {
+          "title": "Hate Creation",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 208226
+        },
+        {
+          "title": "(Cult)uralist",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 222626
+        },
+        {
+          "title": "I, Dementia",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 283853
+        },
+        {
+          "title": "Section 8",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 265973
+        },
+        {
+          "title": "Faces",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 192880
+        },
+        {
+          "title": "Dead Silence",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 278400
+        },
+        {
+          "title": "The Night Remains",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 178853
+        },
+        {
+          "title": "Devoid",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 170533
+        },
+        {
+          "title": "Possibilities of an Impossible Existence",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 240680
+        }
+      ]
+    },
+    {
+      "mbid": "72fa41ae-9c9c-45eb-aec6-a334bfab7e35",
+      "releaseMbid": "62592b45-0325-46e7-b2bf-222029e05064",
+      "title": "Our Endless War",
+      "type": "ALBUM",
+      "releaseDate": "2014-04-29",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/72fa41ae-9c9c-45eb-aec6-a334bfab7e35/front-1200",
+      "tracks": [
+        {
+          "title": "Rise",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 80612
+        },
+        {
+          "title": "Our Endless War",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 236578
+        },
+        {
+          "title": "The Saw Is the Law",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 267612
+        },
+        {
+          "title": "Mono",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 219104
+        },
+        {
+          "title": "Let Me Burn",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 263473
+        },
+        {
+          "title": "Worship the Digital Age",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 252246
+        },
+        {
+          "title": "How Times Have Changed",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 212758
+        },
+        {
+          "title": "Psychopathy",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 231968
+        },
+        {
+          "title": "Blacked Out",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 212526
+        },
+        {
+          "title": "Diggs Road",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 359799
+        },
+        {
+          "title": "A Process So Familiar",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 172862
+        },
+        {
+          "title": "Fall of the Hypocrites",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 180302
+        }
+      ]
+    },
+    {
+      "mbid": "0ad0f02e-7ccd-43ef-96ff-8238ccb51a22",
+      "releaseMbid": "e189b598-50c3-4d3f-9f3f-c9eff2b26c7e",
+      "title": "The Brotherhood of the Blade",
+      "type": "LIVE",
+      "releaseDate": "2015-10-30",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0ad0f02e-7ccd-43ef-96ff-8238ccb51a22/front-1200",
+      "tracks": [
+        {
+          "title": "Rise",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 80000
+        },
+        {
+          "title": "Our Endless War",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 237000
+        },
+        {
+          "title": "Section 8",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 269000
+        },
+        {
+          "title": "Faces",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 191000
+        },
+        {
+          "title": "I, Dementia",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 302000
+        },
+        {
+          "title": "Possession",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 277000
+        },
+        {
+          "title": "Prostatic Fluid Asphyxiation",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 229000
+        },
+        {
+          "title": "Vicer Exciser",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 183000
+        },
+        {
+          "title": "Mono",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 224000
+        },
+        {
+          "title": "Worship the Digital Age",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 337000
+        },
+        {
+          "title": "The Saw Is the Law",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 279000
+        },
+        {
+          "title": "Possibilities of an Impossible Existence",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 257000
+        },
+        {
+          "title": "This Is Exile",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 297000
+        }
+      ]
+    },
+    {
+      "mbid": "ada44723-46a1-4041-9f4d-e50c0b44547c",
+      "releaseMbid": "186995ea-8587-4a8e-a4a5-355e45998c03",
+      "title": "Mark of the Blade",
+      "type": "ALBUM",
+      "releaseDate": "2016-06-24",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ada44723-46a1-4041-9f4d-e50c0b44547c/front-1200",
+      "tracks": [
+        {
+          "title": "The Void",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 248000
+        },
+        {
+          "title": "Mark of the Blade",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 174000
+        },
+        {
+          "title": "Elitist Ones",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 277000
+        },
+        {
+          "title": "Bring Me Home",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 288000
+        },
+        {
+          "title": "Tremors",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 260000
+        },
+        {
+          "title": "A Killing Industry",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 244000
+        },
+        {
+          "title": "Tormented",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 254000
+        },
+        {
+          "title": "Brotherhood",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 260000
+        },
+        {
+          "title": "Dwell in the Shadows",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 241000
+        },
+        {
+          "title": "Venomous",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 264000
+        },
+        {
+          "title": "Decennium",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 370000
+        }
+      ]
+    },
+    {
+      "mbid": "3f7d7cd6-a113-451f-9a8b-6e289d4584eb",
+      "releaseMbid": "660919f3-9ef8-4228-a18c-471c197308b0",
+      "title": "The Valley",
+      "type": "ALBUM",
+      "releaseDate": "2019-03-29",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/3f7d7cd6-a113-451f-9a8b-6e289d4584eb/front-1200",
+      "tracks": [
+        {
+          "title": "When a Demon Defiles a Witch",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 304053
+        },
+        {
+          "title": "Forgiveness Is Weakness",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 175120
+        },
+        {
+          "title": "Brimstone",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 205240
+        },
+        {
+          "title": "Hickory Creek",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 296453
+        },
+        {
+          "title": "Black Bear",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 188533
+        },
+        {
+          "title": "We Are One",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 238026
+        },
+        {
+          "title": "The Other Side",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 197226
+        },
+        {
+          "title": "Third Depth",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 247640
+        },
+        {
+          "title": "Lovelace",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 228773
+        },
+        {
+          "title": "Doom Woods",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 351653
+        }
+      ]
+    },
+    {
+      "mbid": "831586ac-c0c4-4bb6-b0ef-b8f921a9572d",
+      "releaseMbid": "1c3b4ce2-d45f-4da2-a1ef-42b0af2918a7",
+      "title": "Kin",
+      "type": "ALBUM",
+      "releaseDate": "2021-10-29",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/831586ac-c0c4-4bb6-b0ef-b8f921a9572d/front-1200",
+      "tracks": [
+        {
+          "title": "I Will Find You",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 294000
+        },
+        {
+          "title": "Lost Boy",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 238000
+        },
+        {
+          "title": "A Bloodsoaked Symphony",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 268000
+        },
+        {
+          "title": "Anticure",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 335000
+        },
+        {
+          "title": "The Ones That Made Us",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 250000
+        },
+        {
+          "title": "History Is Silent",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 294000
+        },
+        {
+          "title": "To the Wolves",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 233000
+        },
+        {
+          "title": "Orphan",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 280000
+        },
+        {
+          "title": "Without You",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 60000
+        },
+        {
+          "title": "Without Us",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 277000
+        },
+        {
+          "title": "Kin",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 337000
+        }
+      ]
+    },
+    {
+      "mbid": "03f1b457-c02d-484c-a0d7-9ba9a5d3ac1f",
+      "releaseMbid": "bb67be01-e108-43ef-8672-23abbd3b3dfc",
+      "title": "Live in the Valley",
+      "type": "LIVE",
+      "releaseDate": "2024-01-26",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/03f1b457-c02d-484c-a0d7-9ba9a5d3ac1f/front-1200",
+      "tracks": [
+        {
+          "title": "When a Demon Defiles a Witch (live)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 329861
+        },
+        {
+          "title": "Forgiveness Is Weakness (live)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 175148
+        },
+        {
+          "title": "Brimstone (live)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 217093
+        },
+        {
+          "title": "Hickory Creek (live)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 302644
+        },
+        {
+          "title": "Black Bear (live)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 189256
+        },
+        {
+          "title": "Doom Woods (live)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 349704
+        },
+        {
+          "title": "I Will Find You (live)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 297284
+        },
+        {
+          "title": "A Bloodsoaked Symphony (live)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 271108
+        },
+        {
+          "title": "Anticure (live)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 340115
+        },
+        {
+          "title": "Lost Boy (live)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 260247
+        },
+        {
+          "title": "Orphan (live)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 277652
+        },
+        {
+          "title": "This Is Exile (live)",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 250423
+        },
+        {
+          "title": "The Saw Is the Law (live)",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 304417
+        }
+      ]
+    },
+    {
+      "mbid": "1c7b43a8-7a77-4837-9dcd-d41c08527c34",
+      "releaseMbid": "005c008d-cec8-41f9-a368-368626f467a3",
+      "title": "Hymns in Dissonance",
+      "type": "ALBUM",
+      "releaseDate": "2025-03-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/1c7b43a8-7a77-4837-9dcd-d41c08527c34/front-1200",
+      "tracks": [
+        {
+          "title": "Prisoner 666",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 315413
+        },
+        {
+          "title": "Hymns in Dissonance",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 312466
+        },
+        {
+          "title": "Diabolic Slumber",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 270266
+        },
+        {
+          "title": "A Visceral Retch",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 245666
+        },
+        {
+          "title": "Ex infernis",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 72960
+        },
+        {
+          "title": "Hate Cult Ritual",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 247680
+        },
+        {
+          "title": "The Abysmal Gospel",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 284013
+        },
+        {
+          "title": "Bedlam",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 206813
+        },
+        {
+          "title": "Mammoth God",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 269626
+        },
+        {
+          "title": "Nothing Is Coming for Any of Us",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 371920
+        }
+      ]
+    }
+  ],
+  "pending": []
+}
