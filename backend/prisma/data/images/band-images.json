@@ -1,0 +1,90 @@
+{
+  "artists": [
+    {
+      "slug": "american-football",
+      "file": "americanFootball/American-Football-tour.webp"
+    },
+    {
+      "slug": "b5",
+      "file": "b5/b5.jpeg"
+    },
+    {
+      "slug": "bad-luv",
+      "file": "badLuv/bad luv.jpeg"
+    },
+    {
+      "slug": "black-flag",
+      "file": "blackflag/Black_Flag_logo.jpg"
+    },
+    {
+      "slug": "bullet-bane",
+      "file": "bulletbane/bulletBane.jpg"
+    },
+    {
+      "slug": "charlie-brown-jr",
+      "file": "CharlieBrownJunior/CHARLIE.jpg"
+    },
+    {
+      "slug": "cpm-22",
+      "file": "CPM22/cpm22.jpg"
+    },
+    {
+      "slug": "dance-of-days",
+      "file": "DanceOfDays/images.jpeg"
+    },
+    {
+      "slug": "dead-fish",
+      "file": "deadfish/deadfish.avif"
+    },
+    {
+      "slug": "fresno",
+      "file": "fresno/fresno.jpeg"
+    },
+    {
+      "slug": "gloria",
+      "file": "gloria/gloria.jpg"
+    },
+    {
+      "slug": "green-day",
+      "file": "green day/green_day_warner_records_por_alice_baxley.webp"
+    },
+    {
+      "slug": "hateen",
+      "file": "hateen/hateen.jpeg"
+    },
+    {
+      "slug": "menores-atos",
+      "file": "Menores atos/images.jpeg"
+    },
+    {
+      "slug": "metade-de-mim",
+      "file": "MetadeDeMim/images (1).jpeg"
+    },
+    {
+      "slug": "pense",
+      "file": "pense/images.jpeg"
+    },
+    {
+      "slug": "rancore",
+      "file": "rancore/rancore-formacao-2024.webp"
+    },
+    {
+      "slug": "rolima",
+      "file": "rolima/images.jpeg"
+    },
+    {
+      "slug": "terno-rei",
+      "file": "ternoREi/terno-rei_cesar_ovalle.jpg"
+    },
+    {
+      "slug": "venere-vai-venus",
+      "file": "venereVaiVenus/0e3491174ef0bb4e2fa05dd2d95657c4.avif"
+    }
+  ],
+  "releases": [
+    {
+      "slug": "bad-luv-o-medo-nao-me-parou",
+      "file": "badLuv/albuns/OmedoNaoMeParou.jpeg"
+    }
+  ]
+}

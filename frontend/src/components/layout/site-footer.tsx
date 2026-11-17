@@ -20,7 +20,8 @@ export function SiteFooter() {
               >
                 Cover Art Archive
               </a>
-              ; os direitos das capas pertencem aos respectivos titulares. Para pedir a remoção de uma capa,{' '}
+              ; os direitos das capas e das fotos pertencem aos respectivos titulares. Para pedir a remoção de uma
+              imagem,{' '}
               <a
                 href="https://github.com/Vgsalatiel/Amplifica/issues"
                 className="font-bold underline underline-offset-4 hover:no-underline"

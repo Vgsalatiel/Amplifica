@@ -21,3 +21,6 @@ maskneyes-font.zip
 
 # Relatórios e capturas dos testes de fluxo no navegador
 e2e/out/
+
+# Fotos de bandas e pôsteres: os direitos são de quem os fez, então ficam fora do repositório
+frontend/img/
