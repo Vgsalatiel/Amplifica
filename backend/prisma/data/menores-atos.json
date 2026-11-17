@@ -1,0 +1,575 @@
+{
+  "generatedAt": "2026-11-16T19:44:05.029Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "c570a81c-b692-4ec4-829a-c3b24218e874",
+    "name": "menores atos",
+    "slug": "menores-atos",
+    "type": "BAND",
+    "country": "BR",
+    "city": "Rio de Janeiro",
+    "formedYear": 2002,
+    "disbandedYear": null,
+    "bio": "O menores atos (escrito em caixa baixa) é uma banda brasileira de post-hardcore formada no Rio de Janeiro em 2002. Hoje é composta por Cyro Sampaio (guitarra e voz), Celso Lehnemann (baixo) e Gustavo Marquardt (bateria).",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/c570a81c-b692-4ec4-829a-c3b24218e874"
+      },
+      {
+        "name": "Wikipédia em português: Menores Atos",
+        "url": "https://pt.wikipedia.org/wiki/Menores_Atos"
+      }
+    ],
+    "genres": [
+      "post-hardcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "932f001c-016d-42ca-8ffa-ff5367ef4e16",
+      "releaseMbid": "865fbedc-725a-4d86-bcb7-1c0defd256ce",
+      "title": "animalia",
+      "type": "ALBUM",
+      "releaseDate": "2014-02-10",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/932f001c-016d-42ca-8ffa-ff5367ef4e16/front-1200",
+      "tracks": [
+        {
+          "title": "Animalia",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 88000
+        },
+        {
+          "title": "À Distância",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 218000
+        },
+        {
+          "title": "Doisazero",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 344000
+        },
+        {
+          "title": "Transtorno",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 340000
+        },
+        {
+          "title": "Passional",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 279000
+        },
+        {
+          "title": "Sereno",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 303000
+        },
+        {
+          "title": "Sobre Cafés e Você",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 144000
+        },
+        {
+          "title": "Paixões, Virtudes e o Incondicional",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 245000
+        },
+        {
+          "title": "Oceano",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 314000
+        },
+        {
+          "title": "Tragédia Circular",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 323000
+        }
+      ]
+    },
+    {
+      "mbid": "2b8f011a-b58f-4f16-bad6-9f0773402b67",
+      "releaseMbid": "487fcdd6-fb53-439a-bfce-9d7cc5fefb73",
+      "title": "Lapso",
+      "type": "ALBUM",
+      "releaseDate": "2018-06-08",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/2b8f011a-b58f-4f16-bad6-9f0773402b67/front-1200",
+      "tracks": [
+        {
+          "title": "Lapso",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 181000
+        },
+        {
+          "title": "No espelho",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 197000
+        },
+        {
+          "title": "Amanhã",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 284000
+        },
+        {
+          "title": "Devagar",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 286000
+        },
+        {
+          "title": "Interlúdio",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 34000
+        },
+        {
+          "title": "O que te trouxe até aqui",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 268000
+        },
+        {
+          "title": "Karate",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 285000
+        },
+        {
+          "title": "Labirinto",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 280000
+        },
+        {
+          "title": "Miopia",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 271000
+        },
+        {
+          "title": "Dorme",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 243000
+        },
+        {
+          "title": "Quando você for",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 270000
+        },
+        {
+          "title": "Contramão",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 185000
+        }
+      ]
+    },
+    {
+      "mbid": "ab4168bf-19ef-4600-b394-cf149807257f",
+      "releaseMbid": "6f8c64a5-d809-4db3-939f-bc1b0198ec0d",
+      "title": "Tropical Melancolia",
+      "type": "EP",
+      "releaseDate": "2020-12-04",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ab4168bf-19ef-4600-b394-cf149807257f/front-1200",
+      "tracks": [
+        {
+          "title": "Distante de Mim",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 176149
+        },
+        {
+          "title": "Arpoador 83'",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 251904
+        },
+        {
+          "title": "De Olhos Abertos",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 226976
+        },
+        {
+          "title": "Boas-Vindas",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 178405
+        },
+        {
+          "title": "Caos Efeito",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 237541
+        },
+        {
+          "title": "Exílio",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 232238
+        }
+      ]
+    },
+    {
+      "mbid": "9342287d-887d-4efa-9214-5575fd79f770",
+      "releaseMbid": "2f3f2e9f-076f-4a0d-8a6e-06f669ec6ad3",
+      "title": "Ao Vivo no CCSP",
+      "type": "LIVE",
+      "releaseDate": "2020-12-11",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Passional (Ao Vivo)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 352000
+        },
+        {
+          "title": "Devagar (Ao Vivo)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 277000
+        },
+        {
+          "title": "Amanhã (Ao Vivo)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 282000
+        },
+        {
+          "title": "Doisazero (Ao Vivo)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 362000
+        },
+        {
+          "title": "O Que Te Trouxe Até Aqui (Ao Vivo)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 264000
+        },
+        {
+          "title": "Labirinto (Ao Vivo)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 279000
+        },
+        {
+          "title": "Pressa (Ao Vivo)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 298000
+        },
+        {
+          "title": "Animalia / À Distância (Ao Vivo)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 357000
+        },
+        {
+          "title": "Sobre Cafés e Você (Ao Vivo)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 161000
+        },
+        {
+          "title": "Sereno (Ao Vivo)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 410000
+        }
+      ]
+    },
+    {
+      "mbid": "fb52aa13-d5b1-4881-8df3-a185dd36c1d8",
+      "releaseMbid": "6276aeda-1ab7-4953-abab-c448273262b2",
+      "title": "Lúmen",
+      "type": "EP",
+      "releaseDate": "2022-05-20",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Breu",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 254000
+        },
+        {
+          "title": "Muro",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 250000
+        },
+        {
+          "title": "Aquário",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 274000
+        },
+        {
+          "title": "Queda",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 276000
+        },
+        {
+          "title": "Lúmen",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 256000
+        }
+      ]
+    },
+    {
+      "mbid": "3070f4c3-05b7-4af6-9a4c-468706bb7262",
+      "releaseMbid": "dec7fb14-d422-46f9-8a3d-fe05839d1de7",
+      "title": "Ato I",
+      "type": "EP",
+      "releaseDate": "2023-12-08",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/3070f4c3-05b7-4af6-9a4c-468706bb7262/front-1200",
+      "tracks": [
+        {
+          "title": "Breu",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 197266
+        },
+        {
+          "title": "Devagar",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 300722
+        },
+        {
+          "title": "Lúmen",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 248944
+        },
+        {
+          "title": "Sobre Cafés e Você",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 150890
+        },
+        {
+          "title": "Amanhã",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 273930
+        },
+        {
+          "title": "Eu Preciso Ir",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 282325
+        }
+      ]
+    },
+    {
+      "mbid": "8bb46313-4c89-4ef7-a719-dbc0ebbc83f0",
+      "releaseMbid": "dc8295e3-6f90-4752-b3a0-0f9ce2458c49",
+      "title": "Ao Vivo no Desgosto - 5 Anos de Lapso",
+      "type": "LIVE",
+      "releaseDate": "2024-05-31",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/8bb46313-4c89-4ef7-a719-dbc0ebbc83f0/front-1200",
+      "tracks": [
+        {
+          "title": "Lapso (Ao Vivo)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 193874
+        },
+        {
+          "title": "No Espelho (Ao Vivo)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 191124
+        },
+        {
+          "title": "Amanhã (Ao Vivo)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 286000
+        },
+        {
+          "title": "Devagar (Ao Vivo)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 289124
+        },
+        {
+          "title": "Interlúdio (Ao Vivo)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 35500
+        },
+        {
+          "title": "O Que Te Trouxe Até Aqui (Ao Vivo)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 256500
+        },
+        {
+          "title": "Karate (Ao Vivo)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 290000
+        },
+        {
+          "title": "Labirinto (Ao Vivo)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 283500
+        },
+        {
+          "title": "Miopia (Ao Vivo)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 291000
+        },
+        {
+          "title": "Dorme (Ao Vivo)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 238000
+        },
+        {
+          "title": "Quando Você For (Ao Vivo)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 280000
+        },
+        {
+          "title": "Contramão (Ao Vivo)",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 318500
+        }
+      ]
+    },
+    {
+      "mbid": "09f2ecf4-9481-4f4c-a5cd-3345dd8a10a8",
+      "releaseMbid": "787a7bbd-0906-42c2-8551-de87404dc42d",
+      "title": "FIM DO MUNDO",
+      "type": "ALBUM",
+      "releaseDate": "2025-01-24",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/09f2ecf4-9481-4f4c-a5cd-3345dd8a10a8/front-1200",
+      "tracks": [
+        {
+          "title": "VAZIO",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 6000
+        },
+        {
+          "title": "pronto pra sumir",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 233000
+        },
+        {
+          "title": "sorte",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 188000
+        },
+        {
+          "title": "tudo no mesmo lugar",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 271000
+        },
+        {
+          "title": "nem choro, nem festa",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 241000
+        },
+        {
+          "title": "EM DEMOLIÇÃO",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 5000
+        },
+        {
+          "title": "terremoto",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 214000
+        },
+        {
+          "title": "de canção em canção",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 225000
+        },
+        {
+          "title": "preso no nosso passado",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 267000
+        },
+        {
+          "title": "furacão",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 224000
+        },
+        {
+          "title": "DEPOIS DO SOL E DA CHUVA",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 5000
+        },
+        {
+          "title": "gravidade",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 241000
+        },
+        {
+          "title": "não tem mais verão",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 201000
+        },
+        {
+          "title": "neblina",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 200000
+        },
+        {
+          "title": "fim do mundo",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 140000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

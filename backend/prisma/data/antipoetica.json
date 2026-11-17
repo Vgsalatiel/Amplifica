@@ -1,0 +1,26 @@
+{
+  "generatedAt": "2026-11-16T19:45:20.473Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "ae6a37a2-296b-4e6e-ab45-9d2f968ad38d",
+    "name": "Antipoetica",
+    "slug": "antipoetica",
+    "type": "BAND",
+    "country": "BR",
+    "city": "São Paulo",
+    "formedYear": null,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/ae6a37a2-296b-4e6e-ab45-9d2f968ad38d"
+      }
+    ],
+    "genres": [
+      "emo"
+    ]
+  },
+  "releases": [],
+  "pending": []
+}

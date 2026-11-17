@@ -1,0 +1,375 @@
+{
+  "generatedAt": "2026-11-16T19:44:23.458Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "702eff62-d677-4325-b399-7a5719187b78",
+    "name": "Gloria",
+    "slug": "gloria",
+    "type": "BAND",
+    "country": "BR",
+    "city": "São Paulo",
+    "formedYear": 2002,
+    "disbandedYear": null,
+    "bio": "O Gloria é uma banda brasileira de metalcore formada em 2002 em São Paulo, por Mi Vieira, que tinha saído do Dance of Days, e Yuri Nishida. A banda ganhou espaço depois de abrir um show do Fresno em São Paulo, e em 2008 o produtor Rick Bonadio a levou para o elenco da Arsenal Music. Em 2012 gravou o primeiro DVD, Renascido em Chamas, lançado em 2013.",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/702eff62-d677-4325-b399-7a5719187b78"
+      },
+      {
+        "name": "Wikipédia em português: Gloria (banda)",
+        "url": "https://pt.wikipedia.org/wiki/Gloria_(banda)"
+      }
+    ],
+    "genres": [
+      "metalcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "c4a9d360-28d5-4237-a8ed-da27acf47b1c",
+      "releaseMbid": "799981a9-dd5f-4680-910b-e0f0e2501e65",
+      "title": "O fim é uma certeza",
+      "type": "ALBUM",
+      "releaseDate": "2005",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Piano perfeito",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 265000
+        },
+        {
+          "title": "Quem cai",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 186000
+        },
+        {
+          "title": "Depois do funeral",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 210000
+        },
+        {
+          "title": "Muito distante",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 144000
+        },
+        {
+          "title": "O último inferno de nossas vidas",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 153000
+        },
+        {
+          "title": "O fim é uma certeza",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 204000
+        },
+        {
+          "title": "O sonho acabou",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 212000
+        },
+        {
+          "title": "Do You Still Hate Me?",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 141000
+        },
+        {
+          "title": "Verdades",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 199000
+        },
+        {
+          "title": "As 10 mil maneiras",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 103000
+        },
+        {
+          "title": "Máscaras, vidros e um pouco de angústia",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 234000
+        },
+        {
+          "title": "Lembranças de Maio",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 283000
+        }
+      ]
+    },
+    {
+      "mbid": "8c58357e-f97f-4e0f-90a5-f84db1b87cb2",
+      "releaseMbid": "75e2ba56-1b51-4858-a2fe-ad022c7fb0a3",
+      "title": "Nueva",
+      "type": "ALBUM",
+      "releaseDate": "2006",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Asas fracas",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 189000
+        },
+        {
+          "title": "Foi você, saudade e eu",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 201000
+        },
+        {
+          "title": "Bodas de sangue",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 139000
+        },
+        {
+          "title": "Janeiro de doismil eseis",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 270000
+        },
+        {
+          "title": "Sua derrota, sua solidão",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 147000
+        },
+        {
+          "title": "Próxima saída",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 167000
+        },
+        {
+          "title": "O homem e a mulher",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 289000
+        },
+        {
+          "title": "Antes do tempo",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 238000
+        },
+        {
+          "title": "Eterno efêmero",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 233000
+        },
+        {
+          "title": "10 mil maneiras[part II]",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 185000
+        },
+        {
+          "title": "Me deixa sonhar",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 310000
+        },
+        {
+          "title": "Untitled",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 62000
+        },
+        {
+          "title": "Viver a dor",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 1498000
+        }
+      ]
+    },
+    {
+      "mbid": "691f8330-cdc3-4268-a7f5-04d11d936312",
+      "releaseMbid": "e56f9d2a-0d60-41f9-8720-52ca250e4f8d",
+      "title": "Gloria",
+      "type": "ALBUM",
+      "releaseDate": "2009",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/691f8330-cdc3-4268-a7f5-04d11d936312/front-1200",
+      "tracks": [
+        {
+          "title": "Anemia",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Minha paz",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Tudo outra vez",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Asas fracas",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Agora é minha vez",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "É só você lembrar",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Me tira daqui",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Tirar você de mim",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "Inimigo do tempo",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Vai pagar caro por me conhecer",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": null
+        },
+        {
+          "title": "Diferente de você",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": null
+        },
+        {
+          "title": "Sua canção",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": null
+        },
+        {
+          "title": "Quando tudo terminar",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": null
+        },
+        {
+          "title": "No dia em que deixei você vencer",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "8def2873-9b42-4c02-9ee8-e200cf18ea88",
+      "releaseMbid": "7eab1cde-6b89-46a6-acef-db286536fdff",
+      "title": "[Re]nascido",
+      "type": "ALBUM",
+      "releaseDate": "2012",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/8def2873-9b42-4c02-9ee8-e200cf18ea88/front-1200",
+      "tracks": [
+        {
+          "title": "Bicho do mato",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 202000
+        },
+        {
+          "title": "É tudo meu",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 161000
+        },
+        {
+          "title": "A arte de fazer inimigos",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 176000
+        },
+        {
+          "title": "Presságio",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 229000
+        },
+        {
+          "title": "Só eu sei?",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 212000
+        },
+        {
+          "title": "Desalmado",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 156000
+        },
+        {
+          "title": "Pétalas",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 237000
+        },
+        {
+          "title": "Grito",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 231000
+        },
+        {
+          "title": "[Re]nascido",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 213000
+        },
+        {
+          "title": "Sangue",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 228000
+        },
+        {
+          "title": "Horizontes",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 282000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

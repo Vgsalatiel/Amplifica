@@ -1,0 +1,76 @@
+{
+  "generatedAt": "2026-11-16T00:00:00.000Z",
+  "source": "Spotify (páginas públicas dos artistas)",
+  "artist": {
+    "mbid": null,
+    "name": "Bad Luv",
+    "slug": "bad-luv",
+    "type": "BAND",
+    "country": "BR",
+    "city": null,
+    "formedYear": null,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "Spotify",
+        "url": "https://open.spotify.com/intl-pt/artist/3gnMduwfXqTAcuOHxtpkq8"
+      },
+      {
+        "name": "YouTube Music",
+        "url": "https://music.youtube.com/channel/UCKGpEOMqN_II987m8qRHj-g"
+      }
+    ],
+    "genres": [
+      "emo"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "O Medo Não Me Parou",
+      "type": "ALBUM",
+      "releaseDate": "2026",
+      "description": null,
+      "coverUrl": null,
+      "tracks": []
+    }
+  ],
+  "pending": [
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Furacão",
+      "type": "SINGLE",
+      "releaseDate": "2026",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Furacão",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Sinto Sua Falta",
+      "type": "SINGLE",
+      "releaseDate": "2026",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Sinto Sua Falta",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        }
+      ]
+    }
+  ]
+}

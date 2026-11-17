@@ -1,0 +1,2814 @@
+{
+  "generatedAt": "2026-11-16T19:48:32.747Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "5cc03b39-9b7d-43d6-a1d9-321c2e3aec50",
+    "name": "Dead Fish",
+    "slug": "dead-fish",
+    "type": "BAND",
+    "country": "BR",
+    "city": "Vitória",
+    "formedYear": 1991,
+    "disbandedYear": null,
+    "bio": "O Dead Fish é uma banda brasileira de hardcore melódico formada em Vitória, em 1991. Hoje é composta por Rodrigo Lima (vocal), Marcos Melloni (bateria), Ricardo Mastria (guitarra) e Igor Tsurumaki (baixo). Lançou quatro discos e várias demos de forma independente antes de ganhar projeção nacional com Zero e Um, de 2004, pela Deckdisc. A banda é conhecida pelo posicionamento político a favor de pautas progressistas.",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/5cc03b39-9b7d-43d6-a1d9-321c2e3aec50"
+      },
+      {
+        "name": "Wikipédia em português: Dead Fish",
+        "url": "https://pt.wikipedia.org/wiki/Dead_Fish"
+      }
+    ],
+    "genres": [
+      "melodic-hardcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "4d10e238-5427-37e9-9c2c-55f8f8dc235f",
+      "releaseMbid": "10f0f869-5008-4adf-b77a-ee5cfbcf0a59",
+      "title": "Sirva-se",
+      "type": "ALBUM",
+      "releaseDate": "1998",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4d10e238-5427-37e9-9c2c-55f8f8dc235f/front-1200",
+      "tracks": [
+        {
+          "title": "Molotov",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 117666
+        },
+        {
+          "title": "Compra!",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 140360
+        },
+        {
+          "title": "Anarquia Corporation",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 142133
+        },
+        {
+          "title": "Third World Friendship",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 163693
+        },
+        {
+          "title": "MST",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 165613
+        },
+        {
+          "title": "Diarioamente",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 158000
+        },
+        {
+          "title": "Just Skate",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 130533
+        },
+        {
+          "title": "Social Agression",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 125066
+        },
+        {
+          "title": "Individualismo de massa",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 239466
+        },
+        {
+          "title": "You Against!",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 144026
+        },
+        {
+          "title": "Fight for Conscience",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 141160
+        },
+        {
+          "title": "Wrong",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 131346
+        },
+        {
+          "title": "No Place",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 145560
+        },
+        {
+          "title": "The Party",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 255374
+        }
+      ]
+    },
+    {
+      "mbid": "c3fa6120-d91c-328d-acfd-42ba069e275f",
+      "releaseMbid": "24fb41ed-d403-4762-a6d4-54b6a4355a14",
+      "title": "Sonho médio",
+      "type": "ALBUM",
+      "releaseDate": "1999",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c3fa6120-d91c-328d-acfd-42ba069e275f/front-1200",
+      "tracks": [
+        {
+          "title": "Escapando",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 110533
+        },
+        {
+          "title": "Sobre a violência",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 91093
+        },
+        {
+          "title": "Modificar",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 224506
+        },
+        {
+          "title": "Paz verde",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 167466
+        },
+        {
+          "title": "Mulheres negras",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 142426
+        },
+        {
+          "title": "Sonho médio",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 122000
+        },
+        {
+          "title": "Por paz",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 127106
+        },
+        {
+          "title": "Fragmento",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 70533
+        },
+        {
+          "title": "Hoje",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 112360
+        },
+        {
+          "title": "Cidadão padrão",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 106373
+        },
+        {
+          "title": "Sua bandeira",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 115893
+        },
+        {
+          "title": "Canção para amigos",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 190773
+        },
+        {
+          "title": "Damn' Lie",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 122000
+        },
+        {
+          "title": "Lost Soul",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 182934
+        }
+      ]
+    },
+    {
+      "mbid": "81142f65-2898-3a89-ba70-e4856d8d4daf",
+      "releaseMbid": "08ff0bf5-86a3-425b-aa91-c0631acc253e",
+      "title": "Afasia",
+      "type": "ALBUM",
+      "releaseDate": "2001",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/81142f65-2898-3a89-ba70-e4856d8d4daf/front-1200",
+      "tracks": [
+        {
+          "title": "Afasia",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 164546
+        },
+        {
+          "title": "Proprietários do terceiro mundo",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 147706
+        },
+        {
+          "title": "Tango",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 207000
+        },
+        {
+          "title": "Viver",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 132080
+        },
+        {
+          "title": "A cura",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 151746
+        },
+        {
+          "title": "Revólver",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 144333
+        },
+        {
+          "title": "Linear",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 113493
+        },
+        {
+          "title": "Iceberg",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 179106
+        },
+        {
+          "title": "Noite",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 196506
+        },
+        {
+          "title": "No chão",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 121266
+        },
+        {
+          "title": "Reprogresso",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 151320
+        },
+        {
+          "title": "Ad Infinittum",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 112626
+        },
+        {
+          "title": "Me ensina",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 190093
+        },
+        {
+          "title": "Perfect Party",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 157174
+        }
+      ]
+    },
+    {
+      "mbid": "a082d94b-3c34-4878-97ad-4d47a3ca7e8e",
+      "releaseMbid": "dcaaf4d5-fe39-4028-8322-cc6734685438",
+      "title": "Metrofire",
+      "type": "ALBUM",
+      "releaseDate": "2001",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a082d94b-3c34-4878-97ad-4d47a3ca7e8e/front-1200",
+      "tracks": [
+        {
+          "title": "Tim Maia",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 112000
+        },
+        {
+          "title": "Metrofire",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 106000
+        },
+        {
+          "title": "Trajetória",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 73000
+        },
+        {
+          "title": "O Soco Racional",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 104000
+        },
+        {
+          "title": "Miojo",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 69000
+        },
+        {
+          "title": "Novo Mártir... Na Cruz",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 53000
+        },
+        {
+          "title": "O Futuro?",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 52000
+        },
+        {
+          "title": "Atenção",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 29000
+        },
+        {
+          "title": "Atenção (Versão II)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 29000
+        },
+        {
+          "title": "40 Minutos Na Ilha",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 63000
+        },
+        {
+          "title": "Another Beer",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 66000
+        },
+        {
+          "title": "Carta de Goldmund a Narciso / [Entrevista Rubão]",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 809000
+        }
+      ]
+    },
+    {
+      "mbid": "075b9bba-1217-4f5a-8590-13101290688f",
+      "releaseMbid": "05da6727-86f1-4992-90ee-b2e585c51c47",
+      "title": "Faces do terceiro mundo",
+      "type": "ALBUM",
+      "releaseDate": "2002",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/075b9bba-1217-4f5a-8590-13101290688f/front-1200",
+      "tracks": [
+        {
+          "title": "Frustation Behind the Mirror",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 156000
+        },
+        {
+          "title": "Tarde demais (Street Bulldogs cover)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 129000
+        },
+        {
+          "title": "Loser (Street Bulldogs cover)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 110000
+        },
+        {
+          "title": "Only the Rage Survives (Street Bulldogs cover)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 232000
+        },
+        {
+          "title": "O homem nú",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 106000
+        },
+        {
+          "title": "Tango (Dead Fish cover)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 169000
+        },
+        {
+          "title": "Me ensina (Dead Fish cover)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 165000
+        },
+        {
+          "title": "Proprietários do terceiro mundo (Dead Fish cover)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 127000
+        },
+        {
+          "title": "Neutral",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 171000
+        },
+        {
+          "title": "Take Control (Reffer cover)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 234000
+        },
+        {
+          "title": "Numb (Reffer cover)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 46000
+        },
+        {
+          "title": "Decisões ordinárias (Reffer cover)",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 78000
+        },
+        {
+          "title": "Vitrine",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 164000
+        },
+        {
+          "title": "Distantes visões (Noção de Nada cover)",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 153000
+        },
+        {
+          "title": "Diploma (Noção de Nada cover)",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 169000
+        },
+        {
+          "title": "Propósito nenhum (Noção de Nada cover)",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 139000
+        }
+      ]
+    },
+    {
+      "mbid": "b3a11897-c3ed-3ff1-888d-9546bc440821",
+      "releaseMbid": "77807898-4eb4-45f4-9b9c-c0556a5f1439",
+      "title": "EP 2002",
+      "type": "EP",
+      "releaseDate": "2002",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b3a11897-c3ed-3ff1-888d-9546bc440821/front-1200",
+      "tracks": [
+        {
+          "title": "Sem alma",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 164093
+        },
+        {
+          "title": "Aprendendo a dirigir",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 135093
+        },
+        {
+          "title": "Um quarto",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 107266
+        },
+        {
+          "title": "A cura (dirty mix)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 151000
+        },
+        {
+          "title": "I Thought It Was a Brand New Start",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 117480
+        },
+        {
+          "title": "Sometimes",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 133067
+        }
+      ]
+    },
+    {
+      "mbid": "e862b37e-9740-4295-80fa-3565f6a5a623",
+      "releaseMbid": "d97df633-3ec1-49ed-b50b-5bb14ff6751e",
+      "title": "The Afasia Sessions",
+      "type": "EP",
+      "releaseDate": "2002",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "I Thought It Was Only a Brand",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 118000
+        },
+        {
+          "title": "Somethings",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 134000
+        },
+        {
+          "title": "Estações",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 107000
+        },
+        {
+          "title": "Sonho médio dois",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 135000
+        },
+        {
+          "title": "Um quarto",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 164000
+        },
+        {
+          "title": "Somethings (Slow version)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 185000
+        }
+      ]
+    },
+    {
+      "mbid": "ed5c941a-17f7-3e3d-8f29-bf222e18e813",
+      "releaseMbid": "a6f36437-5dfb-4dc4-a0a0-ee91bc0b0510",
+      "title": "Ao vivo",
+      "type": "LIVE",
+      "releaseDate": "2003",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ed5c941a-17f7-3e3d-8f29-bf222e18e813/front-1200",
+      "tracks": [
+        {
+          "title": "Intro",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 104893
+        },
+        {
+          "title": "Tango",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 196906
+        },
+        {
+          "title": "Modificar",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 196800
+        },
+        {
+          "title": "Mulheres negras",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 146226
+        },
+        {
+          "title": "O homem nú",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 139800
+        },
+        {
+          "title": "Canção para amigos",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 200800
+        },
+        {
+          "title": "Proprietários do 3º mundo",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 185173
+        },
+        {
+          "title": "Por paz",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 158960
+        },
+        {
+          "title": "Molotov",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 129866
+        },
+        {
+          "title": "Perfect party",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 148666
+        },
+        {
+          "title": "Noite",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 208040
+        },
+        {
+          "title": "Escapando",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 111466
+        },
+        {
+          "title": "Sua bandeira",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 108533
+        },
+        {
+          "title": "No chão",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 122400
+        },
+        {
+          "title": "Afasia",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 175626
+        },
+        {
+          "title": "Cidadão padrão",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 101306
+        },
+        {
+          "title": "MST",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 146493
+        },
+        {
+          "title": "Sonho médio",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 132000
+        },
+        {
+          "title": "Anarquia Corporation",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 140106
+        },
+        {
+          "title": "Fragmento",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 106226
+        },
+        {
+          "title": "Paz verde",
+          "discNumber": 1,
+          "position": 21,
+          "durationMs": 173000
+        },
+        {
+          "title": "Diarioamente",
+          "discNumber": 1,
+          "position": 22,
+          "durationMs": 169306
+        },
+        {
+          "title": "Me ensina",
+          "discNumber": 1,
+          "position": 23,
+          "durationMs": 194226
+        },
+        {
+          "title": "Iceberg",
+          "discNumber": 1,
+          "position": 24,
+          "durationMs": 443174
+        }
+      ]
+    },
+    {
+      "mbid": "a91d8f0d-c95e-3c58-ad64-a84dcd114582",
+      "releaseMbid": "8add24d7-5d79-4743-835e-8b8ae99d6562",
+      "title": "Zero e um",
+      "type": "ALBUM",
+      "releaseDate": "2004",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a91d8f0d-c95e-3c58-ad64-a84dcd114582/front-1200",
+      "tracks": [
+        {
+          "title": "A urgência",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 181333
+        },
+        {
+          "title": "Tão iguais",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 145426
+        },
+        {
+          "title": "Zero e um",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 129000
+        },
+        {
+          "title": "Queda livre",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 218973
+        },
+        {
+          "title": "Bem-vindo ao clube",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 187400
+        },
+        {
+          "title": "Senhor, seu troco",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 26933
+        },
+        {
+          "title": "Você",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 200893
+        },
+        {
+          "title": "Sonhos colonizados",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 118973
+        },
+        {
+          "title": "Por não ter o que dizer",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 209800
+        },
+        {
+          "title": "Engarrafamento",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 190426
+        },
+        {
+          "title": "Desencontros",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 49733
+        },
+        {
+          "title": "Re-aprender a andar",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 162973
+        },
+        {
+          "title": "Siga",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 106400
+        },
+        {
+          "title": "Tudo",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 418760
+        }
+      ]
+    },
+    {
+      "mbid": "d8062909-6974-46d8-867b-b52b41c316c5",
+      "releaseMbid": "c16f60a7-e03b-4aa7-8d4c-0ee4c2206f61",
+      "title": "MTV apresenta: Dead Fish",
+      "type": "LIVE",
+      "releaseDate": "2004",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d8062909-6974-46d8-867b-b52b41c316c5/front-1200",
+      "tracks": [
+        {
+          "title": "A urgência",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 253000
+        },
+        {
+          "title": "Sonho médio",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 124000
+        },
+        {
+          "title": "Afasia",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 205000
+        },
+        {
+          "title": "Tão iguais",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 140000
+        },
+        {
+          "title": "Escapando",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 120000
+        },
+        {
+          "title": "Zero e um",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 129000
+        },
+        {
+          "title": "Linear",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 103000
+        },
+        {
+          "title": "Mulheres negras",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 168000
+        },
+        {
+          "title": "Molotov",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 166000
+        },
+        {
+          "title": "Senhor, seu troco",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 77000
+        },
+        {
+          "title": "Você",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 195000
+        },
+        {
+          "title": "Ad Infinitum",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 106000
+        },
+        {
+          "title": "Fragmento",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 93000
+        },
+        {
+          "title": "Desencontros",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 49000
+        },
+        {
+          "title": "Queda livre",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 240000
+        },
+        {
+          "title": "Viver",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 123000
+        },
+        {
+          "title": "Tango",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 183000
+        },
+        {
+          "title": "Bem-vindo ao clube",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 207000
+        },
+        {
+          "title": "Paz verde",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 162000
+        },
+        {
+          "title": "Proprietários do terceiro mundo",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 154000
+        },
+        {
+          "title": "Sobre a violência",
+          "discNumber": 1,
+          "position": 21,
+          "durationMs": 124000
+        },
+        {
+          "title": "Siga",
+          "discNumber": 1,
+          "position": 22,
+          "durationMs": 105000
+        },
+        {
+          "title": "Engarrafamento",
+          "discNumber": 1,
+          "position": 23,
+          "durationMs": 186000
+        },
+        {
+          "title": "Noite",
+          "discNumber": 1,
+          "position": 24,
+          "durationMs": 240000
+        }
+      ]
+    },
+    {
+      "mbid": "ffed11ae-6fd6-43cf-8657-86534e35292d",
+      "releaseMbid": "98814c46-78d1-4aa2-909d-ce3dee362c69",
+      "title": "Demo Tapes",
+      "type": "COMPILATION",
+      "releaseDate": "2006",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ffed11ae-6fd6-43cf-8657-86534e35292d/front-1200",
+      "tracks": [
+        {
+          "title": "Lost Soul",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 248000
+        },
+        {
+          "title": "Yourownself",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 134000
+        },
+        {
+          "title": "Another Beer",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 82000
+        },
+        {
+          "title": "Social Agression",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 165000
+        },
+        {
+          "title": "The Ugly Face of Pain",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 197000
+        },
+        {
+          "title": "Damn' Lie",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 127000
+        },
+        {
+          "title": "Just Skate",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 128000
+        },
+        {
+          "title": "Fight for Conscience",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 139000
+        },
+        {
+          "title": "You Against",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 151000
+        },
+        {
+          "title": "Wrong",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 124000
+        },
+        {
+          "title": "Third World Friendship",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 164000
+        },
+        {
+          "title": "Social Agression",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 203000
+        },
+        {
+          "title": "The Party",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 120000
+        },
+        {
+          "title": "Damn' Lie (Bonus track)",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 125000
+        }
+      ]
+    },
+    {
+      "mbid": "f73f7629-8579-3fa6-b045-501dbcd98ffd",
+      "releaseMbid": "78aa44bb-1030-4c1b-b9a7-d7e51dd1d620",
+      "title": "Um Homem Só",
+      "type": "ALBUM",
+      "releaseDate": "2006-07-25",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f73f7629-8579-3fa6-b045-501dbcd98ffd/front-1200",
+      "tracks": [
+        {
+          "title": "Destruir tudo de novo",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 202000
+        },
+        {
+          "title": "Didático",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 188000
+        },
+        {
+          "title": "Rei de açúcar",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 93000
+        },
+        {
+          "title": "Fora do mapa",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 175000
+        },
+        {
+          "title": "Oldboy",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 98000
+        },
+        {
+          "title": "Obrigação",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 162000
+        },
+        {
+          "title": "Diesel",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 163000
+        },
+        {
+          "title": "Exílio",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 214000
+        },
+        {
+          "title": "Canção menor",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 56000
+        },
+        {
+          "title": "Menos do mesmo",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 250000
+        },
+        {
+          "title": "Eleito por ninguém",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 134000
+        },
+        {
+          "title": "Couraça",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 162000
+        },
+        {
+          "title": "Um homem só",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 249000
+        },
+        {
+          "title": "A recompensa",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 165000
+        }
+      ]
+    },
+    {
+      "mbid": "d84d5dc2-a5f9-3157-9004-6745293b9986",
+      "releaseMbid": "6c7ee5e0-0fa0-4cf0-80ed-2cb41601312d",
+      "title": "Contra todos",
+      "type": "ALBUM",
+      "releaseDate": "2009",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d84d5dc2-a5f9-3157-9004-6745293b9986/front-1200",
+      "tracks": [
+        {
+          "title": "Não",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 57000
+        },
+        {
+          "title": "Autonomia",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 219000
+        },
+        {
+          "title": "Venceremos",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 175000
+        },
+        {
+          "title": "Quente",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 124000
+        },
+        {
+          "title": "Subprodutos",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 199000
+        },
+        {
+          "title": "Asfalto",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 232000
+        },
+        {
+          "title": "Contra todos",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 193000
+        },
+        {
+          "title": "Shark Attack",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 41000
+        },
+        {
+          "title": "A dialética",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 178000
+        },
+        {
+          "title": "O melhor exemplo do que não seguir",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 213000
+        },
+        {
+          "title": "Descartáveis",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 251000
+        },
+        {
+          "title": "Tupamaru",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 162000
+        },
+        {
+          "title": "Armadilhas verbais",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 112000
+        },
+        {
+          "title": "Piada liberal",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 623000
+        }
+      ]
+    },
+    {
+      "mbid": "9f81c229-1d68-4a76-8cec-1d9e04081301",
+      "releaseMbid": "8817b25d-e762-4fd3-83c9-801524921a0d",
+      "title": "Dead Fish e Mukeka Di Rato",
+      "type": "EP",
+      "releaseDate": "2010-03-26",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/9f81c229-1d68-4a76-8cec-1d9e04081301/front-1200",
+      "tracks": [
+        {
+          "title": "Michel Oghata",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 180000
+        },
+        {
+          "title": "Múmia",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 162000
+        },
+        {
+          "title": "Umbigo",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 97000
+        },
+        {
+          "title": "Sonho corrompido",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 95000
+        }
+      ]
+    },
+    {
+      "mbid": "153e3056-768e-4cbe-b0c1-82d1ef42bd29",
+      "releaseMbid": "c532b38d-1845-43a1-8040-1cb82ec7a97c",
+      "title": "O melhor de Dead Fish",
+      "type": "COMPILATION",
+      "releaseDate": "2010-06-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/153e3056-768e-4cbe-b0c1-82d1ef42bd29/front-1200",
+      "tracks": [
+        {
+          "title": "Autonomia",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 218918
+        },
+        {
+          "title": "Sonho médio",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 120924
+        },
+        {
+          "title": "Proprietários do terceiro mundo",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 147642
+        },
+        {
+          "title": "Você",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 200888
+        },
+        {
+          "title": "Afasia",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 164510
+        },
+        {
+          "title": "Bem-vindo ao clube",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 187369
+        },
+        {
+          "title": "Molotov",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 117655
+        },
+        {
+          "title": "Tango",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 206971
+        },
+        {
+          "title": "Escapando",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 109334
+        },
+        {
+          "title": "Obrigação",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 160249
+        },
+        {
+          "title": "Zero e um",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 128990
+        },
+        {
+          "title": "Mulheres negras",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 141344
+        },
+        {
+          "title": "Noite",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 196480
+        },
+        {
+          "title": "Venceremos",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 174986
+        }
+      ]
+    },
+    {
+      "mbid": "a407f0d1-6e71-4d29-afe5-d49613590e47",
+      "releaseMbid": "a0aa5960-862c-4da1-852a-fed691745a89",
+      "title": "20 anos",
+      "type": "LIVE",
+      "releaseDate": "2012-06-26",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a407f0d1-6e71-4d29-afe5-d49613590e47/front-1200",
+      "tracks": [
+        {
+          "title": "Asfalto",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 250000
+        },
+        {
+          "title": "Zero e um",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 115000
+        },
+        {
+          "title": "Oldboy",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 123000
+        },
+        {
+          "title": "Molotov",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 99000
+        },
+        {
+          "title": "Iceberg",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 181000
+        },
+        {
+          "title": "Venceremos",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 192000
+        },
+        {
+          "title": "Tango",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 192000
+        },
+        {
+          "title": "Paz verde",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 153000
+        },
+        {
+          "title": "Sonho médio",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 111000
+        },
+        {
+          "title": "Obrigação",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 143000
+        },
+        {
+          "title": "Bem vindo ao clube",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 181000
+        },
+        {
+          "title": "Piada liberal",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 236000
+        },
+        {
+          "title": "Me ensina",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 219000
+        },
+        {
+          "title": "Mulheres negras",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 147000
+        },
+        {
+          "title": "Subprodutos",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 205000
+        },
+        {
+          "title": "Noite",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 183000
+        },
+        {
+          "title": "Tupamaru",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 157000
+        },
+        {
+          "title": "Autonomia",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 224000
+        },
+        {
+          "title": "A urgência",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 170000
+        },
+        {
+          "title": "Viver",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 119000
+        },
+        {
+          "title": "Não",
+          "discNumber": 1,
+          "position": 21,
+          "durationMs": 49000
+        },
+        {
+          "title": "Tão iguais",
+          "discNumber": 1,
+          "position": 22,
+          "durationMs": 170000
+        },
+        {
+          "title": "Didático",
+          "discNumber": 1,
+          "position": 23,
+          "durationMs": 183000
+        },
+        {
+          "title": "Você",
+          "discNumber": 1,
+          "position": 24,
+          "durationMs": 192000
+        },
+        {
+          "title": "Um homem só",
+          "discNumber": 1,
+          "position": 25,
+          "durationMs": 240000
+        },
+        {
+          "title": "Proprietários do terceiro mundo",
+          "discNumber": 1,
+          "position": 26,
+          "durationMs": 137000
+        },
+        {
+          "title": "Canção para amigos",
+          "discNumber": 1,
+          "position": 27,
+          "durationMs": 201000
+        },
+        {
+          "title": "Eleito por ninguém",
+          "discNumber": 1,
+          "position": 28,
+          "durationMs": 136000
+        },
+        {
+          "title": "Queda livre",
+          "discNumber": 1,
+          "position": 29,
+          "durationMs": 219000
+        },
+        {
+          "title": "Afasia",
+          "discNumber": 1,
+          "position": 30,
+          "durationMs": 218000
+        }
+      ]
+    },
+    {
+      "mbid": "02934be5-0a49-4751-8107-4e1813a4b2db",
+      "releaseMbid": "6abf480e-d9aa-4f85-808d-6d5fdd053cf8",
+      "title": "Vitória",
+      "type": "ALBUM",
+      "releaseDate": "2015",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/02934be5-0a49-4751-8107-4e1813a4b2db/front-1200",
+      "tracks": [
+        {
+          "title": "Selfegofactóide",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Jogajogo",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "912 passos",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Nous sommes les paraibes",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Sem sinal",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Lupita",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Cara violência",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Obsoleto",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "Kryptonita",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Vitória",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": null
+        },
+        {
+          "title": "Procrastinando",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": null
+        },
+        {
+          "title": "Sausalito",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": null
+        },
+        {
+          "title": "Gigante e inseguro",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": null
+        },
+        {
+          "title": "Pontilhão",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "1fd1ff04-7601-4e79-93f3-696c768dba71",
+      "releaseMbid": "afad5950-48f4-477f-b6a9-75dc7b3dc962",
+      "title": "Dead Fish na GIG Showlivre",
+      "type": "LIVE",
+      "releaseDate": "2017-05-26",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/1fd1ff04-7601-4e79-93f3-696c768dba71/front-1200",
+      "tracks": [
+        {
+          "title": "Afasia (Ao Vivo)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 149705
+        },
+        {
+          "title": "Viver (Ao Vivo)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 115744
+        },
+        {
+          "title": "Molotov (Ao Vivo)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 99645
+        },
+        {
+          "title": "Asfalto (Ao Vivo)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 231153
+        },
+        {
+          "title": "Selfegofactóide (Ao Vivo)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 132601
+        },
+        {
+          "title": "Mulheres Negras (Ao Vivo)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 142532
+        },
+        {
+          "title": "Autonomia (Ao Vivo)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 211827
+        },
+        {
+          "title": "Cara Violência (Ao Vivo)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 154083
+        },
+        {
+          "title": "Não (Ao Vivo)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 56319
+        },
+        {
+          "title": "Queda Livre (Ao Vivo)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 208104
+        },
+        {
+          "title": "Diesel (Ao Vivo)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 154813
+        },
+        {
+          "title": "Venceremos (Ao Vivo)",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 191482
+        },
+        {
+          "title": "Sausalito (Ao Vivo)",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 126509
+        },
+        {
+          "title": "Proprietários do Terceiro Mundo (Ao Vivo)",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 131414
+        },
+        {
+          "title": "Vitória (Ao Vivo)",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 192858
+        },
+        {
+          "title": "Bem Vindo ao Clube (Ao Vivo)",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 165549
+        },
+        {
+          "title": "Sonho Médio (Ao Vivo)",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 120378
+        },
+        {
+          "title": "Contra Todos (Ao Vivo)",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 217462
+        },
+        {
+          "title": "A Urgência (Ao Vivo)",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 167766
+        },
+        {
+          "title": "Tão Iguais (Ao Vivo)",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 161747
+        }
+      ]
+    },
+    {
+      "mbid": "f9ad1d71-6edd-4967-b961-88f00d32b6cb",
+      "releaseMbid": "33d6412e-0d1f-43f3-a17e-63a0c53bbf65",
+      "title": "XXV Anos Ao Vivo Em SP",
+      "type": "LIVE",
+      "releaseDate": "2017-06-09",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Afasia (Ao Vivo)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 188360
+        },
+        {
+          "title": "Sobre a Violência (Ao Vivo)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 78226
+        },
+        {
+          "title": "Molotov (Ao Vivo)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 97640
+        },
+        {
+          "title": "912 Passos (Ao Vivo)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 173733
+        },
+        {
+          "title": "Proprietários do Terceiro Mundo (Ao Vivo)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 128173
+        },
+        {
+          "title": "Jogo Jogo (Ao Vivo)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 132293
+        },
+        {
+          "title": "Rei de Açúcar (Ao Vivo)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 83320
+        },
+        {
+          "title": "Queda Livre (Ao Vivo)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 201466
+        },
+        {
+          "title": "Perfect Party (Ao Vivo)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 152906
+        },
+        {
+          "title": "Venceremos (Ao Vivo)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 161906
+        },
+        {
+          "title": "Ad Infinitum (Ao Vivo)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 127133
+        },
+        {
+          "title": "Revólver (Ao Vivo)",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 136466
+        },
+        {
+          "title": "Nous Sommes Les Paraybes (Ao Vivo)",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 119093
+        },
+        {
+          "title": "Mst (Ao Vivo)",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 159160
+        },
+        {
+          "title": "Modificar (Ao Vivo)",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 242146
+        },
+        {
+          "title": "Zero e Um (Ao Vivo)",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 116053
+        },
+        {
+          "title": "Autonomia (Ao Vivo)",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 195586
+        },
+        {
+          "title": "Destruir Tudo de Novo (Ao Vivo)",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 179640
+        },
+        {
+          "title": "Armadilhas Verbais (Ao Vivo)",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 114653
+        },
+        {
+          "title": "Desencontros (Ao Vivo)",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 44746
+        },
+        {
+          "title": "Couraça (Ao Vivo)",
+          "discNumber": 1,
+          "position": 21,
+          "durationMs": 162200
+        },
+        {
+          "title": "Tão Iguais (Ao Vivo)",
+          "discNumber": 1,
+          "position": 22,
+          "durationMs": 246253
+        },
+        {
+          "title": "Asfalto (Ao Vivo)",
+          "discNumber": 1,
+          "position": 23,
+          "durationMs": 222773
+        },
+        {
+          "title": "Diesel (Ao Vivo)",
+          "discNumber": 1,
+          "position": 24,
+          "durationMs": 167000
+        },
+        {
+          "title": "Selfegofactóide (Ao Vivo)",
+          "discNumber": 1,
+          "position": 25,
+          "durationMs": 134400
+        },
+        {
+          "title": "Shark Attack (Ao Vivo)",
+          "discNumber": 1,
+          "position": 26,
+          "durationMs": 46586
+        },
+        {
+          "title": "Just Skate (Ao Vivo)",
+          "discNumber": 1,
+          "position": 27,
+          "durationMs": 105600
+        },
+        {
+          "title": "Hoje (Ao Vivo)",
+          "discNumber": 1,
+          "position": 28,
+          "durationMs": 106440
+        },
+        {
+          "title": "Vitória (Ao Vivo)",
+          "discNumber": 1,
+          "position": 29,
+          "durationMs": 200466
+        },
+        {
+          "title": "Mulheres Negras (Ao Vivo)",
+          "discNumber": 1,
+          "position": 30,
+          "durationMs": 224133
+        },
+        {
+          "title": "Contra Todos (Ao Vivo)",
+          "discNumber": 1,
+          "position": 31,
+          "durationMs": 236066
+        },
+        {
+          "title": "A Urgência (Ao Vivo)",
+          "discNumber": 1,
+          "position": 32,
+          "durationMs": 257760
+        },
+        {
+          "title": "Bem-Vindo Ao Clube (Ao Vivo)",
+          "discNumber": 1,
+          "position": 33,
+          "durationMs": 175306
+        },
+        {
+          "title": "Sonho Médio (Ao Vivo)",
+          "discNumber": 1,
+          "position": 34,
+          "durationMs": 143693
+        }
+      ]
+    },
+    {
+      "mbid": "ba1d4de8-c003-462d-b1fb-b2a4f30b933d",
+      "releaseMbid": "7145db13-b2ac-4656-8d16-c64efe5dbd40",
+      "title": "Ponto cego",
+      "type": "ALBUM",
+      "releaseDate": "2019-05-31",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ba1d4de8-c003-462d-b1fb-b2a4f30b933d/front-1200",
+      "tracks": [
+        {
+          "title": "A inevitável mudança",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Sangue nas mãos",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Pobres cachorros",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Não termina assim",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Sombras da caverna",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "O melhor em um",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Doutrina do choque",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Etiqueta social",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "SUV's (Stupids Utility Vehicle)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Apagão",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": null
+        },
+        {
+          "title": "Janelas",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": null
+        },
+        {
+          "title": "Messias",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": null
+        },
+        {
+          "title": "Receita pro fracasso",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": null
+        },
+        {
+          "title": "Descendo as escadas",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "c78bafcf-f951-4bfd-ab9b-5551b8274554",
+      "releaseMbid": "4ba2337d-f6d1-4c59-b3e1-60af36013749",
+      "title": "30 + 1, Pt. 1",
+      "type": "LIVE",
+      "releaseDate": "2022-06-17",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c78bafcf-f951-4bfd-ab9b-5551b8274554/front-1200",
+      "tracks": [
+        {
+          "title": "Escapando",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 138255
+        },
+        {
+          "title": "Mulheres Negras",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 136885
+        },
+        {
+          "title": "Mst",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 144659
+        },
+        {
+          "title": "Molotov",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 103581
+        },
+        {
+          "title": "Cidadão Padrão",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 94141
+        },
+        {
+          "title": "Linear",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 107358
+        },
+        {
+          "title": "Fragmento",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 65009
+        },
+        {
+          "title": "Third World Friendship",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 162480
+        },
+        {
+          "title": "Anarquia Corporation",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 140404
+        },
+        {
+          "title": "Social Agression",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 137022
+        },
+        {
+          "title": "Just Skate",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 111503
+        },
+        {
+          "title": "Paz Verde",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 161487
+        },
+        {
+          "title": "Hoje",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 110641
+        },
+        {
+          "title": "Por Paz",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 138172
+        },
+        {
+          "title": "Tango",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 201865
+        },
+        {
+          "title": "Revólver",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 142753
+        },
+        {
+          "title": "Ad Infinitum",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 107316
+        },
+        {
+          "title": "Viver",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 123168
+        },
+        {
+          "title": "Reprogresso",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 151815
+        },
+        {
+          "title": "Proprietários do Terceiro Mundo",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 145985
+        },
+        {
+          "title": "Canção para Amigos",
+          "discNumber": 1,
+          "position": 21,
+          "durationMs": 188878
+        },
+        {
+          "title": "Iceberg",
+          "discNumber": 1,
+          "position": 22,
+          "durationMs": 178441
+        },
+        {
+          "title": "Perfect Party",
+          "discNumber": 1,
+          "position": 23,
+          "durationMs": 149891
+        },
+        {
+          "title": "Afasia",
+          "discNumber": 1,
+          "position": 24,
+          "durationMs": 152591
+        },
+        {
+          "title": "Sonho Médio",
+          "discNumber": 1,
+          "position": 25,
+          "durationMs": 139232
+        }
+      ]
+    },
+    {
+      "mbid": "25eb28ec-85b8-4fc1-a01b-c488d154d00c",
+      "releaseMbid": "ba092b7b-4a67-4432-84d3-ede2b1aa7257",
+      "title": "30 + 1, Pt. 2",
+      "type": "LIVE",
+      "releaseDate": "2022-07-08",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/25eb28ec-85b8-4fc1-a01b-c488d154d00c/front-1200",
+      "tracks": [
+        {
+          "title": "A Urgência",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 211488
+        },
+        {
+          "title": "Tão Iguais",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 165674
+        },
+        {
+          "title": "Didático",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 177898
+        },
+        {
+          "title": "Destruir Tudo de Novo",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 187964
+        },
+        {
+          "title": "Não",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 50202
+        },
+        {
+          "title": "Zero e Um",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 121987
+        },
+        {
+          "title": "Oldboy",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 95097
+        },
+        {
+          "title": "Diesel",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 161873
+        },
+        {
+          "title": "Eleito por Ninguém",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 125476
+        },
+        {
+          "title": "Um Homem Só",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 233041
+        },
+        {
+          "title": "Siga",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 101477
+        },
+        {
+          "title": "Tudo",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 266716
+        },
+        {
+          "title": "Autonomia",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 212172
+        },
+        {
+          "title": "Fora do Mapa",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 188058
+        },
+        {
+          "title": "Quente",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 124912
+        },
+        {
+          "title": "Senhor Seu Troco",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 29552
+        },
+        {
+          "title": "Você",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 187540
+        },
+        {
+          "title": "Queda Livre",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 220498
+        },
+        {
+          "title": "Venceremos",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 163770
+        },
+        {
+          "title": "A Dialética",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 172337
+        },
+        {
+          "title": "Por Não Ter o Que Dizer",
+          "discNumber": 1,
+          "position": 21,
+          "durationMs": 206895
+        },
+        {
+          "title": "Piada Liberal",
+          "discNumber": 1,
+          "position": 22,
+          "durationMs": 224658
+        },
+        {
+          "title": "Contra Todos",
+          "discNumber": 1,
+          "position": 23,
+          "durationMs": 212699
+        },
+        {
+          "title": "Asfalto",
+          "discNumber": 1,
+          "position": 24,
+          "durationMs": 229491
+        },
+        {
+          "title": "Bem-Vindo Ao Clube",
+          "discNumber": 1,
+          "position": 25,
+          "durationMs": 211784
+        }
+      ]
+    },
+    {
+      "mbid": "db5cc65f-8409-4f95-ac8c-91dbb366c342",
+      "releaseMbid": "32d8c7ef-8106-4ba9-85c8-f6308dfedf63",
+      "title": "30 + 1, Pt.3",
+      "type": "LIVE",
+      "releaseDate": "2022-08-12",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/db5cc65f-8409-4f95-ac8c-91dbb366c342/front-1200",
+      "tracks": [
+        {
+          "title": "Selfegofactoide",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 166634
+        },
+        {
+          "title": "Jogo Jogo",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 141578
+        },
+        {
+          "title": "912 Passos",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 180526
+        },
+        {
+          "title": "Sausalito",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 136129
+        },
+        {
+          "title": "Obsoleto",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 88997
+        },
+        {
+          "title": "Roubando Comida",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 125103
+        },
+        {
+          "title": "Cara Violência",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 147709
+        },
+        {
+          "title": "Gigante e Inseguro",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 207293
+        },
+        {
+          "title": "Nous Sommes Les Paraibes",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 136434
+        },
+        {
+          "title": "Apagão",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 131485
+        },
+        {
+          "title": "Etiqueta Social",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 59793
+        },
+        {
+          "title": "Messias",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 163599
+        },
+        {
+          "title": "Receita Pro Fracasso",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 172984
+        },
+        {
+          "title": "Descendo As Escadas",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 215532
+        },
+        {
+          "title": "A Inevitável Mudança",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 151725
+        },
+        {
+          "title": "Sombras da Caverna",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 169864
+        },
+        {
+          "title": "Modern Man",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 104749
+        },
+        {
+          "title": "A Recompensa",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 158489
+        },
+        {
+          "title": "Doutrina do Choque",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 201166
+        },
+        {
+          "title": "Dêem Nome Aos Bois",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 159125
+        },
+        {
+          "title": "Suv's (Stupids Utility Vehicle)",
+          "discNumber": 1,
+          "position": 21,
+          "durationMs": 201949
+        },
+        {
+          "title": "O Outro do Outro",
+          "discNumber": 1,
+          "position": 22,
+          "durationMs": 211247
+        },
+        {
+          "title": "Vitória",
+          "discNumber": 1,
+          "position": 23,
+          "durationMs": 200367
+        },
+        {
+          "title": "Não Termina Assim",
+          "discNumber": 1,
+          "position": 24,
+          "durationMs": 156720
+        },
+        {
+          "title": "Sangue Nas Mãos",
+          "discNumber": 1,
+          "position": 25,
+          "durationMs": 211304
+        }
+      ]
+    },
+    {
+      "mbid": "f0cd78f1-7e6d-4a44-94a2-eaaaa51f6c13",
+      "releaseMbid": "eefae7fa-d0c1-4754-add2-b67141f2e049",
+      "title": "Labirinto da memória",
+      "type": "ALBUM",
+      "releaseDate": "2024-01-12",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f0cd78f1-7e6d-4a44-94a2-eaaaa51f6c13/front-1200",
+      "tracks": [
+        {
+          "title": "Adeus adeus",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 160030
+        },
+        {
+          "title": "Dentes amarelos",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 155875
+        },
+        {
+          "title": "49",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 214526
+        },
+        {
+          "title": "Avenida Maruípe",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 226286
+        },
+        {
+          "title": "Interrupção",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 187746
+        },
+        {
+          "title": "Estaremos lá",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 161555
+        },
+        {
+          "title": "Aos poucos",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 204910
+        },
+        {
+          "title": "Criança versus criança",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 160053
+        },
+        {
+          "title": "Labirinto da memória",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 183995
+        },
+        {
+          "title": "11 de setembro",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 172490
+        },
+        {
+          "title": "Bolero",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 112266
+        },
+        {
+          "title": "Divino caos",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 179852
+        },
+        {
+          "title": "Você conhece Pistoia?",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 101697
+        }
+      ]
+    },
+    {
+      "mbid": "e28752d5-41a0-4715-a021-3af71c38aef7",
+      "releaseMbid": "f9af8eb9-dcea-4684-952b-06296fef8417",
+      "title": "20 Anos de Zero e Um (Ao Vivo)",
+      "type": "ALBUM",
+      "releaseDate": "2026-03-04",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/e28752d5-41a0-4715-a021-3af71c38aef7/front-1200",
+      "tracks": [
+        {
+          "title": "A Urgência - Ao Vivo",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 175516
+        },
+        {
+          "title": "Tão Iguais - Ao Vivo",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 153500
+        },
+        {
+          "title": "Queda Livre - Ao Vivo",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 206750
+        },
+        {
+          "title": "Bem-Vindo ao Clube - Ao Vivo",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 170683
+        },
+        {
+          "title": "Zero E Um - Ao Vivo",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 120683
+        },
+        {
+          "title": "Engarrafamento - Ao Vivo",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 180883
+        },
+        {
+          "title": "Senhor, Seu Troco - Ao Vivo",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 25714
+        },
+        {
+          "title": "Você - Ao Vivo",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 183293
+        },
+        {
+          "title": "Desencontros - Ao Vivo",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 45712
+        },
+        {
+          "title": "Re-Aprender A Andar - Ao Vivo",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 149516
+        },
+        {
+          "title": "Por Não Ter O Que Dizer - Ao Vivo",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 194816
+        },
+        {
+          "title": "Siga - Ao Vivo",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 91733
+        },
+        {
+          "title": "Sonhos Colonizados - Ao Vivo",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 105808
+        },
+        {
+          "title": "Tudo - Ao Vivo",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 266783
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

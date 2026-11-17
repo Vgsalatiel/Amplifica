@@ -1,0 +1,654 @@
+{
+  "generatedAt": "2026-11-16T19:45:05.487Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "61aaaf38-2bfe-4cf2-b471-907c6d5a14e3",
+    "name": "Hateen",
+    "slug": "hateen",
+    "type": "BAND",
+    "country": "BR",
+    "city": null,
+    "formedYear": 1994,
+    "disbandedYear": null,
+    "bio": "O Hateen é uma banda de rock formada em 1994 em São Paulo, por Rodrigo Koala, Japinha e Cesinha Santisteban. Tem sete álbuns gravados, os quatro primeiros com todas as letras em inglês, e um DVD ao vivo. A partir do quinto álbum, Procedimentos de Emergência, de 2006, passou a incluir músicas em português.",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/61aaaf38-2bfe-4cf2-b471-907c6d5a14e3"
+      },
+      {
+        "name": "Wikipédia em português: Hateen",
+        "url": "https://pt.wikipedia.org/wiki/Hateen"
+      }
+    ],
+    "genres": [
+      "melodic-hardcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "86d402c4-60da-4770-8324-585462bb759f",
+      "releaseMbid": "ec81b8ad-93cb-42ce-8f75-92b9340784e3",
+      "title": "Hidrophobia",
+      "type": "ALBUM",
+      "releaseDate": "1998-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/86d402c4-60da-4770-8324-585462bb759f/front-1200",
+      "tracks": [
+        {
+          "title": "You´ve Gone Too Far",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 147000
+        },
+        {
+          "title": "Circus",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 167000
+        },
+        {
+          "title": "Free Violence",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 197000
+        },
+        {
+          "title": "I Wanna Be Somebody",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 111000
+        },
+        {
+          "title": "Education",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 115000
+        },
+        {
+          "title": "GBC",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 156000
+        },
+        {
+          "title": "Here I Come",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 118000
+        },
+        {
+          "title": "Children Song",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 164000
+        },
+        {
+          "title": "Hangover",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 174000
+        },
+        {
+          "title": "My Girl",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 177000
+        },
+        {
+          "title": "Don´t Complain",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 198000
+        },
+        {
+          "title": "No More Order",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 113000
+        },
+        {
+          "title": "Alone",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 203000
+        }
+      ]
+    },
+    {
+      "mbid": "984d18b9-8e46-3f1b-83d7-e3fd652a12e6",
+      "releaseMbid": "04808c9c-09b0-4243-bb82-24d55e853354",
+      "title": "Dear Life",
+      "type": "ALBUM",
+      "releaseDate": "2000",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/984d18b9-8e46-3f1b-83d7-e3fd652a12e6/front-1200",
+      "tracks": [
+        {
+          "title": "404 Not Found",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 245440
+        },
+        {
+          "title": "Mr. Oldman",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 280853
+        },
+        {
+          "title": "Fake Fate",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 235040
+        },
+        {
+          "title": "My Birthday",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 195786
+        },
+        {
+          "title": "We Two Feel Blue",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 219533
+        },
+        {
+          "title": "About to Blow",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 175693
+        },
+        {
+          "title": "Still Don't Know",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 283146
+        },
+        {
+          "title": "Danger Drive",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 219400
+        },
+        {
+          "title": "Big Life (One Last Goodbye)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 293413
+        },
+        {
+          "title": "Brand New Day",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 244506
+        },
+        {
+          "title": "Eleven",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 427000
+        }
+      ]
+    },
+    {
+      "mbid": "524c5dbd-7e77-4cee-9656-2995ccfb6288",
+      "releaseMbid": "75815e07-3f1b-4bd1-98aa-5b0d17c5b2f9",
+      "title": "More Live Than Dead",
+      "type": "LIVE",
+      "releaseDate": "2002",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Intro",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Mr. Oldman",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "No More Order",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Circus",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "My Birthday",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Divide Us",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Don't Wanna Know If You Are Lonely",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Big Life",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "Silence Be My Friend",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "My Girl",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": null
+        },
+        {
+          "title": "Danger Drive",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": null
+        },
+        {
+          "title": "Here I Come",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": null
+        },
+        {
+          "title": "Alone",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": null
+        },
+        {
+          "title": "You've Gone Too Far",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": null
+        },
+        {
+          "title": "404 Not Found",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": null
+        },
+        {
+          "title": "Teenage X-mas Song",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "d105d9f5-5fdc-3d4d-8a46-1bc14ea7795c",
+      "releaseMbid": "41c12269-1065-4adb-afcf-573c324558b5",
+      "title": "Loved",
+      "type": "ALBUM",
+      "releaseDate": "2004",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d105d9f5-5fdc-3d4d-8a46-1bc14ea7795c/front-1200",
+      "tracks": [
+        {
+          "title": "I Wanna Change",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 206213
+        },
+        {
+          "title": "Day After Day",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 178626
+        },
+        {
+          "title": "A New Way to Die",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 146586
+        },
+        {
+          "title": "Silence Be My Friend",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 245773
+        },
+        {
+          "title": "Girls Greatest Hits",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 183040
+        },
+        {
+          "title": "Divide Us",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 283573
+        },
+        {
+          "title": "Wasted My Youth",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 206106
+        },
+        {
+          "title": "I Don't Wanna Hear",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 186253
+        },
+        {
+          "title": "Blind For You",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 197986
+        },
+        {
+          "title": "Give Me a Call",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 258493
+        },
+        {
+          "title": "Radio 99",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 309466
+        },
+        {
+          "title": "Days of Letting Go",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 285320
+        },
+        {
+          "title": "Stupid Sad Things",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 280560
+        }
+      ]
+    },
+    {
+      "mbid": "c481c51b-f766-3fdf-9760-67b90aec0582",
+      "releaseMbid": "74dd9aec-3f43-4677-9ca9-1e69e2a079ab",
+      "title": "Procedimentos de Emergência",
+      "type": "ALBUM",
+      "releaseDate": "2006",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c481c51b-f766-3fdf-9760-67b90aec0582/front-1200",
+      "tracks": [
+        {
+          "title": "Quem Já Perdeu Um Sonho Aqui?",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 194533
+        },
+        {
+          "title": "Tudo Fora do Lugar",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 191066
+        },
+        {
+          "title": "Não Vá",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 240933
+        },
+        {
+          "title": "1997",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 189893
+        },
+        {
+          "title": "Inferno Pessoal",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 192973
+        },
+        {
+          "title": "Se um Dia Lembrar de Mim",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 215466
+        },
+        {
+          "title": "Monocromático",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 193466
+        },
+        {
+          "title": "Ilusões",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 172226
+        },
+        {
+          "title": "Uma Vida dem Saudade",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 270106
+        },
+        {
+          "title": "Eu Sou Igual à Você",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 285826
+        },
+        {
+          "title": "Créditos Finais",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 221133
+        },
+        {
+          "title": "Voltar ao Normal",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 241466
+        },
+        {
+          "title": "Nada Mais",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 278333
+        },
+        {
+          "title": "Danger Drive",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 216574
+        }
+      ]
+    },
+    {
+      "mbid": "2895d55c-ae9c-4bcd-8bd3-c58a48c07739",
+      "releaseMbid": "0a25435f-6e7c-4031-ba35-5ce02c5f37a8",
+      "title": "Obrigado Tempestade",
+      "type": "ALBUM",
+      "releaseDate": "2011-11-11",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/2895d55c-ae9c-4bcd-8bd3-c58a48c07739/front-1200",
+      "tracks": [
+        {
+          "title": "Eu Voltei",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 218000
+        },
+        {
+          "title": "Obrigado Tempestade",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 214000
+        },
+        {
+          "title": "Depois Que Todos Vão Embora",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 214000
+        },
+        {
+          "title": "Você Não Pode Desistir",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 183000
+        },
+        {
+          "title": "Pra Sempre Nunca Mais",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 219000
+        },
+        {
+          "title": "Laser",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 176000
+        },
+        {
+          "title": "Aonde Quer Que Você Vá",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 262000
+        },
+        {
+          "title": "Sem Ninguém",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 189000
+        },
+        {
+          "title": "Volte Sempre",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 236000
+        },
+        {
+          "title": "A Saudade Me Faz Bem",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 266000
+        },
+        {
+          "title": "Inconstante",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 191000
+        },
+        {
+          "title": "Um Pouco Mais De Tempo",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 210000
+        }
+      ]
+    },
+    {
+      "mbid": "0ef2b704-150c-4671-b2a1-3bec7869e3bf",
+      "releaseMbid": "c7ccecba-80ce-49d0-aebd-cf24b998a6af",
+      "title": "Não Vai Mais Ter Tristeza Aqui",
+      "type": "ALBUM",
+      "releaseDate": "2016-06-17",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0ef2b704-150c-4671-b2a1-3bec7869e3bf/front-1200",
+      "tracks": [
+        {
+          "title": "Não Vai Mais Ter Tristeza Aqui",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 193000
+        },
+        {
+          "title": "Coração de Plástico",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 223000
+        },
+        {
+          "title": "Perdendo o Controle",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 241000
+        },
+        {
+          "title": "Sempre",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 217000
+        },
+        {
+          "title": "Passa o Tempo",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 288000
+        },
+        {
+          "title": "12 Passos",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 244000
+        },
+        {
+          "title": "Um Homem Que Não Tem Pra Onde Ir",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 227000
+        },
+        {
+          "title": "Um Novo Dia Sem Você",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 220000
+        },
+        {
+          "title": "Perfeitamente Imperfeito",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 250000
+        },
+        {
+          "title": "Nada a Perder",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 284000
+        },
+        {
+          "title": "Deixe a Cidade Toda Saber",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 286000
+        },
+        {
+          "title": "Despedida (Com Dó Menor)",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 316000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

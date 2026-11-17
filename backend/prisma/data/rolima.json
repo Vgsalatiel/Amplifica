@@ -1,0 +1,139 @@
+{
+  "generatedAt": "2026-11-16T19:45:15.625Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "09ce0587-e8a4-4062-8783-8554fe44e9cf",
+    "name": "Rolimã",
+    "slug": "rolima",
+    "type": "BAND",
+    "country": "BR",
+    "city": "Águas de Lindóia",
+    "formedYear": null,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/09ce0587-e8a4-4062-8783-8554fe44e9cf"
+      }
+    ],
+    "genres": [
+      "emo"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "21bbd026-b4b0-4970-bff9-1f9e805aabfb",
+      "releaseMbid": "2348b9e2-96d5-49a5-81fb-1de006c98995",
+      "title": "Retalho",
+      "type": "EP",
+      "releaseDate": "2023-03-21",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Petricor",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "O Jogo",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Maio",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Não Quero que a Noite Acabe",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "fdc71f31-bd47-4553-be23-0cc27174f5c0",
+      "releaseMbid": "e4e78460-b2db-4c37-9b8c-480228edbbf5",
+      "title": "pior que eu tava tão de boa que esqueci até que eu tava aqui",
+      "type": "ALBUM",
+      "releaseDate": "2026-03-26",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "2010",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 192000
+        },
+        {
+          "title": "capim-limão",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 131000
+        },
+        {
+          "title": "bão?",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 255000
+        },
+        {
+          "title": "conosquinho",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 214000
+        },
+        {
+          "title": "tudo certo (nada resolvido)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 223000
+        },
+        {
+          "title": "ursa menor",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 87000
+        },
+        {
+          "title": "singular e nada calmo",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 173000
+        },
+        {
+          "title": "retrato do dr. nepomuceno",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 214000
+        },
+        {
+          "title": "dos dias nublados que me perdi pensando na vida",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 186000
+        },
+        {
+          "title": "tendinite",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 221000
+        },
+        {
+          "title": "quero picles",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 189000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

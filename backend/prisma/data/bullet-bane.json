@@ -1,0 +1,561 @@
+{
+  "generatedAt": "2026-11-16T19:43:20.845Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "0657c842-e21e-492b-a9fc-28c93a6fb75b",
+    "name": "Bullet Bane",
+    "slug": "bullet-bane",
+    "type": "BAND",
+    "country": "BR",
+    "city": null,
+    "formedYear": 2009,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/0657c842-e21e-492b-a9fc-28c93a6fb75b"
+      }
+    ],
+    "genres": [
+      "hardcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "ce312d0d-4968-47f5-afc1-aad5d9b8003f",
+      "releaseMbid": "c6d66197-f603-4f98-98eb-35007a473c20",
+      "title": "Impavid Colossus",
+      "type": "ALBUM",
+      "releaseDate": "2014-07-18",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Impavid",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 191000
+        },
+        {
+          "title": "Anchorage",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 199000
+        },
+        {
+          "title": "Hate and Haste St.",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 327000
+        },
+        {
+          "title": "Crystalline",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 203000
+        },
+        {
+          "title": "[Earth and Water]",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 75000
+        },
+        {
+          "title": "Heartbeats",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 145000
+        },
+        {
+          "title": "Dear Matre",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 176000
+        },
+        {
+          "title": "[Wind and Fire]",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 95000
+        },
+        {
+          "title": "Solid Ground",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 308000
+        },
+        {
+          "title": "Rex Space",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 183000
+        },
+        {
+          "title": "Hofmann",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 207000
+        },
+        {
+          "title": "Capadócia",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 328000
+        }
+      ]
+    },
+    {
+      "mbid": "2eb88cda-f22e-4f43-9c20-b447fcfacfec",
+      "releaseMbid": "ae906ce5-ff4f-416a-9190-486aaae09c42",
+      "title": "New World Broadcast",
+      "type": "ALBUM",
+      "releaseDate": "2015-08-28",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/2eb88cda-f22e-4f43-9c20-b447fcfacfec/front-1200",
+      "tracks": [
+        {
+          "title": "The Train",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 138000
+        },
+        {
+          "title": "Fission and Fusion",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 170000
+        },
+        {
+          "title": "Nutricide",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 131000
+        },
+        {
+          "title": "Dance of Electronic Images",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 145000
+        },
+        {
+          "title": "Cyberwar III",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 183000
+        },
+        {
+          "title": "Angels H.A.A.R.P.",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 179000
+        },
+        {
+          "title": "Retreated",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 177000
+        },
+        {
+          "title": "Option to Repression",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 135000
+        },
+        {
+          "title": "Mind Control",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 243000
+        },
+        {
+          "title": "Rosebud",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 117000
+        },
+        {
+          "title": "New World Broadcast",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 180000
+        },
+        {
+          "title": "Gas Chamber",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 156000
+        },
+        {
+          "title": "Seconds",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 196000
+        },
+        {
+          "title": "Injection",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 122000
+        },
+        {
+          "title": "The Parable of Paul Tadpole",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 242000
+        },
+        {
+          "title": "Man Down",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 133000
+        },
+        {
+          "title": "We Took Off",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 178000
+        }
+      ]
+    },
+    {
+      "mbid": "c5d7ec6c-07fd-4386-84b5-cd86b1a1bc3b",
+      "releaseMbid": "15290a40-8446-4383-b8e2-a5afa814d808",
+      "title": "Ao Vivo em São Paulo",
+      "type": "LIVE",
+      "releaseDate": "2016-04-08",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c5d7ec6c-07fd-4386-84b5-cd86b1a1bc3b/front-1200",
+      "tracks": [
+        {
+          "title": "Intro - Ao Vivo",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 37611
+        },
+        {
+          "title": "Capadócia - Ao Vivo",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 402448
+        },
+        {
+          "title": "Impavid - Live",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 182443
+        },
+        {
+          "title": "Anchorage - Live",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 203205
+        },
+        {
+          "title": "Hate and Haste St. - Live",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 343501
+        },
+        {
+          "title": "Dance of Electronic Images - Live",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 152915
+        },
+        {
+          "title": "Combustion - Live",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 217245
+        },
+        {
+          "title": "Crystalline - Live",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 247832
+        },
+        {
+          "title": "Earth and Water - Live",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 211957
+        },
+        {
+          "title": "Heartbeats - Live",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 140149
+        },
+        {
+          "title": "Fission and Fusion - Live",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 165685
+        },
+        {
+          "title": "The Train - Live",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 137388
+        },
+        {
+          "title": "Angels H. A. A. R. P - Live",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 218292
+        },
+        {
+          "title": "Wind and Fire - Live",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 95876
+        },
+        {
+          "title": "Solid Ground - Live",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 287441
+        },
+        {
+          "title": "Rexspace - Live",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 213141
+        },
+        {
+          "title": "Dear Matre - Live",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 324949
+        },
+        {
+          "title": "Hofmann - Live",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 233368
+        },
+        {
+          "title": "Option to Repression - Live",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 192013
+        }
+      ]
+    },
+    {
+      "mbid": "46c8552c-43d8-4b7e-bf5c-617a95887f3c",
+      "releaseMbid": "e8e278e8-68d4-4326-b2a8-231375cb3da9",
+      "title": "Continental",
+      "type": "ALBUM",
+      "releaseDate": "2017-10-20",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/46c8552c-43d8-4b7e-bf5c-617a95887f3c/front-1200",
+      "tracks": [
+        {
+          "title": "Curimatá",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 177000
+        },
+        {
+          "title": "Gangorra",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 180000
+        },
+        {
+          "title": "Melatonina",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 194000
+        },
+        {
+          "title": "Fôlego",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 195000
+        },
+        {
+          "title": "Encruzilhada",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 201000
+        },
+        {
+          "title": "Esperanto",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 189000
+        },
+        {
+          "title": "Cisplatina",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 170000
+        },
+        {
+          "title": "Labirinto",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 200000
+        },
+        {
+          "title": "Amparo",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 216000
+        },
+        {
+          "title": "Mafumeira",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 328000
+        }
+      ]
+    },
+    {
+      "mbid": "326c5a7c-384f-4514-9730-d7ec0fe701b2",
+      "releaseMbid": "d240408d-76c8-4fe9-952b-516ce37fb69c",
+      "title": "BLLT",
+      "type": "ALBUM",
+      "releaseDate": "2022-05-06",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/326c5a7c-384f-4514-9730-d7ec0fe701b2/front-1200",
+      "tracks": [
+        {
+          "title": "Pra Não Ter Que Enxergar Onde Errei",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Esse Vazio Ocupa Tanto Espaço",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Sentir",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Cancela o Replay",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Deja Vu",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Organizando Meu Vazio",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Lembro Quando Começou",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "No Fim, Talvez",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "813a002b-e752-41fe-9936-a156abc70d15",
+      "releaseMbid": "f938d39c-f9d0-4208-bdff-d1fd01767aa5",
+      "title": "O AGORA QUE COBRA VIVER",
+      "type": "ALBUM",
+      "releaseDate": "2026-05-29",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/813a002b-e752-41fe-9936-a156abc70d15/front-1200",
+      "tracks": [
+        {
+          "title": "Ecos da memória",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Decisão",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Uma vida",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Por você",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Fronteira do infinito",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Estranho",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Ponto de vista",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Mais um dia",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "Reta-Ação",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Paradoxo do progresso",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": null
+        },
+        {
+          "title": "Estrela polar",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": null
+        },
+        {
+          "title": "Alma gêmea",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": null
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

@@ -1,0 +1,199 @@
+{
+  "generatedAt": "2026-11-16T19:45:30.406Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "0dce6907-da60-4247-8bc9-181dfdaf0e90",
+    "name": "B5",
+    "slug": "b5",
+    "type": "BAND",
+    "country": "BR",
+    "city": "Petrópolis",
+    "formedYear": 2000,
+    "disbandedYear": 2009,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/0dce6907-da60-4247-8bc9-181dfdaf0e90"
+      }
+    ],
+    "genres": [
+      "pop-punk"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "16c46d61-9b84-461a-a5e7-d895c86ab50c",
+      "releaseMbid": "7e5036a5-1036-42ea-a974-f1481d4d9bc6",
+      "title": "B5",
+      "type": "ALBUM",
+      "releaseDate": "2002",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Matemática",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 179000
+        },
+        {
+          "title": "Beijo Na Boca",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 226000
+        },
+        {
+          "title": "Liga Pra Ela",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 197000
+        },
+        {
+          "title": "Eu Te Ensino O Que É O Amor",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 190000
+        },
+        {
+          "title": "Retratos Da Adolescência",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 216000
+        },
+        {
+          "title": "Deixa A Primeira Vez Rolar",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 236000
+        },
+        {
+          "title": "Amigo",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 210000
+        },
+        {
+          "title": "Nada Mais Vai Mudar",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 221000
+        },
+        {
+          "title": "Pura Ilusão",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 195000
+        },
+        {
+          "title": "Olhar Vazio",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 155000
+        },
+        {
+          "title": "Meu Espelho",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 208000
+        },
+        {
+          "title": "Não Vou Sonhar",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 211000
+        }
+      ]
+    },
+    {
+      "mbid": "4360226f-e8c6-408c-b21f-2bcac0062fc0",
+      "releaseMbid": "27b00199-c137-4272-a015-962360818998",
+      "title": "Novo",
+      "type": "ALBUM",
+      "releaseDate": "2005-06-28",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Sem Chance",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 142187
+        },
+        {
+          "title": "Só Mais Uma Vez",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 197040
+        },
+        {
+          "title": "Ao Seu Lado",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 179133
+        },
+        {
+          "title": "Algum Lugar",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 229880
+        },
+        {
+          "title": "O Pega",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 176667
+        },
+        {
+          "title": "3 Porquinhos",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 171533
+        },
+        {
+          "title": "Valeu",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 157760
+        },
+        {
+          "title": "Tudo Bem",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 219653
+        },
+        {
+          "title": "Se Foi Solidão",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 144653
+        },
+        {
+          "title": "Vertigem (Vertigo)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 134200
+        },
+        {
+          "title": "Nada É O Que Restou",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 175587
+        },
+        {
+          "title": "Não É Pra Sempre",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 234693
+        },
+        {
+          "title": "Tempestade",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 191920
+        }
+      ]
+    }
+  ],
+  "pending": []
+}
