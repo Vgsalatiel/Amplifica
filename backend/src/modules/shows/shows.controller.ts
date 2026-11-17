@@ -7,13 +7,17 @@ import {
   Param,
   Patch,
   Post,
+  Put,
   Query,
+  UploadedFile,
+  UseInterceptors,
 } from '@nestjs/common';
 import { Public } from '@nestjs/authentication';
 import { Can } from '@nestjs/authorization';
 import { idParamSchema } from '../../common/id-param.js';
 import type { Paginated } from '../../common/pagination.js';
 import { CatalogPolicy } from '../catalog/catalog.policy.js';
+import { ImageUpload } from '../images/image-upload.js';
 import {
   ShowImportService,
   type ShowImportPreview,
@@ -87,5 +91,23 @@ export class ShowsController {
   @Delete(':id')
   remove(@Param('id', { schema: idParamSchema }) id: string): Promise<void> {
     return this.shows.remove(id);
+  }
+
+  @Can(CatalogPolicy, 'manage')
+  @Put(':id/poster')
+  @UseInterceptors(ImageUpload())
+  setPoster(
+    @Param('id', { schema: idParamSchema }) id: string,
+    @UploadedFile() file: Express.Multer.File | undefined,
+  ): Promise<ShowResponse> {
+    return this.shows.setPoster(id, file);
+  }
+
+  @Can(CatalogPolicy, 'manage')
+  @Delete(':id/poster')
+  removePoster(
+    @Param('id', { schema: idParamSchema }) id: string,
+  ): Promise<ShowResponse> {
+    return this.shows.removePoster(id);
   }
 }

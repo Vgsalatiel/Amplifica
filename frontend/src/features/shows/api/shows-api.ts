@@ -21,6 +21,8 @@ export interface ShowInput {
   city: string
   state: string
   ticketUrl: string
+  organizerName: string
+  organizerUrl: string
   status: ShowStatus
   /** Quando a informação foi conferida pela última vez ("AAAA-MM-DD"). */
   verifiedAt: string
@@ -40,6 +42,8 @@ export interface ShowListParams {
   city?: string
   /** Slug de um gênero; inclui os subgêneros. */
   genre?: string
+  /** Nome do organizador, como "Emo Tour". */
+  organizer?: string
   /** Slug de uma banda do catálogo. */
   artist?: string
   /** Mês, "AAAA-MM". */
@@ -54,5 +58,11 @@ export const createShow = (input: ShowInput) => apiFetch<Show>('/shows', { metho
 export const updateShow = (id: string, input: ShowInput) =>
   apiFetch<Show>(`/shows/${id}`, { method: 'PATCH', json: input })
 export const deleteShow = (id: string) => apiFetch<void>(`/shows/${id}`, { method: 'DELETE' })
+export const uploadShowPoster = (id: string, file: File) => {
+  const form = new FormData()
+  form.append('file', file)
+  return apiFetch<Show>(`/shows/${id}/poster`, { method: 'PUT', form })
+}
+export const removeShowPoster = (id: string) => apiFetch<Show>(`/shows/${id}/poster`, { method: 'DELETE' })
 export const previewShowImport = (url: string) =>
   apiFetch<ShowImportPreview>('/shows/import-preview', { method: 'POST', json: { url } })

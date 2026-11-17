@@ -77,4 +77,35 @@ describe('ShowRow', () => {
 
     expect(screen.queryByRole('link', { name: /Ingressos/ })).not.toBeInTheDocument()
   })
+
+  it('mostra o organizador com link e o pôster que abre em outra aba', () => {
+    renderWithProviders(
+      <ShowRow
+        show={show({
+          organizerName: 'Emo Tour',
+          organizerUrl: 'https://www.instagram.com/emotourbrasil/',
+          poster: { large: 'https://files.test/posters/x-lg.webp', small: 'https://files.test/posters/x-sm.webp' },
+        })}
+      />,
+    )
+
+    const organizer = screen.getByRole('link', { name: /Emo Tour/ })
+    expect(organizer).toHaveAttribute('href', 'https://www.instagram.com/emotourbrasil/')
+    expect(organizer).toHaveAttribute('rel', 'noopener noreferrer')
+    expect(screen.getByRole('img', { name: 'Pôster de Linkin Park' })).toHaveAttribute(
+      'src',
+      'https://files.test/posters/x-sm.webp',
+    )
+    expect(screen.getByRole('img', { name: 'Pôster de Linkin Park' }).closest('a')).toHaveAttribute(
+      'href',
+      'https://files.test/posters/x-lg.webp',
+    )
+  })
+
+  it('organizador com link inseguro aparece só como texto', () => {
+    renderWithProviders(<ShowRow show={show({ organizerName: 'Emo Tour', organizerUrl: 'javascript:alert(1)' })} />)
+
+    expect(screen.getByText(/Emo Tour/)).toBeInTheDocument()
+    expect(screen.queryByRole('link', { name: /Emo Tour/ })).not.toBeInTheDocument()
+  })
 })

@@ -135,6 +135,8 @@ function toFields(entry: ShowEntry) {
     city: entry.city,
     state: entry.state,
     ticketUrl: entry.ticketUrl,
+    organizerName: entry.organizerName ?? null,
+    organizerUrl: entry.organizerUrl ?? null,
     status: entry.status,
     verifiedAt: parseShowDate(entry.verifiedAt) as Date,
   };

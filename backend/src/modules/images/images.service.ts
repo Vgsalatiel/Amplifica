@@ -23,7 +23,7 @@ export interface ImageSet {
   small: string;
 }
 
-export type ImageKind = 'covers' | 'artists' | 'avatars';
+export type ImageKind = 'covers' | 'artists' | 'avatars' | 'posters';
 
 interface Variant {
   width: number;
@@ -40,6 +40,11 @@ const VARIANTS: Record<ImageKind, { large: Variant; small: Variant }> = {
   artists: {
     large: { width: 1600, height: 1600, fit: 'inside' },
     small: { width: 600, height: 600, fit: 'inside' },
+  },
+  // Pôsteres são em pé: só reduz, sem recortar, para o texto do cartaz nunca ser cortado.
+  posters: {
+    large: { width: 1200, height: 1600, fit: 'inside' },
+    small: { width: 480, height: 640, fit: 'inside' },
   },
   avatars: {
     large: { width: 400, height: 400, fit: 'cover' },

@@ -12,9 +12,17 @@ import { SHOW_STATUS_LABELS } from '../../../lib/labels'
 import { STATES } from '../../../lib/states'
 import type { Show } from '../../../types/api'
 import { FormAlert } from '../../auth/components/form-alert'
-import { createShow, deleteShow, updateShow, type ShowInput } from '../../shows/api/shows-api'
+import {
+  createShow,
+  deleteShow,
+  removeShowPoster,
+  updateShow,
+  uploadShowPoster,
+  type ShowInput,
+} from '../../shows/api/shows-api'
 import { useInvalidateShows, useShow } from '../../shows/hooks/use-shows'
 import { ActsEditor } from '../components/acts-editor'
+import { ImageUploader } from '../components/image-uploader'
 import { GenreChecklist } from '../components/genre-checklist'
 import { ImportFromLink } from '../components/import-from-link'
 import { applyImportPreview, buildShowPayload, showToValues, type ShowFormValues } from '../lib/show-forms'
@@ -79,6 +87,14 @@ function ShowEditor({ show }: { show?: Show }) {
       void navigate('/admin/shows', { replace: true })
     },
   })
+
+  const storePoster = (updated: Show) => {
+    queryClient.setQueryData(['show', updated.slug], updated)
+    void invalidate()
+  }
+  const upload = useMutation({ mutationFn: (file: File) => uploadShowPoster(show!.id, file), onSuccess: storePoster })
+  const removePoster = useMutation({ mutationFn: () => removeShowPoster(show!.id), onSuccess: storePoster })
+  const posterError = upload.error ?? removePoster.error
 
   const errors = { ...fieldErrorsFrom(save.error), ...localErrors }
   const set = <K extends keyof ShowFormValues>(field: K, value: ShowFormValues[K]) => {
@@ -187,6 +203,23 @@ function ShowEditor({ show }: { show?: Show }) {
         />
 
         <div className="grid gap-6 sm:grid-cols-2">
+          <TextField
+            label="Organizador"
+            value={values.organizerName}
+            onChange={(e) => set('organizerName', e.target.value)}
+            error={errors.organizerName}
+            hint="Produtora ou página que divulga o evento, como Emo Tour. Opcional."
+          />
+          <TextField
+            label="Link do organizador"
+            value={values.organizerUrl}
+            onChange={(e) => set('organizerUrl', e.target.value)}
+            error={errors.organizerUrl}
+            hint="Por exemplo, o Instagram dele."
+          />
+        </div>
+
+        <div className="grid gap-6 sm:grid-cols-2">
           <Select
             label="Situação"
             value={values.status}
@@ -235,6 +268,27 @@ function ShowEditor({ show }: { show?: Show }) {
           </div>
         )}
       </form>
+
+      {show ? (
+        <ImageUploader
+          className="border-t border-rule pt-6"
+          label="Pôster"
+          description="Cartaz de divulgação do evento. JPEG, PNG ou WebP, até 5 MB."
+          image={show.poster}
+          onUpload={(file) => upload.mutate(file)}
+          onRemove={() => removePoster.mutate()}
+          pending={upload.isPending || removePoster.isPending}
+          error={
+            posterError
+              ? posterError instanceof ApiError
+                ? posterError.message
+                : 'Não foi possível falar com o servidor.'
+              : null
+          }
+        />
+      ) : (
+        <p className="border-t border-rule pt-6 text-sm text-muted">Salve o show para poder enviar o pôster.</p>
+      )}
     </div>
   )
 }

@@ -63,6 +63,35 @@ export function ShowRow({ show }: { show: Show }) {
         <p className="mt-2 text-muted">
           {show.venue}, {show.city}/{show.state}
         </p>
+        {show.poster && (
+          <a
+            href={show.poster.large}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="mt-3 block w-40 border border-rule transition-colors hover:border-accent"
+          >
+            <img src={show.poster.small} alt={`Pôster de ${title}`} loading="lazy" className="w-full" />
+            <span className="sr-only">(abre em outra aba)</span>
+          </a>
+        )}
+        {show.organizerName && (
+          <p className="mt-1 text-sm text-muted">
+            Organização:{' '}
+            {show.organizerUrl && isSafeLink(show.organizerUrl) ? (
+              <a
+                href={show.organizerUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="underline underline-offset-4 hover:text-accent"
+              >
+                {show.organizerName}
+                <span className="sr-only"> (abre em outra aba)</span>
+              </a>
+            ) : (
+              show.organizerName
+            )}
+          </p>
+        )}
         {show.status !== 'CONFIRMED' && (
           <p className="mt-2 inline-block border border-ink px-2 py-0.5 text-sm font-semibold">
             {SHOW_STATUS_LABELS[show.status]}

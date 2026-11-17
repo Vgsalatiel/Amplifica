@@ -21,6 +21,8 @@ export interface ShowFormValues {
   city: string
   state: string
   ticketUrl: string
+  organizerName: string
+  organizerUrl: string
   status: ShowStatus
   verifiedAt: string
   acts: ActValues[]
@@ -47,6 +49,8 @@ export function showToValues(show?: Show): ShowFormValues {
     city: show?.city ?? '',
     state: show?.state ?? '',
     ticketUrl: show?.ticketUrl ?? '',
+    organizerName: show?.organizerName ?? '',
+    organizerUrl: show?.organizerUrl ?? '',
     status: show?.status ?? 'CONFIRMED',
     // Show novo: a pessoa está olhando a fonte agora, então a conferência é de hoje.
     verifiedAt: show ? show.verifiedAt.slice(0, 10) : todayInBrazil(),
@@ -85,6 +89,8 @@ export function buildShowPayload(values: ShowFormValues): Built<ShowInput> {
       city: values.city.trim(),
       state: values.state,
       ticketUrl: values.ticketUrl.trim(),
+      organizerName: values.organizerName.trim(),
+      organizerUrl: values.organizerUrl.trim(),
       status: values.status,
       verifiedAt: values.verifiedAt,
       acts: values.acts.map((act) => ({

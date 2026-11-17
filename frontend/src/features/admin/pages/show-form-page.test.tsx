@@ -25,6 +25,9 @@ const created: Show = {
   state: 'GO',
   status: 'CONFIRMED',
   ticketUrl: null,
+  organizerName: null,
+  organizerUrl: null,
+  poster: null,
   verifiedAt: '2026-11-13T00:00:00.000Z',
   acts: [
     {

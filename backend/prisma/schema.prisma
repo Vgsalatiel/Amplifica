@@ -266,25 +266,30 @@ enum ShowStatus {
 
 // Um show (ou festival) no Brasil. A escalação fica em ShowAct, para cobrir eventos com várias bandas.
 model Show {
-  id         String     @id @default(uuid(7)) @db.Uuid
+  id            String     @id @default(uuid(7)) @db.Uuid
   // Nome do evento, quando existe (festival, turnê). Show comum não precisa.
-  name       String?
-  slug       String     @unique
+  name          String?
+  slug          String     @unique
   // Dia do show, sem horário: a data de calendário no Brasil.
-  date       DateTime   @db.Date
+  date          DateTime   @db.Date
   // Horário de início, como "20:00". Opcional: nem todo anúncio traz.
-  startTime  String?
-  venue      String
-  city       String
+  startTime     String?
+  venue         String
+  city          String
   // Sigla do estado, como "SP". Uma regra CHECK na migration garante o formato.
-  state      String
+  state         String
   // Link do vendedor ou da página oficial do evento. Só http e https.
-  ticketUrl  String?
-  status     ShowStatus @default(CONFIRMED)
+  ticketUrl     String?
+  // Quem organiza o evento (produtora, página de divulgação) e o link dela, quando existe.
+  organizerName String?
+  organizerUrl  String?
+  // Pôster de divulgação enviado pelo admin (caminho base da imagem no armazenamento).
+  posterPath    String?
+  status        ShowStatus @default(CONFIRMED)
   // Quando alguém conferiu esta informação pela última vez. Aparece na página.
-  verifiedAt DateTime   @default(now())
-  createdAt  DateTime   @default(now())
-  updatedAt  DateTime   @updatedAt
+  verifiedAt    DateTime   @default(now())
+  createdAt     DateTime   @default(now())
+  updatedAt     DateTime   @updatedAt
 
   acts   ShowAct[]
   genres ShowGenre[]

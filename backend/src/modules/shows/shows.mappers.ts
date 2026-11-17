@@ -25,6 +25,10 @@ export interface ShowResponse {
   state: string;
   status: ShowStatus;
   ticketUrl: string | null;
+  organizerName: string | null;
+  organizerUrl: string | null;
+  /** Pôster de divulgação, ou `null` se não há. */
+  poster: ImageSet | null;
   /** Quando a informação foi conferida pela última vez (data e hora, ISO). */
   verifiedAt: string;
   acts: ShowActResponse[];
@@ -53,6 +57,9 @@ interface ShowRow {
   state: string;
   status: ShowStatus;
   ticketUrl: string | null;
+  organizerName: string | null;
+  organizerUrl: string | null;
+  posterPath: string | null;
   verifiedAt: Date;
   acts: Array<{
     position: number;
@@ -83,6 +90,9 @@ export function toShowResponse(
     status: show.status,
     // Se alguém gravou um link fora de http/https por fora da API, ele não sai daqui.
     ticketUrl: isWebLink(show.ticketUrl) ? show.ticketUrl : null,
+    organizerName: show.organizerName,
+    organizerUrl: isWebLink(show.organizerUrl) ? show.organizerUrl : null,
+    poster: toImageSet(show.posterPath),
     verifiedAt: show.verifiedAt.toISOString(),
     acts: show.acts.map((act) => ({
       position: act.position,

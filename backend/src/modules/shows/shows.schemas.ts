@@ -99,6 +99,8 @@ const showFields = z.object({
     .max(80, 'A cidade pode ter até 80 caracteres.'),
   state,
   ticketUrl,
+  organizerName: optionalText(80, 'O nome do organizador pode ter até 80 caracteres.'),
+  organizerUrl: ticketUrl,
   status: statusEnum.default('CONFIRMED'),
   /** Quando a informação foi conferida pela última vez. Sem valor, vale hoje. */
   verifiedAt: showDateText.optional(),
@@ -132,6 +134,8 @@ export const listShowsSchema = paginationSchema.extend({
   city: z.string().trim().min(1).max(80).optional(),
   /** Slug de um gênero. Inclui os subgêneros. */
   genre: z.string().trim().min(1).max(80).optional(),
+  /** Nome do organizador, sem diferença de maiúsculas: "Emo Tour". */
+  organizer: z.string().trim().min(1).max(80).optional(),
   /** Slug de uma banda do catálogo. */
   artist: z.string().trim().min(1).max(80).optional(),
   /** Mês, como 2027-03. */

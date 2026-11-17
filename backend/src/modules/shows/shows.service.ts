@@ -40,7 +40,7 @@ export class ShowsService {
   constructor(
     private readonly prisma: PrismaService,
     private readonly genres: GenresService,
-    images: ImagesService,
+    private readonly images: ImagesService,
   ) {
     this.toImageSet = (path) => images.toSet(path);
   }
@@ -74,6 +74,11 @@ export class ShowsService {
       // Um gênero inexistente resulta em lista vazia, não em erro.
       const genreIds = await this.genres.idsWithDescendants(query.genre);
       conditions.push({ genres: { some: { genreId: { in: genreIds } } } });
+    }
+    if (query.organizer) {
+      conditions.push({
+        organizerName: { equals: query.organizer, mode: 'insensitive' },
+      });
     }
     if (query.artist) {
       conditions.push({ acts: { some: { artist: { slug: query.artist } } } });
@@ -183,8 +188,41 @@ export class ShowsService {
   }
 
   async remove(id: string): Promise<void> {
-    await this.findOrFail(id);
+    const show = await this.findOrFail(id);
     await this.prisma.show.delete({ where: { id } });
+    // O arquivo só é apagado depois que o show saiu do banco.
+    await this.images.remove(show.posterPath);
+  }
+
+  /** Grava o pôster de divulgação, trocando o anterior. */
+  async setPoster(
+    id: string,
+    file: Express.Multer.File | undefined,
+  ): Promise<ShowResponse> {
+    const current = await this.findOrFail(id);
+    const stored = await this.images.store('posters', id, file);
+
+    const show = await this.prisma.show.update({
+      where: { id },
+      data: { posterPath: stored.path },
+      include: showInclude,
+    });
+    // A imagem antiga só é apagada depois que o banco já aponta para a nova.
+    if (current.posterPath !== stored.path) {
+      await this.images.remove(current.posterPath);
+    }
+    return toShowResponse(show, this.toImageSet);
+  }
+
+  async removePoster(id: string): Promise<ShowResponse> {
+    const current = await this.findOrFail(id);
+    const show = await this.prisma.show.update({
+      where: { id },
+      data: { posterPath: null },
+      include: showInclude,
+    });
+    await this.images.remove(current.posterPath);
+    return toShowResponse(show, this.toImageSet);
   }
 
   private async findOrFail(id: string) {

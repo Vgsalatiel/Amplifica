@@ -13,6 +13,9 @@ const show: Show = {
   state: 'SP',
   status: 'SOLD_OUT',
   ticketUrl: 'https://ingressos.exemplo.test/lp',
+  organizerName: null,
+  organizerUrl: null,
+  poster: null,
   verifiedAt: '2026-11-13T15:30:00.000Z',
   acts: [
     {

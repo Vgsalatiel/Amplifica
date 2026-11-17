@@ -236,6 +236,45 @@ describe('Shows (e2e)', () => {
         admin,
         showBody({ slug: 'e2e-link-ruim', ticketUrl: 'javascript:alert(1)' }),
       ).expect(400);
+      await post(
+        '/shows',
+        admin,
+        showBody({
+          slug: 'e2e-link-ruim-2',
+          organizerUrl: 'javascript:alert(1)',
+        }),
+      ).expect(400);
+    });
+
+    it('guarda o organizador e filtra a lista por ele, sem diferença de maiúsculas', async () => {
+      const mine = await createShow('organizador', {
+        organizerName: 'E2E Organizadora',
+        organizerUrl: 'https://www.instagram.com/e2e-organizadora/',
+      });
+      expect(mine).toMatchObject({
+        organizerName: 'E2E Organizadora',
+        organizerUrl: 'https://www.instagram.com/e2e-organizadora/',
+      });
+      await createShow('sem-organizador');
+
+      const found = await get(
+        '/shows?organizer=e2e%20ORGANIZADORA&limit=50',
+      ).expect(200);
+      expect(
+        found.body.items.map((item: { slug: string }) => item.slug),
+      ).toEqual(['e2e-organizador']);
+      const none = await get('/shows?organizer=ninguem&limit=50').expect(200);
+      expect(none.body.items).toEqual([]);
+
+      const cleared = await request(server())
+        .patch(`${API}/shows/${mine.id}`)
+        .set(admin.auth)
+        .send({ organizerName: '', organizerUrl: '' })
+        .expect(200);
+      expect(cleared.body).toMatchObject({
+        organizerName: null,
+        organizerUrl: null,
+      });
     });
   });
 

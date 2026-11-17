@@ -203,4 +203,82 @@ describe('Imagens (e2e)', () => {
         .expect(401);
     });
   });
+
+  describe('pôster do show', () => {
+    let showId: string;
+    const putPoster = (id: string, session = admin) =>
+      request(server()).put(`${API}/shows/${id}/poster`).set(session.auth);
+
+    beforeAll(async () => {
+      showId = (
+        await request(server())
+          .post(`${API}/shows`)
+          .set(admin.auth)
+          .send({
+            slug: 'e2e-show-com-poster',
+            date: '2028-05-01',
+            venue: 'Local de Teste',
+            city: 'São Paulo',
+            state: 'SP',
+            acts: [{ name: 'E2E Banda' }],
+          })
+          .expect(201)
+      ).body.id;
+    });
+
+    it('grava o pôster, troca o anterior e apaga os arquivos antigos', async () => {
+      const first = await putPoster(showId)
+        .attach('file', await coverPng(), { filename: 'poster.png' })
+        .expect(200);
+      expect(first.body.poster.large).toMatch(/\/posters\/.+-lg\.webp$/);
+      expect(await disk.exists(keyOf(first.body.poster.large))).toBe(true);
+
+      const second = await putPoster(showId)
+        .attach('file', await grayPng(), { filename: 'outro.png' })
+        .expect(200);
+      expect(second.body.poster.large).not.toBe(first.body.poster.large);
+      expect(await disk.exists(keyOf(first.body.poster.large))).toBe(false);
+      expect(await disk.exists(keyOf(second.body.poster.large))).toBe(true);
+    });
+
+    it('a lista pública mostra o pôster, e removê-lo apaga o arquivo', async () => {
+      const listed = await request(server())
+        .get(`${API}/shows?when=all&limit=50`)
+        .expect(200);
+      const mine = listed.body.items.find(
+        (item: { slug: string }) => item.slug === 'e2e-show-com-poster',
+      );
+      expect(mine.poster.large).toMatch(/\/posters\//);
+
+      const removed = await request(server())
+        .delete(`${API}/shows/${showId}/poster`)
+        .set(admin.auth)
+        .expect(200);
+      expect(removed.body.poster).toBeNull();
+      expect(await disk.exists(keyOf(mine.poster.large))).toBe(false);
+    });
+
+    it('só administradores enviam, e o show precisa existir', async () => {
+      const member = await createSession(app);
+      await putPoster(showId, member)
+        .attach('file', await coverPng(), { filename: 'poster.png' })
+        .expect(403);
+      await request(server())
+        .put(`${API}/shows/0193c1f0-0000-7000-8000-000000000000/poster`)
+        .set(admin.auth)
+        .attach('file', await coverPng(), { filename: 'poster.png' })
+        .expect(404);
+    });
+
+    it('apagar o show apaga o arquivo do pôster', async () => {
+      const uploaded = await putPoster(showId)
+        .attach('file', await coverPng(), { filename: 'poster.png' })
+        .expect(200);
+      await request(server())
+        .delete(`${API}/shows/${showId}`)
+        .set(admin.auth)
+        .expect(204);
+      expect(await disk.exists(keyOf(uploaded.body.poster.large))).toBe(false);
+    });
+  });
 });

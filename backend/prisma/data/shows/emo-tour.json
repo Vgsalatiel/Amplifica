@@ -1,0 +1,232 @@
+{
+  "generatedAt": "2026-11-17T00:00:00Z",
+  "source": "Páginas dos eventos no Clube do Ingresso (conferidas em 17/11/2026), pôster do CENABR Festival enviado por quem mantém o site e a página de links do Emo Tour. O ano de 2026 do Coverpalooza não aparece na página: foi deduzido pelo calendário (27/11 é sexta-feira). Os eventos de bandas cover são tributos, e as atrações levam '(cover)' no nome.",
+  "shows": [
+    {
+      "name": "CENABR Festival 2027",
+      "date": "2027-01-30",
+      "startTime": "14:00",
+      "venue": "Komplexo Tempo",
+      "ticketUrl": "https://www.clubedoingresso.com/evento/cenabr-festival-2027",
+      "acts": [
+        {
+          "name": "Braza"
+        },
+        {
+          "name": "Terno Rei"
+        },
+        {
+          "name": "LVCAS"
+        },
+        {
+          "name": "Rogério Skylab"
+        },
+        {
+          "name": "Dead Fish",
+          "artist": "dead-fish"
+        },
+        {
+          "name": "Gloria",
+          "artist": "gloria"
+        },
+        {
+          "name": "Rancore"
+        },
+        {
+          "name": "Dance of Days"
+        },
+        {
+          "name": "Pense"
+        },
+        {
+          "name": "Esteban Tavares"
+        },
+        {
+          "name": "Fake Number (show de reunião)"
+        },
+        {
+          "name": "Plutão Já Foi Planeta"
+        },
+        {
+          "name": "Becold"
+        },
+        {
+          "name": "Aurora Rules"
+        },
+        {
+          "name": "Metade de Mim",
+          "artist": "metade-de-mim"
+        },
+        {
+          "name": "Venere Vai Venus"
+        }
+      ],
+      "genres": [
+        "emo",
+        "melodic-hardcore",
+        "indie-rock"
+      ],
+      "organizerName": "Emo Tour",
+      "organizerUrl": "https://www.instagram.com/emotourbrasil/",
+      "verifiedAt": "2026-11-17",
+      "state": "SP",
+      "city": "São Paulo"
+    },
+    {
+      "name": "Tributo Forfun: 15 anos de alegria compartilhada",
+      "date": "2026-11-19",
+      "startTime": "23:00",
+      "venue": "Augusta Hi Fi",
+      "ticketUrl": "https://www.clubedoingresso.com/evento/tributoforfun-15anosdealegriacompartilhada",
+      "acts": [
+        {
+          "name": "Tributo a Forfun, com Vitor Isensee"
+        },
+        {
+          "name": "Green Day (cover)"
+        },
+        {
+          "name": "Blink-182 (cover)"
+        },
+        {
+          "name": "Paramore (cover)"
+        },
+        {
+          "name": "CBJR (cover)"
+        },
+        {
+          "name": "Scracho (cover)"
+        },
+        {
+          "name": "Sum 41 (cover)"
+        }
+      ],
+      "genres": [
+        "pop-punk",
+        "emo"
+      ],
+      "organizerName": "Emo Tour",
+      "organizerUrl": "https://www.instagram.com/emotourbrasil/",
+      "verifiedAt": "2026-11-17",
+      "state": "SP",
+      "city": "São Paulo"
+    },
+    {
+      "name": "Emo Tour Experience: Evanescence Experience Night",
+      "date": "2026-11-20",
+      "startTime": "23:00",
+      "venue": "Coletivo Cafundó",
+      "ticketUrl": "https://www.clubedoingresso.com/evento/emotourexperienceapresenta-evanescenceexperiencenight",
+      "acts": [
+        {
+          "name": "Far From Heaven (tributo ao Evanescence)"
+        }
+      ],
+      "genres": [
+        "alternative-rock"
+      ],
+      "organizerName": "Emo Tour",
+      "organizerUrl": "https://www.instagram.com/emotourbrasil/",
+      "verifiedAt": "2026-11-17",
+      "state": "SP",
+      "city": "São Paulo"
+    },
+    {
+      "name": "Coverpalooza Open Bar",
+      "date": "2026-11-27",
+      "startTime": "23:00",
+      "venue": "Augusta Hi-Fi",
+      "ticketUrl": "https://www.clubedoingresso.com/evento/coverpalooza-openbar-augustahifi",
+      "acts": [
+        {
+          "name": "System of a Down (cover)"
+        },
+        {
+          "name": "My Chemical Romance (cover)"
+        },
+        {
+          "name": "Avenged Sevenfold (cover)"
+        },
+        {
+          "name": "Paramore (cover)"
+        },
+        {
+          "name": "Evanescence (cover)"
+        },
+        {
+          "name": "Foo Fighters (cover)"
+        },
+        {
+          "name": "Millencollin (cover)"
+        },
+        {
+          "name": "New Found Glory (cover)"
+        },
+        {
+          "name": "Lagwagon (cover)"
+        },
+        {
+          "name": "Green Day (cover)"
+        },
+        {
+          "name": "Sum 41 (cover)"
+        },
+        {
+          "name": "Blink-182 (cover)"
+        }
+      ],
+      "genres": [
+        "emo",
+        "pop-punk",
+        "alternative-rock"
+      ],
+      "organizerName": "Emo Tour",
+      "organizerUrl": "https://www.instagram.com/emotourbrasil/",
+      "verifiedAt": "2026-11-17",
+      "state": "SP",
+      "city": "São Paulo"
+    },
+    {
+      "name": "Coverpalooza Open Bar",
+      "date": "2026-11-28",
+      "startTime": "23:00",
+      "venue": "Augusta Hi-Fi",
+      "ticketUrl": "https://www.clubedoingresso.com/evento/coverpalooza-openbar-augustahifi",
+      "acts": [
+        {
+          "name": "Sleep Token (cover)"
+        },
+        {
+          "name": "Linkin Park (cover)"
+        },
+        {
+          "name": "Bring Me the Horizon (cover)"
+        },
+        {
+          "name": "Black Veil Brides (cover)"
+        },
+        {
+          "name": "Motionless in White (cover)"
+        },
+        {
+          "name": "Escape the Fate (cover)"
+        },
+        {
+          "name": "Asking Alexandria (cover)"
+        },
+        {
+          "name": "Falling in Reverse (cover)"
+        }
+      ],
+      "genres": [
+        "metalcore",
+        "emo"
+      ],
+      "organizerName": "Emo Tour",
+      "organizerUrl": "https://www.instagram.com/emotourbrasil/",
+      "verifiedAt": "2026-11-17",
+      "state": "SP",
+      "city": "São Paulo"
+    }
+  ]
+}

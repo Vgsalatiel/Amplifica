@@ -186,6 +186,11 @@ export interface Show {
   state: string
   status: ShowStatus
   ticketUrl: string | null
+  /** Quem organiza o evento, e o link dela (ex.: o Instagram da produtora). */
+  organizerName: string | null
+  organizerUrl: string | null
+  /** Pôster de divulgação, ou `null` se não há. */
+  poster: ImageSet | null
   /** Quando a informação foi conferida pela última vez (ISO). */
   verifiedAt: string
   acts: ShowAct[]
