@@ -2,9 +2,9 @@ import { useState } from 'react'
 import { Link } from 'react-router'
 import { cn } from '../../../lib/cn'
 import { parseYouTubeId } from '../../../lib/youtube'
-import { YouTubeEmbed } from '../../catalog/components/youtube-embed'
 import { useArtist } from '../../catalog/hooks/use-catalog'
 import { NARRATION, type Clip } from '../lib/clips'
+import { ClipPlayer } from './clip-player'
 
 const scanlines =
   'bg-[repeating-linear-gradient(0deg,rgb(255_255_255/0.035)_0,rgb(255_255_255/0.035)_2px,transparent_2px,transparent_6px)]'
@@ -43,13 +43,10 @@ export function NowPlaying({ clips }: { clips: Clip[] }) {
       <p className="mt-2 mb-4 font-semibold">{NARRATION}</p>
 
       {first && (!reduced || clicked) ? (
-        <YouTubeEmbed
-          videoId={first.id}
+        <ClipPlayer
+          videoIds={playable.map((item) => item.id)}
           title={playable.map((item) => item.clip.band).join(', ')}
-          playlist={playable.slice(1).map((item) => item.id)}
-          autoPlay
           muted={!clicked}
-          className="max-w-none border border-rule"
         />
       ) : first ? (
         <div className={cn('relative aspect-video border border-rule bg-surface-raised', scanlines)}>
