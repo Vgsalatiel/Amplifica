@@ -3,7 +3,7 @@ import { SectionHeading } from '../../../components/ui/section-heading'
 import { TextLink } from '../../../components/ui/text-link'
 import { useDocumentTitle } from '../../../hooks/use-document-title'
 import { BrazilSceneNav } from '../components/brazil-scene-nav'
-import { HISTORY_ERAS, HISTORY_SOURCES, type HistoryBand } from '../lib/brazil-history'
+import { HISTORY_ERAS, HISTORY_SOURCES, MTV_INTRO, MTV_TIMELINE, type HistoryBand } from '../lib/brazil-history'
 import { useArtistList } from '../hooks/use-catalog'
 
 /** História da cena BR, em /cena-br/historia: do hardcore dos anos 80 ao emo e ao metalcore de hoje. */
@@ -46,6 +46,26 @@ export function BrazilHistoryPage() {
           </li>
         ))}
       </ol>
+
+      <section className="mt-24" aria-labelledby="mtv-titulo">
+        <SectionHeading as="h2">
+          <span id="mtv-titulo">A MTV Brasil e a cena</span>
+        </SectionHeading>
+        <p className="mt-5 max-w-2xl text-lg leading-relaxed">{MTV_INTRO}</p>
+        <ol className="mt-12 grid gap-8 border-l-[3px] border-ink pl-6 md:grid-cols-5 md:gap-0 md:border-t-[3px] md:border-l-0 md:pl-0">
+          {MTV_TIMELINE.map((milestone, position) => (
+            <li key={milestone.year} className="relative md:pt-6 md:pr-5">
+              <span
+                aria-hidden="true"
+                className={`absolute top-1.5 -left-[34px] size-[19px] rounded-full border-[3px] border-surface ring-2 ring-ink md:-top-[11px] md:left-0 ${position === MTV_TIMELINE.length - 1 ? 'bg-ink' : 'bg-accent'}`}
+              />
+              <strong className="block font-display text-4xl leading-none">{milestone.year}</strong>
+              <span className="mt-2 block text-sm leading-snug text-ink/90">{milestone.text}</span>
+            </li>
+          ))}
+        </ol>
+        <p className="mt-8 text-xs text-muted">O Amplifica não tem ligação com a MTV.</p>
+      </section>
 
       <section className="mt-20" aria-labelledby="fontes-titulo">
         <h2 id="fontes-titulo" className="font-display text-3xl">

@@ -108,4 +108,13 @@ describe('ShowRow', () => {
     expect(screen.getByText(/Emo Tour/)).toBeInTheDocument()
     expect(screen.queryByRole('link', { name: /Emo Tour/ })).not.toBeInTheDocument()
   })
+
+  it('mostra a hora de início, quando existe, e não inventa uma quando falta', () => {
+    const { unmount } = renderWithProviders(<ShowRow show={show({ startTime: '23:00' })} />)
+    expect(screen.getByText('23h')).toBeInTheDocument()
+    unmount()
+
+    renderWithProviders(<ShowRow show={show({ startTime: null })} />)
+    expect(screen.queryByText(/^\d{1,2}h/)).not.toBeInTheDocument()
+  })
 })

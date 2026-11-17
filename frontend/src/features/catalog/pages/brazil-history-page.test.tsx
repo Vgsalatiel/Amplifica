@@ -24,6 +24,28 @@ describe('BrazilHistoryPage', () => {
     expect(document.title).toBe('História da cena BR | Amplifica')
   })
 
+  it('tem a seção da MTV Brasil com a linha do tempo, sem ligar o Amplifica à emissora', () => {
+    endSession()
+    mockApi({ 'GET /artists?country=BR&limit=50': { status: 200, body: page([]) } })
+    open()
+
+    const mtv = screen.getByRole('region', { name: 'A MTV Brasil e a cena' })
+    expect(within(mtv).getByText(/20 de outubro de 1990/)).toBeInTheDocument()
+    const items = within(within(mtv).getByRole('list')).getAllByRole('listitem')
+    expect(items.map((item) => item.querySelector('strong')?.textContent)).toEqual([
+      '1990',
+      '1995',
+      '2007',
+      '2013',
+      '2025',
+    ])
+    expect(within(mtv).getByText('O Amplifica não tem ligação com a MTV.')).toBeInTheDocument()
+    expect(screen.getByRole('link', { name: 'Wikipédia: MTV Brasil' })).toHaveAttribute(
+      'href',
+      'https://pt.wikipedia.org/wiki/MTV_Brasil',
+    )
+  })
+
   it('só liga ao catálogo as bandas que estão cadastradas', async () => {
     endSession()
     mockApi({

@@ -88,11 +88,33 @@ export const HISTORY_ERAS: HistoryEra[] = [
   },
 ]
 
+/** Um marco da linha do tempo da MTV Brasil. */
+export interface MtvMilestone {
+  year: string
+  text: string
+}
+
+/** Texto de abertura da seção sobre a MTV Brasil. */
+export const MTV_INTRO =
+  'A MTV Brasil foi ao ar em 20 de outubro de 1990, uma parceria entre o Grupo Abril e a MTV Networks. Foi a primeira MTV do mundo em sinal aberto e a primeira emissora do país só para o público jovem, com programação 24 horas por dia. Bandas da cena também passaram pela programação dela.'
+
+export const MTV_TIMELINE: MtvMilestone[] = [
+  { year: '1990', text: 'Estreia, ao meio-dia. O primeiro clipe foi o remix de "Garota de Ipanema", com Marina Lima.' },
+  { year: '1995', text: 'Primeiro Video Music Brasil, no Memorial da América Latina.' },
+  { year: '2007', text: 'O Gloria toca "Anemia" no Jornal da MTV, antes de assinar com uma gravadora.' },
+  {
+    year: '2013',
+    text: 'A transmissão em sinal aberto termina em 30 de setembro. O último clipe foi "Maracatu Atômico", de Chico Science & Nação Zumbi.',
+  },
+  { year: '2025', text: 'A empresa anuncia o fim das operações da marca MTV no país.' },
+]
+
 export const HISTORY_SOURCES: HistorySource[] = [
   { name: 'Wikipédia: Hardcore punk', url: 'https://pt.wikipedia.org/wiki/Hardcore_punk' },
   { name: 'Wikipédia: Hardcore melódico', url: 'https://pt.wikipedia.org/wiki/Hardcore_mel%C3%B3dico' },
   { name: 'Wikipédia: Emo', url: 'https://pt.wikipedia.org/wiki/Emo' },
   { name: 'Wikipédia: Banda colorida', url: 'https://pt.wikipedia.org/wiki/Banda_colorida' },
+  { name: 'Wikipédia: MTV Brasil', url: 'https://pt.wikipedia.org/wiki/MTV_Brasil' },
   { name: 'Wikipédia: Gloria (banda)', url: 'https://pt.wikipedia.org/wiki/Gloria_(banda)' },
   { name: 'MusicBrainz', url: 'https://musicbrainz.org/' },
   { name: 'Spotify (páginas públicas dos artistas)', url: 'https://open.spotify.com/' },

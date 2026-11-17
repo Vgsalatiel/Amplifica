@@ -10,7 +10,7 @@ export function GenreTag({ name, to }: GenreTagProps) {
   return (
     <Link
       to={to}
-      className="inline-flex min-h-11 items-center border border-rule-strong px-3 text-sm font-medium transition-colors hover:border-accent hover:text-accent"
+      className="inline-flex min-h-11 items-center rounded-full border-2 border-rule-strong px-4 text-sm font-semibold transition-colors hover:border-accent hover:text-accent"
     >
       {name}
     </Link>

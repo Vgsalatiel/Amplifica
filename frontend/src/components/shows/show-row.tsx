@@ -1,5 +1,5 @@
 import { Link } from 'react-router'
-import { formatShortDate, showDay } from '../../lib/format-date'
+import { formatShortDate, formatShowHour, showDay } from '../../lib/format-date'
 import { SHOW_STATUS_LABELS } from '../../lib/labels'
 import type { Show } from '../../types/api'
 
@@ -32,6 +32,7 @@ function Acts({ show }: { show: Show }) {
  */
 export function ShowRow({ show }: { show: Show }) {
   const when = showDay(show.date)
+  const hour = formatShowHour(show.startTime)
   const bands = show.acts.map((act) => act.name).join(', ')
   // Festival (várias bandas): o nome do evento é o título. Show de uma banda: a banda é o título e
   // o nome da turnê, quando há, vira subtítulo.
@@ -41,13 +42,16 @@ export function ShowRow({ show }: { show: Show }) {
 
   return (
     <article className="grid grid-cols-[4.25rem_minmax(0,1fr)] gap-x-5 gap-y-4 py-6 sm:grid-cols-[5rem_minmax(0,1fr)_auto] sm:gap-x-8">
-      <time dateTime={show.date} className="flex flex-col items-center border-t-2 border-ink pt-2 text-center">
-        <span className="font-display text-5xl leading-none tabular-nums">{when.day}</span>
-        <span className="mt-1 text-sm text-muted">
-          {when.weekday}, {when.month.slice(0, 3)}
-        </span>
-        <span className="sr-only">{`${when.day} de ${when.month} de ${when.year}`}</span>
-      </time>
+      <div className="flex flex-col items-center border-t-2 border-ink pt-2 text-center">
+        <time dateTime={show.date} className="flex flex-col items-center">
+          <span className="font-display text-5xl leading-none tabular-nums">{when.day}</span>
+          <span className="mt-1 text-sm text-muted">
+            {when.weekday}, {when.month.slice(0, 3)}
+          </span>
+          <span className="sr-only">{`${when.day} de ${when.month} de ${when.year}`}</span>
+        </time>
+        {hour && <span className="mt-2 font-display text-xl leading-none text-accent">{hour}</span>}
+      </div>
 
       <div className="min-w-0">
         <h3 className="font-display text-2xl leading-tight font-normal text-balance md:text-3xl">
