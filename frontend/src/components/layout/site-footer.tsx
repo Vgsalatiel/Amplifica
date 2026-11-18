@@ -1,3 +1,4 @@
+import { Link } from 'react-router'
 import { Container } from './container'
 
 export function SiteFooter() {
@@ -30,6 +31,17 @@ export function SiteFooter() {
               </a>
               .
             </p>
+            <nav aria-label="Informações legais" className="flex flex-wrap gap-x-5">
+              <Link to="/termos" className="min-h-6 font-bold underline underline-offset-4 hover:no-underline">
+                Termos de uso
+              </Link>
+              <Link to="/privacidade" className="min-h-6 font-bold underline underline-offset-4 hover:no-underline">
+                Privacidade
+              </Link>
+              <Link to="/seguranca" className="min-h-6 font-bold underline underline-offset-4 hover:no-underline">
+                Segurança
+              </Link>
+            </nav>
           </div>
           <p>
             Projeto de portfólio com código aberto no{' '}

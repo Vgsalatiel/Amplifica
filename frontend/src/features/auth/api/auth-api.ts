@@ -57,3 +57,9 @@ export const resendVerification = () => apiFetch<void>('/auth/resend-verificatio
 export async function refreshCurrentUser(): Promise<void> {
   updateSessionUser(await apiFetch<User>('/auth/me'))
 }
+
+/** Exclui a conta de quem está logado (pede a senha de novo) e encerra a sessão neste navegador. */
+export async function deleteAccount(password: string): Promise<void> {
+  await apiFetch<void>('/auth/delete-account', { method: 'POST', json: { password } })
+  endSession()
+}

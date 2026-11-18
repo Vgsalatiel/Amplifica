@@ -171,6 +171,12 @@ export function RegisterPage() {
             </button>
           )}
         </div>
+        {isLastStep && (
+          <p className="mt-5 max-w-md text-sm text-muted">
+            Ao criar a conta, você concorda com os <TextLink to="/termos">Termos de uso</TextLink> e a{' '}
+            <TextLink to="/privacidade">Política de privacidade</TextLink>.
+          </p>
+        )}
       </form>
 
       {/* Resumo dos passos. Os já respondidos mostram o valor e servem de atalho para corrigir. */}

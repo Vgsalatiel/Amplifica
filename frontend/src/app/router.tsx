@@ -33,6 +33,9 @@ import { ReleasePage } from '../features/catalog/pages/release-page'
 import { ReleasesPage } from '../features/catalog/pages/releases-page'
 import { SearchPage } from '../features/search/pages/search-page'
 import { EmoTourPage } from '../features/shows/pages/emo-tour-page'
+import { PrivacyPage } from '../features/legal/pages/privacy-page'
+import { SafetyPage } from '../features/legal/pages/safety-page'
+import { TermsPage } from '../features/legal/pages/terms-page'
 import { ShowPage } from '../features/shows/pages/show-page'
 import { ShowsPage } from '../features/shows/pages/shows-page'
 import { BrazilHistoryPage } from '../features/catalog/pages/brazil-history-page'
@@ -56,6 +59,9 @@ export const router = createBrowserRouter([
       { path: '/cena-br', element: <BrazilScenePage /> },
       { path: '/cena-br/historia', element: <BrazilHistoryPage /> },
       { path: '/emo-tour', element: <EmoTourPage /> },
+      { path: '/termos', element: <TermsPage /> },
+      { path: '/privacidade', element: <PrivacyPage /> },
+      { path: '/seguranca', element: <SafetyPage /> },
       { path: '/guia', element: <StyleguidePage /> },
       { path: '/entrar', element: <LoginPage /> },
       { path: '/cadastro', element: <RegisterPage /> },

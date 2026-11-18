@@ -1,6 +1,7 @@
 import {
   BadRequestException,
   ConflictException,
+  ForbiddenException,
   Injectable,
   Logger,
   ServiceUnavailableException,
@@ -179,6 +180,48 @@ export class AuthService {
   async logout(refreshToken: string | undefined): Promise<void> {
     if (refreshToken) {
       await this.tokens.revoke(refreshToken);
+    }
+  }
+
+  /**
+   * Exclui a conta de quem pediu, depois de conferir a senha. Avaliações, presenças, comentários,
+   * denúncias e e-mails pendentes saem junto (cascata no banco). Clipes e grupos sugeridos ficam,
+   * sem autor. Administradores não se excluem: passe o cargo antes, para o site nunca ficar sem um.
+   */
+  async deleteAccount(
+    user: AuthUser,
+    password: string,
+    refreshToken: string | undefined,
+  ): Promise<void> {
+    if (user.role === 'ADMIN') {
+      throw new ForbiddenException(
+        apiError(
+          'admin_cannot_delete',
+          'Administradores não podem excluir a própria conta. Peça a outro administrador para mudar o seu papel antes.',
+        ),
+      );
+    }
+    const account = await this.prisma.user.findUnique({
+      where: { id: user.id },
+      select: { passwordHash: true },
+    });
+    const valid = await this.hasher.verify(password, account?.passwordHash);
+    if (!account || !valid) {
+      // 400 e não 401: um 401 faria o site tentar renovar a sessão em vez de mostrar o erro.
+      throw new BadRequestException(
+        apiError('invalid_password', 'Senha incorreta.', [
+          { field: 'password', message: 'Senha incorreta.' },
+        ]),
+      );
+    }
+    await this.prisma.$transaction([
+      // Sem chave estrangeira: o contrato do pacote de autenticação trata o id como texto.
+      this.prisma.refreshToken.deleteMany({ where: { userId: user.id } }),
+      this.prisma.user.delete({ where: { id: user.id } }),
+    ]);
+    await this.users.removeAvatarFile(user.avatarPath);
+    if (refreshToken) {
+      await this.tokens.revoke(refreshToken).catch(() => undefined);
     }
   }
 

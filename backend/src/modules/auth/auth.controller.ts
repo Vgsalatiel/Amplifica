@@ -27,11 +27,13 @@ import {
   loginSchema,
   registerSchema,
   resetPasswordSchema,
+  deleteAccountSchema,
   verifyEmailSchema,
   type ForgotPasswordDto,
   type LoginDto,
   type RegisterDto,
   type ResetPasswordDto,
+  type DeleteAccountDto,
   type VerifyEmailDto,
 } from './auth.schemas.js';
 import { AuthService, type AuthResult } from './auth.service.js';
@@ -110,6 +112,25 @@ export class AuthController {
     @Res({ passthrough: true }) response: Response,
   ): Promise<void> {
     await this.auth.logout(readRefreshCookie(request));
+    clearRefreshCookie(response, this.secureCookies);
+  }
+
+  /** Exclui a conta de quem está logado, com a senha como confirmação. Não dá para desfazer. */
+  @Can.Anyone()
+  @Throttle({ default: { limit: 5, ttl: 600_000 } })
+  @HttpCode(204)
+  @Post('delete-account')
+  async deleteAccount(
+    @CurrentUser() user: AuthUser,
+    @Body({ schema: deleteAccountSchema }) body: DeleteAccountDto,
+    @Req() request: Request,
+    @Res({ passthrough: true }) response: Response,
+  ): Promise<void> {
+    await this.auth.deleteAccount(
+      user,
+      body.password,
+      readRefreshCookie(request),
+    );
     clearRefreshCookie(response, this.secureCookies);
   }
 

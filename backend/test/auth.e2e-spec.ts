@@ -1,5 +1,6 @@
 import type { NestExpressApplication } from '@nestjs/platform-express';
 import request from 'supertest';
+import { PrismaService } from '../src/prisma/prisma.service.js';
 import { cleanTestData, createTestApp, newAccount } from './helpers.js';
 
 const AUTH = '/api/v1/auth';
@@ -250,6 +251,62 @@ describe('Autenticação (e2e)', () => {
         .post(`${AUTH}/refresh`)
         .set('Cookie', cookie)
         .expect(401);
+    });
+  });
+  describe('excluir a conta', () => {
+    const register = async () => {
+      const account = newAccount();
+      const response = await request(server())
+        .post(`${AUTH}/register`)
+        .send(account)
+        .expect(201);
+      return {
+        account,
+        auth: { Authorization: `Bearer ${response.body.accessToken}` },
+        cookie: refreshCookie(response),
+        id: response.body.user.id as string,
+      };
+    };
+    const remove = (auth: Record<string, string>, password: unknown) =>
+      request(server()).post(`${AUTH}/delete-account`).set(auth).send({ password });
+
+    it('exige login e a senha certa', async () => {
+      const me = await register();
+      await request(server())
+        .post(`${AUTH}/delete-account`)
+        .send({ password: me.account.password })
+        .expect(401);
+      const wrong = await remove(me.auth, 'senha-errada-000').expect(400);
+      expect(wrong.body.code).toBe('invalid_password');
+      expect(wrong.body.details[0].field).toBe('password');
+      await remove(me.auth, '').expect(400);
+      await request(server()).get('/api/v1/users/' + me.account.username).expect(200);
+    });
+
+    it('apaga a conta e tudo dela: o login deixa de funcionar e o perfil some', async () => {
+      const me = await register();
+      await remove(me.auth, me.account.password).expect(204);
+
+      await request(server())
+        .post(`${AUTH}/login`)
+        .send({ email: me.account.email, password: me.account.password })
+        .expect(401);
+      await request(server())
+        .get('/api/v1/users/' + me.account.username)
+        .expect(404);
+      await request(server())
+        .post(`${AUTH}/refresh`)
+        .set('Cookie', me.cookie)
+        .expect(401);
+    });
+
+    it('administradores não se excluem', async () => {
+      const me = await register();
+      await app
+        .get(PrismaService)
+        .user.update({ where: { id: me.id }, data: { role: 'ADMIN' } });
+      const response = await remove(me.auth, me.account.password).expect(403);
+      expect(response.body.code).toBe('admin_cannot_delete');
     });
   });
 });

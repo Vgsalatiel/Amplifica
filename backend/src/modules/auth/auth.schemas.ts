@@ -68,3 +68,10 @@ export type ForgotPasswordDto = z.infer<typeof forgotPasswordSchema>;
 export type ResetPasswordDto = z.infer<typeof resetPasswordSchema>;
 export type RegisterDto = z.infer<typeof registerSchema>;
 export type LoginDto = z.infer<typeof loginSchema>;
+
+/** Excluir a conta pede a senha de novo: um clique perdido ou uma sessão esquecida não bastam. */
+export const deleteAccountSchema = z.object({
+  password: z.string('Digite a sua senha.').min(1, 'Digite a sua senha.').max(128),
+});
+
+export type DeleteAccountDto = z.infer<typeof deleteAccountSchema>;

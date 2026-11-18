@@ -1,5 +1,7 @@
 import { useMutation, useQueryClient } from '@tanstack/react-query'
 import { useState, type FormEvent } from 'react'
+import { useNavigate } from 'react-router'
+import { deleteAccount } from '../../auth/api/auth-api'
 import { Container } from '../../../components/layout/container'
 import { Button } from '../../../components/ui/button'
 import { TextArea } from '../../../components/ui/text-area'
@@ -113,7 +115,88 @@ function AccountForm({ user }: { user: User }) {
             </p>
           </div>
         </form>
+
+        <DeleteAccount isAdmin={user.role === 'ADMIN'} />
       </div>
     </Container>
+  )
+}
+
+/** Excluir a conta: pede a senha de novo e explica o que some e o que fica. */
+function DeleteAccount({ isAdmin }: { isAdmin: boolean }) {
+  const navigate = useNavigate()
+  const [open, setOpen] = useState(false)
+  const [password, setPassword] = useState('')
+  const mutation = useMutation({
+    mutationFn: deleteAccount,
+    onSuccess: () => navigate('/', { replace: true }),
+  })
+  const errors = fieldErrorsFrom(mutation.error)
+
+  function handleSubmit(event: FormEvent) {
+    event.preventDefault()
+    mutation.mutate(password)
+  }
+
+  return (
+    <section aria-labelledby="excluir-titulo" className="mt-16 border-t border-rule pt-10">
+      <h2 id="excluir-titulo" className="font-display text-3xl leading-none font-normal">
+        Excluir minha conta
+      </h2>
+      <p className="mt-3 text-muted">
+        Apaga o seu perfil, e-mail, avaliações, comentários e presenças em shows. Não dá para desfazer. Os clipes e
+        grupos que você sugeriu e que já foram aprovados continuam no site, sem o seu nome. Veja a{' '}
+        <TextLink to="/privacidade">Política de privacidade</TextLink>.
+      </p>
+
+      {isAdmin ? (
+        <p className="mt-4 font-medium">
+          Administradores não podem excluir a própria conta. Peça a outro administrador para mudar o seu papel antes.
+        </p>
+      ) : !open ? (
+        <button
+          type="button"
+          onClick={() => setOpen(true)}
+          className="mt-4 min-h-11 cursor-pointer font-semibold text-danger underline underline-offset-4"
+        >
+          Quero excluir minha conta
+        </button>
+      ) : (
+        <form onSubmit={handleSubmit} noValidate className="mt-6 flex flex-col items-start gap-4">
+          <FormAlert message={formMessageFrom(mutation.error)} />
+          <TextField
+            label="Digite sua senha para confirmar"
+            type="password"
+            name="delete-password"
+            autoComplete="current-password"
+            value={password}
+            onChange={(event) => setPassword(event.target.value)}
+            error={errors.password}
+            className="w-full max-w-sm"
+          />
+          <div className="flex flex-wrap items-center gap-4">
+            <Button
+              type="submit"
+              variant="secondary"
+              disabled={mutation.isPending || password === ''}
+              className="border-danger text-danger hover:border-danger"
+            >
+              {mutation.isPending ? 'Excluindo…' : 'Excluir minha conta para sempre'}
+            </Button>
+            <button
+              type="button"
+              onClick={() => {
+                setOpen(false)
+                setPassword('')
+                mutation.reset()
+              }}
+              className="min-h-11 cursor-pointer font-semibold underline underline-offset-4"
+            >
+              Cancelar
+            </button>
+          </div>
+        </form>
+      )}
+    </section>
   )
 }

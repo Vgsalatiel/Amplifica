@@ -84,4 +84,9 @@ export class UsersService {
     await this.images.remove(current?.avatarPath);
     return user;
   }
+
+  /** Apaga o arquivo do avatar quando a conta é excluída. Falha de armazenamento não impede a exclusão. */
+  async removeAvatarFile(path: string | null | undefined): Promise<void> {
+    await this.images.remove(path).catch(() => undefined);
+  }
 }

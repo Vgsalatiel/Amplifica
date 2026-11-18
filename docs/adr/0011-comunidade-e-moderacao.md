@@ -1,7 +1,7 @@
 # ADR 0011 — Comunidade, clipes sugeridos e moderação
 
 - **Data:** 2026-11-18
-- **Status:** aceita (clipes, moderador, "Eu vou", mural, grupos externos e Descobridor prontos; termos de uso e privacidade na etapa seguinte)
+- **Status:** aceita (as seis etapas prontas; os textos legais são rascunho e precisam de revisão jurídica antes de divulgar a comunidade)
 
 ## Contexto
 
