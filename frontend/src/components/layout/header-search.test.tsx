@@ -5,10 +5,11 @@ import { HeaderSearch } from './header-search'
 
 const routes = [
   { path: '/buscar', element: <HeaderSearch /> },
+  { path: '/pessoas', element: <HeaderSearch /> },
   { path: '/', element: <HeaderSearch /> },
 ]
 
-const field = () => screen.getByRole('searchbox', { name: 'Buscar artistas e lançamentos' })
+const field = () => screen.getByRole('searchbox', { name: 'Buscar artistas, lançamentos e pessoas' })
 
 describe('HeaderSearch', () => {
   it('leva à página de busca com o texto na URL, sem espaços sobrando', () => {
@@ -40,5 +41,31 @@ describe('HeaderSearch', () => {
     renderRoutes(routes, '/?q=sempiternal')
 
     expect(field()).toHaveValue('')
+  })
+
+  it('começando com @, procura pessoas e tira o @ da URL', () => {
+    const { router } = renderRoutes(routes, '/')
+
+    fireEvent.change(field(), { target: { value: ' @gutiguti ' } })
+    fireEvent.submit(screen.getByRole('search'))
+
+    expect(router.state.location.pathname).toBe('/pessoas')
+    expect(router.state.location.search).toBe('?q=gutiguti')
+  })
+
+  it('só o @ leva à página de pessoas, sem busca', () => {
+    const { router } = renderRoutes(routes, '/')
+
+    fireEvent.change(field(), { target: { value: '@' } })
+    fireEvent.submit(screen.getByRole('search'))
+
+    expect(router.state.location.pathname).toBe('/pessoas')
+    expect(router.state.location.search).toBe('')
+  })
+
+  it('na página de pessoas, o campo mostra @ e o que está sendo procurado', () => {
+    renderRoutes(routes, '/pessoas?q=ana')
+
+    expect(field()).toHaveValue('@ana')
   })
 })

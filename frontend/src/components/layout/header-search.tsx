@@ -14,7 +14,8 @@ export function HeaderSearch({ className, onNavigate }: HeaderSearchProps) {
   const { pathname } = useLocation()
   const [params] = useSearchParams()
   // Na própria página de busca, o campo mostra o que está sendo procurado.
-  const current = pathname === '/buscar' ? (params.get('q') ?? '') : ''
+  const current =
+    pathname === '/buscar' ? (params.get('q') ?? '') : pathname === '/pessoas' && params.get('q') ? `@${params.get('q')}` : ''
 
   function submit(event: FormEvent<HTMLFormElement>) {
     event.preventDefault()
@@ -23,6 +24,12 @@ export function HeaderSearch({ className, onNavigate }: HeaderSearchProps) {
       return
     }
     onNavigate?.()
+    // "@nome" procura pessoas; o resto procura artistas e discos.
+    if (term.startsWith('@')) {
+      const person = term.replace(/^@+/, '').trim()
+      void navigate(person ? `/pessoas?q=${encodeURIComponent(person)}` : '/pessoas')
+      return
+    }
     void navigate(`/buscar?q=${encodeURIComponent(term)}`)
   }
 
@@ -30,7 +37,7 @@ export function HeaderSearch({ className, onNavigate }: HeaderSearchProps) {
     // A chave refaz o campo quando a busca muda por outro caminho (voltar, link).
     <form key={current} role="search" onSubmit={submit} className={cn('flex', className)}>
       <label htmlFor={id} className="sr-only">
-        Buscar artistas e lançamentos
+        Buscar artistas, lançamentos e pessoas
       </label>
       <input
         id={id}
@@ -38,7 +45,7 @@ export function HeaderSearch({ className, onNavigate }: HeaderSearchProps) {
         type="search"
         defaultValue={current}
         maxLength={80}
-        placeholder="Buscar artistas e discos"
+        placeholder="Artistas, discos ou @pessoas"
         className="h-11 w-full rounded-xs border border-rule-strong bg-transparent px-3 text-[15px] text-ink placeholder:text-muted hover:border-ink"
       />
     </form>

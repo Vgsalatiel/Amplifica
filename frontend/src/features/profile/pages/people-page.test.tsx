@@ -47,4 +47,17 @@ describe('PeoplePage', () => {
     expect(screen.getByText('Digite pelo menos 2 letras.')).toBeInTheDocument()
     expect(fetchMock).not.toHaveBeenCalled()
   })
+
+  it('o @ na frente do nome é ignorado, no campo e na URL', async () => {
+    mockApi({ 'GET /users/search?q=ana': { status: 200, body: [person('ana', 'Ana Souza')] } })
+    renderRoutes(routes, '/pessoas')
+
+    fireEvent.change(screen.getByLabelText('Nome ou @usuario'), { target: { value: '@ana' } })
+    fireEvent.click(screen.getByRole('button', { name: 'Buscar' }))
+    expect(await screen.findByRole('link', { name: /Ana Souza/ })).toHaveAttribute('href', '/u/ana')
+
+    mockApi({ 'GET /users/search?q=ana': { status: 200, body: [person('ana', 'Ana Souza')] } })
+    renderRoutes(routes, '/pessoas?q=%40ana')
+    expect((await screen.findAllByRole('link', { name: /Ana Souza/ })).length).toBeGreaterThan(0)
+  })
 })

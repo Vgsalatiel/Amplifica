@@ -76,6 +76,16 @@ describe('Busca de perfis e gosto em comum (e2e)', () => {
       expect(found).not.toHaveProperty('passwordHash');
     });
 
+    it('aceita o @ na frente, como o perfil aparece no site', async () => {
+      const response = await search(`@${bia.username}`).expect(200);
+      expect(
+        response.body.some(
+          (user: { username: string }) => user.username === bia.username,
+        ),
+      ).toBe(true);
+      await search('@').expect(400);
+    });
+
     it('exige pelo menos 2 letras e devolve no máximo 10 perfis', async () => {
       await search('a').expect(400);
       await search('').expect(400);

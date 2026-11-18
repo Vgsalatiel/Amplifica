@@ -29,8 +29,14 @@ export const searchUsersSchema = z.object({
   q: z
     .string('Digite o nome que quer buscar.')
     .trim()
-    .min(2, 'Digite pelo menos 2 letras.')
-    .max(40, 'A busca pode ter até 40 caracteres.'),
+    // "@usuario" é a forma como o perfil aparece no site: o @ não faz parte do nome.
+    .transform((text) => text.replace(/^@+/, '').trim())
+    .pipe(
+      z
+        .string()
+        .min(2, 'Digite pelo menos 2 letras.')
+        .max(40, 'A busca pode ter até 40 caracteres.'),
+    ),
 });
 
 export type SearchUsersQuery = z.infer<typeof searchUsersSchema>;

@@ -12,7 +12,8 @@ import { searchProfiles } from '../api/profile-api'
 export function PeoplePage() {
   useDocumentTitle('Pessoas')
   const [params, setParams] = useSearchParams()
-  const term = (params.get('q') ?? '').trim()
+  // O @ de "@usuario" não faz parte do nome.
+  const term = (params.get('q') ?? '').replace(/^@+/, '').trim()
   const [draft, setDraft] = useState(term)
   const tooShort = term.length > 0 && term.length < 2
 
@@ -26,7 +27,7 @@ export function PeoplePage() {
 
   function handleSubmit(event: FormEvent) {
     event.preventDefault()
-    const next = draft.trim()
+    const next = draft.replace(/^\s*@+/, '').trim()
     setParams(next ? { q: next } : {})
   }
 
@@ -34,7 +35,7 @@ export function PeoplePage() {
     <Container className="pt-10 md:pt-16">
       <h1 className="font-display text-5xl leading-none font-normal tracking-tight md:text-7xl">Pessoas</h1>
       <p className="mt-4 max-w-xl text-xl">
-        Procure alguém pelo nome ou pelo @usuario. No perfil dela, veja quanto o gosto de vocês combina e quais bandas
+        Procure alguém pelo nome ou pelo @usuario (no menu, comece a busca com @). No perfil dela, veja quanto o gosto de vocês combina e quais bandas
         vocês dois curtem.
       </p>
 

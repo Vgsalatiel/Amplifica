@@ -16,7 +16,6 @@ const BASE_NAV_ITEMS = [
   { to: '/generos', label: 'Gêneros' },
   { to: '/cena-br', label: 'Cena BR' },
   { to: '/shows', label: 'Shows' },
-  { to: '/pessoas', label: 'Pessoas' },
 ]
 
 const linkBase =
