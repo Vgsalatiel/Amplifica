@@ -8,7 +8,10 @@ import { ShowPage } from './show-page'
 const SLUG = 'linkin-park-sao-paulo-2027-03-15'
 const open = () => renderRoutes([{ path: '/shows/:slug', element: <ShowPage /> }], `/shows/${SLUG}`)
 const none = { status: 200, body: { count: 0, going: [] } }
-const board = { [`GET /shows/${SLUG}/comments`]: { status: 200, body: [] } }
+const board = {
+  [`GET /shows/${SLUG}/comments`]: { status: 200, body: [] },
+  [`GET /shows/${SLUG}/groups`]: { status: 200, body: [] },
+}
 
 describe('ShowPage', () => {
   it('mostra o show, o ingresso e o total de quem vai, convidando o visitante a entrar', async () => {

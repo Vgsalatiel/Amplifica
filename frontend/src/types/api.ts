@@ -284,3 +284,22 @@ export interface ReportedComment extends ShowComment {
   reportCount: number
   reasons: string[]
 }
+
+export type GroupPlatform = 'WHATSAPP' | 'TELEGRAM' | 'DISCORD'
+export type GroupStatus = 'PENDING' | 'APPROVED' | 'REJECTED'
+
+/** Link de um grupo externo aprovado para quem vai a um show. */
+export interface ShowGroup {
+  id: string
+  platform: GroupPlatform
+  url: string
+}
+
+/** Uma linha da fila de moderação dos grupos. */
+export interface ReviewGroup extends ShowGroup {
+  status: GroupStatus
+  createdAt: string
+  reviewedAt: string | null
+  show: { slug: string; name: string | null; acts: string[] }
+  suggestedBy: { username: string } | null
+}

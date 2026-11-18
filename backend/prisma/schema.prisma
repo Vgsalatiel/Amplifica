@@ -41,6 +41,7 @@ model User {
   attendances    ShowAttendance[]
   comments       ShowComment[]
   commentReports CommentReport[]
+  groupLinks     ShowGroup[]
 }
 
 enum EmailTokenPurpose {
@@ -302,6 +303,7 @@ model Show {
   genres      ShowGenre[]
   attendances ShowAttendance[]
   comments    ShowComment[]
+  groups      ShowGroup[]
 
   // Agenda: próximos shows, com ou sem filtro de estado.
   @@index([date])
@@ -418,4 +420,37 @@ model CommentReport {
 
   @@unique([commentId, reporterId])
   @@index([resolvedAt, createdAt])
+}
+
+enum GroupPlatform {
+  WHATSAPP
+  TELEGRAM
+  DISCORD
+}
+
+enum GroupStatus {
+  PENDING
+  APPROVED
+  REJECTED
+}
+
+// Link de um grupo externo (WhatsApp, Telegram ou Discord) para quem vai a um show. Qualquer conta
+// verificada sugere; só aparece na página depois que um moderador aprova.
+model ShowGroup {
+  id            String        @id @default(uuid(7)) @db.Uuid
+  showId        String        @db.Uuid
+  platform      GroupPlatform
+  url           String
+  status        GroupStatus   @default(PENDING)
+  submittedById String?       @db.Uuid
+  createdAt     DateTime      @default(now())
+  reviewedAt    DateTime?
+
+  show        Show  @relation(fields: [showId], references: [id], onDelete: Cascade)
+  submittedBy User? @relation(fields: [submittedById], references: [id], onDelete: SetNull)
+
+  @@unique([showId, url])
+  @@index([showId, status])
+  @@index([status, createdAt])
+  @@index([submittedById, createdAt])
 }

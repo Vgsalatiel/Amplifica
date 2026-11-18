@@ -18,3 +18,9 @@ export const SHOW_STATUS_LABELS: Record<ShowStatus, string> = {
   SOLD_OUT: 'Esgotado',
   CANCELLED: 'Cancelado',
 }
+
+export const GROUP_PLATFORM_LABELS = {
+  WHATSAPP: 'WhatsApp',
+  TELEGRAM: 'Telegram',
+  DISCORD: 'Discord',
+} as const

@@ -5,6 +5,7 @@ import { cn } from '../../../lib/cn'
 const SECTIONS = [
   { to: '/moderacao/clipes', label: 'Clipes' },
   { to: '/moderacao/denuncias', label: 'Denúncias' },
+  { to: '/moderacao/grupos', label: 'Grupos' },
 ]
 
 /** Moldura da moderação: o que a comunidade produz e precisa de olhar humano. */
