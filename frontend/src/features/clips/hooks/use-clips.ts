@@ -1,6 +1,7 @@
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 import { retryDelay, shouldRetry } from '../../../lib/retry'
-import { listClips, listMyClips, suggestClip } from '../api/clips-api'
+import type { ClipStatus } from '../../../types/api'
+import { deleteClip, listClips, listClipsForReview, listMyClips, reviewClip, suggestClip } from '../api/clips-api'
 
 /** A playlist pública. Sem `enabled`: qualquer visitante a vê. */
 export const useClipList = () =>
@@ -17,4 +18,28 @@ export function useSuggestClip() {
     mutationFn: suggestClip,
     onSuccess: () => queryClient.invalidateQueries({ queryKey: ['clips', 'mine'] }),
   })
+}
+
+/** A fila de moderação, por situação (administradores). */
+export const useClipsForReview = (status: ClipStatus, enabled = true) =>
+  useQuery({ queryKey: ['clips', 'review', status], queryFn: () => listClipsForReview(status), enabled })
+
+/** Depois de qualquer decisão, refaz todas as listas de clipes: a fila, a playlist pública e "minhas sugestões". */
+function useInvalidateClips() {
+  const queryClient = useQueryClient()
+  return () => queryClient.invalidateQueries({ queryKey: ['clips'] })
+}
+
+export function useReviewClip() {
+  const invalidate = useInvalidateClips()
+  return useMutation({
+    mutationFn: (args: { id: string; input: { status: 'APPROVED' | 'REJECTED'; artistId?: string | null } }) =>
+      reviewClip(args.id, args.input),
+    onSuccess: invalidate,
+  })
+}
+
+export function useDeleteClip() {
+  const invalidate = useInvalidateClips()
+  return useMutation({ mutationFn: deleteClip, onSuccess: invalidate })
 }

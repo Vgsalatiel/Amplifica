@@ -7,6 +7,7 @@ const SECTIONS = [
   { to: '/admin/artistas', label: 'Artistas' },
   { to: '/admin/generos', label: 'Gêneros' },
   { to: '/admin/shows', label: 'Shows' },
+  { to: '/admin/clipes', label: 'Clipes' },
 ]
 
 /** Moldura da administração: título e as seções do catálogo e da agenda. */

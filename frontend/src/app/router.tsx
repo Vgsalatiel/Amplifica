@@ -5,6 +5,7 @@ import { AdminLayout } from '../features/admin/pages/admin-layout'
 import { ArtistsAdminPage } from '../features/admin/pages/artists-admin-page'
 import { EditArtistPage, NewArtistPage } from '../features/admin/pages/artist-form-page'
 import { GenresAdminPage } from '../features/admin/pages/genres-admin-page'
+import { ClipsAdminPage } from '../features/admin/pages/clips-admin-page'
 import { ShowsAdminPage } from '../features/admin/pages/shows-admin-page'
 import { EditShowPage, NewShowPage } from '../features/admin/pages/show-form-page'
 import { ReleasesAdminPage } from '../features/admin/pages/releases-admin-page'
@@ -77,6 +78,7 @@ export const router = createBrowserRouter([
                   { path: 'artistas/:slug', element: <EditArtistPage /> },
                   { path: 'generos', element: <GenresAdminPage /> },
                   { path: 'shows', element: <ShowsAdminPage /> },
+                  { path: 'clipes', element: <ClipsAdminPage /> },
                   { path: 'shows/novo', element: <NewShowPage /> },
                   { path: 'shows/:slug', element: <EditShowPage /> },
                 ],
