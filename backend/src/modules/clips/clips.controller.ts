@@ -14,7 +14,7 @@ import { CurrentUser, Public } from '@nestjs/authentication';
 import { Can } from '@nestjs/authorization';
 import { Throttle } from '@nestjs/throttler';
 import { idParamSchema } from '../../common/id-param.js';
-import { CatalogPolicy } from '../catalog/catalog.policy.js';
+import { ModerationPolicy } from '../moderation/moderation.policy.js';
 import { UserThrottlerGuard } from '../reviews/user-throttler.guard.js';
 import type { AuthUser } from '../users/user.types.js';
 import type {
@@ -68,7 +68,7 @@ export class ClipsController {
     return this.clips.suggest(user, body);
   }
 
-  @Can(CatalogPolicy, 'manage')
+  @Can(ModerationPolicy, 'moderate')
   @Get('review')
   listForReview(
     @Query({ schema: reviewListSchema }) query: ReviewListQuery,
@@ -76,7 +76,7 @@ export class ClipsController {
     return this.clips.listForReview(query);
   }
 
-  @Can(CatalogPolicy, 'manage')
+  @Can(ModerationPolicy, 'moderate')
   @Patch(':id')
   review(
     @Param('id', { schema: idParamSchema }) id: string,
@@ -85,7 +85,7 @@ export class ClipsController {
     return this.clips.review(id, body);
   }
 
-  @Can(CatalogPolicy, 'manage')
+  @Can(ModerationPolicy, 'moderate')
   @HttpCode(204)
   @Delete(':id')
   remove(@Param('id', { schema: idParamSchema }) id: string): Promise<void> {

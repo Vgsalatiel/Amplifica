@@ -79,8 +79,13 @@ export function newAccount() {
  */
 export async function createSession(
   app: NestExpressApplication,
-  options: { admin?: boolean; unverified?: boolean } = {},
-): Promise<{ token: string; id: string; auth: { Authorization: string } }> {
+  options: { admin?: boolean; moderator?: boolean; unverified?: boolean } = {},
+): Promise<{
+  token: string;
+  id: string;
+  username: string;
+  auth: { Authorization: string };
+}> {
   const { default: request } = await import('supertest');
   const response = await request(app.getHttpServer())
     .post('/api/v1/auth/register')
@@ -98,6 +103,16 @@ export async function createSession(
       .get(PrismaService)
       .user.update({ where: { id }, data: { role: 'ADMIN' } });
   }
+  if (options.moderator) {
+    await app
+      .get(PrismaService)
+      .user.update({ where: { id }, data: { role: 'MODERATOR' } });
+  }
   const token = response.body.accessToken as string;
-  return { token, id, auth: { Authorization: `Bearer ${token}` } };
+  return {
+    token,
+    id,
+    username: response.body.user.username as string,
+    auth: { Authorization: `Bearer ${token}` },
+  };
 }

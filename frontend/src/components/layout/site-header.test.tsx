@@ -80,6 +80,26 @@ describe('SiteHeader', () => {
     expect(screen.getByRole('link', { name: 'Administração' })).toHaveAttribute('href', '/admin')
   })
 
+  it('mostra o link da moderação para moderadores e administradores, e o da administração só para administradores', () => {
+    startSession(sessionFor())
+    const { unmount: unmountUser } = renderHeader()
+    expect(screen.queryByRole('link', { name: 'Moderação' })).not.toBeInTheDocument()
+    unmountUser()
+
+    endSession()
+    startSession(sessionFor({ ...testUser, role: 'MODERATOR' }))
+    const { unmount: unmountModerator } = renderHeader()
+    expect(screen.getByRole('link', { name: 'Moderação' })).toHaveAttribute('href', '/moderacao')
+    expect(screen.queryByRole('link', { name: 'Administração' })).not.toBeInTheDocument()
+    unmountModerator()
+
+    endSession()
+    startSession(sessionFor({ ...testUser, role: 'ADMIN' }))
+    renderHeader()
+    expect(screen.getByRole('link', { name: 'Moderação' })).toBeInTheDocument()
+    expect(screen.getByRole('link', { name: 'Administração' })).toBeInTheDocument()
+  })
+
   it('mostra o perfil de quem está logado e encerra a sessão ao sair', async () => {
     startSession(sessionFor())
     const fetchMock = mockApi({ 'POST /auth/logout': { status: 204 } })

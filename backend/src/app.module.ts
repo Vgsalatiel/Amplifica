@@ -2,6 +2,7 @@ import { Module } from '@nestjs/common';
 import { AuthorizationModule } from '@nestjs/authorization';
 import { ConfigModule } from '@nestjs/config';
 import { validateEnv } from './config/env.js';
+import { ModerationModule } from './modules/moderation/moderation.module.js';
 import { ClipsModule } from './modules/clips/clips.module.js';
 import { ArtistsModule } from './modules/artists/artists.module.js';
 import { AuthModule } from './modules/auth/auth.module.js';
@@ -13,6 +14,7 @@ import { MailModule } from './modules/mail/mail.module.js';
 import { ReleasesModule } from './modules/releases/releases.module.js';
 import { ReviewsModule } from './modules/reviews/reviews.module.js';
 import { ShowsModule } from './modules/shows/shows.module.js';
+import { TeamModule } from './modules/team/team.module.js';
 import { UsersModule } from './modules/users/users.module.js';
 import { PrismaModule } from './prisma/prisma.module.js';
 
@@ -34,6 +36,8 @@ import { PrismaModule } from './prisma/prisma.module.js';
     ReviewsModule,
     ShowsModule,
     ClipsModule,
+    ModerationModule,
+    TeamModule,
     HealthModule,
   ],
 })

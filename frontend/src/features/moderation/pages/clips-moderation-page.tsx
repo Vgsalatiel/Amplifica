@@ -23,7 +23,7 @@ const EMPTY: Record<ClipStatus, string> = {
 }
 
 /** Moderação dos clipes da playlist "Agora na tela": aprovar, recusar, ligar a uma banda e remover. */
-export function ClipsAdminPage() {
+export function ClipsModerationPage() {
   const [params] = useSearchParams()
   const status = TABS.find((tab) => tab.status === params.get('situacao'))?.status ?? 'PENDING'
   const [notice, setNotice] = useState('')
@@ -46,7 +46,7 @@ export function ClipsAdminPage() {
         {TABS.map((tab) => (
           <Link
             key={tab.status}
-            to={tab.status === 'PENDING' ? '/admin/clipes' : `/admin/clipes?situacao=${tab.status}`}
+            to={tab.status === 'PENDING' ? '/moderacao/clipes' : `/moderacao/clipes?situacao=${tab.status}`}
             aria-current={tab.status === status ? 'page' : undefined}
             onClick={() => setNotice('')}
             className={cn(

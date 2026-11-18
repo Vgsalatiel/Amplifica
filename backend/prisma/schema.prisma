@@ -12,6 +12,8 @@ datasource db {
 
 enum Role {
   USER
+  // Cuida do que a comunidade produz (clipes, comentários, denúncias); não mexe no catálogo.
+  MODERATOR
   ADMIN
 }
 

@@ -5,7 +5,10 @@ import { AdminLayout } from '../features/admin/pages/admin-layout'
 import { ArtistsAdminPage } from '../features/admin/pages/artists-admin-page'
 import { EditArtistPage, NewArtistPage } from '../features/admin/pages/artist-form-page'
 import { GenresAdminPage } from '../features/admin/pages/genres-admin-page'
-import { ClipsAdminPage } from '../features/admin/pages/clips-admin-page'
+import { TeamAdminPage } from '../features/admin/pages/team-admin-page'
+import { ModeratorRoute } from '../features/moderation/components/moderator-route'
+import { ClipsModerationPage } from '../features/moderation/pages/clips-moderation-page'
+import { ModerationLayout } from '../features/moderation/pages/moderation-layout'
 import { ShowsAdminPage } from '../features/admin/pages/shows-admin-page'
 import { EditShowPage, NewShowPage } from '../features/admin/pages/show-form-page'
 import { ReleasesAdminPage } from '../features/admin/pages/releases-admin-page'
@@ -62,6 +65,20 @@ export const router = createBrowserRouter([
         children: [
           { path: '/conta', element: <AccountPage /> },
           {
+            // Dentro daqui só entra quem é administrador ou moderador.
+            element: <ModeratorRoute />,
+            children: [
+              {
+                path: '/moderacao',
+                element: <ModerationLayout />,
+                children: [
+                  { index: true, element: <Navigate to="/moderacao/clipes" replace /> },
+                  { path: 'clipes', element: <ClipsModerationPage /> },
+                ],
+              },
+            ],
+          },
+          {
             // Dentro daqui só entra quem é administrador.
             element: <AdminRoute />,
             children: [
@@ -78,7 +95,7 @@ export const router = createBrowserRouter([
                   { path: 'artistas/:slug', element: <EditArtistPage /> },
                   { path: 'generos', element: <GenresAdminPage /> },
                   { path: 'shows', element: <ShowsAdminPage /> },
-                  { path: 'clipes', element: <ClipsAdminPage /> },
+                  { path: 'equipe', element: <TeamAdminPage /> },
                   { path: 'shows/novo', element: <NewShowPage /> },
                   { path: 'shows/:slug', element: <EditShowPage /> },
                 ],

@@ -1,6 +1,6 @@
 /** Tipos das respostas da API. Espelham o que o backend devolve em /api/v1. */
 
-export type Role = 'USER' | 'ADMIN'
+export type Role = 'USER' | 'MODERATOR' | 'ADMIN'
 
 /** A própria conta, como vem de /auth/me, login, cadastro e renovação. */
 /** Duas versões de cada imagem: a grande (página) e a pequena (listas). */
@@ -249,4 +249,11 @@ export interface MyClip {
 export interface ReviewClip extends PlaylistClip {
   status: ClipStatus
   reviewedAt: string | null
+}
+
+/** Alguém da equipe do site: administrador ou moderador. */
+export interface TeamMember {
+  username: string
+  displayName: string
+  role: Extract<Role, 'ADMIN' | 'MODERATOR'>
 }

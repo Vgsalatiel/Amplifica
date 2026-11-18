@@ -213,6 +213,7 @@ Cada decisão relevante tem uma página própria, com contexto, alternativas e l
 | [0008](docs/adr/0008-descoberta.md) | Busca sem acento, filtros e ordem por nota |
 | [0009](docs/adr/0009-confirmacao-de-email-e-senha.md) | Confirmação de e-mail e recuperação de senha |
 | [0010](docs/adr/0010-shows.md) | Shows: escalação, gêneros próprios, data de conferência |
+| [0011](docs/adr/0011-comunidade-e-moderacao.md) | Comunidade: clipes sugeridos, papel de moderador e moderação |
 
 ## Limites conhecidos
 

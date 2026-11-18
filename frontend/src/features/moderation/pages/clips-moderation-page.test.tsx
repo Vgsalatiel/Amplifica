@@ -3,7 +3,7 @@ import { describe, expect, it } from 'vitest'
 import { artistSummary, page } from '../../../test/fixtures'
 import { mockApi, renderRoutes } from '../../../test/helpers'
 import type { ReviewClip } from '../../../types/api'
-import { ClipsAdminPage } from './clips-admin-page'
+import { ClipsModerationPage } from './clips-moderation-page'
 
 const clip = (overrides: Partial<ReviewClip> = {}): ReviewClip => ({
   id: 'c1',
@@ -19,17 +19,17 @@ const clip = (overrides: Partial<ReviewClip> = {}): ReviewClip => ({
   ...overrides,
 })
 
-const routes = [{ path: '/admin/clipes', element: <ClipsAdminPage /> }]
+const routes = [{ path: '/moderacao/clipes', element: <ClipsModerationPage /> }]
 const none = { status: 200, body: [] }
 const notFound = { status: 404, body: { statusCode: 404, code: 'clip_not_found', message: 'Esse clipe não existe.' } }
 
 const patchOf = (fetchMock: ReturnType<typeof mockApi>) =>
   fetchMock.mock.calls.find(([, init]) => init?.method === 'PATCH')!
 
-describe('ClipsAdminPage', () => {
+describe('ClipsModerationPage', () => {
   it('abre nos pendentes, com título, canal, quem sugeriu e o link para ver o vídeo no YouTube', async () => {
     mockApi({ 'GET /clips/review?status=PENDING': { status: 200, body: [clip()] } })
-    renderRoutes(routes, '/admin/clipes')
+    renderRoutes(routes, '/moderacao/clipes')
 
     expect(await screen.findByText('Clipe da banda nova')).toBeInTheDocument()
     expect(screen.getByText(/Canal da Banda · sugerido por @ana · 17\/11\/2026/)).toBeInTheDocument()
@@ -48,7 +48,7 @@ describe('ClipsAdminPage', () => {
       ],
       'PATCH /clips/c1': { status: 200, body: clip({ status: 'APPROVED' }) },
     })
-    renderRoutes(routes, '/admin/clipes')
+    renderRoutes(routes, '/moderacao/clipes')
 
     fireEvent.click(await screen.findByRole('button', { name: 'Aprovar' }))
 
@@ -66,7 +66,7 @@ describe('ClipsAdminPage', () => {
       },
       'PATCH /clips/c1': { status: 200, body: clip({ status: 'APPROVED' }) },
     })
-    renderRoutes(routes, '/admin/clipes')
+    renderRoutes(routes, '/moderacao/clipes')
     await screen.findByText('Clipe da banda nova')
 
     fireEvent.change(screen.getByLabelText('Buscar banda pelo nome'), { target: { value: 'fres' } })
@@ -83,7 +83,7 @@ describe('ClipsAdminPage', () => {
       'GET /clips/review?status=PENDING': { status: 200, body: [clip()] },
       'PATCH /clips/c1': { status: 200, body: clip({ status: 'REJECTED' }) },
     })
-    renderRoutes(routes, '/admin/clipes')
+    renderRoutes(routes, '/moderacao/clipes')
 
     fireEvent.click(await screen.findByRole('button', { name: 'Recusar' }))
 
@@ -99,7 +99,7 @@ describe('ClipsAdminPage', () => {
       ],
       'DELETE /clips/c1': { status: 204 },
     })
-    renderRoutes(routes, '/admin/clipes')
+    renderRoutes(routes, '/moderacao/clipes')
 
     fireEvent.click(await screen.findByRole('button', { name: 'Excluir' }))
     expect(fetchMock.mock.calls.some(([, init]) => init?.method === 'DELETE')).toBe(false)
@@ -121,7 +121,7 @@ describe('ClipsAdminPage', () => {
         ],
       },
     })
-    renderRoutes(routes, '/admin/clipes?situacao=APPROVED')
+    renderRoutes(routes, '/moderacao/clipes?situacao=APPROVED')
 
     expect(await screen.findByText('fixo')).toBeInTheDocument()
     expect(screen.queryByRole('button', { name: 'Aprovar' })).not.toBeInTheDocument()
@@ -136,7 +136,7 @@ describe('ClipsAdminPage', () => {
       'GET /clips/review?status=PENDING': none,
       'GET /clips/review?status=REJECTED': { status: 200, body: [clip({ status: 'REJECTED' })] },
     })
-    renderRoutes(routes, '/admin/clipes?situacao=REJECTED')
+    renderRoutes(routes, '/moderacao/clipes?situacao=REJECTED')
 
     expect(await screen.findByRole('button', { name: 'Aprovar' })).toBeInTheDocument()
     expect(screen.queryByRole('button', { name: 'Recusar' })).not.toBeInTheDocument()
@@ -151,7 +151,7 @@ describe('ClipsAdminPage', () => {
       },
       'PATCH /clips/c1': { status: 200, body: clip({ status: 'APPROVED' }) },
     })
-    renderRoutes(routes, '/admin/clipes?situacao=APPROVED')
+    renderRoutes(routes, '/moderacao/clipes?situacao=APPROVED')
 
     fireEvent.click(await screen.findByRole('button', { name: 'Tirar a ligação com a banda' }))
     fireEvent.click(screen.getByRole('button', { name: 'Salvar banda' }))
@@ -165,7 +165,7 @@ describe('ClipsAdminPage', () => {
       'GET /clips/review?status=PENDING': { status: 200, body: [clip()] },
       'PATCH /clips/c1': notFound,
     })
-    renderRoutes(routes, '/admin/clipes')
+    renderRoutes(routes, '/moderacao/clipes')
 
     fireEvent.click(await screen.findByRole('button', { name: 'Aprovar' }))
 
@@ -176,14 +176,14 @@ describe('ClipsAdminPage', () => {
 
   it('sem sugestões, explica o que acontece; com falha, avisa', async () => {
     mockApi({ 'GET /clips/review?status=PENDING': none })
-    const { unmount } = renderRoutes(routes, '/admin/clipes')
+    const { unmount } = renderRoutes(routes, '/moderacao/clipes')
     expect(await screen.findByText(/Nenhuma sugestão esperando/)).toBeInTheDocument()
     unmount()
 
     mockApi({
       'GET /clips/review?status=PENDING': { status: 403, body: { statusCode: 403, code: 'forbidden', message: 'x' } },
     })
-    renderRoutes(routes, '/admin/clipes')
+    renderRoutes(routes, '/moderacao/clipes')
     expect(await screen.findByRole('alert')).toHaveTextContent('Não foi possível carregar os clipes.')
   })
 })
