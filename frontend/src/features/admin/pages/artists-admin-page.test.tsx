@@ -11,6 +11,7 @@ const artist: ArtistSummary = {
   type: 'BAND',
   country: 'BR',
   image: null,
+  imageFromRelease: false,
   genres: [{ id: 'g1', name: 'Emo', slug: 'emo' }],
 }
 const page = (items: ArtistSummary[], total = items.length): Paginated<ArtistSummary> => ({

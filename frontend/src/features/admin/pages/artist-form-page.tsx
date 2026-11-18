@@ -82,7 +82,7 @@ function ArtistEditor({ artist }: { artist?: ArtistDetail }) {
 
   const storeImage = (updated: { image: ArtistDetail['image'] }) => {
     queryClient.setQueryData(['artist', artist!.slug], (current: ArtistDetail | undefined) =>
-      current ? { ...current, image: updated.image } : current,
+      current ? { ...current, image: updated.image, imageFromRelease: false } : current,
     )
     void invalidate()
   }
@@ -228,7 +228,8 @@ function ArtistEditor({ artist }: { artist?: ArtistDetail }) {
           <ImageUploader
             label="Foto"
             description="JPEG, PNG ou WebP, até 5 MB."
-            image={artist.image}
+            // A capa emprestada de um disco não é a foto da banda: aqui só aparece a foto de verdade.
+            image={artist.imageFromRelease ? null : artist.image}
             onUpload={(file) => upload.mutate(file)}
             onRemove={() => removeImage.mutate()}
             pending={upload.isPending || removeImage.isPending}

@@ -77,6 +77,8 @@ export interface ArtistSummary {
   type: ArtistType
   country: string | null
   image: ImageSet | null
+  /** `true` quando não há foto cadastrada e `image` é a capa de um disco da banda. */
+  imageFromRelease: boolean
   genres: GenreRef[]
 }
 

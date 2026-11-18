@@ -51,6 +51,7 @@ export function artistSummary(overrides: Partial<ArtistSummary> = {}): ArtistSum
     type: 'BAND',
     country: 'GB',
     image: null,
+    imageFromRelease: false,
     genres: [{ id: 'g1', name: 'Metalcore', slug: 'metalcore' }],
     ...overrides,
   }

@@ -26,6 +26,7 @@ import {
   type ArtistDetail,
   type ArtistSummary,
 } from '../catalog/catalog.mappers.js';
+import { pickFallbackCover } from '../catalog/catalog.mappers.js';
 import { loadRatings } from '../catalog/ratings.js';
 import { GenresService } from '../genres/genres.service.js';
 import { ImagesService } from '../images/images.service.js';
@@ -87,11 +88,54 @@ export class ArtistsService {
       this.prisma.artist.count({ where }),
     ]);
 
+    // Banda sem foto mostra a capa de um disco dela.
+    const covers = await this.fallbackCovers(
+      artists.filter((artist) => !artist.imagePath).map((artist) => artist.id),
+    );
     return paginate(
-      artists.map((artist) => toArtistSummary(artist, this.toImageSet)),
+      artists.map((artist) =>
+        toArtistSummary(
+          artist,
+          this.toImageSet,
+          covers.get(artist.id) ?? null,
+        ),
+      ),
       total,
       query,
     );
+  }
+
+  /** Para cada banda da lista, o caminho da capa que serve de foto quando ela não tem uma. */
+  private async fallbackCovers(
+    artistIds: string[],
+  ): Promise<Map<string, string>> {
+    const covers = new Map<string, string>();
+    if (artistIds.length === 0) {
+      return covers;
+    }
+    const own = { artistId: { in: artistIds }, role: 'PRIMARY' as const };
+    const releases = await this.prisma.release.findMany({
+      where: { coverPath: { not: null }, artists: { some: own } },
+      select: {
+        coverPath: true,
+        type: true,
+        releaseDate: true,
+        artists: { where: own, select: { artistId: true } },
+      },
+    });
+    const byArtist = new Map<string, typeof releases>();
+    for (const release of releases) {
+      for (const { artistId } of release.artists) {
+        byArtist.set(artistId, [...(byArtist.get(artistId) ?? []), release]);
+      }
+    }
+    for (const [artistId, list] of byArtist) {
+      const path = pickFallbackCover(list);
+      if (path) {
+        covers.set(artistId, path);
+      }
+    }
+    return covers;
   }
 
   async getBySlug(slug: string): Promise<ArtistDetail> {

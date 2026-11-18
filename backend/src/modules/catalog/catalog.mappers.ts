@@ -36,6 +36,8 @@ export interface ArtistSummary extends ArtistRef {
   type: ArtistType;
   country: string | null;
   image: ImageSet | null;
+  /** `true` quando não há foto cadastrada e `image` é a capa de um disco da banda. */
+  imageFromRelease: boolean;
   genres: GenreRef[];
 }
 
@@ -97,17 +99,51 @@ type ReleaseWithArtists = Release & {
   artists: Array<{ role: ReleaseArtistRole; artist: Artist }>;
 };
 
+/** Qual disco empresta a capa para uma banda sem foto: álbum antes de EP, EP antes de single; o mais recente de cada tipo. */
+const COVER_RANK: Record<ReleaseType, number> = {
+  ALBUM: 0,
+  EP: 1,
+  COMPILATION: 2,
+  LIVE: 3,
+  SINGLE: 4,
+};
+
+export function pickFallbackCover(
+  releases: Array<{
+    coverPath: string | null;
+    type: ReleaseType;
+    releaseDate: Date;
+  }>,
+): string | null {
+  const sorted = releases
+    .filter((release) => release.coverPath)
+    .sort(
+      (a, b) =>
+        COVER_RANK[a.type] - COVER_RANK[b.type] ||
+        b.releaseDate.getTime() - a.releaseDate.getTime(),
+    );
+  return sorted[0]?.coverPath ?? null;
+}
+
+/**
+ * `fallbackCoverPath` é a capa de um disco da banda (veja `pickFallbackCover`): vale só quando a
+ * banda não tem foto própria. A foto cadastrada sempre ganha.
+ */
 export function toArtistSummary(
   artist: ArtistWithGenres,
   toImageSet: ToImageSet,
+  fallbackCoverPath: string | null = null,
 ): ArtistSummary {
+  const own = toImageSet(artist.imagePath);
+  const image = own ?? toImageSet(fallbackCoverPath);
   return {
     id: artist.id,
     name: artist.name,
     slug: artist.slug,
     type: artist.type,
     country: artist.country,
-    image: toImageSet(artist.imagePath),
+    image,
+    imageFromRelease: own === null && image !== null,
     genres: artist.genres.map(({ genre }) => ({
       id: genre.id,
       name: genre.name,
@@ -146,8 +182,13 @@ export function toArtistDetail(
   toImageSet: ToImageSet,
   ratings: RatingsByRelease,
 ): ArtistDetail {
+  const ownReleases = releases.filter((release) =>
+    release.artists.some(
+      (entry) => entry.artist.id === artist.id && entry.role === 'PRIMARY',
+    ),
+  );
   return {
-    ...toArtistSummary(artist, toImageSet),
+    ...toArtistSummary(artist, toImageSet, pickFallbackCover(ownReleases)),
     bio: artist.bio,
     sources: parseSources(artist.sources),
     city: artist.city,
