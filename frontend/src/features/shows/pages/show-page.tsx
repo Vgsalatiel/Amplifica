@@ -7,6 +7,7 @@ import { formatShortDate, formatShowHour, showDay, todayInBrazil } from '../../.
 import { ApiError } from '../../../lib/http'
 import { SHOW_STATUS_LABELS } from '../../../lib/labels'
 import { ShowAttendance } from '../../attendance/components/show-attendance'
+import { ShowComments } from '../../comments/components/show-comments'
 import { useShow } from '../hooks/use-shows'
 
 const isSafeLink = (url: string) => /^https?:\/\//i.test(url)
@@ -166,6 +167,10 @@ export function ShowPage() {
 
       <div className="mt-12 max-w-2xl pb-4">
         <ShowAttendance slug={data.slug} open={open} />
+      </div>
+
+      <div className="mt-12 max-w-2xl pb-4">
+        <ShowComments slug={data.slug} />
       </div>
     </Container>
   )

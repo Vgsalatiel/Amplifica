@@ -2,7 +2,10 @@ import { NavLink, Outlet } from 'react-router'
 import { Container } from '../../../components/layout/container'
 import { cn } from '../../../lib/cn'
 
-const SECTIONS = [{ to: '/moderacao/clipes', label: 'Clipes' }]
+const SECTIONS = [
+  { to: '/moderacao/clipes', label: 'Clipes' },
+  { to: '/moderacao/denuncias', label: 'Denúncias' },
+]
 
 /** Moldura da moderação: o que a comunidade produz e precisa de olhar humano. */
 export function ModerationLayout() {

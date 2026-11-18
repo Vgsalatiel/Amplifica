@@ -269,3 +269,18 @@ export interface MyShowAttendance {
   going: boolean
   showName: boolean
 }
+
+/** Um comentário do mural de um show. */
+export interface ShowComment {
+  id: string
+  body: string
+  createdAt: string
+  author: { username: string; displayName: string; avatar: ImageSet | null }
+}
+
+/** Um comentário denunciado, na fila da moderação. */
+export interface ReportedComment extends ShowComment {
+  show: { slug: string; name: string | null; acts: string[] }
+  reportCount: number
+  reasons: string[]
+}

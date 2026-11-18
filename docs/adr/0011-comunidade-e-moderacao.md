@@ -1,7 +1,7 @@
 # ADR 0011 — Comunidade, clipes sugeridos e moderação
 
 - **Data:** 2026-11-18
-- **Status:** aceita (clipes, papel de moderador e presença em shows "Eu vou" prontos; mural, denúncias e links de grupo nas etapas seguintes)
+- **Status:** aceita (clipes, papel de moderador, presença "Eu vou" e mural com denúncias prontos; links de grupo nas etapas seguintes)
 
 ## Contexto
 

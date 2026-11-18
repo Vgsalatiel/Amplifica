@@ -8,11 +8,13 @@ import { ShowPage } from './show-page'
 const SLUG = 'linkin-park-sao-paulo-2027-03-15'
 const open = () => renderRoutes([{ path: '/shows/:slug', element: <ShowPage /> }], `/shows/${SLUG}`)
 const none = { status: 200, body: { count: 0, going: [] } }
+const board = { [`GET /shows/${SLUG}/comments`]: { status: 200, body: [] } }
 
 describe('ShowPage', () => {
   it('mostra o show, o ingresso e o total de quem vai, convidando o visitante a entrar', async () => {
     endSession()
     mockApi({
+      ...board,
       [`GET /shows/${SLUG}`]: { status: 200, body: show({ startTime: '20:30', organizerName: 'Emo Tour' }) },
       [`GET /shows/${SLUG}/attendance`]: { status: 200, body: { count: 3, going: [] } },
     })
@@ -26,7 +28,7 @@ describe('ShowPage', () => {
       'https://ingressos.exemplo.test/lp',
     )
     expect(await screen.findByText('3 pessoas vão.')).toBeInTheDocument()
-    expect(screen.getByRole('link', { name: 'Entre na sua conta' })).toHaveAttribute('href', '/entrar')
+    expect(screen.getAllByRole('link', { name: 'Entre na sua conta' })[0]).toHaveAttribute('href', '/entrar')
     expect(screen.queryByRole('button', { name: 'Eu vou' })).not.toBeInTheDocument()
     expect(document.title).toBe('Linkin Park | Amplifica')
   })
@@ -34,6 +36,7 @@ describe('ShowPage', () => {
   it('lista só os nomes que a API devolve, com link para o perfil', async () => {
     endSession()
     mockApi({
+      ...board,
       [`GET /shows/${SLUG}`]: { status: 200, body: show() },
       [`GET /shows/${SLUG}/attendance`]: {
         status: 200,
@@ -49,12 +52,13 @@ describe('ShowPage', () => {
   it('pede para confirmar o e-mail antes de marcar presença', async () => {
     startSession(sessionFor({ ...testUser, needsEmailVerification: true }))
     mockApi({
+      ...board,
       [`GET /shows/${SLUG}`]: { status: 200, body: show() },
       [`GET /shows/${SLUG}/attendance`]: none,
     })
     open()
 
-    expect(await screen.findByText(/confirme seu e-mail/)).toBeInTheDocument()
+    expect((await screen.findAllByText(/confirme seu e-mail/)).length).toBeGreaterThan(0)
     expect(screen.queryByRole('button', { name: 'Eu vou' })).not.toBeInTheDocument()
   })
 
@@ -62,6 +66,7 @@ describe('ShowPage', () => {
     startSession(sessionFor())
     const me = `GET /shows/${SLUG}/attendance/me`
     const fetchMock = mockApi({
+      ...board,
       [`GET /shows/${SLUG}`]: { status: 200, body: show() },
       [`GET /shows/${SLUG}/attendance`]: none,
       [me]: [
@@ -94,6 +99,7 @@ describe('ShowPage', () => {
   it('show que já passou não aceita presença', async () => {
     startSession(sessionFor())
     mockApi({
+      ...board,
       [`GET /shows/${SLUG}`]: { status: 200, body: show({ date: '2026-01-10' }) },
       [`GET /shows/${SLUG}/attendance`]: none,
     })

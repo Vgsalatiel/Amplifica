@@ -7,6 +7,7 @@ import { EditArtistPage, NewArtistPage } from '../features/admin/pages/artist-fo
 import { GenresAdminPage } from '../features/admin/pages/genres-admin-page'
 import { TeamAdminPage } from '../features/admin/pages/team-admin-page'
 import { ModeratorRoute } from '../features/moderation/components/moderator-route'
+import { CommentsModerationPage } from '../features/moderation/pages/comments-moderation-page'
 import { ClipsModerationPage } from '../features/moderation/pages/clips-moderation-page'
 import { ModerationLayout } from '../features/moderation/pages/moderation-layout'
 import { ShowsAdminPage } from '../features/admin/pages/shows-admin-page'
@@ -76,6 +77,7 @@ export const router = createBrowserRouter([
                 children: [
                   { index: true, element: <Navigate to="/moderacao/clipes" replace /> },
                   { path: 'clipes', element: <ClipsModerationPage /> },
+                  { path: 'denuncias', element: <CommentsModerationPage /> },
                 ],
               },
             ],

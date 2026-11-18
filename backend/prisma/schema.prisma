@@ -35,10 +35,12 @@ model User {
   createdAt       DateTime  @default(now())
   updatedAt       DateTime  @updatedAt
 
-  reviews     Review[]
-  emailTokens EmailToken[]
-  clips       Clip[]
-  attendances ShowAttendance[]
+  reviews        Review[]
+  emailTokens    EmailToken[]
+  clips          Clip[]
+  attendances    ShowAttendance[]
+  comments       ShowComment[]
+  commentReports CommentReport[]
 }
 
 enum EmailTokenPurpose {
@@ -299,6 +301,7 @@ model Show {
   acts        ShowAct[]
   genres      ShowGenre[]
   attendances ShowAttendance[]
+  comments    ShowComment[]
 
   // Agenda: próximos shows, com ou sem filtro de estado.
   @@index([date])
@@ -384,4 +387,35 @@ model ShowAttendance {
 
   @@id([userId, showId])
   @@index([showId, createdAt])
+}
+
+// Mural do show: comentários simples, sem respostas. Quem escreve ou um moderador pode apagar.
+model ShowComment {
+  id        String   @id @default(uuid(7)) @db.Uuid
+  showId    String   @db.Uuid
+  userId    String   @db.Uuid
+  body      String
+  createdAt DateTime @default(now())
+
+  show    Show            @relation(fields: [showId], references: [id], onDelete: Cascade)
+  user    User            @relation(fields: [userId], references: [id], onDelete: Cascade)
+  reports CommentReport[]
+
+  @@index([showId, createdAt])
+}
+
+// Denúncia de um comentário. Uma por pessoa e comentário; `resolvedAt` marca as que um moderador já viu.
+model CommentReport {
+  id         String    @id @default(uuid(7)) @db.Uuid
+  commentId  String    @db.Uuid
+  reporterId String    @db.Uuid
+  reason     String?
+  createdAt  DateTime  @default(now())
+  resolvedAt DateTime?
+
+  comment  ShowComment @relation(fields: [commentId], references: [id], onDelete: Cascade)
+  reporter User        @relation(fields: [reporterId], references: [id], onDelete: Cascade)
+
+  @@unique([commentId, reporterId])
+  @@index([resolvedAt, createdAt])
 }
