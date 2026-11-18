@@ -23,3 +23,14 @@ export const updateProfileSchema = z
   });
 
 export type UpdateProfileDto = z.infer<typeof updateProfileSchema>;
+
+/** Busca de perfis: pelo menos duas letras, para não listar todo mundo de uma vez. */
+export const searchUsersSchema = z.object({
+  q: z
+    .string('Digite o nome que quer buscar.')
+    .trim()
+    .min(2, 'Digite pelo menos 2 letras.')
+    .max(40, 'A busca pode ter até 40 caracteres.'),
+});
+
+export type SearchUsersQuery = z.infer<typeof searchUsersSchema>;

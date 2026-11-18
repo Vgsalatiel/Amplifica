@@ -6,6 +6,7 @@ import { SectionHeading } from '../../../components/ui/section-heading'
 import { TextLink } from '../../../components/ui/text-link'
 import { ApiError } from '../../../lib/http'
 import { retryDelay, shouldRetry } from '../../../lib/retry'
+import { TasteMatchSection } from '../components/taste-match'
 import { UserDiscoveries } from '../components/user-discoveries'
 import { UserReviews } from '../../reviews/components/user-reviews'
 import { useSession } from '../../auth/hooks/use-session'
@@ -89,6 +90,8 @@ export function ProfilePage() {
           </p>
         )
       )}
+
+      {!isOwnProfile && <TasteMatchSection username={user.username} displayName={user.displayName} />}
 
       <section className="mt-16 border-t border-rule pt-12" aria-labelledby="descobertas-titulo">
         <SectionHeading as="h2">

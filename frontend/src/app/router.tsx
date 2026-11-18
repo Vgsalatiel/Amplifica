@@ -36,6 +36,7 @@ import { EmoTourPage } from '../features/shows/pages/emo-tour-page'
 import { PrivacyPage } from '../features/legal/pages/privacy-page'
 import { SafetyPage } from '../features/legal/pages/safety-page'
 import { TermsPage } from '../features/legal/pages/terms-page'
+import { PeoplePage } from '../features/profile/pages/people-page'
 import { ShowPage } from '../features/shows/pages/show-page'
 import { ShowsPage } from '../features/shows/pages/shows-page'
 import { BrazilHistoryPage } from '../features/catalog/pages/brazil-history-page'
@@ -68,6 +69,7 @@ export const router = createBrowserRouter([
       { path: '/esqueci-a-senha', element: <ForgotPasswordPage /> },
       { path: '/redefinir-senha', element: <ResetPasswordPage /> },
       { path: '/confirmar-email', element: <VerifyEmailPage /> },
+      { path: '/pessoas', element: <PeoplePage /> },
       { path: '/u/:username', element: <ProfilePage /> },
       {
         // Tudo aqui dentro exige login.

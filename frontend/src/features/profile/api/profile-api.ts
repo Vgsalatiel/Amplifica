@@ -1,5 +1,5 @@
 import { apiFetch } from '../../../lib/api-client'
-import type { PublicUser, User } from '../../../types/api'
+import type { PublicUser, TasteMatch, User } from '../../../types/api'
 
 export interface UpdateProfileInput {
   displayName: string
@@ -24,3 +24,8 @@ export const uploadAvatar = (file: File) =>
   apiFetch<User>('/users/me/avatar', { method: 'PUT', form: avatarForm(file) })
 
 export const removeAvatar = () => apiFetch<User>('/users/me/avatar', { method: 'DELETE' })
+
+export const searchProfiles = (q: string) => apiFetch<PublicUser[]>(`/users/search?q=${encodeURIComponent(q)}`)
+
+export const getTasteMatch = (username: string) =>
+  apiFetch<TasteMatch>(`/users/${encodeURIComponent(username)}/compatibility`)

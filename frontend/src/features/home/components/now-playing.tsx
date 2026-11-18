@@ -1,8 +1,9 @@
-import { useState } from 'react'
+import { useEffect, useMemo, useRef, useState } from 'react'
 import { Link } from 'react-router'
 import { cn } from '../../../lib/cn'
 import { useArtist } from '../../catalog/hooks/use-catalog'
 import { NARRATION, type Clip } from '../lib/clips'
+import { mergeOrder } from '../lib/live-order'
 import type { PlaylistItem } from '../lib/playlist'
 import { ClipPlayer } from './clip-player'
 import { ClipPlaylist } from './clip-playlist'
@@ -29,16 +30,42 @@ function prefersReducedMotion(): boolean {
 export function NowPlaying({ items, coverClip }: { items: PlaylistItem[]; coverClip?: Clip }) {
   const [reduced] = useState(prefersReducedMotion)
   const [clicked, setClicked] = useState(false)
-  const [selected, setSelected] = useState(0)
+  // A ordem em que os clipes tocam. A API manda a lista (a cada minuto ela é pedida de novo); um
+  // pedido aprovado enquanto a pessoa assiste entra logo depois do clipe que está no ar.
+  const [selectedId, setSelectedId] = useState<string | undefined>(items[0]?.id)
+  const [order, setOrder] = useState(() => items.map((item) => item.id))
+  const selectedRef = useRef(selectedId)
+  const idsKey = items.map((item) => item.id).join(',')
 
-  if (items.length === 0 && !coverClip) {
+  useEffect(() => {
+    selectedRef.current = selectedId
+  })
+  useEffect(() => {
+    setOrder((previous) => mergeOrder(previous, idsKey === '' ? [] : idsKey.split(','), selectedRef.current))
+  }, [idsKey])
+
+  const ordered = useMemo(() => {
+    const byId = new Map(items.map((item) => [item.id, item]))
+    const known = order.flatMap((id) => (byId.has(id) ? [byId.get(id)!] : []))
+    // Enquanto o efeito não rodou, clipes recém-chegados ainda não estão em `order`: vão ao fim.
+    const rest = items.filter((item) => !order.includes(item.id))
+    return [...known, ...rest]
+    // eslint-disable-next-line react-hooks/exhaustive-deps -- `items` muda a cada render do pai; `idsKey` basta
+  }, [idsKey, order])
+
+  if (ordered.length === 0 && !coverClip) {
     return null
   }
-  const current = Math.min(selected, Math.max(items.length - 1, 0))
-  const names = items.map((item) => item.subtitle).join(', ')
+  const foundAt = ordered.findIndex((item) => item.id === selectedId)
+  const current = foundAt >= 0 ? foundAt : 0
+  const names = ordered.map((item) => item.subtitle).join(', ')
+
+  function select(index: number) {
+    setSelectedId(ordered[index]?.id)
+  }
 
   function choose(index: number) {
-    setSelected(index)
+    select(index)
     // Escolher um clipe é um clique: já pode tocar com som, mesmo para quem pediu menos movimento.
     setClicked(true)
   }
@@ -50,15 +77,15 @@ export function NowPlaying({ items, coverClip }: { items: PlaylistItem[]; coverC
       </h2>
       <p className="mt-2 mb-4 font-semibold">{NARRATION}</p>
 
-      {items.length > 0 && (!reduced || clicked) ? (
+      {ordered.length > 0 && (!reduced || clicked) ? (
         <ClipPlayer
-          videoIds={items.map((item) => item.videoId)}
+          videoIds={ordered.map((item) => item.videoId)}
           title={names}
           muted={!clicked}
           selected={current}
-          onIndexChange={setSelected}
+          onIndexChange={select}
         />
-      ) : items.length > 0 ? (
+      ) : ordered.length > 0 ? (
         <div className={cn('relative aspect-video border border-rule bg-surface-raised', scanlines)}>
           <button
             type="button"
@@ -75,13 +102,13 @@ export function NowPlaying({ items, coverClip }: { items: PlaylistItem[]; coverC
         <CoverScreen clip={coverClip!} />
       )}
 
-      {items.length > 0 && (
+      {ordered.length > 0 && (
         <>
           <p className="mt-3 mb-3 text-sm text-muted">
             {!clicked && !reduced && 'O vídeo começa sem som; ligue no botão do player. '}
             Toque em um clipe da lista para ouvir.
           </p>
-          <ClipPlaylist items={items} current={current} onSelect={choose} />
+          <ClipPlaylist items={ordered} current={current} onSelect={choose} />
         </>
       )}
 

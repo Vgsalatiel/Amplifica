@@ -164,4 +164,29 @@ describe('ClipPlayer', () => {
     expect(link).toHaveAttribute('href', `https://www.youtube.com/watch?v=${IDS[0]}`)
     expect(link).toHaveAttribute('rel', 'noopener noreferrer')
   })
+  it('um clipe novo na lista não recria o player nem recarrega o vídeo que está no ar', async () => {
+    function Growing() {
+      const [ids, setIds] = useState(IDS)
+      return (
+        <>
+          <button type="button" onClick={() => setIds([IDS[0]!, 'NEWNEWNEW01', ...IDS.slice(1)])}>
+            chegou pedido
+          </button>
+          <ClipPlayer videoIds={ids} title="X" muted selected={0} onIndexChange={() => {}} />
+        </>
+      )
+    }
+    renderWithProviders(<Growing />)
+    await waitFor(() => expect(state.players).toHaveLength(1))
+
+    fireEvent.click(screen.getByRole('button', { name: 'chegou pedido' }))
+
+    expect(state.players).toHaveLength(1)
+    expect(current().destroy).not.toHaveBeenCalled()
+    expect(current().loadVideoById).not.toHaveBeenCalled()
+
+    // Quando o clipe termina, o próximo é o que acabou de entrar.
+    act(() => current().options.events.onStateChange?.({ data: 0 }))
+    expect(current().loadVideoById).toHaveBeenCalledWith('NEWNEWNEW01')
+  })
 })

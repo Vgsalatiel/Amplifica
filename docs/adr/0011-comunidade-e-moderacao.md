@@ -1,7 +1,7 @@
 # ADR 0011 — Comunidade, clipes sugeridos e moderação
 
 - **Data:** 2026-11-18
-- **Status:** aceita (as seis etapas prontas; os textos legais são rascunho e precisam de revisão jurídica antes de divulgar a comunidade)
+- **Status:** aceita (as seis etapas prontas, mais busca de perfis com gosto em comum e fila de pedidos de clipes; os textos legais são rascunho e precisam de revisão jurídica antes de divulgar a comunidade)
 
 ## Contexto
 

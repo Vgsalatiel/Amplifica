@@ -56,7 +56,11 @@ export class ClipsService {
     private readonly oembed: YouTubeOEmbed,
   ) {}
 
-  /** Os aprovados: fixos primeiro, na ordem de `position`; depois as sugestões, da mais nova para a mais antiga. */
+  /**
+   * Os aprovados: fixos primeiro, na ordem de `position`; depois as sugestões, da última aprovada
+   * para a mais antiga. Quem manda é a hora da aprovação, não a do pedido: o clipe que acabou de
+   * entrar é sempre o próximo depois dos fixos.
+   */
   async list(query: ListClipsQuery): Promise<ClipResponse[]> {
     const clips = await this.prisma.clip.findMany({
       where: { status: 'APPROVED' },
@@ -64,6 +68,7 @@ export class ClipsService {
       orderBy: [
         { pinned: 'desc' },
         { position: 'asc' },
+        { reviewedAt: { sort: 'desc', nulls: 'last' } },
         { createdAt: 'desc' },
         { id: 'desc' },
       ],

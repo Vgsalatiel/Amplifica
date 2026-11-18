@@ -23,30 +23,38 @@ interface ClipPlayerProps {
 export function ClipPlayer({ videoIds, title, muted, selected, onIndexChange }: ClipPlayerProps) {
   const holder = useRef<HTMLDivElement>(null)
   const player = useRef<YTPlayer | null>(null)
+  // A lista pode ganhar clipes enquanto toca (um pedido novo vira o próximo): o player lê a lista
+  // atual por aqui e não é recriado, para o vídeo que está no ar não recomeçar.
+  const idsNow = useRef(videoIds)
   const position = useRef(selected)
+  const playing = useRef<string | undefined>(videoIds[selected])
   const selectedNow = useRef(selected)
   const notify = useRef(onIndexChange)
-  // Guarda para qual lista o player falhou: ao trocar de lista, a falha antiga não vale mais.
-  const [failedKey, setFailedKey] = useState<string | null>(null)
-  const key = videoIds.join(',')
-  const failed = failedKey === key
+  const titleNow = useRef(title)
+  const [failed, setFailed] = useState(false)
 
   useEffect(() => {
+    idsNow.current = videoIds
     selectedNow.current = selected
     notify.current = onIndexChange
+    titleNow.current = title
+    player.current?.getIframe().setAttribute('title', `Vídeo de ${title} no YouTube`)
   })
 
   useEffect(() => {
-    const ids = key.split(',')
     let cancelled = false
     let failures = 0
-    position.current = Math.min(selectedNow.current, ids.length - 1)
+    const first = idsNow.current[Math.min(selectedNow.current, idsNow.current.length - 1)]!
+    position.current = Math.min(selectedNow.current, idsNow.current.length - 1)
+    playing.current = first
 
-    const next = () => {
-      position.current = (position.current + 1) % ids.length
-      notify.current(position.current)
-      player.current?.loadVideoById(ids[position.current]!)
+    const play = (index: number) => {
+      position.current = index
+      playing.current = idsNow.current[index]
+      notify.current(index)
+      player.current?.loadVideoById(idsNow.current[index]!)
     }
+    const next = () => play((position.current + 1) % idsNow.current.length)
 
     loadYouTubeApi()
       .then((YT) => {
@@ -57,12 +65,12 @@ export function ClipPlayer({ videoIds, title, muted, selected, onIndexChange }: 
         holder.current.replaceChildren(target)
         const created = new YT.Player(target, {
           host: 'https://www.youtube-nocookie.com',
-          videoId: ids[position.current]!,
+          videoId: first,
           width: '100%',
           height: '100%',
           playerVars: { autoplay: 1, mute: muted ? 1 : 0, playsinline: 1, rel: 0, origin: window.location.origin },
           events: {
-            onReady: () => created.getIframe().setAttribute('title', `Vídeo de ${title} no YouTube`),
+            onReady: () => created.getIframe().setAttribute('title', `Vídeo de ${titleNow.current} no YouTube`),
             onStateChange: (event) => {
               if (event.data === YT.PlayerState.PLAYING) {
                 failures = 0
@@ -72,7 +80,7 @@ export function ClipPlayer({ videoIds, title, muted, selected, onIndexChange }: 
             },
             onError: () => {
               failures += 1
-              if (failures < ids.length) {
+              if (failures < idsNow.current.length) {
                 next()
               }
             },
@@ -82,7 +90,7 @@ export function ClipPlayer({ videoIds, title, muted, selected, onIndexChange }: 
       })
       .catch(() => {
         if (!cancelled) {
-          setFailedKey(key)
+          setFailed(true)
         }
       })
 
@@ -91,18 +99,25 @@ export function ClipPlayer({ videoIds, title, muted, selected, onIndexChange }: 
       player.current?.destroy()
       player.current = null
     }
-  }, [key, muted, title])
+  }, [muted])
 
-  // A pessoa escolheu outro clipe na playlist: toca esse.
+  // A lista mudou ou a pessoa escolheu outro clipe. Se o vídeo no ar continua o mesmo (só mudou
+  // a posição dele na lista), apenas acompanha; se é outro, toca esse.
   useEffect(() => {
-    const ids = key.split(',')
-    if (player.current && selected !== position.current && ids[selected]) {
-      position.current = selected
-      player.current.loadVideoById(ids[selected]!)
+    const wanted = videoIds[selected]
+    if (!wanted) {
+      return
     }
-  }, [selected, key])
+    if (wanted === playing.current) {
+      position.current = selected
+    } else if (player.current) {
+      position.current = selected
+      playing.current = wanted
+      player.current.loadVideoById(wanted)
+    }
+  }, [selected, videoIds])
 
-  const first = key.split(',')[0]!
+  const first = videoIds[0]!
 
   return (
     <div className="aspect-video w-full border border-rule bg-surface-raised">

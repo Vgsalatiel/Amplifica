@@ -6,6 +6,7 @@ import {
   Param,
   Patch,
   Put,
+  Query,
   UploadedFile,
   UseInterceptors,
 } from '@nestjs/common';
@@ -21,7 +22,12 @@ import {
   type PrivateUserResponse,
   type PublicUserResponse,
 } from './user.types.js';
-import { updateProfileSchema, type UpdateProfileDto } from './users.schemas.js';
+import {
+  searchUsersSchema,
+  updateProfileSchema,
+  type SearchUsersQuery,
+  type UpdateProfileDto,
+} from './users.schemas.js';
 import { UsersService } from './users.service.js';
 
 @Controller('users')
@@ -77,6 +83,16 @@ export class UsersController {
       this.toImageSet,
       this.mail.canDeliver,
     );
+  }
+
+  /** Busca de perfis públicos. Fica antes de `:username`, que senão engoliria "search". */
+  @Public()
+  @Get('search')
+  async search(
+    @Query({ schema: searchUsersSchema }) query: SearchUsersQuery,
+  ): Promise<PublicUserResponse[]> {
+    const users = await this.users.search(query.q);
+    return users.map((user) => toPublicUser(user, this.toImageSet));
   }
 
   /** Perfil público: qualquer visitante pode ver. */

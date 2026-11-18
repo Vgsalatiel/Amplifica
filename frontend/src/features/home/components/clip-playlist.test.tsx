@@ -58,4 +58,11 @@ describe('ClipPlaylist', () => {
     expect(screen.getByRole('link', { name: /Perfil de @ana/ })).toHaveAttribute('href', '/u/ana')
     expect(screen.getAllByRole('link', { name: /^Perfil de / })).toHaveLength(1)
   })
+  it('marca o clipe que toca depois do atual com "A seguir"', () => {
+    renderWithProviders(<ClipPlaylist items={items} current={0} onSelect={() => {}} />)
+
+    const rows = screen.getAllByRole('listitem')
+    expect(rows[1]).toHaveTextContent('A SEGUIR')
+    expect(rows[0]).not.toHaveTextContent('A SEGUIR')
+  })
 })

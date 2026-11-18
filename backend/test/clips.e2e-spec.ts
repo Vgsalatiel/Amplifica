@@ -298,6 +298,30 @@ describe('Clipes da playlist (e2e)', () => {
       ]);
     });
 
+    it('o clipe aprovado por último é o próximo, mesmo que tenha sido pedido antes', async () => {
+      const early = (await suggest(ana, link('KKKKKKKKKK1')).expect(201)).body;
+      await new Promise((resolve) => setTimeout(resolve, 20));
+      const late = (await suggest(bia, link('KKKKKKKKKK2')).expect(201)).body;
+      const approve = (id: string) =>
+        request(server())
+          .patch(`${API}/clips/${id}`)
+          .set(admin.auth)
+          .send({ status: 'APPROVED' })
+          .expect(200);
+
+      await approve(late.id);
+      await new Promise((resolve) => setTimeout(resolve, 20));
+      await approve(early.id);
+
+      const titles = (await playlist()).map((clip) => clip.title);
+      expect(titles.indexOf('E2E Clipe KKKKKKKKKK1')).toBeLessThan(
+        titles.indexOf('E2E Clipe KKKKKKKKKK2'),
+      );
+      expect(titles.indexOf('E2E Clipe KKKKKKKKKK1')).toBeLessThan(
+        titles.indexOf('E2E Clipe GGGGGGGGGG2'),
+      );
+    });
+
     it('os clipes fixos não mostram quem sugeriu', async () => {
       const fixed = (
         await request(server()).get(`${API}/clips?limit=50`).expect(200)
@@ -372,8 +396,9 @@ describe('Clipes da playlist (e2e)', () => {
       expect(response.body.items[0].suggestedBy.username).toBe(eva.username);
       expect(pending.status).toBe('PENDING');
 
+      const newcomer = await createSession(app);
       const empty = await request(server())
-        .get(`${API}/users/${ana.username}/discoveries`)
+        .get(`${API}/users/${newcomer.username}/discoveries`)
         .expect(200);
       expect(empty.body.count).toBe(0);
       await request(server())

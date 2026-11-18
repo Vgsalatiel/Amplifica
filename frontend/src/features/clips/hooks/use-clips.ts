@@ -5,7 +5,14 @@ import { deleteClip, getDiscoveries, listClips, listClipsForReview, listMyClips,
 
 /** A playlist pública. Sem `enabled`: qualquer visitante a vê. */
 export const useClipList = () =>
-  useQuery({ queryKey: ['clips', 'list'], queryFn: listClips, retry: shouldRetry, retryDelay })
+  useQuery({
+    queryKey: ['clips', 'list'],
+    queryFn: listClips,
+    retry: shouldRetry,
+    retryDelay,
+    // Quem fica assistindo recebe os pedidos aprovados: a lista é pedida de novo a cada minuto.
+    refetchInterval: 60_000,
+  })
 
 /** As sugestões da pessoa logada. */
 export const useMyClips = (enabled: boolean) =>
@@ -16,7 +23,8 @@ export function useSuggestClip() {
   const queryClient = useQueryClient()
   return useMutation({
     mutationFn: suggestClip,
-    onSuccess: () => queryClient.invalidateQueries({ queryKey: ['clips', 'mine'] }),
+    // A sugestão de moderador já entra aprovada: refaz também a playlist, para ela virar a próxima.
+    onSuccess: () => queryClient.invalidateQueries({ queryKey: ['clips'] }),
   })
 }
 

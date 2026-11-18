@@ -309,3 +309,14 @@ export interface Discoveries {
   count: number
   items: PlaylistClip[]
 }
+
+/** Quanto o gosto de quem está logado combina com o de outra pessoa (pelas notas dadas a discos). */
+export interface TasteMatch {
+  /** 0 a 100, ou `null` quando há poucas bandas avaliadas pelas duas pessoas. */
+  score: number | null
+  sharedCount: number
+  myRatedCount: number
+  theirRatedCount: number
+  bothLike: Array<{ artist: { slug: string; name: string; image: ImageSet | null }; mine: number; theirs: number }>
+  recommended: Array<{ artist: { slug: string; name: string; image: ImageSet | null }; theirs: number }>
+}

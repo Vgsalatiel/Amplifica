@@ -1,3 +1,4 @@
+import { useState } from 'react'
 import { fireEvent, screen, within } from '@testing-library/react'
 import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest'
 import { endSession } from '../../../lib/session'
@@ -134,5 +135,35 @@ describe('NowPlaying', () => {
   it('sem vídeos e sem banda reserva, não mostra nada', () => {
     const { container } = renderWithProviders(<NowPlaying items={[]} />)
     expect(container).toBeEmptyDOMElement()
+  })
+  it('um pedido aprovado enquanto a pessoa assiste vira o próximo, sem trocar o clipe no ar', async () => {
+    const c = item('banda-c', 'JPUuPU6VuZY', 'Banda C')
+    const d = item('pedido', 'NEWNEWNEW01', 'Banda Pedida', { artist: null })
+    function Live() {
+      const [items, setItems] = useState([a, b, c])
+      return (
+        <>
+          <button type="button" onClick={() => setItems([d, a, b, c])}>
+            aprovar pedido
+          </button>
+          <NowPlaying items={items} />
+        </>
+      )
+    }
+    renderWithProviders(<Live />)
+    await vi.waitFor(() => expect(created.options).toHaveLength(1))
+
+    fireEvent.click(screen.getByRole('button', { name: 'aprovar pedido' }))
+
+    const rows = within(screen.getByRole('list', { name: 'Playlist' })).getAllByRole('listitem')
+    expect(rows.map((row) => row.textContent)).toEqual([
+      expect.stringContaining('Clipe de Banda A'),
+      expect.stringContaining('Clipe de Banda Pedida'),
+      expect.stringContaining('Clipe de Banda B'),
+      expect.stringContaining('Clipe de Banda C'),
+    ])
+    expect(rows[1]).toHaveTextContent('A SEGUIR')
+    expect(screen.getByRole('button', { name: /Clipe de Banda A/ })).toHaveAttribute('aria-current', 'true')
+    expect(created.options).toHaveLength(1)
   })
 })

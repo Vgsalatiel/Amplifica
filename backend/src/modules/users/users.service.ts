@@ -89,4 +89,19 @@ export class UsersService {
   async removeAvatarFile(path: string | null | undefined): Promise<void> {
     await this.images.remove(path).catch(() => undefined);
   }
+
+  /** Perfis cujo nome de usuário ou de exibição contém o texto. Poucos resultados, em ordem alfabética. */
+  search(term: string): Promise<AuthUser[]> {
+    return this.prisma.user.findMany({
+      where: {
+        OR: [
+          { username: { contains: term, mode: 'insensitive' } },
+          { displayName: { contains: term, mode: 'insensitive' } },
+        ],
+      },
+      orderBy: [{ username: 'asc' }],
+      take: 10,
+      select: userSelect,
+    });
+  }
 }

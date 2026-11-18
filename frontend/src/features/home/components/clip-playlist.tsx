@@ -48,7 +48,14 @@ export function ClipPlaylist({ items, current, onSelect }: ClipPlaylistProps) {
                 )}
               </span>
               <span className="min-w-0">
-                <span className="line-clamp-1 block font-bold">{item.title}</span>
+                <span className="line-clamp-1 block font-bold">
+                  {index === (current + 1) % items.length && items.length > 1 && (
+                    <span className="mr-2 inline-block bg-badge px-1.5 align-middle font-display text-xs text-on-accent">
+                      A SEGUIR
+                    </span>
+                  )}
+                  {item.title}
+                </span>
                 <span className="line-clamp-1 block text-sm text-muted">
                   {item.subtitle}
                   {item.suggestedBy && ` · sugerido por @${item.suggestedBy.username}`}
