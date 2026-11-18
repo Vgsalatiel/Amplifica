@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-17T13:28:18.304Z",
-  "source": "MusicBrainz (dados principais em CC0)",
+  "generatedAt": "2026-11-18T00:00:00.000Z",
+  "source": "MusicBrainz (dados principais em CC0) e YouTube Music (página pública da banda)",
   "artist": {
     "mbid": "9bb596df-b54b-45be-8709-417b531f91e4",
     "name": "Becold",
     "slug": "becold",
     "type": "BAND",
-    "country": null,
+    "country": "BR",
     "city": null,
     "formedYear": 2022,
     "disbandedYear": null,
@@ -15,12 +15,186 @@
       {
         "name": "MusicBrainz",
         "url": "https://musicbrainz.org/artist/9bb596df-b54b-45be-8709-417b531f91e4"
+      },
+      {
+        "name": "YouTube Music",
+        "url": "https://music.youtube.com/channel/UC29LW-oVwqJKe8KRUWM5SDA"
+      },
+      {
+        "name": "YouTube Music: Coração Frio - Pt. 1",
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_naUk88t-NZb5ieDeTqWAEbIesWv6g1U6E"
+      },
+      {
+        "name": "YouTube Music: Bem-Vindo à Terra do Bem e do Mal",
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_mnFOxvbhqwRQrTQPO7IyKFYbNo2TwvPWs"
       }
     ],
     "genres": [
       "screamo"
     ]
   },
-  "releases": [],
+  "releases": [
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Coração Frio - Pt. 1",
+      "type": "EP",
+      "releaseDate": "2024",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Alguém No Meu Lugar",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 64000
+        },
+        {
+          "title": "Profecia",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 201000
+        },
+        {
+          "title": "Precipício",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 192000
+        },
+        {
+          "title": "Escuridão",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 204000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Bem-Vindo à Terra do Bem e do Mal",
+      "type": "EP",
+      "releaseDate": "2023",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Bem-Vindo à Terra do Bem e do Mal",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 152000
+        },
+        {
+          "title": "Pokas",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 176000
+        },
+        {
+          "title": "O Mal Que Há em Mim",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 136000
+        },
+        {
+          "title": "Deuses e Lobos",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 165000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Coração Frio - Parte 1 e ½",
+      "type": "SINGLE",
+      "releaseDate": "2025",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Doce Veneno",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 208000
+        },
+        {
+          "title": "Bem-Vindo ao Meu Show",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 229000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Gangrena (part. Esteban Tavares)",
+      "type": "SINGLE",
+      "releaseDate": "2024",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Gangrena (part. Esteban Tavares)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 187000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Sujeito de Sorte (Cover)",
+      "type": "SINGLE",
+      "releaseDate": "2024",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Sujeito de Sorte (Cover)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 182000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Os Monstros Voltaram Mais Cedo (part. Vini Rodrigues)",
+      "type": "SINGLE",
+      "releaseDate": "2023",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Os Monstros Voltaram Mais Cedo (part. Vini Rodrigues)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 214000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Despertador (part. Mi Vieira)",
+      "type": "SINGLE",
+      "releaseDate": "2023",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Despertador (part. Mi Vieira)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 254000
+        }
+      ]
+    }
+  ],
   "pending": []
 }

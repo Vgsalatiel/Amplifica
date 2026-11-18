@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-17T13:29:14.425Z",
-  "source": "MusicBrainz (dados principais em CC0)",
+  "generatedAt": "2026-11-18T00:00:00.000Z",
+  "source": "MusicBrainz (dados principais em CC0) e YouTube Music (página pública da banda)",
   "artist": {
     "mbid": "61ff65b2-2224-406b-a437-0964394f71f9",
     "name": "Aurora Rules",
@@ -15,6 +15,18 @@
       {
         "name": "MusicBrainz",
         "url": "https://musicbrainz.org/artist/61ff65b2-2224-406b-a437-0964394f71f9"
+      },
+      {
+        "name": "YouTube Music",
+        "url": "https://music.youtube.com/channel/UCiInwNncxzo6mgGHxZQx4SA"
+      },
+      {
+        "name": "YouTube Music: A Sombra do Presente",
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_k-ngYNBG6Gz1MzShECDy0zrdtKxIYulHw"
+      },
+      {
+        "name": "YouTube Music: Aurora Rules no Estúdio Showlivre (Ao Vivo)",
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_n-ccJYVdLASaGNQqIMraTeN0LUDA4D6As"
       }
     ],
     "genres": [
@@ -22,6 +34,342 @@
       "post-hardcore"
     ]
   },
-  "releases": [],
+  "releases": [
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "A Sombra do Presente",
+      "type": "ALBUM",
+      "releaseDate": "2010",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Interlúdio",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 138000
+        },
+        {
+          "title": "O Que de Mim Restou",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 316000
+        },
+        {
+          "title": "Intro Poderoso Chefão",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 88000
+        },
+        {
+          "title": "Eu Vou Vencer",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 267000
+        },
+        {
+          "title": "Talvez o Único Refrão Sem Verso",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 340000
+        },
+        {
+          "title": "Indiferente",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 237000
+        },
+        {
+          "title": "Seu Próprio Ar",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 283000
+        },
+        {
+          "title": "A Sombra do Presente",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 280000
+        },
+        {
+          "title": "Falso Julgamento",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 306000
+        },
+        {
+          "title": "Réquiem",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 256000
+        },
+        {
+          "title": "Resistência",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 227000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Aurora Rules no Estúdio Showlivre (Ao Vivo)",
+      "type": "LIVE",
+      "releaseDate": "2018",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "O Depois É Agora (Ao Vivo)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 234000
+        },
+        {
+          "title": "Sinta (Ao Vivo)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 255000
+        },
+        {
+          "title": "Cena 04 Corte 02 (Ao Vivo)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 252000
+        },
+        {
+          "title": "Mais um Dia (Ao Vivo)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 299000
+        },
+        {
+          "title": "Ao Medo o Passado (Ao Vivo)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 278000
+        },
+        {
+          "title": "Calma Negativa (Ao Vivo)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 295000
+        },
+        {
+          "title": "Do Sofá da Sala (Ao Vivo)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 238000
+        },
+        {
+          "title": "Peito Aberto (Ao Vivo)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 222000
+        },
+        {
+          "title": "Soma (Ao Vivo) (part. Chapow)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 228000
+        },
+        {
+          "title": "Com Sequência (Ao Vivo)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 277000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Você e o Tempo",
+      "type": "SINGLE",
+      "releaseDate": "2026",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Você e o Tempo",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 228000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Pilares",
+      "type": "SINGLE",
+      "releaseDate": "2024",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Pilares",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 253000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Som do Movimento",
+      "type": "SINGLE",
+      "releaseDate": "2023",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Som do Movimento",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 265000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Parasitária",
+      "type": "SINGLE",
+      "releaseDate": "2022",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Parasitária",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 261000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "O Espaço",
+      "type": "SINGLE",
+      "releaseDate": "2022",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "O Espaço",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 274000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Ao Medo o Passado",
+      "type": "SINGLE",
+      "releaseDate": "2017",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Ao Medo o Passado",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 280000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Com Sequência",
+      "type": "SINGLE",
+      "releaseDate": "2018",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Com Sequência",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 226000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Carma em Sincronia",
+      "type": "SINGLE",
+      "releaseDate": "2018",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Carma em Sincronia",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 247000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Outros Valores",
+      "type": "SINGLE",
+      "releaseDate": "2018",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Outros Valores",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 269000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Calma Negativa",
+      "type": "SINGLE",
+      "releaseDate": "2018",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Calma Negativa",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 282000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Cena 4 Corte 2",
+      "type": "SINGLE",
+      "releaseDate": "2018",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Cena 4 Corte 2",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 247000
+        }
+      ]
+    }
+  ],
   "pending": []
 }

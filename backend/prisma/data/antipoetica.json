@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-16T19:45:20.473Z",
-  "source": "MusicBrainz (dados principais em CC0)",
+  "generatedAt": "2026-11-18T00:00:00.000Z",
+  "source": "MusicBrainz (dados principais em CC0) e YouTube Music (página pública da banda)",
   "artist": {
     "mbid": "ae6a37a2-296b-4e6e-ab45-9d2f968ad38d",
     "name": "Antipoetica",
@@ -15,12 +15,122 @@
       {
         "name": "MusicBrainz",
         "url": "https://musicbrainz.org/artist/ae6a37a2-296b-4e6e-ab45-9d2f968ad38d"
+      },
+      {
+        "name": "YouTube Music",
+        "url": "https://music.youtube.com/@antipoetica-d8g"
+      },
+      {
+        "name": "YouTube Music: Os Cinco Pontos Que Explodem o Coração",
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_m623hiU-VM6_24ROOqhnG_GnrciYEPcX8"
+      },
+      {
+        "name": "YouTube Music: Clímax",
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_ni2-u5GIFSptN5KgtXmkVhHuKDuvEeN_c"
+      },
+      {
+        "name": "YouTube Music: Colapso (Acústica)",
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_l1VvEpqLrusdrj4cAV7vkh9XlifqAMfR4"
       }
     ],
     "genres": [
       "emo"
     ]
   },
-  "releases": [],
+  "releases": [
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Clímax",
+      "type": "SINGLE",
+      "releaseDate": "2026",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Clímax",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 174000
+        },
+        {
+          "title": "Ultravioleta (part. Natasha Valdoski)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 230000
+        },
+        {
+          "title": "Tipo Sake com Cafeína, Só que Diferente Pakas",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 184000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Colapso (Acústica)",
+      "type": "SINGLE",
+      "releaseDate": "2026",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Colapso (Acústica)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 227000
+        },
+        {
+          "title": "Colapso",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 285000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Os Cinco Pontos Que Explodem o Coração",
+      "type": "EP",
+      "releaseDate": "2025",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Distopia",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 226000
+        },
+        {
+          "title": "Efeito Placebo",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 204000
+        },
+        {
+          "title": "Réquiem em Vermelho",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 212000
+        },
+        {
+          "title": "Tentativa e Erro",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 233000
+        },
+        {
+          "title": "Colapso",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 285000
+        }
+      ]
+    }
+  ],
   "pending": []
 }

@@ -1,0 +1,314 @@
+{
+  "generatedAt": "2026-11-18T00:00:00.000Z",
+  "source": "YouTube Music (página pública da banda)",
+  "artist": {
+    "mbid": null,
+    "name": "Scatolove",
+    "slug": "scatolove",
+    "type": "BAND",
+    "country": "BR",
+    "city": null,
+    "formedYear": null,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "YouTube Music",
+        "url": "https://music.youtube.com/channel/UCRrcJVynB_ahge0NwWfdJkQ"
+      },
+      {
+        "name": "YouTube Music: Estanho",
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_kCV0sZSu4jcqhBQpkfiSAnDzk24orqI70"
+      },
+      {
+        "name": "YouTube Music: Lei de Muffin",
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_mXzF9s6j-dmo4-KVkSxnrk5HYfCY6GRbE"
+      },
+      {
+        "name": "YouTube Music: Cavalice no País das Maravilhas - Episódio 1",
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_k_q6ghwag_e8rD6JVLeWDqwQhfHBCk3-4"
+      }
+    ],
+    "genres": [
+      "alternative-rock",
+      "rock-nacional"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Estanho",
+      "type": "ALBUM",
+      "releaseDate": "2026",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Só Voar",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 203000
+        },
+        {
+          "title": "Respira",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 197000
+        },
+        {
+          "title": "Mariposas",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 185000
+        },
+        {
+          "title": "Pra Não Ver",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 149000
+        },
+        {
+          "title": "Agulha",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 223000
+        },
+        {
+          "title": "Passifloras",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 210000
+        },
+        {
+          "title": "No Lugar",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 206000
+        },
+        {
+          "title": "Leve",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 226000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Lei de Muffin",
+      "type": "ALBUM",
+      "releaseDate": "2018",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Terminal",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 186000
+        },
+        {
+          "title": "Órfão",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 223000
+        },
+        {
+          "title": "Calabouço",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 206000
+        },
+        {
+          "title": "O Tiro",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 144000
+        },
+        {
+          "title": "Princesa",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 216000
+        },
+        {
+          "title": "Banheiro Químico",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 181000
+        },
+        {
+          "title": "Metade",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 177000
+        },
+        {
+          "title": "Ferro Velho",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 227000
+        },
+        {
+          "title": "Seca",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 253000
+        },
+        {
+          "title": "Vitrine",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 235000
+        },
+        {
+          "title": "Inbox",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 193000
+        },
+        {
+          "title": "Surfing the Clouds",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 230000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Cavalice no País das Maravilhas - Episódio 1",
+      "type": "EP",
+      "releaseDate": "2020",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Nada de Bom Acontece de Madrugada",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 171000
+        },
+        {
+          "title": "Soneca",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 177000
+        },
+        {
+          "title": "Rapunzel",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 217000
+        },
+        {
+          "title": "Vizinhos de Porta",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 191000
+        },
+        {
+          "title": "Entupir de Brabuletas",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 205000
+        },
+        {
+          "title": "Entupir de Brabuletas (Acústico) (Faixa Bônus)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 178000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Quem a Gente Quer",
+      "type": "SINGLE",
+      "releaseDate": "2024",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Quem a Gente Quer",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 199000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Ø TirØ - Aø ViVø (part. Mauro Henrique)",
+      "type": "SINGLE",
+      "releaseDate": "2024",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Ø TirØ - Aø ViVø",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 264000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Música de Botar o Papo no Lugar",
+      "type": "SINGLE",
+      "releaseDate": "2023",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Música de Botar o Papo no Lugar",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 174000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "O Inferno É Aqui",
+      "type": "SINGLE",
+      "releaseDate": "2022",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "O Inferno É Aqui",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 213000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "O Tiro (part. Mauro Henrique)",
+      "type": "SINGLE",
+      "releaseDate": "2020",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "O Tiro (part. Mauro Henrique)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 231000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}
