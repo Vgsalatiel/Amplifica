@@ -125,15 +125,18 @@ describe('HomePage', () => {
     )
   })
 
-  it('a faixa rosa lista os próximos shows e fica escondida de leitores de tela', async () => {
+  it('a faixa rosa corre em loop, leva à agenda e tem botão de pausar; o texto fica escondido de leitores de tela', async () => {
     endSession()
     mockApi({ ...base, 'GET /shows?limit=4': { status: 200, body: page([show({ id: 's1' })]) } })
     const { container } = open()
 
     await screen.findByRole('region', { name: 'Grade de shows' })
-    const ticker = container.querySelector('[aria-hidden="true"].bg-badge')
-    expect(ticker).toHaveTextContent('Na agenda')
-    expect(ticker).toHaveTextContent('Linkin Park, 15 de março')
+    expect(screen.getByRole('link', { name: /Na agenda: 1 evento/ })).toHaveAttribute('href', '/shows')
+    expect(screen.getByRole('button', { name: 'Pausar faixa' })).toBeInTheDocument()
+    const marquee = container.querySelector('[aria-hidden="true"].animate-marquee')
+    expect(marquee).toHaveTextContent('Na agenda')
+    expect(marquee).toHaveTextContent('Linkin Park, 15 de março')
+    expect(marquee?.children).toHaveLength(2)
   })
 
   it('funciona com o catálogo vazio, sem seções vazias', async () => {

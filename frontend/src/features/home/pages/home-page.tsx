@@ -25,7 +25,7 @@ export function HomePage() {
 
   return (
     <>
-      <ShowTicker shows={shows.data?.items.slice(0, 3) ?? []} label="Na agenda" />
+      <ShowTicker shows={shows.data?.items.slice(0, 5) ?? []} label="Na agenda" animated to="/shows" />
       <Container className="pt-8 md:pt-12">
         <div className="grid items-center gap-12 lg:grid-cols-[minmax(0,5fr)_minmax(0,7fr)]">
           <section aria-label="Abertura">
