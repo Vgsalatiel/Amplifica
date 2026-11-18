@@ -14,6 +14,7 @@ const base = {
   'GET /shows?limit=4': empty,
   'GET /artists?country=BR&sort=newest&limit=4': empty,
   'GET /genres': { status: 200, body: [] },
+  'GET /clips?limit=20': empty,
   'GET /artists/bullet-bane': { status: 200, body: artistDetail({ slug: 'bullet-bane', name: 'Bullet Bane' }) },
   'GET /artists/fresno': { status: 200, body: artistDetail({ slug: 'fresno', name: 'Fresno' }) },
 }
@@ -34,6 +35,45 @@ describe('HomePage', () => {
       '/lancamentos/bring-me-the-horizon-sempiternal',
     )
     expect(await screen.findByRole('link', { name: 'Emo' })).toHaveAttribute('href', '/generos/emo')
+  })
+
+  it('a playlist vem da API, e os clipes aprovados aparecem na lista', async () => {
+    endSession()
+    mockApi({
+      ...base,
+      'GET /clips?limit=20': {
+        status: 200,
+        body: [
+          {
+            id: 'c1',
+            youtubeId: '3psvNDHQv7Y',
+            title: 'Clipe da banda nova',
+            channelName: 'Canal',
+            pinned: false,
+            artist: null,
+            suggestedBy: { username: 'ana', displayName: 'Ana' },
+            createdAt: '2026-11-17T12:00:00.000Z',
+          },
+        ],
+      },
+    })
+    open()
+
+    const playlist = await screen.findByRole('list', { name: 'Playlist' })
+    expect(within(playlist).getByText('Clipe da banda nova')).toBeInTheDocument()
+    expect(within(playlist).getByText(/sugerido por @ana/)).toBeInTheDocument()
+  })
+
+  it('se a playlist da API vem vazia ou falha, vale a lista reserva de clips.ts', async () => {
+    endSession()
+    mockApi({
+      ...base,
+      'GET /clips?limit=20': { status: 404, body: { statusCode: 404, code: 'not_found', message: 'x' } },
+    })
+    open()
+
+    const playlist = await screen.findByRole('list', { name: 'Playlist' })
+    expect(within(playlist).getAllByRole('button').length).toBeGreaterThan(0)
   })
 
   it('abre com o "Agora na tela" e a mensagem principal', async () => {

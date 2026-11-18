@@ -8,8 +8,10 @@ import { SectionHeading } from '../../../components/ui/section-heading'
 import { TextLink } from '../../../components/ui/text-link'
 import { useArtistList, useGenreTree, useReleaseList } from '../../catalog/hooks/use-catalog'
 import { useShowList } from '../../shows/hooks/use-shows'
-import { NowPlaying } from '../components/now-playing'
+import { NowPlaying, NowPlayingPlaceholder } from '../components/now-playing'
+import { useClipList } from '../../clips/hooks/use-clips'
 import { CLIPS } from '../lib/clips'
+import { fromApi, fromConstants } from '../lib/playlist'
 
 /** Página inicial: o "Agora na tela", a cena brasileira, a grade de shows e a porta de entrada do catálogo. */
 export function HomePage() {
@@ -17,6 +19,9 @@ export function HomePage() {
   const releases = useReleaseList({ limit: 8 })
   const brazil = useArtistList({ country: 'BR', sort: 'newest', limit: 4 })
   const genres = useGenreTree()
+  const clips = useClipList()
+  // A playlist vem da API; enquanto ela falha ou está vazia, vale a lista reserva de clips.ts.
+  const playlist = clips.data && clips.data.length > 0 ? fromApi(clips.data) : fromConstants(CLIPS)
 
   return (
     <>
@@ -33,7 +38,7 @@ export function HomePage() {
               underground brasileiro às grandes cenas internacionais.
             </p>
           </section>
-          <NowPlaying clips={CLIPS} />
+          {clips.isPending ? <NowPlayingPlaceholder /> : <NowPlaying items={playlist} coverClip={CLIPS[0]} />}
         </div>
 
         {brazil.data && brazil.data.items.length > 0 && (

@@ -8,33 +8,45 @@ interface ClipPlayerProps {
   title: string
   /** Sem som: é o que os navegadores deixam fazer sozinho. Com som, só depois de um clique. */
   muted: boolean
+  /** Posição do clipe que deve estar tocando. Mudar este valor troca o clipe na hora. */
+  selected: number
+  /** Chamado quando o próprio player muda de clipe (terminou ou deu erro), para a lista acompanhar. */
+  onIndexChange: (index: number) => void
 }
 
 /**
- * Os clipes tocando um depois do outro numa tela só, com a seta "Próximo clipe" embaixo. A ordem é
- * controlada aqui, pela API do player: a lista embutida do YouTube pula ou repete vídeos de forma
- * imprevisível. Um clipe com erro é pulado, e se todos falharem em sequência a tela para.
+ * Os clipes tocando um depois do outro numa tela só. A ordem é controlada aqui, pela API do
+ * player: a lista embutida do YouTube pula ou repete vídeos de forma imprevisível. Um clipe com
+ * erro é pulado, e se todos falharem em sequência a tela para. A playlist visível (fora daqui)
+ * escolhe o clipe pelo `selected` e acompanha as trocas pelo `onIndexChange`.
  */
-export function ClipPlayer({ videoIds, title, muted }: ClipPlayerProps) {
+export function ClipPlayer({ videoIds, title, muted, selected, onIndexChange }: ClipPlayerProps) {
   const holder = useRef<HTMLDivElement>(null)
-  const advance = useRef<() => void>(() => {})
+  const player = useRef<YTPlayer | null>(null)
+  const position = useRef(selected)
+  const selectedNow = useRef(selected)
+  const notify = useRef(onIndexChange)
   // Guarda para qual lista o player falhou: ao trocar de lista, a falha antiga não vale mais.
   const [failedKey, setFailedKey] = useState<string | null>(null)
   const key = videoIds.join(',')
   const failed = failedKey === key
 
   useEffect(() => {
+    selectedNow.current = selected
+    notify.current = onIndexChange
+  })
+
+  useEffect(() => {
     const ids = key.split(',')
     let cancelled = false
-    let player: YTPlayer | null = null
-    let position = 0
     let failures = 0
+    position.current = Math.min(selectedNow.current, ids.length - 1)
 
     const next = () => {
-      position = (position + 1) % ids.length
-      player?.loadVideoById(ids[position]!)
+      position.current = (position.current + 1) % ids.length
+      notify.current(position.current)
+      player.current?.loadVideoById(ids[position.current]!)
     }
-    advance.current = next
 
     loadYouTubeApi()
       .then((YT) => {
@@ -43,14 +55,14 @@ export function ClipPlayer({ videoIds, title, muted }: ClipPlayerProps) {
         }
         const target = document.createElement('div')
         holder.current.replaceChildren(target)
-        player = new YT.Player(target, {
+        const created = new YT.Player(target, {
           host: 'https://www.youtube-nocookie.com',
-          videoId: ids[0]!,
+          videoId: ids[position.current]!,
           width: '100%',
           height: '100%',
           playerVars: { autoplay: 1, mute: muted ? 1 : 0, playsinline: 1, rel: 0, origin: window.location.origin },
           events: {
-            onReady: () => player?.getIframe().setAttribute('title', `Vídeo de ${title} no YouTube`),
+            onReady: () => created.getIframe().setAttribute('title', `Vídeo de ${title} no YouTube`),
             onStateChange: (event) => {
               if (event.data === YT.PlayerState.PLAYING) {
                 failures = 0
@@ -66,6 +78,7 @@ export function ClipPlayer({ videoIds, title, muted }: ClipPlayerProps) {
             },
           },
         })
+        player.current = created
       })
       .catch(() => {
         if (!cancelled) {
@@ -75,59 +88,41 @@ export function ClipPlayer({ videoIds, title, muted }: ClipPlayerProps) {
 
     return () => {
       cancelled = true
-      advance.current = () => {}
-      player?.destroy()
+      player.current?.destroy()
+      player.current = null
     }
   }, [key, muted, title])
+
+  // A pessoa escolheu outro clipe na playlist: toca esse.
+  useEffect(() => {
+    const ids = key.split(',')
+    if (player.current && selected !== position.current && ids[selected]) {
+      position.current = selected
+      player.current.loadVideoById(ids[selected]!)
+    }
+  }, [selected, key])
 
   const first = key.split(',')[0]!
 
   return (
-    <div>
-      <div className="aspect-video w-full border border-rule bg-surface-raised">
-        {failed ? (
-          <div className="flex size-full items-center justify-center p-6 text-center">
-            <p>
-              Não foi possível carregar o player.{' '}
-              <a
-                href={`https://www.youtube.com/watch?v=${first}`}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="font-bold underline underline-offset-4 hover:text-accent"
-              >
-                Abrir o clipe no YouTube
-                <span className="sr-only"> (abre em outra aba)</span>
-              </a>
-            </p>
-          </div>
-        ) : (
-          <div ref={holder} className="size-full [&>iframe]:size-full" />
-        )}
-      </div>
-
-      {videoIds.length > 1 && !failed && (
-        <div className="mt-3 flex justify-end">
-          <button
-            type="button"
-            onClick={() => advance.current()}
-            className="inline-flex min-h-11 cursor-pointer items-center gap-2 rounded-full border-2 border-ink px-5 font-extrabold transition-colors hover:border-accent hover:text-accent"
-          >
-            Próximo clipe
-            <svg
-              aria-hidden="true"
-              width="18"
-              height="18"
-              viewBox="0 0 24 24"
-              fill="none"
-              stroke="currentColor"
-              strokeWidth="2.5"
-              strokeLinecap="round"
-              strokeLinejoin="round"
+    <div className="aspect-video w-full border border-rule bg-surface-raised">
+      {failed ? (
+        <div className="flex size-full items-center justify-center p-6 text-center">
+          <p>
+            Não foi possível carregar o player.{' '}
+            <a
+              href={`https://www.youtube.com/watch?v=${first}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="font-bold underline underline-offset-4 hover:text-accent"
             >
-              <path d="M5 12h14M13 6l6 6-6 6" />
-            </svg>
-          </button>
+              Abrir o clipe no YouTube
+              <span className="sr-only"> (abre em outra aba)</span>
+            </a>
+          </p>
         </div>
+      ) : (
+        <div ref={holder} className="size-full [&>iframe]:size-full" />
       )}
     </div>
   )

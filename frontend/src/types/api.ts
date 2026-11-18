@@ -217,3 +217,36 @@ export interface ShowImportPreview {
   /** Endereço de um show igual que já está cadastrado, se houver. */
   existingShowSlug: string | null
 }
+
+/** Clipe da playlist "Agora na tela" (só os aprovados aparecem na lista pública). */
+export interface PlaylistClip {
+  id: string
+  /** Código do vídeo no YouTube, com 11 caracteres. */
+  youtubeId: string
+  title: string
+  channelName: string
+  /** Os clipes fixos abrem a playlist e não mostram quem sugeriu. */
+  pinned: boolean
+  /** A banda do catálogo, quando alguém a ligou ao clipe. */
+  artist: { slug: string; name: string } | null
+  suggestedBy: { username: string; displayName: string } | null
+  createdAt: string
+}
+
+export type ClipStatus = 'PENDING' | 'APPROVED' | 'REJECTED'
+
+/** Uma sugestão vista por quem a enviou. */
+export interface MyClip {
+  id: string
+  youtubeId: string
+  title: string
+  channelName: string
+  status: ClipStatus
+  createdAt: string
+}
+
+/** Uma linha da fila de moderação. */
+export interface ReviewClip extends PlaylistClip {
+  status: ClipStatus
+  reviewedAt: string | null
+}

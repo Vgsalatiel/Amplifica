@@ -1,10 +1,12 @@
 import { useState } from 'react'
 import { Link } from 'react-router'
 import { cn } from '../../../lib/cn'
-import { parseYouTubeId } from '../../../lib/youtube'
 import { useArtist } from '../../catalog/hooks/use-catalog'
 import { NARRATION, type Clip } from '../lib/clips'
+import type { PlaylistItem } from '../lib/playlist'
 import { ClipPlayer } from './clip-player'
+import { ClipPlaylist } from './clip-playlist'
+import { ClipSuggestForm } from './clip-suggest-form'
 
 const scanlines =
   'bg-[repeating-linear-gradient(0deg,rgb(255_255_255/0.035)_0,rgb(255_255_255/0.035)_2px,transparent_2px,transparent_6px)]'
@@ -17,23 +19,29 @@ function prefersReducedMotion(): boolean {
 }
 
 /**
- * "Agora na tela": os clipes da cena passando um depois do outro, numa tela só. O vídeo começa
- * sozinho e sem som (é o que os navegadores permitem); o som se liga no botão do próprio player.
- * Com a preferência de menos movimento, a tela espera o clique no play, e esse clique já toca com som.
+ * "Agora na tela": os clipes da cena passando um depois do outro, numa tela só, com a playlist em
+ * lista embaixo e o formulário para sugerir um clipe. O vídeo começa sozinho e sem som (é o que os
+ * navegadores permitem); o som se liga no botão do próprio player. Com a preferência de menos
+ * movimento, a tela espera o clique no play, e esse clique já toca com som.
+ *
+ * `items` são os clipes que têm vídeo. Sem nenhum, a tela mostra a capa de `coverClip`, quando existe.
  */
-export function NowPlaying({ clips }: { clips: Clip[] }) {
+export function NowPlaying({ items, coverClip }: { items: PlaylistItem[]; coverClip?: Clip }) {
   const [reduced] = useState(prefersReducedMotion)
   const [clicked, setClicked] = useState(false)
+  const [selected, setSelected] = useState(0)
 
-  if (clips.length === 0) {
+  if (items.length === 0 && !coverClip) {
     return null
   }
-  const playable = clips.flatMap((clip) => {
-    const id = parseYouTubeId(clip.youtube)
-    return id ? [{ clip, id }] : []
-  })
-  const first = playable[0]
-  const bands = clips.map((clip) => clip.band).join(', ')
+  const current = Math.min(selected, Math.max(items.length - 1, 0))
+  const names = items.map((item) => item.subtitle).join(', ')
+
+  function choose(index: number) {
+    setSelected(index)
+    // Escolher um clipe é um clique: já pode tocar com som, mesmo para quem pediu menos movimento.
+    setClicked(true)
+  }
 
   return (
     <section aria-labelledby="agora-titulo">
@@ -42,18 +50,20 @@ export function NowPlaying({ clips }: { clips: Clip[] }) {
       </h2>
       <p className="mt-2 mb-4 font-semibold">{NARRATION}</p>
 
-      {first && (!reduced || clicked) ? (
+      {items.length > 0 && (!reduced || clicked) ? (
         <ClipPlayer
-          videoIds={playable.map((item) => item.id)}
-          title={playable.map((item) => item.clip.band).join(', ')}
+          videoIds={items.map((item) => item.videoId)}
+          title={names}
           muted={!clicked}
+          selected={current}
+          onIndexChange={setSelected}
         />
-      ) : first ? (
+      ) : items.length > 0 ? (
         <div className={cn('relative aspect-video border border-rule bg-surface-raised', scanlines)}>
           <button
             type="button"
             onClick={() => setClicked(true)}
-            aria-label={`Tocar os clipes: ${bands}`}
+            aria-label={`Tocar os clipes: ${names}`}
             className="absolute top-1/2 left-1/2 flex size-20 -translate-x-1/2 -translate-y-1/2 cursor-pointer items-center justify-center rounded-full bg-accent text-on-accent transition-colors hover:bg-accent-hover md:size-24"
           >
             <svg aria-hidden="true" width="36" height="36" viewBox="0 0 24 24" fill="currentColor">
@@ -62,25 +72,33 @@ export function NowPlaying({ clips }: { clips: Clip[] }) {
           </button>
         </div>
       ) : (
-        <CoverScreen clip={clips[0]!} />
+        <CoverScreen clip={coverClip!} />
       )}
 
-      <p className="mt-3 text-sm text-muted">
-        {first && !clicked && !reduced && 'O vídeo começa sem som; ligue no botão do player. '}
-        Clipes de{' '}
-        {clips.map((clip, position) => (
-          <span key={clip.id}>
-            {position > 0 && ', '}
-            <Link
-              to={`/artistas/${clip.artistSlug}`}
-              className="text-ink underline underline-offset-4 hover:text-accent"
-            >
-              {clip.band}
-            </Link>
-          </span>
-        ))}
-        .
-      </p>
+      {items.length > 0 && (
+        <>
+          <p className="mt-3 mb-3 text-sm text-muted">
+            {!clicked && !reduced && 'O vídeo começa sem som; ligue no botão do player. '}
+            Toque em um clipe da lista para ouvir.
+          </p>
+          <ClipPlaylist items={items} current={current} onSelect={choose} />
+        </>
+      )}
+
+      <ClipSuggestForm />
+    </section>
+  )
+}
+
+/** Enquanto a playlist carrega: o título e uma tela vazia, para a página não pular quando ela chegar. */
+export function NowPlayingPlaceholder() {
+  return (
+    <section aria-labelledby="agora-titulo">
+      <h2 id="agora-titulo" className="font-display text-3xl leading-none text-accent">
+        Agora na tela
+      </h2>
+      <p className="mt-2 mb-4 font-semibold">{NARRATION}</p>
+      <div aria-hidden="true" className="aspect-video border border-rule bg-surface-raised" />
     </section>
   )
 }
