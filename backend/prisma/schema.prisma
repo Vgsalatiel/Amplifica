@@ -38,6 +38,7 @@ model User {
   reviews     Review[]
   emailTokens EmailToken[]
   clips       Clip[]
+  attendances ShowAttendance[]
 }
 
 enum EmailTokenPurpose {
@@ -295,8 +296,9 @@ model Show {
   createdAt     DateTime   @default(now())
   updatedAt     DateTime   @updatedAt
 
-  acts   ShowAct[]
-  genres ShowGenre[]
+  acts        ShowAct[]
+  genres      ShowGenre[]
+  attendances ShowAttendance[]
 
   // Agenda: próximos shows, com ou sem filtro de estado.
   @@index([date])
@@ -368,4 +370,18 @@ model Clip {
   @@index([status, pinned, createdAt])
   // Limite diário de sugestões por pessoa.
   @@index([submittedById, createdAt])
+}
+
+// "Eu vou": a presença de uma pessoa num show. O nome só aparece na lista pública se ela marcou showName.
+model ShowAttendance {
+  userId    String   @db.Uuid
+  showId    String   @db.Uuid
+  showName  Boolean  @default(false)
+  createdAt DateTime @default(now())
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+  show Show @relation(fields: [showId], references: [id], onDelete: Cascade)
+
+  @@id([userId, showId])
+  @@index([showId, createdAt])
 }

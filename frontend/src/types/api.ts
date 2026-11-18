@@ -257,3 +257,15 @@ export interface TeamMember {
   displayName: string
   role: Extract<Role, 'ADMIN' | 'MODERATOR'>
 }
+
+/** "Eu vou" num show: o total e só os nomes de quem aceitou aparecer. */
+export interface ShowAttendanceSummary {
+  count: number
+  going: Array<{ username: string; displayName: string; avatar: ImageSet | null }>
+}
+
+/** A situação de quem está logado num show. */
+export interface MyShowAttendance {
+  going: boolean
+  showName: boolean
+}

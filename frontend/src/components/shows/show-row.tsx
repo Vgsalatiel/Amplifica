@@ -115,6 +115,13 @@ export function ShowRow({ show }: { show: Show }) {
             Ingressos
           </a>
         )}
+        <Link
+          to={`/shows/${show.slug}`}
+          aria-label={`Detalhes de ${title} e quem vai`}
+          className="inline-flex h-11 items-center justify-center rounded-xs px-2 font-semibold underline underline-offset-4 hover:text-accent"
+        >
+          Detalhes e quem vai
+        </Link>
         <p className="text-xs text-muted">Conferido em {formatShortDate(show.verifiedAt.slice(0, 10))}</p>
       </div>
     </article>

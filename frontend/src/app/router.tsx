@@ -31,6 +31,7 @@ import { ReleasePage } from '../features/catalog/pages/release-page'
 import { ReleasesPage } from '../features/catalog/pages/releases-page'
 import { SearchPage } from '../features/search/pages/search-page'
 import { EmoTourPage } from '../features/shows/pages/emo-tour-page'
+import { ShowPage } from '../features/shows/pages/show-page'
 import { ShowsPage } from '../features/shows/pages/shows-page'
 import { BrazilHistoryPage } from '../features/catalog/pages/brazil-history-page'
 import { BrazilScenePage } from '../features/catalog/pages/brazil-scene-page'
@@ -49,6 +50,7 @@ export const router = createBrowserRouter([
       { path: '/generos', element: <GenresPage /> },
       { path: '/generos/:slug', element: <GenrePage /> },
       { path: '/shows', element: <ShowsPage /> },
+      { path: '/shows/:slug', element: <ShowPage /> },
       { path: '/cena-br', element: <BrazilScenePage /> },
       { path: '/cena-br/historia', element: <BrazilHistoryPage /> },
       { path: '/emo-tour', element: <EmoTourPage /> },

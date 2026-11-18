@@ -1,3 +1,4 @@
+import { Link } from 'react-router'
 import { formatShowHour, showDay } from '../../lib/format-date'
 import { cn } from '../../lib/cn'
 import type { Show } from '../../types/api'
@@ -31,7 +32,11 @@ export function ShowScheduleRow({ show, highlight = false }: { show: Show; highl
       <p className="hidden font-display text-2xl sm:block">{hour ?? ''}</p>
 
       <div className="min-w-0">
-        <h3 className="font-display text-xl leading-tight font-normal text-balance md:text-2xl">{title}</h3>
+        <h3 className="font-display text-xl leading-tight font-normal text-balance md:text-2xl">
+          <Link to={`/shows/${show.slug}`} className="hover:text-accent">
+            {title}
+          </Link>
+        </h3>
         <p className="mt-1 text-muted">
           {hour && <span className="sm:hidden">{hour}, </span>}
           {show.venue}, {show.city}/{show.state}
