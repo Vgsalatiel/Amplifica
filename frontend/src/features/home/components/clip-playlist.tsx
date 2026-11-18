@@ -65,6 +65,15 @@ export function ClipPlaylist({ items, current, onSelect }: ClipPlaylistProps) {
                 Banda
               </Link>
             )}
+            {item.suggestedBy && (
+              <Link
+                to={`/u/${item.suggestedBy.username}`}
+                aria-label={`Perfil de @${item.suggestedBy.username}, que sugeriu este clipe`}
+                className="flex shrink-0 items-center px-3 text-sm font-semibold underline underline-offset-4 hover:text-accent"
+              >
+                Perfil
+              </Link>
+            )}
           </li>
         )
       })}

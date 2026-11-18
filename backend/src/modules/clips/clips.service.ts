@@ -36,6 +36,12 @@ import { parseYouTubeId } from './youtube.js';
 import { VideoNotUsableError, YouTubeOEmbed } from './youtube-oembed.js';
 
 /** Sugestões por pessoa em 24 horas, contando as pendentes e as recusadas. Administradores não têm teto. */
+/** Os clipes que uma pessoa descobriu: o total e os mais recentes. */
+export interface DiscoveriesResponse {
+  count: number;
+  items: ClipResponse[];
+}
+
 export const DAILY_SUGGESTION_LIMIT = 3;
 const DAY_MS = 24 * 60 * 60 * 1000;
 
@@ -64,6 +70,34 @@ export class ClipsService {
       take: query.limit,
     });
     return clips.map(toClipResponse);
+  }
+
+  /** Os clipes aprovados que a pessoa sugeriu: o que ela "descobriu". Público, para o perfil. */
+  async listDiscoveries(username: string): Promise<DiscoveriesResponse> {
+    const user = await this.prisma.user.findUnique({
+      where: { username: username.toLowerCase() },
+      select: { id: true },
+    });
+    if (!user) {
+      throw new NotFoundException(
+        apiError('user_not_found', 'Não existe um perfil com esse nome.'),
+      );
+    }
+    const where = {
+      submittedById: user.id,
+      status: 'APPROVED' as const,
+      pinned: false,
+    };
+    const [count, clips] = await Promise.all([
+      this.prisma.clip.count({ where }),
+      this.prisma.clip.findMany({
+        where,
+        include: clipInclude,
+        orderBy: [{ createdAt: 'desc' }, { id: 'desc' }],
+        take: 20,
+      }),
+    ]);
+    return { count, items: clips.map(toClipResponse) };
   }
 
   /** As sugestões de quem está logado, com a situação de cada uma. */

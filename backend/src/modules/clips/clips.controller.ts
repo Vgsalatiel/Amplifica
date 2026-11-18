@@ -32,7 +32,7 @@ import {
   type ReviewListQuery,
   type SuggestClipDto,
 } from './clips.schemas.js';
-import { ClipsService } from './clips.service.js';
+import { ClipsService, type DiscoveriesResponse } from './clips.service.js';
 
 /** Dez envios por minuto e por pessoa, além do teto diário que o service aplica. */
 const WRITE_LIMIT = { default: { limit: 10, ttl: 60_000 } };
@@ -90,5 +90,17 @@ export class ClipsController {
   @Delete(':id')
   remove(@Param('id', { schema: idParamSchema }) id: string): Promise<void> {
     return this.clips.remove(id);
+  }
+}
+
+/** O que a pessoa descobriu, para o perfil público. */
+@Controller('users/:username/discoveries')
+export class DiscoveriesController {
+  constructor(private readonly clips: ClipsService) {}
+
+  @Public()
+  @Get()
+  list(@Param('username') username: string): Promise<DiscoveriesResponse> {
+    return this.clips.listDiscoveries(username);
   }
 }

@@ -1,7 +1,7 @@
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 import { retryDelay, shouldRetry } from '../../../lib/retry'
 import type { ClipStatus } from '../../../types/api'
-import { deleteClip, listClips, listClipsForReview, listMyClips, reviewClip, suggestClip } from '../api/clips-api'
+import { deleteClip, getDiscoveries, listClips, listClipsForReview, listMyClips, reviewClip, suggestClip } from '../api/clips-api'
 
 /** A playlist pública. Sem `enabled`: qualquer visitante a vê. */
 export const useClipList = () =>
@@ -43,3 +43,6 @@ export function useDeleteClip() {
   const invalidate = useInvalidateClips()
   return useMutation({ mutationFn: deleteClip, onSuccess: invalidate })
 }
+
+export const useDiscoveries = (username: string) =>
+  useQuery({ queryKey: ['clips', 'discoveries', username], queryFn: () => getDiscoveries(username), retry: shouldRetry, retryDelay })

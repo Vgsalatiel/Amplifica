@@ -1,7 +1,7 @@
 import { Module } from '@nestjs/common';
 import { ThrottlerModule } from '@nestjs/throttler';
 import { UserThrottlerGuard } from '../reviews/user-throttler.guard.js';
-import { ClipsController } from './clips.controller.js';
+import { ClipsController, DiscoveriesController } from './clips.controller.js';
 import { ClipsService } from './clips.service.js';
 import { YouTubeOEmbed } from './youtube-oembed.js';
 
@@ -13,7 +13,7 @@ import { YouTubeOEmbed } from './youtube-oembed.js';
       skipIf: () => process.env['NODE_ENV'] === 'test',
     }),
   ],
-  controllers: [ClipsController],
+  controllers: [ClipsController, DiscoveriesController],
   providers: [ClipsService, YouTubeOEmbed, UserThrottlerGuard],
 })
 export class ClipsModule {}

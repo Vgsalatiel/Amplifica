@@ -345,4 +345,40 @@ describe('Clipes da playlist (e2e)', () => {
       }
     });
   });
+  describe('descobertas no perfil', () => {
+    it('lista só os clipes aprovados que a pessoa sugeriu e conta o total', async () => {
+      const eva = await createSession(app);
+      const pending = (await suggest(eva, link('JJJJJJJJJJ1')).expect(201)).body;
+      const approved = (await suggest(eva, link('JJJJJJJJJJ2')).expect(201)).body;
+      const rejected = (await suggest(eva, link('JJJJJJJJJJ3')).expect(201)).body;
+      for (const [id, status] of [
+        [approved.id, 'APPROVED'],
+        [rejected.id, 'REJECTED'],
+      ]) {
+        await request(server())
+          .patch(`${API}/clips/${id}`)
+          .set(admin.auth)
+          .send({ status })
+          .expect(200);
+      }
+
+      const response = await request(server())
+        .get(`${API}/users/${eva.username}/discoveries`)
+        .expect(200);
+      expect(response.body.count).toBe(1);
+      expect(response.body.items.map((clip: { id: string }) => clip.id)).toEqual([
+        approved.id,
+      ]);
+      expect(response.body.items[0].suggestedBy.username).toBe(eva.username);
+      expect(pending.status).toBe('PENDING');
+
+      const empty = await request(server())
+        .get(`${API}/users/${ana.username}/discoveries`)
+        .expect(200);
+      expect(empty.body.count).toBe(0);
+      await request(server())
+        .get(`${API}/users/ninguem-e2e-xyz/discoveries`)
+        .expect(404);
+    });
+  });
 });

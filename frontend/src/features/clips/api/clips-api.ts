@@ -1,5 +1,5 @@
 import { apiFetch } from '../../../lib/api-client'
-import type { ClipStatus, MyClip, PlaylistClip, ReviewClip } from '../../../types/api'
+import type { ClipStatus, Discoveries, MyClip, PlaylistClip, ReviewClip } from '../../../types/api'
 
 /** A playlist pública da página inicial: fixos primeiro, depois as sugestões aprovadas. */
 export const listClips = () => apiFetch<PlaylistClip[]>('/clips?limit=20')
@@ -18,3 +18,7 @@ export const reviewClip = (id: string, input: { status: 'APPROVED' | 'REJECTED';
   apiFetch<ReviewClip>(`/clips/${id}`, { method: 'PATCH', json: input })
 
 export const deleteClip = (id: string) => apiFetch<void>(`/clips/${id}`, { method: 'DELETE' })
+
+/** O que uma pessoa descobriu: os clipes aprovados que ela sugeriu. */
+export const getDiscoveries = (username: string) =>
+  apiFetch<Discoveries>(`/users/${encodeURIComponent(username)}/discoveries`)

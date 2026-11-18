@@ -303,3 +303,9 @@ export interface ReviewGroup extends ShowGroup {
   show: { slug: string; name: string | null; acts: string[] }
   suggestedBy: { username: string } | null
 }
+
+/** Os clipes aprovados que uma pessoa sugeriu, para o perfil. */
+export interface Discoveries {
+  count: number
+  items: PlaylistClip[]
+}

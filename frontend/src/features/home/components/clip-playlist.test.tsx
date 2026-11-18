@@ -49,6 +49,13 @@ describe('ClipPlaylist', () => {
     renderWithProviders(<ClipPlaylist items={items} current={0} onSelect={() => {}} />)
 
     expect(screen.getByRole('link', { name: 'Página de Bullet Bane' })).toHaveAttribute('href', '/artistas/bullet-bane')
-    expect(screen.getAllByRole('link')).toHaveLength(1)
+    expect(screen.getAllByRole('link', { name: /^Página de / })).toHaveLength(1)
+  })
+
+  it('a sugestão aprovada leva ao perfil de quem a sugeriu; os fixos não têm esse link', () => {
+    renderWithProviders(<ClipPlaylist items={items} current={0} onSelect={() => {}} />)
+
+    expect(screen.getByRole('link', { name: /Perfil de @ana/ })).toHaveAttribute('href', '/u/ana')
+    expect(screen.getAllByRole('link', { name: /^Perfil de / })).toHaveLength(1)
   })
 })
