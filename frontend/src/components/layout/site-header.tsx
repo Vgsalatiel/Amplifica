@@ -39,7 +39,8 @@ export function SiteHeader() {
   const closeMenu = () => setMenuOpen(false)
 
   return (
-    <header>
+    // Fixo no topo: o menu desce junto com a tela. O fundo sólido evita ver o conteúdo passando por trás.
+    <header className="sticky top-0 z-50 bg-surface">
       <Container className="flex items-center gap-4 pt-5 pb-4">
         <Link to="/" aria-label="Amplifica, página inicial">
           <Logo className="text-3xl" />
@@ -84,7 +85,12 @@ export function SiteHeader() {
       <div aria-hidden="true" className="stripes h-2" />
 
       {menuOpen && (
-        <nav id="menu-celular" aria-label="Principal" className="border-y border-rule xl:hidden">
+        <nav
+          id="menu-celular"
+          aria-label="Principal"
+          // Em telas baixas o menu aberto rola dentro dele, senão o fim da lista ficaria inalcançável.
+          className="max-h-[calc(100dvh-6rem)] overflow-y-auto border-y border-rule xl:hidden"
+        >
           <Container className="flex flex-col items-start py-2">
             <HeaderSearch className="my-2 w-full" onNavigate={closeMenu} />
             {NAV_ITEMS.map((item) => (

@@ -24,7 +24,7 @@ export function AppLayout() {
         reiniciar a animação de entrada. Cabeçalho e rodapé ficam fora dela e não piscam.
         `motion-safe` desliga a animação para quem pediu menos movimento no sistema.
       */}
-      <main id="conteudo" key={pathname} className="flex-1 pb-24 motion-safe:animate-page-enter">
+      <main id="conteudo" key={pathname} className="flex-1 scroll-mt-28 pb-24 motion-safe:animate-page-enter">
         <Outlet />
       </main>
       <SiteFooter />

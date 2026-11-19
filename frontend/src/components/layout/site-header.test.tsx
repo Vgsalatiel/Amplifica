@@ -113,4 +113,10 @@ describe('SiteHeader', () => {
     expect(fetchMock).toHaveBeenCalledTimes(1)
     expect(sessionStore.getState()).toEqual({ status: 'anonymous' })
   })
+  it('o cabeçalho fica fixo no topo, descendo junto com a tela', () => {
+    renderWithProviders(<SiteHeader />)
+
+    const header = screen.getByRole('banner')
+    expect(header).toHaveClass('sticky', 'top-0')
+  })
 })
