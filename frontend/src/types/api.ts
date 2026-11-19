@@ -109,7 +109,17 @@ export interface Source {
   url: string
 }
 
+/** Crédito de uma foto com licença livre (Creative Commons): quem fez, a licença e onde está o original. */
+export interface ImageCredit {
+  author: string
+  license: string
+  licenseUrl: string
+  sourceUrl: string
+}
+
 export interface ArtistDetail extends ArtistSummary {
+  /** Só vem para a foto própria da banda, nunca para a capa emprestada de um disco. */
+  imageCredit: ImageCredit | null
   bio: string | null
   sources: Source[]
   city: string | null

@@ -11,6 +11,7 @@ import { ARTIST_TYPE_LABELS } from '../../../lib/labels'
 import type { ArtistDetail } from '../../../types/api'
 import { UpcomingShows } from '../../shows/components/upcoming-shows'
 import { Discography } from '../components/discography'
+import { PhotoCredit } from '../components/photo-credit'
 import { useArtist } from '../hooks/use-catalog'
 
 /** "Banda, Sheffield, Reino Unido, desde 2004" ou "Banda, 2004 a 2019". Só o que se sabe. */
@@ -77,7 +78,12 @@ export function ArtistPage() {
             </ul>
           )}
         </div>
-        {data.image && <Cover title={data.name} image={data.image} size="large" />}
+        {data.image && (
+          <div>
+            <Cover title={data.name} image={data.image} size="large" />
+            {data.imageCredit && <PhotoCredit credit={data.imageCredit} />}
+          </div>
+        )}
       </header>
 
       {paragraphs.length > 0 && (

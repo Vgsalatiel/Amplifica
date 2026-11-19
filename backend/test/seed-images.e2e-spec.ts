@@ -5,7 +5,8 @@ import {
   loadImages,
   type ImageManifest,
 } from '../src/scripts/images-import/load-images.js';
-import { cleanTestData, createTestApp } from './helpers.js';
+import request from 'supertest';
+import { cleanTestData, createSession, createTestApp } from './helpers.js';
 import { coverPng, grayPng } from './images.js';
 
 describe('Carga de imagens (e2e)', () => {
@@ -118,5 +119,76 @@ describe('Carga de imagens (e2e)', () => {
     expect(report.missing).toEqual(['e2e-nao-existe']);
     expect(report.failed).toHaveLength(1);
     expect(report.failed[0]).toMatch(/e2e-banda-foto.*ENOENT/);
+  });
+
+  describe('crédito da foto', () => {
+    const credit = {
+      author: 'Fulana de Tal',
+      license: 'CC BY 2.0',
+      licenseUrl: 'https://creativecommons.org/licenses/by/2.0',
+      sourceUrl: 'https://commons.wikimedia.org/wiki/File:Foto.jpg',
+    };
+    const detail = async () =>
+      (
+        await request(app.getHttpServer())
+          .get('/api/v1/artists/e2e-banda-foto')
+          .expect(200)
+      ).body;
+
+    it('a carga grava o crédito e a página da banda o mostra', async () => {
+      await load(
+        {
+          artists: [{ slug: 'e2e-banda-foto', file: 'banda.png', credit }],
+          releases: [],
+        },
+        true,
+      );
+      const body = await detail();
+      expect(body.imageCredit).toEqual(credit);
+    });
+
+    it('trocar a foto sem crédito apaga o crédito antigo', async () => {
+      await load(
+        {
+          artists: [{ slug: 'e2e-banda-foto', file: 'outra.png' }],
+          releases: [],
+        },
+        true,
+      );
+      expect((await detail()).imageCredit).toBeNull();
+    });
+
+    it('a foto enviada ou removida pelo admin também apaga o crédito', async () => {
+      const admin = await createSession(app, { admin: true });
+      await load(
+        {
+          artists: [{ slug: 'e2e-banda-foto', file: 'banda.png', credit }],
+          releases: [],
+        },
+        true,
+      );
+      expect((await detail()).imageCredit).toEqual(credit);
+
+      const artistId = (
+        await prisma.artist.findUniqueOrThrow({
+          where: { slug: 'e2e-banda-foto' },
+        })
+      ).id;
+      await request(app.getHttpServer())
+        .delete(`/api/v1/artists/${artistId}/image`)
+        .set(admin.auth)
+        .expect(200);
+      const after = await detail();
+      expect(after.imageCredit).toBeNull();
+    });
+
+    it('um crédito gravado sem foto própria nunca aparece (capa emprestada não tem crédito)', async () => {
+      await prisma.artist.update({
+        where: { slug: 'e2e-banda-foto' },
+        data: { imagePath: null, imageCredit: credit },
+      });
+      const body = await detail();
+      expect(body.imageCredit).toBeNull();
+    });
   });
 });

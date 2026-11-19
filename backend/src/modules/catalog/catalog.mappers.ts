@@ -60,7 +60,39 @@ export interface Source {
   url: string;
 }
 
+/** Crédito de uma foto com licença livre: quem fez, sob qual licença e onde está o original. */
+export interface ImageCredit {
+  author: string;
+  license: string;
+  licenseUrl: string;
+  sourceUrl: string;
+}
+
+const isHttps = (value: unknown): value is string =>
+  typeof value === 'string' && value.startsWith('https://');
+
+/** Lê o crédito gravado no banco; devolve `null` se faltar algo, para nunca mostrar crédito pela metade. */
+export function parseImageCredit(value: unknown): ImageCredit | null {
+  if (typeof value !== 'object' || value === null) {
+    return null;
+  }
+  const { author, license, licenseUrl, sourceUrl } = value as Record<
+    string,
+    unknown
+  >;
+  return typeof author === 'string' &&
+    author.trim() &&
+    typeof license === 'string' &&
+    license.trim() &&
+    isHttps(licenseUrl) &&
+    isHttps(sourceUrl)
+    ? { author, license, licenseUrl, sourceUrl }
+    : null;
+}
+
 export interface ArtistDetail extends ArtistSummary {
+  /** Só existe para foto própria da banda (nunca para a capa emprestada de um disco). */
+  imageCredit: ImageCredit | null;
   bio: string | null;
   sources: Source[];
   city: string | null;
@@ -189,6 +221,7 @@ export function toArtistDetail(
   );
   return {
     ...toArtistSummary(artist, toImageSet, pickFallbackCover(ownReleases)),
+    imageCredit: artist.imagePath ? parseImageCredit(artist.imageCredit) : null,
     bio: artist.bio,
     sources: parseSources(artist.sources),
     city: artist.city,

@@ -79,6 +79,46 @@
     {
       "slug": "venere-vai-venus",
       "file": "venereVaiVenus/0e3491174ef0bb4e2fa05dd2d95657c4.avif"
+    },
+    {
+      "slug": "forfun",
+      "file": "forfun/forfun.jpg",
+      "credit": {
+        "author": "Diogo Rodrigues Gonçalves",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Forfun_(16688443944).jpg"
+      }
+    },
+    {
+      "slug": "nx-zero",
+      "file": "nxZero/nxzero.jpg",
+      "credit": {
+        "author": "Luiz Alberto Fiebig Junior",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:NX_Zero_(2007).jpg"
+      }
+    },
+    {
+      "slug": "project46",
+      "file": "project46/project46.jpg",
+      "credit": {
+        "author": "Gisela Cardoso",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Project46_(14260889232).jpg"
+      }
+    },
+    {
+      "slug": "day-limns",
+      "file": "dayLimns/dayLimns.png",
+      "credit": {
+        "author": "Humor Multishow",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Day_Limns_2023.png"
+      }
     }
   ],
   "releases": [

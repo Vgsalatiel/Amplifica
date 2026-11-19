@@ -3,6 +3,7 @@ import sharp from 'sharp';
 import { z } from 'zod';
 import { slugSchema } from '../../common/slug.js';
 import type { ImagesService } from '../../modules/images/images.service.js';
+import { Prisma } from '../../generated/prisma/client.js';
 import type { PrismaService } from '../../prisma/prisma.service.js';
 
 const entrySchema = z.object({
@@ -11,13 +12,25 @@ const entrySchema = z.object({
   file: z.string().min(1).max(200),
 });
 
+/** Crédito de uma foto com licença livre (Creative Commons): aparece na página da banda. */
+const creditSchema = z.object({
+  author: z.string().trim().min(1).max(120),
+  license: z.string().trim().min(1).max(40),
+  licenseUrl: z.url().startsWith('https://'),
+  sourceUrl: z.url().startsWith('https://'),
+});
+
+const artistEntrySchema = entrySchema.extend({
+  credit: creditSchema.optional(),
+});
+
 /**
  * Manifesto das imagens: qual arquivo vai para qual banda (foto) e qual para qual disco (capa).
  * As imagens em si ficam fora do repositório (os direitos são dos fotógrafos e dos selos); só este
  * arquivo, que diz onde cada uma entra, é versionado.
  */
 export const imageManifestSchema = z.object({
-  artists: z.array(entrySchema),
+  artists: z.array(artistEntrySchema),
   releases: z.array(entrySchema).default([]),
 });
 
@@ -90,7 +103,11 @@ export async function loadImages(
       );
       await prisma.artist.update({
         where: { id: artist.id },
-        data: { imagePath: stored.path },
+        // Sem crédito no manifesto, o crédito da foto anterior é apagado: ele não vale para a nova.
+        data: {
+          imagePath: stored.path,
+          imageCredit: entry.credit ?? Prisma.DbNull,
+        },
       });
       if (artist.imagePath && artist.imagePath !== stored.path) {
         await images.remove(artist.imagePath);

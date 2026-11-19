@@ -60,6 +60,7 @@ export function artistSummary(overrides: Partial<ArtistSummary> = {}): ArtistSum
 export function artistDetail(overrides: Partial<ArtistDetail> = {}): ArtistDetail {
   return {
     ...artistSummary(),
+    imageCredit: null,
     bio: 'Primeiro parágrafo da história.\n\nSegundo parágrafo da história.',
     sources: [{ name: 'MusicBrainz', url: 'https://musicbrainz.org/artist/1' }],
     city: 'Sheffield',

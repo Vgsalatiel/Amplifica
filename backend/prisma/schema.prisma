@@ -155,6 +155,8 @@ model Artist {
   formedYear    Int?
   disbandedYear Int?
   imagePath     String?
+  // Crédito da foto quando ela tem licença livre que exige citar o autor: {author, license, licenseUrl, sourceUrl}.
+  imageCredit   Json?
   // Fontes do texto da bio, como [{ name, url }]. Exibidas na página do artista.
   sources       Json?
   // Identificador no MusicBrainz, para a importação futura.

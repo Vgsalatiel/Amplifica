@@ -16,7 +16,7 @@ import {
 } from '../../common/prisma-errors.js';
 import { artistIdsMatching } from '../../common/search.js';
 import { slugify, uniqueSlug } from '../../common/slug.js';
-import type { Prisma } from '../../generated/prisma/client.js';
+import { Prisma } from '../../generated/prisma/client.js';
 import { PrismaService } from '../../prisma/prisma.service.js';
 import {
   artistSummaryInclude,
@@ -239,7 +239,8 @@ export class ArtistsService {
 
     const artist = await this.prisma.artist.update({
       where: { id },
-      data: { imagePath: stored.path },
+      // Foto nova enviada pelo admin: o crédito da foto anterior não vale para ela.
+      data: { imagePath: stored.path, imageCredit: Prisma.DbNull },
       include: artistSummaryInclude,
     });
     // A imagem antiga só é apagada depois que o banco já aponta para a nova.
@@ -253,7 +254,7 @@ export class ArtistsService {
     const current = await this.findOrFail(id);
     const artist = await this.prisma.artist.update({
       where: { id },
-      data: { imagePath: null },
+      data: { imagePath: null, imageCredit: Prisma.DbNull },
       include: artistSummaryInclude,
     });
     await this.images.remove(current.imagePath);

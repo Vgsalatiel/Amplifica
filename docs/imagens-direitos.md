@@ -1,0 +1,87 @@
+# Direitos das imagens do catálogo
+
+Levantamento feito em 18/11/2026 sobre `frontend/img/bandasimgaens`. **Não é parecer jurídico.** A coluna "Evidência" diz o que dá para saber olhando o arquivo (nome, tamanho, metadados); a origem real só quem baixou a imagem sabe. Confirme com quem coletou.
+
+Total: 63 arquivos. Risco **alto**: 28, **médio**: 13, **baixo**: 22. Já estão no manifesto (e, se o `images:seed` rodou, no ar): 22.
+
+## Como ler o risco
+- **Alto:** foto com dono provável (fotógrafo, gravadora, Spotify) ou de origem desconhecida e baixa qualidade.
+- **Médio:** origem desconhecida, mas com cara de divulgação, ou há titular identificado.
+- **Baixo:** capa de disco mostrada para identificar o lançamento.
+
+## Lista
+
+| Risco | Banda | Tipo | Arquivo | Tamanho | No manifesto | Evidência | O que fazer |
+|---|---|---|---|---|---|---|---|
+| ALTO | americanFootball | foto da banda | `americanFootball/American-Football-tour.webp` | 1800x1200 | sim | Foto de turnê, 1800x1200, com metadados XMP; sem crédito no nome | Origem desconhecida e foto de show: achar o fotógrafo ou trocar. |
+| ALTO | AsILayDying | foto da banda | `AsILayDying/ab6761610000517497917683424a6f5c044ca4da.jpeg` | 320x320 | não | Nome é o código de imagem do CDN do Spotify (foto de artista do Spotify) | Spotify não dá licença de reuso: pedir foto à banda ou trocar por capa de disco. (Também é pequena: 320x320.) |
+| ALTO | auroraRules | foto da banda | `auroraRules/ab6761610000e5eba9a4bdc5f7dc473f3a2d213e.jpeg` | 640x640 | não | Nome é o código de imagem do CDN do Spotify (foto de artista do Spotify) | Spotify não dá licença de reuso: pedir foto à banda ou trocar por capa de disco. |
+| ALTO | aviana | foto da banda | `aviana/ab6761610000e5eb33e5d49d2ac1c3d8cb94c7df.jpeg` | 640x640 | não | Nome é o código de imagem do CDN do Spotify (foto de artista do Spotify) | Spotify não dá licença de reuso: pedir foto à banda ou trocar por capa de disco. |
+| ALTO | badOmens | foto da banda | `badOmens/images.jpeg` | 640x480 | não | Nome genérico (images.jpeg) e 640x480: parece miniatura de busca de imagens; sem crédito | Origem desconhecida e baixa resolução: pedir foto oficial à banda ou trocar. |
+| ALTO | becold | foto da banda | `becold/images.jpeg` | 387x516 | não | Nome genérico (images.jpeg) e 387x516: parece miniatura de busca de imagens; sem crédito | Origem desconhecida e baixa resolução: pedir foto oficial à banda ou trocar. |
+| ALTO | blink182 | foto da banda | `blink182/images.jpeg` | 688x445 | não | Nome genérico (images.jpeg) e 688x445: parece miniatura de busca de imagens; sem crédito | Origem desconhecida e baixa resolução: pedir foto oficial à banda ou trocar. |
+| ALTO | BulletForMyValentine | foto da banda | `BulletForMyValentine/ab676161000051742920e1ec5d3798d9be3b3f18.jpeg` | 320x320 | não | Nome é o código de imagem do CDN do Spotify (foto de artista do Spotify) | Spotify não dá licença de reuso: pedir foto à banda ou trocar por capa de disco. (Também é pequena: 320x320.) |
+| ALTO | CPM22 | foto da banda | `CPM22/cpm22.jpg` | 1221x814 | sim | Foto 1221x814 de show ou matéria; sem crédito | Origem desconhecida: pedir à banda/assessoria ou trocar. |
+| ALTO | DanceOfDays | foto da banda | `DanceOfDays/images.jpeg` | 447x447 | sim | Nome genérico (images.jpeg) e 447x447: parece miniatura de busca de imagens; sem crédito | Origem desconhecida e baixa resolução: pedir foto oficial à banda ou trocar. |
+| ALTO | dayseeker | foto da banda | `dayseeker/banda.jpeg` | 536x640 | não | Nome genérico (banda.jpeg) e 536x640: parece miniatura de busca de imagens; sem crédito | Origem desconhecida e baixa resolução: pedir foto oficial à banda ou trocar. |
+| ALTO | fakenumber | foto da banda | `fakenumber/images.jpeg` | 447x447 | não | Nome genérico (images.jpeg) e 447x447: parece miniatura de busca de imagens; sem crédito | Origem desconhecida e baixa resolução: pedir foto oficial à banda ou trocar. |
+| ALTO | fitForAKing | foto da banda | `fitForAKing/banda.jpeg` | 447x447 | não | Nome genérico (banda.jpeg) e 447x447: parece miniatura de busca de imagens; sem crédito | Origem desconhecida e baixa resolução: pedir foto oficial à banda ou trocar. |
+| ALTO | green day | foto da banda | `green day/green_day_warner_records_por_alice_baxley.webp` | 700x519 | sim | Crédito no nome do arquivo: Warner Records, foto de Alice Baxley | Foto de gravadora e fotógrafa. Trocar pela capa de um disco ou pedir licença. |
+| ALTO | landmvrks | foto da banda | `landmvrks/banda.jpeg` | 447x447 | não | Nome genérico (banda.jpeg) e 447x447: parece miniatura de busca de imagens; sem crédito | Origem desconhecida e baixa resolução: pedir foto oficial à banda ou trocar. |
+| ALTO | linkinPark | foto da banda | `linkinPark/banda.jpeg` | 515x388 | não | Nome genérico (banda.jpeg) e 515x388: parece miniatura de busca de imagens; sem crédito | Origem desconhecida e baixa resolução: pedir foto oficial à banda ou trocar. |
+| ALTO | LornaShore | foto da banda | `LornaShore/banda.jpeg` | 447x447 | não | Nome genérico (banda.jpeg) e 447x447: parece miniatura de busca de imagens; sem crédito | Origem desconhecida e baixa resolução: pedir foto oficial à banda ou trocar. |
+| ALTO | Menores atos | foto da banda | `Menores atos/images.jpeg` | 678x452 | sim | Nome genérico (images.jpeg) e 678x452: parece miniatura de busca de imagens; sem crédito | Origem desconhecida e baixa resolução: pedir foto oficial à banda ou trocar. |
+| ALTO | MetadeDeMim | foto da banda | `MetadeDeMim/images (1).jpeg` | 739x415 | sim | Nome genérico (images (1).jpeg) e 739x415: parece miniatura de busca de imagens; sem crédito | Origem desconhecida e baixa resolução: pedir foto oficial à banda ou trocar. |
+| ALTO | MotionlessinWhite | foto da banda | `MotionlessinWhite/images.jpeg` | 447x447 | não | Nome genérico (images.jpeg) e 447x447: parece miniatura de busca de imagens; sem crédito | Origem desconhecida e baixa resolução: pedir foto oficial à banda ou trocar. |
+| ALTO | paramore | foto da banda | `paramore/banda.jpeg` | 738x414 | não | Nome genérico (banda.jpeg) e 738x414: parece miniatura de busca de imagens; sem crédito | Origem desconhecida e baixa resolução: pedir foto oficial à banda ou trocar. |
+| ALTO | pense | foto da banda | `pense/images.jpeg` | 699x439 | sim | Nome genérico (images.jpeg) e 699x439: parece miniatura de busca de imagens; sem crédito | Origem desconhecida e baixa resolução: pedir foto oficial à banda ou trocar. |
+| ALTO | rolima | foto da banda | `rolima/images.jpeg` | 447x447 | sim | Nome genérico (images.jpeg) e 447x447: parece miniatura de busca de imagens; sem crédito | Origem desconhecida e baixa resolução: pedir foto oficial à banda ou trocar. |
+| ALTO | sleepToken | foto da banda | `sleepToken/images.jpeg` | 531x376 | não | Nome genérico (images.jpeg) e 531x376: parece miniatura de busca de imagens; sem crédito | Origem desconhecida e baixa resolução: pedir foto oficial à banda ou trocar. |
+| ALTO | SuicideSilence | foto da banda | `SuicideSilence/banda.jpeg` | 411x486 | não | Nome genérico (banda.jpeg) e 411x486: parece miniatura de busca de imagens; sem crédito | Origem desconhecida e baixa resolução: pedir foto oficial à banda ou trocar. |
+| ALTO | ternoREi | foto da banda | `ternoREi/terno-rei_cesar_ovalle.jpg` | 1280x720 | sim | Crédito no nome do arquivo: César Ovalle (fotógrafo) | Pedir autorização ao fotógrafo ou à banda; se não vier, trocar. Se mantiver, mostrar o crédito. |
+| ALTO | ThePlotInYou | foto da banda | `ThePlotInYou/banda.jpeg` | 696x390 | não | Nome genérico (banda.jpeg) e 696x390: parece miniatura de busca de imagens; sem crédito | Origem desconhecida e baixa resolução: pedir foto oficial à banda ou trocar. |
+| ALTO | Whitechapel | foto da banda | `Whitechapel/banda.jpeg` | 515x388 | não | Nome genérico (banda.jpeg) e 515x388: parece miniatura de busca de imagens; sem crédito | Origem desconhecida e baixa resolução: pedir foto oficial à banda ou trocar. |
+| MÉDIO | Architects | foto da banda | `Architects/Banda.jpg` | 1900x1900 | não | Origem desconhecida, 1900x1900; sem crédito no nome nem nos metadados | Confirmar a origem; se não souber, pedir foto oficial à banda. |
+| MÉDIO | b5 | foto da banda | `b5/b5.jpeg` | 288x300 | sim | Origem desconhecida, 288x300; sem crédito no nome nem nos metadados | Confirmar a origem; se não souber, pedir foto oficial à banda. (Também é pequena: 288x300.) |
+| MÉDIO | badLuv | foto da banda | `badLuv/bad luv.jpeg` | 447x447 | sim | Origem desconhecida, 447x447; sem crédito no nome nem nos metadados | Confirmar a origem; se não souber, pedir foto oficial à banda. (Também é pequena: 447x447.) |
+| MÉDIO | blackflag | logotipo | `blackflag/Black_Flag_logo.jpg` | 250x250 | sim | Logotipo 250x250; o arquivo traz a assinatura de um gerador de miniaturas (gd-jpeg), o que indica cópia de um site | Logo é marca registrada. Trocar por capa de disco. (Também é pequena: 250x250.) |
+| MÉDIO | bulletbane | foto da banda | `bulletbane/bulletBane.jpg` | 400x400 | sim | Origem desconhecida, 400x400; sem crédito no nome nem nos metadados | Confirmar a origem; se não souber, pedir foto oficial à banda. (Também é pequena: 400x400.) |
+| MÉDIO | CharlieBrownJunior | foto da banda | `CharlieBrownJunior/CHARLIE.jpg` | 600x600 | sim | Origem desconhecida, 600x600; sem crédito no nome nem nos metadados | Confirmar a origem; se não souber, pedir foto oficial à banda. |
+| MÉDIO | deadfish | foto da banda | `deadfish/deadfish.avif` | avif | sim | Origem desconhecida, avif; sem crédito no nome nem nos metadados | Confirmar a origem; se não souber, pedir foto oficial à banda. |
+| MÉDIO | fresno | foto da banda | `fresno/fresno.jpeg` | 404x495 | sim | Origem desconhecida, 404x495; sem crédito no nome nem nos metadados | Confirmar a origem; se não souber, pedir foto oficial à banda. (Também é pequena: 404x495.) |
+| MÉDIO | gloria | foto da banda | `gloria/gloria.jpg` | 1900x1900 | sim | Origem desconhecida, 1900x1900; sem crédito no nome nem nos metadados | Confirmar a origem; se não souber, pedir foto oficial à banda. |
+| MÉDIO | hateen | foto da banda | `hateen/hateen.jpeg` | 640x640 | sim | Origem desconhecida, 640x640; sem crédito no nome nem nos metadados | Confirmar a origem; se não souber, pedir foto oficial à banda. |
+| MÉDIO | rancore | foto da banda | `rancore/rancore-formacao-2024.webp` | 696x464 | sim | Foto da formação 2024, parece divulgação; sem crédito | Pedir à banda uma foto oficial. |
+| MÉDIO | scatolove | foto da banda | `scatolove/Capa-Estanho-scaled-e1793362719995.jpg` | 720x720 | não | É a capa do álbum Estanho; os metadados trazem crédito a uma pessoa (@luccamiranda) | É capa de disco (uso de identificação), mas há titular identificado: pedir autorização à banda e creditar. |
+| MÉDIO | venereVaiVenus | foto da banda | `venereVaiVenus/0e3491174ef0bb4e2fa05dd2d95657c4.avif` | avif | sim | Origem desconhecida, avif; sem crédito no nome nem nos metadados | Confirmar a origem; se não souber, pedir foto oficial à banda. |
+| BAIXO | Architects | capa de disco | `Architects/albuns/Architects_-_Lost_Forever_Lost_Together.jpg` | 316x315 | não | Capa de disco, sem crédito; origem provável: busca ou serviço de música | Capa mostrada para identificar o disco. Manter, ideal baixar do Cover Art Archive. |
+| BAIXO | Architects | capa de disco | `Architects/albuns/Daybreaker.jpg` | 317x315 | não | Capa de disco, sem crédito; origem provável: busca ou serviço de música | Capa mostrada para identificar o disco. Manter, ideal baixar do Cover Art Archive. |
+| BAIXO | badLuv | capa de disco | `badLuv/albuns/OmedoNaoMeParou.jpeg` | 555x553 | sim | Capa de disco, sem crédito; origem provável: busca ou serviço de música | Capa mostrada para identificar o disco. Manter, ideal baixar do Cover Art Archive. |
+| BAIXO | badLuv | capa de disco | `badLuv/albuns/nos.jpg` | 1900x1900 | sim | Capa de disco, sem crédito; origem provável: busca ou serviço de música | Capa mostrada para identificar o disco. Manter, ideal baixar do Cover Art Archive. |
+| BAIXO | badOmens | capa de disco | `badOmens/albuns/BadOmens.jpeg` | 447x447 | não | Capa de disco, sem crédito; origem provável: busca ou serviço de música | Capa mostrada para identificar o disco. Manter, ideal baixar do Cover Art Archive. |
+| BAIXO | badOmens | capa de disco | `badOmens/albuns/FindingGodBeforeGodFindsMe.jpeg` | 300x300 | não | Capa de disco, sem crédito; origem provável: busca ou serviço de música | Capa mostrada para identificar o disco. Manter, ideal baixar do Cover Art Archive. |
+| BAIXO | blink182 | capa de disco | `blink182/ALBUNS/Blink-182.jpeg` | 447x447 | não | Capa de disco, sem crédito; origem provável: busca ou serviço de música | Capa mostrada para identificar o disco. Manter, ideal baixar do Cover Art Archive. |
+| BAIXO | blink182 | capa de disco | `blink182/ALBUNS/DudeRanch.jpeg` | 447x447 | não | Capa de disco, sem crédito; origem provável: busca ou serviço de música | Capa mostrada para identificar o disco. Manter, ideal baixar do Cover Art Archive. |
+| BAIXO | blink182 | capa de disco | `blink182/ALBUNS/EnemaoftheState.jpeg` | 225x225 | não | Capa de disco, sem crédito; origem provável: busca ou serviço de música | Capa mostrada para identificar o disco. Manter, ideal baixar do Cover Art Archive. |
+| BAIXO | BulletForMyValentine | capa de disco | `BulletForMyValentine/album/SocialApocalypse.jpg` | 544x544 | não | Capa de disco, sem crédito; origem provável: busca ou serviço de música | Capa mostrada para identificar o disco. Manter, ideal baixar do Cover Art Archive. |
+| BAIXO | dayseeker | capa de disco | `dayseeker/album/WhatItMeanstoBeDefeated.jpeg` | 447x447 | não | Capa de disco, sem crédito; origem provável: busca ou serviço de música | Capa mostrada para identificar o disco. Manter, ideal baixar do Cover Art Archive. |
+| BAIXO | fakenumber | capa de disco | `fakenumber/album/ContraOTempo.jpeg` | 447x447 | não | Capa de disco, sem crédito; origem provável: busca ou serviço de música | Capa mostrada para identificar o disco. Manter, ideal baixar do Cover Art Archive. |
+| BAIXO | fitForAKing | capa de disco | `fitForAKing/albuns/CreationDestruction.jpeg` | 447x447 | não | Capa de disco, sem crédito; origem provável: busca ou serviço de música | Capa mostrada para identificar o disco. Manter, ideal baixar do Cover Art Archive. |
+| BAIXO | fitForAKing | capa de disco | `fitForAKing/albuns/DarkSkies.jpeg` | 447x447 | não | Capa de disco, sem crédito; origem provável: busca ou serviço de música | Capa mostrada para identificar o disco. Manter, ideal baixar do Cover Art Archive. |
+| BAIXO | linkinPark | capa de disco | `linkinPark/albuns/Reanimation.jpeg` | 447x447 | não | Capa de disco, sem crédito; origem provável: busca ou serviço de música | Capa mostrada para identificar o disco. Manter, ideal baixar do Cover Art Archive. |
+| BAIXO | linkinPark | capa de disco | `linkinPark/albuns/fromZero.jpeg` | 447x447 | não | Capa de disco, sem crédito; origem provável: busca ou serviço de música | Capa mostrada para identificar o disco. Manter, ideal baixar do Cover Art Archive. |
+| BAIXO | paramore | capa de disco | `paramore/albuns/AllWeKnowIsFalling.jpeg` | 400x400 | não | Capa de disco, sem crédito; origem provável: busca ou serviço de música | Capa mostrada para identificar o disco. Manter, ideal baixar do Cover Art Archive. |
+| BAIXO | paramore | capa de disco | `paramore/albuns/riot.jpeg` | 447x447 | não | Capa de disco, sem crédito; origem provável: busca ou serviço de música | Capa mostrada para identificar o disco. Manter, ideal baixar do Cover Art Archive. |
+| BAIXO | rolima | capa de disco | `rolima/albuns/piorqueeutavataodboaqueesqueciate.jpeg` | 640x640 | não | Capa de disco, sem crédito; origem provável: busca ou serviço de música | Capa mostrada para identificar o disco. Manter, ideal baixar do Cover Art Archive. |
+| BAIXO | SuicideSilence | capa de disco | `SuicideSilence/albuns/SuicideSilence.jpeg` | 447x447 | não | Capa de disco, sem crédito; origem provável: busca ou serviço de música | Capa mostrada para identificar o disco. Manter, ideal baixar do Cover Art Archive. |
+| BAIXO | SuicideSilence | capa de disco | `SuicideSilence/albuns/WakeUp.jpeg` | 316x316 | não | Capa de disco, sem crédito; origem provável: busca ou serviço de música | Capa mostrada para identificar o disco. Manter, ideal baixar do Cover Art Archive. |
+| BAIXO | SuicideSilence | capa de disco | `SuicideSilence/albuns/graceless.jpeg` | 447x447 | não | Capa de disco, sem crédito; origem provável: busca ou serviço de música | Capa mostrada para identificar o disco. Manter, ideal baixar do Cover Art Archive. |
+
+## Plano sugerido
+1. **Congelar:** não colocar no manifesto, nem rodar `images:seed` em produção, nenhuma imagem de risco **alto** que ainda não esteja nele.
+2. **Já publicadas de risco alto ou médio:** decidir caso a caso entre pedir autorização, trocar ou tirar do ar (ver coluna "No manifesto").
+3. **Bandas brasileiras:** mandar mensagem no Instagram pedindo uma foto oficial e a autorização de uso. É o caminho mais curto e mais limpo.
+4. **Bandas internacionais:** usar a capa de um disco como imagem do artista em vez de foto, ou a foto de imprensa que a própria banda publica.
+5. **Crédito:** guardar o nome do fotógrafo no manifesto e mostrá-lo na página da banda (ainda não implementado).
+6. **Capas de disco:** manter, com preferência por baixar do Cover Art Archive.
+

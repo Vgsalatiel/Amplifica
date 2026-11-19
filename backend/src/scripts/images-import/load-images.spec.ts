@@ -56,4 +56,46 @@ describe('prisma/data/images/band-images.json', () => {
       entries.length,
     );
   });
+
+  it('toda foto com crédito traz autor, licença e links https', () => {
+    for (const entry of manifest.data!.artists) {
+      if (entry.credit) {
+        expect(entry.credit.licenseUrl).toMatch(/^https:\/\//);
+        expect(entry.credit.sourceUrl).toMatch(/^https:\/\//);
+      }
+    }
+  });
+});
+
+describe('crédito no manifesto', () => {
+  const base = { slug: 'banda', file: 'banda/foto.jpg' };
+  const credit = {
+    author: 'Fulana de Tal',
+    license: 'CC BY 2.0',
+    licenseUrl: 'https://creativecommons.org/licenses/by/2.0',
+    sourceUrl: 'https://commons.wikimedia.org/wiki/File:Foto.jpg',
+  };
+  const parse = (entry: object) =>
+    imageManifestSchema.safeParse({ artists: [entry], releases: [] });
+
+  it('aceita o crédito completo e também a foto sem crédito', () => {
+    expect(parse({ ...base, credit }).success).toBe(true);
+    expect(parse(base).success).toBe(true);
+  });
+
+  it('recusa crédito sem autor ou com link que não é https', () => {
+    expect(parse({ ...base, credit: { ...credit, author: ' ' } }).success).toBe(
+      false,
+    );
+    expect(
+      parse({
+        ...base,
+        credit: { ...credit, sourceUrl: 'http://exemplo.com/x' },
+      }).success,
+    ).toBe(false);
+    expect(
+      parse({ ...base, credit: { ...credit, licenseUrl: 'javascript:alert(1)' } })
+        .success,
+    ).toBe(false);
+  });
 });

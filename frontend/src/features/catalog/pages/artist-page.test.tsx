@@ -130,4 +130,38 @@ describe('ArtistPage', () => {
     await screen.findByRole('heading', { level: 1 })
     expect(screen.queryByRole('heading', { name: 'Próximos shows' })).not.toBeInTheDocument()
   })
+  it('mostra o crédito quando a foto da banda tem licença livre, e não mostra sem ele', async () => {
+    endSession()
+    const image = { large: 'https://img.exemplo.test/a-lg.webp', small: 'https://img.exemplo.test/a-sm.webp' }
+    mockApi({
+      'GET /artists/com-credito': {
+        status: 200,
+        body: artistDetail({
+          image,
+          imageCredit: {
+            author: 'Diogo Rodrigues Gonçalves',
+            license: 'CC BY 2.0',
+            licenseUrl: 'https://creativecommons.org/licenses/by/2.0',
+            sourceUrl: 'https://commons.wikimedia.org/wiki/File:Forfun.jpg',
+          },
+        }),
+      },
+      'GET /artists/sem-credito': { status: 200, body: artistDetail({ image }) },
+    })
+    open('com-credito')
+    expect(await screen.findByText(/Foto: Diogo Rodrigues Gonçalves/)).toBeInTheDocument()
+  })
+
+  it('sem crédito, não mostra a linha de crédito (foto cadastrada pelo admin ou capa emprestada)', async () => {
+    endSession()
+    mockApi({
+      'GET /artists/sem-credito': {
+        status: 200,
+        body: artistDetail({ image: { large: 'https://img.exemplo.test/a-lg.webp', small: 'https://img.exemplo.test/a-sm.webp' } }),
+      },
+    })
+    open('sem-credito')
+    await screen.findByRole('heading', { level: 1, name: 'Bring Me the Horizon' })
+    expect(screen.queryByText(/Foto:/)).not.toBeInTheDocument()
+  })
 })
