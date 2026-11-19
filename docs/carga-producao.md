@@ -59,6 +59,7 @@ O script roda as migrations (pule com `--skip-migrate`), as bandas, as capas e, 
 | `--only a,b` | só estas bandas (nome do arquivo, sem `.json`) |
 | `--update a,b` ou `all` | bandas que já existem e devem ser atualizadas pelo arquivo |
 | `--skip-covers`, `--skip-images`, `--skip-migrate` | pula a etapa |
+| `--images-only` | só grava as fotos do manifesto (sem bandas nem migrations) |
 | `--clips` | também grava a playlist de clipes |
 | `--confirm-host HOST` | confirma sem perguntar (sem terminal) |
 
@@ -74,3 +75,14 @@ O script roda as migrations (pule com `--skip-migrate`), as bandas, as capas e, 
 ## Depois da carga
 
 Abra a página de uma banda com foto (Forfun, NX Zero) e confira a linha "Foto: autor, licença, via Wikimedia Commons".
+
+## Só as fotos
+
+Para publicar as fotos novas do manifesto (`band-images.json`) sem repetir a carga das bandas:
+
+```bash
+./scripts/carga-producao.sh --env-file ~/amplifica-prod.env --images-only --dry-run
+./scripts/carga-producao.sh --env-file ~/amplifica-prod.env --images-only
+```
+
+Isso exige as cinco `STORAGE_*` no arquivo e a pasta `frontend/img/bandasimgaens/` (com a subpasta `livres/`) neste computador. O que já tem foto em produção é mantido; a foto nova só entra em quem ainda não tem.

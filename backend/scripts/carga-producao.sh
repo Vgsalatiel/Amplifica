@@ -13,7 +13,7 @@ BACKEND_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "$BACKEND_DIR"
 
 ENV_FILE=""; DRY_RUN=0; SKIP_MIGRATE=0; SKIP_COVERS=0; SKIP_IMAGES=0; WITH_CLIPS=0
-SINCE=""; ONLY=""; CONFIRM_HOST=""
+SINCE=""; ONLY=""; CONFIRM_HOST=""; IMAGES_ONLY=0
 UPDATE_SLUGS="antipoetica,aurora-rules,becold"   # já existem em produção: o arquivo manda (--update)
 PROD_API="https://amplifica.onrender.com/api/v1"
 
@@ -25,6 +25,7 @@ Opções:
   --skip-migrate        não roda as migrations (o Render já roda a cada deploy)
   --skip-covers         não baixa capas do Cover Art Archive
   --skip-images         não grava as fotos do manifesto (band-images.json)
+  --images-only         só grava as fotos do manifesto (não mexe nas bandas nem roda migrations)
   --clips               também roda a carga da playlist de clipes
   --since REF           só os arquivos de bandas alterados desde o commit/tag REF
   --only a,b,c          só estas bandas (nomes dos arquivos, sem .json)
@@ -42,6 +43,7 @@ while [[ $# -gt 0 ]]; do
     --skip-migrate) SKIP_MIGRATE=1; shift ;;
     --skip-covers) SKIP_COVERS=1; shift ;;
     --skip-images) SKIP_IMAGES=1; shift ;;
+    --images-only) IMAGES_ONLY=1; shift ;;
     --clips) WITH_CLIPS=1; shift ;;
     --since) SINCE="${2:-}"; shift 2 ;;
     --only) ONLY="${2:-}"; shift 2 ;;
@@ -97,7 +99,10 @@ fi
 
 # ---- 2. Quais bandas ----------------------------------------------------------------------------
 declare -a FILES=()
-if [[ -n "$ONLY" ]]; then
+if [[ $IMAGES_ONLY -eq 1 ]]; then
+  SKIP_MIGRATE=1; SKIP_IMAGES=0
+  [[ $HAVE_STORAGE -eq 1 ]] || die "--images-only exige as cinco variáveis STORAGE_* no arquivo."
+elif [[ -n "$ONLY" ]]; then
   IFS=',' read -ra names <<<"$ONLY"
   for n in "${names[@]}"; do
     [[ -f "prisma/data/$n.json" ]] || die "não existe prisma/data/$n.json"
@@ -110,18 +115,18 @@ elif [[ -n "$SINCE" ]]; then
 else
   while IFS= read -r f; do FILES+=("$f"); done < <(ls prisma/data/*.json | sort)
 fi
-[[ ${#FILES[@]} -gt 0 ]] || die "nenhum arquivo de banda para carregar."
+[[ $IMAGES_ONLY -eq 1 || ${#FILES[@]} -gt 0 ]] || die "nenhum arquivo de banda para carregar."
 
 TS="$(date +%Y%m%d-%H%M%S)"; LOG="${TMPDIR:-/tmp}/carga-producao-$TS.log"
 
 echo "=== Carga em PRODUÇÃO ==="
 echo "Banco (host): $PROD_HOST"
-echo "Bandas: ${#FILES[@]} arquivos | atualizar pelo arquivo: ${UPDATE_SLUGS:-nenhuma}"
+if [[ $IMAGES_ONLY -eq 1 ]]; then echo "Modo: só as fotos do manifesto (bandas e migrations ficam de fora)"; else echo "Bandas: ${#FILES[@]} arquivos | atualizar pelo arquivo: ${UPDATE_SLUGS:-nenhuma}"; fi
 echo "Migrations: $([[ $SKIP_MIGRATE -eq 1 ]] && echo não || echo sim) | Capas: $([[ $SKIP_COVERS -eq 1 ]] && echo não || echo sim) | Fotos do manifesto: $([[ $SKIP_IMAGES -eq 1 ]] && echo não || echo sim) | Clipes: $([[ $WITH_CLIPS -eq 1 ]] && echo sim || echo não)"
 echo "Registro: $LOG"
 if [[ $DRY_RUN -eq 1 ]]; then
-  echo; echo "[dry-run] Nada foi executado. Arquivos que seriam carregados:"
-  printf '  %s\n' "${FILES[@]}"
+  echo; echo "[dry-run] Nada foi executado."
+  [[ $IMAGES_ONLY -eq 1 ]] || { echo "Arquivos que seriam carregados:"; printf '  %s\n' "${FILES[@]}"; }
   exit 0
 fi
 
@@ -150,7 +155,8 @@ fi
 # ---- 5. Bandas ----------------------------------------------------------------------------------
 IFS=',' read -ra upd <<<"$UPDATE_SLUGS"
 i=0
-for f in "${FILES[@]}"; do
+for f in "${FILES[@]:-}"; do
+  [[ -n "$f" ]] || continue
   i=$((i+1)); slug="$(basename "$f" .json)"; flags=()
   [[ $SKIP_COVERS -eq 0 ]] && flags+=(--covers)
   for u in "${upd[@]}"; do [[ "$u" == "$slug" || "$u" == "all" ]] && { flags+=(--update); break; }; done

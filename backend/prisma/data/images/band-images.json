@@ -119,6 +119,686 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Day_Limns_2023.png"
       }
+    },
+    {
+      "slug": "a-day-to-remember",
+      "file": "livres/a-day-to-remember.jpg",
+      "credit": {
+        "author": "Edaen",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peace_and_Love_A_Day_to_Remember_1.JPG"
+      }
+    },
+    {
+      "slug": "all-that-remains",
+      "file": "livres/all-that-remains.jpg",
+      "credit": {
+        "author": "Victoria Morse (Flickr: torichelbyphoto)",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:All_That_Remains_Drumer.jpg"
+      }
+    },
+    {
+      "slug": "all-time-low",
+      "file": "livres/all-time-low.jpg",
+      "credit": {
+        "author": "viewmorepics (MySpace)",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:AlexAllTimeLow.jpg"
+      }
+    },
+    {
+      "slug": "architects",
+      "file": "livres/architects.jpg",
+      "credit": {
+        "author": "Yonolatengo",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Architects_-_Bogot%C3%A1_2012.jpg"
+      }
+    },
+    {
+      "slug": "as-i-lay-dying",
+      "file": "livres/as-i-lay-dying.jpg",
+      "credit": {
+        "author": "Y'some",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:As_I_Lay_Dying_-_Wacken_Open_Air_2011.jpg"
+      }
+    },
+    {
+      "slug": "asking-alexandria",
+      "file": "livres/asking-alexandria.jpg",
+      "credit": {
+        "author": "Maria Nayef from Australia",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Asking_Alexandria_at_Soundwave_2014.jpg"
+      }
+    },
+    {
+      "slug": "atreyu",
+      "file": "livres/atreyu.jpg",
+      "credit": {
+        "author": "Adam Reed",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:ATREYU_ORLANDO-54.jpg"
+      }
+    },
+    {
+      "slug": "august-burns-red",
+      "file": "livres/august-burns-red.jpg",
+      "credit": {
+        "author": "Fearlesscontent",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:August_Burns_Red_-_Main_Press_Photo_2017.jpg"
+      }
+    },
+    {
+      "slug": "aversions-crown",
+      "file": "livres/aversions-crown.jpg",
+      "credit": {
+        "author": "S. Bollmann",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aversions_Crown_Summer_Breeze_Open_Air_2017_03.jpg"
+      }
+    },
+    {
+      "slug": "bad-omens",
+      "file": "livres/bad-omens.jpg",
+      "credit": {
+        "author": "Will Fisher",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bad_Omens_2018.jpg"
+      }
+    },
+    {
+      "slug": "barao-vermelho",
+      "file": "livres/barao-vermelho.jpg",
+      "credit": {
+        "author": "amigosdaarte",
+        "license": "Domínio público",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:2022-11-06_Bar%C3%A3o_Vermelho_na_Virada_SP_em_S%C3%A3o_Jos%C3%A9_dos_Campos_02.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2022-11-06_Bar%C3%A3o_Vermelho_na_Virada_SP_em_S%C3%A3o_Jos%C3%A9_dos_Campos_02.jpg"
+      }
+    },
+    {
+      "slug": "bleed-from-within",
+      "file": "livres/bleed-from-within.jpg",
+      "credit": {
+        "author": "Nenea hartia",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:01.Bleed_from_Within_-_Rockstadt_2019.jpg"
+      }
+    },
+    {
+      "slug": "bowling-for-soup",
+      "file": "livres/bowling-for-soup.jpg",
+      "credit": {
+        "author": "Hayden Schiff from Cincinnati, USA",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:BftA_Bowling_for_Soup_20220710_012626139_(52215117193).jpg"
+      }
+    },
+    {
+      "slug": "braid",
+      "file": "livres/braid.jpg",
+      "credit": {
+        "author": "Roniius",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Braid_performing_2024.jpg"
+      }
+    },
+    {
+      "slug": "brand-new",
+      "file": "livres/brand-new.jpg",
+      "credit": {
+        "author": "negotiable_me",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brandnew1.jpg"
+      }
+    },
+    {
+      "slug": "bullet-for-my-valentine",
+      "file": "livres/bullet-for-my-valentine.jpg",
+      "credit": {
+        "author": "Dark Apostrophe",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bullet_for_my_Valentine-Live-Norway_Rock_2010.jpg"
+      }
+    },
+    {
+      "slug": "caliban",
+      "file": "livres/caliban.jpg",
+      "credit": {
+        "author": "Markus Felix",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:20150425_Oberhausen_Impericon_Festival_-_Andreas_D%C3%B6rner_of_Caliban_0077.jpg"
+      }
+    },
+    {
+      "slug": "carnifex",
+      "file": "livres/carnifex.jpg",
+      "credit": {
+        "author": "S. Bollmann",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carnifex_With_Full_Force_2014_08.JPG"
+      }
+    },
+    {
+      "slug": "converge",
+      "file": "livres/converge.jpg",
+      "credit": {
+        "author": "Rama",
+        "license": "CC BY-SA 2.0 fr",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Converge_f3737471.jpg"
+      }
+    },
+    {
+      "slug": "dag-nasty",
+      "file": "livres/dag-nasty.jpg",
+      "credit": {
+        "author": "Montecruz Foto",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dag_Nasty.jpg"
+      }
+    },
+    {
+      "slug": "dayseeker",
+      "file": "livres/dayseeker.jpg",
+      "credit": {
+        "author": "Jprocko",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dayseeker_Concert_Photo.jpg"
+      }
+    },
+    {
+      "slug": "erra",
+      "file": "livres/erra.jpg",
+      "credit": {
+        "author": "Jax 0677",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Erra.jpg"
+      }
+    },
+    {
+      "slug": "fake-number",
+      "file": "livres/fake-number.jpg",
+      "credit": {
+        "author": "Alexandre Cardoso",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fake_Number1.jpg"
+      }
+    },
+    {
+      "slug": "fall-out-boy",
+      "file": "livres/fall-out-boy.jpg",
+      "credit": {
+        "author": "Fernando Loz",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fall_out_Boy_Monumentour.jpg"
+      }
+    },
+    {
+      "slug": "fit-for-a-king",
+      "file": "livres/fit-for-a-king.jpg",
+      "credit": {
+        "author": "Markus Felix",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:20151127_Oberhausen_Impericon_Never_Say_DIE_Fit_For_A_King_0017.jpg"
+      }
+    },
+    {
+      "slug": "fit-for-an-autopsy",
+      "file": "livres/fit-for-an-autopsy.jpg",
+      "credit": {
+        "author": "Birgit Fostervold",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Joe_Bad_Fit_For_An_Autopsy_Tons_of_Rock_2025-108.jpg"
+      }
+    },
+    {
+      "slug": "free-throw",
+      "file": "livres/free-throw.jpg",
+      "credit": {
+        "author": "ThaesOfereode",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Free_Throw_at_the_Black_Cat_(2025).jpg"
+      }
+    },
+    {
+      "slug": "fugazi",
+      "file": "livres/fugazi.jpg",
+      "credit": {
+        "author": "Tim Trentham from Austin, USA",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fugazi.jpg"
+      }
+    },
+    {
+      "slug": "good-charlotte",
+      "file": "livres/good-charlotte.jpg",
+      "credit": {
+        "author": "Alfred Nitsch",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2017_Nova_Rock_Good_Charlotte_(cropped).jpg"
+      }
+    },
+    {
+      "slug": "hot-mulligan",
+      "file": "livres/hot-mulligan.jpg",
+      "credit": {
+        "author": "Daltonfaulder",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hot_mulligan_2.jpg"
+      }
+    },
+    {
+      "slug": "humanity-s-last-breath",
+      "file": "livres/humanity-s-last-breath.jpg",
+      "credit": {
+        "author": "Grywnn",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Humanity's_Last_Breath_%40_Complexity_Fest_03.jpg"
+      }
+    },
+    {
+      "slug": "i-prevail",
+      "file": "livres/i-prevail.jpg",
+      "credit": {
+        "author": "Fearlesscontent",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:I_Prevail_(band).jpg"
+      }
+    },
+    {
+      "slug": "in-this-moment",
+      "file": "livres/in-this-moment.jpg",
+      "credit": {
+        "author": "LUIS BLANCO",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:In_This_Moment_009.jpg"
+      }
+    },
+    {
+      "slug": "jimmy-eat-world",
+      "file": "livres/jimmy-eat-world.jpg",
+      "credit": {
+        "author": "Mr. Rossi",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jimmy_Eat_World_-_Southside_Festival_2022_-_IMG_5404_-_1.jpg"
+      }
+    },
+    {
+      "slug": "job-for-a-cowboy",
+      "file": "livres/job-for-a-cowboy.jpg",
+      "credit": {
+        "author": "The original uploader was Hervegirod at English Wikipedia.",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Job_For_A_Cowboy.jpg"
+      }
+    },
+    {
+      "slug": "joyce-manor",
+      "file": "livres/joyce-manor.jpg",
+      "credit": {
+        "author": "Frank Schwichtenberg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Joyce_Manor_%E2%80%93_Pirate_Satellite_Festival_Hamburg_2015_01.jpg"
+      }
+    },
+    {
+      "slug": "killswitch-engage",
+      "file": "livres/killswitch-engage.jpg",
+      "credit": {
+        "author": "Michal Lenc",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Killswitch_Engage_%E2%80%93_Prague_2018.jpg"
+      }
+    },
+    {
+      "slug": "landmvrks",
+      "file": "livres/landmvrks.jpg",
+      "credit": {
+        "author": "Birgit Fostervold",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:K%C3%A9vin_D'Agostino_Landmvrks_Tons_of_Rock_2025-0020.jpg"
+      }
+    },
+    {
+      "slug": "la-dispute",
+      "file": "livres/la-dispute.jpg",
+      "credit": {
+        "author": "IllaZilla",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:La_Dispute_2011-11-11_01.JPG"
+      }
+    },
+    {
+      "slug": "linkin-park",
+      "file": "livres/linkin-park.jpg",
+      "credit": {
+        "author": "Jakub Janecki",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Linkin_Park_20150825_007.jpg"
+      }
+    },
+    {
+      "slug": "lorna-shore",
+      "file": "livres/lorna-shore.jpg",
+      "credit": {
+        "author": "Dennis Radaelli",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lorna_Shore_live_at_Dissonance_Festival,_Padua_-_August_17th,_2022.jpg"
+      }
+    },
+    {
+      "slug": "motionless-in-white",
+      "file": "livres/motionless-in-white.jpg",
+      "credit": {
+        "author": "Ringerfan23",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Motionless_in_White_2016.jpg"
+      }
+    },
+    {
+      "slug": "northlane",
+      "file": "livres/northlane.jpg",
+      "credit": {
+        "author": "Beneath thecanopy",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Northlane_2019_gen_use_lores.jpg"
+      }
+    },
+    {
+      "slug": "origami-angel",
+      "file": "livres/origami-angel.jpg",
+      "credit": {
+        "author": "SWinxy",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Origami_Angel_at_Webster_Hall.jpg"
+      }
+    },
+    {
+      "slug": "os-paralamas-do-sucesso",
+      "file": "livres/os-paralamas-do-sucesso.png",
+      "credit": {
+        "author": "Cult 22",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Os_Paralamas_do_Sucesso_em_2013.png"
+      }
+    },
+    {
+      "slug": "panic-at-the-disco",
+      "file": "livres/panic-at-the-disco.jpg",
+      "credit": {
+        "author": "jenniferlinneaphotography from Denver, CO, USA",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panic!_At_the_Disco_(43285362654).jpg"
+      }
+    },
+    {
+      "slug": "paramore",
+      "file": "livres/paramore.jpg",
+      "credit": {
+        "author": "Andy L",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paramore_in_Vancouver.jpg"
+      }
+    },
+    {
+      "slug": "ramones",
+      "file": "livres/ramones.jpg",
+      "credit": {
+        "author": "Plismo",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ramones_Toronto_1976.jpg"
+      }
+    },
+    {
+      "slug": "silverstein",
+      "file": "livres/silverstein.jpg",
+      "credit": {
+        "author": "Achim Raschka",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2014-06-05_Vainsteam_Silverstein_Josh_Bradford_01.jpg"
+      }
+    },
+    {
+      "slug": "sleep-token",
+      "file": "livres/sleep-token.jpg",
+      "credit": {
+        "author": "Wünderbrot",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:20231007_sleep_token.jpg"
+      }
+    },
+    {
+      "slug": "spiritbox",
+      "file": "livres/spiritbox.jpg",
+      "credit": {
+        "author": "Foto: Andreas Lawen, Fotandi",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spiritbox_-_Rock_am_Ring_2022-5232.jpg"
+      }
+    },
+    {
+      "slug": "suicide-silence",
+      "file": "livres/suicide-silence.jpg",
+      "credit": {
+        "author": "Arne Müseler",
+        "license": "CC BY-SA 3.0 de",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Suicide_silence_2015_1.jpg"
+      }
+    },
+    {
+      "slug": "sum-41",
+      "file": "livres/sum-41.jpg",
+      "credit": {
+        "author": "ManoSolo13241324",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sum_41_2024_1.jpg"
+      }
+    },
+    {
+      "slug": "sunny-day-real-estate",
+      "file": "livres/sunny-day-real-estate.jpg",
+      "credit": {
+        "author": "Incase Designs",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:SunnyDayRealEstate2009.jpg"
+      }
+    },
+    {
+      "slug": "the-devil-wears-prada",
+      "file": "livres/the-devil-wears-prada.jpg",
+      "credit": {
+        "author": "digboston",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Devil_Wears_Prada_VANS_Warped_Tour,_7.13.11.jpg"
+      }
+    },
+    {
+      "slug": "the-get-up-kids",
+      "file": "livres/the-get-up-kids.jpg",
+      "credit": {
+        "author": "Conman33",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Get_Up_Kids,_2021_at_Lemonade_Park.jpg"
+      }
+    },
+    {
+      "slug": "the-offspring",
+      "file": "livres/the-offspring.jpg",
+      "credit": {
+        "author": "wonker",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Offspring_London09.jpg"
+      }
+    },
+    {
+      "slug": "the-plot-in-you",
+      "file": "livres/the-plot-in-you.jpg",
+      "credit": {
+        "author": "Derrick Austinson Photog from Scottsdale, AZ, USA",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Plot_In_You_(7019757337).jpg"
+      }
+    },
+    {
+      "slug": "the-story-so-far",
+      "file": "livres/the-story-so-far.jpg",
+      "credit": {
+        "author": "Krd",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Olgas_Rock_2015_The_Story_So_Far_02.jpg"
+      }
+    },
+    {
+      "slug": "thursday",
+      "file": "livres/thursday.jpg",
+      "credit": {
+        "author": "Nelson Pavlosky",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thursday.jpg"
+      }
+    },
+    {
+      "slug": "tigers-jaw",
+      "file": "livres/tigers-jaw.jpg",
+      "credit": {
+        "author": "Essellgee",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tigers_Jaw_at_The_Owl_Sanctuary,_Norwich,_UK_-_19th_August_2015.jpg"
+      }
+    },
+    {
+      "slug": "titas",
+      "file": "livres/titas.jpg",
+      "credit": {
+        "author": "Fronteira",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tit%C3%A3s_em_Porto_Alegre,_turn%C3%AA_Tit%C3%A3s_Encontro,_estacionamento_FIERGS,_maio_de_2023_(2).jpg"
+      }
+    },
+    {
+      "slug": "trivium",
+      "file": "livres/trivium.jpg",
+      "credit": {
+        "author": "Watt_Dabney",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trivium_live_2008.jpg"
+      }
+    },
+    {
+      "slug": "unwound",
+      "file": "livres/unwound.png",
+      "credit": {
+        "author": "Will Bonniker",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Unwound_NYC.png"
+      }
+    },
+    {
+      "slug": "upon-a-burning-body",
+      "file": "livres/upon-a-burning-body.jpg",
+      "credit": {
+        "author": "Jax 0677",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Upon_A_Burning_Body_Mayhemfest_2014.jpg"
+      }
+    },
+    {
+      "slug": "while-she-sleeps",
+      "file": "livres/while-she-sleeps.jpg",
+      "credit": {
+        "author": "Sebastian Hansen",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:S%C3%A4nger_Lawrence_Taylor_der_Metalband_While_She_Sleeps_im_Palladium_K%C3%B6ln.jpg"
+      }
+    },
+    {
+      "slug": "yellowcard",
+      "file": "livres/yellowcard.jpg",
+      "credit": {
+        "author": "IllaZilla",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yellowcard_2012-06-27_02.JPG"
+      }
+    },
+    {
+      "slug": "blink-182",
+      "file": "livres/blink-182.jpg",
+      "credit": {
+        "author": "IllaZilla",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blink-182_2015-03-22_02.JPG"
+      }
     }
   ],
   "releases": [
