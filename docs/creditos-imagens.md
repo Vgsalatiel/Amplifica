@@ -113,3 +113,13 @@ Estas 10 bandas tinham foto de origem desconhecida ou de fotógrafo/gravadora, s
 | Venere Vai Vênus | Felipe Morota | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Venere Vai Venus 2026.png](https://commons.wikimedia.org/wiki/File:Venere_Vai_Venus_2026.png) | `venereVaiVenus/0e3491174ef0bb4e2fa05dd2d95657c4.avif` |
 
 A foto do Rancore é do Commons com o rótulo "Rancore." (de uma fotógrafa de São Paulo, com link do fotolog da banda): confirme com quem conhece a banda. A do Venere Vai Vênus tem só 545×618.
+
+
+## Poppy e Jinjer (19/11/2026)
+
+Fotos do Wikimedia Commons, em até 1280 px, vistas antes de entrar. Poppy: foto de 2023 no palco (alternativa não usada: retrato de divulgação `POPPY PRESS PHOTO.jpg`, Universal Music Group, CC BY-SA 4.0). Jinjer: foto de divulgação da banda.
+
+| Banda | Autor | Licença | Original |
+|---|---|---|---|
+| Poppy | DiegoVigueras | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Poppy 2023.jpg](https://commons.wikimedia.org/wiki/File:Poppy_2023.jpg) |
+| Jinjer | Doornroosje.nl | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Jinjer-1-1920x1080.jpg](https://commons.wikimedia.org/wiki/File:Jinjer-1-1920x1080.jpg) |

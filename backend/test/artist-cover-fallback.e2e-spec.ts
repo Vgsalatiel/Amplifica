@@ -76,6 +76,16 @@ describe('Banda sem foto usa a capa de um disco (e2e)', () => {
       imagePath: 'e2e-capa/foto-propria',
       releases: [{ type: 'ALBUM', year: 2024, cover: 'e2e-capa/album-da-propria' }],
     });
+    await band('fotosemcapa', {
+      imagePath: 'e2e-capa/foto-sem-capa',
+      releases: [{ type: 'ALBUM', year: 2024, cover: null }],
+    });
+    await band('futuro', {
+      releases: [
+        { type: 'ALBUM', year: 2020, cover: 'e2e-capa/album-ja-lancado' },
+        { type: 'ALBUM', year: 2999, cover: 'e2e-capa/album-que-nao-saiu' },
+      ],
+    });
     await band('participacao', {
       featuredOnly: true,
       releases: [{ type: 'ALBUM', year: 2024, cover: 'e2e-capa/de-outra-banda' }],
@@ -99,10 +109,21 @@ describe('Banda sem foto usa a capa de um disco (e2e)', () => {
     expect(artist.image?.large).toContain('e2e-capa/so-single');
   });
 
-  it('a foto cadastrada sempre ganha da capa', async () => {
+  it('na lista, a capa do último álbum vence a foto cadastrada', async () => {
     const artist = await bySlug('propria');
+    expect(artist.imageFromRelease).toBe(true);
+    expect(artist.image?.large).toContain('e2e-capa/album-da-propria');
+  });
+
+  it('na lista, a foto só aparece se a banda não tem nenhum disco com capa', async () => {
+    const artist = await bySlug('fotosemcapa');
     expect(artist.imageFromRelease).toBe(false);
-    expect(artist.image?.large).toContain('e2e-capa/foto-propria');
+    expect(artist.image?.large).toContain('e2e-capa/foto-sem-capa');
+  });
+
+  it('disco com data no futuro ainda não saiu e não vira a imagem da banda', async () => {
+    const artist = await bySlug('futuro');
+    expect(artist.image?.large).toContain('e2e-capa/album-ja-lancado');
   });
 
   it('se nenhum disco tem capa, continua sem imagem', async () => {
@@ -117,7 +138,7 @@ describe('Banda sem foto usa a capa de um disco (e2e)', () => {
     expect(artist.imageFromRelease).toBe(false);
   });
 
-  it('a página da banda segue a mesma regra', async () => {
+  it('a página da banda mantém a foto cadastrada e usa a capa só quando não há foto', async () => {
     const mix = (await request(server()).get(`${API}/e2e-capa-mix`).expect(200)).body;
     expect(mix.imageFromRelease).toBe(true);
     expect(mix.image.large).toContain('e2e-capa/album-novo');

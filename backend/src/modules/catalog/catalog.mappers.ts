@@ -140,15 +140,24 @@ const COVER_RANK: Record<ReleaseType, number> = {
   SINGLE: 4,
 };
 
+/**
+ * A capa do disco que representa a banda: álbum antes de EP, EP antes de single, o mais recente de
+ * cada tipo. Com `asOf`, discos que ainda não saíram (data no futuro) não contam.
+ */
 export function pickFallbackCover(
   releases: Array<{
     coverPath: string | null;
     type: ReleaseType;
     releaseDate: Date;
   }>,
+  asOf?: Date,
 ): string | null {
   const sorted = releases
-    .filter((release) => release.coverPath)
+    .filter(
+      (release) =>
+        release.coverPath &&
+        (!asOf || release.releaseDate.getTime() <= asOf.getTime()),
+    )
     .sort(
       (a, b) =>
         COVER_RANK[a.type] - COVER_RANK[b.type] ||
@@ -158,16 +167,20 @@ export function pickFallbackCover(
 }
 
 /**
- * `fallbackCoverPath` é a capa de um disco da banda (veja `pickFallbackCover`): vale só quando a
- * banda não tem foto própria. A foto cadastrada sempre ganha.
+ * `coverPath` é a capa de um disco da banda (veja `pickFallbackCover`). Em `photo` (padrão, página da
+ * banda e admin), a foto cadastrada ganha e a capa só entra se não houver foto. Em `cover` (listas e
+ * cards), a capa do último álbum ganha e a foto só aparece se a banda não tiver nenhum disco com capa.
  */
 export function toArtistSummary(
   artist: ArtistWithGenres,
   toImageSet: ToImageSet,
-  fallbackCoverPath: string | null = null,
+  coverPath: string | null = null,
+  prefer: 'photo' | 'cover' = 'photo',
 ): ArtistSummary {
   const own = toImageSet(artist.imagePath);
-  const image = own ?? toImageSet(fallbackCoverPath);
+  const cover = toImageSet(coverPath);
+  const image = prefer === 'cover' ? (cover ?? own) : (own ?? cover);
+  const fromRelease = prefer === 'cover' ? cover !== null : own === null && image !== null;
   return {
     id: artist.id,
     name: artist.name,
@@ -175,7 +188,7 @@ export function toArtistSummary(
     type: artist.type,
     country: artist.country,
     image,
-    imageFromRelease: own === null && image !== null,
+    imageFromRelease: fromRelease,
     genres: artist.genres.map(({ genre }) => ({
       id: genre.id,
       name: genre.name,
@@ -220,7 +233,11 @@ export function toArtistDetail(
     ),
   );
   return {
-    ...toArtistSummary(artist, toImageSet, pickFallbackCover(ownReleases)),
+    ...toArtistSummary(
+      artist,
+      toImageSet,
+      pickFallbackCover(ownReleases, new Date()),
+    ),
     imageCredit: artist.imagePath ? parseImageCredit(artist.imageCredit) : null,
     bio: artist.bio,
     sources: parseSources(artist.sources),

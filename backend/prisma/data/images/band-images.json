@@ -863,6 +863,26 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bring_Me_The_Horizon_Tons_of_Rock_2026.jpg"
       }
+    },
+    {
+      "slug": "poppy",
+      "file": "livres/poppy.jpg",
+      "credit": {
+        "author": "DiegoVigueras",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Poppy_2023.jpg"
+      }
+    },
+    {
+      "slug": "jinjer",
+      "file": "livres/jinjer.jpg",
+      "credit": {
+        "author": "Doornroosje.nl",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jinjer-1-1920x1080.jpg"
+      }
     }
   ],
   "releases": [

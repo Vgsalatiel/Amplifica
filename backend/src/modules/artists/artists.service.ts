@@ -88,16 +88,16 @@ export class ArtistsService {
       this.prisma.artist.count({ where }),
     ]);
 
-    // Banda sem foto mostra a capa de um disco dela.
-    const covers = await this.fallbackCovers(
-      artists.filter((artist) => !artist.imagePath).map((artist) => artist.id),
-    );
+    // Nas listas, cada banda aparece com a capa do último álbum lançado; a foto fica para a página
+    // da banda e só aparece aqui se a banda não tiver nenhum disco com capa.
+    const covers = await this.latestCovers(artists.map((artist) => artist.id));
     return paginate(
       artists.map((artist) =>
         toArtistSummary(
           artist,
           this.toImageSet,
           covers.get(artist.id) ?? null,
+          'cover',
         ),
       ),
       total,
@@ -105,8 +105,8 @@ export class ArtistsService {
     );
   }
 
-  /** Para cada banda da lista, o caminho da capa que serve de foto quando ela não tem uma. */
-  private async fallbackCovers(
+  /** Para cada banda da lista, o caminho da capa do disco mais recente já lançado (álbum antes de EP e single). */
+  private async latestCovers(
     artistIds: string[],
   ): Promise<Map<string, string>> {
     const covers = new Map<string, string>();
@@ -114,8 +114,14 @@ export class ArtistsService {
       return covers;
     }
     const own = { artistId: { in: artistIds }, role: 'PRIMARY' as const };
+    const now = new Date();
     const releases = await this.prisma.release.findMany({
-      where: { coverPath: { not: null }, artists: { some: own } },
+      // Disco com data no futuro ainda não saiu: não vira a imagem da banda.
+      where: {
+        coverPath: { not: null },
+        releaseDate: { lte: now },
+        artists: { some: own },
+      },
       select: {
         coverPath: true,
         type: true,
@@ -130,7 +136,7 @@ export class ArtistsService {
       }
     }
     for (const [artistId, list] of byArtist) {
-      const path = pickFallbackCover(list);
+      const path = pickFallbackCover(list, now);
       if (path) {
         covers.set(artistId, path);
       }
