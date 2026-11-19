@@ -1,0 +1,139 @@
+{
+  "generatedAt": "2026-11-19T00:00:00.000Z",
+  "source": "YouTube Music (página pública da banda)",
+  "artist": {
+    "mbid": null,
+    "name": "The Paradox",
+    "slug": "the-paradox",
+    "type": "BAND",
+    "country": null,
+    "city": null,
+    "formedYear": null,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "YouTube Music",
+        "url": "https://music.youtube.com/@Theparadoxband"
+      }
+    ],
+    "genres": [
+      "pop-punk",
+      "alternative-rock"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "NSFW",
+      "type": "EP",
+      "releaseDate": "2025",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Get The Message",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 163000
+        },
+        {
+          "title": "Do It Again",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 149000
+        },
+        {
+          "title": "Leave My Room",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 144000
+        },
+        {
+          "title": "Bender (part. Travis Barker)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 171000
+        },
+        {
+          "title": "No Strings Attached",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 140000
+        },
+        {
+          "title": "Do Me Like That",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 212000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Proceed With Caution",
+      "type": "EP",
+      "releaseDate": "2026",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "I Kinda Like That",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 160000
+        },
+        {
+          "title": "Living Hell",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 154000
+        },
+        {
+          "title": "That’s Not Fair",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 174000
+        },
+        {
+          "title": "Good For Me",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 175000
+        },
+        {
+          "title": "Stoner Mentality",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 171000
+        },
+        {
+          "title": "It’s Over",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 160000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Society",
+      "type": "SINGLE",
+      "releaseDate": "2025",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Society",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 244000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

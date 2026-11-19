@@ -1,0 +1,184 @@
+{
+  "generatedAt": "2026-11-19T00:00:00.000Z",
+  "source": "YouTube Music (página pública da banda)",
+  "artist": {
+    "mbid": null,
+    "name": "Taken By Tides",
+    "slug": "taken-by-tides",
+    "type": "BAND",
+    "country": null,
+    "city": null,
+    "formedYear": null,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "YouTube Music",
+        "url": "https://music.youtube.com/channel/UCGPFqKBCfrVWYLgNWkCmgLQ"
+      }
+    ],
+    "genres": [
+      "post-hardcore",
+      "metalcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Ghost Vibrations",
+      "type": "ALBUM",
+      "releaseDate": "2025",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "I Let You",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 198000
+        },
+        {
+          "title": "Me For A Minute",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 219000
+        },
+        {
+          "title": "Back To Hell",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 176000
+        },
+        {
+          "title": "A Thousand Lives",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 198000
+        },
+        {
+          "title": "Think About",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 173000
+        },
+        {
+          "title": "Ghost Vibrations",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 188000
+        },
+        {
+          "title": "One By One",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 175000
+        },
+        {
+          "title": "Say To Me",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 154000
+        },
+        {
+          "title": "Goodbye",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 214000
+        },
+        {
+          "title": "Edge of The Earth",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 216000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Time",
+      "type": "SINGLE",
+      "releaseDate": "2023",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Time",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 253000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "It Ends With You",
+      "type": "SINGLE",
+      "releaseDate": "2024",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "It Ends With You",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 163000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "The Darkest Places",
+      "type": "SINGLE",
+      "releaseDate": "2024",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "The Darkest Places",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 195000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "2 Years",
+      "type": "SINGLE",
+      "releaseDate": "2024",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "2 Years",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 204000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Death of The Old Me",
+      "type": "SINGLE",
+      "releaseDate": "2024",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Death of The Old Me",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 153000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

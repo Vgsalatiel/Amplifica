@@ -1,0 +1,116 @@
+{
+  "generatedAt": "2026-11-19T00:00:00.000Z",
+  "source": "YouTube Music (página pública da banda)",
+  "artist": {
+    "mbid": null,
+    "name": "Fervence",
+    "slug": "fervence",
+    "type": "BAND",
+    "country": null,
+    "city": null,
+    "formedYear": null,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "YouTube Music",
+        "url": "https://music.youtube.com/@FERVENCE"
+      }
+    ],
+    "genres": [
+      "metal",
+      "metalcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Ghost",
+      "type": "ALBUM",
+      "releaseDate": "2020",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Beneath the Sleeping Earth",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 299000
+        },
+        {
+          "title": "Corrosion",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 254000
+        },
+        {
+          "title": "The Silent Wall",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 98000
+        },
+        {
+          "title": "Surrogate",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 309000
+        },
+        {
+          "title": "Paxism",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 221000
+        },
+        {
+          "title": "Ghost",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 264000
+        },
+        {
+          "title": "The Endless Black I Find",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 281000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Realm // One",
+      "type": "EP",
+      "releaseDate": "2024",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Hezekiah / Realm One",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 430000
+        },
+        {
+          "title": "Entropy",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 290000
+        },
+        {
+          "title": "The Keepers",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 210000
+        },
+        {
+          "title": "The Age of Aquarius",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 228000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

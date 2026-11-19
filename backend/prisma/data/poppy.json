@@ -1,0 +1,883 @@
+{
+  "generatedAt": "2026-11-19T00:00:00.000Z",
+  "source": "YouTube Music (página pública da banda)",
+  "artist": {
+    "mbid": null,
+    "name": "Poppy",
+    "slug": "poppy",
+    "type": "BAND",
+    "country": "US",
+    "city": null,
+    "formedYear": null,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "YouTube Music",
+        "url": "https://music.youtube.com/@poppy"
+      }
+    ],
+    "genres": [
+      "metal",
+      "alternative-rock"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Poppy.Computer",
+      "type": "ALBUM",
+      "releaseDate": "2017",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "I'm Poppy",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 187000
+        },
+        {
+          "title": "Let's Make A Video",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 172000
+        },
+        {
+          "title": "Bleach Blonde Baby",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 210000
+        },
+        {
+          "title": "My Microphone",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 172000
+        },
+        {
+          "title": "Moshi Moshi",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 222000
+        },
+        {
+          "title": "Computer Boy",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 172000
+        },
+        {
+          "title": "My Style (part. Charlotte)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 158000
+        },
+        {
+          "title": "Fuzzy",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 171000
+        },
+        {
+          "title": "Interweb",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 230000
+        },
+        {
+          "title": "Software Upgrade",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 207000
+        },
+        {
+          "title": "Pop Music",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 166000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Am I A Girl?",
+      "type": "ALBUM",
+      "releaseDate": "2018",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "In A Minute",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 174000
+        },
+        {
+          "title": "Fashion After All",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 204000
+        },
+        {
+          "title": "Iconic",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 173000
+        },
+        {
+          "title": "Chic Chick",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 175000
+        },
+        {
+          "title": "Interlude 1",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 48000
+        },
+        {
+          "title": "Time Is Up (part. Diplo)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 210000
+        },
+        {
+          "title": "Aristocrat (part. Garibay)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 202000
+        },
+        {
+          "title": "Hard Feelings",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 220000
+        },
+        {
+          "title": "Girls In Bikinis",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 146000
+        },
+        {
+          "title": "The Rapture Ball",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 181000
+        },
+        {
+          "title": "Interlude 2",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 67000
+        },
+        {
+          "title": "Am I A Girl?",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 218000
+        },
+        {
+          "title": "Play Destroy (part. Grimes)",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 186000
+        },
+        {
+          "title": "X",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 175000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "I Disagree",
+      "type": "ALBUM",
+      "releaseDate": "2020",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Concrete",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 201000
+        },
+        {
+          "title": "I Disagree",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 194000
+        },
+        {
+          "title": "BLOODMONEY",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 183000
+        },
+        {
+          "title": "Anything Like Me",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 200000
+        },
+        {
+          "title": "Fill The Crown",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 213000
+        },
+        {
+          "title": "Nothing I Need",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 170000
+        },
+        {
+          "title": "Sit / Stay",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 235000
+        },
+        {
+          "title": "Bite Your Teeth",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 163000
+        },
+        {
+          "title": "Sick of the Sun",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 192000
+        },
+        {
+          "title": "Don't Go Outside",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 372000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "I Disagree (more)",
+      "type": "ALBUM",
+      "releaseDate": "2020",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Concrete",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 201000
+        },
+        {
+          "title": "I Disagree",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 194000
+        },
+        {
+          "title": "BLOODMONEY",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 183000
+        },
+        {
+          "title": "Anything Like Me",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 200000
+        },
+        {
+          "title": "Fill The Crown",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 213000
+        },
+        {
+          "title": "Nothing I Need",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 170000
+        },
+        {
+          "title": "Sit / Stay",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 235000
+        },
+        {
+          "title": "Bite Your Teeth",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 163000
+        },
+        {
+          "title": "Sick of the Sun",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 192000
+        },
+        {
+          "title": "Don't Go Outside",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 372000
+        },
+        {
+          "title": "If It Bleeds",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 162000
+        },
+        {
+          "title": "Bleep Bloop",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 119000
+        },
+        {
+          "title": "Khaos x4",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 178000
+        },
+        {
+          "title": "Don't Ask",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 170000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Music To Scream To",
+      "type": "ALBUM",
+      "releaseDate": "2020",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Scream",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 55000
+        },
+        {
+          "title": "Screamm",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 514000
+        },
+        {
+          "title": "Screammm (part. GASM)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 267000
+        },
+        {
+          "title": "Screammmm",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 373000
+        },
+        {
+          "title": "Screammmmm",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 373000
+        },
+        {
+          "title": "Screammmmmm",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 455000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "I C U (Music to Read To)",
+      "type": "ALBUM",
+      "releaseDate": "2020",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Circulate",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 181000
+        },
+        {
+          "title": "Centralize",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 237000
+        },
+        {
+          "title": "Astriction",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 187000
+        },
+        {
+          "title": "Thermometer",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 222000
+        },
+        {
+          "title": "The Factory",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 159000
+        },
+        {
+          "title": "Make It Happen",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 244000
+        },
+        {
+          "title": "Vehement",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 154000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Flux",
+      "type": "ALBUM",
+      "releaseDate": "2021",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Flux",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 301000
+        },
+        {
+          "title": "Lessen The Damage",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 142000
+        },
+        {
+          "title": "So Mean",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 177000
+        },
+        {
+          "title": "On The Level",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 206000
+        },
+        {
+          "title": "Hysteria",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 261000
+        },
+        {
+          "title": "Her",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 129000
+        },
+        {
+          "title": "Bloom",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 231000
+        },
+        {
+          "title": "As Strange As It Seems",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 246000
+        },
+        {
+          "title": "Never Find My Place",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 241000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Zig",
+      "type": "ALBUM",
+      "releaseDate": "2023",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Church Outfit",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 115000
+        },
+        {
+          "title": "Knockoff",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 185000
+        },
+        {
+          "title": "Hard",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 147000
+        },
+        {
+          "title": "What It Becomes",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 219000
+        },
+        {
+          "title": "Flicker",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 143000
+        },
+        {
+          "title": "1s + 0s",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 197000
+        },
+        {
+          "title": "Zig",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 149000
+        },
+        {
+          "title": "Linger",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 197000
+        },
+        {
+          "title": "The Attic",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 205000
+        },
+        {
+          "title": "Motorbike",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 147000
+        },
+        {
+          "title": "Prove It",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 136000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Negative Spaces",
+      "type": "ALBUM",
+      "releaseDate": "2024",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "have you had enough?",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 219000
+        },
+        {
+          "title": "the cost of giving up",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 198000
+        },
+        {
+          "title": "they’re all around us",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 205000
+        },
+        {
+          "title": "yesterday",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 48000
+        },
+        {
+          "title": "crystallized",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 187000
+        },
+        {
+          "title": "vital",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 201000
+        },
+        {
+          "title": "push go",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 213000
+        },
+        {
+          "title": "nothing",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 185000
+        },
+        {
+          "title": "the center’s falling out",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 146000
+        },
+        {
+          "title": "hey there",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 89000
+        },
+        {
+          "title": "negative spaces",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 176000
+        },
+        {
+          "title": "surviving on defiance",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 209000
+        },
+        {
+          "title": "new way out",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 203000
+        },
+        {
+          "title": "tomorrow",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 52000
+        },
+        {
+          "title": "halo",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 222000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Empty Hands",
+      "type": "ALBUM",
+      "releaseDate": "2026",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Public Domain",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 241000
+        },
+        {
+          "title": "Bruised Sky",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 221000
+        },
+        {
+          "title": "Guardian",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 195000
+        },
+        {
+          "title": "Constantly Nowhere",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 29000
+        },
+        {
+          "title": "Unravel",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 176000
+        },
+        {
+          "title": "Dying To Forget",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 214000
+        },
+        {
+          "title": "Time Will Tell",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 208000
+        },
+        {
+          "title": "Eat The Hate",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 111000
+        },
+        {
+          "title": "The Wait",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 227000
+        },
+        {
+          "title": "If We're Following The Light",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 247000
+        },
+        {
+          "title": "Blink",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 45000
+        },
+        {
+          "title": "Ribs",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 220000
+        },
+        {
+          "title": "Empty Hands",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 190000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Taste (triple j Like A Version)",
+      "type": "SINGLE",
+      "releaseDate": "2024",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Taste (triple j Like A Version)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 145000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "End of You (com Amy Lee e Courtney LaPlante)",
+      "type": "SINGLE",
+      "releaseDate": "2025",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "End of You",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 193000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "from me to u (com BABYMETAL)",
+      "type": "SINGLE",
+      "releaseDate": "2025",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "from me to u",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 205000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "In Death We've Just Begun (Marathon Soundtrack, com Son Lux)",
+      "type": "SINGLE",
+      "releaseDate": "2026",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "In Death We've Just Begun (from \"Marathon\" Soundtrack)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 205000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Hand In My Pocket (Mile End Kicks)",
+      "type": "SINGLE",
+      "releaseDate": "2026",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Hand In My Pocket ('Mile End Kicks' - Music Inspired by the Motion Picture)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 226000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}
