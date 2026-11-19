@@ -1,0 +1,964 @@
+{
+  "generatedAt": "2026-11-18T20:28:40.222Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+    "name": "The Devil Wears Prada",
+    "slug": "the-devil-wears-prada",
+    "type": "BAND",
+    "country": "US",
+    "city": "Dayton",
+    "formedYear": 2005,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/43c0958c-27ef-46c4-b4cc-83cfca54170d"
+      }
+    ],
+    "genres": [
+      "metalcore",
+      "post-hardcore",
+      "metal"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "a0fa0030-8e81-327e-bc8f-373a92cf6fac",
+      "releaseMbid": "f70b5fab-c9ba-4efa-b0ac-26134764f0e4",
+      "title": "Patterns of a Horizon",
+      "type": "EP",
+      "releaseDate": "2005",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a0fa0030-8e81-327e-bc8f-373a92cf6fac/front-1200",
+      "tracks": [
+        {
+          "title": "I - The Ascent",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 58000
+        },
+        {
+          "title": "The Gauntlet of Solitude",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 164000
+        },
+        {
+          "title": "And the Sentence Trails Off…",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 247000
+        },
+        {
+          "title": "Rosemary Had an Accident",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 312000
+        },
+        {
+          "title": "II - Redemption",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 28000
+        },
+        {
+          "title": "Swords Dragons and Diet Coke",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 247000
+        },
+        {
+          "title": "Who Speaks Spanish? Colon Quesadilla",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 235000
+        },
+        {
+          "title": "Modeify the Prenunciation",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 268000
+        },
+        {
+          "title": "III - Salvation",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 141000
+        }
+      ]
+    },
+    {
+      "mbid": "c06e15aa-8d60-3f60-a3e6-24a6e2c76c2f",
+      "releaseMbid": "0a5b8c2f-aa95-4059-b93e-5beab6ced529",
+      "title": "Dear Love: A Beautiful Discord",
+      "type": "ALBUM",
+      "releaseDate": "2006-06-04",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c06e15aa-8d60-3f60-a3e6-24a6e2c76c2f/front-1200",
+      "tracks": [
+        {
+          "title": "The Ascent",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 69000
+        },
+        {
+          "title": "Gauntlet of Solitude",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 161000
+        },
+        {
+          "title": "Dogs Can Grow Beards All Over",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 209000
+        },
+        {
+          "title": "And the Sentence Trails Off…",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 253000
+        },
+        {
+          "title": "Rosemary Had an Accident",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 309000
+        },
+        {
+          "title": "Redemption",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 51000
+        },
+        {
+          "title": "Swords, Dragons, and Diet Coke",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 246000
+        },
+        {
+          "title": "Who Speaks Spanish, Colon Quesadilla",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 238000
+        },
+        {
+          "title": "Texas Is South",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 368000
+        },
+        {
+          "title": "Modify the Pronunciation",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 275000
+        },
+        {
+          "title": "Salvation",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 216000
+        }
+      ]
+    },
+    {
+      "mbid": "9379a1f3-3097-3f3d-98d5-f556d4a3547b",
+      "releaseMbid": "3805f31e-e6e1-4794-9747-63e5bf9ca7c8",
+      "title": "Plagues",
+      "type": "ALBUM",
+      "releaseDate": "2007-08-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/9379a1f3-3097-3f3d-98d5-f556d4a3547b/front-1200",
+      "tracks": [
+        {
+          "title": "Goats on a Boat",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 262000
+        },
+        {
+          "title": "Number Three, Never Forget",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 221000
+        },
+        {
+          "title": "HTML Rulez d00d",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 235000
+        },
+        {
+          "title": "Hey John, What’s Your Name Again?",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 226000
+        },
+        {
+          "title": "Don’t Dink and Drance",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 179000
+        },
+        {
+          "title": "You Can’t Spell “Crap” Without “C”",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 210000
+        },
+        {
+          "title": "This Song Is Called",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 265000
+        },
+        {
+          "title": "Reptar, King of the Ozone",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 189000
+        },
+        {
+          "title": "The Scorpion Deathlock",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 230000
+        },
+        {
+          "title": "Nickels Is Money Too",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 247000
+        }
+      ]
+    },
+    {
+      "mbid": "e1be956e-1c40-3d71-9206-309adeebc72b",
+      "releaseMbid": "7b4cb7a6-9d1f-414f-9e26-22e6b4954fa9",
+      "title": "With Roots Above and Branches Below",
+      "type": "ALBUM",
+      "releaseDate": "2009-05-04",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/e1be956e-1c40-3d71-9206-309adeebc72b/front-1200",
+      "tracks": [
+        {
+          "title": "Sassafras",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 195907
+        },
+        {
+          "title": "I Hate Buffering",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 185413
+        },
+        {
+          "title": "Assistant to the Regional Manager",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 217253
+        },
+        {
+          "title": "Dez Moines",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 243600
+        },
+        {
+          "title": "Big Wiggly Style",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 253213
+        },
+        {
+          "title": "Danger: Wildman",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 241440
+        },
+        {
+          "title": "Ben Has a Kid",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 237187
+        },
+        {
+          "title": "Wapakalypse",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 223813
+        },
+        {
+          "title": "Gimme Half",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 261773
+        },
+        {
+          "title": "Louder Than Thunder",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 157493
+        },
+        {
+          "title": "Lord Xenu",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 205667
+        }
+      ]
+    },
+    {
+      "mbid": "b343957a-b633-44f1-a2c1-5189ad44f82e",
+      "releaseMbid": "6449b1bd-810f-403f-a443-fd1a7d56dda9",
+      "title": "Zombie EP",
+      "type": "EP",
+      "releaseDate": "2010-08-23",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b343957a-b633-44f1-a2c1-5189ad44f82e/front-1200",
+      "tracks": [
+        {
+          "title": "Escape",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 285080
+        },
+        {
+          "title": "Anatomy",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 226880
+        },
+        {
+          "title": "Outnumbered",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 294213
+        },
+        {
+          "title": "Revive",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 293667
+        },
+        {
+          "title": "Survivor",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 272160
+        }
+      ]
+    },
+    {
+      "mbid": "67163c39-d49f-4f20-a999-4058394c898c",
+      "releaseMbid": "8681990a-902e-4163-a216-bd2b13ccc594",
+      "title": "Dead Throne",
+      "type": "ALBUM",
+      "releaseDate": "2011-09-13",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/67163c39-d49f-4f20-a999-4058394c898c/front-1200",
+      "tracks": [
+        {
+          "title": "Dead Throne",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 165293
+        },
+        {
+          "title": "Untidaled",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 175013
+        },
+        {
+          "title": "Mammoth",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 163053
+        },
+        {
+          "title": "Vengeance",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 181573
+        },
+        {
+          "title": "R.I.T.",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 169413
+        },
+        {
+          "title": "My Questions",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 192360
+        },
+        {
+          "title": "Kansas",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 216640
+        },
+        {
+          "title": "Born to Lose",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 184773
+        },
+        {
+          "title": "Forever Decay",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 204733
+        },
+        {
+          "title": "Chicago",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 164640
+        },
+        {
+          "title": "Constance",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 199160
+        },
+        {
+          "title": "Pretenders",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 208520
+        },
+        {
+          "title": "Holdfast",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 228960
+        }
+      ]
+    },
+    {
+      "mbid": "898c563e-fc48-4b7f-b58a-e63fd10eb953",
+      "releaseMbid": "70bf91f6-6404-443e-9fd4-083ab090a421",
+      "title": "8:18",
+      "type": "ALBUM",
+      "releaseDate": "2013-09-11",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/898c563e-fc48-4b7f-b58a-e63fd10eb953/front-1200",
+      "tracks": [
+        {
+          "title": "Gloom",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 225503
+        },
+        {
+          "title": "Rumors",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 182611
+        },
+        {
+          "title": "First Sight",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 214630
+        },
+        {
+          "title": "War",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 182916
+        },
+        {
+          "title": "8:18",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 133276
+        },
+        {
+          "title": "Sailor’s Prayer",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 232771
+        },
+        {
+          "title": "Care More",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 194990
+        },
+        {
+          "title": "Martyrs",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 208018
+        },
+        {
+          "title": "Black & Blue",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 228067
+        },
+        {
+          "title": "Transgress",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 215572
+        },
+        {
+          "title": "Number Eleven",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 195442
+        },
+        {
+          "title": "Home for Grave",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 204992
+        },
+        {
+          "title": "In Heart",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 207044
+        }
+      ]
+    },
+    {
+      "mbid": "bb4ee44a-1be7-4e3e-a660-7d0f51d5b46a",
+      "releaseMbid": "9972293d-d539-47cb-a79a-f2834f4bc888",
+      "title": "Space EP",
+      "type": "EP",
+      "releaseDate": "2015-08-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/bb4ee44a-1be7-4e3e-a660-7d0f51d5b46a/front-1200",
+      "tracks": [
+        {
+          "title": "Planet A",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 259000
+        },
+        {
+          "title": "Alien",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 161000
+        },
+        {
+          "title": "Moongod",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 228000
+        },
+        {
+          "title": "Celestial Mechanics",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 89000
+        },
+        {
+          "title": "Supernova",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 170000
+        },
+        {
+          "title": "Asteroid",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 265000
+        }
+      ]
+    },
+    {
+      "mbid": "a5d3f1e1-9e28-457d-b1a8-8c2c7b5ac6f1",
+      "releaseMbid": "1ada916e-bb62-48ea-a462-c56cdb4a2fe0",
+      "title": "Transit Blues",
+      "type": "ALBUM",
+      "releaseDate": "2016-10-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a5d3f1e1-9e28-457d-b1a8-8c2c7b5ac6f1/front-1200",
+      "tracks": [
+        {
+          "title": "Praise Poison",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 154000
+        },
+        {
+          "title": "Daughter",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 148000
+        },
+        {
+          "title": "Worldwide",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 208000
+        },
+        {
+          "title": "Lock & Load",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 199000
+        },
+        {
+          "title": "Flyover States",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 204000
+        },
+        {
+          "title": "Detroit Tapes",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 132000
+        },
+        {
+          "title": "The Condition",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 240000
+        },
+        {
+          "title": "To the Key of Evergreen",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 307000
+        },
+        {
+          "title": "Submersion",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 253000
+        },
+        {
+          "title": "Home for Grave, Pt. II",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 243000
+        },
+        {
+          "title": "Transit Blues",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 204000
+        }
+      ]
+    },
+    {
+      "mbid": "d448aa49-3ed6-4c7f-8e8d-02dd6ff1bd6f",
+      "releaseMbid": "5b2d948c-5fa5-40cc-b29c-25753d3b0c6d",
+      "title": "The Act",
+      "type": "ALBUM",
+      "releaseDate": "2019-10-11",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d448aa49-3ed6-4c7f-8e8d-02dd6ff1bd6f/front-1200",
+      "tracks": [
+        {
+          "title": "Switchblade",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 173000
+        },
+        {
+          "title": "Lines of Your Hands",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 250000
+        },
+        {
+          "title": "Chemical",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 230000
+        },
+        {
+          "title": "Wave of Youth",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 231000
+        },
+        {
+          "title": "Please Say No",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 199000
+        },
+        {
+          "title": "The Thread",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 288000
+        },
+        {
+          "title": "Numb",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 261000
+        },
+        {
+          "title": "Isn't It Strange?",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 175000
+        },
+        {
+          "title": "Diamond Lost",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 212000
+        },
+        {
+          "title": "As Kids",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 221000
+        },
+        {
+          "title": "Even Though",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 245000
+        },
+        {
+          "title": "Spiderhead",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 210000
+        }
+      ]
+    },
+    {
+      "mbid": "2dae96a4-b9f1-4874-943b-1231c690e601",
+      "releaseMbid": "d27f43da-efbd-4986-9e4c-52b3ada239cc",
+      "title": "ZII",
+      "type": "EP",
+      "releaseDate": "2021-05-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/2dae96a4-b9f1-4874-943b-1231c690e601/front-1200",
+      "tracks": [
+        {
+          "title": "Nightfall",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 268000
+        },
+        {
+          "title": "Forlorn",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 240000
+        },
+        {
+          "title": "Termination",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 201000
+        },
+        {
+          "title": "Nora",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 235000
+        },
+        {
+          "title": "Contagion",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 294000
+        }
+      ]
+    },
+    {
+      "mbid": "48040d5b-04bc-4d2d-9253-1caa5995c856",
+      "releaseMbid": "3f32bf5d-7b7d-4104-8f6e-dbf7bf35d47f",
+      "title": "Color Decay",
+      "type": "ALBUM",
+      "releaseDate": "2022-09-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/48040d5b-04bc-4d2d-9253-1caa5995c856/front-1200",
+      "tracks": [
+        {
+          "title": "Exhibition",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 238000
+        },
+        {
+          "title": "Salt",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 207000
+        },
+        {
+          "title": "Watchtower",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 168000
+        },
+        {
+          "title": "Noise",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 222000
+        },
+        {
+          "title": "Broken",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 228000
+        },
+        {
+          "title": "Sacrifice",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 247000
+        },
+        {
+          "title": "Trapped",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 196000
+        },
+        {
+          "title": "Time",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 240000
+        },
+        {
+          "title": "Twenty‐Five",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 228000
+        },
+        {
+          "title": "Fire",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 216000
+        },
+        {
+          "title": "Hallucinate",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 213000
+        },
+        {
+          "title": "Cancer",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 263000
+        }
+      ]
+    },
+    {
+      "mbid": "708ace54-0eb6-4b50-a426-fbb1e9ea5df9",
+      "releaseMbid": "d4c924a7-1fa0-4460-9b1e-273922dd06db",
+      "title": "Flowers",
+      "type": "ALBUM",
+      "releaseDate": "2025-11-14",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/708ace54-0eb6-4b50-a426-fbb1e9ea5df9/front-1200",
+      "tracks": [
+        {
+          "title": "That Same Place",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 60120
+        },
+        {
+          "title": "Where the Flowers Never Grow",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 264217
+        },
+        {
+          "title": "Everybody Knows",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 199617
+        },
+        {
+          "title": "So Low",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 179083
+        },
+        {
+          "title": "For You",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 172760
+        },
+        {
+          "title": "All Out",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 201827
+        },
+        {
+          "title": "Ritual",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 223406
+        },
+        {
+          "title": "When You’re Gone",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 216647
+        },
+        {
+          "title": "The Sky Behind the Rain",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 66589
+        },
+        {
+          "title": "The Silence",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 174624
+        },
+        {
+          "title": "Eyes",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 247626
+        },
+        {
+          "title": "Cure Me",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 170765
+        },
+        {
+          "title": "Wave",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 168000
+        },
+        {
+          "title": "My Paradise",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 201300
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

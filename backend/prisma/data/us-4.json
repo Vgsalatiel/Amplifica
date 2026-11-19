@@ -1,0 +1,201 @@
+{
+  "generatedAt": "2026-11-19T11:50:12.601Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "924b846b-a066-4823-8cbc-359bcb13e097",
+    "name": "Us.4",
+    "slug": "us-4",
+    "type": "BAND",
+    "country": "BR",
+    "city": "Brazil",
+    "formedYear": 2000,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/924b846b-a066-4823-8cbc-359bcb13e097"
+      }
+    ],
+    "genres": [
+      "emo",
+      "alternative-rock",
+      "pop-punk"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "1db38a4d-168b-43ea-939e-2fb0f4cb6e4c",
+      "releaseMbid": "16605fb8-879a-4261-bd5a-af94417adfcc",
+      "title": "Us.4",
+      "type": "ALBUM",
+      "releaseDate": "2004-12-26",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Nem Sempre o Que Se Quer",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 241000
+        },
+        {
+          "title": "Tô Indo",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 182000
+        },
+        {
+          "title": "Dias de Trégua e Paz",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 178000
+        },
+        {
+          "title": "Tudo Vai Mudar",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 255000
+        },
+        {
+          "title": "Tudo Que Você Queria",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 222000
+        },
+        {
+          "title": "Pra Mofar",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 239000
+        },
+        {
+          "title": "Pé na Estrada",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 155000
+        },
+        {
+          "title": "Vou Ver o Mar",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 182000
+        },
+        {
+          "title": "Minha Fé",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 188000
+        },
+        {
+          "title": "Ninguém é de Ninguém",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 235000
+        },
+        {
+          "title": "Até Quando Esperar",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 360000
+        },
+        {
+          "title": "Que Porra é Essa",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 96000
+        }
+      ]
+    },
+    {
+      "mbid": "e20a1849-9a7c-42bc-bd04-77d5975f4468",
+      "releaseMbid": "ac43406b-e0bb-4aaa-9c44-71d53f5389ac",
+      "title": "Quatro",
+      "type": "ALBUM",
+      "releaseDate": "2018-08-17",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "U Hímen",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 234000
+        },
+        {
+          "title": "16",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 197000
+        },
+        {
+          "title": "Dizendo Não",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 210000
+        },
+        {
+          "title": "Gisele",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 206000
+        },
+        {
+          "title": "Pra Mofar",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 199000
+        },
+        {
+          "title": "Ilusão",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 293000
+        },
+        {
+          "title": "Vacilação",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 159000
+        },
+        {
+          "title": "Lágrimas de Solidão",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 295000
+        },
+        {
+          "title": "Tô Não",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 232000
+        },
+        {
+          "title": "Encoleirado",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 186000
+        },
+        {
+          "title": "Tchau Maridão",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 151000
+        },
+        {
+          "title": "Cabrita",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 197000
+        },
+        {
+          "title": "Velocidade",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 212000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

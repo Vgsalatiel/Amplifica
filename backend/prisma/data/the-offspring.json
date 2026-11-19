@@ -1,0 +1,1295 @@
+{
+  "generatedAt": "2026-11-19T11:32:33.021Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "23a03e33-a603-404e-bcbf-2c00159d7067",
+    "name": "The Offspring",
+    "slug": "the-offspring",
+    "type": "BAND",
+    "country": "US",
+    "city": "Huntington Beach",
+    "formedYear": 1984,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/23a03e33-a603-404e-bcbf-2c00159d7067"
+      }
+    ],
+    "genres": [
+      "pop-punk",
+      "punk-rock"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "9eb1feb7-393b-34f3-865e-5e3bdaf1186a",
+      "releaseMbid": "2af14d71-4333-494a-a981-7701897e3f1c",
+      "title": "The Offspring",
+      "type": "ALBUM",
+      "releaseDate": "1989-03",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/9eb1feb7-393b-34f3-865e-5e3bdaf1186a/front-1200",
+      "tracks": [
+        {
+          "title": "Jennifer Lost the War",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 155266
+        },
+        {
+          "title": "Elders",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 131066
+        },
+        {
+          "title": "Out on Patrol",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 152600
+        },
+        {
+          "title": "Crossroads",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 168600
+        },
+        {
+          "title": "Demons",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 190266
+        },
+        {
+          "title": "Beheaded",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 172093
+        },
+        {
+          "title": "Tehran",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 186666
+        },
+        {
+          "title": "A Thousand Days",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 131333
+        },
+        {
+          "title": "Blackball",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 204173
+        },
+        {
+          "title": "I’ll Be Waiting",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 192026
+        },
+        {
+          "title": "Kill the President",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 202200
+        }
+      ]
+    },
+    {
+      "mbid": "f0825101-dd40-307f-996b-0780fd637056",
+      "releaseMbid": "11804dcb-9aa5-420c-a2f1-dddfba12c0e3",
+      "title": "Baghdad",
+      "type": "EP",
+      "releaseDate": "1991",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f0825101-dd40-307f-996b-0780fd637056/front-1200",
+      "tracks": [
+        {
+          "title": "Get It Right",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 181000
+        },
+        {
+          "title": "Hey Joe",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 151000
+        },
+        {
+          "title": "Baghdad",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 191000
+        },
+        {
+          "title": "The Blurb",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 101000
+        }
+      ]
+    },
+    {
+      "mbid": "e590c4ed-ef06-4c58-ba2a-e02d199b6d41",
+      "releaseMbid": "fc9eaec8-2a6c-4e65-baaf-77bc01cddd69",
+      "title": "They Were Born To Kill",
+      "type": "EP",
+      "releaseDate": "1991",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/e590c4ed-ef06-4c58-ba2a-e02d199b6d41/front-1200",
+      "tracks": [
+        {
+          "title": "Jennifer Lost the War (demo)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 167000
+        },
+        {
+          "title": "Out on Patrol (demo)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 153000
+        }
+      ]
+    },
+    {
+      "mbid": "4ffb0057-6256-33c0-b71e-23b7f8403f12",
+      "releaseMbid": "da173a7b-ba7a-4958-86d4-70d229217cd9",
+      "title": "Ignition",
+      "type": "ALBUM",
+      "releaseDate": "1992-10-16",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Session",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 152466
+        },
+        {
+          "title": "We Are One",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 239933
+        },
+        {
+          "title": "Kick Him When He’s Down",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 196000
+        },
+        {
+          "title": "Take It Like a Man",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 175293
+        },
+        {
+          "title": "Get It Right",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 186173
+        },
+        {
+          "title": "Dirty Magic",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 228826
+        },
+        {
+          "title": "Hypodermic",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 201933
+        },
+        {
+          "title": "Burn It Up",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 162666
+        },
+        {
+          "title": "No Hero",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 202173
+        },
+        {
+          "title": "L.A.P.D.",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 165533
+        },
+        {
+          "title": "Nothing From Something",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 180360
+        },
+        {
+          "title": "Forever and a Day",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 156267
+        }
+      ]
+    },
+    {
+      "mbid": "a55a5a03-0c0e-311b-85df-ec52f841715c",
+      "releaseMbid": "24a4fb9d-4edd-465c-83ac-df4192a822de",
+      "title": "Smash",
+      "type": "ALBUM",
+      "releaseDate": "1994-03-22",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a55a5a03-0c0e-311b-85df-ec52f841715c/front-1200",
+      "tracks": [
+        {
+          "title": "Time to Relax",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 25466
+        },
+        {
+          "title": "Nitro (Youth Energy)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 146960
+        },
+        {
+          "title": "Bad Habit",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 223906
+        },
+        {
+          "title": "Gotta Get Away",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 232160
+        },
+        {
+          "title": "Genocide",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 213106
+        },
+        {
+          "title": "Something to Believe In",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 197600
+        },
+        {
+          "title": "Come Out and Play",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 197800
+        },
+        {
+          "title": "Self Esteem",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 257826
+        },
+        {
+          "title": "It’ll Be a Long Time",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 163266
+        },
+        {
+          "title": "Killboy Powerhead",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 122706
+        },
+        {
+          "title": "What Happened to You?",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 132133
+        },
+        {
+          "title": "So Alone",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 77266
+        },
+        {
+          "title": "Not the One",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 174360
+        },
+        {
+          "title": "Smash / Come Out and Play (acoustic reprise)",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 642200
+        }
+      ]
+    },
+    {
+      "mbid": "9a3365fc-ebfe-4b7c-8f08-0e229283ccc8",
+      "releaseMbid": "bf68c49c-0fc0-4889-9e34-eb37eeee5576",
+      "title": "Come Out and Play",
+      "type": "ALBUM",
+      "releaseDate": "1995",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/9a3365fc-ebfe-4b7c-8f08-0e229283ccc8/front-1200",
+      "tracks": [
+        {
+          "title": "Jennifer Lost the War",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 151000
+        },
+        {
+          "title": "Elders",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 130000
+        },
+        {
+          "title": "Out on Patrol",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 152000
+        },
+        {
+          "title": "Crossroads",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 166000
+        },
+        {
+          "title": "Demons",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 187000
+        },
+        {
+          "title": "Beheaded",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 156000
+        },
+        {
+          "title": "Tehran",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 186000
+        },
+        {
+          "title": "A Thousand Days",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 130000
+        },
+        {
+          "title": "Black Ball",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 203000
+        },
+        {
+          "title": "I’ll Be Waiting",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 186000
+        },
+        {
+          "title": "Kill the President",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 198000
+        },
+        {
+          "title": "Get It Right",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 188000
+        },
+        {
+          "title": "Hey Joe",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 156000
+        },
+        {
+          "title": "Baghdad",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 198000
+        },
+        {
+          "title": "The Blurb",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 108000
+        },
+        {
+          "title": "Take It Like a Man",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 182000
+        },
+        {
+          "title": "Come Out and Play",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 211000
+        },
+        {
+          "title": "Dirty Magic",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 216000
+        },
+        {
+          "title": "Kick Him When He’s Down",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 180000
+        },
+        {
+          "title": "So Alone",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 85000
+        },
+        {
+          "title": "It’ll Be a Long Time",
+          "discNumber": 1,
+          "position": 21,
+          "durationMs": 161000
+        },
+        {
+          "title": "What Happened to You",
+          "discNumber": 1,
+          "position": 22,
+          "durationMs": 140000
+        },
+        {
+          "title": "Smash It Up",
+          "discNumber": 1,
+          "position": 23,
+          "durationMs": 189000
+        },
+        {
+          "title": "Self Esteem",
+          "discNumber": 1,
+          "position": 24,
+          "durationMs": 240000
+        }
+      ]
+    },
+    {
+      "mbid": "d2439373-9264-3db9-bfb4-05fab52e44f8",
+      "releaseMbid": "c6eafce3-4ffe-4bdf-9359-76f3908784c3",
+      "title": "Club Me",
+      "type": "EP",
+      "releaseDate": "1997-01-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d2439373-9264-3db9-bfb4-05fab52e44f8/front-1200",
+      "tracks": [
+        {
+          "title": "I Got a Right",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 138666
+        },
+        {
+          "title": "D.U.I.",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 148200
+        },
+        {
+          "title": "Smash It Up",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 204134
+        }
+      ]
+    },
+    {
+      "mbid": "8ef7ac07-793a-3aab-b14a-45f0c1ec4a2b",
+      "releaseMbid": "0ba11e1e-a3f8-47fd-ac5e-6a391b273576",
+      "title": "Ixnay on the Hombre",
+      "type": "ALBUM",
+      "releaseDate": "1997-02-05",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/8ef7ac07-793a-3aab-b14a-45f0c1ec4a2b/front-1200",
+      "tracks": [
+        {
+          "title": "Disclaimer",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 45093
+        },
+        {
+          "title": "The Meaning of Life",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 176706
+        },
+        {
+          "title": "Mota",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 177226
+        },
+        {
+          "title": "Me & My Old Lady",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 273373
+        },
+        {
+          "title": "Cool to Hate",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 167893
+        },
+        {
+          "title": "Leave It Behind",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 118733
+        },
+        {
+          "title": "Gone Away",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 268840
+        },
+        {
+          "title": "I Choose",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 234493
+        },
+        {
+          "title": "Intermission",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 48533
+        },
+        {
+          "title": "All I Want",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 114773
+        },
+        {
+          "title": "Way Down the Line",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 156760
+        },
+        {
+          "title": "Don’t Pick It Up",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 113773
+        },
+        {
+          "title": "Amazed",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 265000
+        },
+        {
+          "title": "Change the World",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 383626
+        }
+      ]
+    },
+    {
+      "mbid": "89310cb9-e164-486a-8d71-2677fc3d7d90",
+      "releaseMbid": "3bdecd94-3534-411b-b94a-a0123c2fe90e",
+      "title": "A Piece of Americana",
+      "type": "EP",
+      "releaseDate": "1998",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/89310cb9-e164-486a-8d71-2677fc3d7d90/front-1200",
+      "tracks": [
+        {
+          "title": "The Kids Aren’t Alright",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 180000
+        },
+        {
+          "title": "Pretty Fly (for a White Guy)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 188000
+        },
+        {
+          "title": "She’s Got Issues",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 228000
+        },
+        {
+          "title": "Why Don’t You Get a Job?",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 172000
+        },
+        {
+          "title": "Feelings",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 172000
+        }
+      ]
+    },
+    {
+      "mbid": "fb43ac3a-8d28-3686-8653-bbf15a5e4389",
+      "releaseMbid": "2e5af9d2-f262-3f73-ab47-4884e945fa8e",
+      "title": "Americana",
+      "type": "ALBUM",
+      "releaseDate": "1998-11-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/fb43ac3a-8d28-3686-8653-bbf15a5e4389/front-1200",
+      "tracks": [
+        {
+          "title": "Welcome",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 9693
+        },
+        {
+          "title": "Have You Ever",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 236733
+        },
+        {
+          "title": "Staring at the Sun",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 133533
+        },
+        {
+          "title": "Pretty Fly (For a White Guy)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 188666
+        },
+        {
+          "title": "The Kids Aren't Alright",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 180200
+        },
+        {
+          "title": "Feelings",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 171973
+        },
+        {
+          "title": "She's Got Issues",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 228626
+        },
+        {
+          "title": "Walla Walla",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 177066
+        },
+        {
+          "title": "The End of the Line",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 182440
+        },
+        {
+          "title": "No Brakes",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 124066
+        },
+        {
+          "title": "Why Don't You Get a Job?",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 172426
+        },
+        {
+          "title": "Americana",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 195200
+        },
+        {
+          "title": "Pay the Man / Pretty Fly (reprise)",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 621280
+        }
+      ]
+    },
+    {
+      "mbid": "360965be-84da-3751-935e-8603fcd60049",
+      "releaseMbid": "0f940c21-06b3-4919-8f54-cfb7099bee7c",
+      "title": "Conspiracy of One",
+      "type": "ALBUM",
+      "releaseDate": "2000-11-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/360965be-84da-3751-935e-8603fcd60049/front-1200",
+      "tracks": [
+        {
+          "title": "Intro",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Come Out Swinging",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Original Prankster",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Want You Bad",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Million Miles Away",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Dammit, I Changed Again",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Living in Chaos",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Special Delivery",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "One Fine Day",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "All Along",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": null
+        },
+        {
+          "title": "Denial, Revisited",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": null
+        },
+        {
+          "title": "Vultures",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": null
+        },
+        {
+          "title": "Conspiracy of One",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "2302fb6c-540b-4d16-a82f-e55821a2f23c",
+      "releaseMbid": "a0ea963b-ea9b-4fac-a793-787738925dc7",
+      "title": "Splinter",
+      "type": "ALBUM",
+      "releaseDate": "2003-11-27",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/2302fb6c-540b-4d16-a82f-e55821a2f23c/front-1200",
+      "tracks": [
+        {
+          "title": "Neocon",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 66680
+        },
+        {
+          "title": "The Noose",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 198720
+        },
+        {
+          "title": "Long Way Home",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 143413
+        },
+        {
+          "title": "Hit That",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 169413
+        },
+        {
+          "title": "Race Against Myself",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 212173
+        },
+        {
+          "title": "(Can’t Get My) Head Around You",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 134760
+        },
+        {
+          "title": "The Worst Hangover Ever",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 178066
+        },
+        {
+          "title": "Never Gonna Find Me",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 158946
+        },
+        {
+          "title": "Lightning Rod",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 200440
+        },
+        {
+          "title": "Spare Me the Details",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 204240
+        },
+        {
+          "title": "Da Hui",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 102186
+        },
+        {
+          "title": "When You’re in Prison",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 153066
+        }
+      ]
+    },
+    {
+      "mbid": "7b09b423-ec8e-352e-836f-3798064b13d0",
+      "releaseMbid": "f0fa976d-0c67-4ef4-85be-b74b3f2a6927",
+      "title": "Rise and Fall, Rage and Grace",
+      "type": "ALBUM",
+      "releaseDate": "2008-06-11",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/7b09b423-ec8e-352e-836f-3798064b13d0/front-1200",
+      "tracks": [
+        {
+          "title": "Half-Truism",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 206000
+        },
+        {
+          "title": "Trust in You",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 189000
+        },
+        {
+          "title": "You’re Gonna Go Far, Kid",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 178000
+        },
+        {
+          "title": "Hammerhead",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 278000
+        },
+        {
+          "title": "A Lot Like Me",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 268000
+        },
+        {
+          "title": "Takes Me Nowhere",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 180000
+        },
+        {
+          "title": "Kristy, Are You Doing Okay?",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 223000
+        },
+        {
+          "title": "Nothingtown",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 209000
+        },
+        {
+          "title": "Stuff Is Messed Up",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 213000
+        },
+        {
+          "title": "Fix You",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 259000
+        },
+        {
+          "title": "Let’s Hear It for Rock Bottom",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 245000
+        },
+        {
+          "title": "Rise and Fall",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 181000
+        },
+        {
+          "title": "O.C. Life",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 174000
+        }
+      ]
+    },
+    {
+      "mbid": "d8d4660c-b1e1-4502-b587-f9275629ec83",
+      "releaseMbid": "2bc4e242-6bbd-4740-b5a0-f7a93736108b",
+      "title": "Days Go By",
+      "type": "ALBUM",
+      "releaseDate": "2012-06-25",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d8d4660c-b1e1-4502-b587-f9275629ec83/front-1200",
+      "tracks": [
+        {
+          "title": "The Future Is Now",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 248000
+        },
+        {
+          "title": "Secrets From The Underground",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 190000
+        },
+        {
+          "title": "Days Go By",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 242000
+        },
+        {
+          "title": "Turning Into You",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 222000
+        },
+        {
+          "title": "Hurting As One",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 170000
+        },
+        {
+          "title": "Cruising California (Bumpin' In My Trunk)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 211000
+        },
+        {
+          "title": "All I Have Left Is You",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 319000
+        },
+        {
+          "title": "OC Guns",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 248000
+        },
+        {
+          "title": "Dirty Magic",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 240000
+        },
+        {
+          "title": "I Wanna Secret Family (With You)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 182000
+        },
+        {
+          "title": "Dividing By Zero",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 142000
+        },
+        {
+          "title": "Slim Pickens Does The Right Thing And Rides The Bomb To Hell",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 156000
+        }
+      ]
+    },
+    {
+      "mbid": "e548068e-4104-4de6-96ed-3c85d8ca1e45",
+      "releaseMbid": "8a89f309-88bd-465c-9954-eba1682c043b",
+      "title": "Summer Nationals",
+      "type": "EP",
+      "releaseDate": "2014-08-05",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/e548068e-4104-4de6-96ed-3c85d8ca1e45/front-1200",
+      "tracks": [
+        {
+          "title": "Do What You Want",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 69000
+        },
+        {
+          "title": "No Control",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 107000
+        },
+        {
+          "title": "No Reason Why",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 163000
+        }
+      ]
+    },
+    {
+      "mbid": "ab061bbe-ca23-4dd2-af54-9acc3d05f323",
+      "releaseMbid": "b55f3c6e-c620-409e-a3c6-cf949f2de930",
+      "title": "Let the Bad Times Roll",
+      "type": "ALBUM",
+      "releaseDate": "2021-04-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ab061bbe-ca23-4dd2-af54-9acc3d05f323/front-1200",
+      "tracks": [
+        {
+          "title": "This Is Not Utopia",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 158333
+        },
+        {
+          "title": "Let the Bad Times Roll",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 198546
+        },
+        {
+          "title": "Behind Your Walls",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 201266
+        },
+        {
+          "title": "Army of One",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 191026
+        },
+        {
+          "title": "Breaking These Bones",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 166853
+        },
+        {
+          "title": "Coming for You",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 228586
+        },
+        {
+          "title": "We Never Have Sex Anymore",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 210786
+        },
+        {
+          "title": "In the Hall of the Mountain King",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 60093
+        },
+        {
+          "title": "The Opioid Diaries",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 181906
+        },
+        {
+          "title": "Hassan Chop",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 140800
+        },
+        {
+          "title": "Gone Away",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 196146
+        },
+        {
+          "title": "Lullaby",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 72946
+        }
+      ]
+    },
+    {
+      "mbid": "5c7cf7ab-7b2e-449b-8f73-d9ca0df83daf",
+      "releaseMbid": "3a097214-2fb2-4a9d-a696-11c629ea7abb",
+      "title": "SUPERCHARGED",
+      "type": "ALBUM",
+      "releaseDate": "2024-10-11",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/5c7cf7ab-7b2e-449b-8f73-d9ca0df83daf/front-1200",
+      "tracks": [
+        {
+          "title": "Looking Out For #1",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 196680
+        },
+        {
+          "title": "Light It Up",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 172506
+        },
+        {
+          "title": "The Fall Guy",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 154626
+        },
+        {
+          "title": "Make It All Right",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 214053
+        },
+        {
+          "title": "OK, but This Is the Last Time",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 203640
+        },
+        {
+          "title": "Truth in Fiction",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 120346
+        },
+        {
+          "title": "Come to Brazil",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 259626
+        },
+        {
+          "title": "Get Some",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 177186
+        },
+        {
+          "title": "Hanging by a Thread",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 206800
+        },
+        {
+          "title": "You Can't Get There From Here",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 234866
+        },
+        {
+          "title": "Gotta Get Away (live)",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": 226826
+        },
+        {
+          "title": "Genocide (live)",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": 248080
+        },
+        {
+          "title": "Gone Away (live)",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": 302933
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

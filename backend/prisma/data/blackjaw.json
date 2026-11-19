@@ -1,0 +1,217 @@
+{
+  "generatedAt": "2026-11-19T12:00:43.481Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "efcb9301-6db3-4e4b-bce3-dd7a706fa55a",
+    "name": "Blackjaw",
+    "slug": "blackjaw",
+    "type": "BAND",
+    "country": "BR",
+    "city": "Santos",
+    "formedYear": 2009,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/efcb9301-6db3-4e4b-bce3-dd7a706fa55a"
+      }
+    ],
+    "genres": [
+      "emo",
+      "hardcore",
+      "melodic-hardcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "8ff75667-ffdd-45cc-9e2c-6852c5af87e0",
+      "releaseMbid": "1ff8d95d-2593-482a-81ad-44a5dbb515d3",
+      "title": "Dancers Get All the Girls",
+      "type": "ALBUM",
+      "releaseDate": "2010-12-17",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/8ff75667-ffdd-45cc-9e2c-6852c5af87e0/front-1200",
+      "tracks": [
+        {
+          "title": "Keep Your Famous Friends",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 158000
+        },
+        {
+          "title": "Sell Your Body",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 148000
+        },
+        {
+          "title": "The Unfailling Can't Work This Time",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 225000
+        },
+        {
+          "title": "I'm the Devil in a Bottle, Baby",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 192000
+        },
+        {
+          "title": "Invincible Dreams",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 186000
+        }
+      ]
+    },
+    {
+      "mbid": "b84ac900-d878-41d1-99df-4c1eeab72b32",
+      "releaseMbid": "171e49d4-e4ad-489d-958b-64e54f315334",
+      "title": "This is Santos, Not SP.",
+      "type": "EP",
+      "releaseDate": "2012-11-30",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b84ac900-d878-41d1-99df-4c1eeab72b32/front-1200",
+      "tracks": [
+        {
+          "title": "Lions",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 203000
+        },
+        {
+          "title": "Swimming to Die",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 167000
+        },
+        {
+          "title": "Glamour Stole My Good Intentions",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 171000
+        }
+      ]
+    },
+    {
+      "mbid": "18f3d79f-fe23-4684-8677-3fcea0e2de7b",
+      "releaseMbid": "552710dd-b8a2-4ac8-9035-7b230497c6a7",
+      "title": "The Anchor Sleeps",
+      "type": "EP",
+      "releaseDate": "2013-12-28",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "New Priorities",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 167252
+        },
+        {
+          "title": "Lying in Cozy Graves",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 163652
+        },
+        {
+          "title": "Devastating Insecurity",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 168092
+        },
+        {
+          "title": "Values and Opinions Fall Apart When the Devil Whispers in Our Ears",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 175812
+        },
+        {
+          "title": "I Swear I Was",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 164506
+        }
+      ]
+    },
+    {
+      "mbid": "1ec975ed-d522-4d83-8136-faad2fdfa063",
+      "releaseMbid": "0fc5eff8-e48c-49df-b78b-1d6e354ac091",
+      "title": "Anticlimax",
+      "type": "ALBUM",
+      "releaseDate": "2017-04-24",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Reverie",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 140213
+        },
+        {
+          "title": "Time to Unlearn",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 117586
+        },
+        {
+          "title": "Only Happy When It Hurts",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 119466
+        },
+        {
+          "title": "Find a Name That Perfectly Fits",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 160320
+        },
+        {
+          "title": "Drowning",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 152680
+        },
+        {
+          "title": "Off the Track",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 182293
+        },
+        {
+          "title": "Sovereignty",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 120293
+        },
+        {
+          "title": "Fear the Dawn",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 163400
+        },
+        {
+          "title": "Distance",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 105973
+        },
+        {
+          "title": "Eclipse",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 134560
+        },
+        {
+          "title": "Ghosts",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 162526
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

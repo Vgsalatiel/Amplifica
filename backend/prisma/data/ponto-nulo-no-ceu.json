@@ -1,0 +1,247 @@
+{
+  "generatedAt": "2026-11-19T11:48:01.698Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "568f6b2c-c418-4006-8eb8-a2f0517fef8a",
+    "name": "Ponto Nulo No Céu",
+    "slug": "ponto-nulo-no-ceu",
+    "type": "BAND",
+    "country": "BR",
+    "city": null,
+    "formedYear": 2007,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/568f6b2c-c418-4006-8eb8-a2f0517fef8a"
+      }
+    ],
+    "genres": [
+      "metalcore",
+      "nu-metal"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "522d686b-71ce-4297-b289-4206c4a45dc5",
+      "releaseMbid": "089eb3f5-d010-4aa7-8250-6bf2a68b985f",
+      "title": "Ciclo Interminavel",
+      "type": "EP",
+      "releaseDate": "2008",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Retrógrado",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 53000
+        },
+        {
+          "title": "Fim Do Dia",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 256000
+        },
+        {
+          "title": "Peso Da Verdade",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 264000
+        },
+        {
+          "title": "O Sangue Que Te Cega",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 287000
+        },
+        {
+          "title": "Desconforme",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 282000
+        },
+        {
+          "title": "Constante",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 317000
+        }
+      ]
+    },
+    {
+      "mbid": "13cc2667-6921-4a74-bfc0-2da27b98d3c5",
+      "releaseMbid": "4a0a682e-d656-4260-aa9f-163aa6491433",
+      "title": "Brilho Cego",
+      "type": "ALBUM",
+      "releaseDate": "2011",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/13cc2667-6921-4a74-bfc0-2da27b98d3c5/front-1200",
+      "tracks": [
+        {
+          "title": "Brilho",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 106000
+        },
+        {
+          "title": "Existência Seca",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 247000
+        },
+        {
+          "title": "Nítido",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 224000
+        },
+        {
+          "title": "Clarão",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 308000
+        },
+        {
+          "title": "Ponto Nulo no Céu",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 269000
+        },
+        {
+          "title": "Penumbra",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 247000
+        },
+        {
+          "title": "Subsolo",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 250000
+        },
+        {
+          "title": "Sem Dor, Sem Vida",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 275000
+        },
+        {
+          "title": "5:45",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 173000
+        },
+        {
+          "title": "Peito Aberto",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 290000
+        },
+        {
+          "title": "Sopro",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 202000
+        },
+        {
+          "title": "Na Sombra do Ego",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 289000
+        },
+        {
+          "title": "(R)Evolução Mental",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 275000
+        }
+      ]
+    },
+    {
+      "mbid": "057256b6-9fa4-4cef-8d64-8a11a283091b",
+      "releaseMbid": "7033a4c4-74f1-4b8d-a62d-c992f28a5491",
+      "title": "Pintando Quadros do Invisível",
+      "type": "ALBUM",
+      "releaseDate": "2016",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/057256b6-9fa4-4cef-8d64-8a11a283091b/front-1200",
+      "tracks": [
+        {
+          "title": "Por Entre Os Dedos (part. DJ AN)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 225000
+        },
+        {
+          "title": "Horizontal",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 237000
+        },
+        {
+          "title": "Telas",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 282000
+        },
+        {
+          "title": "Overview Effect",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 248000
+        },
+        {
+          "title": "Sob o Mesmo Sol (part. Keops e Raony)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 207000
+        },
+        {
+          "title": "Dormência (part. Vini Castellari)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 225000
+        },
+        {
+          "title": "Ranhura",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 73000
+        },
+        {
+          "title": "Norte",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 221000
+        },
+        {
+          "title": "Estado Surdo da Memória",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 228000
+        },
+        {
+          "title": "Conselho de Quem Já Esteve Lá",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 239000
+        },
+        {
+          "title": "De Sãoo Paulo a Xangai (part. Caio MacBeserra)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 198000
+        },
+        {
+          "title": "O Sonho é Uma Ilha",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 354000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

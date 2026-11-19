@@ -1,0 +1,748 @@
+{
+  "generatedAt": "2026-11-19T11:10:27.966Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "12a9e259-f7cb-4fca-87b1-a6c5fd38c300",
+    "name": "Hot Mulligan",
+    "slug": "hot-mulligan",
+    "type": "BAND",
+    "country": "US",
+    "city": null,
+    "formedYear": null,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/12a9e259-f7cb-4fca-87b1-a6c5fd38c300"
+      }
+    ],
+    "genres": [
+      "emo",
+      "pop-punk",
+      "indie-rock"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "d82078a9-6a77-477b-938b-08cf5fffb63e",
+      "releaseMbid": "acba0bc0-8a09-41d7-8cdc-e275b83ac1c0",
+      "title": "Fenton",
+      "type": "EP",
+      "releaseDate": "2015-05-12",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d82078a9-6a77-477b-938b-08cf5fffb63e/front-1200",
+      "tracks": [
+        {
+          "title": "11 Second Burp",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 147310
+        },
+        {
+          "title": "Buy A Fire Extinguisher Before You Need A Fire Extinguisher",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 220204
+        },
+        {
+          "title": "Visited Salmon, I Mean Transit Balcony",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 197613
+        },
+        {
+          "title": "Buy A Fire Extinguisher Before You Need A Fire Extinguisher (Acoustic)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 276857
+        }
+      ]
+    },
+    {
+      "mbid": "bfd72aed-8843-4b4d-abce-5c33a037ef3d",
+      "releaseMbid": "a500243d-b5b2-41f7-bd62-e18ec3b53c78",
+      "title": "Honest & Cunning",
+      "type": "EP",
+      "releaseDate": "2015-05-26",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/bfd72aed-8843-4b4d-abce-5c33a037ef3d/front-1200",
+      "tracks": [
+        {
+          "title": "I Played Tony Hawk's Ride Once, and It Sucked",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 90290
+        },
+        {
+          "title": "M.O.M.",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 229110
+        },
+        {
+          "title": "Jimmy Neutron Had A Dog, So Why Can't I Have A Friend?",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 269618
+        },
+        {
+          "title": "I'm Tuning to O-Positive",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 214676
+        }
+      ]
+    },
+    {
+      "mbid": "c59cf99f-88cc-4d71-a1fc-fed5c9bb0179",
+      "releaseMbid": "6929f76d-c2d7-49ee-95d3-083e35fc785f",
+      "title": "Opportunities",
+      "type": "EP",
+      "releaseDate": "2017-03-31",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c59cf99f-88cc-4d71-a1fc-fed5c9bb0179/front-1200",
+      "tracks": [
+        {
+          "title": "If You Had Spun Out in Your Oldsmobile, This Probably Wouldn't Have Happened",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 178836
+        },
+        {
+          "title": "The Hammer Guy Is at It Again",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 223552
+        },
+        {
+          "title": "Wait for It",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 178845
+        },
+        {
+          "title": "Dary",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 161466
+        },
+        {
+          "title": "Something About a Bunch of Dead Dogs",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 148880
+        },
+        {
+          "title": "I Replied to Tyler With Three Blue Cars",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 190456
+        },
+        {
+          "title": "Deluxe Capacitor (acoustic)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 206304
+        }
+      ]
+    },
+    {
+      "mbid": "ba9aa3c4-3d4e-4cdd-bb6f-163d654b9042",
+      "releaseMbid": "76f3581b-9ddc-4648-beac-6bddf771e6cc",
+      "title": "Pilot",
+      "type": "ALBUM",
+      "releaseDate": "2018-03-23",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ba9aa3c4-3d4e-4cdd-bb6f-163d654b9042/front-1200",
+      "tracks": [
+        {
+          "title": "Deluxe Capacitor",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 204708
+        },
+        {
+          "title": "All You Wanted By Michelle Branch",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 205300
+        },
+        {
+          "title": "I Hate the Gooey Disk",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 197596
+        },
+        {
+          "title": "The Soundtrack To Missing a Slam Dunk",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 216618
+        },
+        {
+          "title": "Pluto Was Never Really a Planet Either Even",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 166563
+        },
+        {
+          "title": "Wes Dault Can’t Find the Madison Falcon",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 173866
+        },
+        {
+          "title": "*whispers* Thank You",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 138298
+        },
+        {
+          "title": "Good Ol’ Mr. Rags",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 189421
+        },
+        {
+          "title": "Scream Mountain",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 164002
+        },
+        {
+          "title": "How Do You Know It’s Not Armadillo Shells?",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 163509
+        },
+        {
+          "title": "There Was a Semi Fight On I-69",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 138219
+        }
+      ]
+    },
+    {
+      "mbid": "ed1c7d88-629d-47c4-9f4f-9ed5d1e58178",
+      "releaseMbid": "30cdf70a-9a28-4970-943f-9e70ffdf6d2a",
+      "title": "SYG Years",
+      "type": "COMPILATION",
+      "releaseDate": "2018-12-19",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ed1c7d88-629d-47c4-9f4f-9ed5d1e58178/front-1200",
+      "tracks": [
+        {
+          "title": "11 Second Burp",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 147000
+        },
+        {
+          "title": "Buy A Fire Extinguisher Before You Need A Fire Extinguisher",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 220000
+        },
+        {
+          "title": "Visited Salmon, I Mean Transit Balcony",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 197000
+        },
+        {
+          "title": "Buy A Fire Extinguisher Before You Need A Fire Extinguisher (Acoustic)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 276000
+        },
+        {
+          "title": "I Fell in Love with Princess Peach",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 150000
+        },
+        {
+          "title": "I Played Tony Hawk's Ride Once and It Sucked",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 90000
+        },
+        {
+          "title": "M.O.M.",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 228000
+        },
+        {
+          "title": "Jimmy Neutron Had A Dog, So Why Can't I Have A Friend?",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 269000
+        },
+        {
+          "title": "I'm Tuning To O-Positive",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 215000
+        },
+        {
+          "title": "Shaylee, Shanel",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 269000
+        },
+        {
+          "title": "Legen",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 80000
+        }
+      ]
+    },
+    {
+      "mbid": "0d1a2a02-2730-48ac-a9dc-791538686a8e",
+      "releaseMbid": "42cc4099-980f-47e0-a598-9f53716a0fa4",
+      "title": "you'll be fine",
+      "type": "ALBUM",
+      "releaseDate": "2020-03-06",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0d1a2a02-2730-48ac-a9dc-791538686a8e/front-1200",
+      "tracks": [
+        {
+          "title": "OG Bule Sky",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 157000
+        },
+        {
+          "title": "*Equip Sunglasses*",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 166000
+        },
+        {
+          "title": "Feal Like Crab",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 187000
+        },
+        {
+          "title": "Green Squirrel in Pretty Bad Shape",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 204000
+        },
+        {
+          "title": "Dirty Office Bongos",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 195000
+        },
+        {
+          "title": "Analog Fade (New Bule Sky)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 154000
+        },
+        {
+          "title": "We're Gonna Make it to Kilby!",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 185000
+        },
+        {
+          "title": "Digging In",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 164000
+        },
+        {
+          "title": "SPS",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 148000
+        },
+        {
+          "title": "BCKYRD",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 203000
+        },
+        {
+          "title": "The Song Formerly Known as Intro",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 111000
+        }
+      ]
+    },
+    {
+      "mbid": "7c3f2bb1-b02b-4e22-9b9d-49046c527364",
+      "releaseMbid": "2314d4ff-d4aa-462d-b0e0-44bd043c5333",
+      "title": "I Won’t Reach Out to You",
+      "type": "EP",
+      "releaseDate": "2021-05-28",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/7c3f2bb1-b02b-4e22-9b9d-49046c527364/front-1200",
+      "tracks": [
+        {
+          "title": "One For the Boy",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 81000
+        },
+        {
+          "title": "Featuring Mark Hoppus",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 173000
+        },
+        {
+          "title": "Losing Days",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 90000
+        },
+        {
+          "title": "Pop Shuvit (Hall of Meat, Duh)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 184000
+        },
+        {
+          "title": "Please Don't Cry, You Have Swag",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 187000
+        }
+      ]
+    },
+    {
+      "mbid": "86b97729-9fc7-46a8-bca6-cb020d3d6648",
+      "releaseMbid": "c7810b18-e75b-413d-a3bc-7fd8e054d782",
+      "title": "Acoustic Vol. 1",
+      "type": "EP",
+      "releaseDate": "2021-12-10",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/86b97729-9fc7-46a8-bca6-cb020d3d6648/front-1200",
+      "tracks": [
+        {
+          "title": "SPS",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 148043
+        },
+        {
+          "title": "Featuring Mark Hoppus",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 139925
+        },
+        {
+          "title": "Pop Shuvit (Hall of Meat, Duh)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 194354
+        },
+        {
+          "title": "BCKYRD",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 149817
+        }
+      ]
+    },
+    {
+      "mbid": "b0386637-0e8d-4d9e-b9a8-8abf11df1b11",
+      "releaseMbid": "a7dfff56-1574-4eb0-b418-043c05c3bffe",
+      "title": "Live From The Basement",
+      "type": "LIVE",
+      "releaseDate": "2022-05-28",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Live From The Basement",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 1783000
+        }
+      ]
+    },
+    {
+      "mbid": "1bdac2c0-f8fa-432f-bd11-906b7b45219a",
+      "releaseMbid": "85fa0123-0bd0-45c1-8a12-88e1987d807d",
+      "title": "Acoustic Vol. 2",
+      "type": "EP",
+      "releaseDate": "2022-09-23",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/1bdac2c0-f8fa-432f-bd11-906b7b45219a/front-1200",
+      "tracks": [
+        {
+          "title": "Drink Milk and Run (acoustic)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 202000
+        },
+        {
+          "title": "Green Squirrel in Pretty Bad Shape (acoustic)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 199000
+        },
+        {
+          "title": "MakeDamnSure",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 215000
+        },
+        {
+          "title": "Heem Wasn’t There",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 156000
+        }
+      ]
+    },
+    {
+      "mbid": "5afd31ea-3a96-4b99-a477-4d121efaedec",
+      "releaseMbid": "5081b2e4-d694-46ef-99b4-84bf4c717638",
+      "title": "Why Would I Watch",
+      "type": "ALBUM",
+      "releaseDate": "2023-05-12",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/5afd31ea-3a96-4b99-a477-4d121efaedec/front-1200",
+      "tracks": [
+        {
+          "title": "Shouldn’t Have a Leg Hole But I Do",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 104666
+        },
+        {
+          "title": "It’s a Family Movie She Hates Her Dad",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 175626
+        },
+        {
+          "title": "And I Smoke",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 174026
+        },
+        {
+          "title": "This Song is Called it’s Called What’s it Called",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 256853
+        },
+        {
+          "title": "No Shoes in the Coffee Shop (Or Socks)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 200586
+        },
+        {
+          "title": "Christ Alive My Toe Dammit Hurts",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 178813
+        },
+        {
+          "title": "Betty",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 129320
+        },
+        {
+          "title": "Cock Party 2 (Better Than The First)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 224440
+        },
+        {
+          "title": "Shhhh! Golf is On",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 164546
+        },
+        {
+          "title": "Gans Media Retro Games",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 199480
+        },
+        {
+          "title": "Smahccked My Head Awf",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 189560
+        },
+        {
+          "title": "John \"The Rock\" Cena, Can You Smell What the Undertaker",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 247093
+        }
+      ]
+    },
+    {
+      "mbid": "dec64324-b57d-4766-900e-174e7f9b1e21",
+      "releaseMbid": "bc7e6f6f-ee25-47e7-a41e-ebe740a95486",
+      "title": "Hot Mulligan Lofi",
+      "type": "EP",
+      "releaseDate": "2023-10-27",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/dec64324-b57d-4766-900e-174e7f9b1e21/front-1200",
+      "tracks": [
+        {
+          "title": "*Equip Sunglasses* (lofi)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 168385
+        },
+        {
+          "title": "(Featuring Mark Hoppus) (lofi)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 172170
+        },
+        {
+          "title": "No Shoes in the Coffee Shop (Or Socks) (lofi)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 200908
+        },
+        {
+          "title": "Shhhh! Golf Is On (lofi)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 164339
+        },
+        {
+          "title": "BCKYRD (lofi)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 196410
+        },
+        {
+          "title": "I Fell in Love With Princess Peach (lofi)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 148617
+        }
+      ]
+    },
+    {
+      "mbid": "10fdfa6c-b2c6-4e42-877b-8eb8351750ef",
+      "releaseMbid": "57a287f3-b7ca-4c37-a2f8-d1f612db8dbf",
+      "title": "The Sound a Body Makes When It’s Still",
+      "type": "ALBUM",
+      "releaseDate": "2025-08-22",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/10fdfa6c-b2c6-4e42-877b-8eb8351750ef/front-1200",
+      "tracks": [
+        {
+          "title": "Moving to Bed Bug Island",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 201000
+        },
+        {
+          "title": "And a Big Load",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 173792
+        },
+        {
+          "title": "It Smells Like Fudge Axe In here",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 207000
+        },
+        {
+          "title": "Island in the Sun",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 149607
+        },
+        {
+          "title": "Bon Jonah",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 214000
+        },
+        {
+          "title": "This Makes Me Yummy",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 71000
+        },
+        {
+          "title": "Monica Lewinskibidi",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 206000
+        },
+        {
+          "title": "Milam Minute",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 105000
+        },
+        {
+          "title": "Cream of Wheat of Feet Naw Cream of (Feat)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 124000
+        },
+        {
+          "title": "Mix Master Wade On The Beat",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 164000
+        },
+        {
+          "title": "Carbon Monoxide Hotel",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 214000
+        },
+        {
+          "title": "This Makes Me Yucky",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 113000
+        },
+        {
+          "title": "Let Me See Your Mounts",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 100000
+        },
+        {
+          "title": "Monster Burger and a $5 Beer",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 191000
+        },
+        {
+          "title": "Slumdog Scungillionaire",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 246000
+        },
+        {
+          "title": "My Dad Told Me To Write A Nice One For Nana So Here It Is",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 94000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

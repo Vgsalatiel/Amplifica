@@ -1,0 +1,372 @@
+{
+  "generatedAt": "2026-11-19T11:51:10.921Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "d91fc705-8d76-4ae3-9349-a3662644bd01",
+    "name": "Magnólia",
+    "slug": "magnolia",
+    "type": "SOLO",
+    "country": "BR",
+    "city": null,
+    "formedYear": null,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/d91fc705-8d76-4ae3-9349-a3662644bd01"
+      }
+    ],
+    "genres": [
+      "emo",
+      "screamo",
+      "alternative-rock"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "7b230319-386a-4bfe-8254-8bb437f0d430",
+      "releaseMbid": "fc1d7e58-8774-4308-8861-233fd694d901",
+      "title": "caru vai à luta contra os bixinhos do seu coração",
+      "type": "ALBUM",
+      "releaseDate": "2022-06-15",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/7b230319-386a-4bfe-8254-8bb437f0d430/front-1200",
+      "tracks": [
+        {
+          "title": "prelúdio dos bixinhos",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 84000
+        },
+        {
+          "title": "camaleão",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 165000
+        },
+        {
+          "title": "lobo",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 221000
+        },
+        {
+          "title": "ainda vai passar, peixinho",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 302000
+        },
+        {
+          "title": "bixo crescido volta a ser filhote",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 120000
+        },
+        {
+          "title": "então a lebre vomita seu próprio coração",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 219000
+        },
+        {
+          "title": "andorinha perdida",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 139000
+        },
+        {
+          "title": "os sapos vão comer seu rosto e fim",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 264000
+        }
+      ]
+    },
+    {
+      "mbid": "6445166f-aa23-4c34-9332-b3168c883b18",
+      "releaseMbid": "1b87bcdc-9c6c-481b-8154-5f122a8f9c9f",
+      "title": "o fim é um começo",
+      "type": "EP",
+      "releaseDate": "2024-01-05",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "início",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 73000
+        },
+        {
+          "title": "ll",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 150000
+        },
+        {
+          "title": "Rosa dos Ventos",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 189000
+        },
+        {
+          "title": "A Estrela Azul",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 180000
+        },
+        {
+          "title": "Memórias Póstumas",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 232000
+        },
+        {
+          "title": "fim",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 78000
+        }
+      ]
+    },
+    {
+      "mbid": "a7aec795-1a04-4acf-a63b-ae4d1fc2458f",
+      "releaseMbid": "ad4dd0bd-af89-4513-8906-cc056118bb24",
+      "title": "alma e pipo",
+      "type": "ALBUM",
+      "releaseDate": "2024-05-24",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "as mágoas do circo",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 148000
+        },
+        {
+          "title": "os pais de pipo",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 156000
+        },
+        {
+          "title": "como se esconder dentro de si mesmo",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 185000
+        },
+        {
+          "title": "alma e pipo",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 338000
+        },
+        {
+          "title": "oblivio",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 154000
+        },
+        {
+          "title": "PTMOOH",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 200000
+        },
+        {
+          "title": "dália",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 180000
+        },
+        {
+          "title": "interlúdio",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 28000
+        },
+        {
+          "title": "a descoberta de algo que já não me pertence mais",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 205000
+        },
+        {
+          "title": "doppelganger",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 200000
+        },
+        {
+          "title": "que todos os dias eu viva sob a luz do sol",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 84000
+        },
+        {
+          "title": "poslúdio",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 86000
+        }
+      ]
+    },
+    {
+      "mbid": "b89b44e7-ac6f-4537-9285-bf8f54c63159",
+      "releaseMbid": "4d5cd357-f022-4114-a89c-ed8011d81fe9",
+      "title": "alma e pipo",
+      "type": "ALBUM",
+      "releaseDate": "2024-05-24",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "as mágoas do circo",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 147527
+        },
+        {
+          "title": "os pais de pipo",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 156527
+        },
+        {
+          "title": "como se esconder dentro de si mesmo",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 185321
+        },
+        {
+          "title": "alma e pipo",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 338589
+        },
+        {
+          "title": "oblivio",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 154839
+        },
+        {
+          "title": "PTMOOH",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 200004
+        },
+        {
+          "title": "dália",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 180018
+        },
+        {
+          "title": "interlúdio",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 28638
+        },
+        {
+          "title": "a descoberta de algo que já não me pertence mais",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 205768
+        },
+        {
+          "title": "doppelganger",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 200603
+        },
+        {
+          "title": "que todos os dias eu viva sob a luz do sol",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 83978
+        },
+        {
+          "title": "poslúdio",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 86857
+        }
+      ]
+    },
+    {
+      "mbid": "0aadcc16-10a6-4336-827e-5ea01d524a3a",
+      "releaseMbid": "b32f2f9c-7bed-4584-bc1b-589abdd104cb",
+      "title": "ternura e violência",
+      "type": "ALBUM",
+      "releaseDate": "2026-09-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0aadcc16-10a6-4336-827e-5ea01d524a3a/front-1200",
+      "tracks": [
+        {
+          "title": "ternura e violência",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 92535
+        },
+        {
+          "title": "canção de amor para amigos",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 168040
+        },
+        {
+          "title": "temporada de amoras",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 91303
+        },
+        {
+          "title": "moinho de vento",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 215371
+        },
+        {
+          "title": "amar é assistir alguém morrer",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 192348
+        },
+        {
+          "title": "sentença",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 119740
+        },
+        {
+          "title": "sonho de virginia em águas profundas",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 182433
+        },
+        {
+          "title": "desperdício de tinta",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 113857
+        },
+        {
+          "title": "neep",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 361348
+        },
+        {
+          "title": "seja delicado por favor",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 215143
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

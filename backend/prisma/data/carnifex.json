@@ -1,0 +1,891 @@
+{
+  "generatedAt": "2026-11-18T20:38:52.532Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "b463a831-8ea0-40c4-9a56-34cfe0896931",
+    "name": "Carnifex",
+    "slug": "carnifex",
+    "type": "BAND",
+    "country": "US",
+    "city": "Fallbrook",
+    "formedYear": 2005,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/b463a831-8ea0-40c4-9a56-34cfe0896931"
+      }
+    ],
+    "genres": [
+      "deathcore",
+      "metalcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "8d21ac00-bc08-462f-a0c7-daff16c77888",
+      "releaseMbid": "53acee2f-4b4a-4928-bda2-f7d283562f2e",
+      "title": "Love Lies in Ashes",
+      "type": "EP",
+      "releaseDate": "2006",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/8d21ac00-bc08-462f-a0c7-daff16c77888/front-1200",
+      "tracks": [
+        {
+          "title": "Collaborating Like Killers",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 241000
+        },
+        {
+          "title": "Slit Wrist Savior",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 265000
+        },
+        {
+          "title": "Hope Dies With the Decadent (revised version)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 233000
+        },
+        {
+          "title": "Love Lies in Ashes",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 225000
+        }
+      ]
+    },
+    {
+      "mbid": "c84ae40b-59c9-4396-830d-a6743522a229",
+      "releaseMbid": "a7420b33-b113-4f43-b3c1-1383d45d3f08",
+      "title": "Carnifex",
+      "type": "EP",
+      "releaseDate": "2006-05-18",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c84ae40b-59c9-4396-830d-a6743522a229/front-1200",
+      "tracks": [
+        {
+          "title": "Death Awaits",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 132000
+        },
+        {
+          "title": "My Heart in Atrophy",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 269000
+        },
+        {
+          "title": "Redemption and Regret",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 186000
+        },
+        {
+          "title": "An Event of the Fallen",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 252000
+        },
+        {
+          "title": "Tragedy in Remission",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 311000
+        }
+      ]
+    },
+    {
+      "mbid": "4c34ec21-c1b3-356b-800f-9698b652473b",
+      "releaseMbid": "d4cfa31f-8b18-410c-baca-b378c1f54ef4",
+      "title": "Dead in My Arms",
+      "type": "ALBUM",
+      "releaseDate": "2007-07-12",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4c34ec21-c1b3-356b-800f-9698b652473b/front-1200",
+      "tracks": [
+        {
+          "title": "Intro",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 41453
+        },
+        {
+          "title": "These Thoughts Became Cages",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 170906
+        },
+        {
+          "title": "Slit Wrist Savior",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 255680
+        },
+        {
+          "title": "Hope Dies With the Decadent",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 230866
+        },
+        {
+          "title": "Lie to My Face",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 181253
+        },
+        {
+          "title": "Love Lies in Ashes",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 222946
+        },
+        {
+          "title": "A Winter in Remorse",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 181200
+        },
+        {
+          "title": "Collaborating Like Killers",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 233586
+        },
+        {
+          "title": "My Heart in Atrophy",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 179973
+        },
+        {
+          "title": "Dead in My Eyes",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 98546
+        },
+        {
+          "title": "Dead in My Arms",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 205400
+        }
+      ]
+    },
+    {
+      "mbid": "8e0f4796-7ae3-35a4-aafd-53bdc18f7f6d",
+      "releaseMbid": "f35bb9e4-d92a-44df-8b67-3e2891db5687",
+      "title": "The Diseased and the Poisoned",
+      "type": "ALBUM",
+      "releaseDate": "2008-06-20",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/8e0f4796-7ae3-35a4-aafd-53bdc18f7f6d/front-1200",
+      "tracks": [
+        {
+          "title": "Suffering",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 50000
+        },
+        {
+          "title": "In Coalesce With Filth and Faith",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 196000
+        },
+        {
+          "title": "The Nature of Depravity",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 196000
+        },
+        {
+          "title": "Adornment of the Sickened",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 148000
+        },
+        {
+          "title": "Innocence Died Screaming",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 165000
+        },
+        {
+          "title": "The Diseased and the Poisoned",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 157000
+        },
+        {
+          "title": "To My Dead and Dark Dreams",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 190000
+        },
+        {
+          "title": "Sadistic Embrace",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 174000
+        },
+        {
+          "title": "Answers in Mourning",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 166000
+        },
+        {
+          "title": "Aortic Dissection",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 178000
+        },
+        {
+          "title": "Among Grim Shadows",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 166000
+        },
+        {
+          "title": "Enthroned in Isolation",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 210000
+        }
+      ]
+    },
+    {
+      "mbid": "b31fa2c3-9798-40a0-beaa-db0c6f2f0910",
+      "releaseMbid": "895e0fef-751e-47fe-b5df-715aba698e4b",
+      "title": "Hell Chose Me",
+      "type": "ALBUM",
+      "releaseDate": "2010-02-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b31fa2c3-9798-40a0-beaa-db0c6f2f0910/front-1200",
+      "tracks": [
+        {
+          "title": "Hell Chose Me",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 212026
+        },
+        {
+          "title": "Dead Archetype",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 151106
+        },
+        {
+          "title": "Entombed Monarch",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 224786
+        },
+        {
+          "title": "Names Mean Nothing",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 178626
+        },
+        {
+          "title": "Heartless",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 253440
+        },
+        {
+          "title": "Sorrowspell",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 217066
+        },
+        {
+          "title": "The Scope of Obsession",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 175906
+        },
+        {
+          "title": "By Darkness Enslaved",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 219893
+        },
+        {
+          "title": "The Liar's Funeral",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 183426
+        },
+        {
+          "title": "Genocide Initiative",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 261399
+        }
+      ]
+    },
+    {
+      "mbid": "a71934f4-5c5f-4062-9440-0144c703508c",
+      "releaseMbid": "c4d2d79f-2417-4a68-8102-625d4fa3f006",
+      "title": "Until I Feel Nothing",
+      "type": "ALBUM",
+      "releaseDate": "2011-10-24",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a71934f4-5c5f-4062-9440-0144c703508c/front-1200",
+      "tracks": [
+        {
+          "title": "Deathwish",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 79120
+        },
+        {
+          "title": "We Spoke of Lies",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 176053
+        },
+        {
+          "title": "A Grave to Blame",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 218080
+        },
+        {
+          "title": "Dead but Dreaming",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 231653
+        },
+        {
+          "title": "Creation Defaced",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 253920
+        },
+        {
+          "title": "Dehumanize",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 179986
+        },
+        {
+          "title": "Until I Feel Nothing",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 231413
+        },
+        {
+          "title": "Never Forgive Me",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 184453
+        },
+        {
+          "title": "Wretched Entropy",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 170840
+        },
+        {
+          "title": "Curse My Name",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 206880
+        }
+      ]
+    },
+    {
+      "mbid": "ec89a975-069a-4518-a5ab-003cd2d50e0b",
+      "releaseMbid": "ec007e9e-fdb0-4786-8278-b685eb34dfb1",
+      "title": "Die Without Hope",
+      "type": "ALBUM",
+      "releaseDate": "2014-03-04",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ec89a975-069a-4518-a5ab-003cd2d50e0b/front-1200",
+      "tracks": [
+        {
+          "title": "Salvation Is Dead",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 280733
+        },
+        {
+          "title": "Dark Days",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 214586
+        },
+        {
+          "title": "Condemned to Decay",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 216653
+        },
+        {
+          "title": "Die Without Hope",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 323066
+        },
+        {
+          "title": "Hatred and Slaughter",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 252920
+        },
+        {
+          "title": "Dragged Into the Grave",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 234466
+        },
+        {
+          "title": "Rotten Souls",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 237746
+        },
+        {
+          "title": "Last Words",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 179773
+        },
+        {
+          "title": "Reflection of the Forgotten",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 65840
+        },
+        {
+          "title": "Where the Light Dies",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 284400
+        }
+      ]
+    },
+    {
+      "mbid": "4373c909-0ae9-4896-a2a3-b6dd2bf927f0",
+      "releaseMbid": "0cc6f782-fd25-4f8f-9644-712b5d59cdee",
+      "title": "Slow Death",
+      "type": "ALBUM",
+      "releaseDate": "2016-08-05",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4373c909-0ae9-4896-a2a3-b6dd2bf927f0/front-1200",
+      "tracks": [
+        {
+          "title": "Dark Heart Ceremony",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 289000
+        },
+        {
+          "title": "Slow Death",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 245000
+        },
+        {
+          "title": "Drown Me in Blood",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 258000
+        },
+        {
+          "title": "Pale Ghost",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 233000
+        },
+        {
+          "title": "Black Candles Burning",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 220000
+        },
+        {
+          "title": "Six Feet Closer to Hell",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 242000
+        },
+        {
+          "title": "Necrotoxic",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 195000
+        },
+        {
+          "title": "Life Fades to a Funeral",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 121000
+        },
+        {
+          "title": "Countess of the Crescent Moon",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 208000
+        },
+        {
+          "title": "Servants to the Horde",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 209000
+        }
+      ]
+    },
+    {
+      "mbid": "63e359bf-9f0e-4a8c-b148-99b2b4e269fc",
+      "releaseMbid": "70b5f80c-3ee0-4654-91d5-44f2dcde765a",
+      "title": "Bury Me in Blasphemy",
+      "type": "EP",
+      "releaseDate": "2018-12-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/63e359bf-9f0e-4a8c-b148-99b2b4e269fc/front-1200",
+      "tracks": [
+        {
+          "title": "Bury Me in Blasphemy",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 243181
+        },
+        {
+          "title": "Head Like a Hole",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 284006
+        },
+        {
+          "title": "The Heretic Anthem",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 252068
+        },
+        {
+          "title": "Head Like a Hole (Gost remix)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 237000
+        }
+      ]
+    },
+    {
+      "mbid": "7b1e71ee-af3a-4c9e-b82b-49f445b492b0",
+      "releaseMbid": "565478c3-1894-47e3-9ea8-26bf838e08f8",
+      "title": "World War X",
+      "type": "ALBUM",
+      "releaseDate": "2019-08-02",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "World War X",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 268000
+        },
+        {
+          "title": "Visions of the End",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 210000
+        },
+        {
+          "title": "This Infernal Darkness",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 277000
+        },
+        {
+          "title": "Eyes of the Executioner",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 182000
+        },
+        {
+          "title": "No Light Shall Save Us",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 288000
+        },
+        {
+          "title": "All Roads Lead to Hell",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 188000
+        },
+        {
+          "title": "Brushed by the Wings of Demons",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 235000
+        },
+        {
+          "title": "Hail Hellfire",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 190000
+        },
+        {
+          "title": "By Shadows Thine Held",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 267000
+        }
+      ]
+    },
+    {
+      "mbid": "7140b856-f7e7-414e-a1d2-bc66eb5cc64f",
+      "releaseMbid": "278cc371-1871-44c9-8fef-bfebb58b0fd6",
+      "title": "Graveside Confessions",
+      "type": "ALBUM",
+      "releaseDate": "2021-09-03",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/7140b856-f7e7-414e-a1d2-bc66eb5cc64f/front-1200",
+      "tracks": [
+        {
+          "title": "Graveside Confessions",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 268000
+        },
+        {
+          "title": "Pray for Peace",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 294000
+        },
+        {
+          "title": "Seven Souls",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 283000
+        },
+        {
+          "title": "Cursed",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 321000
+        },
+        {
+          "title": "Carry Us Away",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 278000
+        },
+        {
+          "title": "Talk to the Dead",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 246000
+        },
+        {
+          "title": "January Nights",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 226000
+        },
+        {
+          "title": "Cemetery Wander",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 231000
+        },
+        {
+          "title": "Countess of Perpetual Torment",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 278000
+        },
+        {
+          "title": "Dead Bodies Everywhere",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 270000
+        },
+        {
+          "title": "Cold Dead Summer",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 240000
+        },
+        {
+          "title": "Alive for the Last Time",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 178000
+        },
+        {
+          "title": "Collaborating Like Killers (Graveside Edition)",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 233000
+        },
+        {
+          "title": "My Heart in Atrophy (Graveside Edition)",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 184000
+        },
+        {
+          "title": "Slit Wrist Savior (Graveside Edition)",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 261000
+        }
+      ]
+    },
+    {
+      "mbid": "83bcbd74-179a-4c36-8ab6-3331d85008d7",
+      "releaseMbid": "315c29d7-8ec8-4ab4-9cff-08e1559aa0fb",
+      "title": "Necromanteum",
+      "type": "ALBUM",
+      "releaseDate": "2023-10-06",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/83bcbd74-179a-4c36-8ab6-3331d85008d7/front-1200",
+      "tracks": [
+        {
+          "title": "Torn in Two",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 232586
+        },
+        {
+          "title": "Death’s Forgotten Children",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 250106
+        },
+        {
+          "title": "Necromanteum",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 266906
+        },
+        {
+          "title": "Crowned in Everblack",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 274800
+        },
+        {
+          "title": "The Pathless Forest",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 240040
+        },
+        {
+          "title": "How the Knife Gets Twisted",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 230880
+        },
+        {
+          "title": "Architect of Misanthropy",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 305520
+        },
+        {
+          "title": "Infinite Night Terror",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 240760
+        },
+        {
+          "title": "Bleed More",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 257480
+        },
+        {
+          "title": "Heaven and Hell All at Once",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 242800
+        }
+      ]
+    },
+    {
+      "mbid": "ac07550a-d8cf-41ac-8410-7c3d5240069a",
+      "releaseMbid": "886b1985-6b51-42e2-affe-6638923d9adc",
+      "title": "More Than Misery",
+      "type": "ALBUM",
+      "releaseDate": "2026-11-06",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ac07550a-d8cf-41ac-8410-7c3d5240069a/front-1200",
+      "tracks": [
+        {
+          "title": "…And I Held Hands With Death",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 69627
+        },
+        {
+          "title": "More Than Misery",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 289387
+        },
+        {
+          "title": "The Process of Pain",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 242520
+        },
+        {
+          "title": "No Gods Only Graves",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 286907
+        },
+        {
+          "title": "Coffin Crowned King",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 307573
+        },
+        {
+          "title": "Roses & Rotting Corpses",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 206293
+        },
+        {
+          "title": "Only the Dead",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 250333
+        },
+        {
+          "title": "Gothic Serpent",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 263320
+        },
+        {
+          "title": "Heart Made of Teeth",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 215600
+        },
+        {
+          "title": "Licking Love From a Knife",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 462093
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

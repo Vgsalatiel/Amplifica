@@ -1,0 +1,691 @@
+{
+  "generatedAt": "2026-11-18T20:41:48.681Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "f2883c50-5a86-46f4-9f94-6567cc0a07f1",
+    "name": "Humanity’s Last Breath",
+    "slug": "humanity-s-last-breath",
+    "type": "BAND",
+    "country": "SE",
+    "city": "Helsingborg",
+    "formedYear": 2009,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/f2883c50-5a86-46f4-9f94-6567cc0a07f1"
+      }
+    ],
+    "genres": [
+      "deathcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "e806ec6d-b00b-4ba4-9090-fc82a3e9cd2c",
+      "releaseMbid": "b42b8286-050e-4637-9351-4bc71e149dbf",
+      "title": "Reanimated by Hate",
+      "type": "EP",
+      "releaseDate": "2010",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/e806ec6d-b00b-4ba4-9090-fc82a3e9cd2c/front-1200",
+      "tracks": [
+        {
+          "title": "Inevitable",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Never Ending Cycle",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Kneeling in Front of the Grave",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Interlude",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "We Didn’t Plan the Escape",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Ingested",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "f0a8d2ce-da22-451d-b42a-edcf58e92bfe",
+      "releaseMbid": "9e1495d9-7caf-4107-8508-747a399073f5",
+      "title": "Structures Collapse",
+      "type": "EP",
+      "releaseDate": "2011-05-25",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f0a8d2ce-da22-451d-b42a-edcf58e92bfe/front-1200",
+      "tracks": [
+        {
+          "title": "Product Of War",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 276000
+        },
+        {
+          "title": "Decievement",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 349000
+        },
+        {
+          "title": "Baleful",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 294000
+        },
+        {
+          "title": "Righteous Death",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 242000
+        },
+        {
+          "title": "The Aftermath",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 294000
+        }
+      ]
+    },
+    {
+      "mbid": "ba561ac2-a289-4b53-ae80-a78d06a6ea0a",
+      "releaseMbid": "ebd02952-46fa-42b2-be42-7fe3509fcb37",
+      "title": "Humanity’s Last Breath",
+      "type": "ALBUM",
+      "releaseDate": "2013-09-24",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ba561ac2-a289-4b53-ae80-a78d06a6ea0a/front-1200",
+      "tracks": [
+        {
+          "title": "Intro",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 62000
+        },
+        {
+          "title": "Bellua, Pt. 1",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 245000
+        },
+        {
+          "title": "Bellua, Pt. 2",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 261000
+        },
+        {
+          "title": "Human Swarm",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 264000
+        },
+        {
+          "title": "Animal",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 305000
+        },
+        {
+          "title": "Shoals",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 221000
+        },
+        {
+          "title": "Tellus Aflame",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 265000
+        },
+        {
+          "title": "Vultus",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 252000
+        },
+        {
+          "title": "Drone",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 160000
+        },
+        {
+          "title": "Void",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 195000
+        },
+        {
+          "title": "Anti",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 297000
+        },
+        {
+          "title": "Make Me Blind",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 258000
+        },
+        {
+          "title": "Outro",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 150000
+        },
+        {
+          "title": "Intro (instrumental)",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 62000
+        },
+        {
+          "title": "Bellua, Pt. 1 (instrumental)",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 245000
+        },
+        {
+          "title": "Bellua, Pt. 2 (instrumental)",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 261000
+        },
+        {
+          "title": "Human Swarm (instrumental)",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 264000
+        },
+        {
+          "title": "Animal (instrumental)",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 305000
+        },
+        {
+          "title": "Shoals (instrumental)",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 221000
+        },
+        {
+          "title": "Tellus Aflame (instrumental)",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 265000
+        },
+        {
+          "title": "Vultus (instrumental)",
+          "discNumber": 1,
+          "position": 21,
+          "durationMs": 252000
+        },
+        {
+          "title": "Drone (instrumental)",
+          "discNumber": 1,
+          "position": 22,
+          "durationMs": 160000
+        },
+        {
+          "title": "Void (instrumental)",
+          "discNumber": 1,
+          "position": 23,
+          "durationMs": 195000
+        },
+        {
+          "title": "Anti (instrumental)",
+          "discNumber": 1,
+          "position": 24,
+          "durationMs": 297000
+        },
+        {
+          "title": "Make Me Blind (instrumental)",
+          "discNumber": 1,
+          "position": 25,
+          "durationMs": 258000
+        },
+        {
+          "title": "Outro (instrumental)",
+          "discNumber": 1,
+          "position": 26,
+          "durationMs": 150000
+        }
+      ]
+    },
+    {
+      "mbid": "896e7f88-1891-44b1-9464-05338e995dce",
+      "releaseMbid": "0c91f4df-9d17-4041-94f0-89855479770f",
+      "title": "Detestor",
+      "type": "EP",
+      "releaseDate": "2016-04-05",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/896e7f88-1891-44b1-9464-05338e995dce/front-1200",
+      "tracks": [
+        {
+          "title": "Ocean Drinker",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 287026
+        },
+        {
+          "title": "Furvus",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 306056
+        },
+        {
+          "title": "Harm",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 273833
+        },
+        {
+          "title": "Beware",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 299583
+        },
+        {
+          "title": "Detestor",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 295450
+        },
+        {
+          "title": "Ocean Drinker (instrumental)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 287026
+        },
+        {
+          "title": "Furvus (instrumental)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 306056
+        },
+        {
+          "title": "Harm (instrumental)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 273833
+        },
+        {
+          "title": "Beware (instrumental)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 299583
+        },
+        {
+          "title": "Detestor (instrumental)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 295000
+        }
+      ]
+    },
+    {
+      "mbid": "7d80cbfb-1ced-40c0-a451-fe0b2fcdff1b",
+      "releaseMbid": "820ad783-1672-4c47-8ef2-751230e6b184",
+      "title": "Abyssal",
+      "type": "ALBUM",
+      "releaseDate": "2019-08-02",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/7d80cbfb-1ced-40c0-a451-fe0b2fcdff1b/front-1200",
+      "tracks": [
+        {
+          "title": "Bursting Bowel of Tellus",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 289000
+        },
+        {
+          "title": "Bone Dust",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Fradga",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 271000
+        },
+        {
+          "title": "Abyssal Mouth",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Pulsating Black",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "För Sorg",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Like Flies",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Sterile",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "Being",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Vånda",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": null
+        },
+        {
+          "title": "Rampant",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": null
+        },
+        {
+          "title": "Dödgud",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "479796cb-41e3-41ef-b0d5-684dd29b47a2",
+      "releaseMbid": "3cc373d9-d98e-4ab6-954d-42f96c8e570d",
+      "title": "Välde",
+      "type": "ALBUM",
+      "releaseDate": "2021-02-12",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/479796cb-41e3-41ef-b0d5-684dd29b47a2/front-1200",
+      "tracks": [
+        {
+          "title": "Dödsdans",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 94500
+        },
+        {
+          "title": "Glutton",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 217267
+        },
+        {
+          "title": "Earthless",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 298005
+        },
+        {
+          "title": "Descent",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 267400
+        },
+        {
+          "title": "Spectre",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 290681
+        },
+        {
+          "title": "Dehumanize",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 323841
+        },
+        {
+          "title": "Hadean",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 262021
+        },
+        {
+          "title": "Tide",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 308857
+        },
+        {
+          "title": "Väldet",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 177746
+        },
+        {
+          "title": "Sirens",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 263898
+        },
+        {
+          "title": "Futility",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 246647
+        },
+        {
+          "title": "Vittring",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 334745
+        }
+      ]
+    },
+    {
+      "mbid": "b03000ff-407f-47e9-85a0-e92f479f162d",
+      "releaseMbid": "678c812d-1846-4fd9-8e43-5ffa1790fd70",
+      "title": "Void (Dota 2 Music Pack)",
+      "type": "ALBUM",
+      "releaseDate": "2022-11-18",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b03000ff-407f-47e9-85a0-e92f479f162d/front-1200",
+      "tracks": [
+        {
+          "title": "Startup",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 63272
+        },
+        {
+          "title": "Main Menu",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 160824
+        },
+        {
+          "title": "Countdown",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 123540
+        },
+        {
+          "title": "Hero Select",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 97202
+        },
+        {
+          "title": "Laning Track 1",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 105175
+        },
+        {
+          "title": "Laning Track 2",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 236400
+        },
+        {
+          "title": "Laning Track 3",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 100200
+        },
+        {
+          "title": "Roshan",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 50537
+        },
+        {
+          "title": "Battle 1",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 69818
+        },
+        {
+          "title": "Battle 2",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 49566
+        },
+        {
+          "title": "Battle 3",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 38403
+        },
+        {
+          "title": "Killed",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 101425
+        },
+        {
+          "title": "Smoke",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 60845
+        }
+      ]
+    },
+    {
+      "mbid": "e0f936d1-a85a-49f1-a332-7606bdc4bc6e",
+      "releaseMbid": "5d906a0b-c119-4dbc-a61a-bb3ac3c59883",
+      "title": "Ashen",
+      "type": "ALBUM",
+      "releaseDate": "2023-08-04",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/e0f936d1-a85a-49f1-a332-7606bdc4bc6e/front-1200",
+      "tracks": [
+        {
+          "title": "Blood Spilled",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 299000
+        },
+        {
+          "title": "Linger",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 239000
+        },
+        {
+          "title": "Lifeless, Deathless",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 236000
+        },
+        {
+          "title": "Withering",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 244000
+        },
+        {
+          "title": "Instill",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 281000
+        },
+        {
+          "title": "Labyrinthian",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 240000
+        },
+        {
+          "title": "Catastrophize",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 250000
+        },
+        {
+          "title": "Death Spiral",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 264000
+        },
+        {
+          "title": "Shell",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 237000
+        },
+        {
+          "title": "Passage",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 254000
+        },
+        {
+          "title": "Burden",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 75000
+        },
+        {
+          "title": "Bearer",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 226000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

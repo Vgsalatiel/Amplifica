@@ -1,0 +1,712 @@
+{
+  "generatedAt": "2026-11-18T20:40:00.463Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "d846000e-71cf-4eb3-a462-9badab2c3eca",
+    "name": "Thy Art Is Murder",
+    "slug": "thy-art-is-murder",
+    "type": "BAND",
+    "country": "AU",
+    "city": "Blacktown",
+    "formedYear": 2005,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/d846000e-71cf-4eb3-a462-9badab2c3eca"
+      }
+    ],
+    "genres": [
+      "deathcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "f02319d7-df4f-4dd7-8475-9f60c79a9186",
+      "releaseMbid": "aa3104b6-333f-4b90-9946-e44b5d3d9018",
+      "title": "This Hole Isn’t Deep Enough for the Twelve of You",
+      "type": "EP",
+      "releaseDate": "2007",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f02319d7-df4f-4dd7-8475-9f60c79a9186/front-1200",
+      "tracks": [
+        {
+          "title": "Parasitic Autopsy",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 222458
+        },
+        {
+          "title": "Like a Face to a Blender",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 265717
+        },
+        {
+          "title": "This Hole Is Not Deep Enough",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 208927
+        }
+      ]
+    },
+    {
+      "mbid": "ff0e27c9-404a-364e-bb17-92a9299178e9",
+      "releaseMbid": "2b8f9830-b985-4801-bdd2-589c12405f2a",
+      "title": "Infinite Death",
+      "type": "EP",
+      "releaseDate": "2007-04-24",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ff0e27c9-404a-364e-bb17-92a9299178e9/front-1200",
+      "tracks": [
+        {
+          "title": "I’ll Show You God",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 215000
+        },
+        {
+          "title": "Whore to a Chainsaw",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 200000
+        },
+        {
+          "title": "Parasitic Autopsy",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 230000
+        },
+        {
+          "title": "Breeding Bacteria",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 197000
+        },
+        {
+          "title": "Infinite Death",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 232000
+        }
+      ]
+    },
+    {
+      "mbid": "c3d43a46-fb07-4f36-8ebb-edd8db912683",
+      "releaseMbid": "70386be2-6ebc-4a75-bd42-25c2758579ef",
+      "title": "The Adversary",
+      "type": "ALBUM",
+      "releaseDate": "2010-07-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c3d43a46-fb07-4f36-8ebb-edd8db912683/front-1200",
+      "tracks": [
+        {
+          "title": "Unholy Sermons",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 51000
+        },
+        {
+          "title": "Soldiers of Immortality",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 207000
+        },
+        {
+          "title": "Laceration Penetration",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 266000
+        },
+        {
+          "title": "Furnace of Hate",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 202000
+        },
+        {
+          "title": "Flesh Oracle",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 202000
+        },
+        {
+          "title": "The Adversary",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 247000
+        },
+        {
+          "title": "Decrepit Purification",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 232000
+        },
+        {
+          "title": "The False Prophet",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 210000
+        },
+        {
+          "title": "Engineering the Antichrist",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 213000
+        },
+        {
+          "title": "Requiem",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 141000
+        },
+        {
+          "title": "Cowards Throne",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 286000
+        }
+      ]
+    },
+    {
+      "mbid": "1cd86a13-00f4-46b1-970f-50db308441db",
+      "releaseMbid": "6617a0c8-e429-46f8-b0f3-05cdfdd0c175",
+      "title": "Hate",
+      "type": "ALBUM",
+      "releaseDate": "2012-10-19",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/1cd86a13-00f4-46b1-970f-50db308441db/front-1200",
+      "tracks": [
+        {
+          "title": "Reign of Darkness",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 215227
+        },
+        {
+          "title": "The Purest Strain of Hate",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 205107
+        },
+        {
+          "title": "Vile Creation",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 212213
+        },
+        {
+          "title": "Shadow of Eternal Sin",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 232280
+        },
+        {
+          "title": "Immolation",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 201640
+        },
+        {
+          "title": "Infinite Forms",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 271827
+        },
+        {
+          "title": "Dead Sun",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 220307
+        },
+        {
+          "title": "Gates of Misery",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 174747
+        },
+        {
+          "title": "Defective Breed",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 219813
+        },
+        {
+          "title": "Doomed From Birth",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 264387
+        }
+      ]
+    },
+    {
+      "mbid": "bcb5b16c-fd8e-4665-beeb-c6f234b7a862",
+      "releaseMbid": "878aed2a-e59b-4051-b1cf-9e5d87e50d0f",
+      "title": "Holy War",
+      "type": "ALBUM",
+      "releaseDate": "2015-06-24",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/bcb5b16c-fd8e-4665-beeb-c6f234b7a862/front-1200",
+      "tracks": [
+        {
+          "title": "Absolute Genocide",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 265493
+        },
+        {
+          "title": "Light Bearer",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 235893
+        },
+        {
+          "title": "Holy War",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 240240
+        },
+        {
+          "title": "Coffin Dragger",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 175613
+        },
+        {
+          "title": "Fur and Claw",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 256933
+        },
+        {
+          "title": "Deliver Us to Evil",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 186880
+        },
+        {
+          "title": "Emptiness",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 243173
+        },
+        {
+          "title": "Violent Reckoning",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 175080
+        },
+        {
+          "title": "Child of Sorrow",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 213653
+        },
+        {
+          "title": "Naked and Cold",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 330533
+        }
+      ]
+    },
+    {
+      "mbid": "a8b26b01-96c6-4242-ba4d-45d7b934f1ad",
+      "releaseMbid": "9d83da3c-d256-4027-8e2b-e05dc71fe1c7",
+      "title": "The Depression Sessions",
+      "type": "EP",
+      "releaseDate": "2016-08-12",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a8b26b01-96c6-4242-ba4d-45d7b934f1ad/front-1200",
+      "tracks": [
+        {
+          "title": "They Will Know Another",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 300000
+        },
+        {
+          "title": "Sensory Deprivation",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 293000
+        },
+        {
+          "title": "Flatlining",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 297000
+        },
+        {
+          "title": "Du Hast",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 231000
+        },
+        {
+          "title": "Black Hole Sun",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 330000
+        },
+        {
+          "title": "The Perfect Drug",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 265000
+        }
+      ]
+    },
+    {
+      "mbid": "7c9dd3b0-210a-4804-9dba-f3674b52bb57",
+      "releaseMbid": "2cb7e646-b8d9-40c8-89e0-268d71fccbb0",
+      "title": "Dear Desolation",
+      "type": "ALBUM",
+      "releaseDate": "2017-08-18",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/7c9dd3b0-210a-4804-9dba-f3674b52bb57/front-1200",
+      "tracks": [
+        {
+          "title": "Slaves Beyond Death",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 224000
+        },
+        {
+          "title": "The Son of Misery",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 258000
+        },
+        {
+          "title": "Puppet Master",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 195000
+        },
+        {
+          "title": "Dear Desolation",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 201000
+        },
+        {
+          "title": "Death Dealer",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 248000
+        },
+        {
+          "title": "Man Is the Enemy",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 208000
+        },
+        {
+          "title": "The Skin of the Serpent",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 238000
+        },
+        {
+          "title": "Fire in the Sky",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 250000
+        },
+        {
+          "title": "Into Chaos We Climb",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 245000
+        },
+        {
+          "title": "The Final Curtain",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 229000
+        }
+      ]
+    },
+    {
+      "mbid": "5fadef7f-aa3f-4016-ba27-45d6690b2f1e",
+      "releaseMbid": "9d92f1f5-52c4-4af0-ae34-bdae19ea8dfe",
+      "title": "Human Target",
+      "type": "ALBUM",
+      "releaseDate": "2019-06-14",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/5fadef7f-aa3f-4016-ba27-45d6690b2f1e/front-1200",
+      "tracks": [
+        {
+          "title": "Human Target",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 211595
+        },
+        {
+          "title": "New Gods",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 181097
+        },
+        {
+          "title": "Death Squad Anthem",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 193121
+        },
+        {
+          "title": "Make America Hate Again",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 194120
+        },
+        {
+          "title": "Eternal Suffering",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 305263
+        },
+        {
+          "title": "Welcome Oblivion",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 216894
+        },
+        {
+          "title": "Atonement",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 239584
+        },
+        {
+          "title": "Voyeurs Into Death",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 210155
+        },
+        {
+          "title": "Eye for an Eye",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 295211
+        },
+        {
+          "title": "Chemical Christ",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 264637
+        }
+      ]
+    },
+    {
+      "mbid": "185d47d4-24f9-47e9-943e-cab89074d9b2",
+      "releaseMbid": "a870ae9f-ed05-4253-bb1a-4c4e8da7363d",
+      "title": "The Aggression Sessions",
+      "type": "EP",
+      "releaseDate": "2023-04-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/185d47d4-24f9-47e9-943e-cab89074d9b2/front-1200",
+      "tracks": [
+        {
+          "title": "Hellions",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 253893
+        },
+        {
+          "title": "Until There Is No Longer",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 221347
+        },
+        {
+          "title": "Waste of Myself",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 201067
+        },
+        {
+          "title": "Under a Serpent Sun",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 237560
+        },
+        {
+          "title": "Hammer Smashed Face",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 244293
+        },
+        {
+          "title": "Left Outside Alone",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 277040
+        }
+      ]
+    },
+    {
+      "mbid": "a170cd0b-8891-4cb4-af6e-a7883ece718c",
+      "releaseMbid": "d6aeb38e-9c40-49c8-84eb-ec222d9f4d17",
+      "title": "Decade of Hate (Live in Melbourne 2023)",
+      "type": "LIVE",
+      "releaseDate": "2023-07-27",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a170cd0b-8891-4cb4-af6e-a7883ece718c/front-1200",
+      "tracks": [
+        {
+          "title": "Reign of Darkness (live)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 284906
+        },
+        {
+          "title": "The Purest Strain of Hate (live)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 223626
+        },
+        {
+          "title": "Vile Creation (live)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 264106
+        },
+        {
+          "title": "Shadow of Eternal Sin (live)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 239373
+        },
+        {
+          "title": "Immolation (live)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 416386
+        },
+        {
+          "title": "Infinite Forms (live)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 290840
+        },
+        {
+          "title": "Dead Sun (live)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 221520
+        },
+        {
+          "title": "Gates of Misery (live)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 182320
+        },
+        {
+          "title": "Defective Breed (live)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 262240
+        },
+        {
+          "title": "Doomed From Birth (live)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 369013
+        },
+        {
+          "title": "Death Squad Anthem (live)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 326533
+        },
+        {
+          "title": "Holy War (live)",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 366133
+        },
+        {
+          "title": "Puppet Master (live)",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 210120
+        }
+      ]
+    },
+    {
+      "mbid": "1784a61f-d0e1-4361-aad9-6f55c1abb4b9",
+      "releaseMbid": "a433ebd3-812c-4bce-b292-b2de1baa0781",
+      "title": "Godlike",
+      "type": "ALBUM",
+      "releaseDate": "2023-09-15",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/1784a61f-d0e1-4361-aad9-6f55c1abb4b9/front-1200",
+      "tracks": [
+        {
+          "title": "Destroyer of Dreams",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 279000
+        },
+        {
+          "title": "Blood Throne",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 203000
+        },
+        {
+          "title": "Join Me in Armageddon",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 278000
+        },
+        {
+          "title": "Keres",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 216000
+        },
+        {
+          "title": "Everything Unwanted",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 305000
+        },
+        {
+          "title": "Lesson in Pain",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 245000
+        },
+        {
+          "title": "Godlike",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 254000
+        },
+        {
+          "title": "Corrosion",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 229000
+        },
+        {
+          "title": "Anathema",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 209000
+        },
+        {
+          "title": "Bermuda",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 194000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

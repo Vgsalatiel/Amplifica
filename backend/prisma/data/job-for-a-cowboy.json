@@ -1,0 +1,583 @@
+{
+  "generatedAt": "2026-11-18T20:34:38.245Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "709b6c87-4870-4596-b981-afdc61f39476",
+    "name": "Job for a Cowboy",
+    "slug": "job-for-a-cowboy",
+    "type": "BAND",
+    "country": "US",
+    "city": "Glendale",
+    "formedYear": 2003,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/709b6c87-4870-4596-b981-afdc61f39476"
+      }
+    ],
+    "genres": [
+      "deathcore",
+      "metalcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "b33433d3-2582-3072-979a-713c5e050b20",
+      "releaseMbid": "6589049b-e935-495b-8a7f-ac3ad5d8c6f6",
+      "title": "Demo ’04",
+      "type": "EP",
+      "releaseDate": "2004",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b33433d3-2582-3072-979a-713c5e050b20/front-1200",
+      "tracks": [
+        {
+          "title": "Dead Stale Endings",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 249000
+        },
+        {
+          "title": "What We Once Called Home",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 260000
+        },
+        {
+          "title": "Day in Black",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 433000
+        }
+      ]
+    },
+    {
+      "mbid": "5a461295-0df4-36aa-a53c-524a31c2c9b3",
+      "releaseMbid": "21b1d110-9012-40d4-a36b-163deb97ff69",
+      "title": "Doom",
+      "type": "EP",
+      "releaseDate": "2005-11-09",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/5a461295-0df4-36aa-a53c-524a31c2c9b3/front-1200",
+      "tracks": [
+        {
+          "title": "Catharsis for the Buried (intro)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 59000
+        },
+        {
+          "title": "Entombment of a Machine",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 251000
+        },
+        {
+          "title": "Relinquished",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 296000
+        },
+        {
+          "title": "Knee Deep",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 274000
+        },
+        {
+          "title": "The Rising Tide",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 289000
+        },
+        {
+          "title": "Suspended by the Throat",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 257000
+        }
+      ]
+    },
+    {
+      "mbid": "181db436-7499-3654-83e9-982586e331fa",
+      "releaseMbid": "fa58db2c-f3c4-3a6e-8ad0-4495019686e2",
+      "title": "Genesis",
+      "type": "ALBUM",
+      "releaseDate": "2007-05-15",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/181db436-7499-3654-83e9-982586e331fa/front-1200",
+      "tracks": [
+        {
+          "title": "Bearing the Serpents Lamb",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 169213
+        },
+        {
+          "title": "Reduced to Mere Filth",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 178453
+        },
+        {
+          "title": "Altered From Catechization",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 254573
+        },
+        {
+          "title": "Upheaval",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 154306
+        },
+        {
+          "title": "Embedded",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 215560
+        },
+        {
+          "title": "Strings of Hypocrisy",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 144413
+        },
+        {
+          "title": "Martyrdom Unsealed",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 155733
+        },
+        {
+          "title": "Blasphemy",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 101266
+        },
+        {
+          "title": "The Divine Falsehood",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 263800
+        },
+        {
+          "title": "Coalescing Prophecy",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 203746
+        }
+      ]
+    },
+    {
+      "mbid": "aa5c7df2-4ff1-4e8b-9596-faf8e944f42e",
+      "releaseMbid": "fc0017e4-d06e-402b-9279-ba3eae3695fb",
+      "title": "Ruination",
+      "type": "ALBUM",
+      "releaseDate": "2009-07-06",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/aa5c7df2-4ff1-4e8b-9596-faf8e944f42e/front-1200",
+      "tracks": [
+        {
+          "title": "Unfurling a Darkened Gospel",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 224000
+        },
+        {
+          "title": "Summon the Hounds",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 232000
+        },
+        {
+          "title": "Constitutional Masturbation",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 216000
+        },
+        {
+          "title": "Regurgitated Disinformation",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 286000
+        },
+        {
+          "title": "March to Global Enslavement",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 365000
+        },
+        {
+          "title": "Butchering the Enlightened",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 211000
+        },
+        {
+          "title": "Lords of Chaos",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 216000
+        },
+        {
+          "title": "Psychological Immorality",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 188000
+        },
+        {
+          "title": "To Detonate and Exterminate",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 203000
+        },
+        {
+          "title": "Ruination",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 296000
+        },
+        {
+          "title": "Catharsis for the Buried (intro)",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": 55000
+        },
+        {
+          "title": "Entombment of a Machine",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": 247000
+        },
+        {
+          "title": "Relinquished",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": 289000
+        },
+        {
+          "title": "Knee Deep",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": 270000
+        },
+        {
+          "title": "The Rising Tide",
+          "discNumber": 2,
+          "position": 5,
+          "durationMs": 285000
+        },
+        {
+          "title": "Suspended by the Throat",
+          "discNumber": 2,
+          "position": 6,
+          "durationMs": 255000
+        },
+        {
+          "title": "Entities (demo '05)",
+          "discNumber": 2,
+          "position": 7,
+          "durationMs": 238000
+        }
+      ]
+    },
+    {
+      "mbid": "614a23ab-b6d5-49d3-9d7a-54b9624324b7",
+      "releaseMbid": "8acbd81e-d59e-4e2b-8e78-822202c80fd6",
+      "title": "Live Ruination",
+      "type": "LIVE",
+      "releaseDate": "2010-08-23",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/614a23ab-b6d5-49d3-9d7a-54b9624324b7/front-1200",
+      "tracks": [
+        {
+          "title": "The Matter of Splatter",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 224000
+        },
+        {
+          "title": "Embedded (live)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 212000
+        },
+        {
+          "title": "Altered From Catechization (live)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 234000
+        },
+        {
+          "title": "Entombment of a Machine (live)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 267000
+        },
+        {
+          "title": "Unfurling a Darkened Gospel (live)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 231000
+        },
+        {
+          "title": "Regurgitated Disinformation (live)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 296000
+        }
+      ]
+    },
+    {
+      "mbid": "496e180e-c729-48d6-a782-1a51c954c70b",
+      "releaseMbid": "61eec3e2-9515-4838-9591-12c2e18ccb52",
+      "title": "Gloom",
+      "type": "EP",
+      "releaseDate": "2011-06-07",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Misery Reformatory",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 234573
+        },
+        {
+          "title": "Plastic Idols",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 283973
+        },
+        {
+          "title": "Execution Parade",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 184440
+        },
+        {
+          "title": "Signature of Starving Power",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 225493
+        }
+      ]
+    },
+    {
+      "mbid": "d045995e-7f80-4a51-92a5-0538689c088b",
+      "releaseMbid": "fb276a38-f64b-462d-9e34-73218c19170a",
+      "title": "Demonocracy",
+      "type": "ALBUM",
+      "releaseDate": "2012-04-09",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d045995e-7f80-4a51-92a5-0538689c088b/front-1200",
+      "tracks": [
+        {
+          "title": "Children of Deceit",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 276706
+        },
+        {
+          "title": "Nourishment Through Bloodshed",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 222906
+        },
+        {
+          "title": "Imperium Wolves",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 288333
+        },
+        {
+          "title": "Tongueless and Bound",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 243520
+        },
+        {
+          "title": "Black Discharge",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 235826
+        },
+        {
+          "title": "The Manipulation Stream",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 280573
+        },
+        {
+          "title": "The Deity Misconception",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 245120
+        },
+        {
+          "title": "Fearmonger",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 258906
+        },
+        {
+          "title": "Tarnished Gluttony",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 375866
+        },
+        {
+          "title": "Misery Reformatory",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": 234573
+        },
+        {
+          "title": "Plastic Idols",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": 283973
+        },
+        {
+          "title": "Execution Parade",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": 184440
+        },
+        {
+          "title": "Signature of Starving Power",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": 225493
+        }
+      ]
+    },
+    {
+      "mbid": "b339717c-cf70-4f36-b836-179feba8a23b",
+      "releaseMbid": "6aadca47-3cb2-42ab-905c-7c69cf3975fb",
+      "title": "Sun Eater",
+      "type": "ALBUM",
+      "releaseDate": "2014-11-07",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Eating the Visions of God",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 390346
+        },
+        {
+          "title": "Sun of Nihility",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 333693
+        },
+        {
+          "title": "The Stone Cross",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 220120
+        },
+        {
+          "title": "The Synthetic Sea",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 290066
+        },
+        {
+          "title": "A Global Shift",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 238493
+        },
+        {
+          "title": "The Celestial Antidote",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 368520
+        },
+        {
+          "title": "Encircled by Mirrors",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 286413
+        },
+        {
+          "title": "Buried Monuments",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 296120
+        },
+        {
+          "title": "Worming Nightfall",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 380360
+        }
+      ]
+    },
+    {
+      "mbid": "ecb1f0b2-f9f3-493a-a903-925f2c82ddfa",
+      "releaseMbid": "1a2c941a-014b-40c6-b56c-4b747cb2fbfa",
+      "title": "Moon Healer",
+      "type": "ALBUM",
+      "releaseDate": "2024-02-23",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ecb1f0b2-f9f3-493a-a903-925f2c82ddfa/front-1200",
+      "tracks": [
+        {
+          "title": "Beyond the Chemical Doorway",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 250400
+        },
+        {
+          "title": "Etched in Oblivion",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 254347
+        },
+        {
+          "title": "Grinding Wheels of Ophanim",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 352453
+        },
+        {
+          "title": "The Sun Gave Me Ashes So I Sought Out the Moon",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 243960
+        },
+        {
+          "title": "Into the Crystalline Crypts",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 261520
+        },
+        {
+          "title": "A Sorrow‐Filled Moon",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 337427
+        },
+        {
+          "title": "The Agony Seeping Storm",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 251320
+        },
+        {
+          "title": "The Forever Rot",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 400640
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

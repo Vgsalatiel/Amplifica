@@ -1,0 +1,646 @@
+{
+  "generatedAt": "2026-11-19T11:19:08.596Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "efb2b5ce-8a50-4857-826d-c25d7e8941ba",
+    "name": "Origami Angel",
+    "slug": "origami-angel",
+    "type": "BAND",
+    "country": "US",
+    "city": "Washington, D.C.",
+    "formedYear": 2016,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/efb2b5ce-8a50-4857-826d-c25d7e8941ba"
+      }
+    ],
+    "genres": [
+      "emo"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "22cfa400-2524-4fe8-91e7-36d54cf8c4ec",
+      "releaseMbid": "6e964c63-c33e-4d3e-8d69-345a78cff1a7",
+      "title": "Quiet Hours",
+      "type": "EP",
+      "releaseDate": "2017-04-24",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Ride Our Bikes to School",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 160046
+        },
+        {
+          "title": "SpaceX T-Shirt",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 163776
+        },
+        {
+          "title": "Osmosis",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 136624
+        },
+        {
+          "title": "Hey There",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 134187
+        },
+        {
+          "title": "Mark My Words",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 156416
+        },
+        {
+          "title": "Step",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 219750
+        },
+        {
+          "title": "Notice",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 176637
+        }
+      ]
+    },
+    {
+      "mbid": "3ded92a3-196b-43c0-972f-1aa1ef7972d0",
+      "releaseMbid": "5ef688d5-5503-41f3-813a-45ec122763f7",
+      "title": "Doing the Most",
+      "type": "EP",
+      "releaseDate": "2018-07-06",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/3ded92a3-196b-43c0-972f-1aa1ef7972d0/front-1200",
+      "tracks": [
+        {
+          "title": "effective. Power",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 188139
+        },
+        {
+          "title": "ROM Hack",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 175189
+        },
+        {
+          "title": "w / u",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 96715
+        },
+        {
+          "title": "Thanks! I hate it.",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 196677
+        },
+        {
+          "title": "fin (the long and untold story of how i know it’s meant to be)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 170677
+        }
+      ]
+    },
+    {
+      "mbid": "47d7eca6-24ff-4e9a-a7a6-77ba40e2bec8",
+      "releaseMbid": "83cea96f-ae46-4a78-9b07-232abc911be6",
+      "title": "Holy Split",
+      "type": "EP",
+      "releaseDate": "2019-01-11",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/47d7eca6-24ff-4e9a-a7a6-77ba40e2bec8/front-1200",
+      "tracks": [
+        {
+          "title": "Denny’s Devito",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 139008
+        },
+        {
+          "title": "Origami Bagel",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 154176
+        },
+        {
+          "title": "Kenny",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 76152
+        },
+        {
+          "title": "Wassup My Good Man",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 76394
+        }
+      ]
+    },
+    {
+      "mbid": "4daa3ebf-898f-4d01-87f5-c5b7836229a1",
+      "releaseMbid": "9fd5fc10-ff8f-4e07-bbd7-b4a51864df6b",
+      "title": "Gen 3",
+      "type": "EP",
+      "releaseDate": "2019-05-31",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4daa3ebf-898f-4d01-87f5-c5b7836229a1/front-1200",
+      "tracks": [
+        {
+          "title": "Ruby",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 79975
+        },
+        {
+          "title": "Sapphire",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 178350
+        },
+        {
+          "title": "Emerald",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 146516
+        },
+        {
+          "title": "XD Gale of Darkness",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 104411
+        }
+      ]
+    },
+    {
+      "mbid": "5ea4f5e7-4e04-4331-a77b-fa29a2f035b2",
+      "releaseMbid": "3df8ffa3-a22d-49dc-a7bc-9425b743e204",
+      "title": "Somewhere City",
+      "type": "ALBUM",
+      "releaseDate": "2019-11-15",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/5ea4f5e7-4e04-4331-a77b-fa29a2f035b2/front-1200",
+      "tracks": [
+        {
+          "title": "Welcome to…",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 185133
+        },
+        {
+          "title": "24 Hr Drive‐Thru",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 164033
+        },
+        {
+          "title": "666 Flags",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 167451
+        },
+        {
+          "title": "Doctor Whomst",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 179277
+        },
+        {
+          "title": "Say Less",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 145237
+        },
+        {
+          "title": "Escape Rope",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 136890
+        },
+        {
+          "title": "The Title Track",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 151196
+        },
+        {
+          "title": "Skeleton Key",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 182554
+        },
+        {
+          "title": "Find Your Throne",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 206387
+        },
+        {
+          "title": "The Air Up Here",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 284814
+        }
+      ]
+    },
+    {
+      "mbid": "42d20722-2e92-4d7f-8cdd-0daca7bff59f",
+      "releaseMbid": "88706417-7bf0-4929-96ef-19ba24473460",
+      "title": "Origami Angel Broke Minecraft",
+      "type": "EP",
+      "releaseDate": "2020-04-24",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/42d20722-2e92-4d7f-8cdd-0daca7bff59f/front-1200",
+      "tracks": [
+        {
+          "title": "Witchu / Route 1 Baby",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 149353
+        },
+        {
+          "title": "Roo B / Olympic Hi Dive",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 105608
+        },
+        {
+          "title": "24 Hr Delivery / KD MVP",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 273288
+        },
+        {
+          "title": "Rom Com Hacky Sack / Space Flex T‐Skrrt",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 274575
+        },
+        {
+          "title": "Greenbelt Station",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 137748
+        }
+      ]
+    },
+    {
+      "mbid": "2b84554e-a630-4181-a838-97bfef10b5af",
+      "releaseMbid": "50fb5981-6c32-4e24-88ef-95bd6c74ce11",
+      "title": "GAMI GANG",
+      "type": "ALBUM",
+      "releaseDate": "2021-04-30",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/2b84554e-a630-4181-a838-97bfef10b5af/front-1200",
+      "tracks": [
+        {
+          "title": "#GAMIGANG",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 28000
+        },
+        {
+          "title": "Self‐Destruct",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 180000
+        },
+        {
+          "title": "Möbius Chicken Strip",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 192000
+        },
+        {
+          "title": "Noah Fence",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 194000
+        },
+        {
+          "title": "Mach Bike",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 169000
+        },
+        {
+          "title": "Isopropyl Alchemy",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 204000
+        },
+        {
+          "title": "You Won’t.",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 162000
+        },
+        {
+          "title": "Neutrogena Spektor",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 175000
+        },
+        {
+          "title": "Greenbelt Station",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 119000
+        },
+        {
+          "title": "Bossa Nova Corps",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 172000
+        },
+        {
+          "title": "Kno U",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 167000
+        },
+        {
+          "title": "/trust",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 187000
+        },
+        {
+          "title": "[spoons rattling]",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 83000
+        },
+        {
+          "title": "Tom Holland Oates",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 195000
+        },
+        {
+          "title": "Caught in the Moment",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 138000
+        },
+        {
+          "title": "Dr. Fondoom",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 74000
+        },
+        {
+          "title": "Bed Bath & Batman Beyond",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 55000
+        },
+        {
+          "title": "Footloose Cannonball Brothers",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 159000
+        },
+        {
+          "title": "Blanket Statement",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 126000
+        },
+        {
+          "title": "gg",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 294000
+        }
+      ]
+    },
+    {
+      "mbid": "99236dcb-11e7-45f0-8eee-e7a8a71420c5",
+      "releaseMbid": "ad78f6ac-461e-49e2-8e5d-1c9465f8a976",
+      "title": "re: turn",
+      "type": "EP",
+      "releaseDate": "2022-09-30",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/99236dcb-11e7-45f0-8eee-e7a8a71420c5/front-1200",
+      "tracks": [
+        {
+          "title": "penn hall",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 117000
+        },
+        {
+          "title": "francis",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 164000
+        },
+        {
+          "title": "live from the ufo",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 150000
+        }
+      ]
+    },
+    {
+      "mbid": "8458aefa-5b75-4df8-b904-28eb03fe9acb",
+      "releaseMbid": "d100c702-a06e-4674-bafb-91824050a096",
+      "title": "DEPART",
+      "type": "EP",
+      "releaseDate": "2022-10-03",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/8458aefa-5b75-4df8-b904-28eb03fe9acb/front-1200",
+      "tracks": [
+        {
+          "title": "JUDGE",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 93000
+        },
+        {
+          "title": "FAWN",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 87000
+        },
+        {
+          "title": "FOE",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 106000
+        }
+      ]
+    },
+    {
+      "mbid": "cd96976e-d389-4a17-97eb-abf4a59b7fe9",
+      "releaseMbid": "e2cc17b8-2890-47aa-8213-3e0b65580f46",
+      "title": "The Brightest Days",
+      "type": "ALBUM",
+      "releaseDate": "2023-06-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/cd96976e-d389-4a17-97eb-abf4a59b7fe9/front-1200",
+      "tracks": [
+        {
+          "title": "The Brightest Days",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 146000
+        },
+        {
+          "title": "Thank You, New Jersey",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 159000
+        },
+        {
+          "title": "Picture Frame",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 156000
+        },
+        {
+          "title": "Kobayashi Maru (My Very Own)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 149000
+        },
+        {
+          "title": "Second Best Friend",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 227000
+        },
+        {
+          "title": "Looking Out",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 81000
+        },
+        {
+          "title": "My PG County Summer",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 148000
+        },
+        {
+          "title": "Few and Far Between",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 262000
+        }
+      ]
+    },
+    {
+      "mbid": "9a3afab6-c52f-4a49-bcd6-17e3736a8ee0",
+      "releaseMbid": "c055715c-7b6b-48f9-848f-c9b18eccf07a",
+      "title": "Feeling Not Found",
+      "type": "ALBUM",
+      "releaseDate": "2024-09-27",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Lost Signal",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 84204
+        },
+        {
+          "title": "Dirty Mirror Selfie",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 217766
+        },
+        {
+          "title": "Where Blue Light Blooms",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 200292
+        },
+        {
+          "title": "Viral",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 159285
+        },
+        {
+          "title": "Underneath My Skin",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 158395
+        },
+        {
+          "title": "Wretched Trajectory",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 166051
+        },
+        {
+          "title": "AP Revisionist History",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 173064
+        },
+        {
+          "title": "Living Proof",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 196757
+        },
+        {
+          "title": "Fruit Wine",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 171855
+        },
+        {
+          "title": "Sixth Cents (Get It?)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 135487
+        },
+        {
+          "title": "secondgradefoofight",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 137784
+        },
+        {
+          "title": "HM07 Waterfall",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 181172
+        },
+        {
+          "title": "Higher Road",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 193505
+        },
+        {
+          "title": "Feeling Not Found",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 255947
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

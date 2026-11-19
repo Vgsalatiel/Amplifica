@@ -1,0 +1,307 @@
+{
+  "generatedAt": "2026-11-18T20:58:16.816Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "b2ff1a6d-9198-4646-b068-8965242d245b",
+    "name": "Rites of Spring",
+    "slug": "rites-of-spring",
+    "type": "BAND",
+    "country": "US",
+    "city": "Washington, D.C.",
+    "formedYear": 1983,
+    "disbandedYear": 1986,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/b2ff1a6d-9198-4646-b068-8965242d245b"
+      }
+    ],
+    "genres": [
+      "emo",
+      "post-hardcore",
+      "hardcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "06b45a02-b374-3c2b-b243-cf34f14dce50",
+      "releaseMbid": "0cfefea2-b884-45f8-b76b-550f834b9e74",
+      "title": "Rites of Spring",
+      "type": "ALBUM",
+      "releaseDate": "1985-06",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/06b45a02-b374-3c2b-b243-cf34f14dce50/front-1200",
+      "tracks": [
+        {
+          "title": "Spring",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Deeper Than Inside",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "For Want Of",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Hain’s Point",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "All There Is",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Drink Deep",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Theme",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "By Design",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "Remainder",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Persistent Vision",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": null
+        },
+        {
+          "title": "Nudes",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": null
+        },
+        {
+          "title": "End on End",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "40bd0190-78bf-3ab8-969d-a289f9268678",
+      "releaseMbid": "ffd5b6ac-96f5-42f7-a7d2-0db483961213",
+      "title": "All Through a Life",
+      "type": "EP",
+      "releaseDate": "1987-05",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/40bd0190-78bf-3ab8-969d-a289f9268678/front-1200",
+      "tracks": [
+        {
+          "title": "All Through a Life",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Hidden Wheel",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "In Silence/Words Away",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Patience",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "8c4c6e89-9333-3e8e-bb20-3bf42103ebdd",
+      "releaseMbid": "43433e70-4c73-4d7f-b7e2-a9f8afc82234",
+      "title": "End on End",
+      "type": "COMPILATION",
+      "releaseDate": "1991",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Spring",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 129733
+        },
+        {
+          "title": "Deeper Than Inside",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 137400
+        },
+        {
+          "title": "For Want Of",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 189466
+        },
+        {
+          "title": "Hain's Point",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 128640
+        },
+        {
+          "title": "All There Is",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 174400
+        },
+        {
+          "title": "Drink Deep",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 295093
+        },
+        {
+          "title": "Other Way Around",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 239906
+        },
+        {
+          "title": "Theme",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 139293
+        },
+        {
+          "title": "By Design",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 158200
+        },
+        {
+          "title": "Remainder",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 150200
+        },
+        {
+          "title": "Persistent Vision",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 141866
+        },
+        {
+          "title": "Nudes",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 168973
+        },
+        {
+          "title": "End on End",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 444293
+        },
+        {
+          "title": "All Through a Life",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 177733
+        },
+        {
+          "title": "Hidden Wheel",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 151266
+        },
+        {
+          "title": "In Silence / Words Away",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 180840
+        },
+        {
+          "title": "Patience",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 118933
+        }
+      ]
+    },
+    {
+      "mbid": "03607ef9-3763-44c8-baa6-db14acafd275",
+      "releaseMbid": "73c4b3e7-e3eb-4929-a0a3-d6bbfa1285dc",
+      "title": "Six Song Demo",
+      "type": "EP",
+      "releaseDate": "2012-10-23",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/03607ef9-3763-44c8-baa6-db14acafd275/front-1200",
+      "tracks": [
+        {
+          "title": "End on End",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 276000
+        },
+        {
+          "title": "Remainder",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 161000
+        },
+        {
+          "title": "Persistent Vision",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 113000
+        },
+        {
+          "title": "Hain's Point",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 139000
+        },
+        {
+          "title": "All There Is",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 187000
+        },
+        {
+          "title": "By Design",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 176000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

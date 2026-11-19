@@ -1,0 +1,890 @@
+{
+  "generatedAt": "2026-11-19T11:47:13.700Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "bc303c9e-3ffb-49ca-acf1-088ef4d46ed7",
+    "name": "The Story So Far",
+    "slug": "the-story-so-far",
+    "type": "BAND",
+    "country": "US",
+    "city": "Walnut Creek",
+    "formedYear": 2007,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/bc303c9e-3ffb-49ca-acf1-088ef4d46ed7"
+      }
+    ],
+    "genres": [
+      "pop-punk",
+      "punk-rock"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "f0e1967f-418d-497f-b759-160c024dec78",
+      "releaseMbid": "cca0e31e-b343-4ee6-b9eb-9ff61bbc92be",
+      "title": "5 Songs",
+      "type": "EP",
+      "releaseDate": "2007-12-22",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f0e1967f-418d-497f-b759-160c024dec78/front-1200",
+      "tracks": [
+        {
+          "title": "Intro",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 124000
+        },
+        {
+          "title": "Jud Jud",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 166000
+        },
+        {
+          "title": "Standing Taller",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 187000
+        },
+        {
+          "title": "It’s 20 More Feet and I Can’t Walk It Alone",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 174000
+        },
+        {
+          "title": "Don’t Get Me Wrong",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 251000
+        }
+      ]
+    },
+    {
+      "mbid": "94579cf3-5516-4398-b32d-47976d24f572",
+      "releaseMbid": "bce468bf-46a1-4873-b528-8d861cd79845",
+      "title": "While You Were Sleeping",
+      "type": "EP",
+      "releaseDate": "2009-12-09",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/94579cf3-5516-4398-b32d-47976d24f572/front-1200",
+      "tracks": [
+        {
+          "title": "Just Like You Said",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 249000
+        },
+        {
+          "title": "Spark Fires",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 218000
+        },
+        {
+          "title": "Compare and Conform",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 270000
+        },
+        {
+          "title": "Ali",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 223000
+        },
+        {
+          "title": "Snyder Street",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 271000
+        }
+      ]
+    },
+    {
+      "mbid": "24584e96-dc53-471d-8a54-71143abf1f70",
+      "releaseMbid": "be30d7eb-99cc-43e1-b59c-9af4ad8e57c9",
+      "title": "The Story So Far / Maker Split",
+      "type": "EP",
+      "releaseDate": "2010-11-23",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/24584e96-dc53-471d-8a54-71143abf1f70/front-1200",
+      "tracks": [
+        {
+          "title": "Brevity",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 47946
+        },
+        {
+          "title": "Mt. Diablo",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 235653
+        },
+        {
+          "title": "680 South",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 167120
+        }
+      ]
+    },
+    {
+      "mbid": "9808c811-5af2-4eb4-a725-2e0b13a824fb",
+      "releaseMbid": "d4ed7e68-8f86-42ac-835d-b847332b95a0",
+      "title": "The Story So Far / Morgan Foster",
+      "type": "EP",
+      "releaseDate": "2011-05-12",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "680 South (acoustic)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 175000
+        },
+        {
+          "title": "Rally Cap (acoustic)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 122000
+        },
+        {
+          "title": "Capitola",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 205000
+        },
+        {
+          "title": "Ambition",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 184000
+        }
+      ]
+    },
+    {
+      "mbid": "38124584-c504-49b3-ac78-ac5ca7f2f05d",
+      "releaseMbid": "46721ca0-b386-437a-a8ff-06e83e3e1cf1",
+      "title": "Under Soil and Dirt",
+      "type": "ALBUM",
+      "releaseDate": "2011-06-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/38124584-c504-49b3-ac78-ac5ca7f2f05d/front-1200",
+      "tracks": [
+        {
+          "title": "States and Minds",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 51000
+        },
+        {
+          "title": "Roam",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 174000
+        },
+        {
+          "title": "Quicksand",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 158000
+        },
+        {
+          "title": "Swords and Pens",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 189000
+        },
+        {
+          "title": "High Regard",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 231000
+        },
+        {
+          "title": "Daughters",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 186000
+        },
+        {
+          "title": "Mt. Diablo",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 249000
+        },
+        {
+          "title": "Four Years",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 164000
+        },
+        {
+          "title": "Rally Cap",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 138000
+        },
+        {
+          "title": "Placeholder",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 185000
+        },
+        {
+          "title": "Closure",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 201000
+        }
+      ]
+    },
+    {
+      "mbid": "398a572c-a65e-43f3-90e9-2d8628ba77a5",
+      "releaseMbid": "1907fc90-db86-4e51-9411-a78aba1084f8",
+      "title": "What You Don’t See",
+      "type": "ALBUM",
+      "releaseDate": "2013-03-26",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/398a572c-a65e-43f3-90e9-2d8628ba77a5/front-1200",
+      "tracks": [
+        {
+          "title": "Things I Can’t Change",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 172000
+        },
+        {
+          "title": "Stifled",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 132000
+        },
+        {
+          "title": "Small Talk",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 163000
+        },
+        {
+          "title": "Playing the Victim",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 170000
+        },
+        {
+          "title": "Right Here",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 155000
+        },
+        {
+          "title": "Empty Space",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 149000
+        },
+        {
+          "title": "The Glass",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 167000
+        },
+        {
+          "title": "All Wrong",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 182000
+        },
+        {
+          "title": "Bad Luck",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 141000
+        },
+        {
+          "title": "Face Value",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 172000
+        },
+        {
+          "title": "Framework",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 188000
+        }
+      ]
+    },
+    {
+      "mbid": "6a24af60-e9a9-402e-a830-654276d2e1fd",
+      "releaseMbid": "0c8e9c18-f066-4cbb-b58a-3b2e3470d24a",
+      "title": "The Story So Far vs Stick to Your Guns",
+      "type": "EP",
+      "releaseDate": "2013-06-18",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/6a24af60-e9a9-402e-a830-654276d2e1fd/front-1200",
+      "tracks": [
+        {
+          "title": "We Still Believe",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 213866
+        },
+        {
+          "title": "Burning Fight (Inside Out cover)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 206666
+        }
+      ]
+    },
+    {
+      "mbid": "2931215f-6059-4821-85b5-e1e24743b7e0",
+      "releaseMbid": "352a46ee-ffef-47da-a5be-3d4c36a87651",
+      "title": "Songs Of",
+      "type": "EP",
+      "releaseDate": "2014-06-17",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/2931215f-6059-4821-85b5-e1e24743b7e0/front-1200",
+      "tracks": [
+        {
+          "title": "The Glass",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 200000
+        },
+        {
+          "title": "Navy Blue",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 171000
+        },
+        {
+          "title": "All Wrong",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 37000
+        },
+        {
+          "title": "Bad Luck",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 158000
+        },
+        {
+          "title": "Waiting in Vain",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 256000
+        }
+      ]
+    },
+    {
+      "mbid": "b8a85ca6-a335-465a-a849-1107624cc394",
+      "releaseMbid": "a201f07f-28b7-4a69-a856-47f2c413bc16",
+      "title": "The Story So Far",
+      "type": "ALBUM",
+      "releaseDate": "2015-05-18",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b8a85ca6-a335-465a-a849-1107624cc394/front-1200",
+      "tracks": [
+        {
+          "title": "Smile",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 186000
+        },
+        {
+          "title": "Heavy Gloom",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 169000
+        },
+        {
+          "title": "Distaste",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 195000
+        },
+        {
+          "title": "Solo",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 157000
+        },
+        {
+          "title": "Mock",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 210000
+        },
+        {
+          "title": "How You Are",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 225000
+        },
+        {
+          "title": "Nerve",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 188000
+        },
+        {
+          "title": "Phantom",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 152000
+        },
+        {
+          "title": "Scowl",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 151000
+        },
+        {
+          "title": "Stalemate",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 194000
+        }
+      ]
+    },
+    {
+      "mbid": "c7d74ff9-5989-455b-b273-6c566e80d214",
+      "releaseMbid": "2e026aef-2651-4443-bb8b-857d78885b86",
+      "title": "Proper Dose",
+      "type": "ALBUM",
+      "releaseDate": "2018-09-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c7d74ff9-5989-455b-b273-6c566e80d214/front-1200",
+      "tracks": [
+        {
+          "title": "Proper Dose",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Keep This Up",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Out Of It",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Take Me As You Please",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Let It Go",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Upside Down",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "If I Fall",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Need To Know",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "Line",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Growing On You",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": null
+        },
+        {
+          "title": "Light Year",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "64906583-c5b8-4f48-a8af-99fc32b13206",
+      "releaseMbid": "2bf47ccf-7cd6-4248-9116-8b478a60a8bd",
+      "title": "Triple J Live at the Wireless",
+      "type": "LIVE",
+      "releaseDate": "2020-05-29",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/64906583-c5b8-4f48-a8af-99fc32b13206/front-1200",
+      "tracks": [
+        {
+          "title": "Empty Space",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 174200
+        },
+        {
+          "title": "Out of It",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 163441
+        },
+        {
+          "title": "Keep This Up",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 177343
+        },
+        {
+          "title": "Roam",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 184888
+        },
+        {
+          "title": "Quicksand",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 173141
+        },
+        {
+          "title": "If I Fall",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 206132
+        },
+        {
+          "title": "Things I Can’t Change",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 200384
+        },
+        {
+          "title": "Proper Dose",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 157895
+        },
+        {
+          "title": "Solo",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 193636
+        },
+        {
+          "title": "All Wrong",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 217848
+        },
+        {
+          "title": "Upside Down",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 235375
+        },
+        {
+          "title": "Take Me as You Please",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 214942
+        },
+        {
+          "title": "Heavy Gloom",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 198291
+        },
+        {
+          "title": "Nerve",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 208419
+        }
+      ]
+    },
+    {
+      "mbid": "6a5bff0a-2211-4349-b74f-8c38ed51cbbb",
+      "releaseMbid": "b698a97f-2df5-42ad-9e09-88de21d1af07",
+      "title": "The Story So Far Lofi",
+      "type": "EP",
+      "releaseDate": "2021-10-07",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Things I Can't Change (Lofi)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 161832
+        },
+        {
+          "title": "Clairvoyant (Lofi)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 180432
+        },
+        {
+          "title": "Upside Down (Lofi)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 206832
+        },
+        {
+          "title": "Keep This Up (Lofi)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 148512
+        },
+        {
+          "title": "High Regard (Lofi)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 173208
+        },
+        {
+          "title": "Empty Space (Lofi)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 103549
+        }
+      ]
+    },
+    {
+      "mbid": "bb697993-8ead-4aa6-9a38-97a12b840759",
+      "releaseMbid": "41b21913-9bf2-4c07-9365-7a3a7999b061",
+      "title": "I Want to Disappear",
+      "type": "ALBUM",
+      "releaseDate": "2024-06-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/bb697993-8ead-4aa6-9a38-97a12b840759/front-1200",
+      "tracks": [
+        {
+          "title": "All This Time",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 168893
+        },
+        {
+          "title": "Watch You Go",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 130666
+        },
+        {
+          "title": "Letterman",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 181226
+        },
+        {
+          "title": "Jump The Gun",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 155800
+        },
+        {
+          "title": "Big Blind",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 147773
+        },
+        {
+          "title": "Nothing To Say",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 176786
+        },
+        {
+          "title": "Keep You Around",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 230440
+        },
+        {
+          "title": "You’re Still in My Way",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 153786
+        },
+        {
+          "title": "White Shores",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 191986
+        },
+        {
+          "title": "I Want To Disappear",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 156106
+        }
+      ]
+    },
+    {
+      "mbid": "dd264bea-4df3-49e0-b4fc-934362e2536e",
+      "releaseMbid": "44e32632-8e48-454b-823b-9f188fa3b620",
+      "title": "I Want to Disappear in the USA",
+      "type": "LIVE",
+      "releaseDate": "2025-08-29",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/dd264bea-4df3-49e0-b4fc-934362e2536e/front-1200",
+      "tracks": [
+        {
+          "title": "Big Blind (live)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 186546
+        },
+        {
+          "title": "The Glass (live)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 172703
+        },
+        {
+          "title": "Out of It (live)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 174573
+        },
+        {
+          "title": "Nothing to Say (live)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 166278
+        },
+        {
+          "title": "High Regard (live)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 256206
+        },
+        {
+          "title": "All This Time (live)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 184899
+        },
+        {
+          "title": "Watch You Go (live)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 138448
+        },
+        {
+          "title": "Letterman (live)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 185050
+        },
+        {
+          "title": "Things I Can't Change (live)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 162228
+        },
+        {
+          "title": "Proper Dose (live)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 162831
+        },
+        {
+          "title": "Jump the Gun (live)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 149490
+        },
+        {
+          "title": "Empty Space (live)",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 194430
+        },
+        {
+          "title": "Solo (live)",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 157479
+        },
+        {
+          "title": "Keep You Around (live)",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 225739
+        },
+        {
+          "title": "Upside Down (live)",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 241099
+        },
+        {
+          "title": "Keep This Up (live)",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 142478
+        },
+        {
+          "title": "You're Still in My Way (live)",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 132043
+        },
+        {
+          "title": "Roam (live)",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 213105
+        },
+        {
+          "title": "White Shores (live)",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 190586
+        },
+        {
+          "title": "Nerve (live)",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 242359
+        },
+        {
+          "title": "Quicksand (live)",
+          "discNumber": 1,
+          "position": 21,
+          "durationMs": 163830
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

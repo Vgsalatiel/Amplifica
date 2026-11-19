@@ -1,0 +1,974 @@
+{
+  "generatedAt": "2026-11-18T20:08:16.805Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "9d2fde91-4633-430d-87f0-2b9bbb7fa451",
+    "name": "Asking Alexandria",
+    "slug": "asking-alexandria",
+    "type": "BAND",
+    "country": "GB",
+    "city": "Dubai",
+    "formedYear": 2006,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/9d2fde91-4633-430d-87f0-2b9bbb7fa451"
+      }
+    ],
+    "genres": [
+      "metalcore",
+      "post-hardcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "6af76610-5501-4c4d-aa2a-09bb9645d0c7",
+      "releaseMbid": "91b71d6d-7744-4c04-8280-ae7bb3d6ae40",
+      "title": "Demo 2009",
+      "type": "EP",
+      "releaseDate": "2009",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/6af76610-5501-4c4d-aa2a-09bb9645d0c7/front-1200",
+      "tracks": [
+        {
+          "title": "Demo 2009",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 102000
+        },
+        {
+          "title": "Money Maker",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 229000
+        }
+      ]
+    },
+    {
+      "mbid": "2fe6161c-c3b9-48af-b432-4e6ef1e4aa8f",
+      "releaseMbid": "290b1686-f728-470d-ad5a-211d36cdf9df",
+      "title": "Stand Up and Scream",
+      "type": "ALBUM",
+      "releaseDate": "2009-09-15",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/2fe6161c-c3b9-48af-b432-4e6ef1e4aa8f/front-1200",
+      "tracks": [
+        {
+          "title": "Alerion",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 134000
+        },
+        {
+          "title": "The Final Episode (Let’s Change the Channel)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 242000
+        },
+        {
+          "title": "A Candlelit Dinner With Inamorta",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 243000
+        },
+        {
+          "title": "Nobody Don’t Dance No More",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 240000
+        },
+        {
+          "title": "Hey There Mr. Brooks",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 249000
+        },
+        {
+          "title": "Hiatus",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 105000
+        },
+        {
+          "title": "If You Can’t Ride Two Horses at Once… You Should Get Out of the Circus",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 225000
+        },
+        {
+          "title": "A Single Moment of Sincerity",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 230000
+        },
+        {
+          "title": "Not the American Average",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 279000
+        },
+        {
+          "title": "I Used to Have a Best Friend (But Then He Gave Me an STD)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 246000
+        },
+        {
+          "title": "A Prophecy",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 213000
+        },
+        {
+          "title": "I Was Once, Possibly, Maybe, Perhaps a Cowboy King",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 221000
+        },
+        {
+          "title": "When Everyday’s the Weekend",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 263000
+        }
+      ]
+    },
+    {
+      "mbid": "dfbf28b9-fb02-4ddf-b40f-d4ad32c2cc7d",
+      "releaseMbid": "8e8045a3-4b22-4e8c-8f60-b6f8ce12e8fe",
+      "title": "Life Gone Wild",
+      "type": "EP",
+      "releaseDate": "2010-12-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/dfbf28b9-fb02-4ddf-b40f-d4ad32c2cc7d/front-1200",
+      "tracks": [
+        {
+          "title": "Youth Gone Wild",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 197480
+        },
+        {
+          "title": "18 And Life",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 228533
+        },
+        {
+          "title": "A Single Moment Of Sincerity (Bare Re-mix)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 226640
+        },
+        {
+          "title": "Not The American Average (Voorny Re-mix)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 261600
+        },
+        {
+          "title": "I Was Once, Possibly, Maybe , Perhaps A Cowboy King (Demo)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 241267
+        },
+        {
+          "title": "Breathless",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 249267
+        }
+      ]
+    },
+    {
+      "mbid": "fb5eddcc-8061-4674-8ec0-9df1573a707f",
+      "releaseMbid": "de337986-37fe-4a22-b025-1b904d2376a9",
+      "title": "Reckless & Relentless",
+      "type": "ALBUM",
+      "releaseDate": "2011-04-05",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/fb5eddcc-8061-4674-8ec0-9df1573a707f/front-1200",
+      "tracks": [
+        {
+          "title": "Welcome",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 109106
+        },
+        {
+          "title": "Dear Insanity",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 189573
+        },
+        {
+          "title": "Closure",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 238160
+        },
+        {
+          "title": "A Lesson Never Learned",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 234773
+        },
+        {
+          "title": "To the Stage",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 210613
+        },
+        {
+          "title": "Dedication",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 63053
+        },
+        {
+          "title": "Someone, Somewhere",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 216640
+        },
+        {
+          "title": "Breathless",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 249986
+        },
+        {
+          "title": "The Match",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 255826
+        },
+        {
+          "title": "Another Bottle Down",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 214186
+        },
+        {
+          "title": "Reckless & Relentless",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 248186
+        },
+        {
+          "title": "Morte Et Dabo",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 314973
+        },
+        {
+          "title": "The Final Episode (Let's Change the Channel) [Borgore remix]",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 251800
+        },
+        {
+          "title": "A Candlelit Dinner With Inamorta (Run DMT remix)",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 253720
+        },
+        {
+          "title": "A Prophecy (Big Chocolate Electro remix)",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 256906
+        }
+      ]
+    },
+    {
+      "mbid": "5408d98d-bacb-45fe-9cf7-c70b1cffbf84",
+      "releaseMbid": "853a4b98-89d3-42ef-a268-98b655e70276",
+      "title": "Under the Influence: A Tribute to the Legends of Hard Rock",
+      "type": "EP",
+      "releaseDate": "2012-11-28",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/5408d98d-bacb-45fe-9cf7-c70b1cffbf84/front-1200",
+      "tracks": [
+        {
+          "title": "Separate Ways",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 323000
+        },
+        {
+          "title": "Kickstart My Heart",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 260000
+        },
+        {
+          "title": "Here I Go Again",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 310000
+        },
+        {
+          "title": "Hysteria",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 325000
+        },
+        {
+          "title": "Run Free",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 253000
+        }
+      ]
+    },
+    {
+      "mbid": "2045e1f4-70b0-458e-bd29-b5f88279d42e",
+      "releaseMbid": "70924728-5745-47de-9ee5-39809cfba2f8",
+      "title": "From Death to Destiny",
+      "type": "ALBUM",
+      "releaseDate": "2013-08-05",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/2045e1f4-70b0-458e-bd29-b5f88279d42e/front-1200",
+      "tracks": [
+        {
+          "title": "Don’t Pray for Me",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 280346
+        },
+        {
+          "title": "Killing You",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 191866
+        },
+        {
+          "title": "The Death of Me",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 258893
+        },
+        {
+          "title": "Run Free",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 250706
+        },
+        {
+          "title": "Break Down the Walls",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 211426
+        },
+        {
+          "title": "Poison",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 226493
+        },
+        {
+          "title": "Believe",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 271293
+        },
+        {
+          "title": "Creature",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 194200
+        },
+        {
+          "title": "White Line Fever",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 223506
+        },
+        {
+          "title": "Moving On",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 242586
+        },
+        {
+          "title": "The Road",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 206866
+        },
+        {
+          "title": "Until the End",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 270546
+        },
+        {
+          "title": "The Death of Me (Rock mix)",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 204813
+        }
+      ]
+    },
+    {
+      "mbid": "129c1eea-c3bb-4ac8-a84e-174b13a5c808",
+      "releaseMbid": "28ee20f2-1492-4c3d-93f7-61d03c7e4b19",
+      "title": "The Black",
+      "type": "ALBUM",
+      "releaseDate": "2016-03-25",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Let It Sleep",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 240000
+        },
+        {
+          "title": "The Black",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 281000
+        },
+        {
+          "title": "I Won’t Give In",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 229000
+        },
+        {
+          "title": "Sometimes It Ends",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 285000
+        },
+        {
+          "title": "The Lost Souls",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 245000
+        },
+        {
+          "title": "Just a Slave to Rock n’ Roll",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 205000
+        },
+        {
+          "title": "Send Me Home",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 258000
+        },
+        {
+          "title": "We’ll Be OK",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 237000
+        },
+        {
+          "title": "Here I Am",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 259000
+        },
+        {
+          "title": "Gone",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 197000
+        },
+        {
+          "title": "Undivided",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 215000
+        },
+        {
+          "title": "Circled by the Wolves",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 209000
+        }
+      ]
+    },
+    {
+      "mbid": "9409980a-1a04-4b60-90aa-7f66994995fa",
+      "releaseMbid": "47564781-f389-4d91-aeb3-fb57615fdff4",
+      "title": "Asking Alexandria",
+      "type": "ALBUM",
+      "releaseDate": "2017-12-15",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/9409980a-1a04-4b60-90aa-7f66994995fa/front-1200",
+      "tracks": [
+        {
+          "title": "Alone in a Room",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 245000
+        },
+        {
+          "title": "Into the Fire",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 237000
+        },
+        {
+          "title": "Hopelessly Hopeful",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 193000
+        },
+        {
+          "title": "Where Did It Go?",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 193000
+        },
+        {
+          "title": "Rise Up",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 187000
+        },
+        {
+          "title": "When the Lights Come On",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 203000
+        },
+        {
+          "title": "Under Denver",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 245000
+        },
+        {
+          "title": "Vultures",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 208000
+        },
+        {
+          "title": "Eve",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 238000
+        },
+        {
+          "title": "I Am One",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 212000
+        },
+        {
+          "title": "Empire",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 256000
+        },
+        {
+          "title": "Room 138",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 224000
+        },
+        {
+          "title": "Into the Fire (radio edit)",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 210000
+        }
+      ]
+    },
+    {
+      "mbid": "435722f7-deb6-4186-a700-7e7317565367",
+      "releaseMbid": "9d9b4a94-ac85-4839-9b8e-562bf80fee90",
+      "title": "Like a House on Fire",
+      "type": "ALBUM",
+      "releaseDate": "2020-05-15",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/435722f7-deb6-4186-a700-7e7317565367/front-1200",
+      "tracks": [
+        {
+          "title": "House on Fire",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 213000
+        },
+        {
+          "title": "They Don’t Want What We Want (And They Don’t Care)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 195000
+        },
+        {
+          "title": "Down to Hell",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 196000
+        },
+        {
+          "title": "Antisocialist",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 216000
+        },
+        {
+          "title": "I Don’t Need You",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 222000
+        },
+        {
+          "title": "All Due Respect",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 235000
+        },
+        {
+          "title": "Take Some Time",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 205000
+        },
+        {
+          "title": "One Turns to None",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 184000
+        },
+        {
+          "title": "It’s Not Me (It’s You)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 175000
+        },
+        {
+          "title": "Here’s to Starting Over",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 197000
+        },
+        {
+          "title": "What’s Gonna Be",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 205000
+        },
+        {
+          "title": "Give You Up",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 213000
+        },
+        {
+          "title": "In My Blood",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 211000
+        },
+        {
+          "title": "The Violence",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 208000
+        },
+        {
+          "title": "Lorazepam",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 242000
+        }
+      ]
+    },
+    {
+      "mbid": "0020596b-763c-4205-992a-e7619665ccbc",
+      "releaseMbid": "0101eaf3-e4e3-495f-89be-8db0f3296ff5",
+      "title": "See What’s on the Inside",
+      "type": "ALBUM",
+      "releaseDate": "2021-10-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0020596b-763c-4205-992a-e7619665ccbc/front-1200",
+      "tracks": [
+        {
+          "title": "Intro",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 56000
+        },
+        {
+          "title": "Alone Again",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 228000
+        },
+        {
+          "title": "Faded Out",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 185000
+        },
+        {
+          "title": "Never Gonna Learn",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 198000
+        },
+        {
+          "title": "If I Could Erase It",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 251000
+        },
+        {
+          "title": "Find Myself",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 280000
+        },
+        {
+          "title": "You’ve Made It This Far",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 261000
+        },
+        {
+          "title": "See What’s on the Inside",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 276000
+        },
+        {
+          "title": "Misery Loves Company",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 243000
+        },
+        {
+          "title": "Fame",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 198000
+        },
+        {
+          "title": "The Grey",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 226000
+        }
+      ]
+    },
+    {
+      "mbid": "0fb271b7-4a63-44d4-add5-a0fc9df2a1ba",
+      "releaseMbid": "d730c2b2-79bc-4195-a30c-1c35e4428c49",
+      "title": "Never Gonna Learn EP",
+      "type": "EP",
+      "releaseDate": "2022-01-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0fb271b7-4a63-44d4-add5-a0fc9df2a1ba/front-1200",
+      "tracks": [
+        {
+          "title": "New Devil",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 214724
+        },
+        {
+          "title": "Never Gonna Learn",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 198041
+        },
+        {
+          "title": "Miles Away",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 273852
+        },
+        {
+          "title": "Find Myself",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 280470
+        }
+      ]
+    },
+    {
+      "mbid": "7b379d9b-71bb-41ae-a2cd-2b80f150ba5e",
+      "releaseMbid": "50378e1f-83fc-441e-9cd4-2a3f78c9faea",
+      "title": "Where Do We Go From Here?",
+      "type": "ALBUM",
+      "releaseDate": "2023-08-25",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/7b379d9b-71bb-41ae-a2cd-2b80f150ba5e/front-1200",
+      "tracks": [
+        {
+          "title": "Bad Blood",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 210654
+        },
+        {
+          "title": "Things Could Be Different",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 215000
+        },
+        {
+          "title": "Let Go",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 253000
+        },
+        {
+          "title": "Psycho",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 236954
+        },
+        {
+          "title": "Dark Void",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 232258
+        },
+        {
+          "title": "Nothing Left",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 268000
+        },
+        {
+          "title": "Feel",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 213000
+        },
+        {
+          "title": "Let the Dead Take Me",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 225000
+        },
+        {
+          "title": "Kill It With Fire",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 66000
+        },
+        {
+          "title": "Holding on to Something More",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 204000
+        },
+        {
+          "title": "Where Do We Go From Here",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 250000
+        }
+      ]
+    },
+    {
+      "mbid": "61dc17b9-5bf2-46cd-a4c2-4926ad968a5d",
+      "releaseMbid": "e817d5f9-9d71-4456-b1f7-187b7ba927e8",
+      "title": "Dark Void EP",
+      "type": "EP",
+      "releaseDate": "2024-01-12",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/61dc17b9-5bf2-46cd-a4c2-4926ad968a5d/front-1200",
+      "tracks": [
+        {
+          "title": "Dark Void",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 232258
+        },
+        {
+          "title": "Nothing Left",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 267554
+        },
+        {
+          "title": "Dark Void (radio edit)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 213677
+        },
+        {
+          "title": "Dark Void (Sullivan King remix)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 189200
+        },
+        {
+          "title": "Dark Void (stripped)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 177487
+        }
+      ]
+    },
+    {
+      "mbid": "362c4ee7-f02f-4e68-89be-d386daff4018",
+      "releaseMbid": "02f68162-bf45-4c0a-bc00-a0f84628a67a",
+      "title": "Where Do We Go From Here? The Remixes EP",
+      "type": "EP",
+      "releaseDate": "2024-10-18",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/362c4ee7-f02f-4e68-89be-d386daff4018/front-1200",
+      "tracks": [
+        {
+          "title": "Bad Blood (Weird Genius remix)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 197334
+        },
+        {
+          "title": "Let Go (kodeblooded remix)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 194545
+        },
+        {
+          "title": "Nothing Left (Cass Dillon remix)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 194142
+        },
+        {
+          "title": "Where Do We Go From Here? (Fairlane remix)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 222000
+        },
+        {
+          "title": "Where Do We Go From Here?",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 249893
+        },
+        {
+          "title": "Dark Void (Sullivan King remix)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 189200
+        },
+        {
+          "title": "Holding on to Something More",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 204212
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

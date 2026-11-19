@@ -1,0 +1,357 @@
+{
+  "generatedAt": "2026-11-19T11:07:42.316Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "e139d91a-f295-4a9e-92f5-61590a359e40",
+    "name": "Indian Summer",
+    "slug": "indian-summer",
+    "type": "BAND",
+    "country": "US",
+    "city": "Oakland",
+    "formedYear": 1993,
+    "disbandedYear": 1994,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/e139d91a-f295-4a9e-92f5-61590a359e40"
+      }
+    ],
+    "genres": [
+      "emo"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "84fc60cf-c7f0-47b2-b278-7164b8738485",
+      "releaseMbid": "67df3217-baf0-4992-9196-5d98ae4fee1d",
+      "title": "Indian Summer",
+      "type": "EP",
+      "releaseDate": "1993",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/84fc60cf-c7f0-47b2-b278-7164b8738485/front-1200",
+      "tracks": [
+        {
+          "title": "[Aren't You Angel?]",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 282000
+        },
+        {
+          "title": "[Millimeter]",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 151000
+        },
+        {
+          "title": "[Woolworm]",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 447000
+        }
+      ]
+    },
+    {
+      "mbid": "2c53e080-ac4a-41f4-8315-b28b1e8e424e",
+      "releaseMbid": "998e9818-d2f1-40b5-9c17-34f467e5e402",
+      "title": "Indian Summer / Embassy",
+      "type": "EP",
+      "releaseDate": "1994",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "I Think Your Train Is Leaving",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Stepping By",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Said",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "997e8fbd-c527-3e6e-9a5f-0cbf3716fa16",
+      "releaseMbid": "bcd7957d-5d0f-4599-84d1-c795e5a87b9e",
+      "title": "Live in the Blue Universe",
+      "type": "LIVE",
+      "releaseDate": "1999",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/997e8fbd-c527-3e6e-9a5f-0cbf3716fa16/front-1200",
+      "tracks": [
+        {
+          "title": "KZSU Intro",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 15026
+        },
+        {
+          "title": "Sugar Pill & Aren't You Angel",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 737266
+        },
+        {
+          "title": "Touch the Wings of an Angel... Doesn't Mean You Can Fly",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 396506
+        },
+        {
+          "title": "Orchard",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 401093
+        },
+        {
+          "title": "I Think Your Train Is Leaving",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 393733
+        },
+        {
+          "title": "Track 6",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 333333
+        },
+        {
+          "title": "Angry Son",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 1014573
+        }
+      ]
+    },
+    {
+      "mbid": "f56153b0-4901-3f4e-9abd-1e07d61c4b9a",
+      "releaseMbid": "e7f82466-2de3-4bc0-9353-78b8b961daad",
+      "title": "Science 1994",
+      "type": "COMPILATION",
+      "releaseDate": "2002",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f56153b0-4901-3f4e-9abd-1e07d61c4b9a/front-1200",
+      "tracks": [
+        {
+          "title": "[I Think Your Train Is Leaving]",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 275333
+        },
+        {
+          "title": "[Touch the Wings of an Angel... Doesn't Mean You Can Fly]",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 195506
+        },
+        {
+          "title": "[Truman]",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 91706
+        },
+        {
+          "title": "[Aren't You, Angel?]",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 282453
+        },
+        {
+          "title": "[mm.]",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 150986
+        },
+        {
+          "title": "[Woolworm]",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 446520
+        },
+        {
+          "title": "[Orchard]",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 236960
+        },
+        {
+          "title": "[Sugar Pill]",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 228200
+        },
+        {
+          "title": "[Reflections on Milkweed]",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 198334
+        }
+      ]
+    },
+    {
+      "mbid": "4c47c93d-6583-39ad-a21c-044b306acaea",
+      "releaseMbid": "9b8eacfb-b973-461f-885f-40cc16f8c809",
+      "title": "Hidden Arithmetic",
+      "type": "COMPILATION",
+      "releaseDate": "2006",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4c47c93d-6583-39ad-a21c-044b306acaea/front-1200",
+      "tracks": [
+        {
+          "title": "[Aren't You, Angel?]",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 241000
+        },
+        {
+          "title": "[Reflections on Milkweed]",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 201000
+        },
+        {
+          "title": "[mm.]",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 139000
+        },
+        {
+          "title": "[untitled]",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 295000
+        },
+        {
+          "title": "[Woolworm]",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 435000
+        },
+        {
+          "title": "[unknown]",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 15000
+        },
+        {
+          "title": "[Sugar Pill / Aren't You, Angel?]",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 737000
+        },
+        {
+          "title": "[Touch The Wing of an Angel... Doesn't Mean You Can Fly / mm.]",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 397000
+        },
+        {
+          "title": "[Orchard]",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 401000
+        },
+        {
+          "title": "[I Think Your Train Is Leaving / Truman]",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 394000
+        },
+        {
+          "title": "[untitled]",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 333000
+        },
+        {
+          "title": "[Woolworm]",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 1014000
+        }
+      ]
+    },
+    {
+      "mbid": "cee72ea2-6d92-4f7c-9aea-7511d49fa5c3",
+      "releaseMbid": "2ede0dcc-3019-49e8-9e98-8fb48c763c1b",
+      "title": "Giving Birth to Thunder",
+      "type": "COMPILATION",
+      "releaseDate": "2019-09-13",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/cee72ea2-6d92-4f7c-9aea-7511d49fa5c3/front-1200",
+      "tracks": [
+        {
+          "title": "Aren’t You, Angel?",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 285000
+        },
+        {
+          "title": "mm.",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 148000
+        },
+        {
+          "title": "Woolworm",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 445000
+        },
+        {
+          "title": "Reflections on Milkweed",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 196000
+        },
+        {
+          "title": "Sugar Pill",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 229000
+        },
+        {
+          "title": "I Think Your Train Is Leaving",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 278000
+        },
+        {
+          "title": "Touch the Wing of an Angel… Doesn’t Mean You Can Fly",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 201000
+        },
+        {
+          "title": "Truman",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 93000
+        },
+        {
+          "title": "Orchard",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 238000
+        },
+        {
+          "title": "⚡⚡⚡",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 297000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

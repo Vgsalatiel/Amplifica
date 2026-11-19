@@ -1,0 +1,503 @@
+{
+  "generatedAt": "2026-11-18T20:54:04.735Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "0acae232-d31a-4211-b6d0-6af1b6350274",
+    "name": "Thursday",
+    "slug": "thursday",
+    "type": "BAND",
+    "country": "US",
+    "city": "New Brunswick",
+    "formedYear": 1997,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/0acae232-d31a-4211-b6d0-6af1b6350274"
+      }
+    ],
+    "genres": [
+      "emo",
+      "post-hardcore",
+      "alternative-rock"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "a05c62d8-9f7c-3599-8d0d-7b2e29ef41ed",
+      "releaseMbid": "cf8c7e3e-b9d0-47b8-864a-a484b081f84c",
+      "title": "Waiting",
+      "type": "ALBUM",
+      "releaseDate": "1999-12-07",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Porcelain",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 280760
+        },
+        {
+          "title": "This Side of Brightness",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 215960
+        },
+        {
+          "title": "Ian Curtis",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 227480
+        },
+        {
+          "title": "Introduction",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 118440
+        },
+        {
+          "title": "Streaks in the Sky",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 270653
+        },
+        {
+          "title": "In Transmission",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 221186
+        },
+        {
+          "title": "Dying in New Brunswick",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 246066
+        },
+        {
+          "title": "The Dotted Line",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 259946
+        },
+        {
+          "title": "Where the Circle Ends",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 191026
+        }
+      ]
+    },
+    {
+      "mbid": "66e69cb8-7771-3c66-a8b4-20a30cad2c23",
+      "releaseMbid": "0348b387-ba22-42b9-9703-5308952d59dc",
+      "title": "Full Collapse",
+      "type": "ALBUM",
+      "releaseDate": "2001-04-10",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "A0001",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 36146
+        },
+        {
+          "title": "Understanding in a Car Crash",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 264546
+        },
+        {
+          "title": "Concealer",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 139040
+        },
+        {
+          "title": "Autobiography of a Nation",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 235626
+        },
+        {
+          "title": "A Hole in the World",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 207853
+        },
+        {
+          "title": "Cross Out the Eyes",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 248466
+        },
+        {
+          "title": "Paris in Flames",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 273026
+        },
+        {
+          "title": "I Am the Killer",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 215386
+        },
+        {
+          "title": "Standing on the Edge of Summer",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 222040
+        },
+        {
+          "title": "Wind‐Up",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 263373
+        },
+        {
+          "title": "How Long Is the Night?",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 344640
+        },
+        {
+          "title": "I1100",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 100253
+        }
+      ]
+    },
+    {
+      "mbid": "544af950-a238-359e-94cf-4b41efe33ae0",
+      "releaseMbid": "380a4406-28a7-4fff-9ca8-1ad343163c6a",
+      "title": "War All the Time",
+      "type": "ALBUM",
+      "releaseDate": "2003-09-15",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/544af950-a238-359e-94cf-4b41efe33ae0/front-1200",
+      "tracks": [
+        {
+          "title": "For the Workforce, Drowning",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 196426
+        },
+        {
+          "title": "Between Rupture and Rapture",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 183906
+        },
+        {
+          "title": "Division St.",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 254893
+        },
+        {
+          "title": "Signals Over the Air",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 250200
+        },
+        {
+          "title": "Marches and Maneuvers",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 267573
+        },
+        {
+          "title": "Asleep in the Chapel",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 226333
+        },
+        {
+          "title": "This Song Brought to You by a Falling Bomb",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 136333
+        },
+        {
+          "title": "Steps Ascending",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 266000
+        },
+        {
+          "title": "War All the Time",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 272400
+        },
+        {
+          "title": "M. Shepard",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 216066
+        },
+        {
+          "title": "Tomorrow I’ll Be You",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 247906
+        }
+      ]
+    },
+    {
+      "mbid": "2ba8ce74-8620-3185-9564-ac2049d11235",
+      "releaseMbid": "6f560c4f-e538-4bc6-a5d8-33044436d951",
+      "title": "A City by the Light Divided",
+      "type": "ALBUM",
+      "releaseDate": "2006-05-02",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "The Other Side of the Crash / Over and Out (Of Control)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 281000
+        },
+        {
+          "title": "Counting 5-4-3-2-1",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 199000
+        },
+        {
+          "title": "Sugar in the Sacrament",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 313000
+        },
+        {
+          "title": "At This Velocity",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 178000
+        },
+        {
+          "title": "We Will Overcome",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 220000
+        },
+        {
+          "title": "Arc-Lamps, Signal Flares, a Shower of White (The Light)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 152000
+        },
+        {
+          "title": "Running From the Rain",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 240000
+        },
+        {
+          "title": "Telegraph Avenue Kiss",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 216000
+        },
+        {
+          "title": "The Lovesong Writer",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 318000
+        },
+        {
+          "title": "Into the Blinding Light",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 229000
+        },
+        {
+          "title": "Autumn Leaves Revisited",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 414000
+        },
+        {
+          "title": "Even the Sand Is Made of Seashells",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 252000
+        },
+        {
+          "title": "Running From the Rain (Dave Fridmann remix)",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 219000
+        }
+      ]
+    },
+    {
+      "mbid": "aee80e2b-bff9-3e19-8ada-732c48b09be5",
+      "releaseMbid": "830d0d45-4e14-47fd-83d9-a9192e2cf89f",
+      "title": "Common Existence",
+      "type": "ALBUM",
+      "releaseDate": "2009-02-13",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/aee80e2b-bff9-3e19-8ada-732c48b09be5/front-1200",
+      "tracks": [
+        {
+          "title": "Resuscitation of a Dead Man",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 201000
+        },
+        {
+          "title": "Last Call",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 243000
+        },
+        {
+          "title": "As He Climbed the Dark Mountain",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 182000
+        },
+        {
+          "title": "Friends in the Armed Forces",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 251000
+        },
+        {
+          "title": "Beyond the Visible Spectrum",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 239000
+        },
+        {
+          "title": "Time’s Arrow",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 253000
+        },
+        {
+          "title": "Unintended Long Term Effects",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 138000
+        },
+        {
+          "title": "Circuits of Fever",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 307000
+        },
+        {
+          "title": "Subway Funeral",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 258000
+        },
+        {
+          "title": "Love Has Led Us Astray",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 279000
+        },
+        {
+          "title": "You Were the Cancer",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 349000
+        }
+      ]
+    },
+    {
+      "mbid": "10390f76-ab1f-48ca-b2a4-137b020e10f5",
+      "releaseMbid": "5369da91-1dc7-472b-ab69-2406fb0b4ad6",
+      "title": "No Devolución",
+      "type": "ALBUM",
+      "releaseDate": "2011-04-12",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Fast to the End",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 201240
+        },
+        {
+          "title": "No Answers",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 292573
+        },
+        {
+          "title": "A Darker Forest",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 219653
+        },
+        {
+          "title": "Sparks Against the Sun",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 285226
+        },
+        {
+          "title": "Open Quotes",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 181960
+        },
+        {
+          "title": "Past and Future Ruins",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 255626
+        },
+        {
+          "title": "Magnets Caught in a Metal Heart",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 221440
+        },
+        {
+          "title": "Empty Glass",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 298986
+        },
+        {
+          "title": "A Gun in the First Act",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 301666
+        },
+        {
+          "title": "Millimeter",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 167866
+        },
+        {
+          "title": "Turnpike Divides",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 293973
+        },
+        {
+          "title": "Stay True",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 472306
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

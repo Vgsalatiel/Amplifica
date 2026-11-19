@@ -1,0 +1,754 @@
+{
+  "generatedAt": "2026-11-19T11:11:31.627Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "1ca441fa-7cea-4f29-939b-06d8741f74c7",
+    "name": "Free Throw",
+    "slug": "free-throw",
+    "type": "BAND",
+    "country": "US",
+    "city": "Nashville",
+    "formedYear": 2012,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/1ca441fa-7cea-4f29-939b-06d8741f74c7"
+      }
+    ],
+    "genres": [
+      "emo",
+      "pop-punk",
+      "midwest-emo"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "81e6d14a-ebe3-4b3c-a9fa-bdc9abee31d2",
+      "releaseMbid": "c4c445f2-5bc3-4d8d-8f47-dbb8211e8beb",
+      "title": "Free Throw",
+      "type": "EP",
+      "releaseDate": "2012-10-26",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/81e6d14a-ebe3-4b3c-a9fa-bdc9abee31d2/front-1200",
+      "tracks": [
+        {
+          "title": "A Wild Pidgey Appeared",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 95000
+        },
+        {
+          "title": "Lvl. 2 Pidgey In A Masterball",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 171000
+        },
+        {
+          "title": "My High",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 62000
+        },
+        {
+          "title": "My Low",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 170000
+        },
+        {
+          "title": "An Hour Pissed",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 126000
+        },
+        {
+          "title": "Gersberms!",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 219000
+        }
+      ]
+    },
+    {
+      "mbid": "58c8a33e-9aef-48bf-971a-ddf6f6243e08",
+      "releaseMbid": "9b86fc29-7e41-47f8-96ee-09a76344f288",
+      "title": "Lavender Town",
+      "type": "EP",
+      "releaseDate": "2014-04-29",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/58c8a33e-9aef-48bf-971a-ddf6f6243e08/front-1200",
+      "tracks": [
+        {
+          "title": "Slam With the Best or Jam Like the Rest",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 123530
+        },
+        {
+          "title": "Now Kith",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 183716
+        },
+        {
+          "title": "Lavender Town",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 112942
+        },
+        {
+          "title": "Pennsylvania Dutch",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 280967
+        }
+      ]
+    },
+    {
+      "mbid": "ae1c8764-8ad0-441f-882d-6089f985e36c",
+      "releaseMbid": "a8b42b02-a7cb-4cea-84ba-5218693a4a47",
+      "title": "Those Days Are Gone",
+      "type": "ALBUM",
+      "releaseDate": "2014-09-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ae1c8764-8ad0-441f-882d-6089f985e36c/front-1200",
+      "tracks": [
+        {
+          "title": "Such Luck",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 145000
+        },
+        {
+          "title": "Two Beers In",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 135000
+        },
+        {
+          "title": "Good Job, Champ",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 108000
+        },
+        {
+          "title": "Tongue Tied",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 162000
+        },
+        {
+          "title": "Pallet Town",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 216000
+        },
+        {
+          "title": "An Hour Pissed",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 181000
+        },
+        {
+          "title": "Kim Tastie",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 186000
+        },
+        {
+          "title": "How I Got My Shrunken Head",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 117000
+        },
+        {
+          "title": "Let’s Get Invisible",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 194000
+        },
+        {
+          "title": "What Day Is It, October?",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 145000
+        },
+        {
+          "title": "Hey Ken, Someone Methodically Mushed the Donuts",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 168000
+        }
+      ]
+    },
+    {
+      "mbid": "b6467d34-971d-4e8a-8cef-b77b0bafce61",
+      "releaseMbid": "cd5fa843-9a65-4198-b2dc-0e54f98089cf",
+      "title": "December Split 7\"",
+      "type": "EP",
+      "releaseDate": "2014-12-23",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b6467d34-971d-4e8a-8cef-b77b0bafce61/front-1200",
+      "tracks": [
+        {
+          "title": "Grandma Got Runover by a Reindeer",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 204592
+        },
+        {
+          "title": "Christmas (Baby Please Come Home)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 125259
+        }
+      ]
+    },
+    {
+      "mbid": "5c39627a-d183-4c32-b954-4f7739bde3bd",
+      "releaseMbid": "e04f1a42-7db9-4a4c-96e8-e5d477c20534",
+      "title": "D/FT/PY",
+      "type": "EP",
+      "releaseDate": "2016",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/5c39627a-d183-4c32-b954-4f7739bde3bd/front-1200",
+      "tracks": [
+        {
+          "title": "Everything Is Awesome",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 160000
+        },
+        {
+          "title": "Rutgersfest Twentyten",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 136000
+        },
+        {
+          "title": "Vision Quest//Top Gun",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 93000
+        },
+        {
+          "title": "What Do You Think Chai Guy?",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 168000
+        },
+        {
+          "title": "Stop Right There, Criminal Scum",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 114000
+        }
+      ]
+    },
+    {
+      "mbid": "b134a190-41b0-44a1-a06a-cfd74e3c6f08",
+      "releaseMbid": "dff04046-260f-413b-ba3f-a550921c3dae",
+      "title": "PARTY YEAR",
+      "type": "EP",
+      "releaseDate": "2016-08-02",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Rutgersfest Twentyten",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 135784
+        },
+        {
+          "title": "Vision Quest // Top Gun",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 93100
+        },
+        {
+          "title": "What Do You Think, Chai Guy",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 167602
+        },
+        {
+          "title": "Stop Right There, Criminal Scum",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 113998
+        },
+        {
+          "title": "Everything Is Awesome (Joint Cover)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 160000
+        }
+      ]
+    },
+    {
+      "mbid": "a9471674-d96d-49c6-8d7f-39d96b385fbd",
+      "releaseMbid": "76ae7a23-ce21-48c1-856e-bd8064c3fd9a",
+      "title": "Bear Your Mind",
+      "type": "ALBUM",
+      "releaseDate": "2017-05-26",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a9471674-d96d-49c6-8d7f-39d96b385fbd/front-1200",
+      "tracks": [
+        {
+          "title": "Open Window",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 181000
+        },
+        {
+          "title": "Rinse. Repeat.",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 177000
+        },
+        {
+          "title": "Randy, I Am The Liquor",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 185000
+        },
+        {
+          "title": "Weight On My Chest",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 195000
+        },
+        {
+          "title": "Hope Spot",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 222000
+        },
+        {
+          "title": "Weak Tables",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 173000
+        },
+        {
+          "title": "Andy And I, Uh...",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 193000
+        },
+        {
+          "title": "Cal Ripken Jr. Johnson",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 169000
+        },
+        {
+          "title": "Dead Reckoning",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 182000
+        },
+        {
+          "title": "Better Have Burn Heal",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 212000
+        },
+        {
+          "title": "Victory Road",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 206000
+        }
+      ]
+    },
+    {
+      "mbid": "db38c7ef-68c1-4212-ad2b-4ce8fa03cb37",
+      "releaseMbid": "8755f5ae-db04-4e5a-9389-28336c8a41f6",
+      "title": "Missing Pieces",
+      "type": "EP",
+      "releaseDate": "2018-03-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/db38c7ef-68c1-4212-ad2b-4ce8fa03cb37/front-1200",
+      "tracks": [
+        {
+          "title": "Andy And I, Uh...",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 193000
+        },
+        {
+          "title": "Weak Tables",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 177000
+        },
+        {
+          "title": "Cal Ripken Jr Johnson",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 182000
+        },
+        {
+          "title": "Randy, I Am The Liquor",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 171000
+        },
+        {
+          "title": "Same Drugs",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 245000
+        }
+      ]
+    },
+    {
+      "mbid": "7a1c3f50-7493-405e-b454-e2579024f4ec",
+      "releaseMbid": "9c81e1c4-232a-46e3-86d4-d8e1aafa3da3",
+      "title": "What’s Past Is Prologue",
+      "type": "ALBUM",
+      "releaseDate": "2019-03-29",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/7a1c3f50-7493-405e-b454-e2579024f4ec/front-1200",
+      "tracks": [
+        {
+          "title": "Smokes, Let’s Go",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 193000
+        },
+        {
+          "title": "Tail Whip, Struggle",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 209000
+        },
+        {
+          "title": "The Corner’s Dilemma",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 203000
+        },
+        {
+          "title": "You Don’t Say That",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 176000
+        },
+        {
+          "title": "Stay Out of the Basement",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 140000
+        },
+        {
+          "title": "Anaconda Vice",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 199000
+        },
+        {
+          "title": "Today Is Especially Delicious",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 116000
+        },
+        {
+          "title": "The Fix Is In",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 131000
+        },
+        {
+          "title": "Perfect Driftwood",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 183000
+        },
+        {
+          "title": "Monte Luna",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 274000
+        },
+        {
+          "title": "Cerulean City",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 169000
+        },
+        {
+          "title": "What’s Past Is Prologue",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 259000
+        }
+      ]
+    },
+    {
+      "mbid": "367c1e59-18e3-4381-9795-9e0ff29ae427",
+      "releaseMbid": "e39ff4bc-dbe5-4926-8a69-16081468e0d8",
+      "title": "Swig",
+      "type": "EP",
+      "releaseDate": "2020-02-19",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/367c1e59-18e3-4381-9795-9e0ff29ae427/front-1200",
+      "tracks": [
+        {
+          "title": "Motorcycle, No Motor?",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 151000
+        },
+        {
+          "title": "Tips Are Appreciated",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 174000
+        }
+      ]
+    },
+    {
+      "mbid": "ede83834-317d-431e-9072-1311dc163283",
+      "releaseMbid": "58b5846b-f336-45ac-922c-165ca358803e",
+      "title": "Piecing It Together",
+      "type": "ALBUM",
+      "releaseDate": "2021-06-25",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ede83834-317d-431e-9072-1311dc163283/front-1200",
+      "tracks": [
+        {
+          "title": "Cloud Sick",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 244000
+        },
+        {
+          "title": "Worry Seed",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 168000
+        },
+        {
+          "title": "The Grass Isn’t Greener",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 192000
+        },
+        {
+          "title": "Down & Out",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 201000
+        },
+        {
+          "title": "Ocular Pat Down",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 227000
+        },
+        {
+          "title": "Second Wind",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 195000
+        },
+        {
+          "title": "Force of Will",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 180000
+        },
+        {
+          "title": "Dormancy",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 165000
+        },
+        {
+          "title": "Trust Fall",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 216000
+        },
+        {
+          "title": "Ghost in the Routine",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 175000
+        },
+        {
+          "title": "Equilibrium",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 86000
+        },
+        {
+          "title": "Dawn of a New Day",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 304000
+        }
+      ]
+    },
+    {
+      "mbid": "b45ac754-a060-43f5-b296-099c72e55ca4",
+      "releaseMbid": "d0deb929-f8a9-4f2a-a7b3-6c0c8c1ce25b",
+      "title": "Lessons That We Swear to Keep",
+      "type": "ALBUM",
+      "releaseDate": "2023-10-13",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b45ac754-a060-43f5-b296-099c72e55ca4/front-1200",
+      "tracks": [
+        {
+          "title": "A Part Is Better Than Zero",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 171000
+        },
+        {
+          "title": "Spacer’s Choice",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 153000
+        },
+        {
+          "title": "Replacing Leene’s Bell",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 222000
+        },
+        {
+          "title": "The Museum of Orphaned Concepts",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 238000
+        },
+        {
+          "title": "So Yeah, So",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 209000
+        },
+        {
+          "title": "Thanks for Asking",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 204000
+        },
+        {
+          "title": "Into the Wind Stream",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 228000
+        },
+        {
+          "title": "Joy Ephemeral",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 223000
+        },
+        {
+          "title": "Cinnabar Island",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 191000
+        },
+        {
+          "title": "Tips for Safe Travels",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 233000
+        },
+        {
+          "title": "What Comes Around Is All Around",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 234000
+        }
+      ]
+    },
+    {
+      "mbid": "4909dd96-8448-4d2b-9d99-3ebc100a9b3a",
+      "releaseMbid": "931181db-0910-4b38-805b-67e74c712678",
+      "title": "Moments Before the Wind",
+      "type": "ALBUM",
+      "releaseDate": "2026-03-27",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4909dd96-8448-4d2b-9d99-3ebc100a9b3a/front-1200",
+      "tracks": [
+        {
+          "title": "Missing No.",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 189000
+        },
+        {
+          "title": "Mike Nolan’s Long Weekend",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 214000
+        },
+        {
+          "title": "For Those Who Come After",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 172000
+        },
+        {
+          "title": "Floaroma Town",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 229000
+        },
+        {
+          "title": "The Need for a Post-Credits Scene",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 245000
+        },
+        {
+          "title": "The Outlaw Star",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 155000
+        },
+        {
+          "title": "A Hero’s Grave",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 185000
+        },
+        {
+          "title": "There Will Come Soft Rains",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 184000
+        },
+        {
+          "title": "Deviancy",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 209000
+        },
+        {
+          "title": "This Dollar General Store Ain’t Gonna Rob Itself",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 161000
+        },
+        {
+          "title": "The Waters of Life",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 213000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

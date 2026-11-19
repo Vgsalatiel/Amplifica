@@ -1,0 +1,887 @@
+{
+  "generatedAt": "2026-11-19T11:57:29.535Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "4709dd69-1034-4634-9e88-d1099453b192",
+    "name": "Dag Nasty",
+    "slug": "dag-nasty",
+    "type": "BAND",
+    "country": "US",
+    "city": "Washington, D.C.",
+    "formedYear": 1985,
+    "disbandedYear": 1991,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/4709dd69-1034-4634-9e88-d1099453b192"
+      }
+    ],
+    "genres": [
+      "emo",
+      "melodic-hardcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "0f055ef0-a8a5-3fb3-ae3c-8d0934276eac",
+      "releaseMbid": "ec6da306-5eca-43ff-801c-2fe794555dcd",
+      "title": "Can I Say",
+      "type": "ALBUM",
+      "releaseDate": "1986-06",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0f055ef0-a8a5-3fb3-ae3c-8d0934276eac/front-1200",
+      "tracks": [
+        {
+          "title": "Values Here",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "One to Two",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Circles",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Thin Line",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Justification",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "What Now?",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "I've Heard",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Under Your Influence",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "Can I Say",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Never Go Back",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "1246a07d-e448-3387-b890-7ae46f7e2193",
+      "releaseMbid": "985c3f31-e478-4182-8a88-2f8b9b5ec813",
+      "title": "Wig Out at Denko's",
+      "type": "ALBUM",
+      "releaseDate": "1987",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/1246a07d-e448-3387-b890-7ae46f7e2193/front-1200",
+      "tracks": [
+        {
+          "title": "The Godfather",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Trying",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Safe",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Fall",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "When I Move",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Simple Minds",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Wig Out at Denko's",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Exercise",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "Dag Nasty",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Crucial Three",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "a769d97d-f595-3685-abc8-0be7ee4b86f2",
+      "releaseMbid": "ab66e80d-186d-46e3-b9ca-96301dff8d77",
+      "title": "All Ages Show",
+      "type": "EP",
+      "releaseDate": "1987-11-15",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "You're Mine",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 225000
+        },
+        {
+          "title": "Staring at the Rude Boys",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 168000
+        },
+        {
+          "title": "All Ages Show",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 154000
+        }
+      ]
+    },
+    {
+      "mbid": "1a41e9d1-7ab0-351c-8f13-cfec57fd1b30",
+      "releaseMbid": "dfdf7d25-6163-4273-967a-0976377c5d89",
+      "title": "Trouble Is",
+      "type": "EP",
+      "releaseDate": "1988-01",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Trouble Is (remix)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Never Green Lane",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "12XU",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "9b6930de-75aa-35d9-a338-464b17f97f29",
+      "releaseMbid": "c7e8c8a9-57c1-4638-8af9-341e17e4505c",
+      "title": "Field Day",
+      "type": "ALBUM",
+      "releaseDate": "1988-02",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/9b6930de-75aa-35d9-a338-464b17f97f29/front-1200",
+      "tracks": [
+        {
+          "title": "Trouble Is",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 213000
+        },
+        {
+          "title": "Field Day",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 148000
+        },
+        {
+          "title": "Things That Make No Sense",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 164000
+        },
+        {
+          "title": "The Ambulance Song",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 218000
+        },
+        {
+          "title": "Staring at the Rude Boys",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 169000
+        },
+        {
+          "title": "13 Seconds Under Water",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 46000
+        },
+        {
+          "title": "La Peñita",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 249000
+        },
+        {
+          "title": "Dear Mrs. Touma",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 157000
+        },
+        {
+          "title": "Matt",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 94000
+        },
+        {
+          "title": "I've Heard",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 12000
+        },
+        {
+          "title": "Under Your Influence",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 217000
+        },
+        {
+          "title": "Typical",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 157000
+        },
+        {
+          "title": "Here's to You",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 169000
+        },
+        {
+          "title": "(16 Count)",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 21000
+        }
+      ]
+    },
+    {
+      "mbid": "2303d0a4-e3a7-34a7-bbb1-75fc0c67def7",
+      "releaseMbid": "eb0d66c2-4608-439f-8fa9-9378c5d726ee",
+      "title": "85-86",
+      "type": "COMPILATION",
+      "releaseDate": "1991",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Another Wrong",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 137826
+        },
+        {
+          "title": "Circles",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 169040
+        },
+        {
+          "title": "Can I Say",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 118800
+        },
+        {
+          "title": "I've Heard",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 103293
+        },
+        {
+          "title": "Never Go Back",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 163173
+        },
+        {
+          "title": "Justification",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 173026
+        },
+        {
+          "title": "Under Your Influence",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 165106
+        },
+        {
+          "title": "Trying (live)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 108826
+        },
+        {
+          "title": "Moni-Q (live)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 177533
+        },
+        {
+          "title": "Fall",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 171840
+        },
+        {
+          "title": "Trying",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 108466
+        },
+        {
+          "title": "All Ages Show",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 158626
+        },
+        {
+          "title": "Safe",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 192040
+        },
+        {
+          "title": "Mule",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 136160
+        },
+        {
+          "title": "My Dog Is a Cat",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 116973
+        },
+        {
+          "title": "Another Wrong II",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 138226
+        }
+      ]
+    },
+    {
+      "mbid": "c7e05577-5950-3924-abb3-b61d95bd230f",
+      "releaseMbid": "32c32fa0-b990-4360-8c46-e561daa1e311",
+      "title": "Can I Say & Wig Out at Denko's",
+      "type": "COMPILATION",
+      "releaseDate": "1991",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Values Here",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 144973
+        },
+        {
+          "title": "One to Two",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 94560
+        },
+        {
+          "title": "Circles",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 206440
+        },
+        {
+          "title": "Thin Line",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 149960
+        },
+        {
+          "title": "Justification",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 172240
+        },
+        {
+          "title": "What Now?",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 135826
+        },
+        {
+          "title": "I've Heard",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 102600
+        },
+        {
+          "title": "Under Your Influence",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 156600
+        },
+        {
+          "title": "Can I Say",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 118866
+        },
+        {
+          "title": "Never Go Back",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 160040
+        },
+        {
+          "title": "The Godfather",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 201093
+        },
+        {
+          "title": "Trying",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 118240
+        },
+        {
+          "title": "Safe",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 186800
+        },
+        {
+          "title": "Fall",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 173266
+        },
+        {
+          "title": "When I Move",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 114826
+        },
+        {
+          "title": "Simple Minds",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 121106
+        },
+        {
+          "title": "Wig Out at Denko's",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 193493
+        },
+        {
+          "title": "Exercise",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 213066
+        },
+        {
+          "title": "Dag Nasty",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 194906
+        },
+        {
+          "title": "Crucial Three",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 153600
+        }
+      ]
+    },
+    {
+      "mbid": "246469ba-98e5-4d93-ac92-d61360f86e30",
+      "releaseMbid": "23478b05-e787-4806-babd-355933983b5f",
+      "title": "Live In Philadelphia. Club Pizzaz 22/2/87",
+      "type": "EP",
+      "releaseDate": "1992",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Can I Say",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 124000
+        },
+        {
+          "title": "Fall",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 181000
+        },
+        {
+          "title": "Values Here",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 145000
+        },
+        {
+          "title": "What Now",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 42000
+        },
+        {
+          "title": "Trying",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 113000
+        },
+        {
+          "title": "I've Heard",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 121000
+        },
+        {
+          "title": "Exercise",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 248000
+        },
+        {
+          "title": "Crucial Three",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 135000
+        },
+        {
+          "title": "One to Two",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 152000
+        },
+        {
+          "title": "Dag Nasty",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 215000
+        },
+        {
+          "title": "All Ages Show",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 151000
+        },
+        {
+          "title": "Circles",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 209000
+        },
+        {
+          "title": "The Godfather",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 205000
+        },
+        {
+          "title": "Never Go Back",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 204000
+        },
+        {
+          "title": "Thin Line",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 149000
+        },
+        {
+          "title": "12XU",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 83000
+        }
+      ]
+    },
+    {
+      "mbid": "e30ab74d-778a-34a6-a8b9-81c732c516c9",
+      "releaseMbid": "19241a3b-5b9d-49e0-bacd-9ed8455fe8c6",
+      "title": "Four on the Floor",
+      "type": "ALBUM",
+      "releaseDate": "1992-07-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/e30ab74d-778a-34a6-a8b9-81c732c516c9/front-1200",
+      "tracks": [
+        {
+          "title": "Still Waiting",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 172933
+        },
+        {
+          "title": "Going Down",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 149640
+        },
+        {
+          "title": "Turn It Down",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 205133
+        },
+        {
+          "title": "Million Days",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 218960
+        },
+        {
+          "title": "Roger",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 80266
+        },
+        {
+          "title": "S.F.S.",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 172333
+        },
+        {
+          "title": "We Went Wrong",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 202933
+        },
+        {
+          "title": "Down Time",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 172733
+        },
+        {
+          "title": "Lie Down and Die",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 148106
+        },
+        {
+          "title": "Mango",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 192026
+        }
+      ]
+    },
+    {
+      "mbid": "837eaa9e-9eab-32ff-8f98-87e9c5f15e2e",
+      "releaseMbid": "a2010954-d804-47ed-8637-0dabc06ece4d",
+      "title": "Minority of One",
+      "type": "ALBUM",
+      "releaseDate": "2002-08-13",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/837eaa9e-9eab-32ff-8f98-87e9c5f15e2e/front-1200",
+      "tracks": [
+        {
+          "title": "Ghosts",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 171120
+        },
+        {
+          "title": "Minority of One",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 140706
+        },
+        {
+          "title": "Bottle This",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 234373
+        },
+        {
+          "title": "Broken Days",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 236786
+        },
+        {
+          "title": "Your Words",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 124080
+        },
+        {
+          "title": "Incinerate",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 119346
+        },
+        {
+          "title": "Throwing Darts",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 123893
+        },
+        {
+          "title": "White Flag",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 211573
+        },
+        {
+          "title": "Twisted Again",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 163640
+        },
+        {
+          "title": "Average Man",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 204653
+        },
+        {
+          "title": "Wasting Away",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 208226
+        },
+        {
+          "title": "100 Punks",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 201066
+        }
+      ]
+    },
+    {
+      "mbid": "41aadcb0-aaee-4baa-822f-4addb40a8252",
+      "releaseMbid": "16d8cc0e-9b1c-34cc-809e-fa986113c55f",
+      "title": "Dag With Shawn",
+      "type": "ALBUM",
+      "releaseDate": "2009-10-19",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/41aadcb0-aaee-4baa-822f-4addb40a8252/front-1200",
+      "tracks": [
+        {
+          "title": "Under Your Influence",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 161573
+        },
+        {
+          "title": "I've Heard",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 102626
+        },
+        {
+          "title": "Justification",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 174000
+        },
+        {
+          "title": "Circles",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 168293
+        },
+        {
+          "title": "Can I Say",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 121386
+        },
+        {
+          "title": "Thin Line (Ragu)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 151480
+        },
+        {
+          "title": "Never Go Back",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 166546
+        },
+        {
+          "title": "Another Wrong",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 137040
+        },
+        {
+          "title": "One to Two",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 133306
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

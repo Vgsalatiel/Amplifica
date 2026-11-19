@@ -1,0 +1,258 @@
+{
+  "generatedAt": "2026-11-19T11:48:37.470Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "d98bc803-30b2-47de-a9d0-460b3a2892a1",
+    "name": "Attanos",
+    "slug": "attanos",
+    "type": "BAND",
+    "country": "BR",
+    "city": "Brazil",
+    "formedYear": 2012,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/d98bc803-30b2-47de-a9d0-460b3a2892a1"
+      }
+    ],
+    "genres": [
+      "metalcore",
+      "metal"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "a4ad5832-ba86-4d88-a280-54cb3bb99115",
+      "releaseMbid": "64ad10d5-0fb7-4205-99cd-a4218a1750d0",
+      "title": "Attanos",
+      "type": "EP",
+      "releaseDate": "2013-10-31",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Resignação",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 246000
+        },
+        {
+          "title": "A Beleza",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 193000
+        },
+        {
+          "title": "Já Passa da Meia Noite",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 188000
+        }
+      ]
+    },
+    {
+      "mbid": "b6c743eb-5bc1-4c73-a610-142016a498f8",
+      "releaseMbid": "f0f1d222-0304-409c-a9dc-c7bca271175a",
+      "title": "Chuva de Cinzas",
+      "type": "EP",
+      "releaseDate": "2015-10-23",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Vozes da Inocência",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 227000
+        },
+        {
+          "title": "Orgulho e Egoísmo",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 142000
+        },
+        {
+          "title": "Entardecer",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 222000
+        },
+        {
+          "title": "Entre o Feito e a Razão",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 291000
+        },
+        {
+          "title": "Escolhas De Um Caminho",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 230000
+        }
+      ]
+    },
+    {
+      "mbid": "d25e8335-be8d-4e4c-8dec-43ba7c749779",
+      "releaseMbid": "df803fed-7d4c-45fa-bb65-3f279d2f5519",
+      "title": "Renewal",
+      "type": "ALBUM",
+      "releaseDate": "2018-08-08",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Species",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 311000
+        },
+        {
+          "title": "Resignation",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 257000
+        },
+        {
+          "title": "Pride and Selfishness",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 138000
+        },
+        {
+          "title": "Breath Again",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 208000
+        },
+        {
+          "title": "Choices",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 221000
+        },
+        {
+          "title": "Sunset",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 238000
+        },
+        {
+          "title": "Innocence Voices",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 208000
+        },
+        {
+          "title": "After Midnight",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 180000
+        },
+        {
+          "title": "The Beauty",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 193000
+        },
+        {
+          "title": "The Fact and the Reason",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 263000
+        }
+      ]
+    },
+    {
+      "mbid": "f7a37266-0344-49fd-831c-5ade2dfc9dfa",
+      "releaseMbid": "a48aaa03-e431-463f-b21d-a7a5c0f3ccba",
+      "title": "Screaming Soul",
+      "type": "ALBUM",
+      "releaseDate": "2021-05-01",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Your Fortress",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 198000
+        },
+        {
+          "title": "Screaming Soul",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 256000
+        },
+        {
+          "title": "Point. End.",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 223000
+        },
+        {
+          "title": "When the Life Crumbles",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 184000
+        },
+        {
+          "title": "New Ways Same Mistakes",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 234000
+        },
+        {
+          "title": "Things You Don't Know",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 234000
+        },
+        {
+          "title": "A Destiny to Build",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 172000
+        },
+        {
+          "title": "Bad Moments",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 261000
+        },
+        {
+          "title": "Give Some Reason",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 225000
+        },
+        {
+          "title": "The Game",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 203000
+        },
+        {
+          "title": "Timeless",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 221000
+        },
+        {
+          "title": "Selfless Confident",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 240000
+        },
+        {
+          "title": "Purify and Clarify",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 245000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

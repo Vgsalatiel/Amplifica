@@ -1,0 +1,1000 @@
+{
+  "generatedAt": "2026-11-18T20:55:49.854Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "12269eae-3c21-4586-acf2-6cb03c92f4e7",
+    "name": "Braid",
+    "slug": "braid",
+    "type": "BAND",
+    "country": "US",
+    "city": "Champaign",
+    "formedYear": 1993,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/12269eae-3c21-4586-acf2-6cb03c92f4e7"
+      }
+    ],
+    "genres": [
+      "emo"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "34595cdd-cb5c-4181-8980-624f28e9fc10",
+      "releaseMbid": "9f1fb14d-c9f9-41ca-b627-7dd1cb808e18",
+      "title": "Rainsnowmatch",
+      "type": "EP",
+      "releaseDate": "1994",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Sounds Like Violence",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Motionlight",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Perfect Pitch",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "514d0a48-9608-3ed1-8313-c1c3e5960f9b",
+      "releaseMbid": "22516bc2-9871-4d00-b62f-0a8d5a1e825b",
+      "title": "Frankie Welfare Boy Age 5",
+      "type": "ALBUM",
+      "releaseDate": "1995-06-06",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/514d0a48-9608-3ed1-8313-c1c3e5960f9b/front-1200",
+      "tracks": [
+        {
+          "title": "Angel Falls",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 144960
+        },
+        {
+          "title": "Capricorn",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 196973
+        },
+        {
+          "title": "Minuet",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 118493
+        },
+        {
+          "title": "New Dollar Building",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 143040
+        },
+        {
+          "title": "Lining Lake Michigan",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 146333
+        },
+        {
+          "title": "Wax Wings",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 67693
+        },
+        {
+          "title": "Garner Hall Music Room",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 133906
+        },
+        {
+          "title": "Hugs From Boys",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 245693
+        },
+        {
+          "title": "Three Point Turn",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 111840
+        },
+        {
+          "title": "Eeyore and Easel",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 206666
+        },
+        {
+          "title": "Red Dye Company",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 67160
+        },
+        {
+          "title": "Summer Salt",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 156173
+        },
+        {
+          "title": "X Marks the Hope Box",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 113000
+        },
+        {
+          "title": "Brass Knuckle Sandwich",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 211160
+        },
+        {
+          "title": "Dolores",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 69000
+        },
+        {
+          "title": "Under the Influence of Tricycle Mechanics",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 164506
+        },
+        {
+          "title": "Featherweight",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 158826
+        },
+        {
+          "title": "Ornamental",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 187666
+        },
+        {
+          "title": "Kissy Windmill Print",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 145506
+        },
+        {
+          "title": "Jane Describes John",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 198333
+        },
+        {
+          "title": "Quarters",
+          "discNumber": 1,
+          "position": 21,
+          "durationMs": 152826
+        },
+        {
+          "title": "Interstate 57",
+          "discNumber": 1,
+          "position": 22,
+          "durationMs": 106840
+        },
+        {
+          "title": "Yawn London",
+          "discNumber": 1,
+          "position": 23,
+          "durationMs": 180160
+        },
+        {
+          "title": "Vest of Interest",
+          "discNumber": 1,
+          "position": 24,
+          "durationMs": 125506
+        },
+        {
+          "title": "Pipsqueak",
+          "discNumber": 1,
+          "position": 25,
+          "durationMs": 182000
+        },
+        {
+          "title": "Zero Frisco",
+          "discNumber": 1,
+          "position": 26,
+          "durationMs": 85734
+        }
+      ]
+    },
+    {
+      "mbid": "7acefe70-392c-35c3-8c72-291bbcf4bd3a",
+      "releaseMbid": "ce178882-1d8e-4515-89c9-e0f310f11262",
+      "title": "The Age of Octeen",
+      "type": "ALBUM",
+      "releaseDate": "1996-09-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/7acefe70-392c-35c3-8c72-291bbcf4bd3a/front-1200",
+      "tracks": [
+        {
+          "title": "My Baby Smokes",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 195200
+        },
+        {
+          "title": "Nineteen 75",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 184640
+        },
+        {
+          "title": "Divers",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 222733
+        },
+        {
+          "title": "Jimmy Go Swimmer",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 145146
+        },
+        {
+          "title": "Movie Clock Star",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 345493
+        },
+        {
+          "title": "Eulalia, Eulalia",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 230893
+        },
+        {
+          "title": "Grace Car, Part One",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 250373
+        },
+        {
+          "title": "Harrison Ford",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 240853
+        },
+        {
+          "title": "American Typewriter",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 199453
+        },
+        {
+          "title": "The Chandelier Swing",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 204760
+        },
+        {
+          "title": "Autobiography",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 66453
+        }
+      ]
+    },
+    {
+      "mbid": "489e0c3d-ffd6-342a-b542-283f2e72f016",
+      "releaseMbid": "46432b06-5e77-3f12-b281-82233ed50873",
+      "title": "Frame & Canvas",
+      "type": "ALBUM",
+      "releaseDate": "1998-04-06",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/489e0c3d-ffd6-342a-b542-283f2e72f016/front-1200",
+      "tracks": [
+        {
+          "title": "The New Nathan Detroits",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 257973
+        },
+        {
+          "title": "Killing a Camera",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 154506
+        },
+        {
+          "title": "Never Will Come for Us",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 211253
+        },
+        {
+          "title": "First Day Back",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 202426
+        },
+        {
+          "title": "Collect From Clark Kent",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 204933
+        },
+        {
+          "title": "Milwaukee Sky Rocket",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 190200
+        },
+        {
+          "title": "A Dozen Roses",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 258706
+        },
+        {
+          "title": "Urbana's Too Dark",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 198346
+        },
+        {
+          "title": "Consolation Prize Fighter",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 194346
+        },
+        {
+          "title": "Ariel",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 157933
+        },
+        {
+          "title": "Breathe In",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 138066
+        },
+        {
+          "title": "I Keep a Diary",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 343186
+        }
+      ]
+    },
+    {
+      "mbid": "d048da76-1ffb-3c97-b361-949da0eed9f2",
+      "releaseMbid": "af8c73c1-2632-4c6a-a019-5dd09625b1f4",
+      "title": "Lucky to Be Alive",
+      "type": "LIVE",
+      "releaseDate": "2000-03-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d048da76-1ffb-3c97-b361-949da0eed9f2/front-1200",
+      "tracks": [
+        {
+          "title": "Autobiography",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 88000
+        },
+        {
+          "title": "The New Nathan Detroits",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 238226
+        },
+        {
+          "title": "Killing a Camera",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 155120
+        },
+        {
+          "title": "Please Drive Faster",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 233306
+        },
+        {
+          "title": "Forever Got Shorter",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 214800
+        },
+        {
+          "title": "What a Wonderful Puddle",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 289546
+        },
+        {
+          "title": "Never Will Come for Us",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 215546
+        },
+        {
+          "title": "You're Lucky to Be Alive",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 193706
+        },
+        {
+          "title": "Grace Car",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 254813
+        },
+        {
+          "title": "A Dozen Roses",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 251773
+        },
+        {
+          "title": "Breathe In",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 160053
+        },
+        {
+          "title": "Milwaukee Sky Rocket",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 203106
+        },
+        {
+          "title": "Divers",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 247346
+        },
+        {
+          "title": "First Day Back",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 231813
+        },
+        {
+          "title": "I'm Afraid of Everything",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 169826
+        },
+        {
+          "title": "The Chandelier Swing",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 248920
+        },
+        {
+          "title": "Capricorn",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 248640
+        }
+      ]
+    },
+    {
+      "mbid": "897d4746-e0c6-3dab-a977-3a21837b5f2e",
+      "releaseMbid": "de952fa6-0526-45dd-bb27-d43b616ecccf",
+      "title": "Movie Music, Volume One",
+      "type": "COMPILATION",
+      "releaseDate": "2000-03-28",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/897d4746-e0c6-3dab-a977-3a21837b5f2e/front-1200",
+      "tracks": [
+        {
+          "title": "Sounds Like Violence",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 175093
+        },
+        {
+          "title": "Motion Light",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 176666
+        },
+        {
+          "title": "Perfect Pitch",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 191320
+        },
+        {
+          "title": "I’m Afraid of Everything",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 151746
+        },
+        {
+          "title": "Radish White Icicle",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 202520
+        },
+        {
+          "title": "Now I’m Exhausted",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 172013
+        },
+        {
+          "title": "Fire Makes the House Grow",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 196880
+        },
+        {
+          "title": "Niagara",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 185120
+        },
+        {
+          "title": "That Car Came Out of Nowhere",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 90373
+        },
+        {
+          "title": "(Strawberry Ann) Switzerland",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 197720
+        },
+        {
+          "title": "What a Wonderful Puddle",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 255946
+        },
+        {
+          "title": "First Day Back",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 200253
+        },
+        {
+          "title": "Hugs From Boys",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 222920
+        },
+        {
+          "title": "Forever Got Shorter",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 228333
+        },
+        {
+          "title": "Please Drive Faster",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 233506
+        },
+        {
+          "title": "Circus of the Stars",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 179453
+        },
+        {
+          "title": "You’re Lucky to Be Alive",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 201466
+        }
+      ]
+    },
+    {
+      "mbid": "dd5f8323-5033-39fc-bade-99cbdffd94ac",
+      "releaseMbid": "212d57e6-d7c0-466d-9782-6faeba9bf449",
+      "title": "Movie Music, Volume Two",
+      "type": "COMPILATION",
+      "releaseDate": "2000-03-28",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/dd5f8323-5033-39fc-bade-99cbdffd94ac/front-1200",
+      "tracks": [
+        {
+          "title": "Elephant",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 88786
+        },
+        {
+          "title": "Jimmy Go Swimmer",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 146480
+        },
+        {
+          "title": "Eulalia, Eulalia",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 236720
+        },
+        {
+          "title": "Katycat",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 205666
+        },
+        {
+          "title": "Grand Theft Autumn",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 178320
+        },
+        {
+          "title": "To Kiss a Trumpet Player",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 169760
+        },
+        {
+          "title": "I’m Glowing and You’re the Reason",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 126573
+        },
+        {
+          "title": "Do You Love Coffee?",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 178946
+        },
+        {
+          "title": "The Consolation Prizefighter",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 185186
+        },
+        {
+          "title": "Bridge to Canada",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 163066
+        },
+        {
+          "title": "Painting Nebraska",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 181933
+        },
+        {
+          "title": "Collect From Clark Kent",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 210013
+        },
+        {
+          "title": "Roses in the Car",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 264813
+        },
+        {
+          "title": "My Life",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 256480
+        },
+        {
+          "title": "Baby, Now That I’ve Found You",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 120200
+        },
+        {
+          "title": "This Charming Man",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 142000
+        },
+        {
+          "title": "There Is a Light That Never Goes Out",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 161440
+        },
+        {
+          "title": "Always Something There to Remind Me",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 239240
+        },
+        {
+          "title": "Trompe le monde",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 130680
+        }
+      ]
+    },
+    {
+      "mbid": "49f7c485-86ec-4df1-9222-4d9623174623",
+      "releaseMbid": "be80282c-ce10-44fa-8460-995ca767d3a4",
+      "title": "Killing a Camera",
+      "type": "ALBUM",
+      "releaseDate": "2001",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Capricorn",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 244000
+        },
+        {
+          "title": "Killing a Camera",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Grace Car Part 1",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "The Chandelier Swing",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Milwaukee Sky Rocket",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 196000
+        },
+        {
+          "title": "The New Nathan Detroits",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 272000
+        },
+        {
+          "title": "Urbana's Too Dark",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Movie Clock Star",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "Divers",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Niagra",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": null
+        },
+        {
+          "title": "What a Wonderful Puddle",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": null
+        },
+        {
+          "title": "My Baby Smokes",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": null
+        },
+        {
+          "title": "Photo Montage",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": null
+        },
+        {
+          "title": "A Dozen Roses",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": null
+        },
+        {
+          "title": "1975",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 210000
+        },
+        {
+          "title": "Hugs From Boys",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 325000
+        },
+        {
+          "title": "Never Will Come for Us",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 199000
+        }
+      ]
+    },
+    {
+      "mbid": "067e7312-5091-4190-93d4-df19c7ccd92a",
+      "releaseMbid": "e0aaad5e-353d-4772-91d3-fac7b277689d",
+      "title": "Closer to Closed",
+      "type": "EP",
+      "releaseDate": "2011-08-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/067e7312-5091-4190-93d4-df19c7ccd92a/front-1200",
+      "tracks": [
+        {
+          "title": "The Right Time",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 209000
+        },
+        {
+          "title": "Do Over",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 184000
+        },
+        {
+          "title": "You Are the Reason",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 215000
+        },
+        {
+          "title": "Universe or Worse",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 354000
+        }
+      ]
+    },
+    {
+      "mbid": "680bcfbd-040c-46db-9710-0b3eba3c4aab",
+      "releaseMbid": "4a88b976-6c8c-4264-b9cb-026a596fd46a",
+      "title": "Braid / Balance and Composure",
+      "type": "EP",
+      "releaseDate": "2013-02-26",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/680bcfbd-040c-46db-9710-0b3eba3c4aab/front-1200",
+      "tracks": [
+        {
+          "title": "Lux",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 173000
+        },
+        {
+          "title": "Many Enemies",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 156000
+        },
+        {
+          "title": "You Can't Fix Me",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 232000
+        },
+        {
+          "title": "Say",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 196000
+        }
+      ]
+    },
+    {
+      "mbid": "610e4131-2ee5-4150-930d-56df7396011a",
+      "releaseMbid": "1b473986-72c0-45c9-81fc-6f46775d92ac",
+      "title": "No Coast",
+      "type": "ALBUM",
+      "releaseDate": "2014-07-08",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/610e4131-2ee5-4150-930d-56df7396011a/front-1200",
+      "tracks": [
+        {
+          "title": "Bang",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 200000
+        },
+        {
+          "title": "East End Hollows",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 233000
+        },
+        {
+          "title": "No Coast",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 209000
+        },
+        {
+          "title": "Damages!",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 187000
+        },
+        {
+          "title": "Many Enemies",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 155000
+        },
+        {
+          "title": "Pre-Evergreen",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 223000
+        },
+        {
+          "title": "Put Some Wings on That Kid",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 145000
+        },
+        {
+          "title": "Lux",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 173000
+        },
+        {
+          "title": "Doing Yourself In",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 231000
+        },
+        {
+          "title": "Climber New Entry",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 219000
+        },
+        {
+          "title": "Light Crisis",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 150000
+        },
+        {
+          "title": "This Is Not a Revolution",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 272000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

@@ -1,0 +1,627 @@
+{
+  "generatedAt": "2026-11-18T20:46:06.363Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "add25648-f252-444f-8837-08ac9fc48f19",
+    "name": "Darko US",
+    "slug": "darko-us",
+    "type": "BAND",
+    "country": "US",
+    "city": null,
+    "formedYear": 2020,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/add25648-f252-444f-8837-08ac9fc48f19"
+      }
+    ],
+    "genres": [
+      "deathcore",
+      "metal",
+      "metalcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "c390e598-f44a-4a04-bb44-ef2670c07683",
+      "releaseMbid": "dca1fac3-a9fa-47b0-bfc2-f077ece2d8b7",
+      "title": "Pt. 1 Dethmask",
+      "type": "EP",
+      "releaseDate": "2020-06-06",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c390e598-f44a-4a04-bb44-ef2670c07683/front-1200",
+      "tracks": [
+        {
+          "title": "Get G00d",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 84538
+        },
+        {
+          "title": "Deth Msk",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 183449
+        },
+        {
+          "title": ":The Obsrvr",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 54391
+        },
+        {
+          "title": "Elctric Body",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 162353
+        },
+        {
+          "title": ":The Tresur",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 66710
+        },
+        {
+          "title": "(Devine Void)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 226628
+        },
+        {
+          "title": "Recolektion",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 97092
+        }
+      ]
+    },
+    {
+      "mbid": "fc977d89-0e5d-4e3b-8a16-bb08948d5338",
+      "releaseMbid": "27d5c38f-b8b0-439f-ae5a-04dceacef1bb",
+      "title": "Darko",
+      "type": "ALBUM",
+      "releaseDate": "2021-05-07",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Splinter Cell",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 230000
+        },
+        {
+          "title": "Fiend Dream",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 207000
+        },
+        {
+          "title": "Donna",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 282000
+        },
+        {
+          "title": "Pretenders",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 180000
+        },
+        {
+          "title": "Praise the Sun",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 246000
+        },
+        {
+          "title": "The Last of Us",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 159000
+        },
+        {
+          "title": "Daniel",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 246000
+        },
+        {
+          "title": "Mars Attacks",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 220000
+        },
+        {
+          "title": "Pale Tongue",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 196000
+        },
+        {
+          "title": "Insects",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 230000
+        },
+        {
+          "title": "If This Is Forever",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 287000
+        },
+        {
+          "title": "Darko",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 205000
+        }
+      ]
+    },
+    {
+      "mbid": "4a1ec3b4-c13a-4509-955c-6ab38b200d09",
+      "releaseMbid": "0bb3775e-03ba-40d6-8167-805665abb0dd",
+      "title": "Oni",
+      "type": "ALBUM",
+      "releaseDate": "2022-09-26",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Begin",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 67000
+        },
+        {
+          "title": "Looking Glass",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 161000
+        },
+        {
+          "title": "Hyperkill",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 203000
+        },
+        {
+          "title": "Dragon Chaser",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 239000
+        },
+        {
+          "title": "Rosaria’s Fingers",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 212000
+        },
+        {
+          "title": "Infinite Beauty",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 198000
+        },
+        {
+          "title": "Evolving",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 176000
+        },
+        {
+          "title": "R.T.G.O.B.",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 165000
+        },
+        {
+          "title": "Gantz",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 198000
+        },
+        {
+          "title": "Oni",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 140000
+        },
+        {
+          "title": "Ana",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 229000
+        },
+        {
+          "title": "Sand Script",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 208000
+        },
+        {
+          "title": "Acid Inject",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 157000
+        },
+        {
+          "title": "Come Home",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 261000
+        },
+        {
+          "title": "Redo",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 74000
+        }
+      ]
+    },
+    {
+      "mbid": "58b999e6-3084-40ca-9e02-851f61e0183c",
+      "releaseMbid": "5e9d77c1-7884-4778-921c-2df0c9d88c1d",
+      "title": "Dethmask, Pt. 2",
+      "type": "EP",
+      "releaseDate": "2022-12-30",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/58b999e6-3084-40ca-9e02-851f61e0183c/front-1200",
+      "tracks": [
+        {
+          "title": "UNMASKED",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 231000
+        },
+        {
+          "title": "HYBRID PROCESS",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 256000
+        },
+        {
+          "title": "NUMB LOCK",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 86000
+        },
+        {
+          "title": "FUTURE DOOM",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 234000
+        },
+        {
+          "title": "BUTCHERS BLOCK",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 78000
+        },
+        {
+          "title": "THE FLY AND THE BEE",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 257000
+        },
+        {
+          "title": "LONE EXO",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 136000
+        }
+      ]
+    },
+    {
+      "mbid": "2034c19d-d229-4ac2-bbd4-069ffdbeeae3",
+      "releaseMbid": "92bbf127-2773-4cf7-b9bd-03dc512b18b0",
+      "title": "Starfire",
+      "type": "ALBUM",
+      "releaseDate": "2024-06-05",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/2034c19d-d229-4ac2-bbd4-069ffdbeeae3/front-1200",
+      "tracks": [
+        {
+          "title": "Starfire",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 74012
+        },
+        {
+          "title": "Distant World",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 267428
+        },
+        {
+          "title": "Death Charge",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 212977
+        },
+        {
+          "title": "5D",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 237218
+        },
+        {
+          "title": "Rampage",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 254000
+        },
+        {
+          "title": "Atomic Origin",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 243567
+        },
+        {
+          "title": "Cry Baby",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 233513
+        },
+        {
+          "title": "Chrome Moon",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 244088
+        },
+        {
+          "title": "Bunny Suit",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 273333
+        },
+        {
+          "title": "Sora",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 246459
+        },
+        {
+          "title": "Pleasures",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 238886
+        },
+        {
+          "title": "Mech Control",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 272555
+        },
+        {
+          "title": "Green Machine",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 206923
+        },
+        {
+          "title": "Teardrop Sunshine",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 270525
+        },
+        {
+          "title": "Virtual Function",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 256500
+        },
+        {
+          "title": "Shanghai",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 327018
+        },
+        {
+          "title": "The Record Is Over Time for More",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 16000
+        },
+        {
+          "title": "Finding Love in a World Full of Tragedy",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 252545
+        },
+        {
+          "title": "The Mother",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 160500
+        }
+      ]
+    },
+    {
+      "mbid": "d62d5e3c-fe21-4559-a7d3-4ab072eeec9e",
+      "releaseMbid": "b8b4e877-1347-4d1b-9b0d-1c3201f39c3b",
+      "title": "DETHMASK 3",
+      "type": "ALBUM",
+      "releaseDate": "2025-02-05",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d62d5e3c-fe21-4559-a7d3-4ab072eeec9e/front-1200",
+      "tracks": [
+        {
+          "title": "INTRODUCTION",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 74025
+        },
+        {
+          "title": "MALLET PULSE",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 204706
+        },
+        {
+          "title": "THE CHAIN HAND",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 268887
+        },
+        {
+          "title": "BLOOD HOST",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 337340
+        },
+        {
+          "title": "HAVE YOU EVER",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 180460
+        },
+        {
+          "title": "SUPRA",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 183632
+        },
+        {
+          "title": "GIZAMACHI",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 105625
+        },
+        {
+          "title": "GRIM REAPER AND A UZI",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 282961
+        }
+      ]
+    },
+    {
+      "mbid": "12e9159e-483e-48cd-8dc8-da822049929e",
+      "releaseMbid": "b5811f0f-1da4-425a-afa1-39a042c17cec",
+      "title": "Oni 2",
+      "type": "ALBUM",
+      "releaseDate": "2026-05-05",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/12e9159e-483e-48cd-8dc8-da822049929e/front-1200",
+      "tracks": [
+        {
+          "title": "Red Samurai",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 182069
+        },
+        {
+          "title": "Dragon Tamer",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 222833
+        },
+        {
+          "title": "Majora",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 217322
+        },
+        {
+          "title": "Angel Kisses",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 192000
+        },
+        {
+          "title": "Congratulations",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 211624
+        },
+        {
+          "title": "Blue Teeth",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 320750
+        },
+        {
+          "title": "Take Me to Heaven",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 181000
+        },
+        {
+          "title": "Reqiuem of Elijah",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 213428
+        },
+        {
+          "title": "Frost Delay",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 228690
+        },
+        {
+          "title": "Time Crisis",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 230000
+        },
+        {
+          "title": "Prosthetic",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 278375
+        },
+        {
+          "title": "Acid Girl Fantasy Club",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 269058
+        }
+      ]
+    },
+    {
+      "mbid": "b9be319c-5632-45c8-9e04-12a3571e46b2",
+      "releaseMbid": "f3d73d51-73a0-48ae-aa00-abad136e8b4d",
+      "title": "CUCKOO",
+      "type": "EP",
+      "releaseDate": "2026-08-10",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b9be319c-5632-45c8-9e04-12a3571e46b2/front-1200",
+      "tracks": [
+        {
+          "title": "Landslide",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 198000
+        },
+        {
+          "title": "Death Spiral",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 157333
+        },
+        {
+          "title": "State of Decay",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 176093
+        },
+        {
+          "title": "Perfected Ultra Instinct",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 210000
+        },
+        {
+          "title": "Venom Spitter",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 86160
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

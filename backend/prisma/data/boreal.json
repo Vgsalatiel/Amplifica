@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-11-19T11:48:43.851Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "47782e3a-ac1a-4579-a711-fb212bcc73d2",
+    "name": "Boreal",
+    "slug": "boreal",
+    "type": "BAND",
+    "country": "BR",
+    "city": "Caruaru",
+    "formedYear": 2020,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/47782e3a-ac1a-4579-a711-fb212bcc73d2"
+      }
+    ],
+    "genres": [
+      "metalcore",
+      "nu-metal",
+      "metal"
+    ]
+  },
+  "releases": [],
+  "pending": []
+}

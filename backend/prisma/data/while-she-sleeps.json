@@ -1,0 +1,602 @@
+{
+  "generatedAt": "2026-11-18T20:29:31.078Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "24e58672-0956-4e3b-87a4-aaf3d52094aa",
+    "name": "While She Sleeps",
+    "slug": "while-she-sleeps",
+    "type": "BAND",
+    "country": "GB",
+    "city": "Sheffield",
+    "formedYear": 2006,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/24e58672-0956-4e3b-87a4-aaf3d52094aa"
+      }
+    ],
+    "genres": [
+      "metalcore",
+      "post-hardcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "44d4342b-8ae5-4b74-b285-a7bf75755b3e",
+      "releaseMbid": "8f8aeda4-9f32-4fb5-ba18-0b03c92653fd",
+      "title": "Split",
+      "type": "EP",
+      "releaseDate": "2009-03-02",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/44d4342b-8ae5-4b74-b285-a7bf75755b3e/front-1200",
+      "tracks": [
+        {
+          "title": "Atlantis",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 197000
+        },
+        {
+          "title": "Seasons",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 199000
+        },
+        {
+          "title": "Embedded in Sand",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 317000
+        },
+        {
+          "title": "Homecoming",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 255000
+        }
+      ]
+    },
+    {
+      "mbid": "94ec7152-ce5b-4778-a61a-2b343200212d",
+      "releaseMbid": "0d269956-7afb-4493-8b09-19c5f3a0a022",
+      "title": "The North Stands for Nothing",
+      "type": "EP",
+      "releaseDate": "2010-07-26",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/94ec7152-ce5b-4778-a61a-2b343200212d/front-1200",
+      "tracks": [
+        {
+          "title": "The North Stands for Nothing",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 262896
+        },
+        {
+          "title": "Trophies",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 39845
+        },
+        {
+          "title": "Crows",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 198763
+        },
+        {
+          "title": "My Conscience, Your Freedom",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 215388
+        },
+        {
+          "title": "Lost Above the Arches",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 81572
+        },
+        {
+          "title": "Proud of the Demon in Me",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 240443
+        },
+        {
+          "title": "The Truth",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 147563
+        },
+        {
+          "title": "Hearts Aside Our Horses",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 245760
+        }
+      ]
+    },
+    {
+      "mbid": "0b0ec897-efba-4a97-af0a-f054c30664a5",
+      "releaseMbid": "f8890efc-f141-4023-992a-c7f0dd73a3d7",
+      "title": "This Is the Six",
+      "type": "ALBUM",
+      "releaseDate": "2012-08-06",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0b0ec897-efba-4a97-af0a-f054c30664a5/front-1200",
+      "tracks": [
+        {
+          "title": "Dead Behind the Eyes",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 246066
+        },
+        {
+          "title": "False Freedom",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 228600
+        },
+        {
+          "title": "Satisfied in Suffering",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 195200
+        },
+        {
+          "title": "Seven Hills",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 262546
+        },
+        {
+          "title": "Our Courage, Our Cancer",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 216386
+        },
+        {
+          "title": "This Is the Six",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 285960
+        },
+        {
+          "title": "The Chapel",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 137413
+        },
+        {
+          "title": "Be(lie)ve",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 236413
+        },
+        {
+          "title": "Until the Death",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 267666
+        },
+        {
+          "title": "Love at War",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 284640
+        },
+        {
+          "title": "The Plague of a New Age",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 260386
+        },
+        {
+          "title": "Reunite",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 74946
+        }
+      ]
+    },
+    {
+      "mbid": "35890579-fd35-4700-87e1-6c60e2587f46",
+      "releaseMbid": "4c07cc0a-bd1a-49d9-a693-fbf288808c15",
+      "title": "Brainwashed",
+      "type": "ALBUM",
+      "releaseDate": "2015-03-23",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/35890579-fd35-4700-87e1-6c60e2587f46/front-1200",
+      "tracks": [
+        {
+          "title": "The Divide",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 52493
+        },
+        {
+          "title": "New World Torture",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 281160
+        },
+        {
+          "title": "Brainwashed",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 208880
+        },
+        {
+          "title": "Our Legacy",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 247546
+        },
+        {
+          "title": "Four Walls",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 307946
+        },
+        {
+          "title": "Torment",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 228773
+        },
+        {
+          "title": "Kangaezu ni",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 81000
+        },
+        {
+          "title": "Life in Tension",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 221306
+        },
+        {
+          "title": "Trophies of Violence",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 301173
+        },
+        {
+          "title": "No Sides, No Enemies",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 304146
+        },
+        {
+          "title": "Method in Madness",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 234040
+        },
+        {
+          "title": "Modern Minds",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 407186
+        }
+      ]
+    },
+    {
+      "mbid": "9b305fa7-caac-4ede-b05f-34044e026029",
+      "releaseMbid": "10593fdb-d973-4f06-9142-3afc4aef4125",
+      "title": "You Are We",
+      "type": "ALBUM",
+      "releaseDate": "2017-04-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/9b305fa7-caac-4ede-b05f-34044e026029/front-1200",
+      "tracks": [
+        {
+          "title": "You Are We",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 287853
+        },
+        {
+          "title": "Steal the Sun",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 277333
+        },
+        {
+          "title": "Feel",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 279653
+        },
+        {
+          "title": "Empire of Silence",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 263080
+        },
+        {
+          "title": "Wide Awake",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 304386
+        },
+        {
+          "title": "Silence Speaks",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 295746
+        },
+        {
+          "title": "Settle Down Society",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 296493
+        },
+        {
+          "title": "Hurricane",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 283066
+        },
+        {
+          "title": "Revolt",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 237920
+        },
+        {
+          "title": "Civil Isolation",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 262680
+        },
+        {
+          "title": "In Another Now",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 275226
+        }
+      ]
+    },
+    {
+      "mbid": "6a584035-7586-4be5-9ae6-848404ceeabb",
+      "releaseMbid": "6d21b8fc-9b58-44f8-b99f-4a5ccccf03d1",
+      "title": "So What?",
+      "type": "ALBUM",
+      "releaseDate": "2019-03-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/6a584035-7586-4be5-9ae6-848404ceeabb/front-1200",
+      "tracks": [
+        {
+          "title": "Anti-Social",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 254000
+        },
+        {
+          "title": "I’ve Seen It All",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 252000
+        },
+        {
+          "title": "Inspire",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 250000
+        },
+        {
+          "title": "So What?",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 272000
+        },
+        {
+          "title": "The Guilty Party",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 266000
+        },
+        {
+          "title": "Haunt Me",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 271000
+        },
+        {
+          "title": "Elephant",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 278000
+        },
+        {
+          "title": "Set You Free",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 257000
+        },
+        {
+          "title": "Good Grief",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 218000
+        },
+        {
+          "title": "Back of My Mind",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 267000
+        },
+        {
+          "title": "Gates of Paradise",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 320000
+        }
+      ]
+    },
+    {
+      "mbid": "88a9b881-3d30-4224-8f5d-05344f6be766",
+      "releaseMbid": "0321ee82-de93-43c4-b370-6ef2c1e9afc5",
+      "title": "Sleeps Society",
+      "type": "ALBUM",
+      "releaseDate": "2021-04-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/88a9b881-3d30-4224-8f5d-05344f6be766/front-1200",
+      "tracks": [
+        {
+          "title": "ENLIGHTENMENT(?)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 302493
+        },
+        {
+          "title": "YOU ARE ALL YOU NEED",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 208373
+        },
+        {
+          "title": "SYSTEMATIC",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 176693
+        },
+        {
+          "title": "NERVOUS",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 246466
+        },
+        {
+          "title": "PYAI",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 114786
+        },
+        {
+          "title": "KNOW YOUR WORTH (SOMEBODY)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 277960
+        },
+        {
+          "title": "NO DEFEAT FOR THE BRAVE",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 252586
+        },
+        {
+          "title": "DIVISION STREET",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 214320
+        },
+        {
+          "title": "SLEEPS SOCIETY",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 199426
+        },
+        {
+          "title": "CALL OF THE VOID",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 251400
+        },
+        {
+          "title": "DN3 3HT",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 423120
+        }
+      ]
+    },
+    {
+      "mbid": "d255da6f-6b00-464e-ab0f-81b1aae36faa",
+      "releaseMbid": "371d5fbe-0f8d-4867-8932-b9409724b59c",
+      "title": "Self Hell",
+      "type": "ALBUM",
+      "releaseDate": "2024-03-29",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d255da6f-6b00-464e-ab0f-81b1aae36faa/front-1200",
+      "tracks": [
+        {
+          "title": "Peace of Mind",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 80754
+        },
+        {
+          "title": "Leave Me Alone",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 215796
+        },
+        {
+          "title": "Rainbows",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 262537
+        },
+        {
+          "title": "Self Hell",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 279752
+        },
+        {
+          "title": "Wildfire",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 185657
+        },
+        {
+          "title": "No Feeling Is Final",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 193273
+        },
+        {
+          "title": "Dopesick",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 268784
+        },
+        {
+          "title": "Down",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 234549
+        },
+        {
+          "title": "To the Flowers",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 305203
+        },
+        {
+          "title": "Out of the Blue",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 180657
+        },
+        {
+          "title": "Enemy Mentality",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 253734
+        },
+        {
+          "title": "Radical Hatred / Radical Love",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 243564
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

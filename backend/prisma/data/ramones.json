@@ -1,0 +1,1513 @@
+{
+  "generatedAt": "2026-11-19T11:40:11.252Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "d6ed7887-a401-47a8-893c-34b967444d26",
+    "name": "Ramones",
+    "slug": "ramones",
+    "type": "BAND",
+    "country": "US",
+    "city": "New York",
+    "formedYear": 1974,
+    "disbandedYear": 1996,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/d6ed7887-a401-47a8-893c-34b967444d26"
+      }
+    ],
+    "genres": [
+      "pop-punk",
+      "punk-rock"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "7de1e321-4a53-3feb-b83e-f1dab88bf952",
+      "releaseMbid": "627e3a2a-2df4-46c3-afb3-f734dcc90100",
+      "title": "Ramones",
+      "type": "ALBUM",
+      "releaseDate": "1976-04-23",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/7de1e321-4a53-3feb-b83e-f1dab88bf952/front-1200",
+      "tracks": [
+        {
+          "title": "Blitzkrieg Bop",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 134466
+        },
+        {
+          "title": "Beat on the Brat",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 152133
+        },
+        {
+          "title": "Judy Is a Punk",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 92640
+        },
+        {
+          "title": "I Wanna Be Your Boyfriend",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 144666
+        },
+        {
+          "title": "Chain Saw",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 116400
+        },
+        {
+          "title": "Now I Wanna Sniff Some Glue",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 96093
+        },
+        {
+          "title": "I Don’t Wanna Go Down to the Basement",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 158133
+        },
+        {
+          "title": "Loudmouth",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 135373
+        },
+        {
+          "title": "Havana Affair",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 117160
+        },
+        {
+          "title": "Listen to My Heart",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 118866
+        },
+        {
+          "title": "53rd & 3rd",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 141533
+        },
+        {
+          "title": "Let’s Dance",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 112133
+        },
+        {
+          "title": "I Don’t Wanna Walk Around With You",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 103200
+        },
+        {
+          "title": "Today Your Love, Tomorrow the World",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 131066
+        }
+      ]
+    },
+    {
+      "mbid": "bc3b5116-300a-3696-919d-bca466a3f143",
+      "releaseMbid": "f0e1924d-3160-478e-aa93-dbf5fedfd012",
+      "title": "Leave Home",
+      "type": "ALBUM",
+      "releaseDate": "1977-01-10",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/bc3b5116-300a-3696-919d-bca466a3f143/front-1200",
+      "tracks": [
+        {
+          "title": "Glad to See You Go",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 130000
+        },
+        {
+          "title": "Gimme Gimme Shock Treatment",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 98000
+        },
+        {
+          "title": "I Remember You",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 135000
+        },
+        {
+          "title": "Oh Oh I Love Her So",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 116000
+        },
+        {
+          "title": "Carbona Not Glue",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 111000
+        },
+        {
+          "title": "Suzy Is a Headbanger",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 128000
+        },
+        {
+          "title": "Pinhead",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 162000
+        },
+        {
+          "title": "Now I Wanna Be a Good Boy",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 130000
+        },
+        {
+          "title": "Swallow My Pride",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 123000
+        },
+        {
+          "title": "What's Your Game",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 153000
+        },
+        {
+          "title": "California Sun",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 118000
+        },
+        {
+          "title": "Commando",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 110000
+        },
+        {
+          "title": "You're Gonna Kill That Girl",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 156000
+        },
+        {
+          "title": "You Should Never Have Opened That Door",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 114000
+        }
+      ]
+    },
+    {
+      "mbid": "dd959091-dba1-32b8-8159-0090959ce75b",
+      "releaseMbid": "276dd73b-3d7e-4e54-9c93-15b5dab691a3",
+      "title": "Rocket to Russia",
+      "type": "ALBUM",
+      "releaseDate": "1977-11-04",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Cretin Hop",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 115000
+        },
+        {
+          "title": "Rockaway Beach",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 126000
+        },
+        {
+          "title": "Here Today, Gone Tomorrow",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 167000
+        },
+        {
+          "title": "Locket Love",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 129000
+        },
+        {
+          "title": "I Don’t Care",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 98000
+        },
+        {
+          "title": "Sheena Is a Punk Rocker",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 169000
+        },
+        {
+          "title": "We’re a Happy Family",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 167000
+        },
+        {
+          "title": "Teenage Lobotomy",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 120000
+        },
+        {
+          "title": "Do You Wanna Dance?",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 112000
+        },
+        {
+          "title": "I Wanna Be Well",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 148000
+        },
+        {
+          "title": "I Can’t Give You Anything",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 117000
+        },
+        {
+          "title": "Ramona",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 155000
+        },
+        {
+          "title": "Surfin’ Bird",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 157000
+        },
+        {
+          "title": "Why Is It Always This Way?",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 152000
+        }
+      ]
+    },
+    {
+      "mbid": "0d28173a-f23f-354a-97e7-82d6190d216c",
+      "releaseMbid": "100c2634-15db-4209-ac04-cf1722e5f3ba",
+      "title": "Road to Ruin",
+      "type": "ALBUM",
+      "releaseDate": "1978-09-22",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0d28173a-f23f-354a-97e7-82d6190d216c/front-1200",
+      "tracks": [
+        {
+          "title": "I Just Want to Have Something to Do",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 161000
+        },
+        {
+          "title": "I Wanted Everything",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 195000
+        },
+        {
+          "title": "Don’t Come Close",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 164000
+        },
+        {
+          "title": "I Don’t Want You",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 146000
+        },
+        {
+          "title": "Needles & Pins",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 140000
+        },
+        {
+          "title": "I’m Against It",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 126000
+        },
+        {
+          "title": "I Wanna Be Sedated",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 149000
+        },
+        {
+          "title": "Go Mental",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 162000
+        },
+        {
+          "title": "Questioningly",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 200000
+        },
+        {
+          "title": "She’s the One",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 133000
+        },
+        {
+          "title": "Bad Brain",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 146000
+        },
+        {
+          "title": "It’s a Long Way Back",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 139000
+        }
+      ]
+    },
+    {
+      "mbid": "b46e3fa3-f066-311b-a096-8c8b9353dab8",
+      "releaseMbid": "58dcd354-a89a-48ea-9e6e-e258cb23e11d",
+      "title": "End of the Century",
+      "type": "ALBUM",
+      "releaseDate": "1980-02-04",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Do You Remember Rock 'n' Roll Radio?",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 232000
+        },
+        {
+          "title": "I'm Affected",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 173000
+        },
+        {
+          "title": "Danny Says",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 189000
+        },
+        {
+          "title": "Chinese Rock",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 151000
+        },
+        {
+          "title": "The Return of Jackie and Judy",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 194000
+        },
+        {
+          "title": "Let's Go",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 154000
+        },
+        {
+          "title": "Baby, I Love You",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 229000
+        },
+        {
+          "title": "I Can't Make It on Time",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 153000
+        },
+        {
+          "title": "This Ain't Havana",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 138000
+        },
+        {
+          "title": "Rock 'n' Roll High School",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 161000
+        },
+        {
+          "title": "All the Way",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 150000
+        },
+        {
+          "title": "High Risk Insurance",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 128000
+        }
+      ]
+    },
+    {
+      "mbid": "49afe458-8e5c-3ea1-bf5e-f131a3096df2",
+      "releaseMbid": "6d4dcb7b-724b-4eb8-a795-a653566f17ca",
+      "title": "Pleasant Dreams",
+      "type": "ALBUM",
+      "releaseDate": "1981-07-20",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/49afe458-8e5c-3ea1-bf5e-f131a3096df2/front-1200",
+      "tracks": [
+        {
+          "title": "We Want the Airwaves",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 200000
+        },
+        {
+          "title": "All's Quiet on the Eastern Front",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 132000
+        },
+        {
+          "title": "The KKK Took My Baby Away",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 151000
+        },
+        {
+          "title": "Don't Go",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 166000
+        },
+        {
+          "title": "You Sound Like You're Sick",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 160000
+        },
+        {
+          "title": "It's Not My Place",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 202000
+        },
+        {
+          "title": "She's a Sensation",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 206000
+        },
+        {
+          "title": "7-11",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 213000
+        },
+        {
+          "title": "You Didn't Mean Anything to Me",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 179000
+        },
+        {
+          "title": "Come on Now",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 150000
+        },
+        {
+          "title": "This Business Is Killing Me",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 159000
+        },
+        {
+          "title": "Sitting in My Room",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 150000
+        }
+      ]
+    },
+    {
+      "mbid": "729e7ddd-599d-332c-82fd-ebe1ff99d17e",
+      "releaseMbid": "e1d1b13f-8f33-443d-a770-595314e88305",
+      "title": "Subterranean Jungle",
+      "type": "ALBUM",
+      "releaseDate": "1983-02",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/729e7ddd-599d-332c-82fd-ebe1ff99d17e/front-1200",
+      "tracks": [
+        {
+          "title": "Little Bit o’ Soul",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 163000
+        },
+        {
+          "title": "I Need Your Love",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 183000
+        },
+        {
+          "title": "Outsider",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 130000
+        },
+        {
+          "title": "What’d Ya Do?",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 144000
+        },
+        {
+          "title": "Highest Trails Above",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 129000
+        },
+        {
+          "title": "Somebody Like Me",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 154000
+        },
+        {
+          "title": "Psycho Therapy",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 155000
+        },
+        {
+          "title": "Time Has Come Today",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 265000
+        },
+        {
+          "title": "My‐My Kind of a Girl",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 211000
+        },
+        {
+          "title": "In the Park",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 154000
+        },
+        {
+          "title": "Time Bomb",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 129000
+        },
+        {
+          "title": "Everytime I Eat Vegetables It Makes Me Think of You",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 184000
+        }
+      ]
+    },
+    {
+      "mbid": "ede32ee7-c6e5-3bd4-98e2-aaf225c3a456",
+      "releaseMbid": "222815f5-60d7-4dd9-a13f-fcc1a587fbce",
+      "title": "Too Tough to Die",
+      "type": "ALBUM",
+      "releaseDate": "1984",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ede32ee7-c6e5-3bd4-98e2-aaf225c3a456/front-1200",
+      "tracks": [
+        {
+          "title": "Mama's Boy",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 129000
+        },
+        {
+          "title": "I'm Not Afraid of Life",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 192000
+        },
+        {
+          "title": "Too Tough to Die",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 155000
+        },
+        {
+          "title": "Durango 95",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 55093
+        },
+        {
+          "title": "Wart Hog",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 114466
+        },
+        {
+          "title": "Danger Zone",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 123000
+        },
+        {
+          "title": "Chasing the Night",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 265000
+        },
+        {
+          "title": "Howling at the Moon (Sha-La-La)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 246000
+        },
+        {
+          "title": "Daytime Dilemma (Dangers of Love)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 271000
+        },
+        {
+          "title": "Planet Earth 1988",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 174000
+        },
+        {
+          "title": "Human Kind",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 161000
+        },
+        {
+          "title": "Endless Vacation",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 105000
+        },
+        {
+          "title": "No Go",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 182840
+        }
+      ]
+    },
+    {
+      "mbid": "e50ade73-0fd1-4449-bc7c-c16ef6221321",
+      "releaseMbid": "4c850a55-7c18-4b7e-9d5a-da9890962ab9",
+      "title": "Chasing the Night / Howling at the Moon (Sha‐La‐La)",
+      "type": "EP",
+      "releaseDate": "1985",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Chasing the Night",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Howling at the Moon (Sha‐La‐La)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Smash You",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Street Fighting Man",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "fe34daaf-355c-48c9-b59d-4fb3bec8172d",
+      "releaseMbid": "a224016c-3571-4edb-b114-dfd190f1acf8",
+      "title": "Howling at the Moon",
+      "type": "EP",
+      "releaseDate": "1985-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/fe34daaf-355c-48c9-b59d-4fb3bec8172d/front-1200",
+      "tracks": [
+        {
+          "title": "Howling at the Moon (Sha-La-La)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Smash You",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Street Fighting Man",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "c9192fd6-f89f-4944-9613-bf3a9fba15ff",
+      "releaseMbid": "c80d3b2f-6010-492e-9237-8c2f8b96875d",
+      "title": "Bonzo Goes to Bitburg",
+      "type": "EP",
+      "releaseDate": "1985-06",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c9192fd6-f89f-4944-9613-bf3a9fba15ff/front-1200",
+      "tracks": [
+        {
+          "title": "Bonzo Goes to Bitburg",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Go Home Ann",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Daytime Dilemma (Dangers of Love)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "d2f3db27-5c1a-4609-8fbd-f1a243d7f37b",
+      "releaseMbid": "6f5a2544-c330-4560-8d12-b7dfcf3fb58e",
+      "title": "Something to Believe In",
+      "type": "EP",
+      "releaseDate": "1986",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d2f3db27-5c1a-4609-8fbd-f1a243d7f37b/front-1200",
+      "tracks": [
+        {
+          "title": "Something to Believe In",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 257000
+        },
+        {
+          "title": "Somebody Put Something in My Drink",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 207000
+        },
+        {
+          "title": "(You) Can’t Say Anything Nice",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 235000
+        }
+      ]
+    },
+    {
+      "mbid": "67b8c3ea-d2bc-3375-8b77-f73a048f2165",
+      "releaseMbid": "767128a5-bab2-3dda-a733-0c72d7ae4908",
+      "title": "Animal Boy",
+      "type": "ALBUM",
+      "releaseDate": "1986-05",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/67b8c3ea-d2bc-3375-8b77-f73a048f2165/front-1200",
+      "tracks": [
+        {
+          "title": "Somebody Put Something in My Drink",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 207826
+        },
+        {
+          "title": "Animal Boy",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 114386
+        },
+        {
+          "title": "Love Kills",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 142946
+        },
+        {
+          "title": "Apeman Hop",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 126146
+        },
+        {
+          "title": "She Belongs to Me",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 237400
+        },
+        {
+          "title": "Crummy Stuff",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 128400
+        },
+        {
+          "title": "My Brain Is Hanging Upside Down (Bonzo Goes to Bitburg)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 240960
+        },
+        {
+          "title": "Mental Hell",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 161986
+        },
+        {
+          "title": "Eat That Rat",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 100933
+        },
+        {
+          "title": "Freak of Nature",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 95640
+        },
+        {
+          "title": "Hair of the Dog",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 143520
+        },
+        {
+          "title": "Something to Believe In",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 246854
+        }
+      ]
+    },
+    {
+      "mbid": "0c41b5c2-e0e7-376a-8059-39f769b08a24",
+      "releaseMbid": "26aee8ff-8666-45d2-85e8-98d3fd1f1e6d",
+      "title": "Halfway to Sanity",
+      "type": "ALBUM",
+      "releaseDate": "1987-09-15",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0c41b5c2-e0e7-376a-8059-39f769b08a24/front-1200",
+      "tracks": [
+        {
+          "title": "I Wanna Live",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 156866
+        },
+        {
+          "title": "Bop ’Til You Drop",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 132133
+        },
+        {
+          "title": "Garden of Serenity",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 146626
+        },
+        {
+          "title": "Weasel Face",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 110733
+        },
+        {
+          "title": "Go Lil’ Camaro Go",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 123173
+        },
+        {
+          "title": "I Know Better Now",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 159266
+        },
+        {
+          "title": "Death of Me",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 160066
+        },
+        {
+          "title": "I Lost My Mind",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 93733
+        },
+        {
+          "title": "A Real Cool Time",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 158866
+        },
+        {
+          "title": "I’m Not Jesus",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 175626
+        },
+        {
+          "title": "Bye Bye Baby",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 275240
+        },
+        {
+          "title": "Worm Man",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 113266
+        }
+      ]
+    },
+    {
+      "mbid": "c2998c83-704e-3d14-8f17-a1987ad21e42",
+      "releaseMbid": "1911309e-7b79-4d6b-8135-6306f993e263",
+      "title": "Brain Drain",
+      "type": "ALBUM",
+      "releaseDate": "1989-05-18",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c2998c83-704e-3d14-8f17-a1987ad21e42/front-1200",
+      "tracks": [
+        {
+          "title": "I Believe in Miracles",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 198000
+        },
+        {
+          "title": "Zero Zero UFO",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 144000
+        },
+        {
+          "title": "Don’t Bust My Chops",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 145000
+        },
+        {
+          "title": "Punishment Fits the Crime",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 180000
+        },
+        {
+          "title": "All Screwed Up",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 237000
+        },
+        {
+          "title": "Palisades Park",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 136000
+        },
+        {
+          "title": "Pet Sematary",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 212000
+        },
+        {
+          "title": "Learn to Listen",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 108000
+        },
+        {
+          "title": "Can’t Get You Outta My Mind",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 198000
+        },
+        {
+          "title": "Ignorance Is Bliss",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 155000
+        },
+        {
+          "title": "Come Back, Baby",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 239000
+        },
+        {
+          "title": "Merry Christmas (I Don’t Want to Fight Tonight)",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 124000
+        }
+      ]
+    },
+    {
+      "mbid": "1da98657-e7fd-326c-aea1-2ec803739e00",
+      "releaseMbid": "1c082ae7-b02a-4485-808c-bac92b183c88",
+      "title": "Mondo Bizarro",
+      "type": "ALBUM",
+      "releaseDate": "1992-09-24",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/1da98657-e7fd-326c-aea1-2ec803739e00/front-1200",
+      "tracks": [
+        {
+          "title": "Censorshit",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 193000
+        },
+        {
+          "title": "The Job That Ate My Brain",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 138000
+        },
+        {
+          "title": "Poison Heart",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 244000
+        },
+        {
+          "title": "Anxiety",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 124000
+        },
+        {
+          "title": "Strength to Endure",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 179000
+        },
+        {
+          "title": "It’s Gonna Be Alright",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 200000
+        },
+        {
+          "title": "Take It as It Comes",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 128000
+        },
+        {
+          "title": "Main Man",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 208000
+        },
+        {
+          "title": "Tomorrow She Goes Away",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 162000
+        },
+        {
+          "title": "I Won’t Let It Happen",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 141000
+        },
+        {
+          "title": "Cabbies on Crack",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 180000
+        },
+        {
+          "title": "Heidi Is a Headcase",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 167000
+        },
+        {
+          "title": "Touring",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 172000
+        }
+      ]
+    },
+    {
+      "mbid": "3ac42917-32a6-305a-9dd6-835a4424ce14",
+      "releaseMbid": "11b86eb5-6a94-425b-820c-1942e4aa67d9",
+      "title": "Acid Eaters",
+      "type": "ALBUM",
+      "releaseDate": "1993-12-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/3ac42917-32a6-305a-9dd6-835a4424ce14/front-1200",
+      "tracks": [
+        {
+          "title": "Journey to the Center of the Mind",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 172000
+        },
+        {
+          "title": "Substitute",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 195000
+        },
+        {
+          "title": "Out of Time",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 161000
+        },
+        {
+          "title": "The Shape of Things to Come",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 105000
+        },
+        {
+          "title": "Somebody to Love",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 152000
+        },
+        {
+          "title": "When I Was Young",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 196000
+        },
+        {
+          "title": "7 and 7 Is",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 111000
+        },
+        {
+          "title": "My Back Pages",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 147000
+        },
+        {
+          "title": "Can't Seem to Make You Mine",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 162000
+        },
+        {
+          "title": "Have You Ever Seen the Rain",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 142000
+        },
+        {
+          "title": "I Can't Control Myself",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 146000
+        },
+        {
+          "title": "Surf City",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 147000
+        }
+      ]
+    },
+    {
+      "mbid": "fc1f2ab6-a252-3aca-958d-3a2a50e1a8ea",
+      "releaseMbid": "1f0bfc0d-6b35-46e5-b9bf-4233b1df2594",
+      "title": "¡Adios Amigos!",
+      "type": "ALBUM",
+      "releaseDate": "1995-06-22",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/fc1f2ab6-a252-3aca-958d-3a2a50e1a8ea/front-1200",
+      "tracks": [
+        {
+          "title": "I Don't Want to Grow Up",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 163000
+        },
+        {
+          "title": "Makin' Monsters for My Friends",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 153000
+        },
+        {
+          "title": "It's Not for Me to Know",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 170000
+        },
+        {
+          "title": "The Crusher",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 144000
+        },
+        {
+          "title": "Life's a Gas",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 214573
+        },
+        {
+          "title": "Take the Pain Away",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 160000
+        },
+        {
+          "title": "I Love You",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 140960
+        },
+        {
+          "title": "Cretin Family",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 128000
+        },
+        {
+          "title": "Have a Nice Day",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 101000
+        },
+        {
+          "title": "Scattergun",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 150000
+        },
+        {
+          "title": "Got a Lot to Say",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 101533
+        },
+        {
+          "title": "She Talks to Rainbows",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 193000
+        },
+        {
+          "title": "Born to Die in Berlin",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 211000
+        }
+      ]
+    },
+    {
+      "mbid": "c367cd42-0b40-40c1-8ef9-cd4413f3a964",
+      "releaseMbid": "b3323d86-9431-4855-ad81-470fafb7fccc",
+      "title": "Meltdown With the Ramones",
+      "type": "EP",
+      "releaseDate": "2014-04-19",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "I Just Want to Have Something to Do",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Here Today, Gone Tomorrow",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "I Wanna Be Your Boyfriend",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Questioningly",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "de632db8-3df3-41c4-8dee-7fff79d1ebe1",
+      "releaseMbid": "47ef4571-06fe-42e8-86d1-ccd6ae2d376d",
+      "title": "Spider‐Man",
+      "type": "EP",
+      "releaseDate": "2019-02-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/de632db8-3df3-41c4-8dee-7fff79d1ebe1/front-1200",
+      "tracks": [
+        {
+          "title": "I Wanna Be Sedated",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 149466
+        },
+        {
+          "title": "Blitzkrieg Bop",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 132733
+        }
+      ]
+    },
+    {
+      "mbid": "229cfa03-03bd-4d09-90ba-535f919ad9fb",
+      "releaseMbid": "d629a15f-e1cf-4181-a770-9a93696f42a8",
+      "title": "The 1975 Sire Demos",
+      "type": "ALBUM",
+      "releaseDate": "2024-04-20",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/229cfa03-03bd-4d09-90ba-535f919ad9fb/front-1200",
+      "tracks": [
+        {
+          "title": "Loudmouth",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 136000
+        },
+        {
+          "title": "53rd & 3rd",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 141000
+        },
+        {
+          "title": "I Wanna Be Your Boyfriend",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 102000
+        },
+        {
+          "title": "I Don’t Care",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 111000
+        },
+        {
+          "title": "Chain Saw",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 117000
+        },
+        {
+          "title": "You Should Never Have Opened That Door",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 102000
+        },
+        {
+          "title": "I Can’t Be",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 149000
+        },
+        {
+          "title": "Now I Wanna Sniff Some Glue",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 100000
+        },
+        {
+          "title": "I Don’t Wanna Be Learned – I Don’t Wanna Be Tamed",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 61000
+        },
+        {
+          "title": "What’s Your Name",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 172000
+        },
+        {
+          "title": "You’re Gonna Kill That Girl",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 165000
+        },
+        {
+          "title": "I Don’t Wanna Walk Around With You",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 110000
+        },
+        {
+          "title": "Today Your Love, Tomorrow the World",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 131000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

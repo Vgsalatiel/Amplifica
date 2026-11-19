@@ -1,0 +1,672 @@
+{
+  "generatedAt": "2026-11-19T11:24:57.517Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "b9472588-93f3-4922-a1a2-74082cdf9ce8",
+    "name": "Panic! at the Disco",
+    "slug": "panic-at-the-disco",
+    "type": "BAND",
+    "country": "US",
+    "city": "Las Vegas",
+    "formedYear": 2004,
+    "disbandedYear": 2023,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/b9472588-93f3-4922-a1a2-74082cdf9ce8"
+      }
+    ],
+    "genres": [
+      "pop-punk"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "4c2e4e78-6b0f-3ca1-8131-06906e5b56e9",
+      "releaseMbid": "1a4521f4-11f8-48e1-b738-d9b221094ff2",
+      "title": "A Fever You Can’t Sweat Out",
+      "type": "ALBUM",
+      "releaseDate": "2005-09-27",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4c2e4e78-6b0f-3ca1-8131-06906e5b56e9/front-1200",
+      "tracks": [
+        {
+          "title": "Introduction",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 36000
+        },
+        {
+          "title": "The Only Difference Between Martyrdom and Suicide Is Press Coverage",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 174000
+        },
+        {
+          "title": "London Beckoned Songs About Money Written by Machines",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 203000
+        },
+        {
+          "title": "Nails for Breakfast, Tacks for Snacks",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 203000
+        },
+        {
+          "title": "Camisado",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 191000
+        },
+        {
+          "title": "Time to Dance",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 202000
+        },
+        {
+          "title": "Lying Is the Most Fun a Girl Can Have Without Taking Her Clothes Off",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 200000
+        },
+        {
+          "title": "Intermission",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 155000
+        },
+        {
+          "title": "But It’s Better If You Do",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 205000
+        },
+        {
+          "title": "I Write Sins Not Tragedies",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 186000
+        },
+        {
+          "title": "I Constantly Thank God for Esteban",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 210000
+        },
+        {
+          "title": "There’s a Good Reason These Tables Are Numbered Honey, You Just Haven’t Thought of It Yet",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 196000
+        },
+        {
+          "title": "Build God, Then We’ll Talk",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 220000
+        }
+      ]
+    },
+    {
+      "mbid": "1814ef2c-1bdb-3f97-b933-4981ce91e9b1",
+      "releaseMbid": "78da8bcd-bef2-464b-bdba-bfa363311320",
+      "title": "Pretty. Odd.",
+      "type": "ALBUM",
+      "releaseDate": "2008-03-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/1814ef2c-1bdb-3f97-b933-4981ce91e9b1/front-1200",
+      "tracks": [
+        {
+          "title": "We’re So Starving",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 81426
+        },
+        {
+          "title": "Nine in the Afternoon",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 191560
+        },
+        {
+          "title": "She’s a Handsome Woman",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 192306
+        },
+        {
+          "title": "Do You Know What I’m Seeing?",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 254386
+        },
+        {
+          "title": "That Green Gentleman (Things Have Changed)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 195013
+        },
+        {
+          "title": "I Have Friends in Holy Spaces",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 116146
+        },
+        {
+          "title": "Northern Downpour",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 247773
+        },
+        {
+          "title": "When the Day Met the Night",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 293826
+        },
+        {
+          "title": "Pas de Cheval",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 159386
+        },
+        {
+          "title": "The Piano Knows Something I Don’t Know",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 223933
+        },
+        {
+          "title": "Behind the Sea",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 213426
+        },
+        {
+          "title": "Folkin’ Around",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 115466
+        },
+        {
+          "title": "She Had the World",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 227240
+        },
+        {
+          "title": "From a Mountain in the Middle of the Cabins",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 182266
+        },
+        {
+          "title": "Mad as Rabbits",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 228053
+        }
+      ]
+    },
+    {
+      "mbid": "80c527aa-da45-4a45-885a-7e006105bf3a",
+      "releaseMbid": "03949a0d-6f22-43ec-ac6d-0bb62547f9e6",
+      "title": "Introducing… Panic at the Disco",
+      "type": "EP",
+      "releaseDate": "2008-05-19",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/80c527aa-da45-4a45-885a-7e006105bf3a/front-1200",
+      "tracks": [
+        {
+          "title": "I Write Sins Not Tragedies",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 186000
+        },
+        {
+          "title": "But It's Better If You Do",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 206000
+        },
+        {
+          "title": "Build God, Then We’ll Talk",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 221000
+        },
+        {
+          "title": "She’s a Handsome Woman",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 192000
+        },
+        {
+          "title": "Mad as Rabbits",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 228000
+        }
+      ]
+    },
+    {
+      "mbid": "3a171b99-7744-416e-83a8-e931d992ce45",
+      "releaseMbid": "671ede83-7b5a-4bed-ba9a-939c58477291",
+      "title": "Vices & Virtues",
+      "type": "ALBUM",
+      "releaseDate": "2011-03-18",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/3a171b99-7744-416e-83a8-e931d992ce45/front-1200",
+      "tracks": [
+        {
+          "title": "The Ballad of Mona Lisa",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 226680
+        },
+        {
+          "title": "Let’s Kill Tonight",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 213520
+        },
+        {
+          "title": "Hurricane",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 265333
+        },
+        {
+          "title": "Memories",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 205533
+        },
+        {
+          "title": "Trade Mistakes",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 216093
+        },
+        {
+          "title": "Ready to Go (Get Me Out of My Mind)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 217026
+        },
+        {
+          "title": "Always",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 153653
+        },
+        {
+          "title": "The Calendar",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 283080
+        },
+        {
+          "title": "Sarah Smiles",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 213320
+        },
+        {
+          "title": "Nearly Witches (Ever Since We Met…)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 256053
+        }
+      ]
+    },
+    {
+      "mbid": "6b949674-54a2-4a78-8001-3d45d2bc0f58",
+      "releaseMbid": "623f8482-c63a-4bd0-a7aa-db5121bdc125",
+      "title": "Too Weird to Live, Too Rare to Die!",
+      "type": "ALBUM",
+      "releaseDate": "2013-10-04",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/6b949674-54a2-4a78-8001-3d45d2bc0f58/front-1200",
+      "tracks": [
+        {
+          "title": "This Is Gospel",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 187186
+        },
+        {
+          "title": "Miss Jackson",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 192053
+        },
+        {
+          "title": "Vegas Lights",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 189106
+        },
+        {
+          "title": "Girl That You Love",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 189240
+        },
+        {
+          "title": "Nicotine",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 186600
+        },
+        {
+          "title": "Girls/Girls/Boys",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 206840
+        },
+        {
+          "title": "Casual Affair",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 197693
+        },
+        {
+          "title": "Far Too Young to Die",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 197466
+        },
+        {
+          "title": "Collar Full",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 198466
+        },
+        {
+          "title": "The End of All Things",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 211893
+        }
+      ]
+    },
+    {
+      "mbid": "7ae25f98-1fa4-4530-9464-bb67bc8b9403",
+      "releaseMbid": "52a4df5a-41bf-41f7-9047-0acfe2fb5356",
+      "title": "Nicotine",
+      "type": "EP",
+      "releaseDate": "2014-05-06",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/7ae25f98-1fa4-4530-9464-bb67bc8b9403/front-1200",
+      "tracks": [
+        {
+          "title": "Nicotine",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 186606
+        },
+        {
+          "title": "Can’t Fight Against the Youth",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 164788
+        },
+        {
+          "title": "All the Boys",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 192143
+        },
+        {
+          "title": "Nicotine (instrumental)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 186042
+        }
+      ]
+    },
+    {
+      "mbid": "683c2e7b-530d-486f-96e4-d26bf10ae83e",
+      "releaseMbid": "7c22ad5e-746f-4a0d-aacc-f668e0383ab6",
+      "title": "Death of a Bachelor",
+      "type": "ALBUM",
+      "releaseDate": "2016-01-14",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/683c2e7b-530d-486f-96e4-d26bf10ae83e/front-1200",
+      "tracks": [
+        {
+          "title": "Victorious",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 179000
+        },
+        {
+          "title": "Don't Threaten Me with a Good Time",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 213000
+        },
+        {
+          "title": "Hallelujah",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 181000
+        },
+        {
+          "title": "Emperor's New Clothes",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 159000
+        },
+        {
+          "title": "Death of a Bachelor",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 204000
+        },
+        {
+          "title": "Crazy=Genius",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 198000
+        },
+        {
+          "title": "LA Devotee",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 197000
+        },
+        {
+          "title": "Golden Days",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 254000
+        },
+        {
+          "title": "The Good, the Bad and the Dirty",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 172000
+        },
+        {
+          "title": "House of Memories",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 209000
+        },
+        {
+          "title": "Impossible Year",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 203000
+        }
+      ]
+    },
+    {
+      "mbid": "bcec22a7-4338-4a71-82e8-b6e39887219c",
+      "releaseMbid": "10c2a6c1-ebcf-403d-b830-ea85d529235b",
+      "title": "Pray for the Wicked",
+      "type": "ALBUM",
+      "releaseDate": "2018-06-22",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/bcec22a7-4338-4a71-82e8-b6e39887219c/front-1200",
+      "tracks": [
+        {
+          "title": "(Fuck a) Silver Lining",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 168000
+        },
+        {
+          "title": "Say Amen (Saturday Night)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 189269
+        },
+        {
+          "title": "Hey Look Ma, I Made It",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 169000
+        },
+        {
+          "title": "High Hopes",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 190000
+        },
+        {
+          "title": "Roaring 20s",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 186000
+        },
+        {
+          "title": "Dancing’s Not a Crime",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 219000
+        },
+        {
+          "title": "One of the Drunks",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 198000
+        },
+        {
+          "title": "The Overpass",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 177000
+        },
+        {
+          "title": "King of the Clouds",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 160000
+        },
+        {
+          "title": "Old Fashioned",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 166000
+        },
+        {
+          "title": "Dying in LA",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 229000
+        }
+      ]
+    },
+    {
+      "mbid": "b8fee959-1da5-450b-8708-8f218f6414d4",
+      "releaseMbid": "7045bbc0-9505-49df-84a3-72b495a9781d",
+      "title": "Viva las Vengeance",
+      "type": "ALBUM",
+      "releaseDate": "2022-08-19",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b8fee959-1da5-450b-8708-8f218f6414d4/front-1200",
+      "tracks": [
+        {
+          "title": "Viva las Vengeance",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 207400
+        },
+        {
+          "title": "Middle of a Breakup",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 200026
+        },
+        {
+          "title": "Don’t Let the Light Go Out",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 229493
+        },
+        {
+          "title": "Local God",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 180773
+        },
+        {
+          "title": "Star Spangled Banger",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 189573
+        },
+        {
+          "title": "God Killed Rock and Roll",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 257120
+        },
+        {
+          "title": "Say It Louder",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 210546
+        },
+        {
+          "title": "Sugar Soaker",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 191213
+        },
+        {
+          "title": "Something About Maggie",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 200706
+        },
+        {
+          "title": "Sad Clown",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 226040
+        },
+        {
+          "title": "All by Yourself",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 258906
+        },
+        {
+          "title": "Do It to Death",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 275986
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

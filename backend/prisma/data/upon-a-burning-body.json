@@ -1,0 +1,708 @@
+{
+  "generatedAt": "2026-11-18T20:42:56.273Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "3df17d31-f9a4-4ca4-8570-c7d70c362b04",
+    "name": "Upon a Burning Body",
+    "slug": "upon-a-burning-body",
+    "type": "BAND",
+    "country": "US",
+    "city": "San Antonio",
+    "formedYear": 2005,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/3df17d31-f9a4-4ca4-8570-c7d70c362b04"
+      }
+    ],
+    "genres": [
+      "deathcore",
+      "metalcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "c0a4bf05-05b5-4368-a75f-4a33dda2b274",
+      "releaseMbid": "8cece75e-7a44-47d1-b11d-fbbde5d71840",
+      "title": "Genocide",
+      "type": "EP",
+      "releaseDate": "2005",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Intro",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 42000
+        },
+        {
+          "title": "The Capgun Suicide",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 241000
+        },
+        {
+          "title": "Through the Sickest of Skin",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 226000
+        },
+        {
+          "title": "The SS More Powerful Than Superman and the Incredible Hulk Put Together",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 227000
+        },
+        {
+          "title": "My Thanks to You",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 184000
+        },
+        {
+          "title": "Double Edge of Deception",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 138000
+        },
+        {
+          "title": "Outro",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 359000
+        }
+      ]
+    },
+    {
+      "mbid": "d5d4966f-4486-49cc-ace1-fd6f1be82dec",
+      "releaseMbid": "655a6036-edaf-47af-961f-6e998d5d8654",
+      "title": "Upon a Burning Body",
+      "type": "EP",
+      "releaseDate": "2005",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "A Theory for Murder",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "The Gangbang at Emily's House",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Fo' Cheap Times",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "The Neverending War Between Heaven & Hell",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "4 on the Floor, 48 in the Basement",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "For My Queen",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "f3673302-9415-44de-80e0-48d0d408c0c6",
+      "releaseMbid": "53e51340-a106-43c0-8573-583a6ce21f6f",
+      "title": "The World Is Ours",
+      "type": "ALBUM",
+      "releaseDate": "2010-04-06",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f3673302-9415-44de-80e0-48d0d408c0c6/front-1200",
+      "tracks": [
+        {
+          "title": "Showtime",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 71000
+        },
+        {
+          "title": "Carlito's Way",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 174000
+        },
+        {
+          "title": "Donnie Brasco",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 229000
+        },
+        {
+          "title": "Righteous Kill",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 159000
+        },
+        {
+          "title": "Scarface",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 168000
+        },
+        {
+          "title": "Intermission",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 167000
+        },
+        {
+          "title": "Heat",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 201000
+        },
+        {
+          "title": "Any Given Sunday",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 205000
+        },
+        {
+          "title": "Devil's Advocate",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 217000
+        },
+        {
+          "title": "City Hall",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 397000
+        }
+      ]
+    },
+    {
+      "mbid": "a58ea932-0653-466d-829e-2f24d32dbf8b",
+      "releaseMbid": "18b4dccc-88f4-4e8c-9e43-6d83ec3f10a9",
+      "title": "Red. White. Green.",
+      "type": "ALBUM",
+      "releaseDate": "2012-04-10",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a58ea932-0653-466d-829e-2f24d32dbf8b/front-1200",
+      "tracks": [
+        {
+          "title": "Game Over",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 98000
+        },
+        {
+          "title": "Sin City",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 184000
+        },
+        {
+          "title": "Once Upon a Time in Mexico",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 177000
+        },
+        {
+          "title": "Texas Blood Money",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 194000
+        },
+        {
+          "title": "El Mariachi",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 148000
+        },
+        {
+          "title": "Desperado",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 190000
+        },
+        {
+          "title": "Mimic",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 200000
+        },
+        {
+          "title": "Predators",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 276000
+        },
+        {
+          "title": "From Dusk Till Dawn",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 152000
+        },
+        {
+          "title": "Planet Terror",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 204000
+        },
+        {
+          "title": "The Island of Lost Dreams",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 227000
+        }
+      ]
+    },
+    {
+      "mbid": "e90b5e4e-e450-429d-85f4-fad77686f1fe",
+      "releaseMbid": "0246d2cc-06ac-468e-a96e-69ff7f5db2e0",
+      "title": "The World Is My Enemy Now",
+      "type": "ALBUM",
+      "releaseDate": "2014-08-11",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/e90b5e4e-e450-429d-85f4-fad77686f1fe/front-1200",
+      "tracks": [
+        {
+          "title": "Red Razor Wrists",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 201987
+        },
+        {
+          "title": "Scars",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 225480
+        },
+        {
+          "title": "Fountain of Wishes",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 212453
+        },
+        {
+          "title": "Bring The Rain",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 273947
+        },
+        {
+          "title": "Pledge Your Allegiance",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 199907
+        },
+        {
+          "title": "The New Breed",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 186520
+        },
+        {
+          "title": "A Toda Madrè ò un Desmadrè",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 107640
+        },
+        {
+          "title": "Judgement",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 242933
+        },
+        {
+          "title": "The World Is My Enemy Now",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 189800
+        },
+        {
+          "title": "Blood, Sweat and Tears",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 203387
+        },
+        {
+          "title": "I've Earned My Time",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 187733
+        },
+        {
+          "title": "Middle Finger To The World",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 224200
+        }
+      ]
+    },
+    {
+      "mbid": "06920be5-b258-4386-ad6f-64926e7ba5fc",
+      "releaseMbid": "0e10180e-c0ba-4de7-855b-7a9e251de98a",
+      "title": "Straight From the Barrio",
+      "type": "ALBUM",
+      "releaseDate": "2016-10-28",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/06920be5-b258-4386-ad6f-64926e7ba5fc/front-1200",
+      "tracks": [
+        {
+          "title": "’til the Break of Dawn",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 224000
+        },
+        {
+          "title": "Already Broken",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 174000
+        },
+        {
+          "title": "You Don’t Own Me",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 178000
+        },
+        {
+          "title": "Media Blackout",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 157000
+        },
+        {
+          "title": "B.M.F.",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 222000
+        },
+        {
+          "title": "Straight From the Barrio (210)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 229000
+        },
+        {
+          "title": "Leave the Pain Behind",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 203000
+        },
+        {
+          "title": "Walk Alone Again",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 197000
+        },
+        {
+          "title": "Fake Plastic Smile",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 204000
+        },
+        {
+          "title": "D.T.A. (Don’t Trust Anyone)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 214000
+        },
+        {
+          "title": "The Outcast",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 231000
+        },
+        {
+          "title": "My Distorted Reflection",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 179000
+        }
+      ]
+    },
+    {
+      "mbid": "e4ff3317-d747-4b3b-b996-bc21e130d29f",
+      "releaseMbid": "a8cca773-aac1-49f8-90f9-f879c12ca225",
+      "title": "Southern Hostility",
+      "type": "ALBUM",
+      "releaseDate": "2019-06-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/e4ff3317-d747-4b3b-b996-bc21e130d29f/front-1200",
+      "tracks": [
+        {
+          "title": "Southern Hostility",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 60000
+        },
+        {
+          "title": "King of Diamonds",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 205000
+        },
+        {
+          "title": "All Pride No Pain",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 207000
+        },
+        {
+          "title": "From Darkness",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 210000
+        },
+        {
+          "title": "The Champ Is Coming",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 193000
+        },
+        {
+          "title": "Burn",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 188000
+        },
+        {
+          "title": "Reinventing Hatred",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 187000
+        },
+        {
+          "title": "Never Alone",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 191000
+        },
+        {
+          "title": "The Anthem of the Doomed",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 198000
+        },
+        {
+          "title": "Soul Searcher",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 225000
+        }
+      ]
+    },
+    {
+      "mbid": "9a67d076-b50b-4edd-b9b8-7c53bdbb6730",
+      "releaseMbid": "478ad65a-5f08-4927-9e5a-3933608b9872",
+      "title": "Built From War",
+      "type": "EP",
+      "releaseDate": "2020-07-31",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/9a67d076-b50b-4edd-b9b8-7c53bdbb6730/front-1200",
+      "tracks": [
+        {
+          "title": "5x3",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 197507
+        },
+        {
+          "title": "Built From War",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 204661
+        },
+        {
+          "title": "Chains of Agony",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 244399
+        },
+        {
+          "title": "Living for the Weekend",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 190773
+        },
+        {
+          "title": "Extermination",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 197148
+        }
+      ]
+    },
+    {
+      "mbid": "6f857c05-7c45-4c9b-a68c-b6ff554e6ff9",
+      "releaseMbid": "c28695b5-1f37-4c44-aad7-cbaa18955773",
+      "title": "Fury",
+      "type": "ALBUM",
+      "releaseDate": "2022-05-06",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "A New Responsibility",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 186200
+        },
+        {
+          "title": "Snake Eyes",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 185579
+        },
+        {
+          "title": "Shapeshifter",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 178867
+        },
+        {
+          "title": "Meltdown",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 179794
+        },
+        {
+          "title": "Thunderheart",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 195595
+        },
+        {
+          "title": "Kill the Ego",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 187669
+        },
+        {
+          "title": "Clarity",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 180589
+        },
+        {
+          "title": "Sweet Serenity",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 67017
+        },
+        {
+          "title": "Who Am I",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 151766
+        },
+        {
+          "title": "Code of Honor",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 186358
+        },
+        {
+          "title": "Humbling My Skin",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 179645
+        }
+      ]
+    },
+    {
+      "mbid": "fc5a8200-04bc-40f0-8962-d131c06a1565",
+      "releaseMbid": "928e71f4-c0ba-43a2-86cd-736c1643145d",
+      "title": "Blood of the Bull",
+      "type": "ALBUM",
+      "releaseDate": "2025-12-05",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/fc5a8200-04bc-40f0-8962-d131c06a1565/front-1200",
+      "tracks": [
+        {
+          "title": "Sangre Del Toro",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 92647
+        },
+        {
+          "title": "Hand of God",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 173538
+        },
+        {
+          "title": "Killshot",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 152547
+        },
+        {
+          "title": "Daywalker",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 221518
+        },
+        {
+          "title": "Vultures",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 208139
+        },
+        {
+          "title": "Another Ghost",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 234410
+        },
+        {
+          "title": "Dragged Through Glass",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 183429
+        },
+        {
+          "title": "Living in a Matrix",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 213820
+        },
+        {
+          "title": "Curse Breaker",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 167953
+        },
+        {
+          "title": "An Insatiable Hunger",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 170268
+        },
+        {
+          "title": "Reckless Love",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 194182
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

@@ -1,0 +1,1101 @@
+{
+  "generatedAt": "2026-11-18T20:21:56.512Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "fa31e7d4-a03a-4110-98fc-f8826e95ec25",
+    "name": "Converge",
+    "slug": "converge",
+    "type": "BAND",
+    "country": "US",
+    "city": "Salem",
+    "formedYear": 1990,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/fa31e7d4-a03a-4110-98fc-f8826e95ec25"
+      }
+    ],
+    "genres": [
+      "metalcore",
+      "hardcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "c7458abc-a721-306d-a911-1afc5d6651bb",
+      "releaseMbid": "07ac9ed8-7b0b-4b62-9f7b-bb2fdeac87a7",
+      "title": "Halo in a Haystack",
+      "type": "ALBUM",
+      "releaseDate": "1994",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c7458abc-a721-306d-a911-1afc5d6651bb/front-1200",
+      "tracks": [
+        {
+          "title": "Shallow Breathing",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 116000
+        },
+        {
+          "title": "I Abstain",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 192000
+        },
+        {
+          "title": "Two Day Romance",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 214000
+        },
+        {
+          "title": "Becoming a Stranger",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 247000
+        },
+        {
+          "title": "Divinity",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 256000
+        },
+        {
+          "title": "Fact Leaves Its Ghost",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 149000
+        },
+        {
+          "title": "Antithesis",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 325000
+        },
+        {
+          "title": "Down",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 299000
+        },
+        {
+          "title": "Exhale",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 224000
+        },
+        {
+          "title": "Undo",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 138000
+        }
+      ]
+    },
+    {
+      "mbid": "94a1e4dc-db8f-3dce-9297-b45ecf36774b",
+      "releaseMbid": "27ea5d43-d4ef-46d9-bc2e-d78d09ff8cde",
+      "title": "Petitioning the Empty Sky",
+      "type": "ALBUM",
+      "releaseDate": "1996",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/94a1e4dc-db8f-3dce-9297-b45ecf36774b/front-1200",
+      "tracks": [
+        {
+          "title": "The Saddest Day",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Forsaken",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Albatross",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Dead",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Shingles",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Buried but Breathing",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Farewell Note to This City",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Color Me Blood Red",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "For You / Antithesis",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Homesong / Burn in Hell",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "f3c3cebf-b16e-373b-85f2-37cf3677e20c",
+      "releaseMbid": "1bcfb75b-d86f-4134-ac22-01d28984b4f9",
+      "title": "When Forever Comes Crashing",
+      "type": "ALBUM",
+      "releaseDate": "1998-04-14",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f3c3cebf-b16e-373b-85f2-37cf3677e20c/front-1200",
+      "tracks": [
+        {
+          "title": "My Unsaid Everything",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 203733
+        },
+        {
+          "title": "The High Cost of Playing God",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 257399
+        },
+        {
+          "title": "In Harms Way",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 261133
+        },
+        {
+          "title": "Conduit",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 248933
+        },
+        {
+          "title": "The Lowest Common Denominator",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 234026
+        },
+        {
+          "title": "Towing Jehovah",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 140840
+        },
+        {
+          "title": "When Forever Comes Crashing",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 194493
+        },
+        {
+          "title": "Ten Cents",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 140133
+        },
+        {
+          "title": "Year of the Swine",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 229866
+        },
+        {
+          "title": "Letterbomb",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 260666
+        },
+        {
+          "title": "Love as Arson",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 188573
+        }
+      ]
+    },
+    {
+      "mbid": "5cb21261-000a-3e99-bd13-35652c313bca",
+      "releaseMbid": "6acfda7f-e688-4ea8-9193-9fec1c1d0469",
+      "title": "The Poacher Diaries",
+      "type": "ALBUM",
+      "releaseDate": "1999-11-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/5cb21261-000a-3e99-bd13-35652c313bca/front-1200",
+      "tracks": [
+        {
+          "title": "Mantis",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 86120
+        },
+        {
+          "title": "Center of the Hive",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 72813
+        },
+        {
+          "title": "Glass Tornado",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 64066
+        },
+        {
+          "title": "Landfills of Extinct Possibility",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 71000
+        },
+        {
+          "title": "Pentagram Constellation",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 138906
+        },
+        {
+          "title": "Bed of Flies",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 60786
+        },
+        {
+          "title": "Destroyed",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 66760
+        },
+        {
+          "title": "Gringo",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 78986
+        },
+        {
+          "title": "Infected Womb",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 178853
+        },
+        {
+          "title": "Locust Reign",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 88266
+        },
+        {
+          "title": "This Is Mine",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 94146
+        },
+        {
+          "title": "They Stretch for Miles",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 266160
+        },
+        {
+          "title": "My Great Devastator",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 300053
+        },
+        {
+          "title": "The Human Shield",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 225653
+        },
+        {
+          "title": "Minnesota",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 307933
+        }
+      ]
+    },
+    {
+      "mbid": "f56e3b38-c620-32f4-9845-2e2115f5e96f",
+      "releaseMbid": "19d6eb85-cba1-4d7d-bec8-356b2ba954a2",
+      "title": "Jane Doe",
+      "type": "ALBUM",
+      "releaseDate": "2001-09-04",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f56e3b38-c620-32f4-9845-2e2115f5e96f/front-1200",
+      "tracks": [
+        {
+          "title": "Concubine",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Fault and Fracture",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Distance and Meaning",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Hell to Pay",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Homewrecker",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "The Broken Vow",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Bitter and Then Some",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Heaven in Her Arms",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Phoenix in Flight",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Phoenix in Flames",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Thaw",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Jane Doe",
+          "discNumber": 2,
+          "position": 5,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "2b5ed727-a499-3b2c-ae17-3daeac886d14",
+      "releaseMbid": "b3fbfa60-1463-48c0-a64c-b98f55c7590a",
+      "title": "You Fail Me",
+      "type": "ALBUM",
+      "releaseDate": "2004-09-15",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/2b5ed727-a499-3b2c-ae17-3daeac886d14/front-1200",
+      "tracks": [
+        {
+          "title": "First Light",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 61746
+        },
+        {
+          "title": "Last Light",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 213773
+        },
+        {
+          "title": "Black Cloud",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 139106
+        },
+        {
+          "title": "Drop Out",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 151946
+        },
+        {
+          "title": "Hope Street",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 66773
+        },
+        {
+          "title": "Heartless",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 148226
+        },
+        {
+          "title": "You Fail Me",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 336760
+        },
+        {
+          "title": "In Her Shadow",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 385733
+        },
+        {
+          "title": "Eagles Become Vultures",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 130506
+        },
+        {
+          "title": "Death King",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 127906
+        },
+        {
+          "title": "In Her Blood",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 246826
+        },
+        {
+          "title": "Hanging Moon",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 124106
+        }
+      ]
+    },
+    {
+      "mbid": "8b6e4596-796f-3097-96ee-dc6de9908f36",
+      "releaseMbid": "447f03b1-b399-49f2-b7e3-c2f0dba4de40",
+      "title": "No Heroes",
+      "type": "ALBUM",
+      "releaseDate": "2006-10-23",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/8b6e4596-796f-3097-96ee-dc6de9908f36/front-1200",
+      "tracks": [
+        {
+          "title": "Heartache",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 103760
+        },
+        {
+          "title": "Hellbound",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 67000
+        },
+        {
+          "title": "Sacrifice",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 97653
+        },
+        {
+          "title": "Vengeance",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 58320
+        },
+        {
+          "title": "Weight of the World",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 84933
+        },
+        {
+          "title": "No Heroes",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 223573
+        },
+        {
+          "title": "Plagues",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 283320
+        },
+        {
+          "title": "Grim Heart / Black Rose",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 574813
+        },
+        {
+          "title": "Orphaned",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 99173
+        },
+        {
+          "title": "Lonewolves",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 138293
+        },
+        {
+          "title": "Versus",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 129759
+        },
+        {
+          "title": "Trophy Scars",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 299400
+        },
+        {
+          "title": "Bare My Teeth",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 122586
+        },
+        {
+          "title": "To the Lions",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 220493
+        }
+      ]
+    },
+    {
+      "mbid": "5d95ce08-dc0b-450a-9730-611515f668fa",
+      "releaseMbid": "f2f427b3-e716-43d2-bed4-2ebba01debd1",
+      "title": "Axe to Fall",
+      "type": "ALBUM",
+      "releaseDate": "2009-10-20",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/5d95ce08-dc0b-450a-9730-611515f668fa/front-1200",
+      "tracks": [
+        {
+          "title": "Dark Horse",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 174746
+        },
+        {
+          "title": "Reap What You Sow",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 159186
+        },
+        {
+          "title": "Axe to Fall",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 101080
+        },
+        {
+          "title": "Effigy",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 102693
+        },
+        {
+          "title": "Worms Will Feed / Rats Will Feast",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 352786
+        },
+        {
+          "title": "Wishing Well",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 169893
+        },
+        {
+          "title": "Damages",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 266146
+        },
+        {
+          "title": "Losing Battle",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 106680
+        },
+        {
+          "title": "Dead Beat",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 156320
+        },
+        {
+          "title": "Cutter",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 100386
+        },
+        {
+          "title": "Slave Driver",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 168253
+        },
+        {
+          "title": "Cruel Bloom",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 241906
+        },
+        {
+          "title": "Wretched World",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 430506
+        }
+      ]
+    },
+    {
+      "mbid": "86037f34-72c6-4ad9-8072-f20bb839f78d",
+      "releaseMbid": "6bed1426-4afa-4969-be07-51e5ba6b9c6f",
+      "title": "All We Love We Leave Behind",
+      "type": "ALBUM",
+      "releaseDate": "2012-10-08",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/86037f34-72c6-4ad9-8072-f20bb839f78d/front-1200",
+      "tracks": [
+        {
+          "title": "Aimless Arrow",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 143266
+        },
+        {
+          "title": "Trespasses",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 163640
+        },
+        {
+          "title": "Tender Abuse",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 85133
+        },
+        {
+          "title": "Sadness Comes Home",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 192440
+        },
+        {
+          "title": "Empty on the Inside",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 149600
+        },
+        {
+          "title": "Sparrow's Fall",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 87373
+        },
+        {
+          "title": "Glacial Pace",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 266946
+        },
+        {
+          "title": "Vicious Muse",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 112160
+        },
+        {
+          "title": "Veins and Veils",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 152520
+        },
+        {
+          "title": "Coral Blue",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 288253
+        },
+        {
+          "title": "Shame in the Way",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 119413
+        },
+        {
+          "title": "Precipice",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 107400
+        },
+        {
+          "title": "All We Love We Leave Behind",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 246360
+        },
+        {
+          "title": "Predatory Glow",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 205493
+        }
+      ]
+    },
+    {
+      "mbid": "fe96f1f4-5c9f-4a39-a9d1-181dd3f4c54b",
+      "releaseMbid": "2c5274b5-c468-4378-8347-8d270635d06d",
+      "title": "The Dusk in Us",
+      "type": "ALBUM",
+      "releaseDate": "2017-11-03",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/fe96f1f4-5c9f-4a39-a9d1-181dd3f4c54b/front-1200",
+      "tracks": [
+        {
+          "title": "A Single Tear",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 239883
+        },
+        {
+          "title": "Eye of the Quarrel",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 134919
+        },
+        {
+          "title": "Under Duress",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 222884
+        },
+        {
+          "title": "Arkhipov Calm",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 173143
+        },
+        {
+          "title": "I Can Tell You About Pain",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 143650
+        },
+        {
+          "title": "The Dusk in Us",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 443182
+        },
+        {
+          "title": "Wildlife",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 149290
+        },
+        {
+          "title": "Murk & Marrow",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 181130
+        },
+        {
+          "title": "Trigger",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 213791
+        },
+        {
+          "title": "Broken by Light",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 106520
+        },
+        {
+          "title": "Cannibals",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 75946
+        },
+        {
+          "title": "Thousands of Miles Between Us",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 282762
+        },
+        {
+          "title": "Reptilian",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 273334
+        }
+      ]
+    },
+    {
+      "mbid": "94a4b34d-6160-47f7-a869-56c149507493",
+      "releaseMbid": "8d10ed2f-a322-4076-956d-4567905cea8a",
+      "title": "Bloodmoon: I",
+      "type": "ALBUM",
+      "releaseDate": "2021-11-19",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/94a4b34d-6160-47f7-a869-56c149507493/front-1200",
+      "tracks": [
+        {
+          "title": "Blood Moon",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 470000
+        },
+        {
+          "title": "Viscera of Men",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 329000
+        },
+        {
+          "title": "Coil",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 368000
+        },
+        {
+          "title": "Flower Moon",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 278000
+        },
+        {
+          "title": "Tongues Playing Dead",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 252000
+        },
+        {
+          "title": "Lord of Liars",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 201000
+        },
+        {
+          "title": "Failure Forever",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 242000
+        },
+        {
+          "title": "Scorpion’s Sting",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 348000
+        },
+        {
+          "title": "Daimon",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 419000
+        },
+        {
+          "title": "Crimson Stone",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 407000
+        },
+        {
+          "title": "Blood Dawn",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 210000
+        }
+      ]
+    },
+    {
+      "mbid": "21465b8f-cf0a-479e-a1f2-e17f41f138bf",
+      "releaseMbid": "bce015a5-9e7b-46ba-8337-69a44c0215f5",
+      "title": "Love Is Not Enough",
+      "type": "ALBUM",
+      "releaseDate": "2026-02-13",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/21465b8f-cf0a-479e-a1f2-e17f41f138bf/front-1200",
+      "tracks": [
+        {
+          "title": "Love Is Not Enough",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 142182
+        },
+        {
+          "title": "Bad Faith",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 168324
+        },
+        {
+          "title": "Distract and Divide",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 91407
+        },
+        {
+          "title": "To Feel Something",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 118831
+        },
+        {
+          "title": "Beyond Repair",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 149117
+        },
+        {
+          "title": "Amon Amok",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 223633
+        },
+        {
+          "title": "Force Meets Presence",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 137133
+        },
+        {
+          "title": "Gilded Cage",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 288582
+        },
+        {
+          "title": "Make Me Forget You",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 298438
+        },
+        {
+          "title": "We Were Never the Same",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 253170
+        }
+      ]
+    },
+    {
+      "mbid": "632777f5-9374-4232-b4a6-8a175d075056",
+      "releaseMbid": "2bcd56a4-0d8c-47ee-9ca2-450cf0394186",
+      "title": "Hum of Hurt",
+      "type": "ALBUM",
+      "releaseDate": "2026-06-05",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Slip the Noose",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 103600
+        },
+        {
+          "title": "Doom in Bloom",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 197373
+        },
+        {
+          "title": "It Only Gets Worse",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 132973
+        },
+        {
+          "title": "Detonator",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 216960
+        },
+        {
+          "title": "I Won’t Let You Go",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 176880
+        },
+        {
+          "title": "It’s Not Up to Us",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 163226
+        },
+        {
+          "title": "Dream Debris",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 360680
+        },
+        {
+          "title": "It Used to Matter",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 151080
+        },
+        {
+          "title": "Hum of Hurt",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 215280
+        },
+        {
+          "title": "Nothing Is Over",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 295706
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

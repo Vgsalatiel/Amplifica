@@ -1,0 +1,478 @@
+{
+  "generatedAt": "2026-11-19T11:18:15.526Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "f650539c-890f-4f05-b2c8-258ec098e338",
+    "name": "The World Is a Beautiful Place & I Am No Longer Afraid to Die",
+    "slug": "the-world-is-a-beautiful-place-e-i-am-no-longer-afraid-to-die",
+    "type": "BAND",
+    "country": "US",
+    "city": "Willimantic",
+    "formedYear": 2009,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/f650539c-890f-4f05-b2c8-258ec098e338"
+      }
+    ],
+    "genres": [
+      "emo",
+      "indie-rock"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "a398e9a4-305c-4f8f-9c76-a2a2e7855904",
+      "releaseMbid": "51736e4a-7877-4e5f-b53a-9992e383d181",
+      "title": "Deer Leap and The World Is a Beautiful Place & I Am No Longer Afraid to Die Are Here to Help You",
+      "type": "ALBUM",
+      "releaseDate": "2011-09-20",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Learned in People",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 46000
+        },
+        {
+          "title": "We Are Not Who We Are",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 260000
+        },
+        {
+          "title": "To Moscow, and Quickly",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 317000
+        },
+        {
+          "title": "Coffee and Keys",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 235000
+        },
+        {
+          "title": "I Will Be Okay. Everything",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 243000
+        },
+        {
+          "title": "Mega Steve",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 245000
+        },
+        {
+          "title": "Bread for Brett",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 203000
+        },
+        {
+          "title": "Wait… What?",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 378000
+        }
+      ]
+    },
+    {
+      "mbid": "56c5e4a0-3138-4c11-9758-e9a9df8abf6a",
+      "releaseMbid": "10f60094-82e8-4e53-81f5-d546e12b6983",
+      "title": "Whenever, If Ever",
+      "type": "ALBUM",
+      "releaseDate": "2013-06-18",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/56c5e4a0-3138-4c11-9758-e9a9df8abf6a/front-1200",
+      "tracks": [
+        {
+          "title": "Blank #9",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 132800
+        },
+        {
+          "title": "Heartbeat in the Brain",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 341907
+        },
+        {
+          "title": "Fightboat",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 124894
+        },
+        {
+          "title": "Picture of a Tree That Doesn’t Look Okay",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 241000
+        },
+        {
+          "title": "You Will Never Go to Space",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 144800
+        },
+        {
+          "title": "The Layers of Skin We Drag Around",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 93400
+        },
+        {
+          "title": "Ultimate Steve",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 243694
+        },
+        {
+          "title": "Gig Life",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 179307
+        },
+        {
+          "title": "Low Light Assembly",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 199800
+        },
+        {
+          "title": "Getting Sodas",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 420400
+        }
+      ]
+    },
+    {
+      "mbid": "d826a11f-fce5-4534-87c5-b7a9cd40f4b9",
+      "releaseMbid": "166a866e-a5b0-4183-8952-0c25aaaf1221",
+      "title": "Harmlessness",
+      "type": "ALBUM",
+      "releaseDate": "2015-03-22",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d826a11f-fce5-4534-87c5-b7a9cd40f4b9/front-1200",
+      "tracks": [
+        {
+          "title": "You Can’t Live There Forever",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "blank #11",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "January 10th 2014",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "The Word Lisa",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Rage Against the Dying of the Light",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Ra Patera",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Mental Health",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Wendover",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "We Need More Skulls",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Haircuts for Everybody",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Willie (For Howard)",
+          "discNumber": 2,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "I Can Be Afraid of Anything",
+          "discNumber": 2,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Mount Hum",
+          "discNumber": 2,
+          "position": 7,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "2f2e2c72-ec28-4dac-ac81-d39f9fd04b46",
+      "releaseMbid": "cfe26787-9107-4e5d-a342-00b0a10c8499",
+      "title": "Always Foreign",
+      "type": "ALBUM",
+      "releaseDate": "2017-09-29",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/2f2e2c72-ec28-4dac-ac81-d39f9fd04b46/front-1200",
+      "tracks": [
+        {
+          "title": "I’ll Make Everything",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "The Future",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Hilltopper",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 181894
+        },
+        {
+          "title": "Faker",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Gram",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 230016
+        },
+        {
+          "title": "Dillon and Her Son",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 144291
+        },
+        {
+          "title": "Blank #12",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "For Robin",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "Marine Tigers",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 423800
+        },
+        {
+          "title": "Fuzz Minor",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": null
+        },
+        {
+          "title": "Infinite Steve",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "1e7d7cae-4f54-4ede-b408-daf1affda1c6",
+      "releaseMbid": "35e4d950-817c-48a7-acc7-4737f742e165",
+      "title": "Illusory Walls",
+      "type": "ALBUM",
+      "releaseDate": "2021-10-08",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Afraid to Die",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 189000
+        },
+        {
+          "title": "Queen Sophie for President",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 209000
+        },
+        {
+          "title": "Invading the World of the Guilty as a Spirit of Vengeance",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 350000
+        },
+        {
+          "title": "Blank / Drone",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 100000
+        },
+        {
+          "title": "We Saw Birds Through the Hole in the Ceiling",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 215566
+        },
+        {
+          "title": "Died in the Prison of the Holy Office",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 408448
+        },
+        {
+          "title": "Your Brain Is a Rubbermaid",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 183886
+        },
+        {
+          "title": "Blank / Worker",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 166225
+        },
+        {
+          "title": "Trouble",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 282574
+        },
+        {
+          "title": "Infinite Josh",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 939882
+        },
+        {
+          "title": "Fewer Afraid",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 1184471
+        }
+      ]
+    },
+    {
+      "mbid": "202dc231-e5d8-46c1-b30e-5c745e970126",
+      "releaseMbid": "213b8c9c-b2f6-49f7-bb87-1278f39089a3",
+      "title": "Dreams of Being Dust",
+      "type": "ALBUM",
+      "releaseDate": "2025-08-22",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/202dc231-e5d8-46c1-b30e-5c745e970126/front-1200",
+      "tracks": [
+        {
+          "title": "Dimmed Sun",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Se sufre pero se goza",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "No Pilgrim",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Beware the Centrist",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Oubliette",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Captagon",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Dissolving",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Reject All and Submit",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "December 4th, 2024",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Auguries of Guilt",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": null
+        },
+        {
+          "title": "For Those Who Will Outlive Us",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": null
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

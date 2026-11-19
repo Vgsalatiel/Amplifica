@@ -1,0 +1,933 @@
+{
+  "generatedAt": "2026-11-19T11:54:08.552Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "4f8b7186-b2a2-40db-97ae-6e1cd46d57b1",
+    "name": "All That Remains",
+    "slug": "all-that-remains",
+    "type": "BAND",
+    "country": "US",
+    "city": "Springfield",
+    "formedYear": 1998,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/4f8b7186-b2a2-40db-97ae-6e1cd46d57b1"
+      }
+    ],
+    "genres": [
+      "metalcore",
+      "metal"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "e82f79f7-c30a-4056-93ce-1e9e27de693b",
+      "releaseMbid": "21a85a1a-b9ac-4488-abcc-2c45f2750fb3",
+      "title": "All That Remains",
+      "type": "EP",
+      "releaseDate": "1999",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/e82f79f7-c30a-4056-93ce-1e9e27de693b/front-1200",
+      "tracks": [
+        {
+          "title": "Follow",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 242848
+        },
+        {
+          "title": "Shading",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 232138
+        },
+        {
+          "title": "Erase",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 374329
+        }
+      ]
+    },
+    {
+      "mbid": "c2135f0b-90ca-486f-8a40-72f761f32101",
+      "releaseMbid": "3f11bd16-8424-4eb6-8b91-b2c25702d5b2",
+      "title": "Demo",
+      "type": "ALBUM",
+      "releaseDate": "1999-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c2135f0b-90ca-486f-8a40-72f761f32101/front-1200",
+      "tracks": [
+        {
+          "title": "Follow",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 242000
+        },
+        {
+          "title": "From These Wounds",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 278000
+        },
+        {
+          "title": "Shading",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 232000
+        }
+      ]
+    },
+    {
+      "mbid": "7de83943-1550-3855-a67e-b77de34b9edb",
+      "releaseMbid": "359100cc-1fd6-4a83-804e-16faad28e560",
+      "title": "Behind Silence and Solitude",
+      "type": "ALBUM",
+      "releaseDate": "2002-03-26",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/7de83943-1550-3855-a67e-b77de34b9edb/front-1200",
+      "tracks": [
+        {
+          "title": "Behind Silence and Solitude",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 259760
+        },
+        {
+          "title": "From These Wounds",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 275800
+        },
+        {
+          "title": "Follow",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 242640
+        },
+        {
+          "title": "Clarity",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 337240
+        },
+        {
+          "title": "Erase",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 374653
+        },
+        {
+          "title": "Shading",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 231400
+        },
+        {
+          "title": "Home to Me",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 406800
+        },
+        {
+          "title": "One Belief",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 270293
+        }
+      ]
+    },
+    {
+      "mbid": "5c551745-450a-397b-b368-599c72d42b93",
+      "releaseMbid": "0a1b2d3b-895c-44ee-81c4-0dde95e61c90",
+      "title": "This Darkened Heart",
+      "type": "ALBUM",
+      "releaseDate": "2004-03-23",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/5c551745-450a-397b-b368-599c72d42b93/front-1200",
+      "tracks": [
+        {
+          "title": "And Death in My Arms",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 285093
+        },
+        {
+          "title": "The Deepest Gray",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 189000
+        },
+        {
+          "title": "Vicious Betrayal",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 259000
+        },
+        {
+          "title": "I Die in Degrees",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 210200
+        },
+        {
+          "title": "Focus Shall Not Fail",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 378333
+        },
+        {
+          "title": "Regret Not",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 266040
+        },
+        {
+          "title": "Passion",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 222267
+        },
+        {
+          "title": "For Salvation",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 230493
+        },
+        {
+          "title": "Tattered on My Sleeve",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 261733
+        },
+        {
+          "title": "This Darkened Heart",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 193467
+        }
+      ]
+    },
+    {
+      "mbid": "f7d9fae4-a5bd-3d69-b32c-95b8f81d0476",
+      "releaseMbid": "1453b70c-b1ae-47cd-bee7-7728b51313e4",
+      "title": "The Fall of Ideals",
+      "type": "ALBUM",
+      "releaseDate": "2006-07-11",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f7d9fae4-a5bd-3d69-b32c-95b8f81d0476/front-1200",
+      "tracks": [
+        {
+          "title": "This Calling",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 218000
+        },
+        {
+          "title": "Not Alone",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 210000
+        },
+        {
+          "title": "It Dwells In Me",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 194000
+        },
+        {
+          "title": "We Stand",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 227000
+        },
+        {
+          "title": "Whispers (I Hear Your)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 219000
+        },
+        {
+          "title": "The Weak Willed",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 245000
+        },
+        {
+          "title": "Six",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 202000
+        },
+        {
+          "title": "Become The Catalyst",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 186000
+        },
+        {
+          "title": "The Air That I Breathe",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 214000
+        },
+        {
+          "title": "Empty Inside",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 202000
+        },
+        {
+          "title": "Indictment",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 222000
+        }
+      ]
+    },
+    {
+      "mbid": "d469ff36-5125-4939-8b30-cf5193f3799d",
+      "releaseMbid": "142d7bdd-7924-444b-ae6d-02968a9b8301",
+      "title": "Live",
+      "type": "LIVE",
+      "releaseDate": "2007-06-26",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d469ff36-5125-4939-8b30-cf5193f3799d/front-1200",
+      "tracks": [
+        {
+          "title": "Become the Catalyst",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 191000
+        },
+        {
+          "title": "This Darkened Heart",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 193000
+        },
+        {
+          "title": "Six",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 200000
+        },
+        {
+          "title": "Not Alone",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 204000
+        },
+        {
+          "title": "It Dwells in Me",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 171000
+        },
+        {
+          "title": "Tattered on My Sleeve",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 219000
+        },
+        {
+          "title": "The Air That I Breathe",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 231000
+        },
+        {
+          "title": "For Salvation",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 225000
+        },
+        {
+          "title": "The Weak Willed",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 204000
+        },
+        {
+          "title": "We Stand",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 205000
+        },
+        {
+          "title": "This Calling",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 281000
+        },
+        {
+          "title": "Indictment",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 257000
+        }
+      ]
+    },
+    {
+      "mbid": "e916931d-aa5d-3bd3-9b54-be32dfc14dc8",
+      "releaseMbid": "79e00762-6a85-4a07-8a60-a8dfe6e6c5e6",
+      "title": "Overcome",
+      "type": "ALBUM",
+      "releaseDate": "2008-09-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/e916931d-aa5d-3bd3-9b54-be32dfc14dc8/front-1200",
+      "tracks": [
+        {
+          "title": "Before The Damned",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 173000
+        },
+        {
+          "title": "Two Weeks",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 257346
+        },
+        {
+          "title": "Undone",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 192400
+        },
+        {
+          "title": "Forever In Your Hands",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 216000
+        },
+        {
+          "title": "Chiron",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 264000
+        },
+        {
+          "title": "Days Without",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 191013
+        },
+        {
+          "title": "A Song For The Hopeless",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 255360
+        },
+        {
+          "title": "Do Not Obey",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 191000
+        },
+        {
+          "title": "Relinquish",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 171040
+        },
+        {
+          "title": "Overcome",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 158000
+        },
+        {
+          "title": "Believe In Nothing",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 263000
+        }
+      ]
+    },
+    {
+      "mbid": "babbea06-3f72-46ab-8b93-c87b206b2525",
+      "releaseMbid": "00e40879-8672-45f6-9172-72b891a955d4",
+      "title": "…For We Are Many",
+      "type": "ALBUM",
+      "releaseDate": "2010-10-12",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/babbea06-3f72-46ab-8b93-c87b206b2525/front-1200",
+      "tracks": [
+        {
+          "title": "Now Let Them Tremble…",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 83066
+        },
+        {
+          "title": "For We Are Many",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 179613
+        },
+        {
+          "title": "The Last Time",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 238306
+        },
+        {
+          "title": "Some of the People, All of the Time",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 202026
+        },
+        {
+          "title": "Won’t Go Quietly",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 240266
+        },
+        {
+          "title": "Aggressive Opposition",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 225760
+        },
+        {
+          "title": "From the Outside",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 214346
+        },
+        {
+          "title": "Dead Wrong",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 187053
+        },
+        {
+          "title": "Faithless",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 214640
+        },
+        {
+          "title": "Hold On",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 177053
+        },
+        {
+          "title": "Keepers of Fellow Man",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 190720
+        },
+        {
+          "title": "The Waiting One",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 288186
+        }
+      ]
+    },
+    {
+      "mbid": "cac4b6a5-4608-4035-b5a9-250ebbdb41c5",
+      "releaseMbid": "c80a4f79-7cd9-4c74-895a-25845dfec69d",
+      "title": "A War You Cannot Win",
+      "type": "ALBUM",
+      "releaseDate": "2012-11-06",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/cac4b6a5-4608-4035-b5a9-250ebbdb41c5/front-1200",
+      "tracks": [
+        {
+          "title": "Down Through The Ages",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 212000
+        },
+        {
+          "title": "You Can't Fill My Shadow",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 213000
+        },
+        {
+          "title": "Stand Up",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 240000
+        },
+        {
+          "title": "A Call To All Non-Believers",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 164000
+        },
+        {
+          "title": "Asking Too Much",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 208000
+        },
+        {
+          "title": "Intro",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 20000
+        },
+        {
+          "title": "Just Moments In Time",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 207000
+        },
+        {
+          "title": "What If I Was Nothing",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 277000
+        },
+        {
+          "title": "Sing For Liberty",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 222000
+        },
+        {
+          "title": "Not Fading",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 214000
+        },
+        {
+          "title": "Calculating Loneliness",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 159000
+        },
+        {
+          "title": "A War You Cannot Win",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 222000
+        }
+      ]
+    },
+    {
+      "mbid": "7d91211c-6ff3-4212-9203-78d116b004d3",
+      "releaseMbid": "2213115e-7f08-4507-ba0e-3833ad40af3d",
+      "title": "The Order of Things",
+      "type": "ALBUM",
+      "releaseDate": "2015-02-24",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/7d91211c-6ff3-4212-9203-78d116b004d3/front-1200",
+      "tracks": [
+        {
+          "title": "This Probably Won’t End Well",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 228000
+        },
+        {
+          "title": "No Knock",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 168000
+        },
+        {
+          "title": "Divide",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 198000
+        },
+        {
+          "title": "The Greatest Generation",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 240000
+        },
+        {
+          "title": "For You",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 256000
+        },
+        {
+          "title": "A Reason for Me to Fight",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 222000
+        },
+        {
+          "title": "Victory Lap",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 234000
+        },
+        {
+          "title": "Pernicious",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 241000
+        },
+        {
+          "title": "Bite My Tongue",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 248000
+        },
+        {
+          "title": "Fiat Empire",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 244000
+        },
+        {
+          "title": "Tru‐Kvlt‐Metal",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 219000
+        },
+        {
+          "title": "Criticism and Self Realization",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 423000
+        }
+      ]
+    },
+    {
+      "mbid": "e2878c28-8e97-4521-a9d2-23170fd7ca1f",
+      "releaseMbid": "8e1b03e8-7243-4764-bb5a-963eea648d31",
+      "title": "Madness",
+      "type": "ALBUM",
+      "releaseDate": "2017-04-28",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/e2878c28-8e97-4521-a9d2-23170fd7ca1f/front-1200",
+      "tracks": [
+        {
+          "title": "Safe House",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 217133
+        },
+        {
+          "title": "Madness",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 204427
+        },
+        {
+          "title": "Nothing I Can Do",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 221574
+        },
+        {
+          "title": "If I’m Honest",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 263323
+        },
+        {
+          "title": "Halo",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 243597
+        },
+        {
+          "title": "Louder",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 191096
+        },
+        {
+          "title": "Rivercity",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 333988
+        },
+        {
+          "title": "Open Grave",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 222547
+        },
+        {
+          "title": "Far From Home",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 245769
+        },
+        {
+          "title": "Trust and Believe",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 194353
+        },
+        {
+          "title": "Back to You",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 205052
+        },
+        {
+          "title": "Never Sorry",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 217622
+        },
+        {
+          "title": "The Thunder Rolls",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 262892
+        }
+      ]
+    },
+    {
+      "mbid": "08d2584e-d2e4-4bca-a6a6-05647e8a88f9",
+      "releaseMbid": "da94375d-70d3-414b-af49-854809d3dd20",
+      "title": "Victim of the New Disease",
+      "type": "ALBUM",
+      "releaseDate": "2018-11-09",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Fuck Love",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 180000
+        },
+        {
+          "title": "Everything's Wrong",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 252000
+        },
+        {
+          "title": "Blood I Spill",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 222000
+        },
+        {
+          "title": "Wasteland",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 292000
+        },
+        {
+          "title": "Alone in the Darkness",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 212000
+        },
+        {
+          "title": "Misery in Me",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 253000
+        },
+        {
+          "title": "Broken",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 204000
+        },
+        {
+          "title": "Just Tell Me Something",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 298000
+        },
+        {
+          "title": "I Meant What I Said",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 273000
+        },
+        {
+          "title": "Victim of the New Disease",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 178000
+        }
+      ]
+    },
+    {
+      "mbid": "1084c7d7-c742-4ac5-83ea-50f1c56f8692",
+      "releaseMbid": "9be515f7-8611-4180-bbb2-fcc303fea942",
+      "title": "AntiFragile",
+      "type": "ALBUM",
+      "releaseDate": "2025-01-31",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/1084c7d7-c742-4ac5-83ea-50f1c56f8692/front-1200",
+      "tracks": [
+        {
+          "title": "Divine",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 219676
+        },
+        {
+          "title": "Kerosene",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 263622
+        },
+        {
+          "title": "No Tomorrow",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 280252
+        },
+        {
+          "title": "The Piper",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 262801
+        },
+        {
+          "title": "AntiFragile",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 270579
+        },
+        {
+          "title": "Forever Cold",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 283714
+        },
+        {
+          "title": "Poison It",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 232457
+        },
+        {
+          "title": "Let You Go",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 231770
+        },
+        {
+          "title": "Cut Their Tongues Out",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 202048
+        },
+        {
+          "title": "Blood & Stone",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 354423
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

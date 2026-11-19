@@ -1,0 +1,653 @@
+{
+  "generatedAt": "2026-11-18T20:51:49.544Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "9311e2bc-bb3f-44cf-90d8-b1fe6912b60b",
+    "name": "Brand New",
+    "slug": "brand-new",
+    "type": "BAND",
+    "country": "US",
+    "city": "Merrick",
+    "formedYear": 2000,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/9311e2bc-bb3f-44cf-90d8-b1fe6912b60b"
+      }
+    ],
+    "genres": [
+      "emo",
+      "alternative-rock",
+      "pop-punk"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "e1c5146a-92b2-36b9-a6c6-88bbdaefa40c",
+      "releaseMbid": "6c015bf7-68c3-4337-95cf-6ce3e2c52646",
+      "title": "Brand New",
+      "type": "EP",
+      "releaseDate": "2000",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/e1c5146a-92b2-36b9-a6c6-88bbdaefa40c/front-1200",
+      "tracks": [
+        {
+          "title": "Jude Law and a Semester Abroad",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 144000
+        },
+        {
+          "title": "Logan to Government Center",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 195000
+        },
+        {
+          "title": "The Shower Scene",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 147000
+        },
+        {
+          "title": "Secondary (for the Worse)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 172000
+        }
+      ]
+    },
+    {
+      "mbid": "54b2ea4e-8f24-49c1-917a-a38516d62f2d",
+      "releaseMbid": "842f0423-2997-45ba-b8ce-ba7c486c392c",
+      "title": "Brand New",
+      "type": "EP",
+      "releaseDate": "2001",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Last Chance to Lose Your Keys",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 203000
+        },
+        {
+          "title": "Magazines",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 187000
+        },
+        {
+          "title": "Logan to Government Center",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 197000
+        },
+        {
+          "title": "Secondary",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 179000
+        }
+      ]
+    },
+    {
+      "mbid": "20b87067-4c51-3d56-bb0f-238e433301c4",
+      "releaseMbid": "9b1068f2-3e58-4fe0-a198-020a5dcbe91e",
+      "title": "Your Favorite Weapon",
+      "type": "ALBUM",
+      "releaseDate": "2001-10-09",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/20b87067-4c51-3d56-bb0f-238e433301c4/front-1200",
+      "tracks": [
+        {
+          "title": "The Shower Scene",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 144800
+        },
+        {
+          "title": "Jude Law and a Semester Abroad",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 220120
+        },
+        {
+          "title": "Sudden Death in Carolina",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 181760
+        },
+        {
+          "title": "Mix Tape",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 237693
+        },
+        {
+          "title": "Failure by Design",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 195146
+        },
+        {
+          "title": "Last Chance to Lose Your Keys",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 205400
+        },
+        {
+          "title": "Logan to Government Center",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 182560
+        },
+        {
+          "title": "The No Seatbelt Song",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 269853
+        },
+        {
+          "title": "Seventy Times 7",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 212613
+        },
+        {
+          "title": "Secondary",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 181280
+        },
+        {
+          "title": "Magazines",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 170040
+        },
+        {
+          "title": "Soco Amaretto Lime",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 284680
+        }
+      ]
+    },
+    {
+      "mbid": "2ebc44f8-2a20-30c8-9481-4bbd29057bc2",
+      "releaseMbid": "3bbd76ba-ed54-41e2-a35c-ff63b0392032",
+      "title": "Brand New / Safety in Numbers",
+      "type": "EP",
+      "releaseDate": "2002",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Moshi Moshi",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 147000
+        },
+        {
+          "title": "Am I Wrong",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 220000
+        },
+        {
+          "title": "No Use",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 198000
+        },
+        {
+          "title": "Faithfully",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 222000
+        }
+      ]
+    },
+    {
+      "mbid": "6917ec0c-3d53-3835-bd9d-d079d70c1ce0",
+      "releaseMbid": "b315e122-1921-44b5-ada0-27817ad6d0bc",
+      "title": "Deja Entendu",
+      "type": "ALBUM",
+      "releaseDate": "2003-06-17",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/6917ec0c-3d53-3835-bd9d-d079d70c1ce0/front-1200",
+      "tracks": [
+        {
+          "title": "Tautou",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 102453
+        },
+        {
+          "title": "Sic transit gloria… Glory Fades",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 186493
+        },
+        {
+          "title": "I Will Play My Game Beneath the Spin Light",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 237200
+        },
+        {
+          "title": "Okay I Believe You, but My Tommy Gun Don’t",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 335373
+        },
+        {
+          "title": "The Quiet Things That No One Ever Knows",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 241640
+        },
+        {
+          "title": "The Boy Who Blocked His Own Shot",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 279200
+        },
+        {
+          "title": "Jaws Theme Swimming",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 274453
+        },
+        {
+          "title": "Me vs. Maradona vs. Elvis",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 319000
+        },
+        {
+          "title": "Guernica",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 203173
+        },
+        {
+          "title": "Good to Know That If I Ever Need Attention All I Have to Do Is Die",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 420520
+        },
+        {
+          "title": "Play Crack the Sky",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 327880
+        }
+      ]
+    },
+    {
+      "mbid": "3ba7a2e2-ffbb-3f48-a736-382c068ff388",
+      "releaseMbid": "a6a106d9-b42c-4472-a0d1-dfdbdf1187fd",
+      "title": "The Holiday EP",
+      "type": "EP",
+      "releaseDate": "2003-12-15",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/3ba7a2e2-ffbb-3f48-a736-382c068ff388/front-1200",
+      "tracks": [
+        {
+          "title": "The Boy Who Blocked His Own Shot (acoustic)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 303293
+        },
+        {
+          "title": "Logan to Government Center (demo)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 192413
+        },
+        {
+          "title": "The Quiet Things That No One Ever Knows (acoustic)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 249933
+        },
+        {
+          "title": "Good to Know That If I Ever Need Attention All I Have to Do Is Die (demo)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 312840
+        },
+        {
+          "title": "Oh Holy Night",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 236520
+        }
+      ]
+    },
+    {
+      "mbid": "ecd109f0-a5f6-44d9-99e5-eba6c8015d91",
+      "releaseMbid": "b4f33477-d3ea-4557-bf5e-f2bf4daf030d",
+      "title": "Leaked Demos 2006",
+      "type": "ALBUM",
+      "releaseDate": "2006-01-24",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ecd109f0-a5f6-44d9-99e5-eba6c8015d91/front-1200",
+      "tracks": [
+        {
+          "title": "Good Man",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "1996",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Brother's Song",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Missing You",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Nobody Moves",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Luca",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Fork and Knife",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Yeah (Sowing Season)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "Battalions",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "1be8a707-2fe2-3a79-ae44-332cec741ad6",
+      "releaseMbid": "79150398-1d5f-4800-aef9-690f9228995c",
+      "title": "The Devil and God Are Raging Inside Me",
+      "type": "ALBUM",
+      "releaseDate": "2006-11-20",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/1be8a707-2fe2-3a79-ae44-332cec741ad6/front-1200",
+      "tracks": [
+        {
+          "title": "Sowing Season (Yeah)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 270733
+        },
+        {
+          "title": "Millstone",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 256667
+        },
+        {
+          "title": "Jesus Christ",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 318267
+        },
+        {
+          "title": "Degausser",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 324907
+        },
+        {
+          "title": "Limousine",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 462293
+        },
+        {
+          "title": "You Won’t Know",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 341667
+        },
+        {
+          "title": "Welcome to Bangkok",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 185800
+        },
+        {
+          "title": "Not the Sun",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 188533
+        },
+        {
+          "title": "Luca",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 308667
+        },
+        {
+          "title": "[untitled]",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 124107
+        },
+        {
+          "title": "Archers",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 253560
+        },
+        {
+          "title": "Handcuffs",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 250907
+        }
+      ]
+    },
+    {
+      "mbid": "857a42ee-8c55-4784-a702-e9e79e737ca3",
+      "releaseMbid": "052a5730-d972-42a0-b3ab-8319f3d22027",
+      "title": "Daisy",
+      "type": "ALBUM",
+      "releaseDate": "2009-01-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/857a42ee-8c55-4784-a702-e9e79e737ca3/front-1200",
+      "tracks": [
+        {
+          "title": "Vices",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 204000
+        },
+        {
+          "title": "Bed",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 190000
+        },
+        {
+          "title": "At the Bottom",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 244000
+        },
+        {
+          "title": "Gasoline",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 212000
+        },
+        {
+          "title": "You Stole",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 360000
+        },
+        {
+          "title": "Be Gone",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 91000
+        },
+        {
+          "title": "Sink",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 200000
+        },
+        {
+          "title": "Bought a Bride",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 187000
+        },
+        {
+          "title": "Daisy",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 186000
+        },
+        {
+          "title": "In a Jar",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 186000
+        },
+        {
+          "title": "Noro",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 387000
+        }
+      ]
+    },
+    {
+      "mbid": "6b9ba540-608d-486d-b5b9-b572c5584ba5",
+      "releaseMbid": "9f4d709a-aed9-4a9a-8c1a-86395f2783a9",
+      "title": "Rarities EP",
+      "type": "EP",
+      "releaseDate": "2010",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "...My Nine Rides Shotgun",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "I Will Play My Game Beneath the Spin Light (Live, Acoustic)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Two-Headed Boy (Acoustic)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "635d448a-c032-4745-9abe-e649fc129aa0",
+      "releaseMbid": "2ece782e-1831-4489-9fed-ef41d3943567",
+      "title": "3 Demos, Reworked",
+      "type": "EP",
+      "releaseDate": "2016-07-15",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/635d448a-c032-4745-9abe-e649fc129aa0/front-1200",
+      "tracks": [
+        {
+          "title": "Brother's Song",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Missing You",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "1996",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Brother's Song (demo 2006)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Missing You (demo 2006)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "1996 (demo 2006)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "3105cdad-9f5d-4c9b-a7c1-cf26f2d7e502",
+      "releaseMbid": "806a8384-9949-4a96-8aa9-1e2bc301a26d",
+      "title": "Science Fiction",
+      "type": "ALBUM",
+      "releaseDate": "2017-08-17",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "44.5902N104.7146W",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 3687000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

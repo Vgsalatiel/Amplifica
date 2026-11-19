@@ -1,0 +1,104 @@
+{
+  "generatedAt": "2026-11-19T11:48:57.847Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "e89f46c8-f7df-41ba-a10d-eb580a5f4137",
+    "name": "In No Sense",
+    "slug": "in-no-sense",
+    "type": "BAND",
+    "country": "BR",
+    "city": null,
+    "formedYear": null,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/e89f46c8-f7df-41ba-a10d-eb580a5f4137"
+      }
+    ],
+    "genres": [
+      "metalcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "89a32f06-51d2-4044-97f0-f86d4dd3fa90",
+      "releaseMbid": "02130183-f334-41b6-97f0-ab7fee41f105",
+      "title": "Despertar",
+      "type": "ALBUM",
+      "releaseDate": "2016-02-26",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/89a32f06-51d2-4044-97f0-f86d4dd3fa90/front-1200",
+      "tracks": [
+        {
+          "title": "Despertar",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Cárcere",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Cão",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Memórias Póstumas",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Ao Seu Alcance",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Haciendo Tu Proprio Camino",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "(Perpétua Escuridão Advinda) P.E.A",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Precipício",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "Véu Do Acusar",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Santimônio",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": null
+        },
+        {
+          "title": "Imunidade",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": null
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

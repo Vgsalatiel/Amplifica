@@ -1,0 +1,808 @@
+{
+  "generatedAt": "2026-11-18T20:30:36.527Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "95c4e9ef-291b-4f94-8bc9-2b00e76eacb0",
+    "name": "Bury Tomorrow",
+    "slug": "bury-tomorrow",
+    "type": "BAND",
+    "country": "GB",
+    "city": "Southampton",
+    "formedYear": 2006,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/95c4e9ef-291b-4f94-8bc9-2b00e76eacb0"
+      }
+    ],
+    "genres": [
+      "metalcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "57c6517e-cf14-4b63-95d9-62cd70246aeb",
+      "releaseMbid": "25853a9b-b167-4c06-8707-67c79e6355fa",
+      "title": "The Sleep of the Innocents",
+      "type": "EP",
+      "releaseDate": "2007",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/57c6517e-cf14-4b63-95d9-62cd70246aeb/front-1200",
+      "tracks": [
+        {
+          "title": "The Sleep of the Innocents",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 27000
+        },
+        {
+          "title": "Salvation & the Martyr",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 228000
+        },
+        {
+          "title": "This Town Was Ours",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 214000
+        },
+        {
+          "title": "Interlude",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 54000
+        },
+        {
+          "title": "Before The Silence",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 334000
+        },
+        {
+          "title": "These Woods Aren't Safe for Us",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 278000
+        },
+        {
+          "title": "From Broken Heroes",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 185000
+        }
+      ]
+    },
+    {
+      "mbid": "8290e61a-6387-44b8-9e2b-3629388c0d21",
+      "releaseMbid": "979e1a5e-dd09-4718-a972-7a4f587a4be7",
+      "title": "Portraits",
+      "type": "ALBUM",
+      "releaseDate": "2009-10-12",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/8290e61a-6387-44b8-9e2b-3629388c0d21/front-1200",
+      "tracks": [
+        {
+          "title": "Confessions",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 312000
+        },
+        {
+          "title": "Evolution of Self",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 214000
+        },
+        {
+          "title": "You & I",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 208000
+        },
+        {
+          "title": "Her Bones in the Sand",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 253000
+        },
+        {
+          "title": "Repair the Lining",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 174000
+        },
+        {
+          "title": "Casting Shapes",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 213000
+        },
+        {
+          "title": "Factory of Embers",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 257000
+        },
+        {
+          "title": "Relief",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 163000
+        },
+        {
+          "title": "Anything With Teeth",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 217000
+        },
+        {
+          "title": "These Woods Aren’t Safe for Us",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 294000
+        },
+        {
+          "title": "Portraits",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 343000
+        }
+      ]
+    },
+    {
+      "mbid": "ce9161d5-dd7c-492c-a48d-2f5c73f576d8",
+      "releaseMbid": "21ca5e19-ced2-44e0-8645-fe27ade01633",
+      "title": "On Waxed Wings",
+      "type": "EP",
+      "releaseDate": "2010",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ce9161d5-dd7c-492c-a48d-2f5c73f576d8/front-1200",
+      "tracks": [
+        {
+          "title": "Waxed Wings",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 278000
+        },
+        {
+          "title": "The Western Front",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 228000
+        },
+        {
+          "title": "Breathe on Glass",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 217000
+        }
+      ]
+    },
+    {
+      "mbid": "b005d5ba-33a3-45ae-b713-d2bc72456d5e",
+      "releaseMbid": "33463a25-836c-4d9a-a0fe-74155be3c1ad",
+      "title": "The Union of Crowns",
+      "type": "ALBUM",
+      "releaseDate": "2012-07-17",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b005d5ba-33a3-45ae-b713-d2bc72456d5e/front-1200",
+      "tracks": [
+        {
+          "title": "Redeemer",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 272760
+        },
+        {
+          "title": "The Maiden",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 277853
+        },
+        {
+          "title": "Lionheart",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 218906
+        },
+        {
+          "title": "Message to a King",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 229013
+        },
+        {
+          "title": "An Honourable Reign",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 239373
+        },
+        {
+          "title": "Knight Life",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 211586
+        },
+        {
+          "title": "Royal Blood",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 226333
+        },
+        {
+          "title": "Bitemarks",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 223520
+        },
+        {
+          "title": "Abdication of Power",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 260626
+        },
+        {
+          "title": "Kingdom",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 223280
+        },
+        {
+          "title": "1603",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 279813
+        },
+        {
+          "title": "Sceptres",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 202520
+        },
+        {
+          "title": "Vacant Throne",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 206160
+        },
+        {
+          "title": "A Curse",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 218066
+        }
+      ]
+    },
+    {
+      "mbid": "059c2c3c-974c-4be7-b0ea-885b206e3f77",
+      "releaseMbid": "b6016fc1-a770-4f14-8c50-a276010f89b0",
+      "title": "Runes",
+      "type": "ALBUM",
+      "releaseDate": "2014-05-26",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/059c2c3c-974c-4be7-b0ea-885b206e3f77/front-1200",
+      "tracks": [
+        {
+          "title": "Man on Fire",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 241706
+        },
+        {
+          "title": "Shadow, a Creator",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 279866
+        },
+        {
+          "title": "The Torch",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 254160
+        },
+        {
+          "title": "Watcher",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 284813
+        },
+        {
+          "title": "Our Gift",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 216480
+        },
+        {
+          "title": "Darker Water",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 199773
+        },
+        {
+          "title": "Another Journey",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 190226
+        },
+        {
+          "title": "Under the Sun",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 211546
+        },
+        {
+          "title": "Year of the Harvest",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 212466
+        },
+        {
+          "title": "Garden of Thorns",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 303826
+        },
+        {
+          "title": "Divine Breath",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 90573
+        },
+        {
+          "title": "Of Glory",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 272040
+        },
+        {
+          "title": "Last Of the Ice",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 215386
+        },
+        {
+          "title": "Hail the Lost",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 241973
+        },
+        {
+          "title": "The Torch",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 205960
+        },
+        {
+          "title": "Watcher v.2",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 209000
+        }
+      ]
+    },
+    {
+      "mbid": "705dac0f-7f10-4668-9abd-3aefc88a442d",
+      "releaseMbid": "998e6439-e255-4f4c-8217-2f83b18daf9e",
+      "title": "Earthbound",
+      "type": "ALBUM",
+      "releaseDate": "2016-01-29",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "The Eternal",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 203000
+        },
+        {
+          "title": "Last Light",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 236000
+        },
+        {
+          "title": "Earthbound",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 222000
+        },
+        {
+          "title": "The Burden",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 206000
+        },
+        {
+          "title": "Cemetery",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 246000
+        },
+        {
+          "title": "Restless & Cold",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 213000
+        },
+        {
+          "title": "301",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 199000
+        },
+        {
+          "title": "Memories",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 233000
+        },
+        {
+          "title": "For Us",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 199000
+        },
+        {
+          "title": "Bloodline",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 235000
+        }
+      ]
+    },
+    {
+      "mbid": "1a49d060-6701-4f19-83b5-a8383915eb48",
+      "releaseMbid": "3bb2a83f-ba1a-41f2-a905-158480fc9184",
+      "title": "Black Flame",
+      "type": "ALBUM",
+      "releaseDate": "2018-07-13",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/1a49d060-6701-4f19-83b5-a8383915eb48/front-1200",
+      "tracks": [
+        {
+          "title": "No Less Violent",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 210000
+        },
+        {
+          "title": "Adrenaline",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 163000
+        },
+        {
+          "title": "Black Flame",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 319000
+        },
+        {
+          "title": "My Revenge",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 265000
+        },
+        {
+          "title": "More Than Mortal",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 332000
+        },
+        {
+          "title": "Knife of Gold",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 179000
+        },
+        {
+          "title": "The Age",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 214000
+        },
+        {
+          "title": "Stormbringer",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 194000
+        },
+        {
+          "title": "Overcast",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 307000
+        },
+        {
+          "title": "Peacekeeper",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 246000
+        }
+      ]
+    },
+    {
+      "mbid": "6e7bb624-dcbd-4495-ae7a-7062a99c21cf",
+      "releaseMbid": "3706e2bf-d0fe-4f07-a99d-00ad11bc24d0",
+      "title": "Cannibal",
+      "type": "ALBUM",
+      "releaseDate": "2020-07-03",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/6e7bb624-dcbd-4495-ae7a-7062a99c21cf/front-1200",
+      "tracks": [
+        {
+          "title": "Choke",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 227000
+        },
+        {
+          "title": "Cannibal",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 256000
+        },
+        {
+          "title": "The Grey (VIXI)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 239000
+        },
+        {
+          "title": "Imposter",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 207000
+        },
+        {
+          "title": "Better Below",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 192000
+        },
+        {
+          "title": "The Agonist",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 242000
+        },
+        {
+          "title": "Quake",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 265000
+        },
+        {
+          "title": "Gods & Machines",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 245000
+        },
+        {
+          "title": "Voice & Truth",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 186000
+        },
+        {
+          "title": "Cold Sleep",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 219000
+        },
+        {
+          "title": "Dark, Infinite",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 241000
+        }
+      ]
+    },
+    {
+      "mbid": "52f56873-0bde-49f6-9f02-3bb1ff4f1b66",
+      "releaseMbid": "6ddd69d8-99f6-4229-981f-75605fb6a5eb",
+      "title": "The Seventh Sun",
+      "type": "ALBUM",
+      "releaseDate": "2023-03-31",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/52f56873-0bde-49f6-9f02-3bb1ff4f1b66/front-1200",
+      "tracks": [
+        {
+          "title": "The Seventh Sun",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 222000
+        },
+        {
+          "title": "Abandon Us",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 222515
+        },
+        {
+          "title": "Begin Again",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 215000
+        },
+        {
+          "title": "Forced Divide",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 208000
+        },
+        {
+          "title": "Boltcutter",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 217000
+        },
+        {
+          "title": "Wrath",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 307000
+        },
+        {
+          "title": "Majesty",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 256000
+        },
+        {
+          "title": "Heretic",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 213000
+        },
+        {
+          "title": "Recovery?",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 226000
+        },
+        {
+          "title": "Care",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 187000
+        },
+        {
+          "title": "The Carcass King",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 274000
+        }
+      ]
+    },
+    {
+      "mbid": "362e489f-da9f-4cf7-93a1-a3de84be15b1",
+      "releaseMbid": "8fd1bbe6-ac1c-49bf-9dd1-a39feb618419",
+      "title": "Will You Haunt Me, With That Same Patience",
+      "type": "ALBUM",
+      "releaseDate": "2025-05-16",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "To Dream, to Forget",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 214440
+        },
+        {
+          "title": "Villain Arc",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 218906
+        },
+        {
+          "title": "Wasteland",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 201106
+        },
+        {
+          "title": "What If I Burn",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 231960
+        },
+        {
+          "title": "Forever the Night",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 245626
+        },
+        {
+          "title": "Waiting",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 218146
+        },
+        {
+          "title": "Silence Isn’t Helping Us",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 226706
+        },
+        {
+          "title": "Found No Throne",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 272306
+        },
+        {
+          "title": "Yōkai (妖怪)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 235973
+        },
+        {
+          "title": "Let Go",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 232706
+        },
+        {
+          "title": "Paradox",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 276093
+        }
+      ]
+    },
+    {
+      "mbid": "6cda0c2e-0a2e-4bbb-afda-8163c29f7d2d",
+      "releaseMbid": "faf25981-c104-4dec-ac5f-9fd083ebcce9",
+      "title": "Bury Tomorrow (Live in Cologne)",
+      "type": "LIVE",
+      "releaseDate": "2025-11-28",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/6cda0c2e-0a2e-4bbb-afda-8163c29f7d2d/front-1200",
+      "tracks": [
+        {
+          "title": "Abandon Us",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 239844
+        },
+        {
+          "title": "DEATH (Ever Colder)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 299289
+        },
+        {
+          "title": "Villain Arc",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 258561
+        },
+        {
+          "title": "What If I Burn",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 232800
+        },
+        {
+          "title": "Boltcutter",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 226133
+        },
+        {
+          "title": "Majesty",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 222293
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

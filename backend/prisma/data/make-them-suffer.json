@@ -1,0 +1,632 @@
+{
+  "generatedAt": "2026-11-18T20:33:57.899Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "b6f8cce8-cbac-48a0-b0fa-d6cc06447928",
+    "name": "Make Them Suffer",
+    "slug": "make-them-suffer",
+    "type": "BAND",
+    "country": "AU",
+    "city": "Perth",
+    "formedYear": 2009,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/b6f8cce8-cbac-48a0-b0fa-d6cc06447928"
+      }
+    ],
+    "genres": [
+      "metalcore",
+      "deathcore",
+      "metal"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "59e80f6c-4b9b-4916-99fe-e4a2a5848260",
+      "releaseMbid": "b110f0a6-2b6c-4692-b524-85ce3931aa41",
+      "title": "Demo",
+      "type": "ALBUM",
+      "releaseDate": "2009",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Make Them Suffer",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 96000
+        },
+        {
+          "title": "The Awakening",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 212000
+        },
+        {
+          "title": "Affliction of the Dead",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 214000
+        },
+        {
+          "title": "For the Wretched and Ruined",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 242000
+        }
+      ]
+    },
+    {
+      "mbid": "7b5e6a18-316a-4187-b549-b10309da3358",
+      "releaseMbid": "554546b4-88a5-4f19-9e16-414d20af59ca",
+      "title": "Lord of Woe",
+      "type": "EP",
+      "releaseDate": "2010-09-24",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/7b5e6a18-316a-4187-b549-b10309da3358/front-1200",
+      "tracks": [
+        {
+          "title": "Summoning Storms",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 298880
+        },
+        {
+          "title": "Lord of Woe",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 301893
+        },
+        {
+          "title": "The Eternal Cold",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 243640
+        },
+        {
+          "title": "Affliction of the Dead",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 214560
+        },
+        {
+          "title": "Weeping Wastelands",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 413760
+        }
+      ]
+    },
+    {
+      "mbid": "e7412643-54c4-4f79-b5b4-dd8c77804d3f",
+      "releaseMbid": "1c896287-2421-435a-9185-a2610942e432",
+      "title": "Neverbloom",
+      "type": "ALBUM",
+      "releaseDate": "2012-05-25",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Prologue",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 99282
+        },
+        {
+          "title": "Neverbloom",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 394176
+        },
+        {
+          "title": "Morrow (Weaver of Dreams)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 189400
+        },
+        {
+          "title": "Elegies",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 303746
+        },
+        {
+          "title": "Maelstrom",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 409532
+        },
+        {
+          "title": "Oceans of Emptiness",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 141936
+        },
+        {
+          "title": "The Well",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 231544
+        },
+        {
+          "title": "Weeping Wastelands",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 415608
+        },
+        {
+          "title": "Widower",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 278000
+        },
+        {
+          "title": "Chronicles",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 354000
+        }
+      ]
+    },
+    {
+      "mbid": "b9eebd75-e98d-470a-b1bc-bc5a12e076cb",
+      "releaseMbid": "b49cc21c-e84f-4be4-a8d1-180a0f09d87b",
+      "title": "Old Souls",
+      "type": "ALBUM",
+      "releaseDate": "2015-05-29",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b9eebd75-e98d-470a-b1bc-bc5a12e076cb/front-1200",
+      "tracks": [
+        {
+          "title": "Foreword",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 115000
+        },
+        {
+          "title": "Requiem",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 246000
+        },
+        {
+          "title": "Fake",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 180000
+        },
+        {
+          "title": "Let Me In",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 272000
+        },
+        {
+          "title": "Threads",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 232000
+        },
+        {
+          "title": "Through the Looking Glass",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 156000
+        },
+        {
+          "title": "Blood Moon",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 250000
+        },
+        {
+          "title": "Scraping the Barrel",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 251000
+        },
+        {
+          "title": "Marionette",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 199000
+        },
+        {
+          "title": "Timeless",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 229000
+        },
+        {
+          "title": "Old Souls",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 270000
+        }
+      ]
+    },
+    {
+      "mbid": "5318c81f-e3e7-4850-a3c6-736d651f38ab",
+      "releaseMbid": "366b512a-d1a5-4f57-a115-0aab1e989608",
+      "title": "Old Souls & Lord of Woe",
+      "type": "COMPILATION",
+      "releaseDate": "2016-08-19",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/5318c81f-e3e7-4850-a3c6-736d651f38ab/front-1200",
+      "tracks": [
+        {
+          "title": "Foreward",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 115250
+        },
+        {
+          "title": "Requiem",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 244750
+        },
+        {
+          "title": "Fake",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 180000
+        },
+        {
+          "title": "Let Me In",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 272000
+        },
+        {
+          "title": "Threads",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 232000
+        },
+        {
+          "title": "Through the Looking Glass",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 156000
+        },
+        {
+          "title": "Blood Moon",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 250500
+        },
+        {
+          "title": "Scraping the Barrel",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 251000
+        },
+        {
+          "title": "Marionette",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 199000
+        },
+        {
+          "title": "Timeless",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 229000
+        },
+        {
+          "title": "Old Souls",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 270500
+        },
+        {
+          "title": "Ether",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 278000
+        },
+        {
+          "title": "Summoning Storms",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 298880
+        },
+        {
+          "title": "Lord of Woe",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 301893
+        },
+        {
+          "title": "The Eternal Cold",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 243640
+        },
+        {
+          "title": "Affliction of the Dead",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 214560
+        },
+        {
+          "title": "Weeping Wastelands",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 413760
+        }
+      ]
+    },
+    {
+      "mbid": "c169271f-2f2c-4ee8-b9c4-b323091bdd78",
+      "releaseMbid": "f3fcf18e-243f-4fd4-9df7-a9e48835fe3f",
+      "title": "Worlds Apart",
+      "type": "ALBUM",
+      "releaseDate": "2017-07-28",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c169271f-2f2c-4ee8-b9c4-b323091bdd78/front-1200",
+      "tracks": [
+        {
+          "title": "The First Movement",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 285000
+        },
+        {
+          "title": "Uncharted",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 293000
+        },
+        {
+          "title": "Grinding Teeth",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 225000
+        },
+        {
+          "title": "Vortex (Interdimensional Spiral Hindering Inexplicable Euphoria)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 236000
+        },
+        {
+          "title": "Fireworks",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 278000
+        },
+        {
+          "title": "Contact",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 109000
+        },
+        {
+          "title": "Power Overwhelming",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 313000
+        },
+        {
+          "title": "Midnight Run",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 167000
+        },
+        {
+          "title": "Dead Plains",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 254000
+        },
+        {
+          "title": "Save Yourself",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 283000
+        }
+      ]
+    },
+    {
+      "mbid": "41552fa6-2248-4a97-bad9-569b50e8ed06",
+      "releaseMbid": "776da438-b19a-4144-9c9b-fc04c6b2b31a",
+      "title": "How to Survive a Funeral",
+      "type": "ALBUM",
+      "releaseDate": "2020-06-05",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/41552fa6-2248-4a97-bad9-569b50e8ed06/front-1200",
+      "tracks": [
+        {
+          "title": "Step One",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 117560
+        },
+        {
+          "title": "Falling Ashes",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 161720
+        },
+        {
+          "title": "Bones",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 181906
+        },
+        {
+          "title": "Drown With Me",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 242226
+        },
+        {
+          "title": "Erase Me",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 224626
+        },
+        {
+          "title": "Soul Decay",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 223786
+        },
+        {
+          "title": "Fake Your Own Death",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 174253
+        },
+        {
+          "title": "How To Survive A Funeral",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 266546
+        },
+        {
+          "title": "The Attendant",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 273320
+        },
+        {
+          "title": "That's Just Life",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 248573
+        }
+      ]
+    },
+    {
+      "mbid": "dc06f39d-8a56-4ca3-92a0-fcb6100dafd5",
+      "releaseMbid": "14e5a58b-f8a9-4a1a-8e84-500ca20f7094",
+      "title": "Make Them Suffer",
+      "type": "ALBUM",
+      "releaseDate": "2024-11-08",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/dc06f39d-8a56-4ca3-92a0-fcb6100dafd5/front-1200",
+      "tracks": [
+        {
+          "title": "The Warning",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 69746
+        },
+        {
+          "title": "Weaponized",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 187293
+        },
+        {
+          "title": "Oscillator",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 240786
+        },
+        {
+          "title": "Doomswitch",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 275213
+        },
+        {
+          "title": "Mana God",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 220560
+        },
+        {
+          "title": "Epitaph",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 217026
+        },
+        {
+          "title": "No Hard Feelings",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 243986
+        },
+        {
+          "title": "Venusian Blues",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 168800
+        },
+        {
+          "title": "Ghost of Me",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 231426
+        },
+        {
+          "title": "Tether",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 235733
+        },
+        {
+          "title": "Small Town Syndrome",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 228880
+        }
+      ]
+    },
+    {
+      "mbid": "ce186b78-4b14-4a6d-a765-6349c896b0dd",
+      "releaseMbid": "ff199992-67f8-4cc7-8a8b-f1419d4e9d81",
+      "title": "SOS (The Remixes)",
+      "type": "EP",
+      "releaseDate": "2025-11-14",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ce186b78-4b14-4a6d-a765-6349c896b0dd/front-1200",
+      "tracks": [
+        {
+          "title": "SOS (VIP)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 231428
+        },
+        {
+          "title": "SOS (Hammerhead remix)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 179430
+        },
+        {
+          "title": "SOS (Emorfik remix)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 252101
+        },
+        {
+          "title": "SOS (DOIL remix)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 184186
+        },
+        {
+          "title": "SOS (Poni remix)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 183428
+        },
+        {
+          "title": "SOS (Rival remix)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 198857
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

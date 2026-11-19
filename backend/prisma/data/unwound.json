@@ -1,0 +1,775 @@
+{
+  "generatedAt": "2026-11-19T11:09:16.368Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "9434776a-bdd7-4f58-b719-b5d95b9d2a11",
+    "name": "Unwound",
+    "slug": "unwound",
+    "type": "BAND",
+    "country": "US",
+    "city": "Tumwater",
+    "formedYear": 1991,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/9434776a-bdd7-4f58-b719-b5d95b9d2a11"
+      }
+    ],
+    "genres": [
+      "emo",
+      "post-hardcore",
+      "indie-rock"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "dc742db6-42bf-4506-913b-c9f08e529510",
+      "releaseMbid": "54e58f6f-94c8-4ffb-a33d-bfd212818397",
+      "title": "Unwound",
+      "type": "ALBUM",
+      "releaseDate": "1991",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/dc742db6-42bf-4506-913b-c9f08e529510/front-1200",
+      "tracks": [
+        {
+          "title": "Bionic",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 168651
+        },
+        {
+          "title": "Whilst You're Ahead",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 208253
+        },
+        {
+          "title": "Lying At Best",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 208331
+        },
+        {
+          "title": "Crab Nebula",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 249265
+        },
+        {
+          "title": "Stumbling Block",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 125053
+        },
+        {
+          "title": "Ld-Fifty",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 189889
+        },
+        {
+          "title": "Rubberband Heart",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 217004
+        },
+        {
+          "title": "Love & Fear",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 323845
+        }
+      ]
+    },
+    {
+      "mbid": "e1ea84db-78fd-3ca6-8cb8-998e08e81802",
+      "releaseMbid": "a83e740b-8e53-4391-b50a-1bd08b7d06ee",
+      "title": "Fake Train",
+      "type": "ALBUM",
+      "releaseDate": "1993",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Dragnalus",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 209826
+        },
+        {
+          "title": "Lucky Acid",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 103800
+        },
+        {
+          "title": "Nervous Energy",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 290333
+        },
+        {
+          "title": "Valentine Card / Kantina / Were, Are and Was or Is",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 838933
+        },
+        {
+          "title": "Honourosis",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 285706
+        },
+        {
+          "title": "Pure Pain Sugar",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 155626
+        },
+        {
+          "title": "Gravity Slips",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 104200
+        },
+        {
+          "title": "Star Spangled Hell",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 232266
+        },
+        {
+          "title": "Ratbite",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 164333
+        },
+        {
+          "title": "Feeling$ Real",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 315666
+        }
+      ]
+    },
+    {
+      "mbid": "c808fab9-681d-3739-9e37-529136c9f69c",
+      "releaseMbid": "03a4f93c-ef8d-4a5a-882b-e1a8515a9768",
+      "title": "New Plastic Ideas",
+      "type": "ALBUM",
+      "releaseDate": "1994-03-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c808fab9-681d-3739-9e37-529136c9f69c/front-1200",
+      "tracks": [
+        {
+          "title": "Entirely Different Matters",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 124160
+        },
+        {
+          "title": "What Was Wound",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 148800
+        },
+        {
+          "title": "Envelope",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 200533
+        },
+        {
+          "title": "Hexenzsene",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 274440
+        },
+        {
+          "title": "Abstraktions",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 431733
+        },
+        {
+          "title": "All Souls Day",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 192093
+        },
+        {
+          "title": "Usual Dosage",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 314106
+        },
+        {
+          "title": "Arboretum",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 300893
+        },
+        {
+          "title": "Fiction Friction",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 396906
+        }
+      ]
+    },
+    {
+      "mbid": "0ac3fa4f-b188-3db9-b657-b8579480ef50",
+      "releaseMbid": "9f6e3f27-9acb-4838-bac7-8b559e22664c",
+      "title": "The Future of What",
+      "type": "ALBUM",
+      "releaseDate": "1995-04",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0ac3fa4f-b188-3db9-b657-b8579480ef50/front-1200",
+      "tracks": [
+        {
+          "title": "New Energy",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 117200
+        },
+        {
+          "title": "Demolished",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 169626
+        },
+        {
+          "title": "Natural Disasters",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 195440
+        },
+        {
+          "title": "Re-Enact the Crime",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 162933
+        },
+        {
+          "title": "Equally Stupid",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 186666
+        },
+        {
+          "title": "Pardon My French",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 90693
+        },
+        {
+          "title": "Descension",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 261933
+        },
+        {
+          "title": "Accidents on Purpose",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 115840
+        },
+        {
+          "title": "Petals Like Bricks",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 142293
+        },
+        {
+          "title": "Vern's Answer to the Masses",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 39000
+        },
+        {
+          "title": "Here Come the Dogs",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 126440
+        },
+        {
+          "title": "Disappoint",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 318133
+        },
+        {
+          "title": "Swan",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 489533
+        },
+        {
+          "title": "Full Explanation of Answer",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 324226
+        },
+        {
+          "title": "Excuse Me...",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 242466
+        },
+        {
+          "title": "...But Pardon...",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 162106
+        },
+        {
+          "title": "...My French",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 413733
+        }
+      ]
+    },
+    {
+      "mbid": "25ac4655-4bc1-3360-a8c3-49895cefbd0d",
+      "releaseMbid": "78f05a8e-6637-4363-b7a4-2b6718007f72",
+      "title": "Unwound",
+      "type": "ALBUM",
+      "releaseDate": "1995-08-29",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/25ac4655-4bc1-3360-a8c3-49895cefbd0d/front-1200",
+      "tracks": [
+        {
+          "title": "Antifreeze",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 110733
+        },
+        {
+          "title": "Rising Blood",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 182400
+        },
+        {
+          "title": "Understand & Forget",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 132066
+        },
+        {
+          "title": "Fingertips",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 160760
+        },
+        {
+          "title": "You Bite My Tongue",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 126800
+        },
+        {
+          "title": "Stuck in the Middle of Nowhere Again",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 214333
+        },
+        {
+          "title": "Warmth",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 132573
+        },
+        {
+          "title": "Prospect",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 149800
+        },
+        {
+          "title": "Kid Is Gone",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 131000
+        },
+        {
+          "title": "Kandy Korn Rituals",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 319600
+        }
+      ]
+    },
+    {
+      "mbid": "86cc195d-3e67-3418-9bfa-9905206765a2",
+      "releaseMbid": "3af9fdd9-0f7d-41fb-86ea-de388eb18a04",
+      "title": "Repetition",
+      "type": "ALBUM",
+      "releaseDate": "1996-04",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/86cc195d-3e67-3418-9bfa-9905206765a2/front-1200",
+      "tracks": [
+        {
+          "title": "Message Received",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 185666
+        },
+        {
+          "title": "Corpse Pose",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 185493
+        },
+        {
+          "title": "Unauthorized Autobiography",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 167306
+        },
+        {
+          "title": "Lowest Common Denominator",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 271333
+        },
+        {
+          "title": "Sensible",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 180533
+        },
+        {
+          "title": "Lady Elect",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 337000
+        },
+        {
+          "title": "Fingernails on a Chalkboard",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 296933
+        },
+        {
+          "title": "Murder Movies",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 108466
+        },
+        {
+          "title": "Next Exit",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 270293
+        },
+        {
+          "title": "Devoid",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 193440
+        },
+        {
+          "title": "Go to Dallas and Take a Left",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 253160
+        },
+        {
+          "title": "For Your Entertainment",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 339933
+        }
+      ]
+    },
+    {
+      "mbid": "dd6cb09b-8bb3-4224-9177-864da7b3ed15",
+      "releaseMbid": "cf032d45-3399-4884-802e-50cfc1ad1bef",
+      "title": "The Light at the End of the Tunnel Is a Train",
+      "type": "EP",
+      "releaseDate": "1997-12-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/dd6cb09b-8bb3-4224-9177-864da7b3ed15/front-1200",
+      "tracks": [
+        {
+          "title": "Mile Me Deaf",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 139000
+        },
+        {
+          "title": "No Tech",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 102000
+        },
+        {
+          "title": "Solo Sonata",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 176000
+        },
+        {
+          "title": "The Light at the End of the Tunnel Is a Train",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 610000
+        }
+      ]
+    },
+    {
+      "mbid": "ec4254ef-7121-3e7a-8934-9123a0bb78a0",
+      "releaseMbid": "124a2eba-9673-4621-9510-78afd0d725aa",
+      "title": "Challenge for a Civilized Society",
+      "type": "ALBUM",
+      "releaseDate": "1998-01-13",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ec4254ef-7121-3e7a-8934-9123a0bb78a0/front-1200",
+      "tracks": [
+        {
+          "title": "Data",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 214000
+        },
+        {
+          "title": "Laugh Track",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 194000
+        },
+        {
+          "title": "Meet the Plastics",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 193000
+        },
+        {
+          "title": "The World Is Flat",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 274000
+        },
+        {
+          "title": "Sonata for Loudspeakers",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 319000
+        },
+        {
+          "title": "Mile Me Deaf",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 139000
+        },
+        {
+          "title": "No Tech!",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 102000
+        },
+        {
+          "title": "Untitled 3",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 541000
+        },
+        {
+          "title": "Lifetime Achievement Award",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 310000
+        },
+        {
+          "title": "Untitled 2",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 514000
+        },
+        {
+          "title": "XLNT",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 126000
+        },
+        {
+          "title": "The Light at the End of the Tunnel Is a Train",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 611000
+        }
+      ]
+    },
+    {
+      "mbid": "75a65e18-da84-345d-a30e-4a7e1b605a22",
+      "releaseMbid": "35c4ba64-9011-492b-aa12-f01da6ad8f2a",
+      "title": "Leaves Turn Inside You",
+      "type": "ALBUM",
+      "releaseDate": "2001-04-17",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/75a65e18-da84-345d-a30e-4a7e1b605a22/front-1200",
+      "tracks": [
+        {
+          "title": "We Invent You",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 352000
+        },
+        {
+          "title": "Look a Ghost",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 184000
+        },
+        {
+          "title": "December",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 243000
+        },
+        {
+          "title": "Treachery",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 257000
+        },
+        {
+          "title": "Terminus",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 580000
+        },
+        {
+          "title": "Demons Sing Love Songs",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 243000
+        },
+        {
+          "title": "Off This Century",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 330000
+        },
+        {
+          "title": "One Lick Less",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": 342000
+        },
+        {
+          "title": "Scarlette",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": 284000
+        },
+        {
+          "title": "October All Over",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": 299000
+        },
+        {
+          "title": "Summer Freeze",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": 336000
+        },
+        {
+          "title": "Radio Gra",
+          "discNumber": 2,
+          "position": 5,
+          "durationMs": 356000
+        },
+        {
+          "title": "Below the Salt",
+          "discNumber": 2,
+          "position": 6,
+          "durationMs": 639000
+        },
+        {
+          "title": "Who Cares",
+          "discNumber": 2,
+          "position": 7,
+          "durationMs": 162000
+        }
+      ]
+    },
+    {
+      "mbid": "4b959a82-ab48-4f2d-b6d8-742494749d58",
+      "releaseMbid": "27b7bfc7-33ae-4c5e-af75-5a85491f1418",
+      "title": "Faked Train",
+      "type": "ALBUM",
+      "releaseDate": "2020-09-25",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4b959a82-ab48-4f2d-b6d8-742494749d58/front-1200",
+      "tracks": [
+        {
+          "title": "Dragnalus (Red House demo)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 207319
+        },
+        {
+          "title": "Pure Pain Sugar (Red House demo)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 159580
+        },
+        {
+          "title": "Gravity Slips (Red House demo)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 106915
+        },
+        {
+          "title": "Unsympathetica (Red House demo)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 277408
+        },
+        {
+          "title": "New Radio Hit (Red House demo)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 139121
+        },
+        {
+          "title": "Flight Attendant (Red House demo)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 139666
+        },
+        {
+          "title": "Valentine (Red House demo)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 186369
+        },
+        {
+          "title": "Pinwheel Signaling (Red House demo)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 94400
+        },
+        {
+          "title": "Nervous Energy (Red House demo)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 327600
+        },
+        {
+          "title": "Lucky Acid (Red House demo)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 110663
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

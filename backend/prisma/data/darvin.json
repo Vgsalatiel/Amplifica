@@ -1,0 +1,584 @@
+{
+  "generatedAt": "2026-11-19T11:51:47.088Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "f7890f24-702e-41a6-ab7a-5b1057cd92bd",
+    "name": "Darvin",
+    "slug": "darvin",
+    "type": "BAND",
+    "country": "BR",
+    "city": "Niterói",
+    "formedYear": 1997,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/f7890f24-702e-41a6-ab7a-5b1057cd92bd"
+      }
+    ],
+    "genres": [
+      "pop-punk"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "166cc084-af3d-4603-88b2-5b35ecdcdd30",
+      "releaseMbid": "51e1bee7-e71c-4009-a26b-5e12fca0a7e9",
+      "title": "Darvin",
+      "type": "ALBUM",
+      "releaseDate": "2002",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/166cc084-af3d-4603-88b2-5b35ecdcdd30/front-1200",
+      "tracks": [
+        {
+          "title": "Noite No Cais",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 173000
+        },
+        {
+          "title": "Blue Curaçau",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 164000
+        },
+        {
+          "title": "Boné Pra Trás",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 190000
+        },
+        {
+          "title": "Aqui ou em Lugar Nenhum",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 155000
+        },
+        {
+          "title": "Nada é Perfeito",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 167000
+        },
+        {
+          "title": "Praia Rasa",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 176000
+        },
+        {
+          "title": "Fica no Ar",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 178000
+        },
+        {
+          "title": "Metalzona",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 123000
+        },
+        {
+          "title": "Carteira de Canhoto",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 149000
+        },
+        {
+          "title": "Tudo Igual",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 190000
+        },
+        {
+          "title": "Você",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 154000
+        },
+        {
+          "title": "Madrugada",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 125000
+        }
+      ]
+    },
+    {
+      "mbid": "846cbb10-1181-485b-9320-0d6a7b7e6490",
+      "releaseMbid": "79e53c6c-b8e9-489a-8680-91f31b8500bf",
+      "title": "Darvin",
+      "type": "ALBUM",
+      "releaseDate": "2006",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "É Tão Raro",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 216000
+        },
+        {
+          "title": "Noite No Cais",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 178000
+        },
+        {
+          "title": "Doha",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 209000
+        },
+        {
+          "title": "Duas E Meia",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 224000
+        },
+        {
+          "title": "9 Primaveras",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 209000
+        },
+        {
+          "title": "Apague A Luz",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 149000
+        },
+        {
+          "title": "Até O Amanhecer",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 225000
+        },
+        {
+          "title": "De Alguma Maneira",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 233000
+        },
+        {
+          "title": "Retranca",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 161000
+        },
+        {
+          "title": "112",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 238000
+        },
+        {
+          "title": "Flashes",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 171000
+        },
+        {
+          "title": "Podia Ser Pior",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 181000
+        }
+      ]
+    },
+    {
+      "mbid": "cd3875af-74cf-4470-ad70-b3d2e70a8f4c",
+      "releaseMbid": "3be077e8-61c6-462e-b488-4928d2ceefa4",
+      "title": "Pra Ontem",
+      "type": "ALBUM",
+      "releaseDate": "2007",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/cd3875af-74cf-4470-ad70-b3d2e70a8f4c/front-1200",
+      "tracks": [
+        {
+          "title": "Até O Amanhecer",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 216000
+        },
+        {
+          "title": "É Tão Raro",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 221000
+        },
+        {
+          "title": "Para Ontem",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 229000
+        },
+        {
+          "title": "Podia Ser Pior",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 234000
+        },
+        {
+          "title": "Sahel",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 266000
+        },
+        {
+          "title": "Apague A Luz",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 157000
+        },
+        {
+          "title": "112",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 215000
+        },
+        {
+          "title": "Duas E Meia",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 220000
+        },
+        {
+          "title": "Retranca",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 161000
+        },
+        {
+          "title": "Outra Vez Talvez",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 200000
+        }
+      ]
+    },
+    {
+      "mbid": "716618b8-8c49-4aee-8d7d-48b270e66b6e",
+      "releaseMbid": "beeebed2-1cad-436f-8e9b-62a209b2a93b",
+      "title": "Milhões de Alices pelo ar",
+      "type": "ALBUM",
+      "releaseDate": "2010",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/716618b8-8c49-4aee-8d7d-48b270e66b6e/front-1200",
+      "tracks": [
+        {
+          "title": "Aurora",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 191000
+        },
+        {
+          "title": "Nuvens e temporais",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 162000
+        },
+        {
+          "title": "Epílogo",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 228000
+        },
+        {
+          "title": "Abril",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 177000
+        },
+        {
+          "title": "Tudo passa",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 162000
+        },
+        {
+          "title": "Fa waka?",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 147000
+        },
+        {
+          "title": "Essa eu já vi",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 180000
+        },
+        {
+          "title": "Entre nossos mundos",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 190000
+        },
+        {
+          "title": "Todas iguais",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 155000
+        },
+        {
+          "title": "Interlúdio",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 64000
+        },
+        {
+          "title": "Essa eu também já vi",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 218000
+        },
+        {
+          "title": "Hora de voar",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 172000
+        },
+        {
+          "title": "Quem é você",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 183000
+        },
+        {
+          "title": "Pensa em mim",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 193000
+        },
+        {
+          "title": "Tudo o que você quer ser",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 157000
+        }
+      ]
+    },
+    {
+      "mbid": "3a35ad53-d7e8-483f-b23e-a5d2111f061f",
+      "releaseMbid": "9dc51761-efc7-4a0b-a562-07205c571223",
+      "title": "Um Só ou Vários Lobos?",
+      "type": "EP",
+      "releaseDate": "2014-03-28",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Manual Sonoro para Pessimistas Convictos",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 185000
+        },
+        {
+          "title": "Papéis ao Vento",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 167000
+        },
+        {
+          "title": "1991",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 140000
+        },
+        {
+          "title": "Daqui pra Vilnius",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 144000
+        },
+        {
+          "title": "Andarilho",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 197000
+        },
+        {
+          "title": "Tempestade de Mentiras",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 132000
+        }
+      ]
+    },
+    {
+      "mbid": "ad365950-323a-4f59-8e27-02af9d44f7e5",
+      "releaseMbid": "93541340-9425-4a1f-916a-a95f577b0a65",
+      "title": "Lados B, Raridades e Outras Histórias",
+      "type": "ALBUM",
+      "releaseDate": "2016-06-08",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "1000 Anos-Luz (2008)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 194000
+        },
+        {
+          "title": "Pra Te Encontrar",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 205000
+        },
+        {
+          "title": "1000 Anos-Luz (Acústico)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 192000
+        },
+        {
+          "title": "Ei",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 134000
+        },
+        {
+          "title": "Eu Tentei",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 184000
+        },
+        {
+          "title": "Ainda",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 194000
+        },
+        {
+          "title": "Fica no Ar / Noite no Cais / Nada é Perfeito (Acústico)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 197000
+        },
+        {
+          "title": "Podia Ser Pior (Acústico)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 248000
+        },
+        {
+          "title": "Duas e Meia (Acústico)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 201000
+        },
+        {
+          "title": "1000 Anos-Luz (2002)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 239000
+        },
+        {
+          "title": "Se Eu Não Viver",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 231000
+        },
+        {
+          "title": "Tanto Faz",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 157000
+        },
+        {
+          "title": "1997",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 189000
+        },
+        {
+          "title": "Dinheiro",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 76000
+        }
+      ]
+    },
+    {
+      "mbid": "6e76d6e3-1dd0-45ba-bb65-c16a338fedee",
+      "releaseMbid": "2308fbb0-a751-4787-b85d-bae4069cc519",
+      "title": "Fausto",
+      "type": "ALBUM",
+      "releaseDate": "2017-04-22",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/6e76d6e3-1dd0-45ba-bb65-c16a338fedee/front-1200",
+      "tracks": [
+        {
+          "title": "Tudo Que Você Faz",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 159000
+        },
+        {
+          "title": "D20",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 138000
+        },
+        {
+          "title": "Bodas de Chantilly",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 170000
+        },
+        {
+          "title": "Muito o Que Fazer",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 146000
+        },
+        {
+          "title": "Fausto",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 128000
+        },
+        {
+          "title": "Castelos de Giz",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 167000
+        },
+        {
+          "title": "Tudo na Paz",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 127000
+        },
+        {
+          "title": "Mil Sóis",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 138000
+        },
+        {
+          "title": "Coney",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 177000
+        },
+        {
+          "title": "Somos o Fim",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 175000
+        },
+        {
+          "title": "Contra a Maré",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 167000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

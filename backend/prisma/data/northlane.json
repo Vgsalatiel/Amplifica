@@ -1,0 +1,913 @@
+{
+  "generatedAt": "2026-11-18T20:32:50.786Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "f4e44995-1890-42a0-a6c1-9185b71655fa",
+    "name": "Northlane",
+    "slug": "northlane",
+    "type": "BAND",
+    "country": "AU",
+    "city": "Blacktown",
+    "formedYear": 2009,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/f4e44995-1890-42a0-a6c1-9185b71655fa"
+      }
+    ],
+    "genres": [
+      "metalcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "0169aa45-ec4d-4f8a-907a-e31a69a31cd6",
+      "releaseMbid": "8f720a98-dc91-457a-8a52-dee6dddbcc39",
+      "title": "Hollow Existence",
+      "type": "EP",
+      "releaseDate": "2010-01-17",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Hollow",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 235160
+        },
+        {
+          "title": "Keymaker",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 233187
+        },
+        {
+          "title": "Set in Stone",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 238387
+        },
+        {
+          "title": "All Seeing Eye",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 206613
+        },
+        {
+          "title": "Metamorphosis",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 297707
+        },
+        {
+          "title": "The Deadmines",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 229933
+        }
+      ]
+    },
+    {
+      "mbid": "ff1beb75-dc46-4d80-94ab-4bf9f7189d25",
+      "releaseMbid": "8558b8bb-d339-4e9e-a596-4eb5f16fa079",
+      "title": "Discoveries",
+      "type": "ALBUM",
+      "releaseDate": "2011-11-11",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ff1beb75-dc46-4d80-94ab-4bf9f7189d25/front-1200",
+      "tracks": [
+        {
+          "title": "Dispossession",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 223000
+        },
+        {
+          "title": "Abrasumente",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 244000
+        },
+        {
+          "title": "Comatose",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 253000
+        },
+        {
+          "title": "Transcending Dimensions",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 224000
+        },
+        {
+          "title": "Discoveries",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 296000
+        },
+        {
+          "title": "Corruption",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 234960
+        },
+        {
+          "title": "Exposure",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 221000
+        },
+        {
+          "title": "Metamorphosis",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 278000
+        },
+        {
+          "title": "Solitude",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 202000
+        },
+        {
+          "title": "I Shook Hands With Death",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 293000
+        }
+      ]
+    },
+    {
+      "mbid": "ad68ba43-512d-48a1-8080-4fc29ccec84b",
+      "releaseMbid": "5223b495-2e3b-4c3d-b7b9-b028bed8881a",
+      "title": "Singularity",
+      "type": "ALBUM",
+      "releaseDate": "2013-03-22",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ad68ba43-512d-48a1-8080-4fc29ccec84b/front-1200",
+      "tracks": [
+        {
+          "title": "Genesis",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 95511
+        },
+        {
+          "title": "Scarab",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 186546
+        },
+        {
+          "title": "Windbreaker",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 223755
+        },
+        {
+          "title": "Worldeater",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 229686
+        },
+        {
+          "title": "Quantum Flux",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 243939
+        },
+        {
+          "title": "Dream Awake",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 257073
+        },
+        {
+          "title": "The Calling",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 192250
+        },
+        {
+          "title": "Masquerade",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 212454
+        },
+        {
+          "title": "Singularity",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 226093
+        },
+        {
+          "title": "Aspire",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 218595
+        }
+      ]
+    },
+    {
+      "mbid": "27ad5a28-05e2-48c0-a9fe-5bed7123f8e3",
+      "releaseMbid": "1bfa1eff-46a6-45c4-85f7-2604bb02f3a2",
+      "title": "Node",
+      "type": "ALBUM",
+      "releaseDate": "2015-07-24",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/27ad5a28-05e2-48c0-a9fe-5bed7123f8e3/front-1200",
+      "tracks": [
+        {
+          "title": "Soma",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 242880
+        },
+        {
+          "title": "Obelisk",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 254506
+        },
+        {
+          "title": "Node",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 282026
+        },
+        {
+          "title": "Ohm",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 247453
+        },
+        {
+          "title": "Nameless",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 139880
+        },
+        {
+          "title": "Rot",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 233933
+        },
+        {
+          "title": "Leech",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 261213
+        },
+        {
+          "title": "Impulse",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 215773
+        },
+        {
+          "title": "Weightless",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 315773
+        },
+        {
+          "title": "Ra",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 269600
+        },
+        {
+          "title": "Animate",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 324746
+        }
+      ]
+    },
+    {
+      "mbid": "a7520a33-a167-489c-8d07-bd4e8772c0d7",
+      "releaseMbid": "5b64eef1-1677-4c90-8a78-33efd6fd310d",
+      "title": "Equinox",
+      "type": "EP",
+      "releaseDate": "2016-04-20",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a7520a33-a167-489c-8d07-bd4e8772c0d7/front-1200",
+      "tracks": [
+        {
+          "title": "Refuge",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 307000
+        },
+        {
+          "title": "Equinox",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 126000
+        },
+        {
+          "title": "Hologram",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 269000
+        }
+      ]
+    },
+    {
+      "mbid": "cf9f5a5c-40f3-4d24-9961-ed0bafd94abc",
+      "releaseMbid": "358e0b6c-6a75-4dec-b2fa-1d14a53c470b",
+      "title": "Northlane, In Hearts Wake: Equinox Project",
+      "type": "ALBUM",
+      "releaseDate": "2016-05-05",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/cf9f5a5c-40f3-4d24-9961-ed0bafd94abc/front-1200",
+      "tracks": [
+        {
+          "title": "Introduction",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 10711
+        },
+        {
+          "title": "The Idea of Equinox",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 42801
+        },
+        {
+          "title": "Recording Equinox",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 63624
+        },
+        {
+          "title": "Recording with Will Putney",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 55011
+        },
+        {
+          "title": "Having 10 Members",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 58840
+        },
+        {
+          "title": "Touring Together",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 79941
+        },
+        {
+          "title": "Hands Like Houses",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 50427
+        },
+        {
+          "title": "Ocean Grove",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 30487
+        },
+        {
+          "title": "Thank You",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 8919
+        },
+        {
+          "title": "Click Here",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 8858
+        }
+      ]
+    },
+    {
+      "mbid": "85876d71-a262-433a-a370-70840d68e6ac",
+      "releaseMbid": "67e2b8b2-f7c8-4b5c-b194-13270354129c",
+      "title": "Mesmer",
+      "type": "ALBUM",
+      "releaseDate": "2017-03-24",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/85876d71-a262-433a-a370-70840d68e6ac/front-1200",
+      "tracks": [
+        {
+          "title": "Citizen",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 264493
+        },
+        {
+          "title": "Colourwave",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 221786
+        },
+        {
+          "title": "Savage",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 279880
+        },
+        {
+          "title": "Solar",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 196066
+        },
+        {
+          "title": "Heartmachine",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 244760
+        },
+        {
+          "title": "Intuition",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 231120
+        },
+        {
+          "title": "Zero‐One",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 237080
+        },
+        {
+          "title": "Fade",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 238360
+        },
+        {
+          "title": "Render",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 236573
+        },
+        {
+          "title": "Veridian",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 205266
+        },
+        {
+          "title": "Paragon",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 263960
+        }
+      ]
+    },
+    {
+      "mbid": "69d48c26-5d27-4693-b84e-650e137175ca",
+      "releaseMbid": "a5b945af-4c87-4b9d-9947-f03cb79463e8",
+      "title": "Alien",
+      "type": "ALBUM",
+      "releaseDate": "2019-08-02",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/69d48c26-5d27-4693-b84e-650e137175ca/front-1200",
+      "tracks": [
+        {
+          "title": "Details Matter",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 247466
+        },
+        {
+          "title": "Bloodline",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 207800
+        },
+        {
+          "title": "4D",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 253266
+        },
+        {
+          "title": "Talking Heads",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 232880
+        },
+        {
+          "title": "Freefall",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 244720
+        },
+        {
+          "title": "Jinn",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 243573
+        },
+        {
+          "title": "Eclipse",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 245120
+        },
+        {
+          "title": "Rift",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 242013
+        },
+        {
+          "title": "Paradigm",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 205973
+        },
+        {
+          "title": "Vultures",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 230120
+        },
+        {
+          "title": "Sleepless",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 277440
+        }
+      ]
+    },
+    {
+      "mbid": "ba31910d-485f-453f-897a-9ed6f3c504e2",
+      "releaseMbid": "2524df96-33e1-4c85-a18b-adb38164a836",
+      "title": "5G",
+      "type": "EP",
+      "releaseDate": "2021-02-26",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ba31910d-485f-453f-897a-9ed6f3c504e2/front-1200",
+      "tracks": [
+        {
+          "title": "Bloodline (HEALTH remix)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 205000
+        },
+        {
+          "title": "4D (Mashd n Kutcher remix)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 253000
+        },
+        {
+          "title": "Vultures (Mr Bill remix)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 189000
+        },
+        {
+          "title": "Ohm (Northlane remix)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 238000
+        },
+        {
+          "title": "Sleepless (Phase One remix)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 192000
+        }
+      ]
+    },
+    {
+      "mbid": "ccf10011-2de1-408d-82b3-6b158dccd417",
+      "releaseMbid": "93c1dd84-a316-4650-b977-2c5d293db2e0",
+      "title": "2D",
+      "type": "EP",
+      "releaseDate": "2021-05-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ccf10011-2de1-408d-82b3-6b158dccd417/front-1200",
+      "tracks": [
+        {
+          "title": "Bloodline (acoustic)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 222000
+        },
+        {
+          "title": "Rift (acoustic)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 215000
+        },
+        {
+          "title": "4D (acoustic)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 279000
+        },
+        {
+          "title": "Enemy of the Night (acoustic)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 221000
+        },
+        {
+          "title": "Sleepless (acoustic)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 379000
+        }
+      ]
+    },
+    {
+      "mbid": "2b900db3-f226-43e9-ae56-dbe34f4fc91f",
+      "releaseMbid": "00b08f1a-1241-4c4c-8553-21686aecf6b1",
+      "title": "Obsidian",
+      "type": "ALBUM",
+      "releaseDate": "2022-04-22",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/2b900db3-f226-43e9-ae56-dbe34f4fc91f/front-1200",
+      "tracks": [
+        {
+          "title": "Clarity",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 353000
+        },
+        {
+          "title": "Clockwork",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 238000
+        },
+        {
+          "title": "Echo Chamber",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 227000
+        },
+        {
+          "title": "Carbonized",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 225000
+        },
+        {
+          "title": "Abomination",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 250000
+        },
+        {
+          "title": "Plenty",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 220000
+        },
+        {
+          "title": "Is This a Test?",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 210000
+        },
+        {
+          "title": "Xen",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 348000
+        },
+        {
+          "title": "Cypher",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 277000
+        },
+        {
+          "title": "Nova",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 267000
+        },
+        {
+          "title": "Inamorata",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 230000
+        },
+        {
+          "title": "Obsidian",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 236000
+        },
+        {
+          "title": "Dark Solitaire",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 294000
+        }
+      ]
+    },
+    {
+      "mbid": "0b3f4922-495e-42d5-9613-58e2fac56738",
+      "releaseMbid": "97db333f-e080-4683-8a16-80dadc4442e5",
+      "title": "Mirror’s Edge",
+      "type": "EP",
+      "releaseDate": "2024-04-12",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0b3f4922-495e-42d5-9613-58e2fac56738/front-1200",
+      "tracks": [
+        {
+          "title": "Mirror’s Edge",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 56000
+        },
+        {
+          "title": "Afterimage",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 254000
+        },
+        {
+          "title": "Miasma",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 258000
+        },
+        {
+          "title": "Let Me Disappear",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 220000
+        },
+        {
+          "title": "Kraft",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 244000
+        },
+        {
+          "title": "Dante",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 346000
+        }
+      ]
+    },
+    {
+      "mbid": "bd90d54d-5d81-4df5-96b3-875c470f8150",
+      "releaseMbid": "faa0f6a5-1799-4c07-9f9e-8b39f5c9d8f7",
+      "title": "Node: Reloaded",
+      "type": "ALBUM",
+      "releaseDate": "2025-11-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/bd90d54d-5d81-4df5-96b3-875c470f8150/front-1200",
+      "tracks": [
+        {
+          "title": "soma.exe",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 242865
+        },
+        {
+          "title": "obelisk.exe",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 254612
+        },
+        {
+          "title": "node.exe",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 282117
+        },
+        {
+          "title": "ohm.exe",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 247511
+        },
+        {
+          "title": "nameless.exe",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 140020
+        },
+        {
+          "title": "rot.exe",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 234106
+        },
+        {
+          "title": "leech.exe",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 261308
+        },
+        {
+          "title": "impulse.exe",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 215445
+        },
+        {
+          "title": "weightless.exe",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 315820
+        },
+        {
+          "title": "ra.exe",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 267675
+        },
+        {
+          "title": "animate.exe",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 324667
+        }
+      ]
+    },
+    {
+      "mbid": "30a1f7ef-86cc-4411-8567-6362169cc36e",
+      "releaseMbid": "146fcbc8-7852-43b7-a1a3-3386b29016de",
+      "title": "Anemoia",
+      "type": "ALBUM",
+      "releaseDate": "2026-11-27",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/30a1f7ef-86cc-4411-8567-6362169cc36e/front-1200",
+      "tracks": [
+        {
+          "title": "Pierce the Sky",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 80000
+        },
+        {
+          "title": "NEED2FEEL",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 240000
+        },
+        {
+          "title": "Crucified",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 269000
+        },
+        {
+          "title": "Deathwish",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 251000
+        },
+        {
+          "title": "Evian",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 302000
+        },
+        {
+          "title": "CUT_it",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 195000
+        },
+        {
+          "title": "S∈GA",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 231000
+        },
+        {
+          "title": "The Otherside",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 284000
+        },
+        {
+          "title": "Start Again",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 250000
+        },
+        {
+          "title": "Anemoia",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 256000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

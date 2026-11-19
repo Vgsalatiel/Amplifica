@@ -1,0 +1,847 @@
+{
+  "generatedAt": "2026-11-18T20:57:54.699Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "c4153c51-b4ac-4183-beb3-c5dbfce39176",
+    "name": "Cursive",
+    "slug": "cursive",
+    "type": "BAND",
+    "country": "US",
+    "city": "Omaha",
+    "formedYear": 1995,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/c4153c51-b4ac-4183-beb3-c5dbfce39176"
+      }
+    ],
+    "genres": [
+      "emo",
+      "indie-rock",
+      "post-hardcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "89152a4c-e38c-384a-8484-ec265e32cfbc",
+      "releaseMbid": "477cf33b-2393-3f71-8336-11eb472212bd",
+      "title": "Such Blinding Stars for Starving Eyes",
+      "type": "ALBUM",
+      "releaseDate": "1997-09-09",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "After the Movies",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 266266
+        },
+        {
+          "title": "Downhill Racers",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 276466
+        },
+        {
+          "title": "Ceilings Crack",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 220693
+        },
+        {
+          "title": "The Dirt of the Vineyard",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 249600
+        },
+        {
+          "title": "Target Group",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 266240
+        },
+        {
+          "title": "Eight Light Minutes",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 144133
+        },
+        {
+          "title": "Vermont",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 222066
+        },
+        {
+          "title": "Dedication to Desertion",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 191293
+        },
+        {
+          "title": "Warped the Wood Floors",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 228906
+        },
+        {
+          "title": "Retirement",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 230666
+        },
+        {
+          "title": "The Farewell Party",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 232266
+        }
+      ]
+    },
+    {
+      "mbid": "52a2c97c-e19e-3e55-9174-336455f9118b",
+      "releaseMbid": "0e34d781-acbe-4ef5-bea3-43ffbf897d52",
+      "title": "The Storms of Early Summer: Semantics of Song",
+      "type": "ALBUM",
+      "releaseDate": "1998-11-02",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "The Rhyme Scheme",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 224000
+        },
+        {
+          "title": "A Career in Transcendence",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 138026
+        },
+        {
+          "title": "The Road to Financial Stability",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 153733
+        },
+        {
+          "title": "Tempest",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 154066
+        },
+        {
+          "title": "Break in the New Year",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 242973
+        },
+        {
+          "title": "Proposals",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 305666
+        },
+        {
+          "title": "Semantics of Sermon",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 172000
+        },
+        {
+          "title": "A Little Song and Dance",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 197000
+        },
+        {
+          "title": "When Summer’s Over Will We Dream of Spring",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 232533
+        },
+        {
+          "title": "Northern Winds",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 180960
+        },
+        {
+          "title": "Absence Makes the Day Go Longer",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 274573
+        }
+      ]
+    },
+    {
+      "mbid": "6df1062f-6044-3fc3-a33a-3df76a1022d5",
+      "releaseMbid": "e973d272-3f35-4b02-82e3-aa43f83031b2",
+      "title": "Domestica",
+      "type": "ALBUM",
+      "releaseDate": "2000-06-19",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/6df1062f-6044-3fc3-a33a-3df76a1022d5/front-1200",
+      "tracks": [
+        {
+          "title": "The Casualty",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 210200
+        },
+        {
+          "title": "The Martyr",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 237493
+        },
+        {
+          "title": "Shallow Means, Deep Ends",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 216973
+        },
+        {
+          "title": "Making Friends and Acquaintances",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 178760
+        },
+        {
+          "title": "A Red So Deep",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 280266
+        },
+        {
+          "title": "The Lament of Pretty Baby",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 195240
+        },
+        {
+          "title": "The Game of Who Needs Who the Worst",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 214760
+        },
+        {
+          "title": "The Radiator Hums",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 204200
+        },
+        {
+          "title": "The Night I Lost the Will to Fight",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 201866
+        }
+      ]
+    },
+    {
+      "mbid": "84d2253a-95df-33c6-b9fc-474d03d059f5",
+      "releaseMbid": "a61bc9c1-2afa-3b6f-8acc-ac35846daf8a",
+      "title": "The Ugly Organ",
+      "type": "ALBUM",
+      "releaseDate": "2003-03-04",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/84d2253a-95df-33c6-b9fc-474d03d059f5/front-1200",
+      "tracks": [
+        {
+          "title": "The Ugly Organist",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 53266
+        },
+        {
+          "title": "Some Red Handed Sleight of Hand",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 112800
+        },
+        {
+          "title": "Art Is Hard",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 166360
+        },
+        {
+          "title": "The Recluse",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 183266
+        },
+        {
+          "title": "Herald! Frankenstein",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 47333
+        },
+        {
+          "title": "Butcher the Song",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 211333
+        },
+        {
+          "title": "Driftwood: A Fairy Tale",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 280600
+        },
+        {
+          "title": "A Gentleman Caller",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 198600
+        },
+        {
+          "title": "Harold Weathervein",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 179106
+        },
+        {
+          "title": "Bloody Murderer",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 172200
+        },
+        {
+          "title": "Sierra",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 205226
+        },
+        {
+          "title": "Staying Alive",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 606373
+        }
+      ]
+    },
+    {
+      "mbid": "0f0e2d27-77af-37fd-9c24-b700744171f0",
+      "releaseMbid": "7195eb9c-ae69-4b89-9794-2838cbfe491f",
+      "title": "Happy Hollow",
+      "type": "ALBUM",
+      "releaseDate": "2006-08-22",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0f0e2d27-77af-37fd-9c24-b700744171f0/front-1200",
+      "tracks": [
+        {
+          "title": "Opening the Hymnal / Babies",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 152000
+        },
+        {
+          "title": "Dorothy at Forty",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 182000
+        },
+        {
+          "title": "Big Bang",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 236000
+        },
+        {
+          "title": "Bad Sects",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 219000
+        },
+        {
+          "title": "Flag and Family",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 176000
+        },
+        {
+          "title": "Dorothy Dreams of Tornados",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 174000
+        },
+        {
+          "title": "Retreat!",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 237000
+        },
+        {
+          "title": "The Sunks",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 173000
+        },
+        {
+          "title": "At Conception",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 187000
+        },
+        {
+          "title": "So‐So Gigolo",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 223000
+        },
+        {
+          "title": "Bad Science",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 160000
+        },
+        {
+          "title": "Into the Fold",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 256000
+        },
+        {
+          "title": "Rise Up! Rise Up!",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 202000
+        },
+        {
+          "title": "Hymns for the Heathen",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 159000
+        },
+        {
+          "title": "The Bitter End",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": null
+        },
+        {
+          "title": "The Censor",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "89671f5f-27e0-4de9-9ae8-6da372d8c748",
+      "releaseMbid": "341d51c8-836a-4266-9515-33c36abcaefd",
+      "title": "Mama, I’m Swollen",
+      "type": "ALBUM",
+      "releaseDate": "2009-03-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/89671f5f-27e0-4de9-9ae8-6da372d8c748/front-1200",
+      "tracks": [
+        {
+          "title": "In the Now",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 154160
+        },
+        {
+          "title": "From the Hips",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 235373
+        },
+        {
+          "title": "I Couldn’t Love You",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 201333
+        },
+        {
+          "title": "Donkeys",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 238000
+        },
+        {
+          "title": "Caveman",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 202960
+        },
+        {
+          "title": "We’re Going to Hell",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 292840
+        },
+        {
+          "title": "Mama, I’m Satan",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 268360
+        },
+        {
+          "title": "Let Me Up",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 286440
+        },
+        {
+          "title": "Mama, I’m Swollen",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 200226
+        },
+        {
+          "title": "What Have I Done?",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 489640
+        },
+        {
+          "title": "Universal Shrug",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 123000
+        },
+        {
+          "title": "Piccolo Pete",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 236266
+        }
+      ]
+    },
+    {
+      "mbid": "e7c52053-89b8-4835-b29b-f9251e2802b9",
+      "releaseMbid": "d2148e05-6ef4-43cb-a411-e5d7e95968ff",
+      "title": "I Am Gemini",
+      "type": "ALBUM",
+      "releaseDate": "2012-02-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/e7c52053-89b8-4835-b29b-f9251e2802b9/front-1200",
+      "tracks": [
+        {
+          "title": "This House Alive",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 253000
+        },
+        {
+          "title": "Warmer Warmer",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 235000
+        },
+        {
+          "title": "The Sun and Moon",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 238000
+        },
+        {
+          "title": "Drunken Birds",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 153000
+        },
+        {
+          "title": "Lullaby for No Name",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 83000
+        },
+        {
+          "title": "Double Dead",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 166000
+        },
+        {
+          "title": "Gemini",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 148000
+        },
+        {
+          "title": "Twin Dragon / Hello Skeleton",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 356000
+        },
+        {
+          "title": "Wowowow",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 189000
+        },
+        {
+          "title": "This House a Lie",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 91000
+        },
+        {
+          "title": "The Cat and Mouse",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 160000
+        },
+        {
+          "title": "A Birthday Bash",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 265000
+        },
+        {
+          "title": "Eulogy for No Name",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 252000
+        }
+      ]
+    },
+    {
+      "mbid": "3f4a8e33-d250-48bf-9ac7-4f56281f0fdc",
+      "releaseMbid": "b6895899-9bdd-4229-8954-38d7045627b4",
+      "title": "Vitriola",
+      "type": "ALBUM",
+      "releaseDate": "2018-10-05",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/3f4a8e33-d250-48bf-9ac7-4f56281f0fdc/front-1200",
+      "tracks": [
+        {
+          "title": "Free to Be or Not to Be You and Me",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 206000
+        },
+        {
+          "title": "Pick Up the Pieces",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 204000
+        },
+        {
+          "title": "It’s Gonna Hurt",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 331000
+        },
+        {
+          "title": "Under the Rainbow",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 199000
+        },
+        {
+          "title": "Remorse",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 203000
+        },
+        {
+          "title": "Ouroboros",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 359000
+        },
+        {
+          "title": "Everending",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 251000
+        },
+        {
+          "title": "Ghost Writer",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 187000
+        },
+        {
+          "title": "Life Savings",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 280000
+        },
+        {
+          "title": "Noble Soldier / Dystopian Lament",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 447000
+        }
+      ]
+    },
+    {
+      "mbid": "42e37aa6-9468-46ac-a533-c89120a989c4",
+      "releaseMbid": "891f9859-5ccf-4006-a47d-4321a8259857",
+      "title": "Get Fixed",
+      "type": "ALBUM",
+      "releaseDate": "2019-10-11",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/42e37aa6-9468-46ac-a533-c89120a989c4/front-1200",
+      "tracks": [
+        {
+          "title": "Vultures",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 76707
+        },
+        {
+          "title": "Barricades",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 209387
+        },
+        {
+          "title": "I Am Goddamn",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 171467
+        },
+        {
+          "title": "Stranded Satellite",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 186560
+        },
+        {
+          "title": "Marigolds",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 208280
+        },
+        {
+          "title": "Horror is a Human Being",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 288653
+        },
+        {
+          "title": "Black Hole Town",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 246853
+        },
+        {
+          "title": "Look What's Become of Us",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 149587
+        },
+        {
+          "title": "Get Fixed",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 267013
+        },
+        {
+          "title": "Content Conman",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 176253
+        },
+        {
+          "title": "What's Gotten into You?",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 334653
+        }
+      ]
+    },
+    {
+      "mbid": "7c23a4f6-a4e1-49ae-ba46-a0c599a8ab57",
+      "releaseMbid": "20501921-7621-4fa1-82f7-bd52a169e2f7",
+      "title": "Devourer",
+      "type": "ALBUM",
+      "releaseDate": "2024-09-13",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/7c23a4f6-a4e1-49ae-ba46-a0c599a8ab57/front-1200",
+      "tracks": [
+        {
+          "title": "Botch Job",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 166800
+        },
+        {
+          "title": "Up and Away",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 197960
+        },
+        {
+          "title": "The Avalanche of Our Demise",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 181226
+        },
+        {
+          "title": "Imposturing",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 186426
+        },
+        {
+          "title": "Rookie",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 302173
+        },
+        {
+          "title": "Dead End Days",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 184053
+        },
+        {
+          "title": "What the Fuck",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 241933
+        },
+        {
+          "title": "Bloodbather",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 220426
+        },
+        {
+          "title": "Dark Star",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 272933
+        },
+        {
+          "title": "Consumers",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 198573
+        },
+        {
+          "title": "What Do We Do Now",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 255893
+        },
+        {
+          "title": "The Age of Impotence",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 221893
+        },
+        {
+          "title": "The Loss",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 278173
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

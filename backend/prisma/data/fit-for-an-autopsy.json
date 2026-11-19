@@ -1,0 +1,653 @@
+{
+  "generatedAt": "2026-11-18T20:35:34.068Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "4d884695-d088-40d7-92e7-1f48470bb9fa",
+    "name": "Fit for an Autopsy",
+    "slug": "fit-for-an-autopsy",
+    "type": "BAND",
+    "country": "US",
+    "city": "New Jersey",
+    "formedYear": 2007,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/4d884695-d088-40d7-92e7-1f48470bb9fa"
+      }
+    ],
+    "genres": [
+      "deathcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "0447fce5-2b11-443d-81e7-a404f473ae77",
+      "releaseMbid": "9d8cfe86-5470-4d71-9796-c61f8f8df4da",
+      "title": "Hell on Earth",
+      "type": "EP",
+      "releaseDate": "2009",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0447fce5-2b11-443d-81e7-a404f473ae77/front-1200",
+      "tracks": [
+        {
+          "title": "Hell on Earth",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 178000
+        },
+        {
+          "title": "The Jackyl",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 200000
+        },
+        {
+          "title": "Digging Shallow Graves",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 222000
+        },
+        {
+          "title": "Wrath",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 211000
+        }
+      ]
+    },
+    {
+      "mbid": "01a9d366-42fb-4a3b-b6e7-6df900dae35f",
+      "releaseMbid": "5229cba9-2a1b-4878-ac67-8272da38539b",
+      "title": "The Process of Human Extermination",
+      "type": "ALBUM",
+      "releaseDate": "2011-06-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/01a9d366-42fb-4a3b-b6e7-6df900dae35f/front-1200",
+      "tracks": [
+        {
+          "title": "The Conquerer",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 254933
+        },
+        {
+          "title": "The Colonist",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 179080
+        },
+        {
+          "title": "The Desecrator",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 170373
+        },
+        {
+          "title": "The Juggernaut",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 173666
+        },
+        {
+          "title": "The Wolf",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 149986
+        },
+        {
+          "title": "The Consumer",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 162293
+        },
+        {
+          "title": "The Locust",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 189346
+        },
+        {
+          "title": "The False Prophet",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 198973
+        },
+        {
+          "title": "The Jackal",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 202106
+        },
+        {
+          "title": "The Executioner",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 278720
+        }
+      ]
+    },
+    {
+      "mbid": "bdc46e6e-45d8-4b5b-bf98-514301fc0c29",
+      "releaseMbid": "1229e68f-3fc5-446e-97bb-18c800560e0b",
+      "title": "Hellbound",
+      "type": "ALBUM",
+      "releaseDate": "2013-09-10",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/bdc46e6e-45d8-4b5b-bf98-514301fc0c29/front-1200",
+      "tracks": [
+        {
+          "title": "The Great Gift of the World",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 308693
+        },
+        {
+          "title": "Still We Destroy",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 204813
+        },
+        {
+          "title": "Thank You Budd Dwyer",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 170200
+        },
+        {
+          "title": "Do You See Him",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 202933
+        },
+        {
+          "title": "Tremors",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 239720
+        },
+        {
+          "title": "Dead in the Dirt",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 206426
+        },
+        {
+          "title": "There Is Nothing Here Worth Keeping",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 231853
+        },
+        {
+          "title": "Mother of the Year",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 177680
+        },
+        {
+          "title": "Children of the Corn Syrup",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 195680
+        },
+        {
+          "title": "The Travelers",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 280693
+        }
+      ]
+    },
+    {
+      "mbid": "7a2fe8dc-b31f-4236-b1ed-90506d6321c1",
+      "releaseMbid": "654da9c7-51fc-41b7-b4db-4fd83d908674",
+      "title": "Absolute Hope Absolute Hell",
+      "type": "ALBUM",
+      "releaseDate": "2015-10-02",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/7a2fe8dc-b31f-4236-b1ed-90506d6321c1/front-1200",
+      "tracks": [
+        {
+          "title": "Absolute Hope Absolute Hell",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 267000
+        },
+        {
+          "title": "Wither",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 198000
+        },
+        {
+          "title": "Saltwound",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 232000
+        },
+        {
+          "title": "Murder in the First",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 206000
+        },
+        {
+          "title": "Storm Drains",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 213000
+        },
+        {
+          "title": "Ghosts in the River",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 221000
+        },
+        {
+          "title": "Mask Maker",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 250000
+        },
+        {
+          "title": "Hollow Shell",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 190000
+        },
+        {
+          "title": "Out to Sea",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 146000
+        },
+        {
+          "title": "False Positive",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 185000
+        },
+        {
+          "title": "Swing the Axe",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 300000
+        }
+      ]
+    },
+    {
+      "mbid": "a8b26b01-96c6-4242-ba4d-45d7b934f1ad",
+      "releaseMbid": "9d83da3c-d256-4027-8e2b-e05dc71fe1c7",
+      "title": "The Depression Sessions",
+      "type": "EP",
+      "releaseDate": "2016-08-12",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a8b26b01-96c6-4242-ba4d-45d7b934f1ad/front-1200",
+      "tracks": [
+        {
+          "title": "They Will Know Another",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 300000
+        },
+        {
+          "title": "Sensory Deprivation",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 293000
+        },
+        {
+          "title": "Flatlining",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 297000
+        },
+        {
+          "title": "Du Hast",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 231000
+        },
+        {
+          "title": "Black Hole Sun",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 330000
+        },
+        {
+          "title": "The Perfect Drug",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 265000
+        }
+      ]
+    },
+    {
+      "mbid": "1c518c14-9779-4ee6-8855-0109b010575f",
+      "releaseMbid": "023dda59-9c8b-45f0-be2e-21683d52ce85",
+      "title": "The Great Collapse",
+      "type": "ALBUM",
+      "releaseDate": "2017-03-17",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/1c518c14-9779-4ee6-8855-0109b010575f/front-1200",
+      "tracks": [
+        {
+          "title": "Hydra",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 256200
+        },
+        {
+          "title": "Heads Will Hang",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 253186
+        },
+        {
+          "title": "Black Mammoth",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 278586
+        },
+        {
+          "title": "Terraform",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 227466
+        },
+        {
+          "title": "Iron Moon",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 198293
+        },
+        {
+          "title": "When the Bulbs Burn Out",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 254186
+        },
+        {
+          "title": "Too Late",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 254226
+        },
+        {
+          "title": "Empty Still",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 344546
+        },
+        {
+          "title": "Spiral",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 324746
+        }
+      ]
+    },
+    {
+      "mbid": "67f8cb0d-78df-499d-bf20-4421b69d8a17",
+      "releaseMbid": "14477ac2-f3e2-42a8-8a46-154ee2b23bb7",
+      "title": "The Sea of Tragic Beasts",
+      "type": "ALBUM",
+      "releaseDate": "2019-10-25",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/67f8cb0d-78df-499d-bf20-4421b69d8a17/front-1200",
+      "tracks": [
+        {
+          "title": "The Sea of Tragic Beasts",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 264640
+        },
+        {
+          "title": "No Man Is Without Fear",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 279080
+        },
+        {
+          "title": "Shepherd",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 251493
+        },
+        {
+          "title": "Your Pain Is Mine",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 312253
+        },
+        {
+          "title": "Mirrors",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 262893
+        },
+        {
+          "title": "Unloved",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 165706
+        },
+        {
+          "title": "Mourn",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 271213
+        },
+        {
+          "title": "Warfare",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 200306
+        },
+        {
+          "title": "Birds of Prey",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 328226
+        },
+        {
+          "title": "Napalm Dreams",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 296133
+        }
+      ]
+    },
+    {
+      "mbid": "0e3dc084-b315-4a25-bbb2-d9b47537e881",
+      "releaseMbid": "a7cc18c8-dd15-4380-9f08-e5e8c9ef0c94",
+      "title": "Oh What the Future Holds",
+      "type": "ALBUM",
+      "releaseDate": "2022-01-14",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Oh What the Future Holds",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 171640
+        },
+        {
+          "title": "Pandora",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 276360
+        },
+        {
+          "title": "Far From Heaven",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 284173
+        },
+        {
+          "title": "In Shadows",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 237720
+        },
+        {
+          "title": "Two Towers",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 346213
+        },
+        {
+          "title": "A Higher Level of Hate",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 247613
+        },
+        {
+          "title": "Collateral Damage",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 255706
+        },
+        {
+          "title": "Savages",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 240400
+        },
+        {
+          "title": "Conditional Healing",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 238360
+        },
+        {
+          "title": "The Man That I Was Not",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 414853
+        }
+      ]
+    },
+    {
+      "mbid": "185d47d4-24f9-47e9-943e-cab89074d9b2",
+      "releaseMbid": "a870ae9f-ed05-4253-bb1a-4c4e8da7363d",
+      "title": "The Aggression Sessions",
+      "type": "EP",
+      "releaseDate": "2023-04-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/185d47d4-24f9-47e9-943e-cab89074d9b2/front-1200",
+      "tracks": [
+        {
+          "title": "Hellions",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 253893
+        },
+        {
+          "title": "Until There Is No Longer",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 221347
+        },
+        {
+          "title": "Waste of Myself",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 201067
+        },
+        {
+          "title": "Under a Serpent Sun",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 237560
+        },
+        {
+          "title": "Hammer Smashed Face",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 244293
+        },
+        {
+          "title": "Left Outside Alone",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 277040
+        }
+      ]
+    },
+    {
+      "mbid": "28ba7a37-52a0-480f-adef-43f3ae5ad883",
+      "releaseMbid": "df505a75-951d-44e4-9fe6-a35d5685d674",
+      "title": "The Nothing That Is",
+      "type": "ALBUM",
+      "releaseDate": "2024-10-24",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/28ba7a37-52a0-480f-adef-43f3ae5ad883/front-1200",
+      "tracks": [
+        {
+          "title": "Hostage",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 280000
+        },
+        {
+          "title": "Spoils of the Horde",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 257000
+        },
+        {
+          "title": "Savior of None / Ashes of All",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 254000
+        },
+        {
+          "title": "Weaker Wolves",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 188000
+        },
+        {
+          "title": "Red Horizon",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 304000
+        },
+        {
+          "title": "The Nothing That Is",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 247000
+        },
+        {
+          "title": "Lurch",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 303000
+        },
+        {
+          "title": "Lower Purpose",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 225000
+        },
+        {
+          "title": "Lust for the Severed Head",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 197000
+        },
+        {
+          "title": "The Silver Sun",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 384000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

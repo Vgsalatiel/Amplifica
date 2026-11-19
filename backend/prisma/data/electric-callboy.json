@@ -1,0 +1,850 @@
+{
+  "generatedAt": "2026-11-18T20:13:04.813Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "cf075492-d880-4afc-b87b-d6b03e33dacc",
+    "name": "Electric Callboy",
+    "slug": "electric-callboy",
+    "type": "BAND",
+    "country": "DE",
+    "city": "Castrop-Rauxel",
+    "formedYear": 2010,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/cf075492-d880-4afc-b87b-d6b03e33dacc"
+      }
+    ],
+    "genres": [
+      "metalcore",
+      "post-hardcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "1448b08f-e6e0-450d-bd4b-1c1ad2862704",
+      "releaseMbid": "ec2b2153-12bf-4d8f-9c56-b87a5b617cfb",
+      "title": "Eskimo Callboy",
+      "type": "EP",
+      "releaseDate": "2010-09-03",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/1448b08f-e6e0-450d-bd4b-1c1ad2862704/front-1200",
+      "tracks": [
+        {
+          "title": "Intro",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 51826
+        },
+        {
+          "title": "Monsieur Moustache vs. Clitcat",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 174986
+        },
+        {
+          "title": "Antichrist Sex Pornstyle",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 211013
+        },
+        {
+          "title": "Hey Mrs. Dramaqueen",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 207426
+        },
+        {
+          "title": "Prom Night",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 202480
+        },
+        {
+          "title": "Outro",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 93720
+        }
+      ]
+    },
+    {
+      "mbid": "019d7063-0717-4ee0-beb6-bd3f31e36ce7",
+      "releaseMbid": "00804e85-8d5b-417f-963e-ce46493855f4",
+      "title": "Bury Me in Vegas",
+      "type": "ALBUM",
+      "releaseDate": "2012-03-23",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/019d7063-0717-4ee0-beb6-bd3f31e36ce7/front-1200",
+      "tracks": [
+        {
+          "title": "Bury Me in Vegas",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 202000
+        },
+        {
+          "title": "The Kerosene Dance",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 200000
+        },
+        {
+          "title": "Internude",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 41000
+        },
+        {
+          "title": "Is Anyone Up",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 187000
+        },
+        {
+          "title": "Wonderbra Boulevard",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 212000
+        },
+        {
+          "title": "Legendary Sleeping Assault",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 109000
+        },
+        {
+          "title": "Light the Skyline",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 254000
+        },
+        {
+          "title": "5$ Bitchcore",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 206000
+        },
+        {
+          "title": "Transilvanian Cunthunger",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 212000
+        },
+        {
+          "title": "Muffin Purper-Gurk",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 205000
+        },
+        {
+          "title": "Snow Covered Polaroids",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 243000
+        }
+      ]
+    },
+    {
+      "mbid": "b9a033e6-a855-4b60-9f9a-3b24c7afa9cf",
+      "releaseMbid": "47ef2bc3-6faf-4de2-b6d0-f143c03889ba",
+      "title": "We Are the Mess",
+      "type": "ALBUM",
+      "releaseDate": "2014-01-10",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b9a033e6-a855-4b60-9f9a-3b24c7afa9cf/front-1200",
+      "tracks": [
+        {
+          "title": "CSTRP",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 78000
+        },
+        {
+          "title": "We Are the Mess",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 191000
+        },
+        {
+          "title": "Party at the Horror House",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 215000
+        },
+        {
+          "title": "Blood Red Lips",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 216000
+        },
+        {
+          "title": "Never Let You Know",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 200000
+        },
+        {
+          "title": "#Elchtransformer",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 82000
+        },
+        {
+          "title": "Jagger Swagger",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 201000
+        },
+        {
+          "title": "Ghosts of the Night",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 209000
+        },
+        {
+          "title": "Final Dance",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 205000
+        },
+        {
+          "title": "Voodoo Circus",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 194000
+        },
+        {
+          "title": "Broadsway's Gonna Kill Us",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 225000
+        },
+        {
+          "title": "RXL",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 59000
+        }
+      ]
+    },
+    {
+      "mbid": "85b69875-c75c-4435-b2f2-35d44ce387ee",
+      "releaseMbid": "0e6acf4d-f4ec-477b-a8b0-52a7fdd30b26",
+      "title": "Crystals",
+      "type": "ALBUM",
+      "releaseDate": "2015-03-20",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/85b69875-c75c-4435-b2f2-35d44ce387ee/front-1200",
+      "tracks": [
+        {
+          "title": "Pitch Blease",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 198426
+        },
+        {
+          "title": "Baby (T.U.M.H.)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 194400
+        },
+        {
+          "title": "My Own Summer",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 221293
+        },
+        {
+          "title": "Kill Your Idols",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 233746
+        },
+        {
+          "title": "Ritual",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 33200
+        },
+        {
+          "title": "Monster",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 175266
+        },
+        {
+          "title": "Best Day",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 237493
+        },
+        {
+          "title": "2 Fat 2 Furious",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 226600
+        },
+        {
+          "title": "F.D.M.D.H.",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 108960
+        },
+        {
+          "title": "Paradise in Hell",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 198826
+        },
+        {
+          "title": "Crystals",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 218773
+        },
+        {
+          "title": "Walk on the Thin Line",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 232573
+        },
+        {
+          "title": "Closure",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 69773
+        }
+      ]
+    },
+    {
+      "mbid": "712a3848-a29f-4b4e-98a2-ed5b859a0411",
+      "releaseMbid": "287ea0c4-414f-40b0-b8ac-484a220d6643",
+      "title": "The Scene: Live in Cologne",
+      "type": "LIVE",
+      "releaseDate": "2017",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/712a3848-a29f-4b4e-98a2-ed5b859a0411/front-1200",
+      "tracks": [
+        {
+          "title": "The Scene",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 278253
+        },
+        {
+          "title": "My Own Summer",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 229546
+        },
+        {
+          "title": "We Are the Mess",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 252040
+        },
+        {
+          "title": "Shallows",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 226733
+        },
+        {
+          "title": "Back in the Bizz",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 196773
+        },
+        {
+          "title": "Party at the Horror House",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 227133
+        },
+        {
+          "title": "The Devil Within",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 251026
+        },
+        {
+          "title": "Muffin Purper-Gurk",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 271146
+        },
+        {
+          "title": "Pitch Blease",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 199520
+        },
+        {
+          "title": "Rooftop",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 225506
+        },
+        {
+          "title": "VIP",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 215133
+        },
+        {
+          "title": "New Age",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 300253
+        },
+        {
+          "title": "Is Anyone Up",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 228120
+        },
+        {
+          "title": "Calling",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 290746
+        },
+        {
+          "title": "Crystals",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 321706
+        },
+        {
+          "title": "Best Day",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 281720
+        },
+        {
+          "title": "MC Thunder",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 278013
+        }
+      ]
+    },
+    {
+      "mbid": "128c12d8-6d95-4a55-8949-5e3a9f0e4816",
+      "releaseMbid": "5809a43b-8fa8-498d-a68e-240b8452a1b3",
+      "title": "The Scene",
+      "type": "ALBUM",
+      "releaseDate": "2017-08-25",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/128c12d8-6d95-4a55-8949-5e3a9f0e4816/front-1200",
+      "tracks": [
+        {
+          "title": "Back in the Bizz",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 187560
+        },
+        {
+          "title": "MC Thunder",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 230866
+        },
+        {
+          "title": "The Devil Within",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 224053
+        },
+        {
+          "title": "Banshee",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 201146
+        },
+        {
+          "title": "The Scene",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 193066
+        },
+        {
+          "title": "VIP",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 190360
+        },
+        {
+          "title": "Shallows",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 201280
+        },
+        {
+          "title": "Nightlife",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 222426
+        },
+        {
+          "title": "X",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 57080
+        },
+        {
+          "title": "New Age",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 201226
+        },
+        {
+          "title": "Frances",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 216746
+        },
+        {
+          "title": "Rooftop",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 186746
+        },
+        {
+          "title": "Calling",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 259573
+        }
+      ]
+    },
+    {
+      "mbid": "b5147298-dccd-4ac3-b0cc-26ea2807da71",
+      "releaseMbid": "0d5a6bf4-0772-4ece-9dbc-6683de9c8fba",
+      "title": "Rehab",
+      "type": "ALBUM",
+      "releaseDate": "2019-11-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b5147298-dccd-4ac3-b0cc-26ea2807da71/front-1200",
+      "tracks": [
+        {
+          "title": "Take Me To",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 54693
+        },
+        {
+          "title": "Rehab",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 196280
+        },
+        {
+          "title": "It’s Going Down",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 65400
+        },
+        {
+          "title": "Hurricane",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 221306
+        },
+        {
+          "title": "Disbeliever",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 235853
+        },
+        {
+          "title": "Okay",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 205240
+        },
+        {
+          "title": "Made by America",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 188226
+        },
+        {
+          "title": "Supernova",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 174373
+        },
+        {
+          "title": "Lost",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 197386
+        },
+        {
+          "title": "Nice Boi",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 149626
+        },
+        {
+          "title": "Prism",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 218640
+        }
+      ]
+    },
+    {
+      "mbid": "ec1698d1-5811-4803-9cc3-68666934ea23",
+      "releaseMbid": "03945fdf-c10f-4a9a-9f1c-a3daefa56fcb",
+      "title": "MMXX",
+      "type": "EP",
+      "releaseDate": "2020-09-11",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ec1698d1-5811-4803-9cc3-68666934ea23/front-1200",
+      "tracks": [
+        {
+          "title": "Hypa Hypa",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 213000
+        },
+        {
+          "title": "Hate/Love",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 188000
+        },
+        {
+          "title": "MC Thunder II (Dancing Like a Ninja)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 248000
+        },
+        {
+          "title": "Monsieur Moustache",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 175000
+        },
+        {
+          "title": "Dramaqueen",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 214000
+        },
+        {
+          "title": "Prism",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 202000
+        }
+      ]
+    },
+    {
+      "mbid": "c834762c-c15c-4ad3-9c69-1a6fec706666",
+      "releaseMbid": "0c0d0fda-2529-46df-b4a4-3fe5cfd19895",
+      "title": "TEKKNO",
+      "type": "ALBUM",
+      "releaseDate": "2022-09-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c834762c-c15c-4ad3-9c69-1a6fec706666/front-1200",
+      "tracks": [
+        {
+          "title": "Pump It",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 172000
+        },
+        {
+          "title": "We Got the Moves",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 206000
+        },
+        {
+          "title": "Fuckboi",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 164000
+        },
+        {
+          "title": "Spaceman",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 190000
+        },
+        {
+          "title": "Mindreader",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 225000
+        },
+        {
+          "title": "Arrow of Love",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 223000
+        },
+        {
+          "title": "Parasite",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 183000
+        },
+        {
+          "title": "Tekkno Train",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 178000
+        },
+        {
+          "title": "Hurrikan",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 99000
+        },
+        {
+          "title": "Neon",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 192000
+        }
+      ]
+    },
+    {
+      "mbid": "364b1f4c-d14f-403d-a059-07bbee45ae4f",
+      "releaseMbid": "9260b76b-8eaf-41fc-b6a9-7f6c84b6c80d",
+      "title": "HYPA HYPA Tour: Live in Ludwigsburg",
+      "type": "LIVE",
+      "releaseDate": "2023-05-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/364b1f4c-d14f-403d-a059-07bbee45ae4f/front-1200",
+      "tracks": [
+        {
+          "title": "Intro",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 95000
+        },
+        {
+          "title": "Pump It",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 178000
+        },
+        {
+          "title": "My Own Summer",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 227000
+        },
+        {
+          "title": "Hate/Love",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 193000
+        },
+        {
+          "title": "The Scene",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 200000
+        },
+        {
+          "title": "Castrop X Spandau",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 167000
+        },
+        {
+          "title": "Supernova",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 181000
+        },
+        {
+          "title": "Best Day",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 244000
+        },
+        {
+          "title": "Back in the Bizz",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 193000
+        },
+        {
+          "title": "Crystals",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 254000
+        },
+        {
+          "title": "Prism",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 207000
+        },
+        {
+          "title": "Spaceman",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 197000
+        },
+        {
+          "title": "Rehab",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 197000
+        },
+        {
+          "title": "It’s Going Down",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 61000
+        },
+        {
+          "title": "MC Thunder II (Dancing Like a Ninja)",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 251000
+        },
+        {
+          "title": "We Got the Moves",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 228000
+        },
+        {
+          "title": "MC Thunder",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 267000
+        },
+        {
+          "title": "Hypa Hypa",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 226000
+        }
+      ]
+    },
+    {
+      "mbid": "9545af9e-3e64-44bc-8e51-1e0fdb756571",
+      "releaseMbid": "8a2155d3-cad8-4c84-b54a-10096280fb7f",
+      "title": "TANZNEID",
+      "type": "ALBUM",
+      "releaseDate": "2026-08-07",
+      "description": null,
+      "coverUrl": null,
+      "tracks": []
+    }
+  ],
+  "pending": []
+}

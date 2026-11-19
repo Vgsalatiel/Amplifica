@@ -1,0 +1,539 @@
+{
+  "generatedAt": "2026-11-19T11:16:37.850Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "2ec89bcc-5bf9-4d2a-ac5e-44b7496d115a",
+    "name": "La Dispute",
+    "slug": "la-dispute",
+    "type": "BAND",
+    "country": "US",
+    "city": "Grand Rapids",
+    "formedYear": 2004,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/2ec89bcc-5bf9-4d2a-ac5e-44b7496d115a"
+      }
+    ],
+    "genres": [
+      "emo",
+      "post-hardcore",
+      "screamo"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "ab152f07-4fb8-3068-951d-47720622ac6d",
+      "releaseMbid": "6c91ff0c-d946-49c4-b4cc-d24b51da9ada",
+      "title": "Somewhere at the Bottom of the River Between Vega and Altair",
+      "type": "ALBUM",
+      "releaseDate": "2008-11-11",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ab152f07-4fb8-3068-951d-47720622ac6d/front-1200",
+      "tracks": [
+        {
+          "title": "Such Small Hands",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 95587
+        },
+        {
+          "title": "Said the King to the River",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 241307
+        },
+        {
+          "title": "New Storms for Older Lovers",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 299533
+        },
+        {
+          "title": "Damaged Goods",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 175987
+        },
+        {
+          "title": "Fall Down, Never Get Back Up Again",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 165587
+        },
+        {
+          "title": "Bury Your Flame",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 275760
+        },
+        {
+          "title": "Last Blues for Bloody Knuckles",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 300773
+        },
+        {
+          "title": "The Castle Builders",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 166933
+        },
+        {
+          "title": "Andria",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 260947
+        },
+        {
+          "title": "Then Again, Maybe You Were Right",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 96493
+        },
+        {
+          "title": "Sad Prayers for Guilty Bodies",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 226573
+        },
+        {
+          "title": "The Last Lost Continent",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 722773
+        },
+        {
+          "title": "Nobody, Not Even the Rain",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 70360
+        }
+      ]
+    },
+    {
+      "mbid": "56b3b007-8332-4a42-b074-2d8b04cdadf1",
+      "releaseMbid": "db01945e-9945-4166-8e89-62daeac038c5",
+      "title": "Wildlife",
+      "type": "ALBUM",
+      "releaseDate": "2011-10-04",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/56b3b007-8332-4a42-b074-2d8b04cdadf1/front-1200",
+      "tracks": [
+        {
+          "title": "a Departure",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 212000
+        },
+        {
+          "title": "Harder Harmonies",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 215000
+        },
+        {
+          "title": "St. Paul Missionary Baptist Church Blues",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 226000
+        },
+        {
+          "title": "Edit Your Hometown",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 175000
+        },
+        {
+          "title": "a Letter",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 229000
+        },
+        {
+          "title": "Safer in the Forest/Love Song for Poor Michigan",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 276000
+        },
+        {
+          "title": "The Most Beautiful Bitter Fruit",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 235000
+        },
+        {
+          "title": "a Poem",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 179000
+        },
+        {
+          "title": "King Park",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 414000
+        },
+        {
+          "title": "Edward Benz, 27 Times",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 345000
+        },
+        {
+          "title": "I See Everything",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 217000
+        },
+        {
+          "title": "a Broken Jar",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 139000
+        },
+        {
+          "title": "all our bruised bodies and the whole heart shrinks",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 304000
+        },
+        {
+          "title": "You and I in Unison",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 296000
+        }
+      ]
+    },
+    {
+      "mbid": "8dc09bff-dd15-4dc7-b195-8814224a9325",
+      "releaseMbid": "e835ea87-2e9a-4387-9999-b1c7ffbae535",
+      "title": "Rooms of the House",
+      "type": "ALBUM",
+      "releaseDate": "2014-03-18",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/8dc09bff-dd15-4dc7-b195-8814224a9325/front-1200",
+      "tracks": [
+        {
+          "title": "HUDSONVILLE, MI 1956",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 239026
+        },
+        {
+          "title": "First Reactions After Falling Through the Ice",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 157986
+        },
+        {
+          "title": "Woman (in mirror)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 264253
+        },
+        {
+          "title": "SCENES FROM HIGHWAYS 1981/2009",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 229893
+        },
+        {
+          "title": "For Mayor in Splitsville",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 214506
+        },
+        {
+          "title": "35",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 273453
+        },
+        {
+          "title": "Stay Happy There",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 207026
+        },
+        {
+          "title": "THE CHILD WE LOST 1963",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 261226
+        },
+        {
+          "title": "Woman (reading)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 210893
+        },
+        {
+          "title": "Extraordinary Dinner Party",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 198893
+        },
+        {
+          "title": "Objects in Space",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 248693
+        }
+      ]
+    },
+    {
+      "mbid": "2fad5818-f473-46a1-8db6-79c18c95d589",
+      "releaseMbid": "7c93ecc6-fbb9-4354-bc29-5f7441a04174",
+      "title": "Tiny Dots",
+      "type": "ALBUM",
+      "releaseDate": "2016-04-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/2fad5818-f473-46a1-8db6-79c18c95d589/front-1200",
+      "tracks": [
+        {
+          "title": "A",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 404000
+        },
+        {
+          "title": "B",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 152000
+        },
+        {
+          "title": "C",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 196000
+        },
+        {
+          "title": "D",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 167000
+        },
+        {
+          "title": "E",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 112000
+        },
+        {
+          "title": "G",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 267000
+        },
+        {
+          "title": "A Departure (live)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 214000
+        },
+        {
+          "title": "For Mayor in Splitsville (live)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 208000
+        },
+        {
+          "title": "Woman (In Mirror) (live)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 263000
+        },
+        {
+          "title": "St. Paul Missionary Baptist Church Blues (live)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 220000
+        },
+        {
+          "title": "A Broken Jar (live)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 150000
+        },
+        {
+          "title": "Objects in Space (live)",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 250000
+        }
+      ]
+    },
+    {
+      "mbid": "8d84c67c-4fbf-4594-bd5c-531f2b04f7d8",
+      "releaseMbid": "52845115-4a30-45c9-b0c5-410acb086178",
+      "title": "Panorama",
+      "type": "ALBUM",
+      "releaseDate": "2019-03-22",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/8d84c67c-4fbf-4594-bd5c-531f2b04f7d8/front-1200",
+      "tracks": [
+        {
+          "title": "Rose Quartz",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 65000
+        },
+        {
+          "title": "Fulton Street I",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 281000
+        },
+        {
+          "title": "Fulton Street II",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 299000
+        },
+        {
+          "title": "Rhodonite and Grief",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 217000
+        },
+        {
+          "title": "Anxiety Panorama",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 231000
+        },
+        {
+          "title": "In Northern Michigan",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 244000
+        },
+        {
+          "title": "View From Our Bedroom Window",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 245000
+        },
+        {
+          "title": "Footsteps at the Pond",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 203000
+        },
+        {
+          "title": "There You Are (Hiding Place)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 293000
+        },
+        {
+          "title": "You Ascendant",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 435000
+        }
+      ]
+    },
+    {
+      "mbid": "d52b35fd-703b-4511-8309-01c513c1b204",
+      "releaseMbid": "82bb6c72-e010-40b4-8310-98f91a4a1446",
+      "title": "No One Was Driving the Car",
+      "type": "ALBUM",
+      "releaseDate": "2025-09-05",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d52b35fd-703b-4511-8309-01c513c1b204/front-1200",
+      "tracks": [
+        {
+          "title": "I Shaved My Head",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 208720
+        },
+        {
+          "title": "Man With Hands and Ankles Bound",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 198533
+        },
+        {
+          "title": "Autofiction Detail",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 293880
+        },
+        {
+          "title": "Environmental Catastrophe Film",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 521520
+        },
+        {
+          "title": "Self‐Portrait Backwards",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 171786
+        },
+        {
+          "title": "The Field",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 239640
+        },
+        {
+          "title": "Sibling Fistfight at Mom’s Fiftieth / The Un‐Sound",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 240680
+        },
+        {
+          "title": "Landlord Calls the Sheriff In",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 280613
+        },
+        {
+          "title": "Steve",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 241773
+        },
+        {
+          "title": "Top‐Sellers Banquet",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 498840
+        },
+        {
+          "title": "Saturation Diver",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 217440
+        },
+        {
+          "title": "I Dreamt of a Room With All My Friends I Could Not Get In",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 254640
+        },
+        {
+          "title": "No One Was Driving the Car",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 199640
+        },
+        {
+          "title": "End Times Sermon",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 303520
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

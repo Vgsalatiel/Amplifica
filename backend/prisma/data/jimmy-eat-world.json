@@ -1,0 +1,900 @@
+{
+  "generatedAt": "2026-11-18T20:50:13.973Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "bbc5b66b-d037-4f26-aecf-0b129e7f876a",
+    "name": "Jimmy Eat World",
+    "slug": "jimmy-eat-world",
+    "type": "BAND",
+    "country": "US",
+    "city": "Mesa",
+    "formedYear": 1993,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/bbc5b66b-d037-4f26-aecf-0b129e7f876a"
+      }
+    ],
+    "genres": [
+      "emo",
+      "alternative-rock",
+      "pop-punk"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "7c0c321a-538b-3080-bcc2-982e8e37bf87",
+      "releaseMbid": "ddecbaac-eb81-4bd2-9f38-0ee063e98451",
+      "title": "Jimmy Eat World",
+      "type": "ALBUM",
+      "releaseDate": "1994-12",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/7c0c321a-538b-3080-bcc2-982e8e37bf87/front-1200",
+      "tracks": [
+        {
+          "title": "Chachi",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 177826
+        },
+        {
+          "title": "Patches",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 214000
+        },
+        {
+          "title": "Amphibious",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 102906
+        },
+        {
+          "title": "Splat Out of Luck",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 144426
+        },
+        {
+          "title": "House Arrest",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 146000
+        },
+        {
+          "title": "Usery",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 198333
+        },
+        {
+          "title": "Wednesday",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 130840
+        },
+        {
+          "title": "Crooked",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 247000
+        },
+        {
+          "title": "Reason 346",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 264160
+        },
+        {
+          "title": "Scientific",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 421173
+        },
+        {
+          "title": "Cars",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 220000
+        }
+      ]
+    },
+    {
+      "mbid": "29de996b-6655-310d-9c00-9b93d6514514",
+      "releaseMbid": "5f57fd66-7252-4d23-a29d-69260e94804f",
+      "title": "Static Prevails",
+      "type": "ALBUM",
+      "releaseDate": "1996-07-23",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/29de996b-6655-310d-9c00-9b93d6514514/front-1200",
+      "tracks": [
+        {
+          "title": "Thinking, That’s All",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 172000
+        },
+        {
+          "title": "Rockstar",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 227933
+        },
+        {
+          "title": "Claire",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 220360
+        },
+        {
+          "title": "Call It in the Air",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 180573
+        },
+        {
+          "title": "Seventeen",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 213933
+        },
+        {
+          "title": "Episode IV",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 268933
+        },
+        {
+          "title": "Digits",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 449000
+        },
+        {
+          "title": "Caveman",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 274533
+        },
+        {
+          "title": "World Is Static",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 236866
+        },
+        {
+          "title": "In the Same Room",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 297066
+        },
+        {
+          "title": "Robot Factory",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 238693
+        },
+        {
+          "title": "Anderson Mesa",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 314040
+        }
+      ]
+    },
+    {
+      "mbid": "4a12c3a5-5a5e-3e6f-aee9-1cfb2137da4c",
+      "releaseMbid": "c4e80bfb-d314-4439-b41e-7db0af38d989",
+      "title": "Clarity",
+      "type": "ALBUM",
+      "releaseDate": "1999-02-23",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4a12c3a5-5a5e-3e6f-aee9-1cfb2137da4c/front-1200",
+      "tracks": [
+        {
+          "title": "Table for Glasses",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 261466
+        },
+        {
+          "title": "Lucky Denver Mint",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 229493
+        },
+        {
+          "title": "Your New Aesthetic",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 160533
+        },
+        {
+          "title": "Believe in What You Want",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 188133
+        },
+        {
+          "title": "A Sunday",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 272173
+        },
+        {
+          "title": "Crush",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 191533
+        },
+        {
+          "title": "12.23.95",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 224066
+        },
+        {
+          "title": "Ten",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 228493
+        },
+        {
+          "title": "Just Watch the Fireworks",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 422373
+        },
+        {
+          "title": "For Me This Is Heaven",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 245666
+        },
+        {
+          "title": "Blister",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 209400
+        },
+        {
+          "title": "Clarity",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 242893
+        },
+        {
+          "title": "Goodbye Sky Harbor",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 971386
+        }
+      ]
+    },
+    {
+      "mbid": "a92d9f5f-60a3-3e7d-a0a3-e028c29e5ca5",
+      "releaseMbid": "21030f55-e616-466a-a3d5-16c9817bca81",
+      "title": "Bleed American",
+      "type": "ALBUM",
+      "releaseDate": "2001-07-17",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a92d9f5f-60a3-3e7d-a0a3-e028c29e5ca5/front-1200",
+      "tracks": [
+        {
+          "title": "Bleed American",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 181000
+        },
+        {
+          "title": "A Praise Chorus",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 243000
+        },
+        {
+          "title": "The Middle",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 165000
+        },
+        {
+          "title": "Your House",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 286000
+        },
+        {
+          "title": "Sweetness",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 220000
+        },
+        {
+          "title": "Hear You Me",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 284000
+        },
+        {
+          "title": "If You Don't. Don't",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 273000
+        },
+        {
+          "title": "Get It Faster",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 261000
+        },
+        {
+          "title": "Cautioners",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 321000
+        },
+        {
+          "title": "The Authority Song",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 217000
+        },
+        {
+          "title": "My Sundown",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 347000
+        }
+      ]
+    },
+    {
+      "mbid": "2aad83d4-eee8-3616-84d0-d2afa569cc9e",
+      "releaseMbid": "48b7a4cc-4981-4892-8ef3-456cb14bcddf",
+      "title": "Futures",
+      "type": "ALBUM",
+      "releaseDate": "2004-10-11",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/2aad83d4-eee8-3616-84d0-d2afa569cc9e/front-1200",
+      "tracks": [
+        {
+          "title": "Futures",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 238426
+        },
+        {
+          "title": "Just Tonight…",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 206373
+        },
+        {
+          "title": "Work",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 203506
+        },
+        {
+          "title": "Kill",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 228853
+        },
+        {
+          "title": "The World You Love",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 301080
+        },
+        {
+          "title": "Pain",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 181306
+        },
+        {
+          "title": "Drugs or Me",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 385760
+        },
+        {
+          "title": "Polaris",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 291146
+        },
+        {
+          "title": "Nothingwrong",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 189853
+        },
+        {
+          "title": "Night Drive",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 303293
+        },
+        {
+          "title": "23",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 433800
+        },
+        {
+          "title": "Shame",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 349773
+        }
+      ]
+    },
+    {
+      "mbid": "f79d4934-3a54-3446-8d29-ec0f526af171",
+      "releaseMbid": "40778172-7c9f-44a5-9b3e-33f3fe6ed669",
+      "title": "Chase This Light",
+      "type": "ALBUM",
+      "releaseDate": "2007-10-06",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f79d4934-3a54-3446-8d29-ec0f526af171/front-1200",
+      "tracks": [
+        {
+          "title": "Big Casino",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 220733
+        },
+        {
+          "title": "Let It Happen",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 205506
+        },
+        {
+          "title": "Always Be",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 184680
+        },
+        {
+          "title": "Carry You",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 262906
+        },
+        {
+          "title": "Electable (Give It Up)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 176906
+        },
+        {
+          "title": "Gotta Be Somebody’s Blues",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 285653
+        },
+        {
+          "title": "Feeling Lucky",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 152960
+        },
+        {
+          "title": "Here It Goes",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 202986
+        },
+        {
+          "title": "Chase This Light",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 206960
+        },
+        {
+          "title": "Firefight",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 231026
+        },
+        {
+          "title": "Dizzy",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 286573
+        }
+      ]
+    },
+    {
+      "mbid": "49c92da5-2efc-4a95-8f39-9c034da70bf3",
+      "releaseMbid": "81c5ca3e-2a9e-4879-b80b-5e66213bcc0d",
+      "title": "The Lowdown",
+      "type": "ALBUM",
+      "releaseDate": "2010",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Doing It Their Own Way",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 406160
+        },
+        {
+          "title": "Eating the World",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 270000
+        },
+        {
+          "title": "Creative Process",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 427573
+        },
+        {
+          "title": "Going It Alone",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 483666
+        },
+        {
+          "title": "Trials of Success",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 307320
+        },
+        {
+          "title": "Playing It Safe",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 289413
+        },
+        {
+          "title": "Making a Living",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 302706
+        },
+        {
+          "title": "Lyrical Interpretation",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 238866
+        },
+        {
+          "title": "Tourbus",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 281520
+        },
+        {
+          "title": "Being Taken Seriously",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 303293
+        },
+        {
+          "title": "Festivals",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 303786
+        },
+        {
+          "title": "The Old Days",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 356693
+        }
+      ]
+    },
+    {
+      "mbid": "970ec78b-dcd1-4a1a-a620-328c9dfeda80",
+      "releaseMbid": "5c4666a1-93ab-4c18-9d1d-4c421259ef09",
+      "title": "Invented",
+      "type": "ALBUM",
+      "releaseDate": "2010-09-27",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/970ec78b-dcd1-4a1a-a620-328c9dfeda80/front-1200",
+      "tracks": [
+        {
+          "title": "Heart Is Hard to Find",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 198506
+        },
+        {
+          "title": "My Best Theory",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 203253
+        },
+        {
+          "title": "Evidence",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 281253
+        },
+        {
+          "title": "Higher Devotion",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 182200
+        },
+        {
+          "title": "Movielike",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 227733
+        },
+        {
+          "title": "Coffee and Cigarettes",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 225986
+        },
+        {
+          "title": "Stop",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 214786
+        },
+        {
+          "title": "Littlething",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 249040
+        },
+        {
+          "title": "Cut",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 297560
+        },
+        {
+          "title": "Action Needs an Audience",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 160826
+        },
+        {
+          "title": "Invented",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 427120
+        },
+        {
+          "title": "Mixtape",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 391453
+        }
+      ]
+    },
+    {
+      "mbid": "5b1fae94-1196-4471-8c46-efd7a38912ef",
+      "releaseMbid": "32263eda-96a0-4f9c-8554-e3f4bcc038dc",
+      "title": "Damage",
+      "type": "ALBUM",
+      "releaseDate": "2013-05-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/5b1fae94-1196-4471-8c46-efd7a38912ef/front-1200",
+      "tracks": [
+        {
+          "title": "Appreciation",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 196000
+        },
+        {
+          "title": "Damage",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 187800
+        },
+        {
+          "title": "Lean",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 184933
+        },
+        {
+          "title": "Book of Love",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 235800
+        },
+        {
+          "title": "I Will Steal You Back",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 208600
+        },
+        {
+          "title": "Please Say No",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 280573
+        },
+        {
+          "title": "How'd You Have Me",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 222280
+        },
+        {
+          "title": "No, Never",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 230653
+        },
+        {
+          "title": "Byebyelove",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 271453
+        },
+        {
+          "title": "You Were Good",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 253800
+        }
+      ]
+    },
+    {
+      "mbid": "d9a29743-8fed-471a-824a-bfbf5a83e6a3",
+      "releaseMbid": "170f1d76-c26d-441f-a77a-53e722233320",
+      "title": "Integrity Blues",
+      "type": "ALBUM",
+      "releaseDate": "2016-10-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d9a29743-8fed-471a-824a-bfbf5a83e6a3/front-1200",
+      "tracks": [
+        {
+          "title": "You With Me",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 318373
+        },
+        {
+          "title": "Sure and Certain",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 215706
+        },
+        {
+          "title": "It Matters",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 234506
+        },
+        {
+          "title": "Pretty Grids",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 251560
+        },
+        {
+          "title": "Pass the Baby",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 323813
+        },
+        {
+          "title": "Get Right",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 169573
+        },
+        {
+          "title": "You Are Free",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 254840
+        },
+        {
+          "title": "The End Is Beautiful",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 265386
+        },
+        {
+          "title": "Through",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 171640
+        },
+        {
+          "title": "Integrity Blues",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 192186
+        },
+        {
+          "title": "Pol Roger",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 407026
+        }
+      ]
+    },
+    {
+      "mbid": "c0921041-8577-443e-adbd-bda7292c5d09",
+      "releaseMbid": "0a205f69-c328-4014-a9ba-63a2e0a8a446",
+      "title": "Surviving",
+      "type": "ALBUM",
+      "releaseDate": "2019-10-18",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c0921041-8577-443e-adbd-bda7292c5d09/front-1200",
+      "tracks": [
+        {
+          "title": "Surviving",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 184773
+        },
+        {
+          "title": "Criminal Energy",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 191253
+        },
+        {
+          "title": "Delivery",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 193386
+        },
+        {
+          "title": "555",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 221186
+        },
+        {
+          "title": "One Mil",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 187453
+        },
+        {
+          "title": "All the Way (Stay)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 245746
+        },
+        {
+          "title": "Diamond",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 193453
+        },
+        {
+          "title": "Love Never",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 174346
+        },
+        {
+          "title": "Recommit",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 230173
+        },
+        {
+          "title": "Congratulations",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 371360
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

@@ -1,0 +1,609 @@
+{
+  "generatedAt": "2026-11-19T11:59:30.289Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "09885b8e-f235-4b80-a02a-055539493173",
+    "name": "The All‐American Rejects",
+    "slug": "the-all-american-rejects",
+    "type": "BAND",
+    "country": "US",
+    "city": "Stillwater",
+    "formedYear": 2000,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/09885b8e-f235-4b80-a02a-055539493173"
+      }
+    ],
+    "genres": [
+      "pop-punk",
+      "alternative-rock"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "d82a2e51-be11-4841-9217-7f5ca642ba2d",
+      "releaseMbid": "146dc97a-7b49-4b74-a52c-9a52c7f0ce00",
+      "title": "The All‐American Rejects",
+      "type": "ALBUM",
+      "releaseDate": "2000",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d82a2e51-be11-4841-9217-7f5ca642ba2d/front-1200",
+      "tracks": [
+        {
+          "title": "[untitled]",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 206992
+        },
+        {
+          "title": "Her Name Rhymes With Mindy",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 175304
+        },
+        {
+          "title": "Molly",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 169840
+        },
+        {
+          "title": "Fembot",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 181292
+        },
+        {
+          "title": "The Girlfriend Song",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 251517
+        },
+        {
+          "title": "Oops",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 170546
+        },
+        {
+          "title": "Pillsbury Doughgirl",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 245007
+        },
+        {
+          "title": "She Mannequin",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 244902
+        },
+        {
+          "title": "Mrs. Bundy",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 125969
+        },
+        {
+          "title": "Teacher, I Love You",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 257295
+        },
+        {
+          "title": "I'm on the Football Team",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 150231
+        },
+        {
+          "title": "Girl of My Dreams",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 251229
+        }
+      ]
+    },
+    {
+      "mbid": "be989e9b-4a37-39c9-84de-80a68c6053bf",
+      "releaseMbid": "ba8d7544-44fd-4e91-92ac-1f7d2d30faad",
+      "title": "The All‐American Rejects",
+      "type": "ALBUM",
+      "releaseDate": "2002",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "My Paper Heart",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 231000
+        },
+        {
+          "title": "Your Star",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 264000
+        },
+        {
+          "title": "Swing, Swing",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 234000
+        },
+        {
+          "title": "Time Stands Still",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 213000
+        },
+        {
+          "title": "One More Sad Song",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 186000
+        },
+        {
+          "title": "Why Worry",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 258000
+        },
+        {
+          "title": "Don’t Leave Me",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 210000
+        },
+        {
+          "title": "Too Far Gone",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 247000
+        },
+        {
+          "title": "Drive Away",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 182000
+        },
+        {
+          "title": "Happy Endings",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 267000
+        },
+        {
+          "title": "The Last Song",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 300000
+        }
+      ]
+    },
+    {
+      "mbid": "19f5a07a-eb9a-3592-9172-6e477c68ca97",
+      "releaseMbid": "f4a8a274-5319-4c42-b9de-728a5838aa92",
+      "title": "Move Along",
+      "type": "ALBUM",
+      "releaseDate": "2005-07-06",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/19f5a07a-eb9a-3592-9172-6e477c68ca97/front-1200",
+      "tracks": [
+        {
+          "title": "Dirty Little Secret",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 193653
+        },
+        {
+          "title": "Stab My Back",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 190560
+        },
+        {
+          "title": "Move Along",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 240373
+        },
+        {
+          "title": "It Ends Tonight",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 244826
+        },
+        {
+          "title": "Change Your Mind",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 220040
+        },
+        {
+          "title": "Night Drive",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 205693
+        },
+        {
+          "title": "11:11 P.M.",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 184333
+        },
+        {
+          "title": "Dance Inside",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 242293
+        },
+        {
+          "title": "Top of the World",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 205333
+        },
+        {
+          "title": "Straitjacket Feeling",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 217693
+        },
+        {
+          "title": "I’m Waiting",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 217266
+        },
+        {
+          "title": "Can’t Take It",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 172586
+        }
+      ]
+    },
+    {
+      "mbid": "ff82662f-6ca3-4cc7-998e-00d63cdb5884",
+      "releaseMbid": "6c49691c-58ce-4126-b856-475f58c8abe9",
+      "title": "B-Sides & Rarities",
+      "type": "ALBUM",
+      "releaseDate": "2007",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "11-11 PM (demo)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 218000
+        },
+        {
+          "title": "I'm on the Football Team",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 151000
+        },
+        {
+          "title": "It's My Life",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 396000
+        },
+        {
+          "title": "Mona Lisa (live)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 153000
+        },
+        {
+          "title": "She's My Girlfriend Now",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 208000
+        },
+        {
+          "title": "Swing Swing (acoustic)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 174000
+        },
+        {
+          "title": "The Future Has Arrived",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 186000
+        },
+        {
+          "title": "Time Stands Still (live)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 215000
+        }
+      ]
+    },
+    {
+      "mbid": "2ce57a09-9b74-3571-a72b-79ff59ff89af",
+      "releaseMbid": "2e99930b-1be2-40e7-aa75-2af3b737260d",
+      "title": "When the World Comes Down",
+      "type": "ALBUM",
+      "releaseDate": "2008-12-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/2ce57a09-9b74-3571-a72b-79ff59ff89af/front-1200",
+      "tracks": [
+        {
+          "title": "I Wanna",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 209000
+        },
+        {
+          "title": "Fallin' Apart",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 207000
+        },
+        {
+          "title": "Damn Girl",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 232000
+        },
+        {
+          "title": "Gives You Hell",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 213000
+        },
+        {
+          "title": "Mona Lisa",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 195000
+        },
+        {
+          "title": "Breakin'",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 239000
+        },
+        {
+          "title": "Another Heart Calls",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 249000
+        },
+        {
+          "title": "Real World",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 243000
+        },
+        {
+          "title": "Back to Me",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 269000
+        },
+        {
+          "title": "Believe",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 208000
+        },
+        {
+          "title": "The Wind Blows",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 262000
+        },
+        {
+          "title": "[silence]",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 30000
+        },
+        {
+          "title": "Sunshine",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 180000
+        }
+      ]
+    },
+    {
+      "mbid": "678c7de2-c991-4b4c-b769-22e4096b5175",
+      "releaseMbid": "c9815c22-734e-41ad-a90e-5ca762c87eba",
+      "title": "Kids in the Street",
+      "type": "ALBUM",
+      "releaseDate": "2012-01-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/678c7de2-c991-4b4c-b769-22e4096b5175/front-1200",
+      "tracks": [
+        {
+          "title": "Someday's Gone",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 205080
+        },
+        {
+          "title": "Beekeeper's Daughter",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 213786
+        },
+        {
+          "title": "Fast And Slow",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 240386
+        },
+        {
+          "title": "Hearbeat Slowing Down",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 284480
+        },
+        {
+          "title": "Walk Over Me",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 239426
+        },
+        {
+          "title": "Out The Door",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 219280
+        },
+        {
+          "title": "Kids In The Street",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 285613
+        },
+        {
+          "title": "Blead Into Your Mind",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 163240
+        },
+        {
+          "title": "Goazo",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 306146
+        },
+        {
+          "title": "Affection",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 284906
+        },
+        {
+          "title": "I For You",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 158800
+        },
+        {
+          "title": "Drown Next To Me",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 412773
+        },
+        {
+          "title": "Someday's Gone (demo)",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 235213
+        },
+        {
+          "title": "Blead Into Your Mind (Demo)",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 163013
+        },
+        {
+          "title": "Do Me Right (Demo)",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 216066
+        },
+        {
+          "title": "Fast And Slow (Demo)",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 238946
+        }
+      ]
+    },
+    {
+      "mbid": "4c379675-b7c0-41ae-a613-e5519dee7de4",
+      "releaseMbid": "7991b7c4-c53e-47e7-9a58-c203650017f1",
+      "title": "Sandbox",
+      "type": "ALBUM",
+      "releaseDate": "2026-05-15",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4c379675-b7c0-41ae-a613-e5519dee7de4/front-1200",
+      "tracks": [
+        {
+          "title": "Easy Come, Easy Go",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 154775
+        },
+        {
+          "title": "Get This",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 199632
+        },
+        {
+          "title": "Search Party!",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 262896
+        },
+        {
+          "title": "Eggshell Tap Dancer",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 227171
+        },
+        {
+          "title": "Green Isn’t Yellow",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 179874
+        },
+        {
+          "title": "Sandbox",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 145547
+        },
+        {
+          "title": "King Kong",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 206867
+        },
+        {
+          "title": "Clothesline",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 214844
+        },
+        {
+          "title": "Lemonade",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 174409
+        },
+        {
+          "title": "For Mama",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 281584
+        },
+        {
+          "title": "Staring Back At Me",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 210756
+        },
+        {
+          "title": "Search Party! (Live From Medium Sized Backyard)",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 255893
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

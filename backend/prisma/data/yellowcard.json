@@ -1,0 +1,918 @@
+{
+  "generatedAt": "2026-11-19T11:46:08.888Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "3630fff3-52fc-4e97-ab01-d68fd88e4135",
+    "name": "Yellowcard",
+    "slug": "yellowcard",
+    "type": "BAND",
+    "country": "US",
+    "city": "Jacksonville",
+    "formedYear": 1997,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/3630fff3-52fc-4e97-ab01-d68fd88e4135"
+      }
+    ],
+    "genres": [
+      "pop-punk",
+      "alternative-rock",
+      "punk-rock"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "151e5f6e-98b8-3c29-8530-f7624a10e2e1",
+      "releaseMbid": "93c3fa22-6349-4c05-8008-5045002c6837",
+      "title": "Midget Tossing",
+      "type": "ALBUM",
+      "releaseDate": "1997-04-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/151e5f6e-98b8-3c29-8530-f7624a10e2e1/front-1200",
+      "tracks": [
+        {
+          "title": "2 Quarts",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 180866
+        },
+        {
+          "title": "Possessions",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 115413
+        },
+        {
+          "title": "Sue",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 123880
+        },
+        {
+          "title": "American’t",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 180253
+        },
+        {
+          "title": "Up Hill Both Ways",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 227600
+        },
+        {
+          "title": "Me First",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 228893
+        },
+        {
+          "title": "For the Longest Time",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 99000
+        },
+        {
+          "title": "Get Off the Couch",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 166240
+        },
+        {
+          "title": "Interlewd",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 106346
+        },
+        {
+          "title": "Someday",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 233506
+        },
+        {
+          "title": "Goodbye",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 379173
+        }
+      ]
+    },
+    {
+      "mbid": "8eb6bf8e-c467-3288-b73c-bbd2ac018d1c",
+      "releaseMbid": "19a7425c-3f8b-390f-9005-182b0cc7f9b0",
+      "title": "Where We Stand",
+      "type": "ALBUM",
+      "releaseDate": "1999",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/8eb6bf8e-c467-3288-b73c-bbd2ac018d1c/front-1200",
+      "tracks": [
+        {
+          "title": "Lesson Learned",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 202946
+        },
+        {
+          "title": "Time Will Tell",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 238026
+        },
+        {
+          "title": "Sue",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 144560
+        },
+        {
+          "title": "April 20th",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 175293
+        },
+        {
+          "title": "Uphill Both Ways",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 238480
+        },
+        {
+          "title": "Kids",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 163026
+        },
+        {
+          "title": "Doesn't Matter",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 174240
+        },
+        {
+          "title": "Sorry Try Again",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 104600
+        },
+        {
+          "title": "Anywhere but Here",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 193333
+        },
+        {
+          "title": "On the Brink",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 445693
+        }
+      ]
+    },
+    {
+      "mbid": "6168bff2-634d-37c1-b23f-3d19a42f7713",
+      "releaseMbid": "b8f6e927-db95-472c-9683-d4077e394e4d",
+      "title": "One for the Kids",
+      "type": "ALBUM",
+      "releaseDate": "2001-04-03",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/6168bff2-634d-37c1-b23f-3d19a42f7713/front-1200",
+      "tracks": [
+        {
+          "title": "★ Struck",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 167426
+        },
+        {
+          "title": "Drifting",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 208733
+        },
+        {
+          "title": "Something of Value",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 210306
+        },
+        {
+          "title": "Trembling",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 146066
+        },
+        {
+          "title": "Sureshot",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 198560
+        },
+        {
+          "title": "Big Apple Heartbreak",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 223440
+        },
+        {
+          "title": "Cigarette",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 232866
+        },
+        {
+          "title": "October Nights",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 209133
+        },
+        {
+          "title": "Rock Star Land",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 219426
+        },
+        {
+          "title": "For Pete’s Sake",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 231106
+        },
+        {
+          "title": "A.W.O.L.",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 180800
+        },
+        {
+          "title": "[untitled]",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 316866
+        }
+      ]
+    },
+    {
+      "mbid": "7a78cfc6-076b-37d9-8221-8782650e55d9",
+      "releaseMbid": "d360bb4c-86d3-4516-86e5-63522714717f",
+      "title": "Ocean Avenue",
+      "type": "ALBUM",
+      "releaseDate": "2003-07-10",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/7a78cfc6-076b-37d9-8221-8782650e55d9/front-1200",
+      "tracks": [
+        {
+          "title": "Way Away",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 202000
+        },
+        {
+          "title": "Breathing",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 218706
+        },
+        {
+          "title": "Ocean Avenue",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 198266
+        },
+        {
+          "title": "Empty Apartment",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 216693
+        },
+        {
+          "title": "Life of a Salesman",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 198626
+        },
+        {
+          "title": "Only One",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 257373
+        },
+        {
+          "title": "Miles Apart",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 212333
+        },
+        {
+          "title": "Twentythree",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 207840
+        },
+        {
+          "title": "View From Heaven",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 202080
+        },
+        {
+          "title": "Inside Out",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 220093
+        },
+        {
+          "title": "Believe",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 271200
+        },
+        {
+          "title": "One Year, Six Months",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 210706
+        },
+        {
+          "title": "Back Home",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 236306
+        }
+      ]
+    },
+    {
+      "mbid": "44df6977-48ec-3a91-aa3b-62eb282be39e",
+      "releaseMbid": "1fb00c8b-8af2-481e-9f72-6cc5d6d3be56",
+      "title": "Lights and Sounds",
+      "type": "ALBUM",
+      "releaseDate": "2006-01-18",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/44df6977-48ec-3a91-aa3b-62eb282be39e/front-1200",
+      "tracks": [
+        {
+          "title": "Three Flights Up",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 83680
+        },
+        {
+          "title": "Lights and Sounds",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 208186
+        },
+        {
+          "title": "Down on My Head",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 212426
+        },
+        {
+          "title": "Sure Thing Falling",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 222813
+        },
+        {
+          "title": "City of Devils",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 263093
+        },
+        {
+          "title": "Rough Landing, Holly",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 213920
+        },
+        {
+          "title": "Two Weeks From Twenty",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 258640
+        },
+        {
+          "title": "Waiting Game",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 255320
+        },
+        {
+          "title": "Martin Sheen or JFK",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 226746
+        },
+        {
+          "title": "Space Travel",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 227160
+        },
+        {
+          "title": "Grey",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 180293
+        },
+        {
+          "title": "Words, Hands, Hearts",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 264386
+        },
+        {
+          "title": "How I Go",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 272746
+        },
+        {
+          "title": "Holly Wood Died",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 279133
+        }
+      ]
+    },
+    {
+      "mbid": "9ac3254d-1013-316d-a316-5a4d1a4886f9",
+      "releaseMbid": "d09cfd78-c537-466b-b5e2-1eaab1bd289b",
+      "title": "Paper Walls",
+      "type": "ALBUM",
+      "releaseDate": "2007-07-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/9ac3254d-1013-316d-a316-5a4d1a4886f9/front-1200",
+      "tracks": [
+        {
+          "title": "The Takedown",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 217000
+        },
+        {
+          "title": "Fighting",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 180000
+        },
+        {
+          "title": "Shrink the World",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 200000
+        },
+        {
+          "title": "Keeper",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 235000
+        },
+        {
+          "title": "Light Up the Sky",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 217000
+        },
+        {
+          "title": "Shadows and Regrets",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 239000
+        },
+        {
+          "title": "Five Becomes Four",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 210000
+        },
+        {
+          "title": "Afraid",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 193000
+        },
+        {
+          "title": "Date Line (I Am Gone)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 202000
+        },
+        {
+          "title": "Dear Bobbie",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 254000
+        },
+        {
+          "title": "You and Me and One Spotlight",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 237000
+        },
+        {
+          "title": "Cut Me, Mick",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 214000
+        },
+        {
+          "title": "Paper Walls",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 268000
+        },
+        {
+          "title": "Gifts and Curses (acoustic)",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 301000
+        },
+        {
+          "title": "How I Go (acoustic)",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 278000
+        }
+      ]
+    },
+    {
+      "mbid": "7e3f23cb-522d-41dd-958c-8e6a8373c2ee",
+      "releaseMbid": "d237a6b7-6609-4d24-aae8-bc40e1f20516",
+      "title": "When You’re Through Thinking, Say Yes",
+      "type": "ALBUM",
+      "releaseDate": "2011-03-22",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/7e3f23cb-522d-41dd-958c-8e6a8373c2ee/front-1200",
+      "tracks": [
+        {
+          "title": "The Sound of You and Me",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 276093
+        },
+        {
+          "title": "For You, and Your Denial",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 213893
+        },
+        {
+          "title": "With You Around",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 181786
+        },
+        {
+          "title": "Hang You Up",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 242906
+        },
+        {
+          "title": "Life of Leaving Home",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 204186
+        },
+        {
+          "title": "Hide",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 192986
+        },
+        {
+          "title": "Soundtrack",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 215706
+        },
+        {
+          "title": "Sing for Me",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 234093
+        },
+        {
+          "title": "See Me Smiling",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 230746
+        },
+        {
+          "title": "Be the Young",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 236946
+        }
+      ]
+    },
+    {
+      "mbid": "4b06049d-fd55-4f84-9f4b-5c9203f08ca0",
+      "releaseMbid": "22db370a-ce7c-4213-a240-b8e7b110f248",
+      "title": "Southern Air",
+      "type": "ALBUM",
+      "releaseDate": "2012-08-14",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4b06049d-fd55-4f84-9f4b-5c9203f08ca0/front-1200",
+      "tracks": [
+        {
+          "title": "Awakening",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 263000
+        },
+        {
+          "title": "Surface of the Sun",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 223000
+        },
+        {
+          "title": "Always Summer",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 190000
+        },
+        {
+          "title": "Here I Am Alive",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 213000
+        },
+        {
+          "title": "Sleep in the Snow",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 242000
+        },
+        {
+          "title": "A Vicious Kind",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 233000
+        },
+        {
+          "title": "Telescope",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 232000
+        },
+        {
+          "title": "Rivertown Blues",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 214000
+        },
+        {
+          "title": "Ten",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 287000
+        },
+        {
+          "title": "Southern Air",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 262000
+        }
+      ]
+    },
+    {
+      "mbid": "53cabc71-181e-4c94-b297-ae3770612059",
+      "releaseMbid": "5c029341-d1c1-4e2a-af0b-a58c9c50b513",
+      "title": "Lift a Sail",
+      "type": "ALBUM",
+      "releaseDate": "2014-10-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/53cabc71-181e-4c94-b297-ae3770612059/front-1200",
+      "tracks": [
+        {
+          "title": "Convocation",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 115893
+        },
+        {
+          "title": "Transmission Home",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 258146
+        },
+        {
+          "title": "Crash the Gates",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 200040
+        },
+        {
+          "title": "Make Me So",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 191320
+        },
+        {
+          "title": "One Bedroom",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 275133
+        },
+        {
+          "title": "Fragile and Dear",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 244786
+        },
+        {
+          "title": "Illuminate",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 246360
+        },
+        {
+          "title": "Madrid",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 127520
+        },
+        {
+          "title": "The Deepest Well",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 237040
+        },
+        {
+          "title": "Lift a Sail",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 235746
+        },
+        {
+          "title": "MSK",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 226026
+        },
+        {
+          "title": "My Mountain",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 239093
+        },
+        {
+          "title": "California",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 251040
+        }
+      ]
+    },
+    {
+      "mbid": "8f4bd506-dc59-4699-9c44-f958d6414e31",
+      "releaseMbid": "21db8259-9d30-4045-968f-b1537da3e2c7",
+      "title": "Yellowcard",
+      "type": "ALBUM",
+      "releaseDate": "2016-09-30",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/8f4bd506-dc59-4699-9c44-f958d6414e31/front-1200",
+      "tracks": [
+        {
+          "title": "Rest in Peace",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 258880
+        },
+        {
+          "title": "What Appears",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 230266
+        },
+        {
+          "title": "Got Yours",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 200853
+        },
+        {
+          "title": "A Place We Set Afire",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 259653
+        },
+        {
+          "title": "Leave a Light On",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 287533
+        },
+        {
+          "title": "The Hurt Is Gone",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 385240
+        },
+        {
+          "title": "Empty Street",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 287466
+        },
+        {
+          "title": "I’m a Wrecking Ball",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 237066
+        },
+        {
+          "title": "Savior’s Robes",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 312266
+        },
+        {
+          "title": "Fields & Fences",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 418720
+        }
+      ]
+    },
+    {
+      "mbid": "df68c3be-19f9-498d-bd0f-a7a3f9c2d09b",
+      "releaseMbid": "484a8c48-89bf-4a15-9861-7a52a1859335",
+      "title": "Better Days",
+      "type": "ALBUM",
+      "releaseDate": "2025-10-10",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/df68c3be-19f9-498d-bd0f-a7a3f9c2d09b/front-1200",
+      "tracks": [
+        {
+          "title": "Better Days",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 173240
+        },
+        {
+          "title": "Take What You Want",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 146704
+        },
+        {
+          "title": "Love Letters Lost",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 201541
+        },
+        {
+          "title": "honestly i",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 186225
+        },
+        {
+          "title": "You Broke Me Too",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 187249
+        },
+        {
+          "title": "City of Angels",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 199642
+        },
+        {
+          "title": "Bedroom Posters",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 218635
+        },
+        {
+          "title": "Skin Scraped",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 214397
+        },
+        {
+          "title": "Barely Alive",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 192520
+        },
+        {
+          "title": "Big Blue Eyes",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 184347
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

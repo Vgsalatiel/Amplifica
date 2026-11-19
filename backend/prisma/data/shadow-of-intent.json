@@ -1,0 +1,756 @@
+{
+  "generatedAt": "2026-11-18T20:36:26.300Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "e49da23b-5624-49a8-8351-5a43b2d3d4e8",
+    "name": "Shadow of Intent",
+    "slug": "shadow-of-intent",
+    "type": "BAND",
+    "country": "US",
+    "city": "Milford",
+    "formedYear": 2013,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/e49da23b-5624-49a8-8351-5a43b2d3d4e8"
+      }
+    ],
+    "genres": [
+      "deathcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "daf8fd2c-5584-4e40-8b13-4dabc978ab1b",
+      "releaseMbid": "6c4742b5-f0ac-47f6-beca-0b9c55a6080a",
+      "title": "Inferi Sententia",
+      "type": "EP",
+      "releaseDate": "2014-07-18",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/daf8fd2c-5584-4e40-8b13-4dabc978ab1b/front-1200",
+      "tracks": [
+        {
+          "title": "The Prelude to Bereavement",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 329000
+        },
+        {
+          "title": "The Shaping Sickness",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 244000
+        },
+        {
+          "title": "The Cosmic Inquisitor",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 393000
+        },
+        {
+          "title": "The Last Bastion",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 254000
+        },
+        {
+          "title": "The Indexing",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 280000
+        }
+      ]
+    },
+    {
+      "mbid": "66be6796-9c60-4b47-9663-4c09c920527e",
+      "releaseMbid": "302118c3-b6af-48d0-9770-7a48bb710769",
+      "title": "Primordial",
+      "type": "ALBUM",
+      "releaseDate": "2016-01-10",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/66be6796-9c60-4b47-9663-4c09c920527e/front-1200",
+      "tracks": [
+        {
+          "title": "The Prelude to Bereavement",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 350706
+        },
+        {
+          "title": "The Shaping Sickness",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 246680
+        },
+        {
+          "title": "The Invoking of the Execution of Worlds",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 260800
+        },
+        {
+          "title": "The Cosmic Inquisitor",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 393800
+        },
+        {
+          "title": "The Didact’s Will",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 463653
+        },
+        {
+          "title": "The Last Bastion",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 244453
+        },
+        {
+          "title": "The Battle of the Maginot Sphere",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 244453
+        },
+        {
+          "title": "The Twin Revelation",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 306866
+        },
+        {
+          "title": "The Aftermath in Jat‐Krula",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 381920
+        },
+        {
+          "title": "The Indexing",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 281600
+        }
+      ]
+    },
+    {
+      "mbid": "cbc31c11-9a35-4ab9-b519-2252b74b9121",
+      "releaseMbid": "0853a7eb-ad8b-46c6-a895-d92839b7d42c",
+      "title": "Reclaimer",
+      "type": "ALBUM",
+      "releaseDate": "2017-04-28",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/cbc31c11-9a35-4ab9-b519-2252b74b9121/front-1200",
+      "tracks": [
+        {
+          "title": "We Descend…",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 134000
+        },
+        {
+          "title": "The Return",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 285000
+        },
+        {
+          "title": "The Horror Within",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 370000
+        },
+        {
+          "title": "The Catacombs",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 283000
+        },
+        {
+          "title": "The Mad Tyrant’s Betrayal",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 314000
+        },
+        {
+          "title": "The Gathering of All",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 260000
+        },
+        {
+          "title": "The Heretic Prevails",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 288000
+        },
+        {
+          "title": "The Prophet’s Beckoning",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 304000
+        },
+        {
+          "title": "The Forsaken Effigy",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 244000
+        },
+        {
+          "title": "The Great Schism",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 261000
+        },
+        {
+          "title": "The Mausoleum of Liars",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 289000
+        },
+        {
+          "title": "The Tartarus Impalement",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 472000
+        }
+      ]
+    },
+    {
+      "mbid": "c3de36a7-92b0-4af2-ba5c-af2b72961dcf",
+      "releaseMbid": "07ca768f-d076-4aee-886d-c9947a3f3274",
+      "title": "The Instrumentals",
+      "type": "COMPILATION",
+      "releaseDate": "2017-10-20",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c3de36a7-92b0-4af2-ba5c-af2b72961dcf/front-1200",
+      "tracks": [
+        {
+          "title": "The Prelude to Bereavement",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 352000
+        },
+        {
+          "title": "The Shaping Sickness",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 247000
+        },
+        {
+          "title": "The Invoking of the Execution of Worlds",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 261000
+        },
+        {
+          "title": "The Cosmic Inquisitor",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 394000
+        },
+        {
+          "title": "The Didact’s Will",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 464000
+        },
+        {
+          "title": "The Last Bastion",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 244000
+        },
+        {
+          "title": "The Battle of the Maginot Sphere",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 244000
+        },
+        {
+          "title": "The Twin Revelation",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 304000
+        },
+        {
+          "title": "The Aftermath in Jat‐Krula",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 386000
+        },
+        {
+          "title": "The Indexing",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 282000
+        },
+        {
+          "title": "We Descend…",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": 135000
+        },
+        {
+          "title": "The Return",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": 286000
+        },
+        {
+          "title": "The Horror Within",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": 371000
+        },
+        {
+          "title": "The Catacombs",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": 284000
+        },
+        {
+          "title": "The Mad Tyrant’s Betrayal",
+          "discNumber": 2,
+          "position": 5,
+          "durationMs": 314000
+        },
+        {
+          "title": "The Gathering of All",
+          "discNumber": 2,
+          "position": 6,
+          "durationMs": 261000
+        },
+        {
+          "title": "The Heretic Prevails",
+          "discNumber": 2,
+          "position": 7,
+          "durationMs": 288000
+        },
+        {
+          "title": "The Prophet’s Beckoning",
+          "discNumber": 2,
+          "position": 8,
+          "durationMs": 305000
+        },
+        {
+          "title": "The Forsaken Effigy",
+          "discNumber": 2,
+          "position": 9,
+          "durationMs": 245000
+        },
+        {
+          "title": "The Great Schism",
+          "discNumber": 2,
+          "position": 10,
+          "durationMs": 262000
+        },
+        {
+          "title": "The Mausoleum of Liars",
+          "discNumber": 2,
+          "position": 11,
+          "durationMs": 290000
+        },
+        {
+          "title": "The Tartarus Impalement",
+          "discNumber": 2,
+          "position": 12,
+          "durationMs": 473000
+        }
+      ]
+    },
+    {
+      "mbid": "36c13c49-3d35-4673-858e-802975d8a3ca",
+      "releaseMbid": "2fed571a-6459-4feb-8317-036d24f8f05c",
+      "title": "Melancholy",
+      "type": "ALBUM",
+      "releaseDate": "2019-08-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/36c13c49-3d35-4673-858e-802975d8a3ca/front-1200",
+      "tracks": [
+        {
+          "title": "Melancholy",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 315000
+        },
+        {
+          "title": "Gravesinger",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 239000
+        },
+        {
+          "title": "Barren and Breathless Macrocosm",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 296000
+        },
+        {
+          "title": "Underneath a Sullen Moon",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 279000
+        },
+        {
+          "title": "Oudenophobia",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 250000
+        },
+        {
+          "title": "Embracing Nocturnal Damnation",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 261000
+        },
+        {
+          "title": "Dirge of the Void",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 199000
+        },
+        {
+          "title": "Chthonic Odyssey",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 323000
+        },
+        {
+          "title": "The Dreaded Mystic Abyss",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 626000
+        },
+        {
+          "title": "Malediction",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 341000
+        }
+      ]
+    },
+    {
+      "mbid": "04c4aebc-936c-4292-ba70-f6b7a1a475f4",
+      "releaseMbid": "5d4b1aff-bf8d-4745-b0e3-5bcbf51090f9",
+      "title": "Live at the Foundry Concert Club",
+      "type": "LIVE",
+      "releaseDate": "2020-02-05",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Melancholy",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Gravesinger",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "The Mad Tyrant’s Betrayal",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Barren and Breathless Macrocosm",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "The Prelude to Bereavement",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "The Heretic Prevails",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Oudenophobia",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "The Great Schism",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "The Battle of the Maginot Sphere",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Malediction",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "822fa4a1-5334-45fc-bc81-46060b5ba999",
+      "releaseMbid": "35ef5f59-0847-43e0-837e-d208f826a71a",
+      "title": "Elegy",
+      "type": "ALBUM",
+      "releaseDate": "2022-01-14",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/822fa4a1-5334-45fc-bc81-46060b5ba999/front-1200",
+      "tracks": [
+        {
+          "title": "Farewell",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 296000
+        },
+        {
+          "title": "Saurian King",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 324000
+        },
+        {
+          "title": "The Coming Fire",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 249000
+        },
+        {
+          "title": "Of Fury",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 287000
+        },
+        {
+          "title": "Intensified Genocide",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 240000
+        },
+        {
+          "title": "Life of Exile",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 293000
+        },
+        {
+          "title": "Where Millions Have Come to Die",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 263000
+        },
+        {
+          "title": "From Ruin… We Rise",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": 290000
+        },
+        {
+          "title": "Blood in the Sands of Time",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": 322000
+        },
+        {
+          "title": "Reconquest",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": 290000
+        },
+        {
+          "title": "Elegy I: Adapt",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": 148000
+        },
+        {
+          "title": "Elegy II: Devise",
+          "discNumber": 2,
+          "position": 5,
+          "durationMs": 265000
+        },
+        {
+          "title": "Elegy III: Overcome",
+          "discNumber": 2,
+          "position": 6,
+          "durationMs": 361000
+        }
+      ]
+    },
+    {
+      "mbid": "47d3bc3c-27f7-4022-9ba3-2ac0c758bcc7",
+      "releaseMbid": "706a1f02-0771-402c-b6ed-b809dc933ebb",
+      "title": "Elegy: The Soundtrack",
+      "type": "ALBUM",
+      "releaseDate": "2024-03-08",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/47d3bc3c-27f7-4022-9ba3-2ac0c758bcc7/front-1200",
+      "tracks": [
+        {
+          "title": "Farewell (orchestral version)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 292251
+        },
+        {
+          "title": "Saurian King (orchestral version)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 319345
+        },
+        {
+          "title": "The Coming Fire (orchestral version)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 245254
+        },
+        {
+          "title": "Of Fury (orchestral version)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 284414
+        },
+        {
+          "title": "Intensified Genocide (orchestral version)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 242112
+        },
+        {
+          "title": "Life of Exile (orchestral version)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 292800
+        },
+        {
+          "title": "Where Millions Have Come to Die (orchestral version)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 267781
+        },
+        {
+          "title": "From Ruin… We Rise (orchestral version)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 283460
+        },
+        {
+          "title": "Blood in the Sands of Time (orchestral version)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 318705
+        },
+        {
+          "title": "Reconquest (orchestral version)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 261600
+        },
+        {
+          "title": "Elegy (orchestral version)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 777489
+        }
+      ]
+    },
+    {
+      "mbid": "b685b3b4-195e-480e-adbb-4a54cfbe4eb4",
+      "releaseMbid": "927b6302-4f23-4ec8-a331-d103caa49ae1",
+      "title": "Imperium Delirium",
+      "type": "ALBUM",
+      "releaseDate": "2025-06-27",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b685b3b4-195e-480e-adbb-4a54cfbe4eb4/front-1200",
+      "tracks": [
+        {
+          "title": "Prepare to Die",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 241362
+        },
+        {
+          "title": "Flying the Black Flag",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 237023
+        },
+        {
+          "title": "Infinity of Horrors",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 254447
+        },
+        {
+          "title": "Mechanical Chaos",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 230517
+        },
+        {
+          "title": "They Murdered Sleep",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 241529
+        },
+        {
+          "title": "The Facets of Propaganda",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 319461
+        },
+        {
+          "title": "Feeding the Meatgrinder",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 243099
+        },
+        {
+          "title": "Vehement Draconian Vengeance",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 235432
+        },
+        {
+          "title": "Beholding the Sickness of Civilization",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 270617
+        },
+        {
+          "title": "Apocalypse Canvas",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 289851
+        },
+        {
+          "title": "No Matter the Cost",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 256779
+        },
+        {
+          "title": "Imperium Delirium",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 454549
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

@@ -1,0 +1,1168 @@
+{
+  "generatedAt": "2026-11-18T21:01:23.001Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "d89de379-665d-425c-b2e9-41b95d1edb36",
+    "name": "Silverstein",
+    "slug": "silverstein",
+    "type": "BAND",
+    "country": "CA",
+    "city": "Burlington",
+    "formedYear": 2000,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/d89de379-665d-425c-b2e9-41b95d1edb36"
+      }
+    ],
+    "genres": [
+      "emo",
+      "post-hardcore",
+      "pop-punk"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "06c9b559-a89d-338f-9ee6-eafbd4ebd0f4",
+      "releaseMbid": "7756b553-e4b9-42b6-82c4-d2907c22f717",
+      "title": "When Broken Is Easily Fixed",
+      "type": "ALBUM",
+      "releaseDate": "2003-05-20",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/06c9b559-a89d-338f-9ee6-eafbd4ebd0f4/front-1200",
+      "tracks": [
+        {
+          "title": "Smashed Into Pieces",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 222813
+        },
+        {
+          "title": "Red Light Pledge",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 228813
+        },
+        {
+          "title": "Giving Up",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 252746
+        },
+        {
+          "title": "November",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 255986
+        },
+        {
+          "title": "Last Days of Summer",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 268826
+        },
+        {
+          "title": "Bleeds No More",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 196760
+        },
+        {
+          "title": "Hear Me Out",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 228666
+        },
+        {
+          "title": "The Weak and the Wounded",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 195320
+        },
+        {
+          "title": "Wish I Could Forget You",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 206586
+        },
+        {
+          "title": "When Broken is Easily Fixed",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 260800
+        }
+      ]
+    },
+    {
+      "mbid": "2d71b800-bcff-3ab1-8479-c68d69649f8d",
+      "releaseMbid": "66753b99-6220-4964-867b-241bc9a298c6",
+      "title": "Discovering the Waterfront",
+      "type": "ALBUM",
+      "releaseDate": "2005-08-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/2d71b800-bcff-3ab1-8479-c68d69649f8d/front-1200",
+      "tracks": [
+        {
+          "title": "Your Sword Versus My Dagger",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 178600
+        },
+        {
+          "title": "Smile in Your Sleep",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 193920
+        },
+        {
+          "title": "The Ides of March",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 206986
+        },
+        {
+          "title": "Fist Wrapped in Blood",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 177240
+        },
+        {
+          "title": "Discovering the Waterfront",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 285480
+        },
+        {
+          "title": "Defend You",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 208173
+        },
+        {
+          "title": "My Heroine",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 207586
+        },
+        {
+          "title": "Always and Never",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 229653
+        },
+        {
+          "title": "Already Dead",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 197293
+        },
+        {
+          "title": "Three Hours Back",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 214866
+        },
+        {
+          "title": "Call It Karma",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 254026
+        },
+        {
+          "title": "The Weak and the Wounded (live)",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "November (live)",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Behind the Scenes of “Smile in Your Sleep” Video",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "“Smashed Into Pieces” Audio Commentary",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "“Giving Up” Audio Commentary",
+          "discNumber": 2,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "“Discovering the Waterfront” Video Montage",
+          "discNumber": 2,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "A Night at the Studio With Producer Cameron Webb",
+          "discNumber": 2,
+          "position": 7,
+          "durationMs": 281000
+        },
+        {
+          "title": "A Candid Practice Session",
+          "discNumber": 2,
+          "position": 8,
+          "durationMs": 167000
+        },
+        {
+          "title": "Behind Bayside: An Inside Look Into the World of Bayside",
+          "discNumber": 3,
+          "position": 1,
+          "durationMs": 998000
+        }
+      ]
+    },
+    {
+      "mbid": "425cba07-9046-395f-90c8-e7f4a8f4e7a3",
+      "releaseMbid": "2bb118c1-cd4b-4247-8fa4-354cfc45e4e1",
+      "title": "Arrivals & Departures",
+      "type": "ALBUM",
+      "releaseDate": "2007-07-03",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/425cba07-9046-395f-90c8-e7f4a8f4e7a3/front-1200",
+      "tracks": [
+        {
+          "title": "Sound of the Sun",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 199746
+        },
+        {
+          "title": "Bodies and Words",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 193226
+        },
+        {
+          "title": "If You Could See Into My Soul",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 239480
+        },
+        {
+          "title": "Worlds Apart",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 246666
+        },
+        {
+          "title": "My Disaster",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 228800
+        },
+        {
+          "title": "Still Dreaming",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 235533
+        },
+        {
+          "title": "The Sand Will Turn to Glass",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 172226
+        },
+        {
+          "title": "Here Today, Gone Tomorrow",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 213933
+        },
+        {
+          "title": "Vanity and Greed",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 239093
+        },
+        {
+          "title": "Love With Caution",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 207600
+        },
+        {
+          "title": "True Romance",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 350626
+        }
+      ]
+    },
+    {
+      "mbid": "d0a29962-2f01-3fd7-8560-633b28ef9729",
+      "releaseMbid": "1cb2d444-77c7-39ab-bed7-8546a2481603",
+      "title": "A Shipwreck in the Sand",
+      "type": "ALBUM",
+      "releaseDate": "2009-03-31",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d0a29962-2f01-3fd7-8560-633b28ef9729/front-1200",
+      "tracks": [
+        {
+          "title": "A Great Fire",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 238000
+        },
+        {
+          "title": "Vices",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 196000
+        },
+        {
+          "title": "Broken Stars",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 221000
+        },
+        {
+          "title": "American Dream",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 188000
+        },
+        {
+          "title": "Their Lips Sink Ships",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 59000
+        },
+        {
+          "title": "I Knew I Couldn't Trust You",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 208000
+        },
+        {
+          "title": "Born Dead",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 170000
+        },
+        {
+          "title": "A Shipwreck in the Sand",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 275000
+        },
+        {
+          "title": "I Am the Arsonist",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 187000
+        },
+        {
+          "title": "You're All I Have",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 212000
+        },
+        {
+          "title": "We Are Not the World",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 200000
+        },
+        {
+          "title": "A Hero Loses Everyday",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 187000
+        },
+        {
+          "title": "The Tide Raises Every Ship",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 44000
+        },
+        {
+          "title": "The End",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 444000
+        }
+      ]
+    },
+    {
+      "mbid": "79185781-13d6-4e9c-8b82-2511982fdcd5",
+      "releaseMbid": "1d879b85-d6f0-4cd0-9ed4-1386da368ee3",
+      "title": "Rescue",
+      "type": "ALBUM",
+      "releaseDate": "2011-04-26",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/79185781-13d6-4e9c-8b82-2511982fdcd5/front-1200",
+      "tracks": [
+        {
+          "title": "Medication",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 270000
+        },
+        {
+          "title": "Sacrifice",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 157000
+        },
+        {
+          "title": "Forget Your Heart",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 225000
+        },
+        {
+          "title": "Intervention",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 186000
+        },
+        {
+          "title": "Good Luck With Your Lives",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 204000
+        },
+        {
+          "title": "Texas Mickey",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 161000
+        },
+        {
+          "title": "The Artist",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 186000
+        },
+        {
+          "title": "Burning Hearts",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 182000
+        },
+        {
+          "title": "Darling Harbour",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 173000
+        },
+        {
+          "title": "Live to Kill",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 155000
+        },
+        {
+          "title": "Replace You",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 205000
+        },
+        {
+          "title": "In Memory Of…",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 286000
+        }
+      ]
+    },
+    {
+      "mbid": "6c221a11-b153-4b73-bc6a-e4fa9687ee73",
+      "releaseMbid": "85255103-11a3-46c0-90ac-ae6ab86250d1",
+      "title": "Short Songs",
+      "type": "ALBUM",
+      "releaseDate": "2012-02-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/6c221a11-b153-4b73-bc6a-e4fa9687ee73/front-1200",
+      "tracks": [
+        {
+          "title": "Sick as Your Secrets",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 68000
+        },
+        {
+          "title": "Sin & Redemption",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 69000
+        },
+        {
+          "title": "SOS",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 96000
+        },
+        {
+          "title": "Brookfield",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 90000
+        },
+        {
+          "title": "La Marseillaise",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 48000
+        },
+        {
+          "title": "World on Fire",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 84000
+        },
+        {
+          "title": "Sleep Around",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 79000
+        },
+        {
+          "title": "My Miserable Life",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 28000
+        },
+        {
+          "title": "Truth & Temptation",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 44000
+        },
+        {
+          "title": "One Last Dance",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 86000
+        },
+        {
+          "title": "See Ya Bill",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 6000
+        },
+        {
+          "title": "Short Songs",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 24000
+        },
+        {
+          "title": "236 E. Broadway",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 80000
+        },
+        {
+          "title": "Good Intentions",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 26000
+        },
+        {
+          "title": "Destination: Blood!",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 68000
+        },
+        {
+          "title": "Coffee Mug",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 33000
+        },
+        {
+          "title": "xOn Our Kneesx",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 24000
+        },
+        {
+          "title": "Scenes From Parisian Life",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 81000
+        },
+        {
+          "title": "It’s My Job to Keep Punk Rock Elite",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 84000
+        },
+        {
+          "title": "Quit Your Job",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 23000
+        },
+        {
+          "title": "The Ballad of Wilhelm Fink",
+          "discNumber": 1,
+          "position": 21,
+          "durationMs": 33000
+        },
+        {
+          "title": "You Gotta Stay Positive",
+          "discNumber": 1,
+          "position": 22,
+          "durationMs": 5000
+        }
+      ]
+    },
+    {
+      "mbid": "aa6f1d33-f9d1-42d1-bff1-bea7804cbcb2",
+      "releaseMbid": "0b7bdc29-912a-459a-a6cb-b604d643e60e",
+      "title": "This Is How the Wind Shifts",
+      "type": "ALBUM",
+      "releaseDate": "2013-02-05",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/aa6f1d33-f9d1-42d1-bff1-bea7804cbcb2/front-1200",
+      "tracks": [
+        {
+          "title": "Stand Amid the Roar",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 184000
+        },
+        {
+          "title": "On Brave Mountains We Conquer",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 156000
+        },
+        {
+          "title": "Massachusetts",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 177000
+        },
+        {
+          "title": "This Is How",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 83000
+        },
+        {
+          "title": "A Better Place",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 188000
+        },
+        {
+          "title": "Hide Your Secrets",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 237000
+        },
+        {
+          "title": "Arrivals",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 76000
+        },
+        {
+          "title": "In a Place of Solace",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 191000
+        },
+        {
+          "title": "In Silent Seas We Drown",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 210000
+        },
+        {
+          "title": "California",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 226000
+        },
+        {
+          "title": "The Wind Shifts",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 80000
+        },
+        {
+          "title": "To Live and to Lose",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 238000
+        },
+        {
+          "title": "With Second Chances",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 223000
+        },
+        {
+          "title": "Departures",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 147000
+        }
+      ]
+    },
+    {
+      "mbid": "941ee570-faa3-442b-846e-0126da9cdbf0",
+      "releaseMbid": "e5a2055a-8d6b-404f-9d16-03ce3c45782c",
+      "title": "I Am Alive in Everything I Touch",
+      "type": "ALBUM",
+      "releaseDate": "2015-05-18",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/941ee570-faa3-442b-846e-0126da9cdbf0/front-1200",
+      "tracks": [
+        {
+          "title": "Borealis: Toronto (abridged)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 46000
+        },
+        {
+          "title": "Borealis: A Midwestern State of Emergency",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 215000
+        },
+        {
+          "title": "Borealis: Face of the Earth",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 183000
+        },
+        {
+          "title": "Austeralis: Heaven, Hell and Purgatory",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 177000
+        },
+        {
+          "title": "Austeralis: Buried at Sea",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 186000
+        },
+        {
+          "title": "Austeralis: Late on 6th",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 305000
+        },
+        {
+          "title": "Zephyrus: Milestone",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 208000
+        },
+        {
+          "title": "Zephyrus: The Continual Condition",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 210000
+        },
+        {
+          "title": "Zephyrus: Desert Nights",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 182000
+        },
+        {
+          "title": "Eurus: In the Dark",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 207000
+        },
+        {
+          "title": "Eurus: Je me souviens",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 207000
+        },
+        {
+          "title": "Eurus: Toronto (unabridged)",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 301000
+        }
+      ]
+    },
+    {
+      "mbid": "f9347123-68af-48ce-8cf5-a04567d09cc6",
+      "releaseMbid": "0ab2da23-1988-4632-b2bd-1dc18c8d60b2",
+      "title": "Dead Reflection",
+      "type": "ALBUM",
+      "releaseDate": "2017-07-14",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f9347123-68af-48ce-8cf5-a04567d09cc6/front-1200",
+      "tracks": [
+        {
+          "title": "Last Looks",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 174000
+        },
+        {
+          "title": "Retrograde",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 191000
+        },
+        {
+          "title": "Lost Positives",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 222000
+        },
+        {
+          "title": "Ghost",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 211000
+        },
+        {
+          "title": "Aquamarine",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 224000
+        },
+        {
+          "title": "Mirror Box",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 228000
+        },
+        {
+          "title": "Demons",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 183000
+        },
+        {
+          "title": "The Afterglow",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 189000
+        },
+        {
+          "title": "Cut and Run",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 172000
+        },
+        {
+          "title": "Secret’s Safe",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 224000
+        },
+        {
+          "title": "Whiplash",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 178000
+        },
+        {
+          "title": "Wake Up",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 289000
+        }
+      ]
+    },
+    {
+      "mbid": "cb470fb9-ca18-4764-9a60-f1cd17f5cbc5",
+      "releaseMbid": "0d6261eb-ee0d-4a7e-9917-3e5e28398018",
+      "title": "A Beautiful Place to Drown",
+      "type": "ALBUM",
+      "releaseDate": "2020-03-06",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/cb470fb9-ca18-4764-9a60-f1cd17f5cbc5/front-1200",
+      "tracks": [
+        {
+          "title": "Bad Habits",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Burn It Down",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Where Are You",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Infinite",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Shape Shift",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "All on Me",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Madness",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Say Yes!",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "Stop",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "September 14th",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": null
+        },
+        {
+          "title": "Coming Down",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": null
+        },
+        {
+          "title": "Take What You Give",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "0c33c44a-4f6b-4e41-bf26-76641420f9a3",
+      "releaseMbid": "7dc9a7b3-ce7a-439d-b015-557f61767965",
+      "title": "Misery Made Me",
+      "type": "ALBUM",
+      "releaseDate": "2022-05-06",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0c33c44a-4f6b-4e41-bf26-76641420f9a3/front-1200",
+      "tracks": [
+        {
+          "title": "Our Song",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 191000
+        },
+        {
+          "title": "Die Alone",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 167000
+        },
+        {
+          "title": "Ultraviolet",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 173586
+        },
+        {
+          "title": "Cold Blood",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 172400
+        },
+        {
+          "title": "It’s Over",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 203800
+        },
+        {
+          "title": "The Altar/Mary",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 238586
+        },
+        {
+          "title": "Slow Motion",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 188600
+        },
+        {
+          "title": "Don’t Wait Up",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 207600
+        },
+        {
+          "title": "Bankrupt",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 201600
+        },
+        {
+          "title": "Live Like This",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 236653
+        },
+        {
+          "title": "Misery",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 248160
+        }
+      ]
+    },
+    {
+      "mbid": "dc393fcb-93b6-4c0a-a1ae-0faa9dd60581",
+      "releaseMbid": "138d832e-66c3-4f8b-a6ac-ca8f06446beb",
+      "title": "Antibloom",
+      "type": "ALBUM",
+      "releaseDate": "2025-02-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/dc393fcb-93b6-4c0a-a1ae-0faa9dd60581/front-1200",
+      "tracks": [
+        {
+          "title": "Mercy Mercy",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 197000
+        },
+        {
+          "title": "Don’t Let Me Get Too Low",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 159000
+        },
+        {
+          "title": "Confession",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 204000
+        },
+        {
+          "title": "A Little Fight",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 92000
+        },
+        {
+          "title": "Skin & Bones",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 189000
+        },
+        {
+          "title": "I Will Destroy This",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 165000
+        },
+        {
+          "title": "Stress",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 179000
+        },
+        {
+          "title": "Cherry Coke",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 188000
+        }
+      ]
+    },
+    {
+      "mbid": "80b668c0-1967-47cb-a67b-609b79f5c200",
+      "releaseMbid": "04323229-91b3-4fc6-88b2-95587708b1a2",
+      "title": "Pink Moon",
+      "type": "ALBUM",
+      "releaseDate": "2025-09-12",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/80b668c0-1967-47cb-a67b-609b79f5c200/front-1200",
+      "tracks": [
+        {
+          "title": "I Love You but I Have to Let You Go",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 105520
+        },
+        {
+          "title": "Negative Space",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 198880
+        },
+        {
+          "title": "Drain the Blood",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 170000
+        },
+        {
+          "title": "The Fatalist",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 170000
+        },
+        {
+          "title": "Widowmaker",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 170000
+        },
+        {
+          "title": "Autopilot",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 192000
+        },
+        {
+          "title": "Death Hold",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 196400
+        },
+        {
+          "title": "Dying Game",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 208000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

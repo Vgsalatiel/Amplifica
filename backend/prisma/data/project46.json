@@ -1,0 +1,247 @@
+{
+  "generatedAt": "2026-11-19T11:59:46.524Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "d24bd06d-4a7e-44aa-9c45-c4a5692dc50e",
+    "name": "Project46",
+    "slug": "project46",
+    "type": "BAND",
+    "country": "BR",
+    "city": "São Paulo",
+    "formedYear": 2007,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/d24bd06d-4a7e-44aa-9c45-c4a5692dc50e"
+      }
+    ],
+    "genres": [
+      "metalcore",
+      "metal"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "5943d5af-6b28-47a5-b58a-256d474a4676",
+      "releaseMbid": "78f18c5b-615d-42b9-aaff-e5a491345e77",
+      "title": "Doa a Quem Doer",
+      "type": "ALBUM",
+      "releaseDate": "2011-06-03",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/5943d5af-6b28-47a5-b58a-256d474a4676/front-1200",
+      "tracks": [
+        {
+          "title": "809072",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 60000
+        },
+        {
+          "title": "Atrás das Linhas Inimigas",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 264000
+        },
+        {
+          "title": "Impunidade",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 247000
+        },
+        {
+          "title": "Capa de Jornal",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 198000
+        },
+        {
+          "title": "Se Quiser",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 388000
+        },
+        {
+          "title": "Violência Gratuita",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 215000
+        },
+        {
+          "title": "Amanhã Negro feat. Dijjy (Ponto Nulo no Céu)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 271000
+        },
+        {
+          "title": "#46",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 104000
+        },
+        {
+          "title": "Dor",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 245000
+        },
+        {
+          "title": "No Rastro do Medo",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 335000
+        },
+        {
+          "title": "Acorda pra Vida",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 469000
+        }
+      ]
+    },
+    {
+      "mbid": "b2ced750-031f-4cf4-be71-51ebd3880448",
+      "releaseMbid": "2079f3d3-97ca-40cf-9eb8-fe1fc2f505e6",
+      "title": "Que Seja Feita a Nossa Vontade",
+      "type": "ALBUM",
+      "releaseDate": "2014-04-08",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b2ced750-031f-4cf4-be71-51ebd3880448/front-1200",
+      "tracks": [
+        {
+          "title": "Caos Renomeado",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 281000
+        },
+        {
+          "title": "Foda-Se (Se Depender de Nós)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 269000
+        },
+        {
+          "title": "Erro +55",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 280000
+        },
+        {
+          "title": "Desordem e Progresso",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 321000
+        },
+        {
+          "title": "Carranca",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 312000
+        },
+        {
+          "title": "Na Vala",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 328000
+        },
+        {
+          "title": "Empedrado",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 268000
+        },
+        {
+          "title": "Veneno",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 258000
+        },
+        {
+          "title": "Em Nome de Quem",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 264000
+        },
+        {
+          "title": "Vergonha na Cara",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 232000
+        }
+      ]
+    },
+    {
+      "mbid": "ed9bc9c6-9ee0-4837-ad32-e711b7752baf",
+      "releaseMbid": "52b336c4-bae6-4e2f-a9e6-4bed1226c3d4",
+      "title": "Tr3s",
+      "type": "ALBUM",
+      "releaseDate": "2017-11-10",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Terra de Ninguém",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 263810
+        },
+        {
+          "title": "Corre",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 152084
+        },
+        {
+          "title": "Pânico",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 219951
+        },
+        {
+          "title": "Rédeas",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 225985
+        },
+        {
+          "title": "Realidade Urbana",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 221857
+        },
+        {
+          "title": "Marginal",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 161828
+        },
+        {
+          "title": "Pode Pá",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 311693
+        },
+        {
+          "title": "Anônimo",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 312868
+        },
+        {
+          "title": "Um Passo à Frente",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 319582
+        },
+        {
+          "title": "Tr3s",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 319582
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

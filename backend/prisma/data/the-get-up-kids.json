@@ -1,0 +1,789 @@
+{
+  "generatedAt": "2026-11-19T11:56:08.253Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "1b54e90c-638e-4fdd-a20e-4ab09db9fdaf",
+    "name": "The Get Up Kids",
+    "slug": "the-get-up-kids",
+    "type": "BAND",
+    "country": "US",
+    "city": "Kansas City",
+    "formedYear": 1995,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/1b54e90c-638e-4fdd-a20e-4ab09db9fdaf"
+      }
+    ],
+    "genres": [
+      "emo",
+      "alternative-rock",
+      "indie-rock"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "bc9a72e1-a018-30c5-993d-6b25949de89a",
+      "releaseMbid": "0ce252db-dded-43b5-8dfd-d060ebf01b89",
+      "title": "Four Minute Mile",
+      "type": "ALBUM",
+      "releaseDate": "1997-09-30",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/bc9a72e1-a018-30c5-993d-6b25949de89a/front-1200",
+      "tracks": [
+        {
+          "title": "Coming Clean",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 127373
+        },
+        {
+          "title": "Don’t Hate Me",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 174280
+        },
+        {
+          "title": "Fall Semester",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 201386
+        },
+        {
+          "title": "Stay Gold, Ponyboy",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 174853
+        },
+        {
+          "title": "Lowercase West Thomas",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 118600
+        },
+        {
+          "title": "Washington Square Park",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 188146
+        },
+        {
+          "title": "Last Place You Look",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 150666
+        },
+        {
+          "title": "Better Half",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 204733
+        },
+        {
+          "title": "No Love",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 184653
+        },
+        {
+          "title": "Shorty",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 202146
+        },
+        {
+          "title": "Michelle With One “L”",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 364213
+        }
+      ]
+    },
+    {
+      "mbid": "11e9a0c1-9192-3f8b-a29f-8ab128bc50ff",
+      "releaseMbid": "2dc5023c-839d-4041-a9fe-2781f20e1e12",
+      "title": "Something to Write Home About",
+      "type": "ALBUM",
+      "releaseDate": "1999-09-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/11e9a0c1-9192-3f8b-a29f-8ab128bc50ff/front-1200",
+      "tracks": [
+        {
+          "title": "Holiday",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 209266
+        },
+        {
+          "title": "Action & Action",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 245840
+        },
+        {
+          "title": "Valentine",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 259266
+        },
+        {
+          "title": "Red Letter Day",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 176293
+        },
+        {
+          "title": "Out of Reach",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 226573
+        },
+        {
+          "title": "Ten Minutes",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 192666
+        },
+        {
+          "title": "The Company Dime",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 246946
+        },
+        {
+          "title": "My Apology",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 204253
+        },
+        {
+          "title": "I’m a Loner Dottie, a Rebel",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 188760
+        },
+        {
+          "title": "Long Goodnight",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 289906
+        },
+        {
+          "title": "Close to Home",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 230760
+        },
+        {
+          "title": "I’ll Catch You",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 260066
+        }
+      ]
+    },
+    {
+      "mbid": "e57291ee-3250-4195-af32-e9e65f29a2f4",
+      "releaseMbid": "1f7442fd-f57b-498a-bcd9-882427035681",
+      "title": "On a Wire Demos",
+      "type": "ALBUM",
+      "releaseDate": "2002",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Overdue",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 182909
+        },
+        {
+          "title": "Stay Gone",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 183719
+        },
+        {
+          "title": "Let the Reigns Go Loose",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 267755
+        },
+        {
+          "title": "Take the Fall",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 227500
+        },
+        {
+          "title": "Grunge Pig",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 258142
+        },
+        {
+          "title": "High as the Moon",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 230635
+        },
+        {
+          "title": "All That I Know",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 205453
+        },
+        {
+          "title": "Walking on a Wire",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 346070
+        },
+        {
+          "title": "Wish You Were Here",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 221413
+        },
+        {
+          "title": "Campfire Kansas",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 213080
+        },
+        {
+          "title": "The Worst Idea",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 220630
+        },
+        {
+          "title": "Hannah Hold On",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 219846
+        },
+        {
+          "title": "All Eyes on the Liar",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 209136
+        },
+        {
+          "title": "The End Is in Sight",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 199105
+        },
+        {
+          "title": "My Photographs",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 205244
+        },
+        {
+          "title": "Wings and Wheels",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 177188
+        },
+        {
+          "title": "Through the Haze",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 295941
+        },
+        {
+          "title": "I'll Catch You",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 225671
+        },
+        {
+          "title": "Lost in the Light",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 266866
+        },
+        {
+          "title": "Send Us a Saint",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 234736
+        }
+      ]
+    },
+    {
+      "mbid": "24598a98-a45c-3775-98c7-2eeba3ea2604",
+      "releaseMbid": "9a871728-6021-4a23-8dbd-1b4ffdb18715",
+      "title": "On a Wire",
+      "type": "ALBUM",
+      "releaseDate": "2002-05-14",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/24598a98-a45c-3775-98c7-2eeba3ea2604/front-1200",
+      "tracks": [
+        {
+          "title": "Overdue",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 179200
+        },
+        {
+          "title": "Stay Gone",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 184093
+        },
+        {
+          "title": "Let the Reigns Go Loose",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 222640
+        },
+        {
+          "title": "Fall From Grace",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 218866
+        },
+        {
+          "title": "Grunge Pig",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 248933
+        },
+        {
+          "title": "High as the Moon",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 206800
+        },
+        {
+          "title": "All That I Know",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 201400
+        },
+        {
+          "title": "Walking on a Wire",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 316666
+        },
+        {
+          "title": "Wish You Were Here",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 211800
+        },
+        {
+          "title": "Campfire Kansas",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 183733
+        },
+        {
+          "title": "The Worst Idea",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 204733
+        },
+        {
+          "title": "Hannah Hold On",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 227760
+        }
+      ]
+    },
+    {
+      "mbid": "955e006d-4835-4cd4-aadf-1b9f5a575f65",
+      "releaseMbid": "6d0f8e4e-d645-43d5-a090-c0a624da12a0",
+      "title": "Guilt Show Demos",
+      "type": "ALBUM",
+      "releaseDate": "2004",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Man of Conviction (piano demo)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 103392
+        },
+        {
+          "title": "Man of Conviction (acoustic demo)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 140173
+        },
+        {
+          "title": "The One You Want (Robbie's House demo)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 252525
+        },
+        {
+          "title": "Never Be Alone (piano demo)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 188107
+        },
+        {
+          "title": "Wouldn't Believe It (Robbie's House demo)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 179800
+        },
+        {
+          "title": "Holy Roman (acoustic demo)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 179461
+        },
+        {
+          "title": "Holy Roman (live at the Lodge demo)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 218200
+        },
+        {
+          "title": "Martyr Me (version #1 demo)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 228519
+        },
+        {
+          "title": "Martyr Me (version #2 acoustic demo)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 151588
+        },
+        {
+          "title": "While You Were Sleeping (demo)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 196963
+        },
+        {
+          "title": "Martyr Me (live at the Lodge demo)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 232463
+        },
+        {
+          "title": "How Long Is Too Long (Scott Litt demo)",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 199288
+        },
+        {
+          "title": "Sick in Her Skin (Robbie's House demo)",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 258690
+        },
+        {
+          "title": "Take the Fall (demo)",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 220839
+        },
+        {
+          "title": "In Your Sea (Robbie's Basement demo vocal #1)",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 227448
+        },
+        {
+          "title": "In Your Sea (Robbie's Basement demo vocal #2)",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 227448
+        },
+        {
+          "title": "Sympathy (Solo acoustic demo)",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 235937
+        },
+        {
+          "title": "The Dark Night of the Soul (piano demo)",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 171781
+        },
+        {
+          "title": "Is There a Way Out (Robbie's House demo)",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 284917
+        },
+        {
+          "title": "Conversation (Robbie's Basement demo)",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 287164
+        }
+      ]
+    },
+    {
+      "mbid": "fcd9c6ae-a4a8-3e59-828e-55f6b1a70198",
+      "releaseMbid": "7f60b7c8-3293-4d36-8fa8-c1fd6c897278",
+      "title": "Guilt Show",
+      "type": "ALBUM",
+      "releaseDate": "2004-03-02",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/fcd9c6ae-a4a8-3e59-828e-55f6b1a70198/front-1200",
+      "tracks": [
+        {
+          "title": "Man of Conviction",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 93666
+        },
+        {
+          "title": "The One You Want",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 195040
+        },
+        {
+          "title": "Never Be Alone",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 197226
+        },
+        {
+          "title": "Wouldn’t Believe It",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 227080
+        },
+        {
+          "title": "Holy Roman",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 170773
+        },
+        {
+          "title": "Martyr Me",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 206480
+        },
+        {
+          "title": "How Long Is Too Long",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 144546
+        },
+        {
+          "title": "Sick in Her Skin",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 265346
+        },
+        {
+          "title": "In Your Sea",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 182266
+        },
+        {
+          "title": "Sympathy",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 189440
+        },
+        {
+          "title": "The Dark Night of the Soul",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 181320
+        },
+        {
+          "title": "Is There a Way Out",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 380293
+        },
+        {
+          "title": "Conversation",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 296493
+        }
+      ]
+    },
+    {
+      "mbid": "072148a8-16ce-4a50-ab15-19c3ea1c1aec",
+      "releaseMbid": "a6d2beb7-6acf-4bfb-a2bf-e2a6249f6504",
+      "title": "There Are Rules",
+      "type": "ALBUM",
+      "releaseDate": "2011-01-25",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/072148a8-16ce-4a50-ab15-19c3ea1c1aec/front-1200",
+      "tracks": [
+        {
+          "title": "Tithe",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 219000
+        },
+        {
+          "title": "Regent’s Court",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 126000
+        },
+        {
+          "title": "Shatter Your Lungs",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 169000
+        },
+        {
+          "title": "Automatic",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 175000
+        },
+        {
+          "title": "Pararelevant",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 217000
+        },
+        {
+          "title": "Rally ’round the Fool",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 317000
+        },
+        {
+          "title": "Better Lie",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 258000
+        },
+        {
+          "title": "Keith Case",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 245000
+        },
+        {
+          "title": "The Widow Paris",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 217000
+        },
+        {
+          "title": "Birmingham",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 156000
+        },
+        {
+          "title": "When It Dies",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 244000
+        },
+        {
+          "title": "Rememorable",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 179000
+        }
+      ]
+    },
+    {
+      "mbid": "56fc375f-822d-4227-bf70-597a6525be72",
+      "releaseMbid": "309f21a4-2def-4427-81c6-61be7cdfbcfc",
+      "title": "Problems",
+      "type": "ALBUM",
+      "releaseDate": "2019-05-10",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/56fc375f-822d-4227-bf70-597a6525be72/front-1200",
+      "tracks": [
+        {
+          "title": "Satellite",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 175000
+        },
+        {
+          "title": "The Problem Is Me",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 162000
+        },
+        {
+          "title": "Salina",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 278000
+        },
+        {
+          "title": "Now or Never",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 185000
+        },
+        {
+          "title": "Lou Barlow",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 137000
+        },
+        {
+          "title": "Fairweather Friends",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 204000
+        },
+        {
+          "title": "Common Ground",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 244000
+        },
+        {
+          "title": "Waking Up Alone",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 208000
+        },
+        {
+          "title": "The Advocate",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 192000
+        },
+        {
+          "title": "Symphony of Silence",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 176000
+        },
+        {
+          "title": "Brakelines",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 141000
+        },
+        {
+          "title": "Your Ghost Is Gone",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 228000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

@@ -1,0 +1,211 @@
+{
+  "generatedAt": "2026-11-19T11:50:26.843Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "b14d213d-8070-4c04-ab9d-bcd02629b27e",
+    "name": "Amandinho",
+    "slug": "amandinho",
+    "type": "BAND",
+    "country": "BR",
+    "city": null,
+    "formedYear": 2014,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/b14d213d-8070-4c04-ab9d-bcd02629b27e"
+      }
+    ],
+    "genres": [
+      "emo",
+      "punk-rock"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "8c6c2b32-32ed-4495-978f-ecbe52476e26",
+      "releaseMbid": "91f701d9-b540-4265-9e92-24c4a00447e5",
+      "title": "Coisas Novas São Assim",
+      "type": "EP",
+      "releaseDate": "2015-05-06",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "BILL MURRAY",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 175000
+        },
+        {
+          "title": "Gruta de Lourdes",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 262000
+        },
+        {
+          "title": "Rei da Paquera",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 252000
+        },
+        {
+          "title": "Coisas Novas São Assim",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 349000
+        }
+      ]
+    },
+    {
+      "mbid": "d8e436a1-7595-45ef-8781-717991419bd8",
+      "releaseMbid": "e064a046-8bc4-4f5b-91fb-52f1cdd15583",
+      "title": "Rugby Japonês",
+      "type": "ALBUM",
+      "releaseDate": "2015-11-11",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Lacrou",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 323000
+        },
+        {
+          "title": "Dicas de Moda",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 260000
+        },
+        {
+          "title": "Bike",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 156000
+        },
+        {
+          "title": "Heavy Metal 2",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 503000
+        },
+        {
+          "title": "Bill Murray",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 157000
+        },
+        {
+          "title": "Sereias",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 254000
+        },
+        {
+          "title": "Rei da Paquera",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 257000
+        },
+        {
+          "title": "Get Away",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 131000
+        },
+        {
+          "title": "Não Seja Besta",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 344000
+        },
+        {
+          "title": "Gruta de Lourdes",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 233000
+        },
+        {
+          "title": "Smile in Spanish",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 352000
+        }
+      ]
+    },
+    {
+      "mbid": "a95cab0b-43e1-4952-999b-bb3cccbb9f16",
+      "releaseMbid": "650c4af0-3561-4417-8eed-1a06747f5b7a",
+      "title": "Ocultismo Oldschool",
+      "type": "ALBUM",
+      "releaseDate": "2017-10-08",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a95cab0b-43e1-4952-999b-bb3cccbb9f16/front-1200",
+      "tracks": [
+        {
+          "title": "Bruxismo",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 314000
+        },
+        {
+          "title": "Academia Brasileira de Vandalismo Comparado",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 352000
+        },
+        {
+          "title": "Daqui a Pouco eu Morro",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 264000
+        },
+        {
+          "title": "Feitiço do Tempo",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 269000
+        },
+        {
+          "title": "Storm",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 295000
+        },
+        {
+          "title": "Alameda dos Anjos",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 227000
+        },
+        {
+          "title": "Broder",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 260000
+        },
+        {
+          "title": "Raiva do Mundo",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 398000
+        },
+        {
+          "title": "Apocalipse Bode",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 406000
+        },
+        {
+          "title": "Carry On (Angra Cover)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 296000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

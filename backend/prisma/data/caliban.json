@@ -1,0 +1,1593 @@
+{
+  "generatedAt": "2026-11-18T20:18:44.626Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "7bace718-5f56-4311-9568-e46a70830605",
+    "name": "Caliban",
+    "slug": "caliban",
+    "type": "BAND",
+    "country": "DE",
+    "city": "Hattingen",
+    "formedYear": 1997,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/7bace718-5f56-4311-9568-e46a70830605"
+      }
+    ],
+    "genres": [
+      "metalcore",
+      "melodic-hardcore",
+      "deathcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "77046be1-b0e6-34ef-a643-fabbed3c5aec",
+      "releaseMbid": "fedf6312-2ae8-44e6-9d07-30617fe7098f",
+      "title": "Caliban",
+      "type": "EP",
+      "releaseDate": "1998",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/77046be1-b0e6-34ef-a643-fabbed3c5aec/front-1200",
+      "tracks": [
+        {
+          "title": "One More Lie",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 278133
+        },
+        {
+          "title": "Sophisticated",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 304453
+        },
+        {
+          "title": "Empty Silence",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 251733
+        },
+        {
+          "title": "Ignorance",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 227146
+        },
+        {
+          "title": "Sick",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 207826
+        },
+        {
+          "title": "One Day",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 292707
+        }
+      ]
+    },
+    {
+      "mbid": "af7efb39-5727-44ae-91da-782982615667",
+      "releaseMbid": "7f1a4e4f-8c5f-49b5-9831-dc1bee61cfb8",
+      "title": "Advance Type",
+      "type": "EP",
+      "releaseDate": "1999",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/af7efb39-5727-44ae-91da-782982615667/front-1200",
+      "tracks": [
+        {
+          "title": "La difficulté d'être",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 246000
+        },
+        {
+          "title": "Boredo(o)m",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 161000
+        },
+        {
+          "title": "L'enfer c'est les autres",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 169000
+        }
+      ]
+    },
+    {
+      "mbid": "4687c11f-bb34-3472-b437-d0d9bd3d6bac",
+      "releaseMbid": "6e33a920-5545-4ba2-8b9d-8e00e3c89a4c",
+      "title": "A Small Boy and a Grey Heaven",
+      "type": "ALBUM",
+      "releaseDate": "1999-12-14",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4687c11f-bb34-3472-b437-d0d9bd3d6bac/front-1200",
+      "tracks": [
+        {
+          "title": "Intro",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 79666
+        },
+        {
+          "title": "Arena of Concealment",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 169680
+        },
+        {
+          "title": "In My Heart",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 150493
+        },
+        {
+          "title": "Destruction",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 268400
+        },
+        {
+          "title": "A Small Boy and a Grey Heaven",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 254840
+        },
+        {
+          "title": "Skit I",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 39813
+        },
+        {
+          "title": "A Faint Moment of Fortune",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 244866
+        },
+        {
+          "title": "Skit II",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 67933
+        },
+        {
+          "title": "Supervision Until Death",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 241826
+        },
+        {
+          "title": "Always Following Life",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 203226
+        },
+        {
+          "title": "Pollution",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 209786
+        },
+        {
+          "title": "Sylca",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 81160
+        },
+        {
+          "title": "Intolerance (Ignorance II)",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 226106
+        },
+        {
+          "title": "De Rebus Que Rerunter",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 234106
+        },
+        {
+          "title": "Outro",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 40493
+        }
+      ]
+    },
+    {
+      "mbid": "21715592-1e81-357c-a13b-d81bf0610762",
+      "releaseMbid": "83de8798-78e2-4e59-b1fd-605e5fab0a08",
+      "title": "The Split Program",
+      "type": "ALBUM",
+      "releaseDate": "2000",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/21715592-1e81-357c-a13b-d81bf0610762/front-1200",
+      "tracks": [
+        {
+          "title": "Intro",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 32253
+        },
+        {
+          "title": "Assassin of Love",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 202280
+        },
+        {
+          "title": "A Summerdream",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 236120
+        },
+        {
+          "title": "Sunday’s Words",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 211880
+        },
+        {
+          "title": "Partisan",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 197506
+        },
+        {
+          "title": "Outro",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 51826
+        },
+        {
+          "title": "Suffocated in the Exhaust of Our Machines",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 297480
+        },
+        {
+          "title": "No Single Inch",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 161240
+        },
+        {
+          "title": "The Seventh Cross",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 222040
+        },
+        {
+          "title": "One More Lie",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 303746
+        }
+      ]
+    },
+    {
+      "mbid": "49d82370-6341-3c90-a3a3-8649bc2f0cd9",
+      "releaseMbid": "20bcea69-b943-4761-a9a1-54cf249467f1",
+      "title": "Vent",
+      "type": "ALBUM",
+      "releaseDate": "2001-04",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/49d82370-6341-3c90-a3a3-8649bc2f0cd9/front-1200",
+      "tracks": [
+        {
+          "title": "Entrance",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 95600
+        },
+        {
+          "title": "Fire of Night",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 192666
+        },
+        {
+          "title": "Love Taken Away",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 223080
+        },
+        {
+          "title": "In the Eye of the Storm",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 289426
+        },
+        {
+          "title": "About Time and Decisions",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 341746
+        },
+        {
+          "title": "Roots of Pain",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 281693
+        },
+        {
+          "title": "Happiness in Slavery",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 186640
+        },
+        {
+          "title": "Tyranny of Small Misery",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 279306
+        },
+        {
+          "title": "For",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 287866
+        },
+        {
+          "title": "My Last Beauty",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 274613
+        },
+        {
+          "title": "New Kind of Freedom",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 239720
+        },
+        {
+          "title": "Sycamore Dreams",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 232360
+        },
+        {
+          "title": "Erase the Enemy",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 274453
+        },
+        {
+          "title": "Exit",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 107560
+        }
+      ]
+    },
+    {
+      "mbid": "4d8c33ea-85e6-39f6-b764-31de94c33a04",
+      "releaseMbid": "b6ea5176-0d73-3d1f-8921-e914098de9d0",
+      "title": "Shadow Hearts",
+      "type": "ALBUM",
+      "releaseDate": "2003-01-08",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4d8c33ea-85e6-39f6-b764-31de94c33a04/front-1200",
+      "tracks": [
+        {
+          "title": "Dark Shadows",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 92626
+        },
+        {
+          "title": "Forsaken Horizon",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 172666
+        },
+        {
+          "title": "Storm of Rage",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 242000
+        },
+        {
+          "title": "Vicious Circle",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 233706
+        },
+        {
+          "title": "Bad Dream",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 178360
+        },
+        {
+          "title": "The Seventh Soul",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 198000
+        },
+        {
+          "title": "Scream From the Abyss",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 221773
+        },
+        {
+          "title": "Detect Your Liberty",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 213426
+        },
+        {
+          "title": "Fire Is My Witness",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 195506
+        },
+        {
+          "title": "Between the Worlds",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 184093
+        },
+        {
+          "title": "A Piece of My Life",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 192840
+        },
+        {
+          "title": "Everlasting...",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 196800
+        }
+      ]
+    },
+    {
+      "mbid": "315507a0-794a-3292-854f-e0b5972e4a73",
+      "releaseMbid": "e88ff85f-9c29-3369-9b47-1f98e48d3df0",
+      "title": "The Opposite From Within",
+      "type": "ALBUM",
+      "releaseDate": "2004-09-13",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "The Beloved and the Hatred",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 227613
+        },
+        {
+          "title": "Goodbye",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 241106
+        },
+        {
+          "title": "I’ve Sold Myself",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 238026
+        },
+        {
+          "title": "Stand Up",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 228573
+        },
+        {
+          "title": "Senseless Fight",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 237186
+        },
+        {
+          "title": "Stigmata",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 183306
+        },
+        {
+          "title": "Certainty… Corpses Bleed Cold",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 266133
+        },
+        {
+          "title": "My Little Secret",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 242973
+        },
+        {
+          "title": "One of These Days",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 198040
+        },
+        {
+          "title": "Salvation",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 232693
+        },
+        {
+          "title": "Diary of an Addict",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 333786
+        },
+        {
+          "title": "100 Suns",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 236266
+        }
+      ]
+    },
+    {
+      "mbid": "dcef1209-8f24-34ed-b075-40136e076408",
+      "releaseMbid": "149f2bfa-b6ea-4d04-87fb-08742eacc0ae",
+      "title": "The Split Program II",
+      "type": "ALBUM",
+      "releaseDate": "2005-07-18",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/dcef1209-8f24-34ed-b075-40136e076408/front-1200",
+      "tracks": [
+        {
+          "title": "Unleash Enlightenment",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 303973
+        },
+        {
+          "title": "No One Will Shed a Tear",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 281413
+        },
+        {
+          "title": "Nyfædd Von",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 169413
+        },
+        {
+          "title": "If This Is a Man",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 159093
+        },
+        {
+          "title": "Downfall of Christ",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 190346
+        },
+        {
+          "title": "Destroy Fascism",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 119853
+        },
+        {
+          "title": "The Revenge",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 200160
+        },
+        {
+          "title": "Arena of Concealment",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 198280
+        },
+        {
+          "title": "One Day",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 142040
+        },
+        {
+          "title": "A Summer Dream",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 281253
+        },
+        {
+          "title": "One More Lie",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 215174
+        },
+        {
+          "title": "Intro",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": 32253
+        },
+        {
+          "title": "Assassin of Love",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": 202280
+        },
+        {
+          "title": "A Summerdream",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": 236120
+        },
+        {
+          "title": "Sunday’s Words",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": 211880
+        },
+        {
+          "title": "Partisan",
+          "discNumber": 2,
+          "position": 5,
+          "durationMs": 197506
+        },
+        {
+          "title": "Outro",
+          "discNumber": 2,
+          "position": 6,
+          "durationMs": 51826
+        },
+        {
+          "title": "Suffocated in the Exhaust of Our Machines",
+          "discNumber": 2,
+          "position": 7,
+          "durationMs": 297480
+        },
+        {
+          "title": "No Single Inch",
+          "discNumber": 2,
+          "position": 8,
+          "durationMs": 161240
+        },
+        {
+          "title": "The Seventh Cross",
+          "discNumber": 2,
+          "position": 9,
+          "durationMs": 222040
+        },
+        {
+          "title": "One More Lie",
+          "discNumber": 2,
+          "position": 10,
+          "durationMs": 303374
+        }
+      ]
+    },
+    {
+      "mbid": "1e0d582f-e0de-3c2b-b0b7-567c4ec59501",
+      "releaseMbid": "957519a7-6f4f-4a76-b3bb-9fa0fd5e58ff",
+      "title": "The Undying Darkness",
+      "type": "ALBUM",
+      "releaseDate": "2006-01-22",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/1e0d582f-e0de-3c2b-b0b7-567c4ec59501/front-1200",
+      "tracks": [
+        {
+          "title": "Intro",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 65706
+        },
+        {
+          "title": "I Rape Myself",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 203586
+        },
+        {
+          "title": "Song About Killing",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 199186
+        },
+        {
+          "title": "It’s Our Burden to Bleed",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 228693
+        },
+        {
+          "title": "Nothing Is Forever",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 234293
+        },
+        {
+          "title": "Together Alone",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 190253
+        },
+        {
+          "title": "My Fiction Beauty",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 280320
+        },
+        {
+          "title": "No More 2nd Chances",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 244893
+        },
+        {
+          "title": "I Refuse to Keep on Living…",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 300893
+        },
+        {
+          "title": "Sick of Running Away",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 227466
+        },
+        {
+          "title": "Moment of Clarity",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 159973
+        },
+        {
+          "title": "Army of Me",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 213120
+        },
+        {
+          "title": "Room of Nowhere",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 222666
+        }
+      ]
+    },
+    {
+      "mbid": "e514a3da-dafa-3b55-8a7c-ce69f93e64f8",
+      "releaseMbid": "93433cee-9135-49be-a913-f04a9c3bfa4c",
+      "title": "The Awakening",
+      "type": "ALBUM",
+      "releaseDate": "2007-03-28",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/e514a3da-dafa-3b55-8a7c-ce69f93e64f8/front-1200",
+      "tracks": [
+        {
+          "title": "I Will Never Let You Down",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 214493
+        },
+        {
+          "title": "Let Go",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 241186
+        },
+        {
+          "title": "Another Cold Day",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 277146
+        },
+        {
+          "title": "My Time Has Come",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 223493
+        },
+        {
+          "title": "Life Is Too Short",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 225026
+        },
+        {
+          "title": "Give Me a Reason",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 238146
+        },
+        {
+          "title": "Stop Running",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 201866
+        },
+        {
+          "title": "The Awakening",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 237386
+        },
+        {
+          "title": "I Believe…",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 203346
+        },
+        {
+          "title": "Rise and Fight",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 219533
+        },
+        {
+          "title": "Nowhere to Run, No Place to Hide",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 221013
+        },
+        {
+          "title": "I’ll Show No Fear",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 212373
+        }
+      ]
+    },
+    {
+      "mbid": "9667fed8-727f-4182-9a04-9687a59f8c34",
+      "releaseMbid": "33daa05f-2382-4c7d-a283-2740f2ecdf56",
+      "title": "Say Hello to Tragedy",
+      "type": "ALBUM",
+      "releaseDate": "2009-08-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/9667fed8-727f-4182-9a04-9687a59f8c34/front-1200",
+      "tracks": [
+        {
+          "title": "24 Years",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 228000
+        },
+        {
+          "title": "Love Song",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 208000
+        },
+        {
+          "title": "Caliban’s Revenge",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 240000
+        },
+        {
+          "title": "End This Sickness",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 258000
+        },
+        {
+          "title": "Walk Like the Dead",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 257000
+        },
+        {
+          "title": "No One Is Safe",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 223000
+        },
+        {
+          "title": "Liar",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 279000
+        },
+        {
+          "title": "The Denegation of Humanity",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 247000
+        },
+        {
+          "title": "Unleash Your Voice",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 217000
+        },
+        {
+          "title": "All I Gave",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 326000
+        },
+        {
+          "title": "In the Name of Progression",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 287000
+        },
+        {
+          "title": "Coma",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 227000
+        }
+      ]
+    },
+    {
+      "mbid": "7880aae5-dbe8-45a6-815d-611efc50fba7",
+      "releaseMbid": "086ca98f-6bf7-4f44-b42b-e0335ce4ec85",
+      "title": "Coverfield",
+      "type": "EP",
+      "releaseDate": "2011-05-06",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/7880aae5-dbe8-45a6-815d-611efc50fba7/front-1200",
+      "tracks": [
+        {
+          "title": "My Girlfriend's Girlfriend",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 228026
+        },
+        {
+          "title": "Sonne",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 227680
+        },
+        {
+          "title": "Blinded by Fear",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 156480
+        },
+        {
+          "title": "Helter Skelter",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 217320
+        }
+      ]
+    },
+    {
+      "mbid": "256681b3-950a-43b3-9202-ecba5c87a9dd",
+      "releaseMbid": "ef03fce6-8d0a-46ba-bf34-42b448ba5dcc",
+      "title": "I Am Nemesis",
+      "type": "ALBUM",
+      "releaseDate": "2012-02-03",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "We Are the Many",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 240000
+        },
+        {
+          "title": "The Bogeyman",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 187000
+        },
+        {
+          "title": "Memorial",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 258000
+        },
+        {
+          "title": "No Tomorrow",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 206000
+        },
+        {
+          "title": "Edge of Black",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 297000
+        },
+        {
+          "title": "Davy Jones",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 245000
+        },
+        {
+          "title": "Deadly Dream",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 241000
+        },
+        {
+          "title": "Open Letter",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 217000
+        },
+        {
+          "title": "Dein R3.ich",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 210000
+        },
+        {
+          "title": "Broadcast to Damnation",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 211000
+        },
+        {
+          "title": "This Oath",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 208000
+        },
+        {
+          "title": "Modern Warfare",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 201000
+        }
+      ]
+    },
+    {
+      "mbid": "78e42330-e063-4f49-93a1-7d26c06284b4",
+      "releaseMbid": "8c76f956-c0b8-486b-845f-4fa9386eeb53",
+      "title": "Ghost Empire",
+      "type": "ALBUM",
+      "releaseDate": "2014-01-24",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/78e42330-e063-4f49-93a1-7d26c06284b4/front-1200",
+      "tracks": [
+        {
+          "title": "King",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 242000
+        },
+        {
+          "title": "Chaos ‐ Creation",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 210000
+        },
+        {
+          "title": "Wolves and Rats",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 239000
+        },
+        {
+          "title": "nebeL",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 191000
+        },
+        {
+          "title": "I Am Ghost",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 226000
+        },
+        {
+          "title": "Devil's Night",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 263000
+        },
+        {
+          "title": "yOUR Song",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 266000
+        },
+        {
+          "title": "Cries and Whispers",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 235000
+        },
+        {
+          "title": "Good Man",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 307000
+        },
+        {
+          "title": "I Am Rebellion",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 260000
+        },
+        {
+          "title": "Who We Are",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 249000
+        },
+        {
+          "title": "My Vertigo",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 195000
+        }
+      ]
+    },
+    {
+      "mbid": "644d7f70-ff92-427c-8e11-aab492d43b9c",
+      "releaseMbid": "7bfdeef5-2378-47f6-b18e-52a611d25a21",
+      "title": "Gravity",
+      "type": "ALBUM",
+      "releaseDate": "2016-03-25",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/644d7f70-ff92-427c-8e11-aab492d43b9c/front-1200",
+      "tracks": [
+        {
+          "title": "Paralyzed",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Mein Schwarzes Herz",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Who I Am",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Left for Dead",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Crystal Skies",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Walk Alone",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "The Ocean's Heart",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Broken",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "For We Are Forever",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Inferno",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": null
+        },
+        {
+          "title": "No Dream Without a Sacrifice",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": null
+        },
+        {
+          "title": "Hurricane",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": null
+        },
+        {
+          "title": "Mein Schwarzes Herz (Der Tante Renate/Steinborn remix)",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": null
+        },
+        {
+          "title": "Paralyzed (Emma McLellan remix)",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "22334950-7516-4ae4-9f50-8e3fdd17b891",
+      "releaseMbid": "5f61b8a2-786b-4134-b457-4a496a6eada6",
+      "title": "Elements",
+      "type": "ALBUM",
+      "releaseDate": "2018-04-06",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/22334950-7516-4ae4-9f50-8e3fdd17b891/front-1200",
+      "tracks": [
+        {
+          "title": "This Is War",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 181000
+        },
+        {
+          "title": "Intoxicated",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 246000
+        },
+        {
+          "title": "Ich blute für Dich",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 237000
+        },
+        {
+          "title": "Before Later Becomes Never",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 253000
+        },
+        {
+          "title": "Set Me Free",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 275000
+        },
+        {
+          "title": "My Madness",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 229000
+        },
+        {
+          "title": "I Am Fear",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 271000
+        },
+        {
+          "title": "Delusion",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 230000
+        },
+        {
+          "title": "Carry On",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 200000
+        },
+        {
+          "title": "Masquerade",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 255000
+        },
+        {
+          "title": "Incomplete",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 200000
+        },
+        {
+          "title": "The Great Unknown",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 217000
+        },
+        {
+          "title": "Sleepers Awake",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 219000
+        }
+      ]
+    },
+    {
+      "mbid": "81d46fcd-e772-463d-86e9-58539aef5f24",
+      "releaseMbid": "10c8ab59-5541-4907-8074-783c6f8537c9",
+      "title": "Zeitgeister",
+      "type": "EP",
+      "releaseDate": "2021-05-14",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/81d46fcd-e772-463d-86e9-58539aef5f24/front-1200",
+      "tracks": [
+        {
+          "title": "Zeitgeister",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 79000
+        },
+        {
+          "title": "Trauma",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 200000
+        },
+        {
+          "title": "Herz",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 210000
+        },
+        {
+          "title": "Ausbruch nach Innen",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 302000
+        },
+        {
+          "title": "Feuer, zieh’ mit mir",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 224000
+        },
+        {
+          "title": "Nichts ist für immer",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 226000
+        },
+        {
+          "title": "Intoleranz",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 223000
+        },
+        {
+          "title": "Mein Inferno",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 220000
+        },
+        {
+          "title": "nICHts",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 247000
+        }
+      ]
+    },
+    {
+      "mbid": "9a36886c-4ef2-48b8-b86d-e1c468fd280e",
+      "releaseMbid": "271f3006-9480-4d2e-b47b-f62e7f72e252",
+      "title": "Dystopia",
+      "type": "ALBUM",
+      "releaseDate": "2022-04-22",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/9a36886c-4ef2-48b8-b86d-e1c468fd280e/front-1200",
+      "tracks": [
+        {
+          "title": "Dystopia",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 263986
+        },
+        {
+          "title": "Ascent of the Blessed",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 250160
+        },
+        {
+          "title": "VirUS",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 235386
+        },
+        {
+          "title": "Phantom Pain",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 242946
+        },
+        {
+          "title": "Alien",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 214440
+        },
+        {
+          "title": "sWords",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 230440
+        },
+        {
+          "title": "Darkness I Became",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 239933
+        },
+        {
+          "title": "Dragon",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 205320
+        },
+        {
+          "title": "Hibernate",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 258093
+        },
+        {
+          "title": "mOther",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 246960
+        },
+        {
+          "title": "The World Breaks Everyone",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 242026
+        },
+        {
+          "title": "D I V I D E D",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 247693
+        }
+      ]
+    },
+    {
+      "mbid": "e0580401-cdd7-4f94-812e-9dd238fd4621",
+      "releaseMbid": "55f9b479-b1be-47fe-aa70-5ffc432cb998",
+      "title": "Dear Suffering",
+      "type": "EP",
+      "releaseDate": "2025-03-19",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/e0580401-cdd7-4f94-812e-9dd238fd4621/front-1200",
+      "tracks": [
+        {
+          "title": "Dear Suffering",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 170591
+        },
+        {
+          "title": "Back From Hell",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 201667
+        },
+        {
+          "title": "Guilt Trip",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 185608
+        },
+        {
+          "title": "Echoes",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 204739
+        },
+        {
+          "title": "I Was a Happy Kid Once",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 204336
+        }
+      ]
+    },
+    {
+      "mbid": "057575ec-8831-4736-b29b-0c47d241f8e1",
+      "releaseMbid": "a5ea4c16-c81d-4efd-b56c-c8d6e67a100f",
+      "title": "Back From Hell",
+      "type": "ALBUM",
+      "releaseDate": "2025-04-25",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/057575ec-8831-4736-b29b-0c47d241f8e1/front-1200",
+      "tracks": [
+        {
+          "title": "Resurgence (intro)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 103653
+        },
+        {
+          "title": "Guilt Trip",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 185613
+        },
+        {
+          "title": "I Was a Happy Kid Once",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 204333
+        },
+        {
+          "title": "Back From Hell",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 201666
+        },
+        {
+          "title": "Insomnia",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 214866
+        },
+        {
+          "title": "Dear Suffering",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 170586
+        },
+        {
+          "title": "Alte Seele",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 227880
+        },
+        {
+          "title": "Overdrive",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 157320
+        },
+        {
+          "title": "Infection",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 188933
+        },
+        {
+          "title": "Glass Cage",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 225373
+        },
+        {
+          "title": "Solace in Suffer",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 225280
+        },
+        {
+          "title": "Till Death Do Us Part",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 186533
+        },
+        {
+          "title": "Echoes",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 204760
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

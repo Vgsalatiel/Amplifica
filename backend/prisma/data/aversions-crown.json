@@ -1,0 +1,393 @@
+{
+  "generatedAt": "2026-11-18T20:43:27.984Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "1484f3c1-ed7e-4e71-8663-819422bcbca8",
+    "name": "Aversions Crown",
+    "slug": "aversions-crown",
+    "type": "BAND",
+    "country": "AU",
+    "city": "Brisbane",
+    "formedYear": 2010,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/1484f3c1-ed7e-4e71-8663-819422bcbca8"
+      }
+    ],
+    "genres": [
+      "deathcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "2b258e05-d9a1-420d-80a5-19305d2d90af",
+      "releaseMbid": "48db77a2-a941-4e53-a3e7-78a0dac034c9",
+      "title": "Aversions Crown",
+      "type": "EP",
+      "releaseDate": "2009",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/2b258e05-d9a1-420d-80a5-19305d2d90af/front-1200",
+      "tracks": [
+        {
+          "title": "Intro",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 57000
+        },
+        {
+          "title": "Imperfect Design",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 196000
+        },
+        {
+          "title": "We're Not Safe",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 259000
+        },
+        {
+          "title": "2012",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 199000
+        },
+        {
+          "title": "Cataclysm",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 260000
+        }
+      ]
+    },
+    {
+      "mbid": "947fbd39-d491-4c20-ac3a-68e707816927",
+      "releaseMbid": "48965151-b8b4-4616-93ba-b537c92daf9c",
+      "title": "Servitude",
+      "type": "ALBUM",
+      "releaseDate": "2011-12-02",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/947fbd39-d491-4c20-ac3a-68e707816927/front-1200",
+      "tracks": [
+        {
+          "title": "No Salvation",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 221000
+        },
+        {
+          "title": "Excoriate",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 173000
+        },
+        {
+          "title": "Imperfect Design",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 187000
+        },
+        {
+          "title": "Hive Mind",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 240000
+        },
+        {
+          "title": "Repurposed",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 247000
+        },
+        {
+          "title": "Solace",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 147000
+        },
+        {
+          "title": "Partisan Deconstruction",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 277000
+        },
+        {
+          "title": "We're Not Safe",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 227000
+        },
+        {
+          "title": "Defiler",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 254000
+        },
+        {
+          "title": "Praetorian",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 170000
+        },
+        {
+          "title": "Advocator of Man's Genocide",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 234000
+        }
+      ]
+    },
+    {
+      "mbid": "47e58df6-3443-4e22-a692-14036ecd7e3a",
+      "releaseMbid": "2dafc68f-7f36-48c9-9259-d228aadedcae",
+      "title": "Tyrant",
+      "type": "ALBUM",
+      "releaseDate": "2014-11-24",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/47e58df6-3443-4e22-a692-14036ecd7e3a/front-1200",
+      "tracks": [
+        {
+          "title": "Hollow Planet",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 287853
+        },
+        {
+          "title": "The Glass Sentient",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 220880
+        },
+        {
+          "title": "Conqueror",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 211080
+        },
+        {
+          "title": "Vectors",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 203400
+        },
+        {
+          "title": "Earth Steriliser",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 212613
+        },
+        {
+          "title": "Avalanche",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 179960
+        },
+        {
+          "title": "Xenoforms",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 251893
+        },
+        {
+          "title": "Overseer",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 275720
+        },
+        {
+          "title": "Controller",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 262440
+        },
+        {
+          "title": "Faith Collapsing",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 272453
+        }
+      ]
+    },
+    {
+      "mbid": "eedef148-8239-4a22-9cba-79a77278b318",
+      "releaseMbid": "5baaaadc-d2c1-4665-a81e-df6736260718",
+      "title": "Xenocide",
+      "type": "ALBUM",
+      "releaseDate": "2017-01-20",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/eedef148-8239-4a22-9cba-79a77278b318/front-1200",
+      "tracks": [
+        {
+          "title": "Void",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 111000
+        },
+        {
+          "title": "Prismatic Abyss",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 220000
+        },
+        {
+          "title": "The Soulless Acolyte",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 215000
+        },
+        {
+          "title": "Hybridization",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 310000
+        },
+        {
+          "title": "Erebus",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 254000
+        },
+        {
+          "title": "Ophiophagy",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 293000
+        },
+        {
+          "title": "The Oracles of Existence",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 211000
+        },
+        {
+          "title": "Cynical Entity",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 285000
+        },
+        {
+          "title": "Stillborn Existence",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 278000
+        },
+        {
+          "title": "Cycles of Haruspex",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 281000
+        },
+        {
+          "title": "Misery",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 237000
+        },
+        {
+          "title": "Odium",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 323000
+        }
+      ]
+    },
+    {
+      "mbid": "49bb8985-0f88-458d-ab0c-227d62b0c1ea",
+      "releaseMbid": "2d889509-a64c-48e7-bc51-6afa3d7208b1",
+      "title": "Hell Will Come for Us All",
+      "type": "ALBUM",
+      "releaseDate": "2020-06-12",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/49bb8985-0f88-458d-ab0c-227d62b0c1ea/front-1200",
+      "tracks": [
+        {
+          "title": "The Soil",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 209000
+        },
+        {
+          "title": "Born in the Gutter",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 226000
+        },
+        {
+          "title": "Paradigm",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 236000
+        },
+        {
+          "title": "Caught in the System",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 240000
+        },
+        {
+          "title": "Hell Will Come for Us All",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 266000
+        },
+        {
+          "title": "Scourge of Violence",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 250000
+        },
+        {
+          "title": "Hymn of Annihilation",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 271000
+        },
+        {
+          "title": "Sorrow Never Sleeps",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 288000
+        },
+        {
+          "title": "The Final Judgement",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 275000
+        }
+      ]
+    },
+    {
+      "mbid": "11a5d595-cbd2-4be2-ad7b-007b2bb1d5b9",
+      "releaseMbid": "97623ab2-677c-47c3-8606-b7597db32ade",
+      "title": "A Voice from the Outer Dark",
+      "type": "EP",
+      "releaseDate": "2025-08-05",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/11a5d595-cbd2-4be2-ad7b-007b2bb1d5b9/front-1200",
+      "tracks": [
+        {
+          "title": "A Voice from the Outer Dark",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 235689
+        },
+        {
+          "title": "Deathbed Lamentations",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 253701
+        },
+        {
+          "title": "Castigation Choir",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 276614
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

@@ -1,0 +1,663 @@
+{
+  "generatedAt": "2026-11-19T11:14:21.711Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "3cdf1327-39eb-4ffe-9ce3-20599ac6a468",
+    "name": "Tigers Jaw",
+    "slug": "tigers-jaw",
+    "type": "BAND",
+    "country": "US",
+    "city": "Scranton",
+    "formedYear": 2005,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/3cdf1327-39eb-4ffe-9ce3-20599ac6a468"
+      }
+    ],
+    "genres": [
+      "emo",
+      "indie-rock",
+      "pop-punk"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "79bd9d03-d067-43ed-b1c8-bae797fcf385",
+      "releaseMbid": "532e1fc5-cf91-44f7-886b-489672fabc23",
+      "title": "Belongs to the Dead",
+      "type": "ALBUM",
+      "releaseDate": "2006-10-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/79bd9d03-d067-43ed-b1c8-bae797fcf385/front-1200",
+      "tracks": [
+        {
+          "title": "Danielson",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Okay Paddy",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "HEAT",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Jet Alone",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Stungun",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Cannonball",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Colorful",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "The Sun",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "It's About Killing People",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "The Times Tower Belongs to the Dead",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "bd905bcf-da16-4fed-aa21-79d3f813b9e8",
+      "releaseMbid": "809d10e2-fdee-4437-90bf-11fb6f09577f",
+      "title": "I’m on Your Side",
+      "type": "ALBUM",
+      "releaseDate": "2007",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "No More Coffee",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 40000
+        },
+        {
+          "title": "The Sun",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 203000
+        },
+        {
+          "title": "Androids 17 and 18",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 179000
+        },
+        {
+          "title": "Superhero Halloween",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 132000
+        },
+        {
+          "title": "Positive Life Interlude",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 117000
+        },
+        {
+          "title": "Positive Life",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 151000
+        },
+        {
+          "title": "School Friends",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 151000
+        },
+        {
+          "title": "Phantom Power",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 227000
+        },
+        {
+          "title": "Untitled",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 106000
+        },
+        {
+          "title": "All My Friends Died",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 102000
+        },
+        {
+          "title": "Six Months",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 226000
+        },
+        {
+          "title": "Power Supply",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 97000
+        },
+        {
+          "title": "The Choke (Dangerous)",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 175000
+        },
+        {
+          "title": "House Arrest",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 78000
+        }
+      ]
+    },
+    {
+      "mbid": "30592107-aa2f-4d82-a7f3-d0653ab91b80",
+      "releaseMbid": "fe3b6639-684a-4c8f-9cf1-c682a2607d6a",
+      "title": "Tigers Jaw",
+      "type": "ALBUM",
+      "releaseDate": "2008-09-10",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/30592107-aa2f-4d82-a7f3-d0653ab91b80/front-1200",
+      "tracks": [
+        {
+          "title": "The Sun",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 224933
+        },
+        {
+          "title": "Plane vs Tank vs Submarine",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 120680
+        },
+        {
+          "title": "I Saw Water",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 254840
+        },
+        {
+          "title": "Chemicals",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 178026
+        },
+        {
+          "title": "Between Your Band and the Other Band",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 279573
+        },
+        {
+          "title": "HEAT",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 85146
+        },
+        {
+          "title": "I Was Never Your Boyfriend",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 166426
+        },
+        {
+          "title": "Meals on Wheels",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 149413
+        },
+        {
+          "title": "Arms Across America",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 173600
+        },
+        {
+          "title": "Never Saw It Coming",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 157280
+        }
+      ]
+    },
+    {
+      "mbid": "630f1e18-373b-4ae8-9a7e-082451d2320d",
+      "releaseMbid": "b394a62e-ad88-4e25-9e0b-fb5d0eedb2bf",
+      "title": "Two Worlds",
+      "type": "ALBUM",
+      "releaseDate": "2010-11-22",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/630f1e18-373b-4ae8-9a7e-082451d2320d/front-1200",
+      "tracks": [
+        {
+          "title": "Return",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 112000
+        },
+        {
+          "title": "Coil/Recoil",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 133000
+        },
+        {
+          "title": "Smile",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 125000
+        },
+        {
+          "title": "Two Worlds",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 155000
+        },
+        {
+          "title": "Let Go/Trashed Floors",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 110000
+        },
+        {
+          "title": "Test Pattern",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 148000
+        },
+        {
+          "title": "Windmills",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 135000
+        },
+        {
+          "title": "I Saw the Wolf",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 245000
+        },
+        {
+          "title": "Buona Pizza",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 191000
+        },
+        {
+          "title": "Static",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 145000
+        },
+        {
+          "title": "Thank You, Noah Lowry",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 117000
+        }
+      ]
+    },
+    {
+      "mbid": "6eb09803-03d0-42bd-a697-92061e242fe7",
+      "releaseMbid": "0537ffb6-2b2d-4616-9108-6f435375482f",
+      "title": "Charmer",
+      "type": "ALBUM",
+      "releaseDate": "2014-06-03",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/6eb09803-03d0-42bd-a697-92061e242fe7/front-1200",
+      "tracks": [
+        {
+          "title": "Cool",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 160000
+        },
+        {
+          "title": "Frame You",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 131000
+        },
+        {
+          "title": "Hum",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 207000
+        },
+        {
+          "title": "Charmer",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 205000
+        },
+        {
+          "title": "Nervous Kids",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 175000
+        },
+        {
+          "title": "I Envy Your Apathy",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 206000
+        },
+        {
+          "title": "Divide",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 197000
+        },
+        {
+          "title": "Slow Come On",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 195000
+        },
+        {
+          "title": "Teen Rocket",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 171000
+        },
+        {
+          "title": "Softspoken",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 163000
+        },
+        {
+          "title": "Distress Signal",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 161000
+        },
+        {
+          "title": "What Would You Do",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 350000
+        }
+      ]
+    },
+    {
+      "mbid": "b6fa65c5-810c-4282-900f-f948cdae1295",
+      "releaseMbid": "8393f009-3dbd-4622-bd3b-cef03cd33c44",
+      "title": "Spin",
+      "type": "ALBUM",
+      "releaseDate": "2017-05-19",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b6fa65c5-810c-4282-900f-f948cdae1295/front-1200",
+      "tracks": [
+        {
+          "title": "Follows",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 226000
+        },
+        {
+          "title": "Favorite",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 123000
+        },
+        {
+          "title": "June",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 203000
+        },
+        {
+          "title": "Escape Plan",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 232000
+        },
+        {
+          "title": "Blurry Vision",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 210000
+        },
+        {
+          "title": "Guardian",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 252000
+        },
+        {
+          "title": "Bullet",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 215000
+        },
+        {
+          "title": "Brass Ring",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 193000
+        },
+        {
+          "title": "Oh Time",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 170000
+        },
+        {
+          "title": "Same Stone",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 216000
+        },
+        {
+          "title": "Make It Up",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 236000
+        },
+        {
+          "title": "Window",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 244000
+        }
+      ]
+    },
+    {
+      "mbid": "784d7ffd-06ec-4251-9bf8-e445ec4999e5",
+      "releaseMbid": "08d26740-bd2a-4ca0-9df4-f8ade6ce04f5",
+      "title": "I Won’t Care How You Remember Me",
+      "type": "ALBUM",
+      "releaseDate": "2021-03-05",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/784d7ffd-06ec-4251-9bf8-e445ec4999e5/front-1200",
+      "tracks": [
+        {
+          "title": "I Won’t Care How You Remember Me",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 216000
+        },
+        {
+          "title": "Cat’s Cradle",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 156000
+        },
+        {
+          "title": "Hesitation",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 163000
+        },
+        {
+          "title": "New Detroit",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 164000
+        },
+        {
+          "title": "Can't Wait Forever",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 156000
+        },
+        {
+          "title": "Lemon Mouth",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 189000
+        },
+        {
+          "title": "Body Language",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 216000
+        },
+        {
+          "title": "Commit",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 153000
+        },
+        {
+          "title": "Never Wanted To",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 195000
+        },
+        {
+          "title": "Heaven Apart",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 222000
+        },
+        {
+          "title": "Anniversary",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 220000
+        }
+      ]
+    },
+    {
+      "mbid": "77e5943b-d302-4751-8cd2-7d24cdb4fae0",
+      "releaseMbid": "48433770-dba0-4c17-aa93-e921d0905a80",
+      "title": "Lost on You",
+      "type": "ALBUM",
+      "releaseDate": "2026-03-27",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/77e5943b-d302-4751-8cd2-7d24cdb4fae0/front-1200",
+      "tracks": [
+        {
+          "title": "It’s ok",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 101533
+        },
+        {
+          "title": "Primary Colors",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 217372
+        },
+        {
+          "title": "Head is Like a Sinking Stone",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 181917
+        },
+        {
+          "title": "Anxious Blade",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 167656
+        },
+        {
+          "title": "Baptized on a Redwood Drive",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 337845
+        },
+        {
+          "title": "BREEZER",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 210053
+        },
+        {
+          "title": "Ghost",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 149559
+        },
+        {
+          "title": "Staring at Empty Faces",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 210549
+        },
+        {
+          "title": "Light Leaks Through",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 238738
+        },
+        {
+          "title": "Roses + Thorns",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 275185
+        },
+        {
+          "title": "Lost on You",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 211535
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

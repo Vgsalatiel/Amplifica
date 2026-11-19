@@ -1,0 +1,357 @@
+{
+  "generatedAt": "2026-11-18T20:26:51.396Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "9c935736-7530-41e4-b776-1dbcf534c061",
+    "name": "Spiritbox",
+    "slug": "spiritbox",
+    "type": "BAND",
+    "country": "CA",
+    "city": "Victoria",
+    "formedYear": 2017,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/9c935736-7530-41e4-b776-1dbcf534c061"
+      }
+    ],
+    "genres": [
+      "metalcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "9a986979-bfa0-4de7-a028-8d20e137aa76",
+      "releaseMbid": "eb8a5dd5-ffb4-4f6d-91e7-82f1b3d88b4f",
+      "title": "Spiritbox",
+      "type": "EP",
+      "releaseDate": "2017-10-27",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/9a986979-bfa0-4de7-a028-8d20e137aa76/front-1200",
+      "tracks": [
+        {
+          "title": "The Mara Effect, Pt. 1",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 280000
+        },
+        {
+          "title": "10:16",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 68000
+        },
+        {
+          "title": "The Mara Effect, Pt. 2",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 220000
+        },
+        {
+          "title": "The Mara Effect, Pt. 3",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 338000
+        },
+        {
+          "title": "Everything’s Eventual",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 236000
+        },
+        {
+          "title": "Aphids",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 276000
+        },
+        {
+          "title": "The Beauty of Suffering",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 337000
+        }
+      ]
+    },
+    {
+      "mbid": "6b80f01d-2541-4f1c-a1c9-a00e3935e6ed",
+      "releaseMbid": "90f5e81f-fcea-4c67-b287-1aeb696d4f8b",
+      "title": "Singles Collection",
+      "type": "EP",
+      "releaseDate": "2019-04",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/6b80f01d-2541-4f1c-a1c9-a00e3935e6ed/front-1200",
+      "tracks": [
+        {
+          "title": "Perennial",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 246000
+        },
+        {
+          "title": "Electric Cross",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 323000
+        },
+        {
+          "title": "Trust Fall",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 319000
+        },
+        {
+          "title": "Belcarra",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 235000
+        },
+        {
+          "title": "Bleach Bath",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 305000
+        }
+      ]
+    },
+    {
+      "mbid": "68ee0e21-a7c2-467d-8808-fd38fec2ffb8",
+      "releaseMbid": "312248cc-12a5-46f4-8f9c-893df55deccf",
+      "title": "Eternal Blue",
+      "type": "ALBUM",
+      "releaseDate": "2021-09-17",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/68ee0e21-a7c2-467d-8808-fd38fec2ffb8/front-1200",
+      "tracks": [
+        {
+          "title": "Sun Killer",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 227000
+        },
+        {
+          "title": "Hurt You",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 226000
+        },
+        {
+          "title": "Yellowjacket",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 198000
+        },
+        {
+          "title": "The Summit",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 237000
+        },
+        {
+          "title": "Secret Garden",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 219000
+        },
+        {
+          "title": "Silk in the Strings",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 177000
+        },
+        {
+          "title": "Holy Roller",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 173000
+        },
+        {
+          "title": "Eternal Blue",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 239000
+        },
+        {
+          "title": "We Live in a Strange World",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 168000
+        },
+        {
+          "title": "Halcyon",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 220000
+        },
+        {
+          "title": "Circle With Me",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 233000
+        },
+        {
+          "title": "Constance",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 270000
+        }
+      ]
+    },
+    {
+      "mbid": "9e776377-8768-4ab4-b5b8-92b268738b2d",
+      "releaseMbid": "c35cdf1d-a3fa-4e2f-a7f5-fabab8555ea0",
+      "title": "Rotoscope",
+      "type": "EP",
+      "releaseDate": "2022-06-22",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/9e776377-8768-4ab4-b5b8-92b268738b2d/front-1200",
+      "tracks": [
+        {
+          "title": "Rotoscope",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 215000
+        },
+        {
+          "title": "Sew Me Up",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 211000
+        },
+        {
+          "title": "Hysteria",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 224000
+        }
+      ]
+    },
+    {
+      "mbid": "d96ba73d-d748-4d44-93c5-b496e54e04c7",
+      "releaseMbid": "6aa252ff-742c-4deb-84c7-a289b5e7a8c8",
+      "title": "The Fear of Fear",
+      "type": "EP",
+      "releaseDate": "2023-11-03",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d96ba73d-d748-4d44-93c5-b496e54e04c7/front-1200",
+      "tracks": [
+        {
+          "title": "Cellar Door",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 284386
+        },
+        {
+          "title": "Jaded",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 262640
+        },
+        {
+          "title": "Too Close / Too Late",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 281053
+        },
+        {
+          "title": "Angel Eyes",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 208400
+        },
+        {
+          "title": "The Void",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 220760
+        },
+        {
+          "title": "Ultraviolet",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 248773
+        }
+      ]
+    },
+    {
+      "mbid": "054c3793-9de7-46a0-b4d6-7469dd6c4f29",
+      "releaseMbid": "8284cf22-84c8-4d53-b894-f0fc940f3eb6",
+      "title": "Tsunami Sea",
+      "type": "ALBUM",
+      "releaseDate": "2025-03-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/054c3793-9de7-46a0-b4d6-7469dd6c4f29/front-1200",
+      "tracks": [
+        {
+          "title": "Fata Morgana",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 261133
+        },
+        {
+          "title": "Black Rainbow",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 204866
+        },
+        {
+          "title": "Perfect Soul",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 239640
+        },
+        {
+          "title": "Keep Sweet",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 243520
+        },
+        {
+          "title": "Soft Spine",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 183986
+        },
+        {
+          "title": "Tsunami Sea",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 256466
+        },
+        {
+          "title": "A Haven With Two Faces",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 331653
+        },
+        {
+          "title": "No Loss, No Love",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 176466
+        },
+        {
+          "title": "Crystal Roses",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 199960
+        },
+        {
+          "title": "Ride the Wave",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 293066
+        },
+        {
+          "title": "Deep End",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 227573
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

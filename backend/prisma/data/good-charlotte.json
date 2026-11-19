@@ -1,0 +1,1058 @@
+{
+  "generatedAt": "2026-11-19T11:28:15.121Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "b267ca80-034e-4dc1-9ed4-ec45f1fed41d",
+    "name": "Good Charlotte",
+    "slug": "good-charlotte",
+    "type": "BAND",
+    "country": "US",
+    "city": "Waldorf",
+    "formedYear": 1996,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/b267ca80-034e-4dc1-9ed4-ec45f1fed41d"
+      }
+    ],
+    "genres": [
+      "pop-punk",
+      "punk-rock"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "1708185a-c088-3351-a2f4-5a05f0c4e56b",
+      "releaseMbid": "5ebec7b5-669e-49c2-bfeb-da3363ad4a82",
+      "title": "Demo Tape #1",
+      "type": "EP",
+      "releaseDate": "1996",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Screamer",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Let Me Go",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 179000
+        },
+        {
+          "title": "Hey Dad",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 155000
+        },
+        {
+          "title": "Gravity Girl",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 198000
+        },
+        {
+          "title": "Can't Go On",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 151000
+        }
+      ]
+    },
+    {
+      "mbid": "ce530190-85a0-3ce9-a351-9d3c595b6ae9",
+      "releaseMbid": "39c84758-0f4d-43c9-b333-d6dc5836ae04",
+      "title": "Another EP",
+      "type": "EP",
+      "releaseDate": "1999",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ce530190-85a0-3ce9-a351-9d3c595b6ae9/front-1200",
+      "tracks": [
+        {
+          "title": "Overcome",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 237000
+        },
+        {
+          "title": "Superman Can’t Walk",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 161000
+        },
+        {
+          "title": "Screamer",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 245000
+        },
+        {
+          "title": "East Coast Anthem",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 306000
+        },
+        {
+          "title": "Time After Time",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Little Things",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "3e2b2561-15cb-4447-acba-be0cc980dcdc",
+      "releaseMbid": "4a102db0-048b-4835-9423-5d8b7dafdf30",
+      "title": "GC EP",
+      "type": "EP",
+      "releaseDate": "2000",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Walk By",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "East Coast Anthem",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "I Heard You",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 137000
+        },
+        {
+          "title": "The Little Things",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "55203952-2d93-31eb-af4d-f14c02fffe2b",
+      "releaseMbid": "6de430cd-8eae-4183-b7ce-35dbc4c0b3c5",
+      "title": "Good Charlotte",
+      "type": "ALBUM",
+      "releaseDate": "2000-04-09",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/55203952-2d93-31eb-af4d-f14c02fffe2b/front-1200",
+      "tracks": [
+        {
+          "title": "Little Things",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 205706
+        },
+        {
+          "title": "WaldorfWorldwide",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 202306
+        },
+        {
+          "title": "The Motivation Proclamation",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 217946
+        },
+        {
+          "title": "East Coast Anthem",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 148840
+        },
+        {
+          "title": "Festival Song",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 182120
+        },
+        {
+          "title": "Complicated",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 170480
+        },
+        {
+          "title": "Seasons",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 198426
+        },
+        {
+          "title": "I Don’t Wanna Stop",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 162040
+        },
+        {
+          "title": "I Heard You",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 163266
+        },
+        {
+          "title": "The Click.",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 214453
+        },
+        {
+          "title": "Walk By",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 164106
+        },
+        {
+          "title": "Let Me Go",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 183186
+        },
+        {
+          "title": "Screamer",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 217053
+        },
+        {
+          "title": "Change / Thank You Mom",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 514746
+        }
+      ]
+    },
+    {
+      "mbid": "9662dfdf-ddd2-342c-aaff-2665b6e4d93f",
+      "releaseMbid": "70f939d0-cbe3-4797-b8cd-9469cbbf89f1",
+      "title": "The Young and the Hopeless",
+      "type": "ALBUM",
+      "releaseDate": "2002-10-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/9662dfdf-ddd2-342c-aaff-2665b6e4d93f/front-1200",
+      "tracks": [
+        {
+          "title": "A New Beginning",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 109600
+        },
+        {
+          "title": "The Anthem",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 175093
+        },
+        {
+          "title": "Lifestyles of the Rich & Famous",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 190466
+        },
+        {
+          "title": "Wondering",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 212506
+        },
+        {
+          "title": "The Story of My Old Man",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 161000
+        },
+        {
+          "title": "Girls & Boys",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 183493
+        },
+        {
+          "title": "My Bloody Valentine",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 234506
+        },
+        {
+          "title": "Hold On",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 245933
+        },
+        {
+          "title": "Riot Girl",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 137093
+        },
+        {
+          "title": "Say Anything",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 261240
+        },
+        {
+          "title": "The Day That I Die",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 178933
+        },
+        {
+          "title": "The Young & the Hopeless",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 212426
+        },
+        {
+          "title": "Emotionless",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 242933
+        },
+        {
+          "title": "Movin’ On",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 207240
+        }
+      ]
+    },
+    {
+      "mbid": "1c4862c3-3ef5-3386-bc46-285556e10482",
+      "releaseMbid": "7631de45-3b26-4841-9877-ef64b521aa3e",
+      "title": "The Chronicles of Life and Death",
+      "type": "ALBUM",
+      "releaseDate": "2004-09-28",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Once Upon a Time: The Battle of Life and Death",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 144786
+        },
+        {
+          "title": "The Chronicles of Life and Death",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 183426
+        },
+        {
+          "title": "Walk Away (Maybe)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 200600
+        },
+        {
+          "title": "S.O.S.",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 222080
+        },
+        {
+          "title": "I Just Wanna Live",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 166053
+        },
+        {
+          "title": "Ghost of You",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 290600
+        },
+        {
+          "title": "Predictable",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 191186
+        },
+        {
+          "title": "Secrets",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 233906
+        },
+        {
+          "title": "The Truth",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 236253
+        },
+        {
+          "title": "The World Is Black",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 186000
+        },
+        {
+          "title": "Mountain",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 273720
+        },
+        {
+          "title": "We Believe",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 231546
+        },
+        {
+          "title": "It Wasn’t Enough",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 204013
+        },
+        {
+          "title": "In This World (Murder)",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 327146
+        },
+        {
+          "title": "Falling Away / Wounded",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 518773
+        }
+      ]
+    },
+    {
+      "mbid": "de240faa-69c7-32c2-b3ac-1d345a5db32b",
+      "releaseMbid": "0b6fd73e-0e98-4c26-8b71-78de2f39d7a4",
+      "title": "Good Morning Revival",
+      "type": "ALBUM",
+      "releaseDate": "2007-03-14",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/de240faa-69c7-32c2-b3ac-1d345a5db32b/front-1200",
+      "tracks": [
+        {
+          "title": "Good Morning Revival",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 56506
+        },
+        {
+          "title": "Misery",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 229373
+        },
+        {
+          "title": "The River",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 195680
+        },
+        {
+          "title": "Dance Floor Anthem",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 244000
+        },
+        {
+          "title": "Keep Your Hands Off My Girl",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 205106
+        },
+        {
+          "title": "Victims of Love",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 225200
+        },
+        {
+          "title": "Where Would We Be Now",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 238200
+        },
+        {
+          "title": "Break Apart Her Heart",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 199600
+        },
+        {
+          "title": "All Black",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 259586
+        },
+        {
+          "title": "Beautiful Place",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 230520
+        },
+        {
+          "title": "Something Else",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 199213
+        },
+        {
+          "title": "Broken Hearts Parade",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 195386
+        },
+        {
+          "title": "March On",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 191813
+        }
+      ]
+    },
+    {
+      "mbid": "0092c6e6-b767-4eed-a0ea-d6dc34803096",
+      "releaseMbid": "92beab57-8237-4e63-9b3c-0634f5a5fc9c",
+      "title": "Cardiology",
+      "type": "ALBUM",
+      "releaseDate": "2010-10-27",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0092c6e6-b767-4eed-a0ea-d6dc34803096/front-1200",
+      "tracks": [
+        {
+          "title": "Introduction to Cardiology",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 47106
+        },
+        {
+          "title": "Let the Music Play",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 252733
+        },
+        {
+          "title": "Counting the Days",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 171560
+        },
+        {
+          "title": "Silver Screen Romance",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 190920
+        },
+        {
+          "title": "Like It’s Her Birthday",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 210506
+        },
+        {
+          "title": "Last Night",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 220826
+        },
+        {
+          "title": "Sex on the Radio",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 196586
+        },
+        {
+          "title": "Alive",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 194800
+        },
+        {
+          "title": "Standing Ovation",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 219613
+        },
+        {
+          "title": "Harlow’s Song (Can’t Dream Without You)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 214360
+        },
+        {
+          "title": "Interlude: The Fifth Chamber",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 89106
+        },
+        {
+          "title": "1979",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 179946
+        },
+        {
+          "title": "There She Goes",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 202133
+        },
+        {
+          "title": "Right Where I Belong",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 232853
+        },
+        {
+          "title": "Cardiology",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 176613
+        }
+      ]
+    },
+    {
+      "mbid": "0bafa834-ce71-4241-ab98-1aa9640082ca",
+      "releaseMbid": "d89380e2-1759-4fa1-ae52-4c835a52ec11",
+      "title": "Like It's Her Birthday: The Remixes",
+      "type": "EP",
+      "releaseDate": "2010-11-12",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0bafa834-ce71-4241-ab98-1aa9640082ca/front-1200",
+      "tracks": [
+        {
+          "title": "Like It’s Her Birthday (Kickdrums remix)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 212053
+        },
+        {
+          "title": "Like It’s Her Birthday (Innerpartysystem remix)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 267773
+        },
+        {
+          "title": "Like It’s Her Birthday (Andrew W.K. remix)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 195693
+        },
+        {
+          "title": "Like It’s Her Birthday (Phenomenal Handclap remix)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 425040
+        },
+        {
+          "title": "Like It’s Her Birthday (Andrew W.K. extended club mix)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 372040
+        }
+      ]
+    },
+    {
+      "mbid": "b6a5ff33-ae41-4953-8996-0d557b3a1636",
+      "releaseMbid": "3b53af0c-a1ac-47e6-a9be-4909c9a45fd0",
+      "title": "Youth Authority",
+      "type": "ALBUM",
+      "releaseDate": "2016-07-15",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b6a5ff33-ae41-4953-8996-0d557b3a1636/front-1200",
+      "tracks": [
+        {
+          "title": "Life Changes",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 182676
+        },
+        {
+          "title": "Makeshift Love",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 223220
+        },
+        {
+          "title": "40 Oz. Dream",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 200743
+        },
+        {
+          "title": "Life Can't Get Much Better",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 204607
+        },
+        {
+          "title": "Keep Swingin'",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 193450
+        },
+        {
+          "title": "Reason to Stay",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 227163
+        },
+        {
+          "title": "Stray Dogs",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 234905
+        },
+        {
+          "title": "Stick to Your Guns (interlude)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 88887
+        },
+        {
+          "title": "The Outfield",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 212373
+        },
+        {
+          "title": "Cars Full of People",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 278816
+        },
+        {
+          "title": "War",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 285458
+        },
+        {
+          "title": "Moving On",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 238561
+        }
+      ]
+    },
+    {
+      "mbid": "867a7cf5-ad96-4bb3-a53c-fa74f1f7acf0",
+      "releaseMbid": "531f727d-dcf6-4366-8d77-a6512fca12ff",
+      "title": "A GC Christmas, Pt. 1",
+      "type": "EP",
+      "releaseDate": "2017-12-08",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/867a7cf5-ad96-4bb3-a53c-fa74f1f7acf0/front-1200",
+      "tracks": [
+        {
+          "title": "Last Christmas",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 258000
+        },
+        {
+          "title": "Christmas by the Phone",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 181000
+        },
+        {
+          "title": "Let the World Be Still",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 176000
+        }
+      ]
+    },
+    {
+      "mbid": "2e7147ce-b6a7-4502-9354-a101e711d357",
+      "releaseMbid": "36f0dc1d-777b-453a-954a-c4008b05b5ef",
+      "title": "Generation Rx",
+      "type": "ALBUM",
+      "releaseDate": "2018-09-14",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/2e7147ce-b6a7-4502-9354-a101e711d357/front-1200",
+      "tracks": [
+        {
+          "title": "Generation Rx",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 127000
+        },
+        {
+          "title": "Self Help",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 203000
+        },
+        {
+          "title": "Shadowboxer",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 185000
+        },
+        {
+          "title": "Actual Pain",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 223000
+        },
+        {
+          "title": "Prayers",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 230000
+        },
+        {
+          "title": "Cold Song",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 222000
+        },
+        {
+          "title": "Leech",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 200000
+        },
+        {
+          "title": "Better Demons",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 238000
+        },
+        {
+          "title": "California (The Way I Say I Love You)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 258000
+        }
+      ]
+    },
+    {
+      "mbid": "7db449ef-0f09-4625-9abc-204a9eb7d6cf",
+      "releaseMbid": "09538032-c989-4f94-a397-d21d000fd488",
+      "title": "Motel Du Cap",
+      "type": "ALBUM",
+      "releaseDate": "2025-08-08",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/7db449ef-0f09-4625-9abc-204a9eb7d6cf/front-1200",
+      "tracks": [
+        {
+          "title": "Check in at Motel Du Cap",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 105215
+        },
+        {
+          "title": "Rejects",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 174634
+        },
+        {
+          "title": "Stepper",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 196748
+        },
+        {
+          "title": "I Don’t Work Here Anymore",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 221037
+        },
+        {
+          "title": "Life is Great",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 173328
+        },
+        {
+          "title": "Pink Guitar",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 188016
+        },
+        {
+          "title": "Deserve You",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 203623
+        },
+        {
+          "title": "Mean",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 171184
+        },
+        {
+          "title": "Bodies",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 177849
+        },
+        {
+          "title": "Vertigo",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 154050
+        },
+        {
+          "title": "The Dress Rehearsal",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 185507
+        },
+        {
+          "title": "Castle in the Sand",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 193817
+        },
+        {
+          "title": "GC FOREVER",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 336735
+        }
+      ]
+    },
+    {
+      "mbid": "2270f687-b8c2-49af-bc05-f0d9e5e7a4f5",
+      "releaseMbid": "9bb83dc8-5396-4d69-a404-ff07cec07c1d",
+      "title": "Greetings From California",
+      "type": "ALBUM",
+      "releaseDate": "2026-11-06",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Dear Jane (intro)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 21436
+        },
+        {
+          "title": "Dear Jane",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 217968
+        },
+        {
+          "title": "Brixton",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 248313
+        },
+        {
+          "title": "Out of My Mind",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 193576
+        },
+        {
+          "title": "We Are Done",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 216468
+        },
+        {
+          "title": "U R",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 236934
+        },
+        {
+          "title": "Jealousy (All Your Friends in Silverlake)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 213614
+        },
+        {
+          "title": "Love Pretenders",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 189856
+        },
+        {
+          "title": "California Rain (intro)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 11371
+        },
+        {
+          "title": "California Rain",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 280898
+        },
+        {
+          "title": "Brother",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 300339
+        },
+        {
+          "title": "Bad",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 220558
+        },
+        {
+          "title": "Good Gracious Abbey",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 242405
+        },
+        {
+          "title": "Suddenly",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 208883
+        },
+        {
+          "title": "Empty Spirits",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 262219
+        },
+        {
+          "title": "U R",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 235000
+        },
+        {
+          "title": "Jealousy (All Your Friends in Silverlake)",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 195118
+        },
+        {
+          "title": "We Are Done (live From the Motel Du Cap Tour)",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 263000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

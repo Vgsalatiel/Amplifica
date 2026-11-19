@@ -1,0 +1,494 @@
+{
+  "generatedAt": "2026-11-18T20:45:18.262Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "5ec98a44-ce37-4264-abfc-0496e389538d",
+    "name": "Cabal",
+    "slug": "cabal",
+    "type": "BAND",
+    "country": "DK",
+    "city": "Copenhagen",
+    "formedYear": 2016,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/5ec98a44-ce37-4264-abfc-0496e389538d"
+      }
+    ],
+    "genres": [
+      "deathcore",
+      "metalcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "a9d9b5ec-0694-4596-bd12-b8149e3b74f4",
+      "releaseMbid": "9a2151b9-be4c-4137-86de-dd17b8f488b4",
+      "title": "Purge",
+      "type": "EP",
+      "releaseDate": "2016",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a9d9b5ec-0694-4596-bd12-b8149e3b74f4/front-1200",
+      "tracks": [
+        {
+          "title": "Innocent Blood",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 231000
+        },
+        {
+          "title": "Purge",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 240000
+        },
+        {
+          "title": "Legion",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 224000
+        },
+        {
+          "title": "Cursed (Ft. William van der Bourgh of Northern Blues)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 210000
+        },
+        {
+          "title": "Eternal Night",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 221000
+        }
+      ]
+    },
+    {
+      "mbid": "90a19c23-1d09-43bd-90b5-90696a47c3fc",
+      "releaseMbid": "7a2b9012-53ea-4b91-9359-f171465eb928",
+      "title": "Mark of Rot",
+      "type": "ALBUM",
+      "releaseDate": "2018-02-23",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/90a19c23-1d09-43bd-90b5-90696a47c3fc/front-1200",
+      "tracks": [
+        {
+          "title": "False Light",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 193000
+        },
+        {
+          "title": "Nothingness (Feat. CJ McMahon)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 240000
+        },
+        {
+          "title": "Blackened Soil",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 242000
+        },
+        {
+          "title": "Rah'ru",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 253000
+        },
+        {
+          "title": "Empty",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 159000
+        },
+        {
+          "title": "Unworthy",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 265000
+        },
+        {
+          "title": "Blinded",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 211000
+        },
+        {
+          "title": "Whispers",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 212000
+        },
+        {
+          "title": "The Darkest Embrace (Feat. Filip Danielsson)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 214000
+        },
+        {
+          "title": "Mark of Rot",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 231000
+        }
+      ]
+    },
+    {
+      "mbid": "11d129b5-7412-4f61-8f5a-c776c150af51",
+      "releaseMbid": "63a0a4e9-a14b-49ea-b555-857b8bb7e7c6",
+      "title": "Audiotree Live",
+      "type": "LIVE",
+      "releaseDate": "2020-02-26",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/11d129b5-7412-4f61-8f5a-c776c150af51/front-1200",
+      "tracks": [
+        {
+          "title": "The Darkest Embrace",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 218000
+        },
+        {
+          "title": "Tongues",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 186000
+        },
+        {
+          "title": "Purge",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 251000
+        },
+        {
+          "title": "Bitter Friend",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 171000
+        },
+        {
+          "title": "Innocent Blood",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 255000
+        },
+        {
+          "title": "False Light",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 193000
+        }
+      ]
+    },
+    {
+      "mbid": "5e807eac-a7a9-43e8-977b-410a9c97f6c0",
+      "releaseMbid": "c9d5f338-d016-49d7-bac8-df0e7bd890f6",
+      "title": "Drag Me Down",
+      "type": "ALBUM",
+      "releaseDate": "2020-04-03",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/5e807eac-a7a9-43e8-977b-410a9c97f6c0/front-1200",
+      "tracks": [
+        {
+          "title": "Gift Givers",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 205107
+        },
+        {
+          "title": "Drag Me Down",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 243147
+        },
+        {
+          "title": "It Haunts Me",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 212560
+        },
+        {
+          "title": "Tongues",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 186773
+        },
+        {
+          "title": "Sjælebrand",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 233680
+        },
+        {
+          "title": "The Hangman's Song",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 182973
+        },
+        {
+          "title": "Death March",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 191080
+        },
+        {
+          "title": "Bitter Friend",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 171427
+        },
+        {
+          "title": "Unbound",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 200800
+        },
+        {
+          "title": "Demagogue",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 253387
+        }
+      ]
+    },
+    {
+      "mbid": "a0892dc4-98a9-4313-b2c2-39e039eb95b3",
+      "releaseMbid": "25381bde-e4e4-4b28-815d-f0b4663b7f97",
+      "title": "Magno interitus",
+      "type": "ALBUM",
+      "releaseDate": "2022-10-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a0892dc4-98a9-4313-b2c2-39e039eb95b3/front-1200",
+      "tracks": [
+        {
+          "title": "If I Hang, Let Me Swing",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 194879
+        },
+        {
+          "title": "Insidious",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 129417
+        },
+        {
+          "title": "Magno interitus",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 207404
+        },
+        {
+          "title": "Existence Ensnared",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 205633
+        },
+        {
+          "title": "Insatiable",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 206758
+        },
+        {
+          "title": "Blod af Mit",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 257667
+        },
+        {
+          "title": "Exit Wound",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 163157
+        },
+        {
+          "title": "Violent Ends",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 161159
+        },
+        {
+          "title": "Like Vultures",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 185657
+        },
+        {
+          "title": "Exsanguination",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 200664
+        },
+        {
+          "title": "Plague Bringer",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 225455
+        }
+      ]
+    },
+    {
+      "mbid": "3f17bf5c-e085-488c-837b-d55e43c4d40d",
+      "releaseMbid": "83a1479c-aca7-45b1-92a2-3f8285f2794a",
+      "title": "Reworks",
+      "type": "EP",
+      "releaseDate": "2024-07-24",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/3f17bf5c-e085-488c-837b-d55e43c4d40d/front-1200",
+      "tracks": [
+        {
+          "title": "Magno Interitus - Misstiq Rework",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 204798
+        },
+        {
+          "title": "Plague Bringer - Inhuman Rework",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 205562
+        },
+        {
+          "title": "If I Hang, Let Me Swing - John Cxnnor Rework",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 194500
+        },
+        {
+          "title": "Exit Wound - Johu Rework",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 206769
+        }
+      ]
+    },
+    {
+      "mbid": "ec8da3c6-5af2-408b-9a35-ae13650b5d03",
+      "releaseMbid": "10771846-ffd3-43db-adc7-471c229c1e54",
+      "title": "Everything Rots",
+      "type": "ALBUM",
+      "releaseDate": "2025-03-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ec8da3c6-5af2-408b-9a35-ae13650b5d03/front-1200",
+      "tracks": [
+        {
+          "title": "Become Nothing",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 89186
+        },
+        {
+          "title": "Redemption Denied",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 181226
+        },
+        {
+          "title": "Everything Rots",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 157360
+        },
+        {
+          "title": "No Peace",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 197226
+        },
+        {
+          "title": "Hell Hounds",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 162733
+        },
+        {
+          "title": "Still Cursed",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 184626
+        },
+        {
+          "title": "Unveiled",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 145200
+        },
+        {
+          "title": "Forever Marked",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 205720
+        },
+        {
+          "title": "End Times",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 165706
+        },
+        {
+          "title": "Snake Tongues",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 226120
+        },
+        {
+          "title": "Stuck",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 205026
+        },
+        {
+          "title": "Beneath Blackened Skies",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 211973
+        }
+      ]
+    },
+    {
+      "mbid": "b42e43b8-af5c-46cb-abc5-89542f400dde",
+      "releaseMbid": "e4e79b91-c6f3-4e8d-a1c9-7c5c865c7cd1",
+      "title": "It’s All Bleak",
+      "type": "EP",
+      "releaseDate": "2026-04-10",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "BLEAK",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 43273
+        },
+        {
+          "title": "Leech",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 120174
+        },
+        {
+          "title": "Dig Deep",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 127093
+        },
+        {
+          "title": "Burned Out",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 118223
+        },
+        {
+          "title": "It's All Bleak",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 136667
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

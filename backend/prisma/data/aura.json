@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-11-19T11:50:46.539Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "d4130096-c4eb-4847-ab81-9887d1a3eab4",
+    "name": "Aura...",
+    "slug": "aura",
+    "type": "BAND",
+    "country": "BR",
+    "city": "Minas Gerais",
+    "formedYear": 2002,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/d4130096-c4eb-4847-ab81-9887d1a3eab4"
+      }
+    ],
+    "genres": [
+      "emo",
+      "indie-rock",
+      "screamo"
+    ]
+  },
+  "releases": [],
+  "pending": []
+}

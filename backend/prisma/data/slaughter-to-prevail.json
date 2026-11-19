@@ -1,0 +1,471 @@
+{
+  "generatedAt": "2026-11-18T20:40:49.676Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "4cda7e49-b8cc-4efe-a8f6-b294d812496d",
+    "name": "Slaughter to Prevail",
+    "slug": "slaughter-to-prevail",
+    "type": "BAND",
+    "country": "RU",
+    "city": "Yekaterinburg",
+    "formedYear": 2014,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/4cda7e49-b8cc-4efe-a8f6-b294d812496d"
+      }
+    ],
+    "genres": [
+      "deathcore",
+      "nu-metal"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "1321be06-cceb-453e-9094-b3da97bc1c9b",
+      "releaseMbid": "1a09adcf-e3ec-4c94-9cb8-a44e07982abf",
+      "title": "Chapters of Misery",
+      "type": "EP",
+      "releaseDate": "2015",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/1321be06-cceb-453e-9094-b3da97bc1c9b/front-1200",
+      "tracks": [
+        {
+          "title": "Intro",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 85000
+        },
+        {
+          "title": "Hell (Ад)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 265000
+        },
+        {
+          "title": "Beast (Зверь)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 230000
+        },
+        {
+          "title": "Death (Смерть)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 287000
+        },
+        {
+          "title": "Misery (Страдание)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 251000
+        },
+        {
+          "title": "Crowned & Conquered",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 182000
+        }
+      ]
+    },
+    {
+      "mbid": "b0179bcb-a219-4f62-a9fc-0840389cb237",
+      "releaseMbid": "20f8fe27-47fb-4800-aca9-f726ff749010",
+      "title": "Misery Sermon",
+      "type": "ALBUM",
+      "releaseDate": "2017-05-05",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b0179bcb-a219-4f62-a9fc-0840389cb237/front-1200",
+      "tracks": [
+        {
+          "title": "Misery Sermon",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 325000
+        },
+        {
+          "title": "Russian Hate",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 191000
+        },
+        {
+          "title": "Chronic Slaughter",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 292000
+        },
+        {
+          "title": "King",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 254000
+        },
+        {
+          "title": "Failed Hope",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 234000
+        },
+        {
+          "title": "Born to Die",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 232000
+        },
+        {
+          "title": "666",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 248000
+        },
+        {
+          "title": "The Hell in Man",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 221000
+        },
+        {
+          "title": "Malice of Rites",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 278000
+        },
+        {
+          "title": "Below",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 149000
+        },
+        {
+          "title": "Cultural Ills",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 256000
+        }
+      ]
+    },
+    {
+      "mbid": "0970ad7f-e86e-456a-b7b2-274e6bb6e5bb",
+      "releaseMbid": "71e9b1fc-b6b3-4abf-82c1-ad7e2784e1c3",
+      "title": "Kostolom",
+      "type": "ALBUM",
+      "releaseDate": "2021-08-13",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Bonebreaker",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 265000
+        },
+        {
+          "title": "Demolisher",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 216000
+        },
+        {
+          "title": "Baba Yaga",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 255000
+        },
+        {
+          "title": "Made in Russia",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 235000
+        },
+        {
+          "title": "Zavali Ebalo",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 231000
+        },
+        {
+          "title": "Agony",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 237000
+        },
+        {
+          "title": "Your Only",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 233000
+        },
+        {
+          "title": "I Killed a Man",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 245000
+        },
+        {
+          "title": "Bratva",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 290000
+        },
+        {
+          "title": "Ouroboros",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 231000
+        },
+        {
+          "title": "Head on a Plate",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 268000
+        },
+        {
+          "title": "Father",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 235000
+        }
+      ]
+    },
+    {
+      "mbid": "c1350ba3-38d5-4bcf-b471-88d667402b8c",
+      "releaseMbid": "3b91cc69-d422-42ce-8bac-8a9493f0c5a2",
+      "title": "Live in Moscow",
+      "type": "LIVE",
+      "releaseDate": "2023-06-30",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c1350ba3-38d5-4bcf-b471-88d667402b8c/front-1200",
+      "tracks": [
+        {
+          "title": "Bonebreaker",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 271209
+        },
+        {
+          "title": "Agony",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 243716
+        },
+        {
+          "title": "Zavali Ebalo",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 238515
+        },
+        {
+          "title": "Hell",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 273438
+        },
+        {
+          "title": "Bratva",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 293500
+        },
+        {
+          "title": "Made in Russia",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 241487
+        },
+        {
+          "title": "Chronic Slaughter",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 299400
+        },
+        {
+          "title": "I Killed a Man",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 247431
+        },
+        {
+          "title": "Death",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 280868
+        },
+        {
+          "title": "Baba Yaga",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 254862
+        },
+        {
+          "title": "Demolisher",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 220682
+        },
+        {
+          "title": "King",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 266007
+        }
+      ]
+    },
+    {
+      "mbid": "b78a3fa3-3485-4edc-8e58-76f9d0d8c91b",
+      "releaseMbid": "0fef151b-d7e3-4a71-a6b3-0f875ddea2bb",
+      "title": "Behelit",
+      "type": "EP",
+      "releaseDate": "2024-10-15",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Behelit",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 248571
+        },
+        {
+          "title": "Kid of Darkness",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 265000
+        },
+        {
+          "title": "Conflict",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 144000
+        },
+        {
+          "title": "VIKING",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 271000
+        }
+      ]
+    },
+    {
+      "mbid": "ed5ae1d7-1832-4bda-8352-a66225a38062",
+      "releaseMbid": "b0e574cd-77ea-41f4-93bd-e65e86285314",
+      "title": "Song 3",
+      "type": "EP",
+      "releaseDate": "2025-05-28",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ed5ae1d7-1832-4bda-8352-a66225a38062/front-1200",
+      "tracks": [
+        {
+          "title": "Song 3",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 214193
+        },
+        {
+          "title": "Russian Grizzly in America",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 254376
+        },
+        {
+          "title": "Behelit",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 249444
+        }
+      ]
+    },
+    {
+      "mbid": "76488bcf-a3f7-4ab1-8150-f8c4cefb6060",
+      "releaseMbid": "31d1c77f-2ce1-4444-bfe5-223b8a64d6ed",
+      "title": "Grizzly",
+      "type": "ALBUM",
+      "releaseDate": "2025-07-18",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/76488bcf-a3f7-4ab1-8150-f8c4cefb6060/front-1200",
+      "tracks": [
+        {
+          "title": "Banditos",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 292404
+        },
+        {
+          "title": "Russian Grizzly in America",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 254376
+        },
+        {
+          "title": "Imdead",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 229982
+        },
+        {
+          "title": "Babayka",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 238370
+        },
+        {
+          "title": "Viking",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 271908
+        },
+        {
+          "title": "Koschei",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 185421
+        },
+        {
+          "title": "Song 3",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 214193
+        },
+        {
+          "title": "Lift That Shit",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 186573
+        },
+        {
+          "title": "Behelit",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 249444
+        },
+        {
+          "title": "Rodina",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 271239
+        },
+        {
+          "title": "Conflict",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 142868
+        },
+        {
+          "title": "Kid of Darkness",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 263077
+        },
+        {
+          "title": "1984",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 214628
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

@@ -1,0 +1,695 @@
+{
+  "generatedAt": "2026-11-18T20:11:59.583Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "5c14e10e-735e-4108-a8a5-74d8771672da",
+    "name": "ERRA",
+    "slug": "erra",
+    "type": "BAND",
+    "country": "US",
+    "city": "Birmingham",
+    "formedYear": 2009,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/5c14e10e-735e-4108-a8a5-74d8771672da"
+      }
+    ],
+    "genres": [
+      "metalcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "b3b6f548-9847-447d-b115-0bbaa2305715",
+      "releaseMbid": "4c4e8146-15ce-4308-8e05-0829332b6fce",
+      "title": "Erra",
+      "type": "EP",
+      "releaseDate": "2010-05-04",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b3b6f548-9847-447d-b115-0bbaa2305715/front-1200",
+      "tracks": [
+        {
+          "title": "Faction",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 165000
+        },
+        {
+          "title": "Towers",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 263000
+        },
+        {
+          "title": "Separate and Coalesce",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 285000
+        },
+        {
+          "title": "Dissention",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 189000
+        }
+      ]
+    },
+    {
+      "mbid": "20238241-dbf6-44bd-958a-533762067b41",
+      "releaseMbid": "43884d4a-a3c9-4cf7-a9e3-7db84384b685",
+      "title": "Andromeda",
+      "type": "EP",
+      "releaseDate": "2010-12-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/20238241-dbf6-44bd-958a-533762067b41/front-1200",
+      "tracks": [
+        {
+          "title": "Omega Children",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 42306
+        },
+        {
+          "title": "Machina",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 224773
+        },
+        {
+          "title": "Of Rare Reform",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 269426
+        },
+        {
+          "title": "Isolation Blue",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 342613
+        },
+        {
+          "title": "The Scenic Route",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 218613
+        },
+        {
+          "title": "Daughter of Sky",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 39520
+        },
+        {
+          "title": "Andromeda",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 381146
+        }
+      ]
+    },
+    {
+      "mbid": "f97df09c-c667-4938-a06a-834967a6a02b",
+      "releaseMbid": "6bc4b7b5-926d-4321-985c-a6b8b373c894",
+      "title": "Impulse",
+      "type": "ALBUM",
+      "releaseDate": "2011-11-30",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f97df09c-c667-4938-a06a-834967a6a02b/front-1200",
+      "tracks": [
+        {
+          "title": "White Noise",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 242240
+        },
+        {
+          "title": "Pattern Interrupt",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 189760
+        },
+        {
+          "title": "Seven",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 197066
+        },
+        {
+          "title": "The Architect",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 196053
+        },
+        {
+          "title": "Efflorescent",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 237960
+        },
+        {
+          "title": "Vaalbara",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 254573
+        },
+        {
+          "title": "Heart",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 211973
+        },
+        {
+          "title": "Obscure Words",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 184666
+        },
+        {
+          "title": "Invent",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 282693
+        },
+        {
+          "title": "Render the Void",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 347760
+        }
+      ]
+    },
+    {
+      "mbid": "d0aa10fe-b3e7-4aa2-a585-b0c7a27c8b9f",
+      "releaseMbid": "1f8a617b-40c3-474f-a811-46c110826a52",
+      "title": "Augment",
+      "type": "ALBUM",
+      "releaseDate": "2013-10-29",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d0aa10fe-b3e7-4aa2-a585-b0c7a27c8b9f/front-1200",
+      "tracks": [
+        {
+          "title": "Alpha Seed",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 296000
+        },
+        {
+          "title": "Pulse",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 243000
+        },
+        {
+          "title": "Dreamwalkers",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 236000
+        },
+        {
+          "title": "Frostbite",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 233000
+        },
+        {
+          "title": "Hybrid Earth",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 260000
+        },
+        {
+          "title": "Rebirth",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 292000
+        },
+        {
+          "title": "Ultraviolet",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 292000
+        },
+        {
+          "title": "Spirits Away",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 256000
+        },
+        {
+          "title": "Prometheus",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 256000
+        },
+        {
+          "title": "Crimson",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 271000
+        },
+        {
+          "title": "Augment",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 73000
+        },
+        {
+          "title": "Dementia",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 454000
+        }
+      ]
+    },
+    {
+      "mbid": "4835e269-f191-420e-a0e8-b1f97055f21e",
+      "releaseMbid": "4a4894a4-8ab7-4b84-909d-0adcf6c2e25a",
+      "title": "Moments of Clarity",
+      "type": "EP",
+      "releaseDate": "2014-11-10",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4835e269-f191-420e-a0e8-b1f97055f21e/front-1200",
+      "tracks": [
+        {
+          "title": "Dreamcatcher",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 299026
+        },
+        {
+          "title": "Warrior",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 235333
+        },
+        {
+          "title": "Lights City",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 297520
+        },
+        {
+          "title": "Our Translucent Forever",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 269013
+        },
+        {
+          "title": "Moments of Clarity",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 287613
+        }
+      ]
+    },
+    {
+      "mbid": "44ade7aa-5c0c-4f76-b515-d9e82dbaa17e",
+      "releaseMbid": "470952e2-b68b-46bf-bc22-8ec7bfba3176",
+      "title": "Drift",
+      "type": "ALBUM",
+      "releaseDate": "2016-04-08",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/44ade7aa-5c0c-4f76-b515-d9e82dbaa17e/front-1200",
+      "tracks": [
+        {
+          "title": "Luminesce",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 205893
+        },
+        {
+          "title": "Irreversible",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 265520
+        },
+        {
+          "title": "Skyline",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 285706
+        },
+        {
+          "title": "Hourglass",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 236506
+        },
+        {
+          "title": "Orchid",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 264960
+        },
+        {
+          "title": "Drift",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 275853
+        },
+        {
+          "title": "Sleeper",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 200066
+        },
+        {
+          "title": "Continuum",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 257533
+        },
+        {
+          "title": "Safehaven",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 384080
+        },
+        {
+          "title": "The Hypnotist",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 355106
+        }
+      ]
+    },
+    {
+      "mbid": "c022008a-a74e-4b4c-8035-dee004b5d800",
+      "releaseMbid": "909c9823-7858-4d27-88e1-fc3c6253e9f3",
+      "title": "Neon",
+      "type": "ALBUM",
+      "releaseDate": "2018-08-10",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c022008a-a74e-4b4c-8035-dee004b5d800/front-1200",
+      "tracks": [
+        {
+          "title": "Breach",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 282760
+        },
+        {
+          "title": "Monolith",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 237053
+        },
+        {
+          "title": "Signal Fire",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 257400
+        },
+        {
+          "title": "Valhalla",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 296947
+        },
+        {
+          "title": "Hyperreality",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 238147
+        },
+        {
+          "title": "Ghost of Nothing",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 254013
+        },
+        {
+          "title": "Disarray",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 230000
+        },
+        {
+          "title": "Expiate",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 213480
+        },
+        {
+          "title": "Unify",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 233613
+        },
+        {
+          "title": "Ultimata",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 296613
+        }
+      ]
+    },
+    {
+      "mbid": "a5c25d36-a887-467f-8aca-6490a7c47f9e",
+      "releaseMbid": "4ab14a9f-0bdc-432a-80c5-bf1b403e6dca",
+      "title": "ERRA",
+      "type": "ALBUM",
+      "releaseDate": "2021-03-19",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Snowblood",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 253813
+        },
+        {
+          "title": "Gungrave",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 240653
+        },
+        {
+          "title": "Divisionary",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 221866
+        },
+        {
+          "title": "House of Glass",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 260506
+        },
+        {
+          "title": "Shadow Autonomous",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 317440
+        },
+        {
+          "title": "Electric Twilight",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 265160
+        },
+        {
+          "title": "Scorpion Hymn",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 230320
+        },
+        {
+          "title": "Lunar Halo",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 351813
+        },
+        {
+          "title": "Vanish Canvas",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 286160
+        },
+        {
+          "title": "Eidolon",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 277426
+        },
+        {
+          "title": "Remnant",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 260746
+        },
+        {
+          "title": "Memory Fiction",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 247386
+        }
+      ]
+    },
+    {
+      "mbid": "207c3c2e-4aa3-490b-a730-d0a86d0f8a8c",
+      "releaseMbid": "9bb7176c-8f76-4cf3-989d-35a3720b675c",
+      "title": "CURE",
+      "type": "ALBUM",
+      "releaseDate": "2024-04-05",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/207c3c2e-4aa3-490b-a730-d0a86d0f8a8c/front-1200",
+      "tracks": [
+        {
+          "title": "Cure",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 225986
+        },
+        {
+          "title": "Rumor of Light",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 242946
+        },
+        {
+          "title": "Idle Wild",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 252106
+        },
+        {
+          "title": "Blue Reverie",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 301840
+        },
+        {
+          "title": "Slow Sour Bleed",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 247573
+        },
+        {
+          "title": "Wish",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 85813
+        },
+        {
+          "title": "Glimpse",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 263800
+        },
+        {
+          "title": "Past Life Persona",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 281973
+        },
+        {
+          "title": "Crawl Backwards Out of Heaven",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 205746
+        },
+        {
+          "title": "End to Excess",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 251146
+        },
+        {
+          "title": "Pale Iris",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 264120
+        },
+        {
+          "title": "Wave",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 298880
+        }
+      ]
+    },
+    {
+      "mbid": "63ad113c-3dfb-483f-9428-6f77641b47a5",
+      "releaseMbid": "0e7ff59e-c2e1-4fcd-a27e-0bf1ba4c461a",
+      "title": "silence outlives the earth",
+      "type": "ALBUM",
+      "releaseDate": "2026-03-06",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "stelliform",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 234000
+        },
+        {
+          "title": "further eden",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 211000
+        },
+        {
+          "title": "gore of being",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 231000
+        },
+        {
+          "title": "black cloud",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 218000
+        },
+        {
+          "title": "cicada siren",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 237000
+        },
+        {
+          "title": "echo sonata",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 268000
+        },
+        {
+          "title": "lucid threshold",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 220000
+        },
+        {
+          "title": "spiral (of liminal infinity)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 257000
+        },
+        {
+          "title": "i. the many names of god",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 186000
+        },
+        {
+          "title": "ii. in the gut of the wolf",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 210000
+        },
+        {
+          "title": "iii. twilight in the reflection of dreams",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 280000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

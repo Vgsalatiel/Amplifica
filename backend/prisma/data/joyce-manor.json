@@ -1,0 +1,736 @@
+{
+  "generatedAt": "2026-11-19T11:12:47.082Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "945d3b69-27cd-45fa-b491-52553a63dead",
+    "name": "Joyce Manor",
+    "slug": "joyce-manor",
+    "type": "BAND",
+    "country": "US",
+    "city": "Torrance",
+    "formedYear": 2008,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/945d3b69-27cd-45fa-b491-52553a63dead"
+      }
+    ],
+    "genres": [
+      "emo",
+      "indie-rock",
+      "punk-rock"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "73465797-22a3-419b-9896-715b4fe94ee8",
+      "releaseMbid": "53c6f77d-1f73-4d26-8a02-9d90e090bc0b",
+      "title": "2/15/09 Demo",
+      "type": "EP",
+      "releaseDate": "2009",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/73465797-22a3-419b-9896-715b4fe94ee8/front-1200",
+      "tracks": [
+        {
+          "title": "Stir Crazy",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Fuck Koalacaust",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Housewarming Party",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Party To End All Parties",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "a8b590e2-ae2c-4f0c-8317-1e8bd3a7d7e8",
+      "releaseMbid": "1942de0b-4872-4412-bd44-4751c7f76751",
+      "title": "Ew Gross",
+      "type": "EP",
+      "releaseDate": "2009",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a8b590e2-ae2c-4f0c-8317-1e8bd3a7d7e8/front-1200",
+      "tracks": [
+        {
+          "title": "Chumped on a Bus",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 109000
+        },
+        {
+          "title": "Derailed",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 147000
+        },
+        {
+          "title": "Dry Heat",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 61000
+        },
+        {
+          "title": "Do Fish Have Periods?",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 66000
+        },
+        {
+          "title": "I Know Why",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 76000
+        },
+        {
+          "title": "James",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 89000
+        },
+        {
+          "title": "Shortout Socket",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 86000
+        },
+        {
+          "title": "Stir Crazy",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 86000
+        }
+      ]
+    },
+    {
+      "mbid": "d3b150c4-9de0-415d-b5d8-0c9881cdd40a",
+      "releaseMbid": "60cac73c-206e-431b-b3c3-1fca5674885f",
+      "title": "Constant Headache",
+      "type": "EP",
+      "releaseDate": "2010-03-20",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d3b150c4-9de0-415d-b5d8-0c9881cdd40a/front-1200",
+      "tracks": [
+        {
+          "title": "Constant Nothing",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 87000
+        },
+        {
+          "title": "Done Right Discount Flooring",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 81000
+        },
+        {
+          "title": "Five Beer Plan",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 116000
+        },
+        {
+          "title": "Chumped",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 98000
+        },
+        {
+          "title": "Leather Jacket",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 137000
+        }
+      ]
+    },
+    {
+      "mbid": "0d3b2364-5482-44b2-90bf-d72ffc3e7e08",
+      "releaseMbid": "39e54faa-416b-43d7-928e-b39c9b6e2ae9",
+      "title": "Summer Vacation / Joyce Manor",
+      "type": "EP",
+      "releaseDate": "2010-07-17",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0d3b2364-5482-44b2-90bf-d72ffc3e7e08/front-1200",
+      "tracks": [
+        {
+          "title": "Holiday Heart",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 63387
+        },
+        {
+          "title": "DFHP",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 54493
+        },
+        {
+          "title": "My Elise",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 128813
+        }
+      ]
+    },
+    {
+      "mbid": "5e9f2e69-9d46-4f5d-89d3-bbc187f4b7ee",
+      "releaseMbid": "14652476-4bb0-4ed4-bdf1-79b8d31bcf6a",
+      "title": "Joyce Manor",
+      "type": "ALBUM",
+      "releaseDate": "2011-01-11",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/5e9f2e69-9d46-4f5d-89d3-bbc187f4b7ee/front-1200",
+      "tracks": [
+        {
+          "title": "Orange Julius",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 76000
+        },
+        {
+          "title": "Call Out (Laundry)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 120000
+        },
+        {
+          "title": "Beach Community",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 100000
+        },
+        {
+          "title": "Derailed",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 103000
+        },
+        {
+          "title": "Famous Friend",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 90000
+        },
+        {
+          "title": "Leather Jacket",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 134000
+        },
+        {
+          "title": "21st Dead Rats",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 93000
+        },
+        {
+          "title": "Constant Nothing",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 84000
+        },
+        {
+          "title": "Ashtray Petting Zoo",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 138000
+        },
+        {
+          "title": "Constant Headache",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 184000
+        }
+      ]
+    },
+    {
+      "mbid": "3ceee9ce-7ecf-4b9d-9c0b-0663a6b66442",
+      "releaseMbid": "78752c6a-7804-468f-acbc-9b4fcf15a9b2",
+      "title": "Joyce Manor / Big Kids",
+      "type": "EP",
+      "releaseDate": "2011-04-26",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/3ceee9ce-7ecf-4b9d-9c0b-0663a6b66442/front-1200",
+      "tracks": [
+        {
+          "title": "New in This Light",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Midnight Service at the Mutter Museum",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Pig Through a Python",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "db51df34-daba-47d6-b48d-c680188d5e8a",
+      "releaseMbid": "5d4ea8bb-a7b3-4969-a958-a431652a844a",
+      "title": "Of All Things I Will Soon Grow Tired",
+      "type": "ALBUM",
+      "releaseDate": "2012-04-03",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/db51df34-daba-47d6-b48d-c680188d5e8a/front-1200",
+      "tracks": [
+        {
+          "title": "These Kind of Ice Skates",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 79000
+        },
+        {
+          "title": "Comfortable Clothes",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 64000
+        },
+        {
+          "title": "See How Tame I Can Be?",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 89000
+        },
+        {
+          "title": "Drainage",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 71000
+        },
+        {
+          "title": "Video Killed the Radio Star",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 136000
+        },
+        {
+          "title": "If I Needed You There",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 67000
+        },
+        {
+          "title": "Bride of Usher",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 139000
+        },
+        {
+          "title": "Violent Inside",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 90000
+        },
+        {
+          "title": "I’m Always Tired",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 49000
+        }
+      ]
+    },
+    {
+      "mbid": "015d5604-ff1d-4d94-91e2-cb253b065767",
+      "releaseMbid": "a46f00f3-2853-4aa4-8bc8-e7b561282a02",
+      "title": "Never Hungover Again",
+      "type": "ALBUM",
+      "releaseDate": "2014-07-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/015d5604-ff1d-4d94-91e2-cb253b065767/front-1200",
+      "tracks": [
+        {
+          "title": "Christmas Card",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 125000
+        },
+        {
+          "title": "Falling in Love Again",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 148000
+        },
+        {
+          "title": "End of the Summer",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 110000
+        },
+        {
+          "title": "Victoria",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 100000
+        },
+        {
+          "title": "Schley",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 127000
+        },
+        {
+          "title": "Heart Tattoo",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 111000
+        },
+        {
+          "title": "The Jerk",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 106000
+        },
+        {
+          "title": "In the Army Now",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 141000
+        },
+        {
+          "title": "Catalina Fight Song",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 65000
+        },
+        {
+          "title": "Heated Swimming Pool",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 110000
+        }
+      ]
+    },
+    {
+      "mbid": "43f2ca4e-693e-49ae-a731-fec5ac126e32",
+      "releaseMbid": "0a1a01b0-5982-4672-81eb-b71bf1a48680",
+      "title": "Joyce Manor / Toys That Kill Split",
+      "type": "EP",
+      "releaseDate": "2014-12-09",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/43f2ca4e-693e-49ae-a731-fec5ac126e32/front-1200",
+      "tracks": [
+        {
+          "title": "Tame",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 87000
+        },
+        {
+          "title": "Bride",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 159000
+        },
+        {
+          "title": "Times We Can't Let Go",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 115000
+        },
+        {
+          "title": "I Am Decided",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 134000
+        }
+      ]
+    },
+    {
+      "mbid": "54032297-4c5c-4539-bcf4-71576898c8ac",
+      "releaseMbid": "1ac3c2b1-7d13-48a1-b60f-3b4fee016009",
+      "title": "Cody",
+      "type": "ALBUM",
+      "releaseDate": "2016-10-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/54032297-4c5c-4539-bcf4-71576898c8ac/front-1200",
+      "tracks": [
+        {
+          "title": "Fake I.D.",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 140053
+        },
+        {
+          "title": "Eighteen",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 125467
+        },
+        {
+          "title": "Angel in the Snow",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 128560
+        },
+        {
+          "title": "Do You Really Want to Not Get Better?",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 76293
+        },
+        {
+          "title": "Last You Heard of Me",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 188173
+        },
+        {
+          "title": "Make Me Dumb",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 167827
+        },
+        {
+          "title": "Over Before It Began",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 171200
+        },
+        {
+          "title": "Reversing Machine",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 89093
+        },
+        {
+          "title": "Stairs",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 242053
+        },
+        {
+          "title": "This Song Is a Mess but So Am I",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 144282
+        }
+      ]
+    },
+    {
+      "mbid": "de68518f-4972-4bb2-b940-ae517f85d2c1",
+      "releaseMbid": "5e2eb17f-7d15-4a6a-8b39-2cde9553f890",
+      "title": "Million Dollars to Kill Me",
+      "type": "ALBUM",
+      "releaseDate": "2018-09-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/de68518f-4972-4bb2-b940-ae517f85d2c1/front-1200",
+      "tracks": [
+        {
+          "title": "Fighting Kangaroo",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 120000
+        },
+        {
+          "title": "Think I'm Still in Love With You",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 167813
+        },
+        {
+          "title": "Big Lie",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 165000
+        },
+        {
+          "title": "I'm Not the One",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 151000
+        },
+        {
+          "title": "Million Dollars to Kill Me",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 129520
+        },
+        {
+          "title": "Silly Games",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 155853
+        },
+        {
+          "title": "Friends We Met Online",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 131000
+        },
+        {
+          "title": "Up the Punx",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 93000
+        },
+        {
+          "title": "Gone Tomorrow",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 129000
+        },
+        {
+          "title": "Wildflowers",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 111000
+        }
+      ]
+    },
+    {
+      "mbid": "259a789a-e5e6-496a-91a7-b69bf8b38947",
+      "releaseMbid": "53bd635e-1bd2-46b0-b18a-d16bf4c68579",
+      "title": "40 Oz. to Fresno",
+      "type": "ALBUM",
+      "releaseDate": "2022-06-10",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/259a789a-e5e6-496a-91a7-b69bf8b38947/front-1200",
+      "tracks": [
+        {
+          "title": "Souvenir",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "NBTSA",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Reason to Believe",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "You’re Not Famous Anymore",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Don’t Try",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Gotta Let It Go",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Dance With Me",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Did You Ever Know?",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "Secret Sisters",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "67cef8db-fc04-4453-ba30-6b9090a09a29",
+      "releaseMbid": "0bc5ed74-9648-4580-b178-86f019fa4998",
+      "title": "I Used to Go to This Bar",
+      "type": "ALBUM",
+      "releaseDate": "2026-01-30",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/67cef8db-fc04-4453-ba30-6b9090a09a29/front-1200",
+      "tracks": [
+        {
+          "title": "I Know Where Mark Chen Lives",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 110101
+        },
+        {
+          "title": "Falling Into It",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 110844
+        },
+        {
+          "title": "All My Friends Are So Depressed",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 162887
+        },
+        {
+          "title": "Well, Whatever It Was",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 126488
+        },
+        {
+          "title": "I Used to Go to This Bar",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 132598
+        },
+        {
+          "title": "After All You Put Me Through",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 138820
+        },
+        {
+          "title": "The Opossum",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 118182
+        },
+        {
+          "title": "Well, Don’t It Seem Like You’ve Been Here Before?",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 114916
+        },
+        {
+          "title": "Grey Guitar",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 133482
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

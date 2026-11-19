@@ -1,0 +1,240 @@
+{
+  "generatedAt": "2026-11-19T11:47:47.687Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "f8f8e442-03ec-4df6-b95e-d71f8252a461",
+    "name": "Point of No Return",
+    "slug": "point-of-no-return",
+    "type": "BAND",
+    "country": "BR",
+    "city": "São Paulo",
+    "formedYear": 1996,
+    "disbandedYear": 2006,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/f8f8e442-03ec-4df6-b95e-d71f8252a461"
+      }
+    ],
+    "genres": [
+      "metalcore",
+      "hardcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "f0093b86-b03e-4cad-9a0f-42f04afdc9d9",
+      "releaseMbid": "2712ac72-275a-470e-978a-3ef848f3a075",
+      "title": "What Was Done",
+      "type": "EP",
+      "releaseDate": "1998-07-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f0093b86-b03e-4cad-9a0f-42f04afdc9d9/front-1200",
+      "tracks": [
+        {
+          "title": "What Was Done",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 193000
+        },
+        {
+          "title": "The End",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 197000
+        },
+        {
+          "title": "Seduction",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 185000
+        },
+        {
+          "title": "Five Years",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 202000
+        }
+      ]
+    },
+    {
+      "mbid": "c0a8a843-f61d-37f1-9ced-1db5326cc211",
+      "releaseMbid": "79579bcc-d327-45bd-93a0-a1a2692c3c81",
+      "title": "Centelha",
+      "type": "ALBUM",
+      "releaseDate": "2000",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c0a8a843-f61d-37f1-9ced-1db5326cc211/front-1200",
+      "tracks": [
+        {
+          "title": "Casa de caboclo",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 165133
+        },
+        {
+          "title": "Sparks",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 172466
+        },
+        {
+          "title": "Resposta a sangue e fogo",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 194480
+        },
+        {
+          "title": "Your Bosses' Utopia",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 183813
+        },
+        {
+          "title": "Bate e apanha",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 53600
+        },
+        {
+          "title": "Bloodless Life",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 147773
+        },
+        {
+          "title": "Again and Again",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 171040
+        },
+        {
+          "title": "Letargia",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 250694
+        }
+      ]
+    },
+    {
+      "mbid": "d4839c1b-2a0f-3766-9573-055a201f1f30",
+      "releaseMbid": "c1d5623a-4a09-47b8-b3b4-5e93214140bc",
+      "title": "Liberdade Imposta, Liberdade Conquistada",
+      "type": "ALBUM",
+      "releaseDate": "2002",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d4839c1b-2a0f-3766-9573-055a201f1f30/front-1200",
+      "tracks": [
+        {
+          "title": "Stones",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 218000
+        },
+        {
+          "title": "Fences",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 126000
+        },
+        {
+          "title": "Whips",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 256000
+        },
+        {
+          "title": "Screens",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 208000
+        },
+        {
+          "title": "Gallows",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 227000
+        },
+        {
+          "title": "Mirrors",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 178000
+        },
+        {
+          "title": "Bridges",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 1407000
+        }
+      ]
+    },
+    {
+      "mbid": "608e6733-41a5-4335-8e5a-c4831ad89ff0",
+      "releaseMbid": "2b7ce0b7-558d-4223-9abe-6df666ad145a",
+      "title": "The Language of Refusal",
+      "type": "ALBUM",
+      "releaseDate": "2024-07-26",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/608e6733-41a5-4335-8e5a-c4831ad89ff0/front-1200",
+      "tracks": [
+        {
+          "title": "A fronteira",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 147000
+        },
+        {
+          "title": "Guile",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 140000
+        },
+        {
+          "title": "Informal Arcaico",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 128000
+        },
+        {
+          "title": "A Song of Incubating Despotism",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 134000
+        },
+        {
+          "title": "Potency",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 142000
+        },
+        {
+          "title": "Corroded Cartopia",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 128000
+        },
+        {
+          "title": "De segunda classe para o abismo",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 134000
+        },
+        {
+          "title": "Arbitrária discriminação",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 116000
+        },
+        {
+          "title": "The Folly of Righteousness",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 120000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

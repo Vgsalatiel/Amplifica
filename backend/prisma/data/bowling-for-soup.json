@@ -1,0 +1,1372 @@
+{
+  "generatedAt": "2026-11-19T11:43:48.961Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "bcb95908-5c6e-453a-97fc-d69003d250ff",
+    "name": "Bowling for Soup",
+    "slug": "bowling-for-soup",
+    "type": "BAND",
+    "country": "US",
+    "city": "Wichita Falls",
+    "formedYear": 1994,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/bcb95908-5c6e-453a-97fc-d69003d250ff"
+      }
+    ],
+    "genres": [
+      "pop-punk",
+      "punk-rock",
+      "alternative-rock"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "bee0f989-b855-3298-91ff-6aca3c579407",
+      "releaseMbid": "3283dcf5-0127-4bd9-9bc3-90416085a467",
+      "title": "Bowling for Soup",
+      "type": "ALBUM",
+      "releaseDate": "1994-09",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/bee0f989-b855-3298-91ff-6aca3c579407/front-1200",
+      "tracks": [
+        {
+          "title": "Thirteen",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 189760
+        },
+        {
+          "title": "Shark",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 302240
+        },
+        {
+          "title": "Crayon",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 194066
+        },
+        {
+          "title": "Swim",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 210760
+        },
+        {
+          "title": "Nebraska",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 220666
+        },
+        {
+          "title": "Sandwich",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 227533
+        },
+        {
+          "title": "Sofa",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 178666
+        },
+        {
+          "title": "Pesticide",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 160666
+        },
+        {
+          "title": "Slurpee",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 187773
+        },
+        {
+          "title": "Hit",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 264320
+        },
+        {
+          "title": "Psycho",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 219346
+        },
+        {
+          "title": "Monopoly",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 228560
+        },
+        {
+          "title": "London",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 380773
+        },
+        {
+          "title": "Brooklyn Bridge",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 95733
+        },
+        {
+          "title": "Oliver",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 204560
+        }
+      ]
+    },
+    {
+      "mbid": "bab95f9f-4cff-3213-9720-41a313f900ea",
+      "releaseMbid": "afd7bd17-0cae-4da8-bef6-62d9d02a63a4",
+      "title": "Cell Mates",
+      "type": "ALBUM",
+      "releaseDate": "1996-02-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/bab95f9f-4cff-3213-9720-41a313f900ea/front-1200",
+      "tracks": [
+        {
+          "title": "King Bong",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 114000
+        },
+        {
+          "title": "I Hate McDonald’s",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 122000
+        },
+        {
+          "title": "I Don’t Know",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 139000
+        },
+        {
+          "title": "Navy Sex Offender",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 160000
+        },
+        {
+          "title": "Cody",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 241000
+        },
+        {
+          "title": "Kool-Aid",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 191000
+        },
+        {
+          "title": "Assman",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 209000
+        },
+        {
+          "title": "Girl You Want (Just a Girl)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 145000
+        },
+        {
+          "title": "Nathaniel",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 150000
+        },
+        {
+          "title": "Suspicious Minds",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 140000
+        },
+        {
+          "title": "Wisk",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 185000
+        }
+      ]
+    },
+    {
+      "mbid": "a1a6d913-68a2-3223-ac13-ffe98c12aac0",
+      "releaseMbid": "1e2dda76-b2cb-44bc-b008-a08772622bf0",
+      "title": "Rock On Honorable Ones!!",
+      "type": "ALBUM",
+      "releaseDate": "1998-05-03",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a1a6d913-68a2-3223-ac13-ffe98c12aac0/front-1200",
+      "tracks": [
+        {
+          "title": "2113",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 289360
+        },
+        {
+          "title": "Scope",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 218360
+        },
+        {
+          "title": "Valentino",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 209973
+        },
+        {
+          "title": "Corndog",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 254373
+        },
+        {
+          "title": "Cody",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 260320
+        },
+        {
+          "title": "Belgium",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 215506
+        },
+        {
+          "title": "Milo",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 226786
+        },
+        {
+          "title": "Captain Hook",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 225293
+        },
+        {
+          "title": "Ack!!",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 220640
+        },
+        {
+          "title": "Thespian",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 277306
+        },
+        {
+          "title": "Kool‐Aid",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 220426
+        },
+        {
+          "title": "I Don’t Know",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 146146
+        },
+        {
+          "title": "Wisk",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 201280
+        },
+        {
+          "title": "Assman",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 234040
+        },
+        {
+          "title": "Friday",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 291346
+        }
+      ]
+    },
+    {
+      "mbid": "6054423a-52c5-38b4-ba6d-943848b305a7",
+      "releaseMbid": "11f1bf0e-e2b0-4cff-9978-c21c80ccef00",
+      "title": "Let’s Do It for Johnny!!",
+      "type": "ALBUM",
+      "releaseDate": "2000-05-12",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/6054423a-52c5-38b4-ba6d-943848b305a7/front-1200",
+      "tracks": [
+        {
+          "title": "Suckerpunch",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 196000
+        },
+        {
+          "title": "The Bitch Song",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 202000
+        },
+        {
+          "title": "Pictures He Drew",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 202000
+        },
+        {
+          "title": "Dance with You",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 208000
+        },
+        {
+          "title": "You and Me",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 244000
+        },
+        {
+          "title": "Scope",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 211000
+        },
+        {
+          "title": "Valentino",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 206000
+        },
+        {
+          "title": "Belgium",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 202000
+        },
+        {
+          "title": "Andrew",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 123000
+        },
+        {
+          "title": "Boulevard",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 212000
+        },
+        {
+          "title": "Hang On",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 215000
+        },
+        {
+          "title": "Summer of '69",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 183000
+        },
+        {
+          "title": "All Figured Out",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 252000
+        },
+        {
+          "title": "Soho",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 280000
+        },
+        {
+          "title": "Dumb",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 83000
+        },
+        {
+          "title": "Everything",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 135000
+        }
+      ]
+    },
+    {
+      "mbid": "49b7a8f6-c071-3f9b-a58c-fb6d7843147c",
+      "releaseMbid": "57e19df4-3bff-4e5e-8be4-76834de1e65d",
+      "title": "Drunk Enough to Dance",
+      "type": "ALBUM",
+      "releaseDate": "2002-08-06",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/49b7a8f6-c071-3f9b-a58c-fb6d7843147c/front-1200",
+      "tracks": [
+        {
+          "title": "I Don’t Wanna Rock",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 183760
+        },
+        {
+          "title": "Emily",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 210373
+        },
+        {
+          "title": "Girl All the Bad Guys Want",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 197800
+        },
+        {
+          "title": "On and On (About You)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 190466
+        },
+        {
+          "title": "Surf Colorado",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 234480
+        },
+        {
+          "title": "Life After Lisa",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 188773
+        },
+        {
+          "title": "Where to Begin",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 319520
+        },
+        {
+          "title": "The Last Rock Show",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 88920
+        },
+        {
+          "title": "Self‐Centered",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 180706
+        },
+        {
+          "title": "The Hard Way",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 189973
+        },
+        {
+          "title": "Out the Window",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 200586
+        },
+        {
+          "title": "Cold Shower Tuesdays",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 215653
+        },
+        {
+          "title": "Running From Your Dad",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 217640
+        },
+        {
+          "title": "Scaring Myself",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 211973
+        },
+        {
+          "title": "She’s Got a Boyfriend",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 231240
+        },
+        {
+          "title": "Greatest Day",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 199693
+        },
+        {
+          "title": "[silence]",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 4920
+        },
+        {
+          "title": "[silence]",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 4853
+        },
+        {
+          "title": "[silence]",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 4853
+        },
+        {
+          "title": "[silence]",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 4853
+        },
+        {
+          "title": "[silence]",
+          "discNumber": 1,
+          "position": 21,
+          "durationMs": 5013
+        },
+        {
+          "title": "[silence]",
+          "discNumber": 1,
+          "position": 22,
+          "durationMs": 4906
+        },
+        {
+          "title": "[silence]",
+          "discNumber": 1,
+          "position": 23,
+          "durationMs": 4893
+        },
+        {
+          "title": "[silence]",
+          "discNumber": 1,
+          "position": 24,
+          "durationMs": 4986
+        },
+        {
+          "title": "[silence]",
+          "discNumber": 1,
+          "position": 25,
+          "durationMs": 4946
+        },
+        {
+          "title": "[silence]",
+          "discNumber": 1,
+          "position": 26,
+          "durationMs": 4973
+        },
+        {
+          "title": "[silence]",
+          "discNumber": 1,
+          "position": 27,
+          "durationMs": 4973
+        },
+        {
+          "title": "Belgium (acoustic)",
+          "discNumber": 1,
+          "position": 28,
+          "durationMs": 285760
+        }
+      ]
+    },
+    {
+      "mbid": "30bbc3f1-a041-33e8-842d-6ee5818c695d",
+      "releaseMbid": "257b7279-4d53-4dd9-ba96-72201dd78efd",
+      "title": "A Hangover You Don’t Deserve",
+      "type": "ALBUM",
+      "releaseDate": "2004-09-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/30bbc3f1-a041-33e8-842d-6ee5818c695d/front-1200",
+      "tracks": [
+        {
+          "title": "Almost",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 206160
+        },
+        {
+          "title": "Trucker Hat",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 181000
+        },
+        {
+          "title": "1985",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 193000
+        },
+        {
+          "title": "Get Happy - Dirty",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 176906
+        },
+        {
+          "title": "Ohio (Come Back To Texas)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 230560
+        },
+        {
+          "title": "Ridiculous",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 238040
+        },
+        {
+          "title": "Shut‐Up And Smile",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 242600
+        },
+        {
+          "title": "Last Call Casualty",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 211893
+        },
+        {
+          "title": "Next Ex‐Girlfriend - Dirty",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 205600
+        },
+        {
+          "title": "A‐hole - Dirty",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 236640
+        },
+        {
+          "title": "My Hometown - Dirty",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 182200
+        },
+        {
+          "title": "Smoothie King",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 241733
+        },
+        {
+          "title": "Sad Sad Situation - Dirty",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 145760
+        },
+        {
+          "title": "Really Might Be Gone - Dirty",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 223333
+        },
+        {
+          "title": "Down For The Count",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 217000
+        },
+        {
+          "title": "Two‐Seater",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 235040
+        },
+        {
+          "title": "Friends O’ Mine",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 142893
+        }
+      ]
+    },
+    {
+      "mbid": "5c96b01a-b782-3aca-84cc-8872bedf31ce",
+      "releaseMbid": "96450217-b129-4a8e-a3d7-76263b1c148d",
+      "title": "The Great Burrito Extortion Case",
+      "type": "ALBUM",
+      "releaseDate": "2006-11-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/5c96b01a-b782-3aca-84cc-8872bedf31ce/front-1200",
+      "tracks": [
+        {
+          "title": "Epiphany",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 251893
+        },
+        {
+          "title": "High School Never Ends",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 211040
+        },
+        {
+          "title": "Val Kilmer",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 213826
+        },
+        {
+          "title": "I’m Gay",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 208933
+        },
+        {
+          "title": "Why Don’t I Miss You?",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 230533
+        },
+        {
+          "title": "A Friendly Goodbye",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 209706
+        },
+        {
+          "title": "Luckiest Loser",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 229906
+        },
+        {
+          "title": "Love Sick Stomach Ache (Sugar Coated Accident)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 248480
+        },
+        {
+          "title": "Much More Beautiful Person",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 206666
+        },
+        {
+          "title": "Friends Like You",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 152746
+        },
+        {
+          "title": "When We Die",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 255240
+        },
+        {
+          "title": "99 Biker Friends",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 196520
+        },
+        {
+          "title": "Don’t Let It Be Love",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 207973
+        },
+        {
+          "title": "If You Came Back to Me",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 353480
+        },
+        {
+          "title": "Baby One More Time",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 210000
+        },
+        {
+          "title": "No Opinion (acoustic)",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 209986
+        }
+      ]
+    },
+    {
+      "mbid": "6d4745b8-b8e2-4a9f-95b2-4fd0676bbbf8",
+      "releaseMbid": "bfa5e626-889c-493b-9f70-9ed3f6be9abf",
+      "title": "Sorry for Partyin’",
+      "type": "ALBUM",
+      "releaseDate": "2009-10-12",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/6d4745b8-b8e2-4a9f-95b2-4fd0676bbbf8/front-1200",
+      "tracks": [
+        {
+          "title": "Really Cool Dance Song",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 224546
+        },
+        {
+          "title": "No hablo inglés",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 210333
+        },
+        {
+          "title": "My Wena",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 169813
+        },
+        {
+          "title": "Only Young",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 226186
+        },
+        {
+          "title": "I Don’t Wish You Were Dead Anymore",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 165680
+        },
+        {
+          "title": "BFFF",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 231746
+        },
+        {
+          "title": "Me With No You",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 223866
+        },
+        {
+          "title": "Hooray for Beer",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 206920
+        },
+        {
+          "title": "America (Wake Up Amy)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 205506
+        },
+        {
+          "title": "If Only",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 219346
+        },
+        {
+          "title": "I Gotchoo",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 223546
+        },
+        {
+          "title": "Love Goes Boom",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 248826
+        },
+        {
+          "title": "I Can’t Stand L.A.",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 169760
+        },
+        {
+          "title": "Belgium Polka",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 214920
+        }
+      ]
+    },
+    {
+      "mbid": "77adfd69-312b-4f1d-8914-35af4c3326a2",
+      "releaseMbid": "f526bbcb-0494-4a95-b1c7-7583148f43a6",
+      "title": "Fishin’ for Woos",
+      "type": "ALBUM",
+      "releaseDate": "2011-04-25",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/77adfd69-312b-4f1d-8914-35af4c3326a2/front-1200",
+      "tracks": [
+        {
+          "title": "Let’s Pretend We’re Not in Love",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 189000
+        },
+        {
+          "title": "Girls in America",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 189000
+        },
+        {
+          "title": "S‐S‐S‐Saturday",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 186000
+        },
+        {
+          "title": "What About Us",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 238000
+        },
+        {
+          "title": "Here’s Your Freakin’ Song",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 235000
+        },
+        {
+          "title": "This Ain’t My Day",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 192000
+        },
+        {
+          "title": "Smiley Face (It’s All Good)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 182000
+        },
+        {
+          "title": "Turbulence",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 239000
+        },
+        {
+          "title": "I’ve Never Done Anything Like This",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 195000
+        },
+        {
+          "title": "Friends Chicks Guitars",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 222000
+        },
+        {
+          "title": "Guard My Heart (2010)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 240000
+        },
+        {
+          "title": "Graduation Trip",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 237000
+        }
+      ]
+    },
+    {
+      "mbid": "95b8d520-1e43-40e6-8bfc-e44b74a7c210",
+      "releaseMbid": "2ee307cd-292a-4d4f-b2f3-337827836be3",
+      "title": "Lunch. Drunk. Love.",
+      "type": "ALBUM",
+      "releaseDate": "2013-09-06",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/95b8d520-1e43-40e6-8bfc-e44b74a7c210/front-1200",
+      "tracks": [
+        {
+          "title": "Critically Disdained",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 159119
+        },
+        {
+          "title": "Since We Broke Up",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 222301
+        },
+        {
+          "title": "Real",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 242519
+        },
+        {
+          "title": "From the Rooftops",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 181450
+        },
+        {
+          "title": "Circle",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 175420
+        },
+        {
+          "title": "Normal Chicks",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 195216
+        },
+        {
+          "title": "I Am Waking Up Today",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 168522
+        },
+        {
+          "title": "Couple of Days",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 155911
+        },
+        {
+          "title": "And I Think You Like Me Too",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 186911
+        },
+        {
+          "title": "Envy",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 204588
+        },
+        {
+          "title": "How Far This Can Go",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 237635
+        },
+        {
+          "title": "Right About Now",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 160063
+        },
+        {
+          "title": "Kevin Weaver",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 216790
+        }
+      ]
+    },
+    {
+      "mbid": "81798469-4f4e-4cfc-9c5c-fa1f0ee3b3c1",
+      "releaseMbid": "b6053663-9a87-45ac-a86f-e5fcfbb4f15b",
+      "title": "Drunk Enough for Demos",
+      "type": "ALBUM",
+      "releaseDate": "2014",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/81798469-4f4e-4cfc-9c5c-fa1f0ee3b3c1/front-1200",
+      "tracks": [
+        {
+          "title": "Out the Window",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 193840
+        },
+        {
+          "title": "Self Centered",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 202693
+        },
+        {
+          "title": "Where to Begin",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 259440
+        },
+        {
+          "title": "Emily",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 231520
+        },
+        {
+          "title": "Greatest Day",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 194333
+        },
+        {
+          "title": "Is the World Fallin Apart",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 232546
+        },
+        {
+          "title": "Cold Shower Tuesdays",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 224466
+        },
+        {
+          "title": "The Hard Way",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 202626
+        },
+        {
+          "title": "Other Girls",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 242906
+        },
+        {
+          "title": "Rhonda Lasagna",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 273240
+        },
+        {
+          "title": "The Last Rock Show",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 71386
+        },
+        {
+          "title": "She's Got a Boyfriend Now",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 247333
+        },
+        {
+          "title": "Baggage",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 293013
+        },
+        {
+          "title": "How Have You Been",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 235360
+        },
+        {
+          "title": "Scaring Myself",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 212440
+        },
+        {
+          "title": "[untitled]",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 189640
+        },
+        {
+          "title": "What Are We Fighting About",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 217986
+        }
+      ]
+    },
+    {
+      "mbid": "57f7cad7-2df6-42dd-abd2-eb7770ccc9e4",
+      "releaseMbid": "fc53e2c8-1e90-4b85-b578-b7db62d72dee",
+      "title": "Drunk Dynasty",
+      "type": "ALBUM",
+      "releaseDate": "2016-10-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/57f7cad7-2df6-42dd-abd2-eb7770ccc9e4/front-1200",
+      "tracks": [
+        {
+          "title": "She Used to Be Mine",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 128000
+        },
+        {
+          "title": "Shit to Do",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 220000
+        },
+        {
+          "title": "Hey Diane",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 218000
+        },
+        {
+          "title": "Go to Bed Mad",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 141000
+        },
+        {
+          "title": "Catalyst",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 260000
+        },
+        {
+          "title": "She Doesn’t Think That It’s Ever Gonna Work Out",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 179000
+        },
+        {
+          "title": "Don’t Be a Dick",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 201000
+        },
+        {
+          "title": "Stop Doing That",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 151000
+        },
+        {
+          "title": "Hey Jealousy",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 179000
+        },
+        {
+          "title": "As Happy as Happy Gets",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 287000
+        },
+        {
+          "title": "Drinkin’ Beer on a Sunday",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 197000
+        }
+      ]
+    },
+    {
+      "mbid": "b74afcd6-2016-425d-a482-9cc7a86977bb",
+      "releaseMbid": "c3448469-fcc1-4ad1-9e24-2d21f31eafa2",
+      "title": "Pop Drunk Snot Bread",
+      "type": "ALBUM",
+      "releaseDate": "2022-04-22",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b74afcd6-2016-425d-a482-9cc7a86977bb/front-1200",
+      "tracks": [
+        {
+          "title": "Greatest of All Time",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 158978
+        },
+        {
+          "title": "I Wanna Be Brad Pitt",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 171061
+        },
+        {
+          "title": "Hello Anxiety",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 155748
+        },
+        {
+          "title": "Getting Old Sucks (But Everybody’s Doing It)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 224458
+        },
+        {
+          "title": "Bowling for Soup Pee Break",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 42500
+        },
+        {
+          "title": "The Best We Can",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 252942
+        },
+        {
+          "title": "Alexa Bliss",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 187355
+        },
+        {
+          "title": "Burn Out",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 215079
+        },
+        {
+          "title": "June Carter Cash (Lost and Found)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 184472
+        },
+        {
+          "title": "Public Service Announcement",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 39000
+        },
+        {
+          "title": "Killin’ ’em With Kindness",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 191182
+        },
+        {
+          "title": "Wouldn’t Change a Thing",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 212156
+        },
+        {
+          "title": "The Letter 3 (Sitcom Song)",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 229864
+        },
+        {
+          "title": "After All These Beers",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 198864
+        },
+        {
+          "title": "Greatest of All Time (reprise)",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 61064
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

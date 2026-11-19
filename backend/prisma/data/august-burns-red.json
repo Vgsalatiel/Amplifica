@@ -1,0 +1,1018 @@
+{
+  "generatedAt": "2026-11-18T20:24:21.645Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "5bac9b4f-2f1c-4d39-8d11-231d5b6650ce",
+    "name": "August Burns Red",
+    "slug": "august-burns-red",
+    "type": "BAND",
+    "country": "US",
+    "city": "Lancaster",
+    "formedYear": 2003,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/5bac9b4f-2f1c-4d39-8d11-231d5b6650ce"
+      }
+    ],
+    "genres": [
+      "metalcore",
+      "metal"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "f9032838-4cad-3595-b199-c18a4c867a7f",
+      "releaseMbid": "0a41ab66-c9d2-4e14-b5fd-1cb5f717f8b6",
+      "title": "Thrill Seeker",
+      "type": "ALBUM",
+      "releaseDate": "2005-11-08",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f9032838-4cad-3595-b199-c18a4c867a7f/front-1200",
+      "tracks": [
+        {
+          "title": "Your Little Suburbia Is in Ruins",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 238560
+        },
+        {
+          "title": "Speech Impediment",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 241000
+        },
+        {
+          "title": "Endorphins",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 190186
+        },
+        {
+          "title": "Too Late for Roses",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 199106
+        },
+        {
+          "title": "Barbarian",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 225573
+        },
+        {
+          "title": "The Reflective Property",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 231386
+        },
+        {
+          "title": "A Wish Full of Dreams",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 178333
+        },
+        {
+          "title": "Consumer",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 250786
+        },
+        {
+          "title": "A Shot Below the Belt",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 250400
+        },
+        {
+          "title": "Eve of the End",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 189333
+        },
+        {
+          "title": "The Seventh Trumpet",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 492053
+        }
+      ]
+    },
+    {
+      "mbid": "ed803955-40b2-324c-a417-7778ed4b6e47",
+      "releaseMbid": "2fe6fa16-554f-40ca-8490-7fcb4d3852d0",
+      "title": "Messengers",
+      "type": "ALBUM",
+      "releaseDate": "2007-06-19",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ed803955-40b2-324c-a417-7778ed4b6e47/front-1200",
+      "tracks": [
+        {
+          "title": "The Truth of a Liar",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 252080
+        },
+        {
+          "title": "Up Against the Ropes",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 304186
+        },
+        {
+          "title": "Back Burner",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 222573
+        },
+        {
+          "title": "The Blinding Light",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 328240
+        },
+        {
+          "title": "Composure",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 253373
+        },
+        {
+          "title": "Vital Signs",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 197253
+        },
+        {
+          "title": "The Eleventh Hour",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 245840
+        },
+        {
+          "title": "The Balance",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 200920
+        },
+        {
+          "title": "Black Sheep",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 233373
+        },
+        {
+          "title": "An American Dream",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 281906
+        },
+        {
+          "title": "Redemption",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 376453
+        }
+      ]
+    },
+    {
+      "mbid": "cfe9f926-629c-4a60-aca4-804b6fa6a3c8",
+      "releaseMbid": "0800b718-6637-40dc-8491-624b766efa5c",
+      "title": "Constellations",
+      "type": "ALBUM",
+      "releaseDate": "2009-07-14",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/cfe9f926-629c-4a60-aca4-804b6fa6a3c8/front-1200",
+      "tracks": [
+        {
+          "title": "Thirty and Seven",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 198680
+        },
+        {
+          "title": "Existence",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 233667
+        },
+        {
+          "title": "Ocean of Apathy",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 236880
+        },
+        {
+          "title": "White Washed",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 226253
+        },
+        {
+          "title": "Mariana's Trench",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 258107
+        },
+        {
+          "title": "The Escape Artist",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 237893
+        },
+        {
+          "title": "Indonesia",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 214040
+        },
+        {
+          "title": "Paradox",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 198933
+        },
+        {
+          "title": "Meridian",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 359667
+        },
+        {
+          "title": "Rationalist",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 158600
+        },
+        {
+          "title": "Meddler",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 233787
+        },
+        {
+          "title": "Crusades",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 311947
+        }
+      ]
+    },
+    {
+      "mbid": "79e8d6d0-7cb3-4a5a-96d0-7a5c6df22dcb",
+      "releaseMbid": "581f4ad0-e85a-4b7f-bdca-427dd4fce5ef",
+      "title": "Leveler",
+      "type": "ALBUM",
+      "releaseDate": "2011-06-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/79e8d6d0-7cb3-4a5a-96d0-7a5c6df22dcb/front-1200",
+      "tracks": [
+        {
+          "title": "Empire",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 232000
+        },
+        {
+          "title": "Internal Cannon",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 226000
+        },
+        {
+          "title": "Divisions",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 200000
+        },
+        {
+          "title": "Cutting the Ties",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 302000
+        },
+        {
+          "title": "Pangaea",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 260000
+        },
+        {
+          "title": "Carpe Diem",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 337000
+        },
+        {
+          "title": "40 Nights",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 234000
+        },
+        {
+          "title": "Salt & Light",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 220000
+        },
+        {
+          "title": "Poor Millionaire",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 269000
+        },
+        {
+          "title": "1/16/2011",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 52000
+        },
+        {
+          "title": "Boys of Fall",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 268000
+        },
+        {
+          "title": "Leveler",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 285000
+        }
+      ]
+    },
+    {
+      "mbid": "e7b835a5-2648-4f5d-8e77-b1d7d9074764",
+      "releaseMbid": "04592d78-02c3-4f9c-8308-5e838b9f3a9e",
+      "title": "August Burns Red Presents: Sleddin’ Hill, a Holiday Album",
+      "type": "ALBUM",
+      "releaseDate": "2012-10-09",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/e7b835a5-2648-4f5d-8e77-b1d7d9074764/front-1200",
+      "tracks": [
+        {
+          "title": "Flurries",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 257635
+        },
+        {
+          "title": "Frosty the Snowman",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 139120
+        },
+        {
+          "title": "Sleigh Ride",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 173370
+        },
+        {
+          "title": "God Rest Ye' Merry Gentlemen",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 170964
+        },
+        {
+          "title": "Jingle Bells",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 253896
+        },
+        {
+          "title": "O Holy Night",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 264903
+        },
+        {
+          "title": "Rudolph the Red Nosed Reindeer",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 119642
+        },
+        {
+          "title": "Sleddin' Hill",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 158807
+        },
+        {
+          "title": "Little Drummer Boy",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 259648
+        },
+        {
+          "title": "Winter Wonderland",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 115903
+        },
+        {
+          "title": "O Come, O Come, Emmanuel",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 295571
+        },
+        {
+          "title": "Carol of the Bells",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 168271
+        },
+        {
+          "title": "We Wish You a Merry Christmas",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 150807
+        }
+      ]
+    },
+    {
+      "mbid": "347ec66c-2d53-4210-bad0-a613645efac3",
+      "releaseMbid": "d9b86d16-4fc4-4ecb-8041-1733032be919",
+      "title": "Rescue & Restore",
+      "type": "ALBUM",
+      "releaseDate": "2013-06-25",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/347ec66c-2d53-4210-bad0-a613645efac3/front-1200",
+      "tracks": [
+        {
+          "title": "Provision",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 280173
+        },
+        {
+          "title": "Treatment",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 314453
+        },
+        {
+          "title": "Spirit Breaker",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 291533
+        },
+        {
+          "title": "Count It All as Lost",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 249640
+        },
+        {
+          "title": "Sincerity",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 197786
+        },
+        {
+          "title": "Creative Captivity",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 282226
+        },
+        {
+          "title": "Fault Line",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 243080
+        },
+        {
+          "title": "Beauty in Tragedy",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 291173
+        },
+        {
+          "title": "Animals",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 209013
+        },
+        {
+          "title": "Echoes",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 263506
+        },
+        {
+          "title": "The First Step",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 264626
+        },
+        {
+          "title": "Foreign & Familiar",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "adf275ed-29aa-435e-b7fa-fa61e8a8c0c3",
+      "releaseMbid": "d742de92-b6a8-4926-9ce2-3fa07cd8a9cf",
+      "title": "Found in Far Away Places",
+      "type": "ALBUM",
+      "releaseDate": "2015-06-26",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/adf275ed-29aa-435e-b7fa-fa61e8a8c0c3/front-1200",
+      "tracks": [
+        {
+          "title": "The Wake",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 206693
+        },
+        {
+          "title": "Martyr",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 275226
+        },
+        {
+          "title": "Identity",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 259413
+        },
+        {
+          "title": "Separating the Seas",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 259853
+        },
+        {
+          "title": "Ghosts",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 289200
+        },
+        {
+          "title": "Majoring in the Minors",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 258000
+        },
+        {
+          "title": "Everlasting Ending",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 309106
+        },
+        {
+          "title": "Broken Promises",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 372000
+        },
+        {
+          "title": "Blackwood",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 282573
+        },
+        {
+          "title": "Twenty-One Grams",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 293200
+        },
+        {
+          "title": "Vanguard",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 339893
+        },
+        {
+          "title": "Marathon",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 289240
+        },
+        {
+          "title": "Majoring in the Minors (reprise)",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 258226
+        },
+        {
+          "title": "Identity (MIDI)",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 262386
+        }
+      ]
+    },
+    {
+      "mbid": "57b57a6a-eab0-4a76-a32b-ee75c2bd4d63",
+      "releaseMbid": "794ea52c-d057-4e1f-bdbe-9e50cac84a2e",
+      "title": "Phantom Anthem",
+      "type": "ALBUM",
+      "releaseDate": "2017-10-05",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/57b57a6a-eab0-4a76-a32b-ee75c2bd4d63/front-1200",
+      "tracks": [
+        {
+          "title": "King of Sorrow (instrumental)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 245000
+        },
+        {
+          "title": "Hero of the Half Truth (instrumental)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 303000
+        },
+        {
+          "title": "The Frost (instrumental)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 286000
+        },
+        {
+          "title": "Lifeline (instrumental)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 334000
+        },
+        {
+          "title": "Invisible Enemy (instrumental)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 277000
+        },
+        {
+          "title": "Quake (instrumental)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 248000
+        },
+        {
+          "title": "Coordinates (instrumental)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 311000
+        },
+        {
+          "title": "Generations (instrumental)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 360000
+        },
+        {
+          "title": "Float (instrumental)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 255000
+        },
+        {
+          "title": "Dangerous (instrumental)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 263000
+        },
+        {
+          "title": "Carbon Copy (instrumental)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 339000
+        }
+      ]
+    },
+    {
+      "mbid": "cd574a06-8314-4711-987c-296cdcc0edd7",
+      "releaseMbid": "02c8dc8d-8cba-4f6a-931a-b78a3127014f",
+      "title": "Guardians",
+      "type": "ALBUM",
+      "releaseDate": "2020-04-03",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/cd574a06-8314-4711-987c-296cdcc0edd7/front-1200",
+      "tracks": [
+        {
+          "title": "The Narrative",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 249000
+        },
+        {
+          "title": "Bones",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 255000
+        },
+        {
+          "title": "Paramount",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 288000
+        },
+        {
+          "title": "Defender",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 261000
+        },
+        {
+          "title": "Lighthouse",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 253000
+        },
+        {
+          "title": "Dismembered Memory",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 249000
+        },
+        {
+          "title": "Ties That Bind",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 258000
+        },
+        {
+          "title": "Bloodletter",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 220000
+        },
+        {
+          "title": "Extinct by Instinct",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 283000
+        },
+        {
+          "title": "Empty Heaven",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 265000
+        },
+        {
+          "title": "Three Fountains",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 381000
+        }
+      ]
+    },
+    {
+      "mbid": "38bbbdcc-bc4e-4d9d-91cd-5f706c3820aa",
+      "releaseMbid": "3bfb0f98-9e46-4a17-ae47-c5a4cf349d5f",
+      "title": "Leveler: 10th Anniversary Edition",
+      "type": "ALBUM",
+      "releaseDate": "2021-05-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/38bbbdcc-bc4e-4d9d-91cd-5f706c3820aa/front-1200",
+      "tracks": [
+        {
+          "title": "X",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 140000
+        },
+        {
+          "title": "Empire",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 231000
+        },
+        {
+          "title": "Internal Cannon",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 227000
+        },
+        {
+          "title": "Divisions",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 203000
+        },
+        {
+          "title": "Cutting the Ties",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 304000
+        },
+        {
+          "title": "Pangaea",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 270000
+        },
+        {
+          "title": "Carpe Diem",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 342000
+        },
+        {
+          "title": "40 Nights",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 236000
+        },
+        {
+          "title": "Salt & Light",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 222000
+        },
+        {
+          "title": "Poor Millionaire",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 290000
+        },
+        {
+          "title": "1/16/2011",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 55000
+        },
+        {
+          "title": "Boys of Fall",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 269000
+        },
+        {
+          "title": "Leveler",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 286000
+        }
+      ]
+    },
+    {
+      "mbid": "738c554b-7d4d-4328-a70b-223a43a71d6f",
+      "releaseMbid": "6202aa00-9c16-490e-a8b9-663939e99f47",
+      "title": "Death Below",
+      "type": "ALBUM",
+      "releaseDate": "2023-03-24",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/738c554b-7d4d-4328-a70b-223a43a71d6f/front-1200",
+      "tracks": [
+        {
+          "title": "Premonition",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 113760
+        },
+        {
+          "title": "The Cleansing",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 467840
+        },
+        {
+          "title": "Ancestry",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 290733
+        },
+        {
+          "title": "Tightrope",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 253813
+        },
+        {
+          "title": "Fool’s Gold in the Bear Trap",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 184546
+        },
+        {
+          "title": "Backfire",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 262920
+        },
+        {
+          "title": "Revival",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 269346
+        },
+        {
+          "title": "Sevink",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 83173
+        },
+        {
+          "title": "Dark Divide",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 298413
+        },
+        {
+          "title": "Deadbolt",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 260320
+        },
+        {
+          "title": "The Abyss",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 274813
+        },
+        {
+          "title": "Reckoning",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 472933
+        }
+      ]
+    },
+    {
+      "mbid": "31f79e6f-7c81-463a-b4a8-6b745cd4937c",
+      "releaseMbid": "3ff33058-72ab-49b7-bdf7-721d556865ac",
+      "title": "Season of Surrender",
+      "type": "ALBUM",
+      "releaseDate": "2026-06-05",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/31f79e6f-7c81-463a-b4a8-6b745cd4937c/front-1200",
+      "tracks": [
+        {
+          "title": "Legions",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 258000
+        },
+        {
+          "title": "The Nameless",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 174000
+        },
+        {
+          "title": "Behemoth",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 219000
+        },
+        {
+          "title": "Den of Thieves",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 252000
+        },
+        {
+          "title": "Sonic Salvation",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 253000
+        },
+        {
+          "title": "Cerebral Malfunction",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 287000
+        },
+        {
+          "title": "Tear of the Clouds",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 42000
+        },
+        {
+          "title": "Whispers Like Splinters",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 228000
+        },
+        {
+          "title": "S.O.S.",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 267000
+        },
+        {
+          "title": "New Horizons",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 302000
+        },
+        {
+          "title": "Forged by Failure",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 405000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

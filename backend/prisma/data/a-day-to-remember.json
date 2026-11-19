@@ -1,0 +1,1028 @@
+{
+  "generatedAt": "2026-11-18T20:06:33.755Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "db008806-16f6-48fc-8521-3d953709689d",
+    "name": "A Day to Remember",
+    "slug": "a-day-to-remember",
+    "type": "BAND",
+    "country": "US",
+    "city": "Ocala",
+    "formedYear": 2003,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/db008806-16f6-48fc-8521-3d953709689d"
+      }
+    ],
+    "genres": [
+      "metalcore",
+      "pop-punk",
+      "post-hardcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "32eefe7a-4177-4f56-bcde-3696a061ca8f",
+      "releaseMbid": "bf028175-a003-43ac-9bf4-1197e5ec8cbf",
+      "title": "Halos for Heros, Dirt for the Dead",
+      "type": "EP",
+      "releaseDate": "2004",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/32eefe7a-4177-4f56-bcde-3696a061ca8f/front-1200",
+      "tracks": [
+        {
+          "title": "Breathe Hope in Me",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 248000
+        },
+        {
+          "title": "If Looks Could Kill...Then You'd Be Dead",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 202000
+        },
+        {
+          "title": "Last Request",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 226000
+        },
+        {
+          "title": "This Sun Has Set",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 160000
+        },
+        {
+          "title": "Westfall",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 244000
+        }
+      ]
+    },
+    {
+      "mbid": "37c8f686-eca9-4962-bbb6-2b28a07bbf2e",
+      "releaseMbid": "5632c699-0e7d-4541-b8ec-6d6d9cc86801",
+      "title": "From the Vault",
+      "type": "EP",
+      "releaseDate": "2004",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/37c8f686-eca9-4962-bbb6-2b28a07bbf2e/front-1200",
+      "tracks": [
+        {
+          "title": "A Name in the Sand",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 290005
+        },
+        {
+          "title": "When 3's a Crowd",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 277919
+        },
+        {
+          "title": "Westfall",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 244343
+        },
+        {
+          "title": "Breathe Hope in Me",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 249010
+        },
+        {
+          "title": "This Sun Has Set",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 159288
+        }
+      ]
+    },
+    {
+      "mbid": "d1a9f8f5-d10b-4542-8645-320ceb2690b0",
+      "releaseMbid": "ee6cfe5d-6edc-4d97-bec4-072b5ae729dd",
+      "title": "Pre-Production Demo Collection",
+      "type": "ALBUM",
+      "releaseDate": "2005",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d1a9f8f5-d10b-4542-8645-320ceb2690b0/front-1200",
+      "tracks": [
+        {
+          "title": "A Second Glance (2005 Demo)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 174052
+        },
+        {
+          "title": "Show 'Em The Ropes (2006 Demo)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 196596
+        },
+        {
+          "title": "A Shot In The Dark (2006 Demo)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 226062
+        },
+        {
+          "title": "The Danger Of Starting A Fire (2006 Demo)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 175829
+        },
+        {
+          "title": "Monument (2006 Demo)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 226062
+        },
+        {
+          "title": "To Plot The Panhandle (2006 Demo)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 223232
+        },
+        {
+          "title": "Wax Larry (2008 Demo)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 208717
+        }
+      ]
+    },
+    {
+      "mbid": "030d92d8-f326-42cf-b17f-286f2edb2043",
+      "releaseMbid": "89381877-fffe-4a41-8794-f5161af9f0c8",
+      "title": "A Day to Remember",
+      "type": "EP",
+      "releaseDate": "2005-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/030d92d8-f326-42cf-b17f-286f2edb2043/front-1200",
+      "tracks": [
+        {
+          "title": "Intro",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 27053
+        },
+        {
+          "title": "1958",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 255613
+        },
+        {
+          "title": "If Looks Could Kill",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 199466
+        },
+        {
+          "title": "Second Glance",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 171853
+        },
+        {
+          "title": "Casablanca Sucked Anyway",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 176200
+        },
+        {
+          "title": "Heartless",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 193800
+        }
+      ]
+    },
+    {
+      "mbid": "0a558207-0cfa-3827-abe1-27e372927a4c",
+      "releaseMbid": "54551cd9-cd3e-416c-a784-08adfe909528",
+      "title": "And Their Name Was Treason",
+      "type": "ALBUM",
+      "releaseDate": "2005-05-10",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0a558207-0cfa-3827-abe1-27e372927a4c/front-1200",
+      "tracks": [
+        {
+          "title": "Intro",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 42000
+        },
+        {
+          "title": "Heartless",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 166000
+        },
+        {
+          "title": "Your Way With Words Is Through Silence",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 234000
+        },
+        {
+          "title": "A Second Glance",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 173000
+        },
+        {
+          "title": "Casablanca Sucked Anyways",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 177000
+        },
+        {
+          "title": "You Should Have Killed Me When You Had the Chance",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 214000
+        },
+        {
+          "title": "If Looks Could Kill",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 198000
+        },
+        {
+          "title": "You Had Me at Hello",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 269000
+        },
+        {
+          "title": "1958",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 269000
+        },
+        {
+          "title": "Sound the Alarm",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 109000
+        }
+      ]
+    },
+    {
+      "mbid": "e8afe0c4-5da2-4ab9-b4ad-ba2ec134d532",
+      "releaseMbid": "d15663a8-5146-49c6-bc9d-9a09da09dbf1",
+      "title": "Victory Records Free Sampler",
+      "type": "EP",
+      "releaseDate": "2007",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/e8afe0c4-5da2-4ab9-b4ad-ba2ec134d532/front-1200",
+      "tracks": [
+        {
+          "title": "7861",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "A Grave Mistake",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "The Plot to Bomb the Panhandle",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Fast Forward to 2012",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Broadcasting",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "0ff5dd59-3892-37d1-a4ae-a924e153c203",
+      "releaseMbid": "cbe373e1-f49f-4e14-934a-dd84b2c713b5",
+      "title": "For Those Who Have Heart",
+      "type": "ALBUM",
+      "releaseDate": "2007-01-23",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Fast Forward to 2012",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 93533
+        },
+        {
+          "title": "Speak of the Devil",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 203826
+        },
+        {
+          "title": "The Danger in Starting a Fire",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 182720
+        },
+        {
+          "title": "The Plot to Bomb the Panhandle",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 244053
+        },
+        {
+          "title": "Monument",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 228093
+        },
+        {
+          "title": "The Price We Pay",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 163333
+        },
+        {
+          "title": "Colder Than My Heart, If You Can Imagine",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 243146
+        },
+        {
+          "title": "Show ’em the Ropes",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 203146
+        },
+        {
+          "title": "A Shot in the Dark",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 232146
+        },
+        {
+          "title": "Here’s to the Past",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 239333
+        },
+        {
+          "title": "I Heard It’s the Softest Thing Ever",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 246426
+        },
+        {
+          "title": "Start the Shooting",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 284466
+        }
+      ]
+    },
+    {
+      "mbid": "cf978953-1566-4a4a-943f-a28293dce647",
+      "releaseMbid": "0ab29544-9725-4fb5-85b1-1fb70b58a62e",
+      "title": "Old Record",
+      "type": "ALBUM",
+      "releaseDate": "2008-10-28",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/cf978953-1566-4a4a-943f-a28293dce647/front-1200",
+      "tracks": [
+        {
+          "title": "Intro ’05",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 35133
+        },
+        {
+          "title": "Heart Less",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 173133
+        },
+        {
+          "title": "A 2nd Glance",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 173760
+        },
+        {
+          "title": "Nineteen Fifty Eight",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 277693
+        },
+        {
+          "title": "If Looks Could Kill…",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 197853
+        },
+        {
+          "title": "U Had Me @ Hello",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 274960
+        },
+        {
+          "title": "Casablanca Sucked Anyways.",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 177160
+        },
+        {
+          "title": "U Should of Killed Me When U Had the Chance",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 213573
+        },
+        {
+          "title": "Your Way With Words Is Through Silence!",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 234946
+        },
+        {
+          "title": "Sound the Alarm V.2.0",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 108920
+        }
+      ]
+    },
+    {
+      "mbid": "d5eee7a8-a87f-304e-a6bd-1dd756dd686f",
+      "releaseMbid": "297b0cd8-9e76-4375-b72f-27f6a2f9b37a",
+      "title": "Homesick",
+      "type": "ALBUM",
+      "releaseDate": "2009-02-03",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d5eee7a8-a87f-304e-a6bd-1dd756dd686f/front-1200",
+      "tracks": [
+        {
+          "title": "The Downfall of Us All",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 209000
+        },
+        {
+          "title": "My Life for Hire",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 213000
+        },
+        {
+          "title": "I’m Made of Wax, Larry, What Are You Made Of?",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 180000
+        },
+        {
+          "title": "NJ Legion Iced Tea",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 211000
+        },
+        {
+          "title": "Mr. Highway’s Thinking About the End",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 255000
+        },
+        {
+          "title": "Have Faith in Me",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 188000
+        },
+        {
+          "title": "Welcome to the Family",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 179000
+        },
+        {
+          "title": "Homesick",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 236000
+        },
+        {
+          "title": "Holdin’ It Down for the Underground",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 203000
+        },
+        {
+          "title": "You Already Know What You Are",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 87000
+        },
+        {
+          "title": "Another Song About the Weekend",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 225000
+        },
+        {
+          "title": "If It Means a Lot to You",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 242000
+        }
+      ]
+    },
+    {
+      "mbid": "b938e8be-824d-4773-973c-11ff29126fa8",
+      "releaseMbid": "01e54007-33c0-4c35-b2e3-5803b6832cc5",
+      "title": "Attack of the Killer B-Sides",
+      "type": "EP",
+      "releaseDate": "2010-05-25",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b938e8be-824d-4773-973c-11ff29126fa8/front-1200",
+      "tracks": [
+        {
+          "title": "Right Where You Want Me to Be",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 222000
+        },
+        {
+          "title": "Since U Been Gone",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 198000
+        },
+        {
+          "title": "Another Song About the Weekend (acoustic)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 222000
+        },
+        {
+          "title": "Over My Head (Cable Car)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 211000
+        }
+      ]
+    },
+    {
+      "mbid": "2fb9a22e-9795-4285-81d8-9d5292a34952",
+      "releaseMbid": "121c3c6c-f8ed-4b2f-95cc-5cd0c055204d",
+      "title": "What Separates Me From You",
+      "type": "ALBUM",
+      "releaseDate": "2010-11-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/2fb9a22e-9795-4285-81d8-9d5292a34952/front-1200",
+      "tracks": [
+        {
+          "title": "Sticks & Bricks",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 196653
+        },
+        {
+          "title": "All I Want",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 202640
+        },
+        {
+          "title": "It’s Complicated",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 177240
+        },
+        {
+          "title": "This Is the House That Doubt Built",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 210333
+        },
+        {
+          "title": "2nd Sucks",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 147626
+        },
+        {
+          "title": "Better Off This Way",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 206360
+        },
+        {
+          "title": "All Signs Point to Lauderdale",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 197200
+        },
+        {
+          "title": "You Be Tails, I’ll Be Sonic",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 227893
+        },
+        {
+          "title": "Out of Time",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 206533
+        },
+        {
+          "title": "If I Leave",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 204186
+        }
+      ]
+    },
+    {
+      "mbid": "fbf1206b-3ce1-4783-a58f-f5bfb95fbbb3",
+      "releaseMbid": "1ed9effa-16d5-4517-bb7f-d4eedab429d5",
+      "title": "Common Courtesy",
+      "type": "ALBUM",
+      "releaseDate": "2013-10-08",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/fbf1206b-3ce1-4783-a58f-f5bfb95fbbb3/front-1200",
+      "tracks": [
+        {
+          "title": "City of Ocala",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 209453
+        },
+        {
+          "title": "Right Back at It Again",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 200026
+        },
+        {
+          "title": "Sometimes You're the Hammer, Sometimes You're the Nail",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 274040
+        },
+        {
+          "title": "Dead & Buried",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 193120
+        },
+        {
+          "title": "Best of Me",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 207773
+        },
+        {
+          "title": "I'm Already Gone",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 244120
+        },
+        {
+          "title": "Violence (Enough Is Enough)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 241653
+        },
+        {
+          "title": "Life @ 11",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 202520
+        },
+        {
+          "title": "I Surrender",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 214173
+        },
+        {
+          "title": "Life Lessons Learned the Hard Way",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 137186
+        },
+        {
+          "title": "End of Me",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 237973
+        },
+        {
+          "title": "The Document Speaks for Itself",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 283826
+        },
+        {
+          "title": "I Remember",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 544920
+        },
+        {
+          "title": "Leave All the Lights On",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 211333
+        },
+        {
+          "title": "Good Things",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 179733
+        },
+        {
+          "title": "Same Book but Never the Same Page",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 245933
+        }
+      ]
+    },
+    {
+      "mbid": "574250f9-b313-49be-9e7e-2bd7e0cef110",
+      "releaseMbid": "23493df5-4771-4455-ac15-fcb1cd421b5d",
+      "title": "Bad Vibrations",
+      "type": "ALBUM",
+      "releaseDate": "2016-09-02",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/574250f9-b313-49be-9e7e-2bd7e0cef110/front-1200",
+      "tracks": [
+        {
+          "title": "Bad Vibrations",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 214000
+        },
+        {
+          "title": "Paranoia",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 201000
+        },
+        {
+          "title": "Naivety",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 199000
+        },
+        {
+          "title": "Exposed",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 218000
+        },
+        {
+          "title": "Bullfight",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 276000
+        },
+        {
+          "title": "Reassemble",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 237000
+        },
+        {
+          "title": "Justified",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 238000
+        },
+        {
+          "title": "We Got This",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 229000
+        },
+        {
+          "title": "Same About You",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 185000
+        },
+        {
+          "title": "Turn Off the Radio",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 226000
+        },
+        {
+          "title": "Forgive and Forget",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 283000
+        }
+      ]
+    },
+    {
+      "mbid": "b5a58d5b-836a-4e82-a53a-6cfc71fb02fc",
+      "releaseMbid": "c52de689-46ca-4ced-aaee-25410520fd3b",
+      "title": "You’re Welcome",
+      "type": "ALBUM",
+      "releaseDate": "2021-03-05",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Brick Wall",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 210200
+        },
+        {
+          "title": "Mindreader",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 173520
+        },
+        {
+          "title": "Bloodsucker",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 190800
+        },
+        {
+          "title": "Last Chance to Dance (Bad Friend)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 185733
+        },
+        {
+          "title": "F.Y.M.",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 179000
+        },
+        {
+          "title": "High Diving",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 207000
+        },
+        {
+          "title": "Resentment",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 227267
+        },
+        {
+          "title": "Looks Like Hell",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 219800
+        },
+        {
+          "title": "Viva La Mexico",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 217467
+        },
+        {
+          "title": "Only Money",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 210667
+        },
+        {
+          "title": "Degenerates",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 184893
+        },
+        {
+          "title": "Permanent",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 222493
+        },
+        {
+          "title": "Re‐entry",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 173000
+        },
+        {
+          "title": "Everything We Need",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 185200
+        }
+      ]
+    },
+    {
+      "mbid": "6a9e2005-2de6-401d-9b14-163c91d76618",
+      "releaseMbid": "9f3b4b96-dd06-4054-b1b6-b16fffcce951",
+      "title": "Big Ole Album Vol. 1",
+      "type": "ALBUM",
+      "releaseDate": "2025-02-19",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/6a9e2005-2de6-401d-9b14-163c91d76618/front-1200",
+      "tracks": [
+        {
+          "title": "Make It Make Sense",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 188600
+        },
+        {
+          "title": "Feedback",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 152960
+        },
+        {
+          "title": "Bad Blood",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 196466
+        },
+        {
+          "title": "All My Friends",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 181813
+        },
+        {
+          "title": "To the Death",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 177426
+        },
+        {
+          "title": "Flowers",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 201053
+        },
+        {
+          "title": "LeBron",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 166746
+        },
+        {
+          "title": "Die for Me",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 170173
+        },
+        {
+          "title": "Miracle",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 243973
+        },
+        {
+          "title": "Same Team",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 212160
+        },
+        {
+          "title": "Silence",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 200013
+        },
+        {
+          "title": "Closer Than You Think",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 260480
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

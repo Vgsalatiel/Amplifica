@@ -1,0 +1,62 @@
+{
+  "generatedAt": "2026-11-19T11:59:50.458Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "dbd9a9b3-36c2-4d47-8e75-d1c20792546a",
+    "name": "Dying Silence",
+    "slug": "dying-silence",
+    "type": "BAND",
+    "country": "BR",
+    "city": null,
+    "formedYear": null,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/dbd9a9b3-36c2-4d47-8e75-d1c20792546a"
+      }
+    ],
+    "genres": [
+      "deathcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "531ca4dc-062e-42f1-ab68-46d3e26708d5",
+      "releaseMbid": "fb7f95ea-faa3-4bd2-b827-a9765bbda664",
+      "title": "Origins",
+      "type": "EP",
+      "releaseDate": "2014-02-17",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Bound by Hatred",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 225000
+        },
+        {
+          "title": "Greed",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 229000
+        },
+        {
+          "title": "Bloody Lies",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 208000
+        },
+        {
+          "title": "Mourning of the Humankind",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 228000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

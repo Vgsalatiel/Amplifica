@@ -1,0 +1,832 @@
+{
+  "generatedAt": "2026-11-18T20:44:27.780Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "385d80ab-cf87-46ed-b4c9-3ea8942993ef",
+    "name": "Bleed From Within",
+    "slug": "bleed-from-within",
+    "type": "BAND",
+    "country": "GB",
+    "city": "Glasgow",
+    "formedYear": 2005,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/385d80ab-cf87-46ed-b4c9-3ea8942993ef"
+      }
+    ],
+    "genres": [
+      "deathcore",
+      "metalcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "de41ed7c-dd8c-4a7e-8d92-00e2f0712ccd",
+      "releaseMbid": "0240c406-43e9-4564-ae78-36c9a8c73eaf",
+      "title": "In the Eyes of the Forgotten",
+      "type": "EP",
+      "releaseDate": "2006",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/de41ed7c-dd8c-4a7e-8d92-00e2f0712ccd/front-1200",
+      "tracks": [
+        {
+          "title": "And Now the Screaming Starts",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Our Heart Scream Unholy Thoughts of Murder",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Where Lies Hope Lies Failure",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "As Eternity Fades",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "In the Eyes of the Forgotten",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "b55c49ad-80d4-4cbe-886f-79ae28f89092",
+      "releaseMbid": "6f46c43d-63e3-461d-a53c-76b2f7c5df4c",
+      "title": "Welcome to the Plague Year",
+      "type": "EP",
+      "releaseDate": "2007",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b55c49ad-80d4-4cbe-886f-79ae28f89092/front-1200",
+      "tracks": [
+        {
+          "title": "We Are Gathered Here Today",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 288000
+        },
+        {
+          "title": "Road to Ruin",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 285000
+        },
+        {
+          "title": "Thy Hands Revive",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 292000
+        },
+        {
+          "title": "The Autumn of Terror",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 291000
+        },
+        {
+          "title": "Let's Play God",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 320000
+        }
+      ]
+    },
+    {
+      "mbid": "64fe86fc-567e-4092-9bac-ee3b581d670d",
+      "releaseMbid": "45a814ba-26fc-4e0d-9a60-61e88458343a",
+      "title": "Humanity",
+      "type": "ALBUM",
+      "releaseDate": "2009-07-24",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/64fe86fc-567e-4092-9bac-ee3b581d670d/front-1200",
+      "tracks": [
+        {
+          "title": "The Awakening",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 125000
+        },
+        {
+          "title": "Damnation",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 199000
+        },
+        {
+          "title": "Messiah",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 213000
+        },
+        {
+          "title": "The Fall of Man (Infection)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 204000
+        },
+        {
+          "title": "A Killer Is Born",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 221000
+        },
+        {
+          "title": "Servants of Divinity",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 201000
+        },
+        {
+          "title": "Monster",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 173000
+        },
+        {
+          "title": "Everlasting",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 199000
+        },
+        {
+          "title": "Save Your Prayers",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 176000
+        },
+        {
+          "title": "The Final Chapter",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 173000
+        },
+        {
+          "title": "This Absence",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 246000
+        }
+      ]
+    },
+    {
+      "mbid": "f80d1742-7060-4d7d-ae67-bb19c5f45f8b",
+      "releaseMbid": "2fd8f493-f2d2-454f-a5c1-83889460c3e1",
+      "title": "Empire",
+      "type": "ALBUM",
+      "releaseDate": "2010-05-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f80d1742-7060-4d7d-ae67-bb19c5f45f8b/front-1200",
+      "tracks": [
+        {
+          "title": "This Is Our Legacy",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 225000
+        },
+        {
+          "title": "The Novelist",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 310000
+        },
+        {
+          "title": "Last of Our Kind",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 214000
+        },
+        {
+          "title": "The Weaker One",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 229000
+        },
+        {
+          "title": "Emperor",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 261000
+        },
+        {
+          "title": "Dishonour",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 257000
+        },
+        {
+          "title": "Vanity",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 258000
+        },
+        {
+          "title": "The Healing",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 296000
+        },
+        {
+          "title": "Empress",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 252000
+        },
+        {
+          "title": "Welcome to My World",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 253000
+        },
+        {
+          "title": "Legion",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 189000
+        }
+      ]
+    },
+    {
+      "mbid": "ffdde07e-8dcc-4fa0-adeb-c0eb36b00d8d",
+      "releaseMbid": "a8418ba0-0a95-43ee-8ab1-8b56b1bc8f10",
+      "title": "Uprising",
+      "type": "ALBUM",
+      "releaseDate": "2013-03-25",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ffdde07e-8dcc-4fa0-adeb-c0eb36b00d8d/front-1200",
+      "tracks": [
+        {
+          "title": "III",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 64000
+        },
+        {
+          "title": "Colony",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 264293
+        },
+        {
+          "title": "It Lives in Me",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 283866
+        },
+        {
+          "title": "Nothing, No One, Nowhere",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 221933
+        },
+        {
+          "title": "Escape Yourself",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 247880
+        },
+        {
+          "title": "Strive",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 292440
+        },
+        {
+          "title": "I Am Oblivion",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 269680
+        },
+        {
+          "title": "Speechless",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 92226
+        },
+        {
+          "title": "Our Divide",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 270840
+        },
+        {
+          "title": "Uprising",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 270013
+        },
+        {
+          "title": "The War Around Us",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 220786
+        },
+        {
+          "title": "Leech",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 248866
+        },
+        {
+          "title": "Devotion",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 277546
+        }
+      ]
+    },
+    {
+      "mbid": "b63f1274-b959-4adc-9948-18cb45879557",
+      "releaseMbid": "0d186f23-44ba-4d59-9069-1e5c4472a073",
+      "title": "Death Walk",
+      "type": "EP",
+      "releaseDate": "2014-09-22",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b63f1274-b959-4adc-9948-18cb45879557/front-1200",
+      "tracks": [
+        {
+          "title": "Death Walk",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 286203
+        },
+        {
+          "title": "Silence Them All",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 210135
+        },
+        {
+          "title": "The Fight Song",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 190804
+        },
+        {
+          "title": "The Pretender",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 260577
+        }
+      ]
+    },
+    {
+      "mbid": "d19cf12a-5cdf-4903-a0f0-d0eb089dd01f",
+      "releaseMbid": "18c983a2-2780-4bcf-ac42-9d54a9a81818",
+      "title": "Era",
+      "type": "ALBUM",
+      "releaseDate": "2018-04-06",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d19cf12a-5cdf-4903-a0f0-d0eb089dd01f/front-1200",
+      "tracks": [
+        {
+          "title": "Clarity",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 271187
+        },
+        {
+          "title": "Crown of Misery",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 209600
+        },
+        {
+          "title": "Cast Down",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 242720
+        },
+        {
+          "title": "Afterlife",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 268373
+        },
+        {
+          "title": "Shiver",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 309947
+        },
+        {
+          "title": "Bed of Snakes",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 255387
+        },
+        {
+          "title": "I Am Oblivion, Pt. II",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 238680
+        },
+        {
+          "title": "Alone in the Sun",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 256213
+        },
+        {
+          "title": "Gatekeeper",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 218933
+        },
+        {
+          "title": "Ruina",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 246453
+        },
+        {
+          "title": "Alive",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 285493
+        },
+        {
+          "title": "State Decay",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 279507
+        },
+        {
+          "title": "Drag You to the Ground",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 228787
+        }
+      ]
+    },
+    {
+      "mbid": "54e51f15-f838-4fbc-b174-0736b123561c",
+      "releaseMbid": "c00526e4-dba8-46c5-9865-271c65913fe0",
+      "title": "Fracture",
+      "type": "ALBUM",
+      "releaseDate": "2020-05-29",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/54e51f15-f838-4fbc-b174-0736b123561c/front-1200",
+      "tracks": [
+        {
+          "title": "The End of All We Know",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 252333
+        },
+        {
+          "title": "Pathfinder",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 259706
+        },
+        {
+          "title": "Into Nothing",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 282426
+        },
+        {
+          "title": "Fall Away",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 210866
+        },
+        {
+          "title": "Fracture",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 232600
+        },
+        {
+          "title": "Night Crossing",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 243493
+        },
+        {
+          "title": "For All to See",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 269866
+        },
+        {
+          "title": "Ascend",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 250240
+        },
+        {
+          "title": "Utopia",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 279613
+        },
+        {
+          "title": "A Depth That No One Dares",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 254533
+        }
+      ]
+    },
+    {
+      "mbid": "09f6f762-2f20-40a2-88d1-48e0fb3cd58e",
+      "releaseMbid": "486853c0-4292-49b3-b638-46ab67469954",
+      "title": "Viral Hysteria",
+      "type": "LIVE",
+      "releaseDate": "2021-10-29",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/09f6f762-2f20-40a2-88d1-48e0fb3cd58e/front-1200",
+      "tracks": [
+        {
+          "title": "Night Crossing",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 336000
+        },
+        {
+          "title": "Pathfinder",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 261000
+        },
+        {
+          "title": "Uprising",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 297000
+        },
+        {
+          "title": "Into Nothing",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 325000
+        },
+        {
+          "title": "Afterlife",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 285000
+        },
+        {
+          "title": "Cast Down",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 232000
+        },
+        {
+          "title": "Fracture",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 283000
+        },
+        {
+          "title": "Crown of Misery",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 216000
+        },
+        {
+          "title": "Ascend",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 261000
+        },
+        {
+          "title": "Ruina",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 249000
+        },
+        {
+          "title": "Alive",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 327000
+        },
+        {
+          "title": "The End of All We Know",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 354431
+        }
+      ]
+    },
+    {
+      "mbid": "a5ef0d0c-c7f8-401a-9975-4e488d08ba1c",
+      "releaseMbid": "10c3e60c-f74d-4342-bcf0-b4d6cb4795f5",
+      "title": "Shrine",
+      "type": "ALBUM",
+      "releaseDate": "2022-06-03",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a5ef0d0c-c7f8-401a-9975-4e488d08ba1c/front-1200",
+      "tracks": [
+        {
+          "title": "I Am Damnation",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 282000
+        },
+        {
+          "title": "Sovereign",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 215000
+        },
+        {
+          "title": "Levitate",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 271000
+        },
+        {
+          "title": "Flesh and Stone",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 250000
+        },
+        {
+          "title": "Invisible Enemy",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 243000
+        },
+        {
+          "title": "Skye",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 55000
+        },
+        {
+          "title": "Stand Down",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 246000
+        },
+        {
+          "title": "Death Defined",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 241000
+        },
+        {
+          "title": "Shapeshifter",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 266000
+        },
+        {
+          "title": "Temple of Lunacy",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 268000
+        },
+        {
+          "title": "Killing Time",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 263000
+        },
+        {
+          "title": "Paradise",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 272000
+        }
+      ]
+    },
+    {
+      "mbid": "fb8a021b-487a-4d28-9ce6-394d8748e217",
+      "releaseMbid": "f2f231e8-debd-40b7-b402-0bcd79b8e4e3",
+      "title": "Zenith",
+      "type": "ALBUM",
+      "releaseDate": "2025-04-04",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/fb8a021b-487a-4d28-9ce6-394d8748e217/front-1200",
+      "tracks": [
+        {
+          "title": "Violent Nature",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 235640
+        },
+        {
+          "title": "In Place of Your Halo",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 223040
+        },
+        {
+          "title": "Zenith",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 258786
+        },
+        {
+          "title": "God Complex",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 245853
+        },
+        {
+          "title": "A Hope in Hell",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 242106
+        },
+        {
+          "title": "Dying Sun",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 328680
+        },
+        {
+          "title": "Immortal Desire",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 256680
+        },
+        {
+          "title": "Chained to Hate",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 247773
+        },
+        {
+          "title": "Known by No Name",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 232093
+        },
+        {
+          "title": "Hands of Sin",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 242133
+        },
+        {
+          "title": "Edge of Infinity",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 322213
+        }
+      ]
+    },
+    {
+      "mbid": "c7581e81-db3a-4253-8a9d-a4eb9e2e8ab1",
+      "releaseMbid": "5449c6e1-7e95-4b1a-828d-1f1f7e5b1b24",
+      "title": "Audiotree Live",
+      "type": "LIVE",
+      "releaseDate": "2026-01-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c7581e81-db3a-4253-8a9d-a4eb9e2e8ab1/front-1200",
+      "tracks": [
+        {
+          "title": "God Complex",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 282317
+        },
+        {
+          "title": "Levitate",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 266583
+        },
+        {
+          "title": "I Am Damnation",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 294362
+        },
+        {
+          "title": "The End of All We Know",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 250049
+        },
+        {
+          "title": "In Place of Your Halo",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 303602
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

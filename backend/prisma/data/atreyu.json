@@ -1,0 +1,1131 @@
+{
+  "generatedAt": "2026-11-18T20:17:05.206Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "17e137fb-59e5-4fd7-af48-afc34995396c",
+    "name": "Atreyu",
+    "slug": "atreyu",
+    "type": "BAND",
+    "country": "US",
+    "city": "Yorba Linda",
+    "formedYear": 1998,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/17e137fb-59e5-4fd7-af48-afc34995396c"
+      }
+    ],
+    "genres": [
+      "metalcore",
+      "metal"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "19baa6ba-060e-30eb-862e-d8105990c30b",
+      "releaseMbid": "732b98ec-2c3b-4838-90b8-8acfbf215d16",
+      "title": "Suicide Notes and Butterfly Kisses",
+      "type": "ALBUM",
+      "releaseDate": "2002-06-04",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/19baa6ba-060e-30eb-862e-d8105990c30b/front-1200",
+      "tracks": [
+        {
+          "title": "A Song for the Optimists",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 279360
+        },
+        {
+          "title": "Dilated",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 214720
+        },
+        {
+          "title": "Ain’t Love Grand",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 223266
+        },
+        {
+          "title": "Living Each Day Like You’re Already Dead",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 165053
+        },
+        {
+          "title": "Deanne the Arsonist",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 221893
+        },
+        {
+          "title": "Someone’s Standing on My Chest",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 249146
+        },
+        {
+          "title": "At Least I Know I’m a Sinner",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 202293
+        },
+        {
+          "title": "Tulips Are Better",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 212000
+        },
+        {
+          "title": "A Vampire’s Lament",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 199920
+        },
+        {
+          "title": "Lip Gloss and Black",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 304613
+        }
+      ]
+    },
+    {
+      "mbid": "29453ef2-7ed5-32ca-a4a4-ca1511bb4513",
+      "releaseMbid": "cd1b833b-106e-4e00-8c51-b0d40b70e5a2",
+      "title": "The Curse",
+      "type": "ALBUM",
+      "releaseDate": "2004-06-28",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/29453ef2-7ed5-32ca-a4a4-ca1511bb4513/front-1200",
+      "tracks": [
+        {
+          "title": "Blood Children (An Introduction)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 74000
+        },
+        {
+          "title": "Bleeding Mascara",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 146000
+        },
+        {
+          "title": "Right Side of the Bed",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 222000
+        },
+        {
+          "title": "This Flesh a Tomb",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 239000
+        },
+        {
+          "title": "You Eclipsed by Me",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 218000
+        },
+        {
+          "title": "The Crimson",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 241000
+        },
+        {
+          "title": "The Rememberance Ballad",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 267000
+        },
+        {
+          "title": "An Interlude",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": 129000
+        },
+        {
+          "title": "Corseting",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": 130000
+        },
+        {
+          "title": "Demonology and Heartache",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": 222000
+        },
+        {
+          "title": "My Sanity on the Funeral Pyre",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": 220000
+        },
+        {
+          "title": "Nevada’s Grace",
+          "discNumber": 2,
+          "position": 5,
+          "durationMs": 228000
+        },
+        {
+          "title": "Five Vicodin Chased With a Shot of Clarity",
+          "discNumber": 2,
+          "position": 6,
+          "durationMs": 266000
+        }
+      ]
+    },
+    {
+      "mbid": "a2debf91-055f-3e61-b52e-a01350ea372f",
+      "releaseMbid": "b73a00cf-8a86-4f02-8cdf-0aa8099d1277",
+      "title": "A Death‐Grip on Yesterday",
+      "type": "ALBUM",
+      "releaseDate": "2006-03-28",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a2debf91-055f-3e61-b52e-a01350ea372f/front-1200",
+      "tracks": [
+        {
+          "title": "Creature",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 179213
+        },
+        {
+          "title": "Shameful",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 209426
+        },
+        {
+          "title": "Our Sick Story (Thus Far)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 211186
+        },
+        {
+          "title": "The Theft",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 238000
+        },
+        {
+          "title": "We Stand Up",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 186293
+        },
+        {
+          "title": "Ex’s and Oh’s",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 211000
+        },
+        {
+          "title": "Your Private War",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 213000
+        },
+        {
+          "title": "My Fork in the Road (Your Knife in My Back)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 205000
+        },
+        {
+          "title": "Untitled Finale",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 317013
+        }
+      ]
+    },
+    {
+      "mbid": "5af57b6f-0a82-3a95-866f-9c7291985bec",
+      "releaseMbid": "8e9ea408-af6b-3f21-b748-a4d8cf5424ed",
+      "title": "Lead Sails Paper Anchor",
+      "type": "ALBUM",
+      "releaseDate": "2007-08-27",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/5af57b6f-0a82-3a95-866f-9c7291985bec/front-1200",
+      "tracks": [
+        {
+          "title": "Doomsday",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 199600
+        },
+        {
+          "title": "Honor",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 188746
+        },
+        {
+          "title": "Falling Down",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 179653
+        },
+        {
+          "title": "Becoming the Bull",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 220600
+        },
+        {
+          "title": "When Two Are One",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 280960
+        },
+        {
+          "title": "Lose It",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 238320
+        },
+        {
+          "title": "No One Cares",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 183253
+        },
+        {
+          "title": "Can’t Happen Here",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 242160
+        },
+        {
+          "title": "Slow Burn",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 206480
+        },
+        {
+          "title": "Blow",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 249440
+        },
+        {
+          "title": "Lead Sails (and a Paper Anchor)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 256160
+        }
+      ]
+    },
+    {
+      "mbid": "9fdf7ec9-bd88-4712-82e2-abd183ba83a9",
+      "releaseMbid": "7ad18331-03e3-4861-8122-ca65cd0df5d5",
+      "title": "Congregation of the Damned",
+      "type": "ALBUM",
+      "releaseDate": "2009-10-23",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/9fdf7ec9-bd88-4712-82e2-abd183ba83a9/front-1200",
+      "tracks": [
+        {
+          "title": "Stop! Before It's Too Late and We've Destroyed It All",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 230000
+        },
+        {
+          "title": "Bleeding Is a Luxury",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 212000
+        },
+        {
+          "title": "Congregation of the Damned",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 211000
+        },
+        {
+          "title": "Coffin Nails",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 203000
+        },
+        {
+          "title": "Black Days Begin",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 234000
+        },
+        {
+          "title": "Gallows",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 209000
+        },
+        {
+          "title": "Storm to Pass",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 228000
+        },
+        {
+          "title": "You Were the King, Now You're Unconscious",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 308000
+        },
+        {
+          "title": "Insatiable",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 241000
+        },
+        {
+          "title": "So Wrong",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 200000
+        },
+        {
+          "title": "Ravenous",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 188000
+        },
+        {
+          "title": "Lonely",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 220000
+        },
+        {
+          "title": "Wait for You",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 242000
+        },
+        {
+          "title": "Another Night (Wishing I Wasn't Here)",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 258000
+        }
+      ]
+    },
+    {
+      "mbid": "c4c623b2-c62c-4f75-8750-89c6c05bea0e",
+      "releaseMbid": "26977185-949a-45ee-97e4-3d85709186e2",
+      "title": "Long Live",
+      "type": "ALBUM",
+      "releaseDate": "2015-09-18",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c4c623b2-c62c-4f75-8750-89c6c05bea0e/front-1200",
+      "tracks": [
+        {
+          "title": "Long Live",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 208000
+        },
+        {
+          "title": "Live to Labor",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 193000
+        },
+        {
+          "title": "I Would Kill / Lie / Die (For You)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 250000
+        },
+        {
+          "title": "Cut Off the Head",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 300000
+        },
+        {
+          "title": "A Bitter Broken Memory",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 238000
+        },
+        {
+          "title": "Do You Know Who You Are?",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 230000
+        },
+        {
+          "title": "Revival",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 101000
+        },
+        {
+          "title": "Heartbeats and Flatlines",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 219000
+        },
+        {
+          "title": "Brass Balls",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 208000
+        },
+        {
+          "title": "Moments Before Dawn",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 325000
+        },
+        {
+          "title": "Start to Break",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 280000
+        },
+        {
+          "title": "Reckless",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 271000
+        }
+      ]
+    },
+    {
+      "mbid": "d63d78e0-7e5c-4964-b357-589ce0e5237e",
+      "releaseMbid": "f5c1b091-a8b6-4fd9-80cb-4081068179fe",
+      "title": "The Curse (Instrumental)",
+      "type": "ALBUM",
+      "releaseDate": "2017-07-30",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d63d78e0-7e5c-4964-b357-589ce0e5237e/front-1200",
+      "tracks": [
+        {
+          "title": "Blood Children (An Introduction) (instrumental)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 74000
+        },
+        {
+          "title": "Bleeding Mascara (instrumental)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 146000
+        },
+        {
+          "title": "Right Side of the Bed (instrumental)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 222000
+        },
+        {
+          "title": "This Flesh a Tomb (instrumental)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 239000
+        },
+        {
+          "title": "You Eclipsed by Me (instrumental)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 218000
+        },
+        {
+          "title": "The Crimson (instrumental)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 241000
+        },
+        {
+          "title": "The Remembrance Ballad (instrumental)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 267000
+        },
+        {
+          "title": "An Interlude (instrumental)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 129000
+        },
+        {
+          "title": "Corseting (instrumental)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 130000
+        },
+        {
+          "title": "Demonology and Heartache (instrumental)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 223000
+        },
+        {
+          "title": "My Sanity on the Funeral Pyre (instrumental)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 221000
+        },
+        {
+          "title": "Nevada's Grace (instrumental)",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 228000
+        },
+        {
+          "title": "Five Vicodin Chased With a Shot of Clarity (instrumental)",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 264000
+        }
+      ]
+    },
+    {
+      "mbid": "fa10e6f9-2fb1-41cb-b828-799395a259cf",
+      "releaseMbid": "57cc4029-b5f5-436f-a30f-fb26b81e6697",
+      "title": "In Our Wake",
+      "type": "ALBUM",
+      "releaseDate": "2018-10-12",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "In Our Wake",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 193000
+        },
+        {
+          "title": "House of Gold",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 239000
+        },
+        {
+          "title": "The Time Is Now",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 200000
+        },
+        {
+          "title": "Nothing Will Ever Change",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 235000
+        },
+        {
+          "title": "Blind Deaf & Dumb",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 189000
+        },
+        {
+          "title": "Terrified",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 250000
+        },
+        {
+          "title": "Safety Pin",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 190000
+        },
+        {
+          "title": "Into the Open",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 236000
+        },
+        {
+          "title": "Paper Castle",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 182000
+        },
+        {
+          "title": "No Control",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 219000
+        },
+        {
+          "title": "Anger Left Behind",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 204000
+        },
+        {
+          "title": "Super Hero",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 385000
+        }
+      ]
+    },
+    {
+      "mbid": "dd11089c-93f1-424e-9215-84cafabd69cb",
+      "releaseMbid": "07b4003c-305a-4907-9060-44c2606e1d80",
+      "title": "Baptize",
+      "type": "ALBUM",
+      "releaseDate": "2021-06-04",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/dd11089c-93f1-424e-9215-84cafabd69cb/front-1200",
+      "tracks": [
+        {
+          "title": "Strange Powers of Prophecy",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 63026
+        },
+        {
+          "title": "Baptize",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 169373
+        },
+        {
+          "title": "Save Us",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 141626
+        },
+        {
+          "title": "Underrated",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 180346
+        },
+        {
+          "title": "Broken Again",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 155466
+        },
+        {
+          "title": "Weed",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 137760
+        },
+        {
+          "title": "Dead Weight",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 194573
+        },
+        {
+          "title": "Catastrophe",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 164866
+        },
+        {
+          "title": "Fucked Up",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 165773
+        },
+        {
+          "title": "Sabotage Me",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 165240
+        },
+        {
+          "title": "Untouchable",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 185493
+        },
+        {
+          "title": "No Matter What",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 228453
+        },
+        {
+          "title": "Oblivion",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 177706
+        },
+        {
+          "title": "Stay",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 181240
+        },
+        {
+          "title": "Warrior",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 165933
+        }
+      ]
+    },
+    {
+      "mbid": "44fd080c-9745-4344-bd0b-522cc8eb7b40",
+      "releaseMbid": "4f072304-91fa-4179-aac6-da43abe993db",
+      "title": "The Beautiful Dark of Life",
+      "type": "ALBUM",
+      "releaseDate": "2023-12-08",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/44fd080c-9745-4344-bd0b-522cc8eb7b40/front-1200",
+      "tracks": [
+        {
+          "title": "Drowning",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 166000
+        },
+        {
+          "title": "Insomnia",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 218000
+        },
+        {
+          "title": "Capital F",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 155000
+        },
+        {
+          "title": "God/Devil",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 175000
+        },
+        {
+          "title": "Watch Me Burn",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 219000
+        },
+        {
+          "title": "Good Enough",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 196000
+        },
+        {
+          "title": "Dancing With My Demons",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 200000
+        },
+        {
+          "title": "Gone",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 224000
+        },
+        {
+          "title": "I Don’t Wanna Die",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 220000
+        },
+        {
+          "title": "Immortal",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 191000
+        },
+        {
+          "title": "(i)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 183000
+        },
+        {
+          "title": "Death or Glory",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 254000
+        },
+        {
+          "title": "Forevermore",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 173000
+        },
+        {
+          "title": "Come Down",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 237000
+        },
+        {
+          "title": "The Beautiful Dark of Life",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 189000
+        }
+      ]
+    },
+    {
+      "mbid": "bbca1602-5738-4e9c-a560-3c5fc97c26a2",
+      "releaseMbid": "3a859cae-659c-434f-a406-05f68d8fdfc0",
+      "title": "The Pronoia Sessions",
+      "type": "ALBUM",
+      "releaseDate": "2024-10-25",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/bbca1602-5738-4e9c-a560-3c5fc97c26a2/front-1200",
+      "tracks": [
+        {
+          "title": "Becoming the Bull (Reimagined)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 238364
+        },
+        {
+          "title": "Save Us (Reimagined)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 149392
+        },
+        {
+          "title": "Ex’s and Oh’s (Reimagined)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 215965
+        },
+        {
+          "title": "Right Side of the Bed (Reimagined)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 223811
+        },
+        {
+          "title": "Like a Stone (Reimagined)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 287632
+        },
+        {
+          "title": "Drowning (Reimagined)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 172234
+        },
+        {
+          "title": "The Theft (Reimagined)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 216968
+        },
+        {
+          "title": "Gone (Reimagined)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 232685
+        },
+        {
+          "title": "Warrior (Reimagined)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 173993
+        },
+        {
+          "title": "Mary Jane’s Last Dance (Reimagined)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 252972
+        }
+      ]
+    },
+    {
+      "mbid": "fa9b20ed-ab20-4ec7-bab0-b7100abcccbb",
+      "releaseMbid": "ea68466a-1309-4b46-8b64-aef12748e1a1",
+      "title": "The Curse 2025",
+      "type": "ALBUM",
+      "releaseDate": "2025-07-11",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/fa9b20ed-ab20-4ec7-bab0-b7100abcccbb/front-1200",
+      "tracks": [
+        {
+          "title": "Blood Children 2.0",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 70526
+        },
+        {
+          "title": "Bleeding Mascara",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 148000
+        },
+        {
+          "title": "Right Side of the Bed",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 225144
+        },
+        {
+          "title": "This Flesh a Tomb",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 239028
+        },
+        {
+          "title": "You Eclipsed by Me",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 219818
+        },
+        {
+          "title": "The Crimson",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 241434
+        },
+        {
+          "title": "The Remembrance Ballad",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 269010
+        },
+        {
+          "title": "An Interlude",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 128320
+        },
+        {
+          "title": "Corseting",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 131197
+        },
+        {
+          "title": "Demonology and Heartache",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 231910
+        },
+        {
+          "title": "My Sanity on the Funeral Pyre",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 222339
+        },
+        {
+          "title": "Nevada’s Grace",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 233369
+        },
+        {
+          "title": "Five Vicodin Chased With a Shot of Clarity",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 281995
+        }
+      ]
+    },
+    {
+      "mbid": "6934a3b7-ee18-4f3f-aa0e-b00495cbfc59",
+      "releaseMbid": "37a84d4f-9f8e-4167-b043-e563a95c1ad7",
+      "title": "The End Is Not the End",
+      "type": "ALBUM",
+      "releaseDate": "2026-04-24",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/6934a3b7-ee18-4f3f-aa0e-b00495cbfc59/front-1200",
+      "tracks": [
+        {
+          "title": "The End Is Not the End",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 54564
+        },
+        {
+          "title": "Dead",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 244556
+        },
+        {
+          "title": "Break Me",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 190399
+        },
+        {
+          "title": "All for You",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 234235
+        },
+        {
+          "title": "Ghost in Me",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 175855
+        },
+        {
+          "title": "Glass Eater",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 230046
+        },
+        {
+          "title": "Wait My Love, I’ll Be Home Soon",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 249410
+        },
+        {
+          "title": "Ego Death",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 132477
+        },
+        {
+          "title": "Death Rattle",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 208637
+        },
+        {
+          "title": "Children of Light",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 252189
+        },
+        {
+          "title": "In the Dark",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 232135
+        },
+        {
+          "title": "Afterglow",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 211786
+        },
+        {
+          "title": "Break the Glass",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 291260
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

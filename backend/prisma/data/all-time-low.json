@@ -1,0 +1,1173 @@
+{
+  "generatedAt": "2026-11-19T11:26:56.422Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "62162215-b023-4f0e-84bd-1e9412d5b32c",
+    "name": "All Time Low",
+    "slug": "all-time-low",
+    "type": "BAND",
+    "country": "US",
+    "city": "Towson",
+    "formedYear": 2003,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/62162215-b023-4f0e-84bd-1e9412d5b32c"
+      }
+    ],
+    "genres": [
+      "pop-punk",
+      "alternative-rock"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "b3ebda47-1eb6-37c9-80d8-fd7f52cc6430",
+      "releaseMbid": "d4e182d3-cbd8-4c21-84f1-4b3cad1e79c0",
+      "title": "The Party Scene",
+      "type": "ALBUM",
+      "releaseDate": "2005-07-19",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b3ebda47-1eb6-37c9-80d8-fd7f52cc6430/front-1200",
+      "tracks": [
+        {
+          "title": "Prelude",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 43000
+        },
+        {
+          "title": "The Party Scene",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 178000
+        },
+        {
+          "title": "Lullabies",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 238000
+        },
+        {
+          "title": "Hometown Heroes; National Nobodies",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 173000
+        },
+        {
+          "title": "Circles",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 200000
+        },
+        {
+          "title": "Interlude",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 110000
+        },
+        {
+          "title": "We Say Summer",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 186000
+        },
+        {
+          "title": "Break Out! Break Out!",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 190000
+        },
+        {
+          "title": "Running From Lions",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 186000
+        },
+        {
+          "title": "Noel",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 250000
+        },
+        {
+          "title": "I Can’t Do the One‐Two Step",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 242000
+        },
+        {
+          "title": "The Girl’s a Straight‐Up Hustler",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 239000
+        },
+        {
+          "title": "Sticks, Stones and Techno",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 143000
+        }
+      ]
+    },
+    {
+      "mbid": "b5db6e79-d978-36cb-977e-bd30a2582d4a",
+      "releaseMbid": "25079887-bb5b-4469-a1f3-e4ccc2fa21f0",
+      "title": "So Wrong, It’s Right",
+      "type": "ALBUM",
+      "releaseDate": "2007-09-25",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b5db6e79-d978-36cb-977e-bd30a2582d4a/front-1200",
+      "tracks": [
+        {
+          "title": "This Is How We Do",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 149000
+        },
+        {
+          "title": "Let It Roll",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 180000
+        },
+        {
+          "title": "Six Feet Under the Stars",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 216000
+        },
+        {
+          "title": "Holly (Would You Turn Me On?)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 232000
+        },
+        {
+          "title": "The Beach",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 181000
+        },
+        {
+          "title": "Dear Maria, Count Me In",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 182000
+        },
+        {
+          "title": "Shameless",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 221000
+        },
+        {
+          "title": "Remembering Sunday",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 256000
+        },
+        {
+          "title": "Vegas",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 169000
+        },
+        {
+          "title": "Stay Awake (Dreams Only Last for a Night)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 214000
+        },
+        {
+          "title": "Come One, Come All",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 212000
+        },
+        {
+          "title": "Poppin’ Champagne",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 199000
+        }
+      ]
+    },
+    {
+      "mbid": "bad17724-e03d-484b-9d0e-0ab392ddcab9",
+      "releaseMbid": "a25b6d96-ae69-481f-b716-57582f1cc342",
+      "title": "B-Sides and Unreleased",
+      "type": "ALBUM",
+      "releaseDate": "2008",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/bad17724-e03d-484b-9d0e-0ab392ddcab9/front-1200",
+      "tracks": [
+        {
+          "title": "Light the Way",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 216000
+        },
+        {
+          "title": "My Paradise",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 175000
+        },
+        {
+          "title": "We All Fall Down",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 219000
+        },
+        {
+          "title": "Poppin’ Champagne (dance remix)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 209000
+        },
+        {
+          "title": "Sticks, Stones, and Techno",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 144000
+        },
+        {
+          "title": "Coffee Shop Soundtrack (acoustic)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 198000
+        },
+        {
+          "title": "Remembering Sunday Alex (solo acoustic)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 312000
+        }
+      ]
+    },
+    {
+      "mbid": "c3f49bce-2103-435d-a233-26143a1969ad",
+      "releaseMbid": "2e2158da-6597-4fea-8f3b-34652f0c9a57",
+      "title": "Nothing Personal",
+      "type": "ALBUM",
+      "releaseDate": "2009-07-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c3f49bce-2103-435d-a233-26143a1969ad/front-1200",
+      "tracks": [
+        {
+          "title": "Weightless",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 198000
+        },
+        {
+          "title": "Break Your Little Heart",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 171720
+        },
+        {
+          "title": "Damned If I Do Ya (Damned If I Don’t)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 187013
+        },
+        {
+          "title": "Lost in Stereo",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 227480
+        },
+        {
+          "title": "Stella",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 204320
+        },
+        {
+          "title": "Sick Little Games",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 216026
+        },
+        {
+          "title": "Hello, Brooklyn",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 209826
+        },
+        {
+          "title": "Walls",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 191186
+        },
+        {
+          "title": "Too Much",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 254946
+        },
+        {
+          "title": "Keep the Change, You Filthy Animal",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 200146
+        },
+        {
+          "title": "A Party Song (The Walk of Shame)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 179173
+        },
+        {
+          "title": "Therapy",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 224733
+        },
+        {
+          "title": "Poison",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 198946
+        },
+        {
+          "title": "Weightless (The Secret Handshake remix)",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 188293
+        },
+        {
+          "title": "Lost in Stereo (Cobra Starship Suave Suarez remix)",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 235960
+        },
+        {
+          "title": "Dear Maria Count Me In (Connect Sets acoustic)",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 205920
+        },
+        {
+          "title": "Coffee Shop Soundtrack (acoustic remix)",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 235706
+        }
+      ]
+    },
+    {
+      "mbid": "c33ec41a-835d-42fd-a57d-8f42a02b506b",
+      "releaseMbid": "9d045c76-73d5-46d5-aa01-c93e870e8c81",
+      "title": "Dirty Work",
+      "type": "ALBUM",
+      "releaseDate": "2011-06-06",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c33ec41a-835d-42fd-a57d-8f42a02b506b/front-1200",
+      "tracks": [
+        {
+          "title": "Do You Want Me (Dead?)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 166373
+        },
+        {
+          "title": "I Feel Like Dancin’",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 180600
+        },
+        {
+          "title": "Forget About It",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 169226
+        },
+        {
+          "title": "Guts",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 198560
+        },
+        {
+          "title": "Time‐Bomb",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 209933
+        },
+        {
+          "title": "Just the Way I’m Not",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 198186
+        },
+        {
+          "title": "Under a Paper Moon",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 182946
+        },
+        {
+          "title": "Return the Favor",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 220973
+        },
+        {
+          "title": "No Idea",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 265666
+        },
+        {
+          "title": "A Daydream Away",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 253173
+        },
+        {
+          "title": "That Girl",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 191960
+        },
+        {
+          "title": "Heroes",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 206306
+        },
+        {
+          "title": "Get Down on Your Knees and Tell Me You Love Me",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 181346
+        },
+        {
+          "title": "My Only One",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 263413
+        },
+        {
+          "title": "Merry Christmas, Kiss My Ass",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 199626
+        },
+        {
+          "title": "Jasey Rae (live at Hot Topic)",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 230053
+        }
+      ]
+    },
+    {
+      "mbid": "78a60fa2-a672-42dc-be8d-0d22141c36fa",
+      "releaseMbid": "3eca73b9-c215-4594-9e0b-e3e97b142390",
+      "title": "Don’t Panic",
+      "type": "ALBUM",
+      "releaseDate": "2012-10-09",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/78a60fa2-a672-42dc-be8d-0d22141c36fa/front-1200",
+      "tracks": [
+        {
+          "title": "The Reckless and the Brave",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 199480
+        },
+        {
+          "title": "Backseat Serenade",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 201080
+        },
+        {
+          "title": "If These Sheets Were States",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 199400
+        },
+        {
+          "title": "Somewhere in Neverland",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 225293
+        },
+        {
+          "title": "So Long Soldier",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 169053
+        },
+        {
+          "title": "The Irony of Choking on a Lifesaver",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 216666
+        },
+        {
+          "title": "To Live and Let Go",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 223293
+        },
+        {
+          "title": "Outlines",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 215213
+        },
+        {
+          "title": "Thanks to You",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 214760
+        },
+        {
+          "title": "For Baltimore",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 191013
+        },
+        {
+          "title": "Paint You Wings",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 220040
+        },
+        {
+          "title": "So Long, and Thanks for All the Booze",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 189373
+        }
+      ]
+    },
+    {
+      "mbid": "3c9c8d72-fe62-4dab-8902-ffef0fc0d5b7",
+      "releaseMbid": "cd6f649b-6d05-414a-8879-19e9d6018dcf",
+      "title": "Future Hearts",
+      "type": "ALBUM",
+      "releaseDate": "2015-04-03",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/3c9c8d72-fe62-4dab-8902-ffef0fc0d5b7/front-1200",
+      "tracks": [
+        {
+          "title": "Satellite",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 144000
+        },
+        {
+          "title": "Kicking & Screaming",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 206000
+        },
+        {
+          "title": "Something's Gotta Give",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 189000
+        },
+        {
+          "title": "Kids in the Dark",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 216000
+        },
+        {
+          "title": "Runaways",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 214000
+        },
+        {
+          "title": "Missing You",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 244000
+        },
+        {
+          "title": "Cinderblock Garden",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 215000
+        },
+        {
+          "title": "Tidal Waves",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 249000
+        },
+        {
+          "title": "Don't You Go",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 185000
+        },
+        {
+          "title": "Bail Me Out",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 212000
+        },
+        {
+          "title": "Dancing with a Wolf",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 219000
+        },
+        {
+          "title": "The Edge of Tonight",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 231000
+        },
+        {
+          "title": "Old Scars / Future Hearts",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 206000
+        },
+        {
+          "title": "Bottle and a Beat",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": null
+        },
+        {
+          "title": "Your Bed",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": null
+        },
+        {
+          "title": "Cinderblock Garden (acoustic)",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "16b4c2c2-54b3-45c8-a4c4-a4b737ae9529",
+      "releaseMbid": "22409d17-beb7-4bbc-b408-8b9265bc06ea",
+      "title": "Last Young Renegade",
+      "type": "ALBUM",
+      "releaseDate": "2017-06-02",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/16b4c2c2-54b3-45c8-a4c4-a4b737ae9529/front-1200",
+      "tracks": [
+        {
+          "title": "Last Young Renegade",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 214000
+        },
+        {
+          "title": "Drugs & Candy",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 217000
+        },
+        {
+          "title": "Dirty Laundry",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 197000
+        },
+        {
+          "title": "Good Times",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 224000
+        },
+        {
+          "title": "Nice2KnoU",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 196000
+        },
+        {
+          "title": "Life of the Party",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 205000
+        },
+        {
+          "title": "Nightmares",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 247000
+        },
+        {
+          "title": "Dark Side of Your Room",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 206000
+        },
+        {
+          "title": "Ground Control",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 236000
+        },
+        {
+          "title": "Afterglow",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 243000
+        }
+      ]
+    },
+    {
+      "mbid": "d47b9433-f333-47b3-8614-2544411da6c0",
+      "releaseMbid": "d7120ffd-6d96-4e98-aef6-47e77416e794",
+      "title": "It’s Still Nothing Personal: A Ten Year Tribute",
+      "type": "ALBUM",
+      "releaseDate": "2019-11-08",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d47b9433-f333-47b3-8614-2544411da6c0/front-1200",
+      "tracks": [
+        {
+          "title": "Weightless",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 210000
+        },
+        {
+          "title": "Break Your Little Heart",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 179000
+        },
+        {
+          "title": "Damned If I Do Ya (Damned If I Don’t)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 179000
+        },
+        {
+          "title": "Lost in Stereo",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 221000
+        },
+        {
+          "title": "Stella",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 199000
+        },
+        {
+          "title": "Sick Little Games",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 207000
+        },
+        {
+          "title": "Hello, Brooklyn",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 202000
+        },
+        {
+          "title": "Walls",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 189000
+        },
+        {
+          "title": "Too Much",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 267000
+        },
+        {
+          "title": "Keep the Change, You Filthy Animal",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 205000
+        },
+        {
+          "title": "A Party Song (The Walk of Shame)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 175000
+        },
+        {
+          "title": "Therapy",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 226000
+        }
+      ]
+    },
+    {
+      "mbid": "69de01a5-99f0-4b0c-9abb-74cab631ed2c",
+      "releaseMbid": "a2a24cf6-6cd7-4c16-a1b6-eb035dd5aa3e",
+      "title": "Wake Up, Sunshine",
+      "type": "ALBUM",
+      "releaseDate": "2020-04-03",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/69de01a5-99f0-4b0c-9abb-74cab631ed2c/front-1200",
+      "tracks": [
+        {
+          "title": "Some Kind of Disaster",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 224000
+        },
+        {
+          "title": "Sleeping In",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 181000
+        },
+        {
+          "title": "Getaway Green",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 167000
+        },
+        {
+          "title": "Melancholy Kaleidoscope",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 175000
+        },
+        {
+          "title": "Trouble Is",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 147000
+        },
+        {
+          "title": "Wake Up, Sunshine",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 196000
+        },
+        {
+          "title": "Monsters",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 174000
+        },
+        {
+          "title": "Pretty Venom (interlude)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 182000
+        },
+        {
+          "title": "Favorite Place",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 194000
+        },
+        {
+          "title": "Safe",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 220000
+        },
+        {
+          "title": "January Gloom (Seasons, Pt. 1)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 166000
+        },
+        {
+          "title": "Clumsy",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 182000
+        },
+        {
+          "title": "Glitter & Crimson",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 183000
+        },
+        {
+          "title": "Summer Daze (Seasons, Pt. 2)",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 195000
+        },
+        {
+          "title": "Basement Noise",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 186000
+        }
+      ]
+    },
+    {
+      "mbid": "8dfc4b17-f7a0-42e2-8b8c-73e56684d5c4",
+      "releaseMbid": "468499de-a2b9-4c41-b1bf-2e4c205f50f4",
+      "title": "Tell Me I’m Alive",
+      "type": "ALBUM",
+      "releaseDate": "2023-03-17",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/8dfc4b17-f7a0-42e2-8b8c-73e56684d5c4/front-1200",
+      "tracks": [
+        {
+          "title": "Tell Me I’m Alive",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 155562
+        },
+        {
+          "title": "Modern Love",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 194959
+        },
+        {
+          "title": "Are You There?",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 192659
+        },
+        {
+          "title": "Sleepwalking",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 187344
+        },
+        {
+          "title": "Calm Down",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 194227
+        },
+        {
+          "title": "English Blood // American Heartache",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 196232
+        },
+        {
+          "title": "The Sound of Letting Go",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 159066
+        },
+        {
+          "title": "New Religion",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 184054
+        },
+        {
+          "title": "The Way You Miss Me",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 220091
+        },
+        {
+          "title": "I’d Be Fine (If I Never Saw You Again)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 179419
+        },
+        {
+          "title": "Kill Ur Vibe",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 210101
+        },
+        {
+          "title": "The Other Side",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 167827
+        },
+        {
+          "title": "Lost Along the Way",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 220781
+        }
+      ]
+    },
+    {
+      "mbid": "e8de48af-3f7f-44ea-9dfd-093cc1a144f2",
+      "releaseMbid": "cdb88f53-aedf-430c-bec5-5821f1ef047b",
+      "title": "The Forever Sessions (Vol. 1)",
+      "type": "ALBUM",
+      "releaseDate": "2024-08-23",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/e8de48af-3f7f-44ea-9dfd-093cc1a144f2/front-1200",
+      "tracks": [
+        {
+          "title": "Dear Maria, Count Me In (ATL’s version)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 187266
+        },
+        {
+          "title": "Coffee Shop Soundtrack (ATL’s version)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 176491
+        },
+        {
+          "title": "Damned If I Do Ya, Damned If I Don’t (ATL’s version)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 185124
+        },
+        {
+          "title": "Six Feet Under the Stars (ATL’s version)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 215268
+        },
+        {
+          "title": "Weightless (ATL’s version)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 202712
+        },
+        {
+          "title": "Poppin’ Champagne (ATL’s version)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 195754
+        },
+        {
+          "title": "Jasey Rae (ATL’s version)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 222290
+        },
+        {
+          "title": "Lost in Stereo (ATL’s version)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 212847
+        },
+        {
+          "title": "Remembering Sunday (ATL’s version)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 256730
+        }
+      ]
+    },
+    {
+      "mbid": "0db4c0ed-1666-4fce-bf22-6d838cc4d548",
+      "releaseMbid": "2ef63c62-4431-4dce-a00f-23987551d3de",
+      "title": "Everyone’s Talking!",
+      "type": "ALBUM",
+      "releaseDate": "2025-10-17",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0db4c0ed-1666-4fce-bf22-6d838cc4d548/front-1200",
+      "tracks": [
+        {
+          "title": "[cold open]",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 61000
+        },
+        {
+          "title": "Everyone’s Talking",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 159000
+        },
+        {
+          "title": "SUCKERPUNCH",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 173000
+        },
+        {
+          "title": "Oh No!",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 193000
+        },
+        {
+          "title": "The Weather",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 172000
+        },
+        {
+          "title": "Falling for Strangers",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 182000
+        },
+        {
+          "title": "Viva Las Vagus Nerve",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 177000
+        },
+        {
+          "title": "Sugar",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 180000
+        },
+        {
+          "title": "Goodnight, C’est la vie",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 64000
+        },
+        {
+          "title": "Bubblegum",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 173000
+        },
+        {
+          "title": "Little Bit",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 151000
+        },
+        {
+          "title": "Cigarettes & Sabotage",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 173000
+        },
+        {
+          "title": "Tread Water",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 216000
+        },
+        {
+          "title": "Different Languages",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 222000
+        },
+        {
+          "title": "Butterflies",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 189000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

@@ -1,0 +1,567 @@
+{
+  "generatedAt": "2026-11-18T20:54:51.035Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "86b24e8f-a4d9-4c84-83ee-fde0d14ad9fa",
+    "name": "Sunny Day Real Estate",
+    "slug": "sunny-day-real-estate",
+    "type": "BAND",
+    "country": "US",
+    "city": "Seattle",
+    "formedYear": 1992,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/86b24e8f-a4d9-4c84-83ee-fde0d14ad9fa"
+      }
+    ],
+    "genres": [
+      "emo",
+      "alternative-rock",
+      "indie-rock"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "4c70d535-0961-3b13-883e-a7a32db3c61d",
+      "releaseMbid": "47e3f70d-1bc9-4f06-8e58-7d17a6aca929",
+      "title": "In Circles EP",
+      "type": "EP",
+      "releaseDate": "1994",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "In Circles (radio edit)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 264960
+        },
+        {
+          "title": "Rodeo Jones",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 311333
+        },
+        {
+          "title": "No. 9",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 358640
+        },
+        {
+          "title": "48 (original version)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 385026
+        },
+        {
+          "title": "In Circles",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 298440
+        }
+      ]
+    },
+    {
+      "mbid": "12e88251-2cde-3bea-9cee-2d8c7fe65039",
+      "releaseMbid": "8838d557-42df-4ebd-88a4-f74cbc33e8f8",
+      "title": "Diary",
+      "type": "ALBUM",
+      "releaseDate": "1994-05-10",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Seven",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 285600
+        },
+        {
+          "title": "In Circles",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 298666
+        },
+        {
+          "title": "Song About an Angel",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 373973
+        },
+        {
+          "title": "Round",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 249133
+        },
+        {
+          "title": "47",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 274360
+        },
+        {
+          "title": "The Blankets Were the Stairs",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 327333
+        },
+        {
+          "title": "Pheurton Skeurto",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 153200
+        },
+        {
+          "title": "Shadows",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 286533
+        },
+        {
+          "title": "48",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 286173
+        },
+        {
+          "title": "Grendel",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 293426
+        },
+        {
+          "title": "Sometimes",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 342906
+        }
+      ]
+    },
+    {
+      "mbid": "2f0a2ce2-c85f-3b04-9e04-e47b59cebbc1",
+      "releaseMbid": "5ab7937f-bc59-48b8-8ee2-e3f87af5da8d",
+      "title": "LP2",
+      "type": "ALBUM",
+      "releaseDate": "1995-11-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/2f0a2ce2-c85f-3b04-9e04-e47b59cebbc1/front-1200",
+      "tracks": [
+        {
+          "title": "Friday",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 149400
+        },
+        {
+          "title": "Theo B",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 185573
+        },
+        {
+          "title": "Red Elephant",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 200000
+        },
+        {
+          "title": "5/4",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 213373
+        },
+        {
+          "title": "Waffle",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 265760
+        },
+        {
+          "title": "8",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 328000
+        },
+        {
+          "title": "Iscarabaid",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 287000
+        },
+        {
+          "title": "J’nuh",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 292666
+        },
+        {
+          "title": "Rodeo Jones",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 310000
+        }
+      ]
+    },
+    {
+      "mbid": "dc08a7b9-555f-4117-a60b-adf4b3b710d3",
+      "releaseMbid": "c5eef56a-e00f-48f8-812c-b52c6b5a3a3f",
+      "title": "Radio Sampler 1992-'98",
+      "type": "COMPILATION",
+      "releaseDate": "1998",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/dc08a7b9-555f-4117-a60b-adf4b3b710d3/front-1200",
+      "tracks": [
+        {
+          "title": "Pillars",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Every Shining Time You Arrive",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Guitars and Video Games",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "In Circles",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Seven",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Explain",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "11cc396d-9e51-37b4-afc3-e83cf175d782",
+      "releaseMbid": "d28b1565-137e-475b-b554-a4a9cde3810b",
+      "title": "How It Feels to Be Something On",
+      "type": "ALBUM",
+      "releaseDate": "1998-09-08",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/11cc396d-9e51-37b4-afc3-e83cf175d782/front-1200",
+      "tracks": [
+        {
+          "title": "Pillars",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 297066
+        },
+        {
+          "title": "Roses in Water",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 222466
+        },
+        {
+          "title": "Every Shining Time You Arrive",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 253440
+        },
+        {
+          "title": "Two Promises",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 279066
+        },
+        {
+          "title": "100 Million",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 338426
+        },
+        {
+          "title": "How It Feels to Be Something On",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 237400
+        },
+        {
+          "title": "The Prophet",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 313373
+        },
+        {
+          "title": "Guitar and Video Games",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 249026
+        },
+        {
+          "title": "The Shark’s Own Private Fuck",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 243533
+        },
+        {
+          "title": "Days Were Golden",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 308533
+        }
+      ]
+    },
+    {
+      "mbid": "94189456-2ffc-3d6d-ab8a-0519a66243b6",
+      "releaseMbid": "a5e1c162-aca9-4516-a87c-1b4a9575f3cf",
+      "title": "Live",
+      "type": "LIVE",
+      "releaseDate": "1999-10-19",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Pillars",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 297000
+        },
+        {
+          "title": "Guitar and Video Games",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 222000
+        },
+        {
+          "title": "100 Million",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 253000
+        },
+        {
+          "title": "Every Shining Time You Arrive",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Song About an Angel",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 279000
+        },
+        {
+          "title": "The Prophet",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 338000
+        },
+        {
+          "title": "Rodeo Jones",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 237000
+        },
+        {
+          "title": "In Circles",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 313000
+        },
+        {
+          "title": "J'Nuh",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 248000
+        },
+        {
+          "title": "Seven (music video)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 243000
+        },
+        {
+          "title": "In Circles (music video)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 308000
+        }
+      ]
+    },
+    {
+      "mbid": "d964aea2-5250-3b71-a561-16829da8e00e",
+      "releaseMbid": "93cbd852-9d3a-4f43-ad0f-d1b12e4b9bae",
+      "title": "The Rising Tide",
+      "type": "ALBUM",
+      "releaseDate": "2000-06-20",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d964aea2-5250-3b71-a561-16829da8e00e/front-1200",
+      "tracks": [
+        {
+          "title": "Killed by an Angel",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "One",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Rain Song",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Disappear",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Snibe",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "The Ocean",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Fool in the Photograph",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Tearing in My Heart",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Television",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Faces in Disguise",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "The Rising Tide",
+          "discNumber": 2,
+          "position": 5,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "f6160da5-b614-4515-9724-f34efedba87d",
+      "releaseMbid": "ad85d950-5820-47ba-8395-4661278f2044",
+      "title": "Diary at London Bridge Studio",
+      "type": "LIVE",
+      "releaseDate": "2024-05-03",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f6160da5-b614-4515-9724-f34efedba87d/front-1200",
+      "tracks": [
+        {
+          "title": "Seven",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 278603
+        },
+        {
+          "title": "In Circles",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 291393
+        },
+        {
+          "title": "Song About an Angel",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 368321
+        },
+        {
+          "title": "Round",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 245643
+        },
+        {
+          "title": "47",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 280345
+        },
+        {
+          "title": "The Blankets Were the Stairs",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 318980
+        },
+        {
+          "title": "Pheurton Skeurto",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 147033
+        },
+        {
+          "title": "Shadows",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 284545
+        },
+        {
+          "title": "48",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 265808
+        },
+        {
+          "title": "Grendel",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 304337
+        },
+        {
+          "title": "Sometimes",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 352099
+        },
+        {
+          "title": "Novum Vetus",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 449405
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

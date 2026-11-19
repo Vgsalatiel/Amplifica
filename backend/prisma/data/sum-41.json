@@ -1,0 +1,942 @@
+{
+  "generatedAt": "2026-11-19T11:23:28.514Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "f2eef649-a6d5-4114-afba-e50ab26254d2",
+    "name": "Sum 41",
+    "slug": "sum-41",
+    "type": "BAND",
+    "country": "CA",
+    "city": "Ajax",
+    "formedYear": 1996,
+    "disbandedYear": 2025,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/f2eef649-a6d5-4114-afba-e50ab26254d2"
+      }
+    ],
+    "genres": [
+      "pop-punk",
+      "punk-rock",
+      "alternative-rock"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "839c6be8-8aa0-39d2-be67-a17bcaf3deb0",
+      "releaseMbid": "0d07f878-e13d-4cb5-9b90-d4891c5b4491",
+      "title": "Toe Tapping Treats “Some Songs That Were Kicking Around”",
+      "type": "EP",
+      "releaseDate": "2000",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/839c6be8-8aa0-39d2-be67-a17bcaf3deb0/front-1200",
+      "tracks": [
+        {
+          "title": "Just as Much",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 181000
+        },
+        {
+          "title": "Together",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 185000
+        },
+        {
+          "title": "Makes No Difference",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 190000
+        }
+      ]
+    },
+    {
+      "mbid": "32842166-8238-343c-931d-a37d656c77ec",
+      "releaseMbid": "cba36543-29ff-472a-baaa-1e637232c1a8",
+      "title": "Half Hour of Power",
+      "type": "EP",
+      "releaseDate": "2000-06-27",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/32842166-8238-343c-931d-a37d656c77ec/front-1200",
+      "tracks": [
+        {
+          "title": "Grab the Devil by the Horns and Fuck Him Up the Ass",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 66693
+        },
+        {
+          "title": "Machine Gun",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 149240
+        },
+        {
+          "title": "What I Believe",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 169493
+        },
+        {
+          "title": "T.H.T.",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 43640
+        },
+        {
+          "title": "Makes No Difference",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 190426
+        },
+        {
+          "title": "Summer",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 160173
+        },
+        {
+          "title": "32 Ways to Die",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 90760
+        },
+        {
+          "title": "Second Chance for Max Headroom",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 231400
+        },
+        {
+          "title": "Dave's Possessed Hair / It's What We're All About",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 227906
+        },
+        {
+          "title": "Ride the Chariot to the Devil",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 55400
+        },
+        {
+          "title": "Another Time Around",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 412293
+        }
+      ]
+    },
+    {
+      "mbid": "dd2c168f-41a6-37f5-a727-6e188bf22c6e",
+      "releaseMbid": "3944abb0-dfb3-46b0-914c-a1117f568c7d",
+      "title": "All Killer No Filler",
+      "type": "ALBUM",
+      "releaseDate": "2001-05-08",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/dd2c168f-41a6-37f5-a727-6e188bf22c6e/front-1200",
+      "tracks": [
+        {
+          "title": "Introduction to Destruction",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 37800
+        },
+        {
+          "title": "Nothing on My Back",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 181493
+        },
+        {
+          "title": "Never Wake Up",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 49853
+        },
+        {
+          "title": "Fat Lip",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 178266
+        },
+        {
+          "title": "Rhythms",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 178826
+        },
+        {
+          "title": "Motivation",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 169960
+        },
+        {
+          "title": "In Too Deep",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 207093
+        },
+        {
+          "title": "Summer",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 169360
+        },
+        {
+          "title": "Handle This",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 217026
+        },
+        {
+          "title": "Crazy Amanda Bunkface",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 135586
+        },
+        {
+          "title": "All She’s Got",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 141933
+        },
+        {
+          "title": "Heart Attack",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 168880
+        },
+        {
+          "title": "Pain for Pleasure",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 105280
+        }
+      ]
+    },
+    {
+      "mbid": "3ebc1782-e140-3a1a-971e-17826ddf462d",
+      "releaseMbid": "07f946f9-1225-48a1-80cf-44b7bfb51a2e",
+      "title": "Does This Look Infected?",
+      "type": "ALBUM",
+      "releaseDate": "2002-11-25",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/3ebc1782-e140-3a1a-971e-17826ddf462d/front-1200",
+      "tracks": [
+        {
+          "title": "The Hell Song",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 198000
+        },
+        {
+          "title": "Over My Head (Better Off Dead)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 149000
+        },
+        {
+          "title": "My Direction",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 123000
+        },
+        {
+          "title": "Still Waiting",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 159000
+        },
+        {
+          "title": "A.N.I.C.",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 38000
+        },
+        {
+          "title": "No Brains",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 166000
+        },
+        {
+          "title": "All Messed Up",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 165000
+        },
+        {
+          "title": "Mr. Amsterdam",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 176000
+        },
+        {
+          "title": "Thanks for Nothing",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 184000
+        },
+        {
+          "title": "Hyper‐Insomnia‐Para‐Condrioid",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 153000
+        },
+        {
+          "title": "Billy Spleen",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 153000
+        },
+        {
+          "title": "Hooch",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 208000
+        }
+      ]
+    },
+    {
+      "mbid": "c572a075-fdef-3bab-998b-44282fd573bb",
+      "releaseMbid": "62cb1412-369a-3645-a8df-248f461b6689",
+      "title": "Chuck",
+      "type": "ALBUM",
+      "releaseDate": "2004-09-29",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c572a075-fdef-3bab-998b-44282fd573bb/front-1200",
+      "tracks": [
+        {
+          "title": "Intro",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 46306
+        },
+        {
+          "title": "No Reason",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 184786
+        },
+        {
+          "title": "We're All to Blame",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 218906
+        },
+        {
+          "title": "Angels With Dirty Faces",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 143333
+        },
+        {
+          "title": "Some Say",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 206160
+        },
+        {
+          "title": "The Bitter End",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 171893
+        },
+        {
+          "title": "Open Your Eyes",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 164960
+        },
+        {
+          "title": "Slipping Away",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 149546
+        },
+        {
+          "title": "I'm Not the One",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 214560
+        },
+        {
+          "title": "Welcome to Hell",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 116733
+        },
+        {
+          "title": "Pieces",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 181986
+        },
+        {
+          "title": "There's No Solution",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 198240
+        },
+        {
+          "title": "88",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 282120
+        }
+      ]
+    },
+    {
+      "mbid": "d342f01e-da96-30e1-8daf-7fb66c281648",
+      "releaseMbid": "d1b07137-b62e-45b7-b5e4-663218851844",
+      "title": "Underclass Hero",
+      "type": "ALBUM",
+      "releaseDate": "2007-01-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d342f01e-da96-30e1-8daf-7fb66c281648/front-1200",
+      "tracks": [
+        {
+          "title": "Underclass Hero",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 194133
+        },
+        {
+          "title": "Walking Disaster",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 286373
+        },
+        {
+          "title": "Speak of the Devil",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 238693
+        },
+        {
+          "title": "Dear Father",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 232173
+        },
+        {
+          "title": "Count Your Last Blessings",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 183893
+        },
+        {
+          "title": "Ma Poubelle",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 55813
+        },
+        {
+          "title": "March of the Dogs",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 189040
+        },
+        {
+          "title": "The Jester",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 168373
+        },
+        {
+          "title": "With Me",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 291360
+        },
+        {
+          "title": "Pull the Curtain",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 258826
+        },
+        {
+          "title": "King of Contradiction",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 100546
+        },
+        {
+          "title": "Best of Me",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 265773
+        },
+        {
+          "title": "Confusion and Frustration in Modern Times",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 226146
+        },
+        {
+          "title": "So Long Goodbye",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 181613
+        },
+        {
+          "title": "Look at Me",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 243533
+        },
+        {
+          "title": "No Apologies",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 178000
+        },
+        {
+          "title": "Take a Look at Yourself",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 204000
+        },
+        {
+          "title": "This Is Goodbye",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 146000
+        }
+      ]
+    },
+    {
+      "mbid": "f74392c9-8c26-4f80-979a-e7bc46e24cd1",
+      "releaseMbid": "78c2a3dd-ab93-48f9-a29e-67521e69e89e",
+      "title": "Screaming Bloody Murder",
+      "type": "ALBUM",
+      "releaseDate": "2011-01-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f74392c9-8c26-4f80-979a-e7bc46e24cd1/front-1200",
+      "tracks": [
+        {
+          "title": "Reason To Believe",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 208093
+        },
+        {
+          "title": "Screaming Bloody Murder",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 204653
+        },
+        {
+          "title": "Skumf*k",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 204547
+        },
+        {
+          "title": "Time For You To Go",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 181507
+        },
+        {
+          "title": "Jessica Kill",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 170213
+        },
+        {
+          "title": "What Am I To Say",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 252253
+        },
+        {
+          "title": "Holy Image Of Lies",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 227400
+        },
+        {
+          "title": "Sick Of Everyone",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 185040
+        },
+        {
+          "title": "Happiness Machine",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 287960
+        },
+        {
+          "title": "Crash",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 199933
+        },
+        {
+          "title": "Blood In My Eyes",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 256733
+        },
+        {
+          "title": "Baby You Don't Wanna Know",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 214440
+        },
+        {
+          "title": "Back Where I Belong",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 221853
+        },
+        {
+          "title": "Exit Song",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 102067
+        },
+        {
+          "title": "Reason To Believe (Acoustic)",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 156653
+        }
+      ]
+    },
+    {
+      "mbid": "27de34e7-47e1-4b63-971f-c9f4ac07bd56",
+      "releaseMbid": "0a5f9eb3-08c8-472f-8494-3fedcfbf76fa",
+      "title": "13 Voices",
+      "type": "ALBUM",
+      "releaseDate": "2016-10-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/27de34e7-47e1-4b63-971f-c9f4ac07bd56/front-1200",
+      "tracks": [
+        {
+          "title": "A Murder of Crows",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 184000
+        },
+        {
+          "title": "Goddamn I’m Dead Again",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 202000
+        },
+        {
+          "title": "Fake My Own Death",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 194000
+        },
+        {
+          "title": "Breaking the Chain",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 243000
+        },
+        {
+          "title": "There Will Be Blood",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 209000
+        },
+        {
+          "title": "13 Voices",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 272000
+        },
+        {
+          "title": "War",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 209000
+        },
+        {
+          "title": "God Save Us All (Death to POP)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 233000
+        },
+        {
+          "title": "The Fall and the Rise",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 189000
+        },
+        {
+          "title": "Twisted by Design",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 328000
+        }
+      ]
+    },
+    {
+      "mbid": "54a346b3-6851-481f-8f25-96c1895a9d6a",
+      "releaseMbid": "7fc563c3-489a-44e2-b166-217dba5f3f72",
+      "title": "Order in Decline",
+      "type": "ALBUM",
+      "releaseDate": "2019-07-19",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/54a346b3-6851-481f-8f25-96c1895a9d6a/front-1200",
+      "tracks": [
+        {
+          "title": "Turning Away",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 230806
+        },
+        {
+          "title": "Out for Blood",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 216571
+        },
+        {
+          "title": "The New Sensation",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 230185
+        },
+        {
+          "title": "A Death in the Family",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 198358
+        },
+        {
+          "title": "Heads Will Roll",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 230096
+        },
+        {
+          "title": "45 (A Matter of Time)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 192039
+        },
+        {
+          "title": "Never There",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 260094
+        },
+        {
+          "title": "Eat You Alive",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 164384
+        },
+        {
+          "title": "The People Vs…",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 199460
+        },
+        {
+          "title": "Catching Fire",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 241706
+        },
+        {
+          "title": "Heads Will Roll (acoustic)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 210000
+        },
+        {
+          "title": "Catching Fire (acoustic)",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 241000
+        }
+      ]
+    },
+    {
+      "mbid": "6073f395-cd42-4764-b345-6d634ce930cf",
+      "releaseMbid": "ef8426ff-58d5-4223-aa12-4037c5679b11",
+      "title": "13 Voices B‐Sides",
+      "type": "EP",
+      "releaseDate": "2020-05",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/6073f395-cd42-4764-b345-6d634ce930cf/front-1200",
+      "tracks": [
+        {
+          "title": "Better Days",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 134772
+        },
+        {
+          "title": "Black Eyes",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 192224
+        },
+        {
+          "title": "War (acoustic)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 223200
+        },
+        {
+          "title": "Breaking the Chain (acoustic)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 228154
+        },
+        {
+          "title": "Radio Radio",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 170951
+        }
+      ]
+    },
+    {
+      "mbid": "256762ad-6a8c-40b4-969e-c7721a3bf794",
+      "releaseMbid": "32e5790b-d67c-4678-8af3-4fc41e1347ae",
+      "title": "Heaven :x: Hell",
+      "type": "ALBUM",
+      "releaseDate": "2024-03-29",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/256762ad-6a8c-40b4-969e-c7721a3bf794/front-1200",
+      "tracks": [
+        {
+          "title": "Waiting On a Twist of Fate",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 167000
+        },
+        {
+          "title": "Landmines",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 176000
+        },
+        {
+          "title": "I Can’t Wait",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 126000
+        },
+        {
+          "title": "Time Won’t Wait",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 151000
+        },
+        {
+          "title": "Future Primitive",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 132000
+        },
+        {
+          "title": "Dopamine",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 187000
+        },
+        {
+          "title": "Not Quite Myself",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 174000
+        },
+        {
+          "title": "Bad Mistake",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 183000
+        },
+        {
+          "title": "Johnny Libertine",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 95000
+        },
+        {
+          "title": "Radio Silence",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 203000
+        },
+        {
+          "title": "Preparasi a salire",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 69000
+        },
+        {
+          "title": "Rise Up",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 197000
+        },
+        {
+          "title": "Stranger in These Times",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 177000
+        },
+        {
+          "title": "I Don’t Need Anyone",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 190000
+        },
+        {
+          "title": "Over the Edge",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 189000
+        },
+        {
+          "title": "House of Liars",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 186000
+        },
+        {
+          "title": "You Wanted War",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 212000
+        },
+        {
+          "title": "Paint It Black",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 163000
+        },
+        {
+          "title": "It’s All Me",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 139000
+        },
+        {
+          "title": "How the End Begins",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 196000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

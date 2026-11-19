@@ -1,0 +1,57 @@
+{
+  "generatedAt": "2026-11-19T11:48:48.363Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "2278cebf-6c0c-4b9d-96df-670a133d6364",
+    "name": "Marabô",
+    "slug": "marabo",
+    "type": "BAND",
+    "country": "BR",
+    "city": "Brazil",
+    "formedYear": 2022,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/2278cebf-6c0c-4b9d-96df-670a133d6364"
+      }
+    ],
+    "genres": [
+      "metalcore",
+      "metal"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "94a628d7-4d3b-43a8-afc9-c85beb242401",
+      "releaseMbid": "5a06cda5-df96-4955-a007-b0d0167322ac",
+      "title": "Marabô",
+      "type": "EP",
+      "releaseDate": "2024-08-16",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Estacas",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 215000
+        },
+        {
+          "title": "Asco",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 230000
+        },
+        {
+          "title": "Marabô",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 202000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

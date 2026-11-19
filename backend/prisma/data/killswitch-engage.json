@@ -1,0 +1,898 @@
+{
+  "generatedAt": "2026-11-18T20:14:45.095Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "8295ee00-0096-461d-95c7-c2263d2a4c6d",
+    "name": "Killswitch Engage",
+    "slug": "killswitch-engage",
+    "type": "BAND",
+    "country": "US",
+    "city": "Westfield",
+    "formedYear": 1999,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/8295ee00-0096-461d-95c7-c2263d2a4c6d"
+      }
+    ],
+    "genres": [
+      "metalcore",
+      "metal"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "e56b8db5-9f49-3f6e-944c-5ea268dbdaf8",
+      "releaseMbid": "7a4c60fb-166e-4d41-b790-915fea38ed3d",
+      "title": "Killswitch Engage",
+      "type": "ALBUM",
+      "releaseDate": "2000-07-04",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/e56b8db5-9f49-3f6e-944c-5ea268dbdaf8/front-1200",
+      "tracks": [
+        {
+          "title": "Temple From the Within (2004 Remaster)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 247080
+        },
+        {
+          "title": "Vide Infra (2004 Remaster)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 212387
+        },
+        {
+          "title": "Irresversal (2004 Remaster)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 257893
+        },
+        {
+          "title": "Rusted Embrace (2004 Remaster)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 269493
+        },
+        {
+          "title": "Prelude (2004 Remaster)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 115760
+        },
+        {
+          "title": "Soilborn (2004 Remaster)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 209973
+        },
+        {
+          "title": "Numb Sick Eyes (2004 Remaster)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 218160
+        },
+        {
+          "title": "In the Unblind (2004 Remaster)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 177560
+        },
+        {
+          "title": "One Last Sunset (2004 Remaster)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 229947
+        },
+        {
+          "title": "Prelude (Demo) [Bonus Track]",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 123560
+        },
+        {
+          "title": "Soilborn (Demo) [Bonus Track]",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 199187
+        },
+        {
+          "title": "Vide Infra (Demo) [Bonus Track]",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 208613
+        },
+        {
+          "title": "In the Unblind (Demo) [Bonus Track]",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 168720
+        }
+      ]
+    },
+    {
+      "mbid": "f2f3d37e-7099-37c4-8e94-085b3b4a374a",
+      "releaseMbid": "0f4f5156-fcfc-447c-b1d8-b596b8c38bc0",
+      "title": "Alive or Just Breathing",
+      "type": "ALBUM",
+      "releaseDate": "2002-05-13",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f2f3d37e-7099-37c4-8e94-085b3b4a374a/front-1200",
+      "tracks": [
+        {
+          "title": "Numbered Days",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 215000
+        },
+        {
+          "title": "Self Revolution",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 188000
+        },
+        {
+          "title": "Fixation on the Darkness",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 217000
+        },
+        {
+          "title": "My Last Serenade",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 253000
+        },
+        {
+          "title": "Life to Lifeless",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 197000
+        },
+        {
+          "title": "Just Barely Breathing",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 342000
+        },
+        {
+          "title": "To the Sons of Man",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 118000
+        },
+        {
+          "title": "Temple From the Within",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 244000
+        },
+        {
+          "title": "The Element of One",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 248000
+        },
+        {
+          "title": "Vide Infra",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 208000
+        },
+        {
+          "title": "Without a Name",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 105000
+        },
+        {
+          "title": "Rise Inside",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 356000
+        }
+      ]
+    },
+    {
+      "mbid": "7fef0d18-8c73-3c82-811c-a62a0a92859d",
+      "releaseMbid": "23df45da-622e-4952-8563-d431f5b68d23",
+      "title": "The End of Heartache",
+      "type": "ALBUM",
+      "releaseDate": "2004-05-03",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/7fef0d18-8c73-3c82-811c-a62a0a92859d/front-1200",
+      "tracks": [
+        {
+          "title": "A Bid Farewell",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 235560
+        },
+        {
+          "title": "Take This Oath",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 226666
+        },
+        {
+          "title": "When Darkness Falls",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 232546
+        },
+        {
+          "title": "Rose of Sharyn",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 216306
+        },
+        {
+          "title": "Inhale",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 75013
+        },
+        {
+          "title": "Breathe Life",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 198546
+        },
+        {
+          "title": "The End of Heartache",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 298106
+        },
+        {
+          "title": "Declaration",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 181400
+        },
+        {
+          "title": "World Ablaze",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 299973
+        },
+        {
+          "title": "And Embers Rise",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 71346
+        },
+        {
+          "title": "Wasted Sacrifice",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 258920
+        },
+        {
+          "title": "Hope Is…",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 261880
+        }
+      ]
+    },
+    {
+      "mbid": "e482e885-dcca-4194-a625-60400660e8e4",
+      "releaseMbid": "650e83aa-f7a6-4a64-a398-0bc02f603378",
+      "title": "(Set This) World Ablaze",
+      "type": "EP",
+      "releaseDate": "2005-11-05",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/e482e885-dcca-4194-a625-60400660e8e4/front-1200",
+      "tracks": [
+        {
+          "title": "In the Unblind",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 168760
+        },
+        {
+          "title": "Numbered Days (demo)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 217960
+        },
+        {
+          "title": "The End of Heartache (live 7/25/05)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 286238
+        },
+        {
+          "title": "Rose of Sharyn (live 7/25/05)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 236860
+        },
+        {
+          "title": "Vide Infra (live 7/25/05)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 256358
+        }
+      ]
+    },
+    {
+      "mbid": "eeb3218d-10ae-3875-8b3a-ce282697d419",
+      "releaseMbid": "3dea3eef-4d20-49c3-be46-5ff8476d3eb2",
+      "title": "As Daylight Dies",
+      "type": "ALBUM",
+      "releaseDate": "2006-01-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/eeb3218d-10ae-3875-8b3a-ce282697d419/front-1200",
+      "tracks": [
+        {
+          "title": "Daylight Dies",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 245800
+        },
+        {
+          "title": "This Is Absolution",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 214360
+        },
+        {
+          "title": "The Arms of Sorrow",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 224120
+        },
+        {
+          "title": "Unbroken",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 188733
+        },
+        {
+          "title": "My Curse",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 244773
+        },
+        {
+          "title": "For You",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 243213
+        },
+        {
+          "title": "Still Beats Your Name",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 199693
+        },
+        {
+          "title": "Eye of the Storm",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 236013
+        },
+        {
+          "title": "Break the Silence",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 272106
+        },
+        {
+          "title": "Desperate Times",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 265573
+        },
+        {
+          "title": "Reject Yourself",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 285080
+        }
+      ]
+    },
+    {
+      "mbid": "cbfb2d2c-d47e-486b-8ec0-517df087ceba",
+      "releaseMbid": "2df9ee0b-8bad-4735-bd2c-8fdda5544917",
+      "title": "The End of Heartache",
+      "type": "EP",
+      "releaseDate": "2007-03-06",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/cbfb2d2c-d47e-486b-8ec0-517df087ceba/front-1200",
+      "tracks": [
+        {
+          "title": "Irreversal",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 229666
+        },
+        {
+          "title": "My Life for Yours",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 214866
+        },
+        {
+          "title": "The End of Heartache - Alternate Version",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 245453
+        },
+        {
+          "title": "Life to Lifeless",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 202746
+        },
+        {
+          "title": "Fixation on the Darkness - Live",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 220026
+        },
+        {
+          "title": "My Last Serenade - Live",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 240880
+        }
+      ]
+    },
+    {
+      "mbid": "db41b2ab-0b74-4026-a8ab-12fb2db21086",
+      "releaseMbid": "77c1cbb5-c7ea-44c8-8046-95bd1ceba67b",
+      "title": "Killswitch Engage",
+      "type": "ALBUM",
+      "releaseDate": "2009-01-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/db41b2ab-0b74-4026-a8ab-12fb2db21086/front-1200",
+      "tracks": [
+        {
+          "title": "Never Again",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 189200
+        },
+        {
+          "title": "Starting Over",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 231173
+        },
+        {
+          "title": "The Forgotten",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 197680
+        },
+        {
+          "title": "Reckoning",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 160960
+        },
+        {
+          "title": "The Return",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 268813
+        },
+        {
+          "title": "A Light in a Darkened World",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 170773
+        },
+        {
+          "title": "Take Me Away",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 165880
+        },
+        {
+          "title": "I Would Do Anything",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 202480
+        },
+        {
+          "title": "Save Me",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 226573
+        },
+        {
+          "title": "Lost",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 225013
+        },
+        {
+          "title": "This Is Goodbye",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 257986
+        }
+      ]
+    },
+    {
+      "mbid": "39e28a85-1c93-4b14-889f-64966d05b492",
+      "releaseMbid": "86bf6434-0e93-4f7c-a671-dd5cd818a53e",
+      "title": "Disarm the Descent",
+      "type": "ALBUM",
+      "releaseDate": "2013-03-27",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/39e28a85-1c93-4b14-889f-64966d05b492/front-1200",
+      "tracks": [
+        {
+          "title": "The Hell in Me",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 176973
+        },
+        {
+          "title": "Beyond the Flames",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 173826
+        },
+        {
+          "title": "The New Awakening",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 210333
+        },
+        {
+          "title": "In Due Time",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 197600
+        },
+        {
+          "title": "A Tribute to the Fallen",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 242626
+        },
+        {
+          "title": "Turning Point",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 191946
+        },
+        {
+          "title": "All We Have",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 200026
+        },
+        {
+          "title": "You Don’t Bleed for Me",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 200960
+        },
+        {
+          "title": "The Call",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 170680
+        },
+        {
+          "title": "No End in Sight",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 209266
+        },
+        {
+          "title": "Always",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 273053
+        },
+        {
+          "title": "Time Will Not Remain",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 193053
+        },
+        {
+          "title": "The End of Heartache (live 2012)",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 292000
+        },
+        {
+          "title": "Vide Infra (live 2012)",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 229000
+        }
+      ]
+    },
+    {
+      "mbid": "1dd0ecff-1c2f-4ede-97bc-3a90cae140c3",
+      "releaseMbid": "92669dec-b71c-42a6-8994-28953db59e7b",
+      "title": "Incarnate",
+      "type": "ALBUM",
+      "releaseDate": "2016-03-11",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/1dd0ecff-1c2f-4ede-97bc-3a90cae140c3/front-1200",
+      "tracks": [
+        {
+          "title": "Alone I Stand",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 270000
+        },
+        {
+          "title": "Hate by Design",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 227000
+        },
+        {
+          "title": "Cut Me Loose",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 182000
+        },
+        {
+          "title": "Strength of the Mind",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 226000
+        },
+        {
+          "title": "Just Let Go",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 184000
+        },
+        {
+          "title": "Embrace the Journey…upraised",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 326000
+        },
+        {
+          "title": "Quiet Distress",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 227000
+        },
+        {
+          "title": "Until the Day",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 176000
+        },
+        {
+          "title": "It Falls on Me",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 226000
+        },
+        {
+          "title": "The Great Deceit",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 188000
+        },
+        {
+          "title": "We Carry On",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 204000
+        },
+        {
+          "title": "Ascension",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 194000
+        }
+      ]
+    },
+    {
+      "mbid": "cc0964a8-05c0-4d02-a178-1c7efbad1607",
+      "releaseMbid": "050d99ed-2541-45d8-8377-b77e0e2a1679",
+      "title": "Atonement",
+      "type": "ALBUM",
+      "releaseDate": "2019-08-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/cc0964a8-05c0-4d02-a178-1c7efbad1607/front-1200",
+      "tracks": [
+        {
+          "title": "Unleashed",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 275080
+        },
+        {
+          "title": "The Signal Fire",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 185200
+        },
+        {
+          "title": "Us Against the World",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 199253
+        },
+        {
+          "title": "The Crownless King",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 190280
+        },
+        {
+          "title": "I Am Broken Too",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 159240
+        },
+        {
+          "title": "As Sure as the Sun Will Rise",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 169080
+        },
+        {
+          "title": "Know Your Enemy",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 231160
+        },
+        {
+          "title": "Take Control",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 224307
+        },
+        {
+          "title": "Ravenous",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 172307
+        },
+        {
+          "title": "I Can’t Be the Only One",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 249093
+        },
+        {
+          "title": "Bite the Hand That Feeds",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 288600
+        }
+      ]
+    },
+    {
+      "mbid": "2907829c-87d2-49db-b420-014fdbc92afd",
+      "releaseMbid": "0b236390-5445-4d82-8e1c-6170a8a568e3",
+      "title": "Atonement II B-Sides for Charity",
+      "type": "EP",
+      "releaseDate": "2020-05-08",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/2907829c-87d2-49db-b420-014fdbc92afd/front-1200",
+      "tracks": [
+        {
+          "title": "To the Great Beyond",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 238480
+        },
+        {
+          "title": "Hollow Convictions",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 289187
+        },
+        {
+          "title": "Killing of Leviathan",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 175347
+        },
+        {
+          "title": "No Devotion",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 262320
+        },
+        {
+          "title": "I Feel Alive Again",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 219080
+        },
+        {
+          "title": "Prophets of Treason",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 293867
+        }
+      ]
+    },
+    {
+      "mbid": "6ff0ce32-df86-4422-ac82-f37de5ef69ba",
+      "releaseMbid": "dfb611c3-49a1-4316-9b0b-75ceec0b16fd",
+      "title": "This Consequence",
+      "type": "ALBUM",
+      "releaseDate": "2025-02-19",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/6ff0ce32-df86-4422-ac82-f37de5ef69ba/front-1200",
+      "tracks": [
+        {
+          "title": "Abandon Us",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 218426
+        },
+        {
+          "title": "Discordant Nation",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 160866
+        },
+        {
+          "title": "Aftermath",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 218520
+        },
+        {
+          "title": "Forever Aligned",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 245973
+        },
+        {
+          "title": "I Believe",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 234933
+        },
+        {
+          "title": "Where It Dies",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 207306
+        },
+        {
+          "title": "Collusion",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 202306
+        },
+        {
+          "title": "The Fall of Us",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 258946
+        },
+        {
+          "title": "Broken Glass",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 150346
+        },
+        {
+          "title": "Requiem",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 209493
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

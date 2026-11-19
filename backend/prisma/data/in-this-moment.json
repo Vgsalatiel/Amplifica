@@ -1,0 +1,1244 @@
+{
+  "generatedAt": "2026-11-18T20:26:16.042Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "29266b3d-b5ae-4d09-b721-326246adf68f",
+    "name": "In This Moment",
+    "slug": "in-this-moment",
+    "type": "BAND",
+    "country": "US",
+    "city": "Los Angeles",
+    "formedYear": 2005,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/29266b3d-b5ae-4d09-b721-326246adf68f"
+      }
+    ],
+    "genres": [
+      "metalcore",
+      "metal"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "a717c862-5670-3ce8-abed-864b6062ba03",
+      "releaseMbid": "cd7b3544-3bbe-4081-af20-a1c1574d38a2",
+      "title": "Beautiful Tragedy",
+      "type": "ALBUM",
+      "releaseDate": "2007-03-20",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a717c862-5670-3ce8-abed-864b6062ba03/front-1200",
+      "tracks": [
+        {
+          "title": "Whispers of October",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 66080
+        },
+        {
+          "title": "Prayers",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 226600
+        },
+        {
+          "title": "Beautiful Tragedy",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 240960
+        },
+        {
+          "title": "Ashes",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 231453
+        },
+        {
+          "title": "Daddy's Falling Angel",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 252613
+        },
+        {
+          "title": "The Legacy of Odio",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 247346
+        },
+        {
+          "title": "This Moment",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 238333
+        },
+        {
+          "title": "Next Life",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 238413
+        },
+        {
+          "title": "He Said Eternity",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 231200
+        },
+        {
+          "title": "Circles",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 251466
+        },
+        {
+          "title": "When the Storm Subsides",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 283933
+        }
+      ]
+    },
+    {
+      "mbid": "da628f67-38ca-3332-a913-2161f1d551a4",
+      "releaseMbid": "b04a8289-5c55-4985-bc53-df303cef7646",
+      "title": "The Dream",
+      "type": "ALBUM",
+      "releaseDate": "2008-09-30",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/da628f67-38ca-3332-a913-2161f1d551a4/front-1200",
+      "tracks": [
+        {
+          "title": "The Rabbit Hole",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 60493
+        },
+        {
+          "title": "Forever",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 261733
+        },
+        {
+          "title": "All for You",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 295293
+        },
+        {
+          "title": "Lost at Sea",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 226400
+        },
+        {
+          "title": "Mechanical Love",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 217653
+        },
+        {
+          "title": "Her Kiss",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 270093
+        },
+        {
+          "title": "Into the Light",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 252320
+        },
+        {
+          "title": "You Always Believed",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 220600
+        },
+        {
+          "title": "The Great Divide",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 251453
+        },
+        {
+          "title": "Violet Skies",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 236546
+        },
+        {
+          "title": "The Dream",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 282880
+        }
+      ]
+    },
+    {
+      "mbid": "1eb8945a-2692-45be-8560-b8e864be84cb",
+      "releaseMbid": "b390bc66-2ed9-47c3-a700-8a34fa8a5187",
+      "title": "A Star-Crossed Wasteland",
+      "type": "ALBUM",
+      "releaseDate": "2010-07-10",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/1eb8945a-2692-45be-8560-b8e864be84cb/front-1200",
+      "tracks": [
+        {
+          "title": "The Gun Show",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 286000
+        },
+        {
+          "title": "Just Drive",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 207466
+        },
+        {
+          "title": "The Promise",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 268000
+        },
+        {
+          "title": "Standing Alone",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 231000
+        },
+        {
+          "title": "A Star-Crossed Wasteland",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 271266
+        },
+        {
+          "title": "Blazin’",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 260733
+        },
+        {
+          "title": "The Road",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 244133
+        },
+        {
+          "title": "Iron Army",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 207466
+        },
+        {
+          "title": "The Last Cowboy",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 234000
+        },
+        {
+          "title": "World in Flames",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 320000
+        }
+      ]
+    },
+    {
+      "mbid": "860e9064-4777-4abd-bc08-f0952725bed2",
+      "releaseMbid": "d753fe09-32c7-4cf3-ba84-e53e55d62408",
+      "title": "Blood",
+      "type": "ALBUM",
+      "releaseDate": "2012-08-12",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/860e9064-4777-4abd-bc08-f0952725bed2/front-1200",
+      "tracks": [
+        {
+          "title": "Rise With Me",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 127000
+        },
+        {
+          "title": "Blood",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 207000
+        },
+        {
+          "title": "Adrenalize",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 255000
+        },
+        {
+          "title": "Whore",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 245000
+        },
+        {
+          "title": "You’re Gonna’ Listen",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 223000
+        },
+        {
+          "title": "It Is Written",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 30000
+        },
+        {
+          "title": "Burn",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 284000
+        },
+        {
+          "title": "Scarlet",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 230000
+        },
+        {
+          "title": "Aries",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 41000
+        },
+        {
+          "title": "From the Ashes",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 266000
+        },
+        {
+          "title": "Beast Within",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 229000
+        },
+        {
+          "title": "Comanche",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 197000
+        },
+        {
+          "title": "The Blood Legion",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 269000
+        },
+        {
+          "title": "11:11",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 291000
+        }
+      ]
+    },
+    {
+      "mbid": "b354dd8a-642b-484b-9a7e-d55c323ab4ba",
+      "releaseMbid": "37498f43-ad94-4d1b-aaaf-b5e542f5d0cf",
+      "title": "Whore",
+      "type": "EP",
+      "releaseDate": "2013-12-17",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b354dd8a-642b-484b-9a7e-d55c323ab4ba/front-1200",
+      "tracks": [
+        {
+          "title": "Whore",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 245000
+        },
+        {
+          "title": "Whore (Nikka Bling remix)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 256000
+        },
+        {
+          "title": "Blood (Sluggo remix)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 233000
+        },
+        {
+          "title": "Adrenalize (Mr. Kane remix)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 234000
+        },
+        {
+          "title": "The Blood Legion (Mitch Marlow remix)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 288000
+        }
+      ]
+    },
+    {
+      "mbid": "399f82da-04d4-4b72-965d-089192778d19",
+      "releaseMbid": "bfcda235-5ca5-434c-8f8d-1079bc3400ca",
+      "title": "Original Album Collection",
+      "type": "COMPILATION",
+      "releaseDate": "2014",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/399f82da-04d4-4b72-965d-089192778d19/front-1200",
+      "tracks": [
+        {
+          "title": "Whispers of October",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 66000
+        },
+        {
+          "title": "Prayers",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 226000
+        },
+        {
+          "title": "Beautiful Tragedy",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 240000
+        },
+        {
+          "title": "Ashes",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 231000
+        },
+        {
+          "title": "Daddy's Falling Angel",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 252000
+        },
+        {
+          "title": "The Legacy of Odio",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 247000
+        },
+        {
+          "title": "This Moment",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 238000
+        },
+        {
+          "title": "Next Life",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 238000
+        },
+        {
+          "title": "He Said Eternity",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 231000
+        },
+        {
+          "title": "Circles",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 251000
+        },
+        {
+          "title": "When the Storm Subsides",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 261000
+        },
+        {
+          "title": "Into the Dream (The Rabbit Hole)",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": 60000
+        },
+        {
+          "title": "Endless Days and Nights (Forever)",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": 261000
+        },
+        {
+          "title": "Forever Infinity (All for You)",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": 295000
+        },
+        {
+          "title": "The Storm (Lost at Sea)",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": 226000
+        },
+        {
+          "title": "Standing in the Rain (Mechanical Love)",
+          "discNumber": 2,
+          "position": 5,
+          "durationMs": 217000
+        },
+        {
+          "title": "The Underworld (Her Kiss)",
+          "discNumber": 2,
+          "position": 6,
+          "durationMs": 270000
+        },
+        {
+          "title": "The Promise (Into the Light)",
+          "discNumber": 2,
+          "position": 7,
+          "durationMs": 252000
+        },
+        {
+          "title": "Unconditional (You Always Believed)",
+          "discNumber": 2,
+          "position": 8,
+          "durationMs": 220000
+        },
+        {
+          "title": "Empires Fall and Rise Again (The Great Divide)",
+          "discNumber": 2,
+          "position": 9,
+          "durationMs": 251000
+        },
+        {
+          "title": "Imagine (Violet Skies)",
+          "discNumber": 2,
+          "position": 10,
+          "durationMs": 236000
+        },
+        {
+          "title": "The Rabbit Hole (The Dream)",
+          "discNumber": 2,
+          "position": 11,
+          "durationMs": 282000
+        },
+        {
+          "title": "The Gun Show",
+          "discNumber": 3,
+          "position": 1,
+          "durationMs": 286000
+        },
+        {
+          "title": "Just Drive",
+          "discNumber": 3,
+          "position": 2,
+          "durationMs": 207000
+        },
+        {
+          "title": "The Promise",
+          "discNumber": 3,
+          "position": 3,
+          "durationMs": 268000
+        },
+        {
+          "title": "Standing Alone",
+          "discNumber": 3,
+          "position": 4,
+          "durationMs": 231000
+        },
+        {
+          "title": "A Star-Crossed Wasteland",
+          "discNumber": 3,
+          "position": 5,
+          "durationMs": 271000
+        },
+        {
+          "title": "Blazin",
+          "discNumber": 3,
+          "position": 6,
+          "durationMs": 260000
+        },
+        {
+          "title": "The Road",
+          "discNumber": 3,
+          "position": 7,
+          "durationMs": 244000
+        },
+        {
+          "title": "Iron Army",
+          "discNumber": 3,
+          "position": 8,
+          "durationMs": 207000
+        },
+        {
+          "title": "The Last Cowboy",
+          "discNumber": 3,
+          "position": 9,
+          "durationMs": 234000
+        },
+        {
+          "title": "World in Flames",
+          "discNumber": 3,
+          "position": 10,
+          "durationMs": 320000
+        }
+      ]
+    },
+    {
+      "mbid": "4781334b-0070-4649-922f-f26f53932574",
+      "releaseMbid": "85c7e6a7-6bd2-4181-b91f-f2fd1df8300b",
+      "title": "Blood at the Orpheum",
+      "type": "LIVE",
+      "releaseDate": "2014-01-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4781334b-0070-4649-922f-f26f53932574/front-1200",
+      "tracks": [
+        {
+          "title": "It Is Written / Rise With Me",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 154000
+        },
+        {
+          "title": "Adrenalize",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 268000
+        },
+        {
+          "title": "Blazin’",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 264000
+        },
+        {
+          "title": "Beast Within",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 239000
+        },
+        {
+          "title": "Beautiful Tragedy",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 356000
+        },
+        {
+          "title": "Into the Light",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 342000
+        },
+        {
+          "title": "The Blood Legion",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 256000
+        },
+        {
+          "title": "Gunshow",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 289000
+        },
+        {
+          "title": "Whore",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 254000
+        },
+        {
+          "title": "Burn",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 514000
+        },
+        {
+          "title": "Blood",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 414000
+        }
+      ]
+    },
+    {
+      "mbid": "ec5e0f86-f38d-465b-ad7c-70d38aadac6a",
+      "releaseMbid": "905bce6d-e1e1-4090-98fc-b27ca1bcf6f4",
+      "title": "Black Widow",
+      "type": "ALBUM",
+      "releaseDate": "2014-11-14",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ec5e0f86-f38d-465b-ad7c-70d38aadac6a/front-1200",
+      "tracks": [
+        {
+          "title": "The Infection",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 110000
+        },
+        {
+          "title": "Sex Metal Barbie",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 262000
+        },
+        {
+          "title": "Big Bad Wolf",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 312000
+        },
+        {
+          "title": "Dirty Pretty",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 247000
+        },
+        {
+          "title": "Black Widow",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 298000
+        },
+        {
+          "title": "Sexual Hallucination",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 378000
+        },
+        {
+          "title": "Sick Like Me",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 301000
+        },
+        {
+          "title": "Bloody Creature Poster Girl",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 260000
+        },
+        {
+          "title": "The Fighter",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 293000
+        },
+        {
+          "title": "Bones",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 270000
+        },
+        {
+          "title": "Natural Born Sinner",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 309000
+        },
+        {
+          "title": "Into the Darkness",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 172000
+        },
+        {
+          "title": "Out of Hell",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 395000
+        }
+      ]
+    },
+    {
+      "mbid": "58b70eae-6628-47a0-b3fc-5def61043965",
+      "releaseMbid": "958f0de3-9a44-4b0e-a830-def3e3f6cfa0",
+      "title": "Rise of the Blood Legion - Greatest Hits (Chapter 1)",
+      "type": "COMPILATION",
+      "releaseDate": "2015-05-04",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/58b70eae-6628-47a0-b3fc-5def61043965/front-1200",
+      "tracks": [
+        {
+          "title": "Whispers of October",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 66000
+        },
+        {
+          "title": "Beautiful Tragedy",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 241000
+        },
+        {
+          "title": "Prayers",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 227000
+        },
+        {
+          "title": "Daddy's Falling Angel",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 252000
+        },
+        {
+          "title": "The Rabbit Hole",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 66000
+        },
+        {
+          "title": "Forever",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 264000
+        },
+        {
+          "title": "Into the Light (live version)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 343000
+        },
+        {
+          "title": "The Gun Show",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 288000
+        },
+        {
+          "title": "The Promise",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 269000
+        },
+        {
+          "title": "World in Flames",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 321000
+        },
+        {
+          "title": "Rise With Me",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 127000
+        },
+        {
+          "title": "Blood",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 208000
+        },
+        {
+          "title": "Scarlet",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 230000
+        },
+        {
+          "title": "Adrenalize",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 256000
+        },
+        {
+          "title": "It Is Written",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 30000
+        },
+        {
+          "title": "Burn",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 285000
+        },
+        {
+          "title": "Whore",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 246000
+        },
+        {
+          "title": "The Blood Legion",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 269000
+        }
+      ]
+    },
+    {
+      "mbid": "c741c432-7d1c-443e-a8cf-a6dc7f6001d3",
+      "releaseMbid": "1f82f39d-f985-460e-80a8-a711b78c5b1b",
+      "title": "Ritual",
+      "type": "ALBUM",
+      "releaseDate": "2017-07-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c741c432-7d1c-443e-a8cf-a6dc7f6001d3/front-1200",
+      "tracks": [
+        {
+          "title": "Salvation",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 141480
+        },
+        {
+          "title": "Oh Lord",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 247960
+        },
+        {
+          "title": "Black Wedding",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 247373
+        },
+        {
+          "title": "In the Air Tonight",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 297346
+        },
+        {
+          "title": "Joan of Arc",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 217626
+        },
+        {
+          "title": "River of Fire",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 239013
+        },
+        {
+          "title": "Witching Hour",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 249640
+        },
+        {
+          "title": "Twin Flames",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 300613
+        },
+        {
+          "title": "Half God Half Devil",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 251773
+        },
+        {
+          "title": "No Me Importa",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 257533
+        },
+        {
+          "title": "Roots",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 249133
+        },
+        {
+          "title": "Lay Your Gun Down",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 243600
+        }
+      ]
+    },
+    {
+      "mbid": "c34fa247-c1b6-4a91-bf29-905ee03ed38c",
+      "releaseMbid": "1776e6b7-7ee1-4e55-ad44-0b2f86939bd5",
+      "title": "Mother",
+      "type": "ALBUM",
+      "releaseDate": "2020-03-27",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c34fa247-c1b6-4a91-bf29-905ee03ed38c/front-1200",
+      "tracks": [
+        {
+          "title": "The Beginning (interlude)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 87306
+        },
+        {
+          "title": "Fly Like an Eagle",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 241000
+        },
+        {
+          "title": "The Red Crusade (interlude)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 44613
+        },
+        {
+          "title": "The In‐Between",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 254813
+        },
+        {
+          "title": "Legacy",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 289026
+        },
+        {
+          "title": "We Will Rock You",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 185200
+        },
+        {
+          "title": "Mother",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 249493
+        },
+        {
+          "title": "As Above, So Below",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 249053
+        },
+        {
+          "title": "Born in Flames",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 244746
+        },
+        {
+          "title": "God Is She",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 279093
+        },
+        {
+          "title": "Holy Man",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 215773
+        },
+        {
+          "title": "Hunting Grounds",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 273546
+        },
+        {
+          "title": "Lay Me Down",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 249573
+        },
+        {
+          "title": "Into Dust",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 401386
+        }
+      ]
+    },
+    {
+      "mbid": "9389369c-0e85-4927-bba8-6c37a5378d24",
+      "releaseMbid": "35a0f0d1-e588-4e10-9d93-9d7cea2261fa",
+      "title": "Blood 1983",
+      "type": "EP",
+      "releaseDate": "2022-10-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/9389369c-0e85-4927-bba8-6c37a5378d24/front-1200",
+      "tracks": [
+        {
+          "title": "1983",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 85000
+        },
+        {
+          "title": "Adrenalize 1983",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 304000
+        },
+        {
+          "title": "Burn 1983",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 226000
+        },
+        {
+          "title": "Blood 1983",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 215000
+        },
+        {
+          "title": "Whore 1983",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 307000
+        }
+      ]
+    },
+    {
+      "mbid": "4632d64a-40f9-4828-9d89-db60d32132e7",
+      "releaseMbid": "5e463145-b5f2-4987-89a7-2e620bea7826",
+      "title": "GODMODE",
+      "type": "ALBUM",
+      "releaseDate": "2023-10-27",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4632d64a-40f9-4828-9d89-db60d32132e7/front-1200",
+      "tracks": [
+        {
+          "title": "GODMODE",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 240000
+        },
+        {
+          "title": "THE PURGE",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 239000
+        },
+        {
+          "title": "ARMY OF ME",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 190000
+        },
+        {
+          "title": "SACRIFICE",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 262000
+        },
+        {
+          "title": "SKYBURNER",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 233000
+        },
+        {
+          "title": "SANCTIFY ME",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 251000
+        },
+        {
+          "title": "EVERYTHING STARTS AND ENDS WITH YOU",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 213000
+        },
+        {
+          "title": "DAMAGED",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 204000
+        },
+        {
+          "title": "FATE BRINGER",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 233000
+        },
+        {
+          "title": "I WOULD DIE FOR YOU",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 276000
+        }
+      ]
+    },
+    {
+      "mbid": "04963c39-d96e-4a79-8727-3050c19559dc",
+      "releaseMbid": "31839288-17a3-48bc-a83a-4f3102602bfe",
+      "title": "Witch",
+      "type": "ALBUM",
+      "releaseDate": "2026-08-28",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/04963c39-d96e-4a79-8727-3050c19559dc/front-1200",
+      "tracks": [
+        {
+          "title": "Shame",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 261000
+        },
+        {
+          "title": "I Want to Believe",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 281359
+        },
+        {
+          "title": "Crawl",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 231351
+        },
+        {
+          "title": "Into the Dark",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 271720
+        },
+        {
+          "title": "Sleeping With the Enemy",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 245000
+        },
+        {
+          "title": "Wrapped Around Your Finger",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 290978
+        },
+        {
+          "title": "Heretic",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 183151
+        },
+        {
+          "title": "Father",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 288542
+        },
+        {
+          "title": "Without Me There’s No You",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 284521
+        },
+        {
+          "title": "Another Brick in the Wall",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 235465
+        },
+        {
+          "title": "Something I Can Never Have",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 418529
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

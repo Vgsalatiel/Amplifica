@@ -1,0 +1,940 @@
+{
+  "generatedAt": "2026-11-18T20:37:41.223Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "132ca1ea-0891-420f-b129-50247bb144b5",
+    "name": "Born of Osiris",
+    "slug": "born-of-osiris",
+    "type": "BAND",
+    "country": "US",
+    "city": "Palatine",
+    "formedYear": 2003,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/132ca1ea-0891-420f-b129-50247bb144b5"
+      }
+    ],
+    "genres": [
+      "deathcore",
+      "metalcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "3ce72e2b-6d6d-4082-b0df-aff85d4cb443",
+      "releaseMbid": "a9c25121-c7c2-41fe-ba52-929b2a5d0df5",
+      "title": "Your Heart Engraved These Messages",
+      "type": "EP",
+      "releaseDate": "2003",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/3ce72e2b-6d6d-4082-b0df-aff85d4cb443/front-1200",
+      "tracks": [
+        {
+          "title": "Requiem",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 229000
+        },
+        {
+          "title": "Trapped in the Human Mind",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 241000
+        },
+        {
+          "title": "Love Is Best Described",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 259000
+        },
+        {
+          "title": "Through Your Eyes",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 330000
+        },
+        {
+          "title": "The Depths of Those Lost",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 294000
+        }
+      ]
+    },
+    {
+      "mbid": "8f2fbacf-0bbe-4f22-8272-274f5eccc51a",
+      "releaseMbid": "1a8c83c4-5176-41f1-a051-e2baf1fb0b48",
+      "title": "Youm Wara Youm",
+      "type": "EP",
+      "releaseDate": "2004",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/8f2fbacf-0bbe-4f22-8272-274f5eccc51a/front-1200",
+      "tracks": [
+        {
+          "title": "Keep Your Light On",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 194000
+        },
+        {
+          "title": "Rosecrance",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 135000
+        },
+        {
+          "title": "First Day of School",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 87000
+        },
+        {
+          "title": "Light & Dark",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 250000
+        },
+        {
+          "title": "Gospel Chank",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 45000
+        },
+        {
+          "title": "Abstract Art is for Downsyndrome Girls",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 251000
+        },
+        {
+          "title": "Brace Legs",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 232000
+        },
+        {
+          "title": "Last Supper",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 112000
+        },
+        {
+          "title": "Morgan",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 91000
+        },
+        {
+          "title": "Very Nervous",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 59000
+        },
+        {
+          "title": "Glorious Day",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 298000
+        },
+        {
+          "title": "Quit Smoking",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 41000
+        }
+      ]
+    },
+    {
+      "mbid": "e0998d42-b7c8-3a5e-9230-fd90c43ad09d",
+      "releaseMbid": "0315bc80-1231-452f-b999-81aa3b5320ac",
+      "title": "Rosecrance",
+      "type": "EP",
+      "releaseDate": "2006",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/e0998d42-b7c8-3a5e-9230-fd90c43ad09d/front-1200",
+      "tracks": [
+        {
+          "title": "Paddy Whack",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 73000
+        },
+        {
+          "title": "Rosecrance",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 129000
+        },
+        {
+          "title": "Sight and Sounds",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 195000
+        },
+        {
+          "title": "Bow Down Intro",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 31000
+        },
+        {
+          "title": "Bow Down",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 148000
+        },
+        {
+          "title": "Give Up",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 140000
+        },
+        {
+          "title": "Give Up Outro",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 84000
+        }
+      ]
+    },
+    {
+      "mbid": "52baad6a-3bda-3bf3-8005-e484a9020d3a",
+      "releaseMbid": "f7a08fc0-92e3-496e-8560-7b6f61fbe228",
+      "title": "The New Reign",
+      "type": "ALBUM",
+      "releaseDate": "2007-10-02",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/52baad6a-3bda-3bf3-8005-e484a9020d3a/front-1200",
+      "tracks": [
+        {
+          "title": "Rosecrance",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 133000
+        },
+        {
+          "title": "Empires Erased",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 207000
+        },
+        {
+          "title": "Open Arms to Damnation",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 170000
+        },
+        {
+          "title": "Abstract Art",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 196000
+        },
+        {
+          "title": "The New Reign",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 143000
+        },
+        {
+          "title": "Brace Legs",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 150000
+        },
+        {
+          "title": "Bow Down",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 123000
+        },
+        {
+          "title": "The Takeover",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 183000
+        }
+      ]
+    },
+    {
+      "mbid": "7310af3b-0153-417d-b0f8-c224c36e0632",
+      "releaseMbid": "30cab2bc-506e-4135-9eaa-b299e9ce24e3",
+      "title": "A Higher Place",
+      "type": "ALBUM",
+      "releaseDate": "2009-07-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/7310af3b-0153-417d-b0f8-c224c36e0632/front-1200",
+      "tracks": [
+        {
+          "title": "Rebirth",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 86000
+        },
+        {
+          "title": "Elimination",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 125000
+        },
+        {
+          "title": "The Accountable",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 132000
+        },
+        {
+          "title": "Now Arise",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 232000
+        },
+        {
+          "title": "Live Like I'm Real",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 162000
+        },
+        {
+          "title": "Starved",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 166000
+        },
+        {
+          "title": "Exist",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 136000
+        },
+        {
+          "title": "Put to Rest",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 191000
+        },
+        {
+          "title": "A Descent",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 138000
+        },
+        {
+          "title": "A Higher Place",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 171000
+        },
+        {
+          "title": "An Ascent",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 201000
+        },
+        {
+          "title": "Thrive",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 161000
+        },
+        {
+          "title": "Faces of Death",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 148000
+        }
+      ]
+    },
+    {
+      "mbid": "4f621b13-cbeb-4231-8b04-0c134d95895f",
+      "releaseMbid": "502889f6-c6f2-4307-9f8d-f1d968fbd0f7",
+      "title": "The Discovery",
+      "type": "ALBUM",
+      "releaseDate": "2011-03-22",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4f621b13-cbeb-4231-8b04-0c134d95895f/front-1200",
+      "tracks": [
+        {
+          "title": "Follow the Signs",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 230000
+        },
+        {
+          "title": "Singularity",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 213000
+        },
+        {
+          "title": "Ascension",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 147000
+        },
+        {
+          "title": "Devastate",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 275000
+        },
+        {
+          "title": "Recreate",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 240000
+        },
+        {
+          "title": "Two Worlds of Design",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 193000
+        },
+        {
+          "title": "A Solution",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 127000
+        },
+        {
+          "title": "Shaping the Masterpiece",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 279000
+        },
+        {
+          "title": "Dissimulation",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 167000
+        },
+        {
+          "title": "Automatic Motion",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 162000
+        },
+        {
+          "title": "The Omniscient",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 129000
+        },
+        {
+          "title": "Last Straw",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 240000
+        },
+        {
+          "title": "Regenerate",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 306000
+        },
+        {
+          "title": "XIV",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 112000
+        },
+        {
+          "title": "Behold",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 350000
+        },
+        {
+          "title": "Follow The Signs (Misha Mansoor Demo Mix)",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 248000
+        },
+        {
+          "title": "Singularity (Misha Mansoor Demo Mix)",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 216000
+        },
+        {
+          "title": "Recreate (Misha Mansoor Demo Mix)",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 246000
+        }
+      ]
+    },
+    {
+      "mbid": "0421e70e-4011-420f-a531-1392950c5199",
+      "releaseMbid": "3c89d311-c1fb-430b-8811-dd72090c6638",
+      "title": "Tomorrow We Die ∆live",
+      "type": "ALBUM",
+      "releaseDate": "2013-08-20",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0421e70e-4011-420f-a531-1392950c5199/front-1200",
+      "tracks": [
+        {
+          "title": "M∆chine",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 264000
+        },
+        {
+          "title": "Divergency",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 238000
+        },
+        {
+          "title": "Mindful",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 212000
+        },
+        {
+          "title": "Exhil∆r∆te",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 212000
+        },
+        {
+          "title": "∆bsolution",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 246000
+        },
+        {
+          "title": "The Origin",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 225000
+        },
+        {
+          "title": "∆eon III",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 235000
+        },
+        {
+          "title": "Im∆gin∆ry Condition",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 192000
+        },
+        {
+          "title": "Illusionist",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 239000
+        },
+        {
+          "title": "Source Field",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 227000
+        },
+        {
+          "title": "Venge∆nce",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 250000
+        }
+      ]
+    },
+    {
+      "mbid": "8b2cdd5f-a23c-46d9-9c7b-11b5d0f719e7",
+      "releaseMbid": "2fde3a48-a944-416c-9ed3-24c9accc9e42",
+      "title": "Soul Sphere",
+      "type": "ALBUM",
+      "releaseDate": "2015-10-23",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/8b2cdd5f-a23c-46d9-9c7b-11b5d0f719e7/front-1200",
+      "tracks": [
+        {
+          "title": "The Other Half of Me",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 212000
+        },
+        {
+          "title": "Throw Me in the Jungle",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 216000
+        },
+        {
+          "title": "Free Fall",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 249000
+        },
+        {
+          "title": "Illuminate",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 285000
+        },
+        {
+          "title": "The Sleeping and the Dead",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 222000
+        },
+        {
+          "title": "Tidebinder",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 261000
+        },
+        {
+          "title": "Resilience",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 230000
+        },
+        {
+          "title": "Goddess of the Dawn",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 203000
+        },
+        {
+          "title": "The Louder the Sound, the More We All Believe",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 207000
+        },
+        {
+          "title": "Warlords",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 249000
+        },
+        {
+          "title": "River of Time",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 202000
+        },
+        {
+          "title": "The Composer",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 268000
+        }
+      ]
+    },
+    {
+      "mbid": "8253b0ca-aedf-45ca-9624-a29c06a0db92",
+      "releaseMbid": "0c319188-e431-4fbc-909f-6bdb5c837273",
+      "title": "The Eternal Reign",
+      "type": "ALBUM",
+      "releaseDate": "2017-02-24",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/8253b0ca-aedf-45ca-9624-a29c06a0db92/front-1200",
+      "tracks": [
+        {
+          "title": "Rosecrance",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 131302
+        },
+        {
+          "title": "Empires Erased",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 205530
+        },
+        {
+          "title": "Open Arms to Damnation",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 158505
+        },
+        {
+          "title": "Abstract Art",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 195230
+        },
+        {
+          "title": "The New Reign",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 140901
+        },
+        {
+          "title": "Brace Legs",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 148450
+        },
+        {
+          "title": "Bow Down",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 121168
+        },
+        {
+          "title": "The Takeover",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 183240
+        },
+        {
+          "title": "Glorious Day",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 149894
+        }
+      ]
+    },
+    {
+      "mbid": "548f6700-c3d8-4907-9fe7-fe5c88bcc0cd",
+      "releaseMbid": "ae913f8f-54d6-493a-84a0-c7f91e09e495",
+      "title": "The Simulation",
+      "type": "ALBUM",
+      "releaseDate": "2019-01-11",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/548f6700-c3d8-4907-9fe7-fe5c88bcc0cd/front-1200",
+      "tracks": [
+        {
+          "title": "The Accursed",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 206000
+        },
+        {
+          "title": "Disconnectome",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 198000
+        },
+        {
+          "title": "Cycles of Tragedy",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 190000
+        },
+        {
+          "title": "Under the Gun",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 215000
+        },
+        {
+          "title": "Recursion",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 53000
+        },
+        {
+          "title": "Analogs in a Cell",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 176000
+        },
+        {
+          "title": "Silence the Echo",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 270000
+        },
+        {
+          "title": "One Without the Other",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 232000
+        }
+      ]
+    },
+    {
+      "mbid": "dd887644-fbfb-461c-9dbf-6c8bb6aad43f",
+      "releaseMbid": "38eb9f46-5d5c-4c65-97fd-994e82d8e921",
+      "title": "Angel or Alien",
+      "type": "ALBUM",
+      "releaseDate": "2021-07-02",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/dd887644-fbfb-461c-9dbf-6c8bb6aad43f/front-1200",
+      "tracks": [
+        {
+          "title": "Poster Child",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 276000
+        },
+        {
+          "title": "White Nile",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 229000
+        },
+        {
+          "title": "Angel or Alien",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 267000
+        },
+        {
+          "title": "Waves",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 188000
+        },
+        {
+          "title": "Oathbreaker",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 225000
+        },
+        {
+          "title": "Threat of Your Presence",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 216000
+        },
+        {
+          "title": "Love Story",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 263000
+        },
+        {
+          "title": "Crossface",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 267000
+        },
+        {
+          "title": "Echobreather",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 216000
+        },
+        {
+          "title": "Lost Souls",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 210000
+        },
+        {
+          "title": "In for the Kill",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 231000
+        },
+        {
+          "title": "You Are the Narrative",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 204000
+        },
+        {
+          "title": "Truth and Denial",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 222000
+        },
+        {
+          "title": "Shadowmourne",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 284000
+        }
+      ]
+    },
+    {
+      "mbid": "8a9c810e-57c3-4185-b911-516b7532c6a8",
+      "releaseMbid": "1ed9cd04-a5b7-41a6-a535-b597250fc6f9",
+      "title": "Through Shadows",
+      "type": "ALBUM",
+      "releaseDate": "2025-07-11",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/8a9c810e-57c3-4185-b911-516b7532c6a8/front-1200",
+      "tracks": [
+        {
+          "title": "Seppuku",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 199231
+        },
+        {
+          "title": "Elevate",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 193714
+        },
+        {
+          "title": "Through Shadows",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 309982
+        },
+        {
+          "title": "The War That You Are",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 219098
+        },
+        {
+          "title": "Inverno",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 216405
+        },
+        {
+          "title": "A Mind Short Circuiting",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 267956
+        },
+        {
+          "title": "Burning Light",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 132453
+        },
+        {
+          "title": "In Desolation",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 217273
+        },
+        {
+          "title": "Torchbearer",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 204808
+        },
+        {
+          "title": "Activated",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 215010
+        },
+        {
+          "title": "Dark Fable",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 209483
+        },
+        {
+          "title": "Transcendence",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 261824
+        },
+        {
+          "title": "Blackwater",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 268754
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

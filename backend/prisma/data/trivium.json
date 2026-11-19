@@ -1,0 +1,1162 @@
+{
+  "generatedAt": "2026-11-18T20:11:01.901Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "1f5ff245-2837-4d4a-a609-e93e544478c3",
+    "name": "Trivium",
+    "slug": "trivium",
+    "type": "BAND",
+    "country": "US",
+    "city": "Orlando",
+    "formedYear": 2000,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/1f5ff245-2837-4d4a-a609-e93e544478c3"
+      }
+    ],
+    "genres": [
+      "metalcore",
+      "metal"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "40ee4cb5-d310-4956-8911-43e227adb94e",
+      "releaseMbid": "5d3c42fc-f854-4eeb-866f-c0d97e09b20c",
+      "title": "Ruber",
+      "type": "ALBUM",
+      "releaseDate": "2001",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/40ee4cb5-d310-4956-8911-43e227adb94e/front-1200",
+      "tracks": [
+        {
+          "title": "Pain",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 439000
+        },
+        {
+          "title": "Thrust",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 339000
+        },
+        {
+          "title": "Lake of Fire",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 375000
+        }
+      ]
+    },
+    {
+      "mbid": "7d61d2f9-0332-4389-9810-cfdf3a1c578b",
+      "releaseMbid": "7221d677-3b3f-479f-a2e6-7232d19c4c2f",
+      "title": "Caeruleus",
+      "type": "ALBUM",
+      "releaseDate": "2003",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/7d61d2f9-0332-4389-9810-cfdf3a1c578b/front-1200",
+      "tracks": [
+        {
+          "title": "To Burn the Eye",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 420000
+        },
+        {
+          "title": "Requiem",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 302000
+        },
+        {
+          "title": "Fugue",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 270000
+        },
+        {
+          "title": "My Hatred",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 292000
+        },
+        {
+          "title": "The Storm",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 364000
+        },
+        {
+          "title": "Sworn",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 268000
+        },
+        {
+          "title": "Demon",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 210000
+        }
+      ]
+    },
+    {
+      "mbid": "0aca4cd0-df56-35d4-ad88-0bdc4cc9b65b",
+      "releaseMbid": "baa2a944-4b2a-4d88-b0d2-71812b92c714",
+      "title": "Trivium",
+      "type": "EP",
+      "releaseDate": "2003-02-11",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0aca4cd0-df56-35d4-ad88-0bdc4cc9b65b/front-1200",
+      "tracks": [
+        {
+          "title": "To Burn the Eye",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 419533
+        },
+        {
+          "title": "Requiem",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 301626
+        },
+        {
+          "title": "Fugue",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 269706
+        },
+        {
+          "title": "My Hatred",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 291666
+        },
+        {
+          "title": "The Storm",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 363533
+        },
+        {
+          "title": "Sworn",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 267693
+        },
+        {
+          "title": "Demon",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 209240
+        }
+      ]
+    },
+    {
+      "mbid": "0e5bd95a-e94a-32f0-a29e-0857f11a2d06",
+      "releaseMbid": "d8f070fd-ee88-4474-8119-4ba5e318ed41",
+      "title": "Ember to Inferno",
+      "type": "ALBUM",
+      "releaseDate": "2003-09-29",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0e5bd95a-e94a-32f0-a29e-0857f11a2d06/front-1200",
+      "tracks": [
+        {
+          "title": "Inception the Bleeding Skies",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 35200
+        },
+        {
+          "title": "Pillars of Serpents",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 275360
+        },
+        {
+          "title": "If I Could Collapse the Masses",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 281973
+        },
+        {
+          "title": "Fugue (A Revelation)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 261666
+        },
+        {
+          "title": "Requiem",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 293666
+        },
+        {
+          "title": "Ember to Inferno",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 251160
+        },
+        {
+          "title": "Ashes",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 53706
+        },
+        {
+          "title": "To Burn the Eye",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 421133
+        },
+        {
+          "title": "Falling to Grey",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 336960
+        },
+        {
+          "title": "My Hatred",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 274506
+        },
+        {
+          "title": "When All Light Dies",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 383493
+        },
+        {
+          "title": "A View of Burning Empires",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 108906
+        }
+      ]
+    },
+    {
+      "mbid": "c3eb1736-b7f2-4aa3-a329-afd9cd1bd1e5",
+      "releaseMbid": "0760a48d-4a6b-42bf-b700-7e19eacd34ad",
+      "title": "Flavus",
+      "type": "ALBUM",
+      "releaseDate": "2004",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c3eb1736-b7f2-4aa3-a329-afd9cd1bd1e5/front-1200",
+      "tracks": [
+        {
+          "title": "Like Light to the Flies",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 337000
+        },
+        {
+          "title": "Blinding Tears Will Break the Skies",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 342000
+        },
+        {
+          "title": "The Deceived",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 349000
+        }
+      ]
+    },
+    {
+      "mbid": "54b8b44e-4153-3fc2-af0a-70c9c72ab9d3",
+      "releaseMbid": "e4cb39f9-528a-3334-86b2-ba119b5dccfc",
+      "title": "Ascendancy",
+      "type": "ALBUM",
+      "releaseDate": "2005-03-13",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/54b8b44e-4153-3fc2-af0a-70c9c72ab9d3/front-1200",
+      "tracks": [
+        {
+          "title": "The End of Everything",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 80826
+        },
+        {
+          "title": "Rain",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 251826
+        },
+        {
+          "title": "Pull Harder on the Strings of Your Martyr",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 291213
+        },
+        {
+          "title": "Drowned and Torn Asunder",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 257399
+        },
+        {
+          "title": "Ascendancy",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 265480
+        },
+        {
+          "title": "A Gunshot to the Head of Trepidation",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 355360
+        },
+        {
+          "title": "Like Light to the Flies",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 340866
+        },
+        {
+          "title": "Dying in Your Arms",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 172960
+        },
+        {
+          "title": "The Deceived",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 311800
+        },
+        {
+          "title": "Suffocating Sight",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 227466
+        },
+        {
+          "title": "Departure",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 341200
+        },
+        {
+          "title": "Declaration",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 420440
+        }
+      ]
+    },
+    {
+      "mbid": "0808245a-6ec5-3036-9bb0-7e225a719034",
+      "releaseMbid": "82168560-26df-333b-91e0-d6550afe1f0c",
+      "title": "The Crusade",
+      "type": "ALBUM",
+      "releaseDate": "2006-10-04",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0808245a-6ec5-3036-9bb0-7e225a719034/front-1200",
+      "tracks": [
+        {
+          "title": "Ignition",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 234680
+        },
+        {
+          "title": "Detonation",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 268840
+        },
+        {
+          "title": "Entrance of the Conflagration",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 275240
+        },
+        {
+          "title": "Anthem (We Are the Fire)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 243400
+        },
+        {
+          "title": "Unrepentant",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 291840
+        },
+        {
+          "title": "And Sadness Will Sear",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 214546
+        },
+        {
+          "title": "Becoming the Dragon",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 283813
+        },
+        {
+          "title": "To the Rats",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 222573
+        },
+        {
+          "title": "This World Can't Tear Us Apart",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 210253
+        },
+        {
+          "title": "Tread the Floods",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 213853
+        },
+        {
+          "title": "Contempt Breeds Contamination",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 268626
+        },
+        {
+          "title": "The Rising",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 225186
+        },
+        {
+          "title": "The Crusade",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 499186
+        }
+      ]
+    },
+    {
+      "mbid": "7fbdcd1d-fec7-4f9c-93ce-8478c02b2a7b",
+      "releaseMbid": "fb1655e8-c795-4e2c-bc3b-3e6b9685608d",
+      "title": "The Black Crusade",
+      "type": "EP",
+      "releaseDate": "2007",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/7fbdcd1d-fec7-4f9c-93ce-8478c02b2a7b/front-1200",
+      "tracks": [
+        {
+          "title": "Now I Lay Thee Down",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 238000
+        },
+        {
+          "title": "Becoming the Dragon",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 283000
+        },
+        {
+          "title": "Redemption",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 214000
+        }
+      ]
+    },
+    {
+      "mbid": "995665f5-c197-4579-a8fd-6d2dbe77e384",
+      "releaseMbid": "fea31870-4305-4724-bf27-ea40aac3c3da",
+      "title": "Ascendancy",
+      "type": "EP",
+      "releaseDate": "2007-03-06",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/995665f5-c197-4579-a8fd-6d2dbe77e384/front-1200",
+      "tracks": [
+        {
+          "title": "Blinding Tears Will Break the Skies",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 310000
+        },
+        {
+          "title": "Washing Away Me in the Tides",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 226000
+        },
+        {
+          "title": "Master of Puppets",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 491000
+        },
+        {
+          "title": "Dying in Your Arms (radio mix)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 185000
+        },
+        {
+          "title": "I'll Go Until My Heart Stops",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 225000
+        }
+      ]
+    },
+    {
+      "mbid": "2803e437-51cc-305e-a8fe-2daba8901eac",
+      "releaseMbid": "6a3c2524-2c7a-4858-89f1-b5d57e2d24d4",
+      "title": "Shogun",
+      "type": "ALBUM",
+      "releaseDate": "2008-09-24",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/2803e437-51cc-305e-a8fe-2daba8901eac/front-1200",
+      "tracks": [
+        {
+          "title": "Kirisute Gomen",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 387000
+        },
+        {
+          "title": "Torn Between Scylla and Charybdis",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 409000
+        },
+        {
+          "title": "Down From the Sky",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 334000
+        },
+        {
+          "title": "Into the Mouth of Hell We March",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 352000
+        },
+        {
+          "title": "Throes of Perdition",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 354000
+        },
+        {
+          "title": "Insurrection",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 297000
+        },
+        {
+          "title": "The Calamity",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 298000
+        },
+        {
+          "title": "He Who Spawned the Furies",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 247000
+        },
+        {
+          "title": "Of Prometheus and the Crucifix",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 280000
+        },
+        {
+          "title": "Like Callisto to a Star in Heaven",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 325000
+        },
+        {
+          "title": "Shogun",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 714000
+        }
+      ]
+    },
+    {
+      "mbid": "61fa3366-d19f-4e36-aeb6-5bd36edaf898",
+      "releaseMbid": "6584ba30-f3c9-44ba-a247-4c56526ec09c",
+      "title": "In Waves",
+      "type": "ALBUM",
+      "releaseDate": "2011-08-02",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/61fa3366-d19f-4e36-aeb6-5bd36edaf898/front-1200",
+      "tracks": [
+        {
+          "title": "Capsizing the Sea",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 90720
+        },
+        {
+          "title": "In Waves",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 302453
+        },
+        {
+          "title": "Inception of the End",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 228040
+        },
+        {
+          "title": "Dusk Dismantled",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 227533
+        },
+        {
+          "title": "Watch the World Burn",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 293080
+        },
+        {
+          "title": "Black",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 207906
+        },
+        {
+          "title": "A Skyline’s Severance",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 291293
+        },
+        {
+          "title": "Built to Fall",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 188120
+        },
+        {
+          "title": "Caustic Are the Ties That Bind",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 334920
+        },
+        {
+          "title": "Forsake Not the Dream",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 320546
+        },
+        {
+          "title": "Chaos Reigns",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 247680
+        },
+        {
+          "title": "Of All These Yesterdays",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 261506
+        },
+        {
+          "title": "Leaving This World Behind",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 92800
+        }
+      ]
+    },
+    {
+      "mbid": "0eeb7101-2117-4d1b-a20a-ef0349449cc8",
+      "releaseMbid": "79f7bdfc-51f1-4208-9a86-42b087ac1194",
+      "title": "Vengeance Falls",
+      "type": "ALBUM",
+      "releaseDate": "2013-10-09",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0eeb7101-2117-4d1b-a20a-ef0349449cc8/front-1200",
+      "tracks": [
+        {
+          "title": "Brave This Storm",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 269853
+        },
+        {
+          "title": "Vengeance Falls",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 253653
+        },
+        {
+          "title": "Strife",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 268720
+        },
+        {
+          "title": "No Way to Heal",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 245733
+        },
+        {
+          "title": "To Believe",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 272626
+        },
+        {
+          "title": "At the End of This War",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 287680
+        },
+        {
+          "title": "Through Blood and Dirt and Bone",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 266173
+        },
+        {
+          "title": "Villainy Thrives",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 294893
+        },
+        {
+          "title": "Incineration: The Broken World",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 352213
+        },
+        {
+          "title": "Wake [The End Is Nigh]",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 357866
+        }
+      ]
+    },
+    {
+      "mbid": "83d51a09-0748-49f3-820e-f56e21fe22b0",
+      "releaseMbid": "05771ef2-9116-4144-918c-4d8e2ade6cec",
+      "title": "Silence in the Snow",
+      "type": "ALBUM",
+      "releaseDate": "2015-10-02",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/83d51a09-0748-49f3-820e-f56e21fe22b0/front-1200",
+      "tracks": [
+        {
+          "title": "Snøfall",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 88000
+        },
+        {
+          "title": "Silence in the Snow",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 220000
+        },
+        {
+          "title": "Blind Leading the Blind",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 265000
+        },
+        {
+          "title": "Dead and Gone",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 226000
+        },
+        {
+          "title": "The Ghost That’s Haunting You",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 249000
+        },
+        {
+          "title": "Pull Me From the Void",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 233000
+        },
+        {
+          "title": "Until the World Goes Cold",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 321000
+        },
+        {
+          "title": "Rise Above the Tides",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 234000
+        },
+        {
+          "title": "The Thing That’s Killing Me",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 210000
+        },
+        {
+          "title": "Beneath the Sun",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 236000
+        },
+        {
+          "title": "Breathe in the Flames",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 311000
+        }
+      ]
+    },
+    {
+      "mbid": "0b9cf904-2c08-4739-b552-21f5d6986350",
+      "releaseMbid": "133005c4-e92a-44d3-a5a2-4f888a2cbc7b",
+      "title": "The Sin and the Sentence",
+      "type": "ALBUM",
+      "releaseDate": "2017-10-20",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0b9cf904-2c08-4739-b552-21f5d6986350/front-1200",
+      "tracks": [
+        {
+          "title": "The Sin and the Sentence",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 350000
+        },
+        {
+          "title": "Beyond Oblivion",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 317000
+        },
+        {
+          "title": "Other Worlds",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 290000
+        },
+        {
+          "title": "The Heart From Your Hate",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 244000
+        },
+        {
+          "title": "Betrayer",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 327000
+        },
+        {
+          "title": "The Wretchedness Inside",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 332000
+        },
+        {
+          "title": "Endless Night",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 218000
+        },
+        {
+          "title": "Sever the Hand",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 326000
+        },
+        {
+          "title": "Beauty in the Sorrow",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 271000
+        },
+        {
+          "title": "The Revanchist",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 437000
+        },
+        {
+          "title": "Thrown Into the Fire",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 329000
+        }
+      ]
+    },
+    {
+      "mbid": "6ae53f0e-0436-475a-8406-2b422d4adcd9",
+      "releaseMbid": "77d4daea-b83a-4412-8384-e495a0bb64af",
+      "title": "What the Dead Men Say",
+      "type": "ALBUM",
+      "releaseDate": "2020-04-24",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/6ae53f0e-0436-475a-8406-2b422d4adcd9/front-1200",
+      "tracks": [
+        {
+          "title": "IX",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 118666
+        },
+        {
+          "title": "What the Dead Men Say",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 285520
+        },
+        {
+          "title": "Catastrophist",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 388040
+        },
+        {
+          "title": "Amongst the Shadows & the Stones",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 340293
+        },
+        {
+          "title": "Bleed Into Me",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 228920
+        },
+        {
+          "title": "The Defiant",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 269226
+        },
+        {
+          "title": "Sickness Unto You",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 374040
+        },
+        {
+          "title": "Scattering the Ashes",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 204573
+        },
+        {
+          "title": "Bending the Arc to Fear",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 285866
+        },
+        {
+          "title": "The Ones We Leave Behind",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 296746
+        }
+      ]
+    },
+    {
+      "mbid": "b9f9612d-fb59-4bf3-b0dc-d6bd3aa76245",
+      "releaseMbid": "0e79db43-c688-4fc0-8859-7aa13696ae5d",
+      "title": "In the Court of the Dragon",
+      "type": "ALBUM",
+      "releaseDate": "2021-10-08",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b9f9612d-fb59-4bf3-b0dc-d6bd3aa76245/front-1200",
+      "tracks": [
+        {
+          "title": "X",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 88000
+        },
+        {
+          "title": "In the Court of the Dragon",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 309000
+        },
+        {
+          "title": "Like a Sword Over Damocles",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 330000
+        },
+        {
+          "title": "Feast of Fire",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 259000
+        },
+        {
+          "title": "A Crisis of Revelation",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 336000
+        },
+        {
+          "title": "The Shadow of the Abattoir",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 432000
+        },
+        {
+          "title": "No Way Back Just Through",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 233000
+        },
+        {
+          "title": "Fall Into Your Hands",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 465000
+        },
+        {
+          "title": "From Dawn to Decadence",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 249000
+        },
+        {
+          "title": "The Phalanx",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 436000
+        }
+      ]
+    },
+    {
+      "mbid": "1801f0c4-6540-4077-89d4-f4e83caf937d",
+      "releaseMbid": "c61d85d1-ba2a-43e4-ac46-1d6c713ea6b7",
+      "title": "Struck Dead",
+      "type": "EP",
+      "releaseDate": "2025-10-31",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/1801f0c4-6540-4077-89d4-f4e83caf937d/front-1200",
+      "tracks": [
+        {
+          "title": "Bury Me With My Screams",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 316634
+        },
+        {
+          "title": "Struck Dead",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 317175
+        },
+        {
+          "title": "Six Walls",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 438553
+        }
+      ]
+    },
+    {
+      "mbid": "b1183c53-78c8-44dd-8344-6de01ad473c2",
+      "releaseMbid": "72e72e50-bbe4-4e34-b5b2-19a6508bf22d",
+      "title": "Crown in the Grave",
+      "type": "ALBUM",
+      "releaseDate": "2026-11-20",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b1183c53-78c8-44dd-8344-6de01ad473c2/front-1200",
+      "tracks": [
+        {
+          "title": "Jorōgumo",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 83280
+        },
+        {
+          "title": "Crown in the Grave",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 296480
+        },
+        {
+          "title": "Dead Inside of Me",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 241453
+        },
+        {
+          "title": "The Terror",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 282360
+        },
+        {
+          "title": "The Haunting Never Ends",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 186907
+        },
+        {
+          "title": "Lie of It All",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 254520
+        },
+        {
+          "title": "Blackout the Dawn",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 264173
+        },
+        {
+          "title": "Paradise of Sinners",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 191480
+        },
+        {
+          "title": "Death Throes",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 276133
+        },
+        {
+          "title": "The Agony",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 246800
+        },
+        {
+          "title": "Devour Your Dreams",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 216920
+        },
+        {
+          "title": "Serpent in the Flame",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 345107
+        }
+      ]
+    }
+  ],
+  "pending": []
+}
