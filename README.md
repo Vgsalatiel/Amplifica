@@ -148,6 +148,7 @@ Os mesmos nos dois projetos, salvo indicação:
 | `npm run test:e2e` | Testes da API contra o banco do `.env` (só no backend). Criam e apagam apenas contas `@e2e.amplifica.test` |
 | `npm run build` | Build de produção |
 | `npm run prisma:migrate` | Cria e aplica migrations em desenvolvimento (só no backend) |
+| `backend/scripts/carga-producao.sh` | Carga das bandas, capas e fotos no banco de produção, com trava de segurança (veja [`docs/carga-producao.md`](docs/carga-producao.md)) |
 | `npm run catalog:fetch`, `npm run catalog:seed` | Busca e carrega a discografia de um artista a partir de um arquivo revisável (só no backend) |
 | `npm run shows:seed` | Carrega shows de um arquivo revisável em `prisma/data/shows/` (só no backend) |
 | `npm run seed:genres` | Cria a árvore inicial de gêneros; pode rodar de novo sem duplicar (só no backend) |
