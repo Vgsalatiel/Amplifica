@@ -1,0 +1,792 @@
+{
+  "generatedAt": "2026-11-19T18:47:13.515Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "194eeda1-e662-43bc-b9be-32fc1afecc8b",
+    "name": "Hawthorne Heights",
+    "slug": "hawthorne-heights",
+    "type": "BAND",
+    "country": "US",
+    "city": "Dayton",
+    "formedYear": 2001,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/194eeda1-e662-43bc-b9be-32fc1afecc8b"
+      },
+      {
+        "name": "YouTube Music",
+        "url": "https://music.youtube.com/@HawthorneHeightsband"
+      }
+    ],
+    "genres": [
+      "emo",
+      "post-hardcore",
+      "screamo"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "68c6ea99-bbbc-31d4-95ca-3aa6e51f288e",
+      "releaseMbid": "f6f6fab1-c932-4ead-9bf8-943b96fc6786",
+      "title": "The Silence in Black and White",
+      "type": "ALBUM",
+      "releaseDate": "2004-06-08",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/68c6ea99-bbbc-31d4-95ca-3aa6e51f288e/front-1200",
+      "tracks": [
+        {
+          "title": "Life on Standby",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 251440
+        },
+        {
+          "title": "Dissolve and Decay",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 224213
+        },
+        {
+          "title": "Niki FM",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 239520
+        },
+        {
+          "title": "The Transition",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 244706
+        },
+        {
+          "title": "Blue Burns Orange",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 199653
+        },
+        {
+          "title": "Silver Bullet",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 243266
+        },
+        {
+          "title": "Screenwriting an Apology",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 223146
+        },
+        {
+          "title": "Ohio Is for Lovers",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 244480
+        },
+        {
+          "title": "Wake Up Call",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 242360
+        },
+        {
+          "title": "Sandpaper and Silk",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 216546
+        },
+        {
+          "title": "Speeding Up the Octaves",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 250786
+        }
+      ]
+    },
+    {
+      "mbid": "a8600086-9adf-3e16-bd33-36c001092de0",
+      "releaseMbid": "23629e85-9c67-483f-8024-d2abc297a69c",
+      "title": "If Only You Were Lonely",
+      "type": "ALBUM",
+      "releaseDate": "2006-02-28",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a8600086-9adf-3e16-bd33-36c001092de0/front-1200",
+      "tracks": [
+        {
+          "title": "This Is Who We Are",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 225000
+        },
+        {
+          "title": "We Are So Last Year",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 178000
+        },
+        {
+          "title": "Language Lessons (Five Words or Less)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 201000
+        },
+        {
+          "title": "Pens and Needles",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 195000
+        },
+        {
+          "title": "Saying Sorry",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 187000
+        },
+        {
+          "title": "Dead in the Water",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 231000
+        },
+        {
+          "title": "I Am on Your Side",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 254000
+        },
+        {
+          "title": "Breathing in Sequence",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 209000
+        },
+        {
+          "title": "Light Sleeper",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 206000
+        },
+        {
+          "title": "Cross Me Off Your List",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 220000
+        },
+        {
+          "title": "Where Can I Stab Myself in the Ears",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 222000
+        },
+        {
+          "title": "Decembers",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 285000
+        }
+      ]
+    },
+    {
+      "mbid": "c252f87c-bb8f-3d4d-a7c2-2929cf7d4f1b",
+      "releaseMbid": "aa6c5b33-9853-4b61-aee3-99d1f40cbd05",
+      "title": "Fragile Future",
+      "type": "ALBUM",
+      "releaseDate": "2008-08-05",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c252f87c-bb8f-3d4d-a7c2-2929cf7d4f1b/front-1200",
+      "tracks": [
+        {
+          "title": "The Business of Paper Stars",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 226000
+        },
+        {
+          "title": "Rescue Me",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 187000
+        },
+        {
+          "title": "Until the Judgement Day",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 224000
+        },
+        {
+          "title": "Somewhere in Between",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 201000
+        },
+        {
+          "title": "Sugar in the Engine",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 269000
+        },
+        {
+          "title": "Desperation",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 207000
+        },
+        {
+          "title": "Four Become One",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 235000
+        },
+        {
+          "title": "321",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 220000
+        },
+        {
+          "title": "Disaster",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 180000
+        },
+        {
+          "title": "Let Go of Everything You Know",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 204000
+        },
+        {
+          "title": "Corps of Corpses",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 192000
+        },
+        {
+          "title": "Come Back Home (reprised)",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 251000
+        }
+      ]
+    },
+    {
+      "mbid": "b44ba9bd-4169-4379-a61c-b3e7c7b70399",
+      "releaseMbid": "f1d95d4a-17a6-494b-9ca7-a5746132514f",
+      "title": "Skeletons",
+      "type": "ALBUM",
+      "releaseDate": "2010-06-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b44ba9bd-4169-4379-a61c-b3e7c7b70399/front-1200",
+      "tracks": [
+        {
+          "title": "Bring You Back",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 202000
+        },
+        {
+          "title": "Nervous Breakdown",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 171000
+        },
+        {
+          "title": "End of the Underground",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 199000
+        },
+        {
+          "title": "Drive",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 186000
+        },
+        {
+          "title": "Gravestones",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 209000
+        },
+        {
+          "title": "Broken Man",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 171000
+        },
+        {
+          "title": "Last Few Words",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 183000
+        },
+        {
+          "title": "Abandoned Driveways",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 162000
+        },
+        {
+          "title": "Picket Fences",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 251000
+        },
+        {
+          "title": "Here I Am",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 190000
+        },
+        {
+          "title": "Hollywood & Vine",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 166000
+        },
+        {
+          "title": "Unforgivable",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 209000
+        },
+        {
+          "title": "Boy",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 225000
+        }
+      ]
+    },
+    {
+      "mbid": "4a0855c8-e373-4d1b-b4f0-317cda7e60ad",
+      "releaseMbid": "4796a533-9a43-4822-9122-0b055e348981",
+      "title": "Zero",
+      "type": "ALBUM",
+      "releaseDate": "2013-06-25",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4a0855c8-e373-4d1b-b4f0-317cda7e60ad/front-1200",
+      "tracks": [
+        {
+          "title": "Skeletons Remain (Transmission 1)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 81000
+        },
+        {
+          "title": "Memories of Misery",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 179000
+        },
+        {
+          "title": "Darkside",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 184000
+        },
+        {
+          "title": "Spark",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 219000
+        },
+        {
+          "title": "Zero",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 218000
+        },
+        {
+          "title": "Anywhere but Here",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 179000
+        },
+        {
+          "title": "Hollow Hearts Unite",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 218000
+        },
+        {
+          "title": "Coalition of Alternate Living Methods (Broadcast)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 54000
+        },
+        {
+          "title": "Golden Parachutes",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 175000
+        },
+        {
+          "title": "Put Me Back Together",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 183000
+        },
+        {
+          "title": "Strangers",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 219000
+        },
+        {
+          "title": "Ghost Town",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 212000
+        },
+        {
+          "title": "Lost in the Calm",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 189000
+        },
+        {
+          "title": "Taken by the Dark",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 217000
+        },
+        {
+          "title": "Over and Out (Transmission 2)",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 134000
+        }
+      ]
+    },
+    {
+      "mbid": "3e32a0cc-0d29-4a54-8f03-6eed701b3818",
+      "releaseMbid": "dcd35a02-5508-48ac-aed1-da82fae6287c",
+      "title": "The Silence in Black and White (acoustic)",
+      "type": "ALBUM",
+      "releaseDate": "2014-05-20",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/3e32a0cc-0d29-4a54-8f03-6eed701b3818/front-1200",
+      "tracks": [
+        {
+          "title": "Life on Standby",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 299746
+        },
+        {
+          "title": "Dissolve and Decay",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 230746
+        },
+        {
+          "title": "Niki FM",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 269826
+        },
+        {
+          "title": "The Transition",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 271360
+        },
+        {
+          "title": "Blue Burns Orange",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 261293
+        },
+        {
+          "title": "Silver Bullet",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 273146
+        },
+        {
+          "title": "Screenwriting an Apology",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 226813
+        },
+        {
+          "title": "Ohio Is for Lovers",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 289240
+        },
+        {
+          "title": "Wake Up Call",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 294546
+        },
+        {
+          "title": "Sandpaper and Silk",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 219133
+        },
+        {
+          "title": "Speeding Up the Octaves",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 277200
+        }
+      ]
+    },
+    {
+      "mbid": "b1a18077-667d-4b23-bc49-a4d952a76df9",
+      "releaseMbid": "92002eac-4bac-442b-a9db-e409b6654b20",
+      "title": "Bad Frequencies",
+      "type": "ALBUM",
+      "releaseDate": "2018-04-27",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b1a18077-667d-4b23-bc49-a4d952a76df9/front-1200",
+      "tracks": [
+        {
+          "title": "In Gloom",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 155493
+        },
+        {
+          "title": "Pink Hearts",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 193000
+        },
+        {
+          "title": "Crimson Sand",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 174000
+        },
+        {
+          "title": "The Perfect Way to Fall Apart",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 249000
+        },
+        {
+          "title": "Just Another Ghost",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 185253
+        },
+        {
+          "title": "Bad Frequencies",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 169493
+        },
+        {
+          "title": "Skylark",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 194253
+        },
+        {
+          "title": "Edge of Town",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 181000
+        },
+        {
+          "title": "Starlighter (Echo, Utah)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 198000
+        },
+        {
+          "title": "Push Me Away",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 173506
+        },
+        {
+          "title": "The Suicide Mile",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 219493
+        },
+        {
+          "title": "Straight Down the Line",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 171253
+        },
+        {
+          "title": "Pills",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 208253
+        }
+      ]
+    },
+    {
+      "mbid": "dbf7721d-6f88-4ae5-a24e-78ab30394f74",
+      "releaseMbid": "0a8779a6-e549-48bd-9f16-4780d5fd5db6",
+      "title": "The Rain Just Follows Me",
+      "type": "ALBUM",
+      "releaseDate": "2021-09-10",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/dbf7721d-6f88-4ae5-a24e-78ab30394f74/front-1200",
+      "tracks": [
+        {
+          "title": "Constant Dread",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 172000
+        },
+        {
+          "title": "The Rain Just Follows Me",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 191000
+        },
+        {
+          "title": "Holy Coast",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 222000
+        },
+        {
+          "title": "Tired and Alone",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 245000
+        },
+        {
+          "title": "Thunder in Our Hearts",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 225000
+        },
+        {
+          "title": "Spray Paint It Black",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 198000
+        },
+        {
+          "title": "Dull Headlights",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 186000
+        },
+        {
+          "title": "Palm Canyon Drive",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 163000
+        },
+        {
+          "title": "Seafoam",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 156000
+        },
+        {
+          "title": "Words Can’t Hurt",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 205000
+        },
+        {
+          "title": "Bambarra Beach (The End)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 222000
+        }
+      ]
+    },
+    {
+      "mbid": "387c8a8d-984b-4a48-be80-43d268c628d4",
+      "releaseMbid": "c122d1e6-b5fd-4bbb-92dc-577e705fbfd8",
+      "title": "If Only You Were Lonely XV",
+      "type": "ALBUM",
+      "releaseDate": "2023-12-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/387c8a8d-984b-4a48-be80-43d268c628d4/front-1200",
+      "tracks": [
+        {
+          "title": "This Is Who We Are",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 223000
+        },
+        {
+          "title": "We Are So Last Year",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 173000
+        },
+        {
+          "title": "Language Lessons (Five Words or Less)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 198000
+        },
+        {
+          "title": "Pens and Needles",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 192000
+        },
+        {
+          "title": "Saying Sorry",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 184000
+        },
+        {
+          "title": "Dead in the Water",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 231720
+        },
+        {
+          "title": "I Am on Your Side",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 199000
+        },
+        {
+          "title": "Breathing in Sequence",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 201000
+        },
+        {
+          "title": "Light Sleeper",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 198000
+        },
+        {
+          "title": "Cross Me Off Your List",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 201000
+        },
+        {
+          "title": "Where Can I Stab Myself in the Ears",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 218000
+        },
+        {
+          "title": "Decembers",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 247000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

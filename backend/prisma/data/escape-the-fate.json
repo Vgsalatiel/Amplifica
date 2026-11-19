@@ -1,0 +1,1044 @@
+{
+  "generatedAt": "2026-11-19T18:51:42.778Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "b9ca7096-68de-455f-8a36-1f1ebb2abf2a",
+    "name": "Escape the Fate",
+    "slug": "escape-the-fate",
+    "type": "BAND",
+    "country": "US",
+    "city": "Las Vegas",
+    "formedYear": 2004,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/b9ca7096-68de-455f-8a36-1f1ebb2abf2a"
+      },
+      {
+        "name": "YouTube Music",
+        "url": "https://music.youtube.com/@escapethefate"
+      }
+    ],
+    "genres": [
+      "post-hardcore",
+      "metalcore",
+      "emo"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "b39a06e3-4ba8-4f06-b005-89dcc62ff960",
+      "releaseMbid": "251916b9-5549-4b3e-b4c9-7bc3aab0e2ff",
+      "title": "Escape the Fate",
+      "type": "EP",
+      "releaseDate": "2005",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Not Good Enough for Truth in Cliché (demo)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 221000
+        },
+        {
+          "title": "Make Up (demo)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 213000
+        },
+        {
+          "title": "Chariot of Fire (demo)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 272000
+        },
+        {
+          "title": "I Can Swing a Mic Like Nobody's Business (demo)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 304000
+        },
+        {
+          "title": "As You're Falling Down (demo)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 207000
+        },
+        {
+          "title": "The Structure Falls",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 278000
+        }
+      ]
+    },
+    {
+      "mbid": "16201687-859f-3e70-ac16-615a41bc9e8c",
+      "releaseMbid": "0a23771f-6649-44cf-a85d-6d1ac44cda15",
+      "title": "There’s No Sympathy for the Dead",
+      "type": "EP",
+      "releaseDate": "2006-05-23",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/16201687-859f-3e70-ac16-615a41bc9e8c/front-1200",
+      "tracks": [
+        {
+          "title": "Dragging Dead Bodies in Blue Bags Up Really Long Hills",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 218133
+        },
+        {
+          "title": "There’s No Sympathy for the Dead",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 326120
+        },
+        {
+          "title": "The Ransom",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 230293
+        },
+        {
+          "title": "As You’re Falling Down",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 204733
+        },
+        {
+          "title": "The Guillotine",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 272506
+        }
+      ]
+    },
+    {
+      "mbid": "5700fc38-daf1-3893-aba4-c38c655dd7c7",
+      "releaseMbid": "385ee388-2772-4526-b418-6c5f021386a8",
+      "title": "Dying Is Your Latest Fashion",
+      "type": "ALBUM",
+      "releaseDate": "2006-09-26",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/5700fc38-daf1-3893-aba4-c38c655dd7c7/front-1200",
+      "tracks": [
+        {
+          "title": "The Webs We Weave",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 173733
+        },
+        {
+          "title": "When I Go Out, I Want to Go Out on a Chariot of Fire",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 241053
+        },
+        {
+          "title": "Situations",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 187880
+        },
+        {
+          "title": "The Guillotine",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 272493
+        },
+        {
+          "title": "Reverse This Curse",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 220920
+        },
+        {
+          "title": "Cellar Door",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 275973
+        },
+        {
+          "title": "There’s No Sympathy for the Dead",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 325360
+        },
+        {
+          "title": "My Apocalypse",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 283360
+        },
+        {
+          "title": "Friends and Alibis",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 250093
+        },
+        {
+          "title": "Not Good Enough for Truth in Cliche",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 231506
+        },
+        {
+          "title": "The Day I Left the Womb",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 144893
+        }
+      ]
+    },
+    {
+      "mbid": "d3320f84-644e-4401-a0a2-74213eb7c465",
+      "releaseMbid": "ab330db2-f673-4519-8d01-5f1d438d06fd",
+      "title": "The Shady Bunch",
+      "type": "EP",
+      "releaseDate": "2007",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d3320f84-644e-4401-a0a2-74213eb7c465/front-1200",
+      "tracks": [
+        {
+          "title": "Situations",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Cellar Door",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Guys Like You Make Us Look Bad",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Rise Up",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "87098d83-13d8-306d-b99a-59d1cb5c0938",
+      "releaseMbid": "c67811b8-be79-4701-a381-20786c42cc77",
+      "title": "Situations",
+      "type": "EP",
+      "releaseDate": "2007-11-20",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/87098d83-13d8-306d-b99a-59d1cb5c0938/front-1200",
+      "tracks": [
+        {
+          "title": "Situations",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 187000
+        },
+        {
+          "title": "Make Up",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 207000
+        }
+      ]
+    },
+    {
+      "mbid": "cd7d1759-d251-32e8-9f8a-6c739256f65c",
+      "releaseMbid": "9305da1d-9b3f-4b29-a534-56d0bd249f2e",
+      "title": "This War Is Ours",
+      "type": "ALBUM",
+      "releaseDate": "2008-10-18",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/cd7d1759-d251-32e8-9f8a-6c739256f65c/front-1200",
+      "tracks": [
+        {
+          "title": "We Won't Back Down",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 211000
+        },
+        {
+          "title": "On to the Next One",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 188000
+        },
+        {
+          "title": "Ashley",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 207000
+        },
+        {
+          "title": "Something",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 218000
+        },
+        {
+          "title": "The Flood",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 213000
+        },
+        {
+          "title": "Let It Go",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 209000
+        },
+        {
+          "title": "You Are So Beautiful",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 168000
+        },
+        {
+          "title": "This War Is Ours (The Guillotine II)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 267000
+        },
+        {
+          "title": "10 Miles Wide",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 168000
+        },
+        {
+          "title": "Harder Than You Know",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 260000
+        },
+        {
+          "title": "It's Just Me",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 299000
+        },
+        {
+          "title": "Harder Than You Know (European Acoustic Bonus Track)",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 258000
+        }
+      ]
+    },
+    {
+      "mbid": "a5b19b9f-b629-4545-9b9a-65a5380bf8e7",
+      "releaseMbid": "81bb7196-5197-46e9-babd-6d56beca92f9",
+      "title": "Escape the Fate",
+      "type": "ALBUM",
+      "releaseDate": "2010-10-29",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a5b19b9f-b629-4545-9b9a-65a5380bf8e7/front-1200",
+      "tracks": [
+        {
+          "title": "Choose Your Fate",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 100787
+        },
+        {
+          "title": "Massacre",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 255467
+        },
+        {
+          "title": "Issues",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 161973
+        },
+        {
+          "title": "Zombie Dance",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 197560
+        },
+        {
+          "title": "Gorgeous Nightmare",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 196080
+        },
+        {
+          "title": "City of Sin",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 162533
+        },
+        {
+          "title": "Day of Wreckoning",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 194627
+        },
+        {
+          "title": "Lost in Darkness",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 221427
+        },
+        {
+          "title": "Prepare Your Weapon",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 280827
+        },
+        {
+          "title": "World Around Me",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 308693
+        },
+        {
+          "title": "The Aftermath (G3)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 334080
+        }
+      ]
+    },
+    {
+      "mbid": "0dd83824-c4d8-4f01-9237-c849163126b8",
+      "releaseMbid": "144f1488-f589-4960-a600-167099d2665a",
+      "title": "Issues (Remixes)",
+      "type": "EP",
+      "releaseDate": "2011",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0dd83824-c4d8-4f01-9237-c849163126b8/front-1200",
+      "tracks": [
+        {
+          "title": "Issues (Jakwob remix)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 180000
+        },
+        {
+          "title": "Issues (Does It Offend You Yeah? remix)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 227000
+        },
+        {
+          "title": "Issues (Wolves at the Gate remix)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 224000
+        },
+        {
+          "title": "Issues (LA Riots remix)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 343000
+        }
+      ]
+    },
+    {
+      "mbid": "95615925-54b0-413e-8394-8254e1803635",
+      "releaseMbid": "182dbcae-7978-4381-acf5-dad2f41b9013",
+      "title": "Ungrateful",
+      "type": "ALBUM",
+      "releaseDate": "2013-05-13",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/95615925-54b0-413e-8394-8254e1803635/front-1200",
+      "tracks": [
+        {
+          "title": "Ungrateful",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 203929
+        },
+        {
+          "title": "Until We Die",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 266242
+        },
+        {
+          "title": "Live Fast, Die Beautiful",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 232261
+        },
+        {
+          "title": "Forget About Me",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 184347
+        },
+        {
+          "title": "You’re Insane",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 214431
+        },
+        {
+          "title": "Chemical Love",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 208949
+        },
+        {
+          "title": "Picture Perfect",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 231946
+        },
+        {
+          "title": "Risk It All",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 240791
+        },
+        {
+          "title": "Desire",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 165763
+        },
+        {
+          "title": "One for the Money",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 199950
+        },
+        {
+          "title": "Fire It Up",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 233825
+        },
+        {
+          "title": "I Alone",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 233715
+        },
+        {
+          "title": "Father, Brother",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 167051
+        },
+        {
+          "title": "Losing Control",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 222000
+        }
+      ]
+    },
+    {
+      "mbid": "48e6a8dd-029e-4b89-b102-3aa29a1a9072",
+      "releaseMbid": "8b3e759d-d48f-49a5-97ec-c3ec924c3735",
+      "title": "Hate Me",
+      "type": "ALBUM",
+      "releaseDate": "2015-10-30",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/48e6a8dd-029e-4b89-b102-3aa29a1a9072/front-1200",
+      "tracks": [
+        {
+          "title": "Just a Memory",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 268000
+        },
+        {
+          "title": "Live for Today",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 281000
+        },
+        {
+          "title": "Remember Every Scar",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 243000
+        },
+        {
+          "title": "Breaking Me Down",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 211000
+        },
+        {
+          "title": "Alive",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 189000
+        },
+        {
+          "title": "Get Up, Get Out",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 238000
+        },
+        {
+          "title": "Hate Me",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 249000
+        },
+        {
+          "title": "Les Enfants Terribles",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 212000
+        },
+        {
+          "title": "I Won't Break",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 192000
+        },
+        {
+          "title": "Let Me Be",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 212000
+        }
+      ]
+    },
+    {
+      "mbid": "ff8ec5fa-c847-4b5b-bd1f-c212b2f937bd",
+      "releaseMbid": "711c8ed8-1489-4350-890c-ec1cbd140af2",
+      "title": "I Am Human",
+      "type": "ALBUM",
+      "releaseDate": "2018-03-27",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ff8ec5fa-c847-4b5b-bd1f-c212b2f937bd/front-1200",
+      "tracks": [
+        {
+          "title": "Beautifully Tragic",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 195000
+        },
+        {
+          "title": "Broken Heart",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 187000
+        },
+        {
+          "title": "Four Letter Word",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 211000
+        },
+        {
+          "title": "I Will Make It Up to You",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 193000
+        },
+        {
+          "title": "Bleed for Me",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 197000
+        },
+        {
+          "title": "Do You Love Me?",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 186000
+        },
+        {
+          "title": "I Am Human",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 252000
+        },
+        {
+          "title": "If Only",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 191000
+        },
+        {
+          "title": "Empire",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 192000
+        },
+        {
+          "title": "Recipe for Disaster",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 204000
+        },
+        {
+          "title": "Riot",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 148000
+        },
+        {
+          "title": "Digging My Own Grave",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 197000
+        },
+        {
+          "title": "Resistance",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 193000
+        },
+        {
+          "title": "Let Me Be",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 213000
+        }
+      ]
+    },
+    {
+      "mbid": "00a5a4a2-a33a-475a-a5bb-c94bcfd195f2",
+      "releaseMbid": "190e6330-4ebf-40f3-9265-129ea219e464",
+      "title": "Chemical Warfare",
+      "type": "ALBUM",
+      "releaseDate": "2021-04-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/00a5a4a2-a33a-475a-a5bb-c94bcfd195f2/front-1200",
+      "tracks": [
+        {
+          "title": "Lightning Strike",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 166000
+        },
+        {
+          "title": "Invincible",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 232000
+        },
+        {
+          "title": "Unbreakable",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 182000
+        },
+        {
+          "title": "Chemical Warfare",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 194000
+        },
+        {
+          "title": "Erase You",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 148000
+        },
+        {
+          "title": "Not My Problem",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 205000
+        },
+        {
+          "title": "Burn the Bridges",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 220000
+        },
+        {
+          "title": "Demons",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 174000
+        },
+        {
+          "title": "Hand Grenade",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 160000
+        },
+        {
+          "title": "Ashes (Broken World)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 185000
+        },
+        {
+          "title": "My Gravity",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 199000
+        },
+        {
+          "title": "Walk On",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 214000
+        }
+      ]
+    },
+    {
+      "mbid": "53dfcc77-d073-4daf-8e4d-2c5a107eb5ca",
+      "releaseMbid": "aa4e3a74-2ffb-4811-8983-72f9f2dd5bd0",
+      "title": "Out of the Shadows",
+      "type": "ALBUM",
+      "releaseDate": "2023-09-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/53dfcc77-d073-4daf-8e4d-2c5a107eb5ca/front-1200",
+      "tracks": [
+        {
+          "title": "Forgive Me",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 303462
+        },
+        {
+          "title": "Choke",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 193076
+        },
+        {
+          "title": "LOW",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 194014
+        },
+        {
+          "title": "Rather Be Dead",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 156390
+        },
+        {
+          "title": "F U N in Funeral",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 150692
+        },
+        {
+          "title": "Lips Like Knives",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 161789
+        },
+        {
+          "title": "Hypnotized",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 127724
+        },
+        {
+          "title": "H8 MY SELF",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 178963
+        },
+        {
+          "title": "Traumatized",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 219115
+        },
+        {
+          "title": "Irreversible",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 213972
+        },
+        {
+          "title": "Kings of Nothing",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 194263
+        },
+        {
+          "title": "Cheers to Goodbye",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 226861
+        }
+      ]
+    },
+    {
+      "mbid": "0db15c46-b6fb-41a4-b838-e97a370a485b",
+      "releaseMbid": "76a27da2-1098-4dae-8867-a2a3596ae89e",
+      "title": "Redefined",
+      "type": "ALBUM",
+      "releaseDate": "2025-03-14",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0db15c46-b6fb-41a4-b838-e97a370a485b/front-1200",
+      "tracks": [
+        {
+          "title": "Artificial Gods",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 178747
+        },
+        {
+          "title": "T/R/A/P/P/E/D",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 198036
+        },
+        {
+          "title": "Oxygen",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 195560
+        },
+        {
+          "title": "Crowned Clown",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 233568
+        },
+        {
+          "title": "Hellscape",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 223638
+        },
+        {
+          "title": "Mistake",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 202120
+        },
+        {
+          "title": "Misleading",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 207883
+        },
+        {
+          "title": "Understand",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 209907
+        },
+        {
+          "title": "Redefined",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 225000
+        },
+        {
+          "title": "Meat Hook",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 162286
+        },
+        {
+          "title": "Conspiracy",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 253899
+        }
+      ]
+    },
+    {
+      "mbid": "f9319579-219a-4169-b8fa-7337bc9798de",
+      "releaseMbid": "d08c5d28-743d-4edb-be12-bc089ebcc057",
+      "title": "The Last Goodbye",
+      "type": "ALBUM",
+      "releaseDate": "2026-10-02",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f9319579-219a-4169-b8fa-7337bc9798de/front-1200",
+      "tracks": [
+        {
+          "title": "Last Goodbye",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 190920
+        },
+        {
+          "title": "Comatose",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 230920
+        },
+        {
+          "title": "Coffin Kingdom",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 199160
+        },
+        {
+          "title": "Paranoia",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 246600
+        },
+        {
+          "title": "Idle Potential",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 244906
+        },
+        {
+          "title": "Deja Vu",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 216680
+        },
+        {
+          "title": "Devil In Wait",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 198413
+        },
+        {
+          "title": "Money Power Fame",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 221386
+        },
+        {
+          "title": "Hurt",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 234933
+        },
+        {
+          "title": "Medicine",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 216440
+        },
+        {
+          "title": "Other Side",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 234080
+        },
+        {
+          "title": "Bedroom Wall",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 227920
+        },
+        {
+          "title": "Remedy Of Numbness",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 213040
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

@@ -1,0 +1,1845 @@
+{
+  "generatedAt": "2026-11-19T19:01:11.012Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "149e6720-4e4a-41a4-afca-6d29083fc091",
+    "name": "Bad Religion",
+    "slug": "bad-religion",
+    "type": "BAND",
+    "country": "US",
+    "city": "Los Angeles",
+    "formedYear": 1980,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/149e6720-4e4a-41a4-afca-6d29083fc091"
+      },
+      {
+        "name": "YouTube Music",
+        "url": "https://music.youtube.com/@badreligionband"
+      }
+    ],
+    "genres": [
+      "punk-rock",
+      "melodic-hardcore",
+      "hardcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "43a29e0b-1eea-38b4-a9b5-68adcf141573",
+      "releaseMbid": "3eb80c16-bce9-41c9-a692-8b77aae0abd6",
+      "title": "How Could Hell Be Any Worse?",
+      "type": "ALBUM",
+      "releaseDate": "1982-01-12",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/43a29e0b-1eea-38b4-a9b5-68adcf141573/front-1200",
+      "tracks": [
+        {
+          "title": "We're Only Gonna Die",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Latch Key Kids",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Part III",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Faith in God",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Fuck Armageddon... This Is Hell",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Pity",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "In the Night",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Damned to Be Free",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "White Trash (2nd Generation)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "American Dream",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": null
+        },
+        {
+          "title": "Eat Your Dog",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": null
+        },
+        {
+          "title": "Voice of God Is Government",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": null
+        },
+        {
+          "title": "Oligarchy",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": null
+        },
+        {
+          "title": "Doin' Time",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "1c60c365-76fe-3323-ad79-7413f53caaac",
+      "releaseMbid": "732d0e60-d4cf-48a7-97d9-074c9048630f",
+      "title": "Into the Unknown",
+      "type": "ALBUM",
+      "releaseDate": "1983",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/1c60c365-76fe-3323-ad79-7413f53caaac/front-1200",
+      "tracks": [
+        {
+          "title": "It’s Only Over When…",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 225533
+        },
+        {
+          "title": "Chasing the Wild Goose",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 174333
+        },
+        {
+          "title": "Billy Gnosis",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 214960
+        },
+        {
+          "title": "Time and Disregard",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 428333
+        },
+        {
+          "title": "The Dichotomy",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 302240
+        },
+        {
+          "title": "Million Days",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 234360
+        },
+        {
+          "title": "Losing Generation",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 220866
+        },
+        {
+          "title": "…You Give Up",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 182934
+        }
+      ]
+    },
+    {
+      "mbid": "67ba7dda-893f-32ed-930c-f8ff5f5df18a",
+      "releaseMbid": "44bd7986-05fe-41e5-a0a1-ddc0b80df6b4",
+      "title": "Suffer",
+      "type": "ALBUM",
+      "releaseDate": "1988-11-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/67ba7dda-893f-32ed-930c-f8ff5f5df18a/front-1200",
+      "tracks": [
+        {
+          "title": "You Are (the Government)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 81933
+        },
+        {
+          "title": "1000 More Fools",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 95533
+        },
+        {
+          "title": "How Much Is Enough?",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 82906
+        },
+        {
+          "title": "When?",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 100066
+        },
+        {
+          "title": "Give You Nothing",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 122226
+        },
+        {
+          "title": "Land of Competition",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 124706
+        },
+        {
+          "title": "Forbidden Beat",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 117360
+        },
+        {
+          "title": "Best for You",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 115573
+        },
+        {
+          "title": "Suffer",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 107560
+        },
+        {
+          "title": "Delirium of Disorder",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 99306
+        },
+        {
+          "title": "Part II (The Numbers Game)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 101200
+        },
+        {
+          "title": "What Can You Do?",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 164800
+        },
+        {
+          "title": "Do What You Want",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 67133
+        },
+        {
+          "title": "Part IV (The Index Fossil)",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 124493
+        },
+        {
+          "title": "Pessimistic Lines",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 67640
+        }
+      ]
+    },
+    {
+      "mbid": "17576d27-a0ea-3f37-8ef8-9a88f66c1e10",
+      "releaseMbid": "24892dc5-ca94-35a9-8fd9-8485dd35f229",
+      "title": "No Control",
+      "type": "ALBUM",
+      "releaseDate": "1989-07-15",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/17576d27-a0ea-3f37-8ef8-9a88f66c1e10/front-1200",
+      "tracks": [
+        {
+          "title": "Change of Ideas",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 56000
+        },
+        {
+          "title": "Big Bang",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 102133
+        },
+        {
+          "title": "No Control",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 107000
+        },
+        {
+          "title": "Sometimes I Feel Like",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 94240
+        },
+        {
+          "title": "Automatic Man",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 100760
+        },
+        {
+          "title": "I Want to Conquer the World",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 139866
+        },
+        {
+          "title": "Sanity",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 164840
+        },
+        {
+          "title": "Henchman",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 67666
+        },
+        {
+          "title": "It Must Look Pretty Appealing",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 83000
+        },
+        {
+          "title": "You",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 125266
+        },
+        {
+          "title": "Progress",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 134666
+        },
+        {
+          "title": "I Want Something More",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 47800
+        },
+        {
+          "title": "Anxiety",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 128466
+        },
+        {
+          "title": "Billy",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 114893
+        },
+        {
+          "title": "The World Won’t Stop",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 117373
+        }
+      ]
+    },
+    {
+      "mbid": "f4a766e7-cecd-353a-a213-adb7fd2b2da0",
+      "releaseMbid": "6d35dee8-bd69-3278-89fe-5e1508d2c40a",
+      "title": "Against the Grain",
+      "type": "ALBUM",
+      "releaseDate": "1990-11-23",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f4a766e7-cecd-353a-a213-adb7fd2b2da0/front-1200",
+      "tracks": [
+        {
+          "title": "Modern Man",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 118333
+        },
+        {
+          "title": "Turn on the Light",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 85813
+        },
+        {
+          "title": "Get Off",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 104093
+        },
+        {
+          "title": "Blenderhead",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 73786
+        },
+        {
+          "title": "The Positive Aspect of Negative Thinking",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 59240
+        },
+        {
+          "title": "Anesthesia",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 184520
+        },
+        {
+          "title": "Flat Earth Society",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 143826
+        },
+        {
+          "title": "Faith Alone",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 216213
+        },
+        {
+          "title": "Entropy",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 145240
+        },
+        {
+          "title": "Against the Grain",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 129906
+        },
+        {
+          "title": "Operation Rescue",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 128573
+        },
+        {
+          "title": "God Song",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 99546
+        },
+        {
+          "title": "21st Century (Digital Boy)",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 170600
+        },
+        {
+          "title": "Misery and Famine",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 155813
+        },
+        {
+          "title": "Unacceptable",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 104666
+        },
+        {
+          "title": "Quality or Quantity",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 95626
+        },
+        {
+          "title": "Walk Away",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 109013
+        }
+      ]
+    },
+    {
+      "mbid": "d7d4ff5d-9d0f-3436-b9f2-126864c07833",
+      "releaseMbid": "23f08594-7511-4d8b-a9f8-c793509e1356",
+      "title": "Generator",
+      "type": "ALBUM",
+      "releaseDate": "1992-03-12",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d7d4ff5d-9d0f-3436-b9f2-126864c07833/front-1200",
+      "tracks": [
+        {
+          "title": "Generator",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 201760
+        },
+        {
+          "title": "Too Much to Ask",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 165106
+        },
+        {
+          "title": "No Direction",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 194226
+        },
+        {
+          "title": "Tomorrow",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 116440
+        },
+        {
+          "title": "Two Babies in the Dark",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 145200
+        },
+        {
+          "title": "Heaven Is Falling",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 124360
+        },
+        {
+          "title": "Atomic Garden",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 190840
+        },
+        {
+          "title": "The Answer",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 201066
+        },
+        {
+          "title": "Fertile Crescent",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 128533
+        },
+        {
+          "title": "Chimaera",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 148186
+        },
+        {
+          "title": "Only Entertainment",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 192440
+        }
+      ]
+    },
+    {
+      "mbid": "3e38adc0-bb7d-39d1-a811-7ce6db5d869d",
+      "releaseMbid": "6df8cc11-d183-41f1-89f3-c71726b73ec2",
+      "title": "Recipe for Hate",
+      "type": "ALBUM",
+      "releaseDate": "1993-06-04",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/3e38adc0-bb7d-39d1-a811-7ce6db5d869d/front-1200",
+      "tracks": [
+        {
+          "title": "Recipe for Hate",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 122626
+        },
+        {
+          "title": "Kerosene",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 161640
+        },
+        {
+          "title": "American Jesus",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 197533
+        },
+        {
+          "title": "Portrait of Authority",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 164693
+        },
+        {
+          "title": "Man With a Mission",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 191533
+        },
+        {
+          "title": "All Good Soldiers",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 187106
+        },
+        {
+          "title": "Watch It Die",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 154800
+        },
+        {
+          "title": "Struck a Nerve",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 227493
+        },
+        {
+          "title": "My Poor Friend Me",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 162906
+        },
+        {
+          "title": "Lookin’ In",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 123533
+        },
+        {
+          "title": "Don’t Pray on Me",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 162733
+        },
+        {
+          "title": "Modern Day Catastrophists",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 166626
+        },
+        {
+          "title": "Skyscraper",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 195106
+        },
+        {
+          "title": "Stealth",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 41893
+        }
+      ]
+    },
+    {
+      "mbid": "6415981c-4a20-3035-8817-7bf5a5398035",
+      "releaseMbid": "8058ff38-c4a9-4614-9ab7-1a526d444ba0",
+      "title": "Stranger Than Fiction",
+      "type": "ALBUM",
+      "releaseDate": "1994-08-26",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/6415981c-4a20-3035-8817-7bf5a5398035/front-1200",
+      "tracks": [
+        {
+          "title": "Incomplete",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 149373
+        },
+        {
+          "title": "Leave Mine to Me",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 127066
+        },
+        {
+          "title": "Stranger Than Fiction",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 140160
+        },
+        {
+          "title": "Tiny Voices",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 157133
+        },
+        {
+          "title": "The Handshake",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 169973
+        },
+        {
+          "title": "Better Off Dead",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 158826
+        },
+        {
+          "title": "Infected",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 249466
+        },
+        {
+          "title": "Television",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 123706
+        },
+        {
+          "title": "Individual",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 118133
+        },
+        {
+          "title": "Hooray for Me…",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 170493
+        },
+        {
+          "title": "Slumber",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 159773
+        },
+        {
+          "title": "Marked",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 108293
+        },
+        {
+          "title": "Inner Logic",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 177800
+        },
+        {
+          "title": "What It Is",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 128773
+        },
+        {
+          "title": "21st Century (Digital Boy)",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 167000
+        }
+      ]
+    },
+    {
+      "mbid": "76a692ee-0cfd-3346-b497-f182eb0e0833",
+      "releaseMbid": "0a6c4182-4d61-329e-8f80-4a4bfd3010ee",
+      "title": "The Gray Race",
+      "type": "ALBUM",
+      "releaseDate": "1996-02-22",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/76a692ee-0cfd-3346-b497-f182eb0e0833/front-1200",
+      "tracks": [
+        {
+          "title": "The Gray Race",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 126426
+        },
+        {
+          "title": "Them and Us",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 170573
+        },
+        {
+          "title": "A Walk",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 129026
+        },
+        {
+          "title": "Parallel",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 204800
+        },
+        {
+          "title": "Punk Rock Song",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 147173
+        },
+        {
+          "title": "Empty Causes",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 171693
+        },
+        {
+          "title": "Nobody Listens",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 117266
+        },
+        {
+          "title": "Pity the Dead",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 176333
+        },
+        {
+          "title": "Spirit Shine",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 131240
+        },
+        {
+          "title": "The Streets of America",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 229693
+        },
+        {
+          "title": "Ten in 2010",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 142266
+        },
+        {
+          "title": "Victory",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 156840
+        },
+        {
+          "title": "Drunk Sincerity",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 133066
+        },
+        {
+          "title": "Come Join Us",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 123666
+        },
+        {
+          "title": "Cease",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 155360
+        },
+        {
+          "title": "Punk Rock Song (German version)",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 147106
+        }
+      ]
+    },
+    {
+      "mbid": "d56c7a34-8f01-3639-89ec-0f2bdaecc1d4",
+      "releaseMbid": "19ac998f-1f9c-33ce-9629-eae0d6dde06e",
+      "title": "No Substance",
+      "type": "ALBUM",
+      "releaseDate": "1998-05-08",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d56c7a34-8f01-3639-89ec-0f2bdaecc1d4/front-1200",
+      "tracks": [
+        {
+          "title": "Hear It",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 109666
+        },
+        {
+          "title": "Shades of Truth",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 241573
+        },
+        {
+          "title": "All Fantastic Images",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 128866
+        },
+        {
+          "title": "The Biggest Killer in American History",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 134426
+        },
+        {
+          "title": "No Substance",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 184573
+        },
+        {
+          "title": "Raise Your Voice!",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 175693
+        },
+        {
+          "title": "Sowing the Seeds of Utopia",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 121066
+        },
+        {
+          "title": "The Hippy Killers",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 181040
+        },
+        {
+          "title": "The State of the End of the Millennium Address",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 142333
+        },
+        {
+          "title": "The Voracious March of Godliness",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 147933
+        },
+        {
+          "title": "Mediocre Minds",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 116626
+        },
+        {
+          "title": "Victims of the Revolution",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 197266
+        },
+        {
+          "title": "Strange Denial",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 182173
+        },
+        {
+          "title": "At the Mercy of Imbeciles",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 93960
+        },
+        {
+          "title": "The Same Person",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 169533
+        },
+        {
+          "title": "In So Many Ways",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 184666
+        }
+      ]
+    },
+    {
+      "mbid": "f97500ad-be25-3629-bc79-f725ecbbf259",
+      "releaseMbid": "79712a7f-9433-4579-a8ad-860c61d639df",
+      "title": "The New America",
+      "type": "ALBUM",
+      "releaseDate": "2000-05-09",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f97500ad-be25-3629-bc79-f725ecbbf259/front-1200",
+      "tracks": [
+        {
+          "title": "You’ve Got a Chance",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 221693
+        },
+        {
+          "title": "It’s a Long Way to the Promise Land",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 148640
+        },
+        {
+          "title": "A World Without Melody",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 152000
+        },
+        {
+          "title": "New America",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 204733
+        },
+        {
+          "title": "1000 Memories",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 180360
+        },
+        {
+          "title": "A Streetkid Named Desire",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 197400
+        },
+        {
+          "title": "Whisper in Time",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 152400
+        },
+        {
+          "title": "Believe It",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 221266
+        },
+        {
+          "title": "I Love My Computer",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 185666
+        },
+        {
+          "title": "The Hopeless Housewife",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 179200
+        },
+        {
+          "title": "There Will Be a Way",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 172733
+        },
+        {
+          "title": "Let It Burn",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 164040
+        },
+        {
+          "title": "Don’t Sell Me Short",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 237600
+        },
+        {
+          "title": "The Fast Life",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 121600
+        }
+      ]
+    },
+    {
+      "mbid": "65710bf2-af41-3bfb-b78a-2c1effeb9afc",
+      "releaseMbid": "6319b616-2c2a-44e8-aabf-6364190439f3",
+      "title": "The Process of Belief",
+      "type": "ALBUM",
+      "releaseDate": "2002-01-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/65710bf2-af41-3bfb-b78a-2c1effeb9afc/front-1200",
+      "tracks": [
+        {
+          "title": "Supersonic",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Prove It",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Can’t Stop It",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Broken",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Destined for Nothing",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Materialist",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Kyoto Now!",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Sorrow",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "Epiphany",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Evangeline",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": null
+        },
+        {
+          "title": "The Defense",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": null
+        },
+        {
+          "title": "The Lie",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": null
+        },
+        {
+          "title": "You Don’t Belong",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": null
+        },
+        {
+          "title": "Bored & Extremely Dangerous",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "b098e8a5-f4a3-444b-b8cd-e5b0410b7188",
+      "releaseMbid": "884b0851-df86-4920-a735-b48745e7eeba",
+      "title": "The Empire Strikes First",
+      "type": "ALBUM",
+      "releaseDate": "2004-06-02",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b098e8a5-f4a3-444b-b8cd-e5b0410b7188/front-1200",
+      "tracks": [
+        {
+          "title": "Overture",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 69333
+        },
+        {
+          "title": "Sinister Rouge",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 113600
+        },
+        {
+          "title": "Social Suicide",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 95000
+        },
+        {
+          "title": "Atheist Peace",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 117600
+        },
+        {
+          "title": "All There Is",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 177733
+        },
+        {
+          "title": "Los Angeles Is Burning",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 203733
+        },
+        {
+          "title": "Let Them Eat War",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 177693
+        },
+        {
+          "title": "God’s Love",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 152466
+        },
+        {
+          "title": "To Another Abyss",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 247640
+        },
+        {
+          "title": "The Quickening",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 139466
+        },
+        {
+          "title": "The Empire Strikes First",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 203400
+        },
+        {
+          "title": "Beyond Electric Dreams",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 242893
+        },
+        {
+          "title": "Boot Stamping on a Human Face Forever",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 229266
+        },
+        {
+          "title": "Live Again (The Fall of Man)",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 215840
+        }
+      ]
+    },
+    {
+      "mbid": "0152245f-5bc3-3971-a571-d6e773fb0bf2",
+      "releaseMbid": "6635021b-3cdb-4ca1-8a21-19e04be04adf",
+      "title": "New Maps of Hell",
+      "type": "ALBUM",
+      "releaseDate": "2007-07-04",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0152245f-5bc3-3971-a571-d6e773fb0bf2/front-1200",
+      "tracks": [
+        {
+          "title": "52 Seconds",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 58000
+        },
+        {
+          "title": "Heroes & Martyrs",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 86000
+        },
+        {
+          "title": "Germs of Perfection",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 88000
+        },
+        {
+          "title": "New Dark Ages",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 168000
+        },
+        {
+          "title": "Requiem for Dissent",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 128000
+        },
+        {
+          "title": "Before You Die",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 155000
+        },
+        {
+          "title": "Honest Goodbye",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 172000
+        },
+        {
+          "title": "Dearly Beloved",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 140000
+        },
+        {
+          "title": "Grains of Wrath",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 181000
+        },
+        {
+          "title": "Murder",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 79000
+        },
+        {
+          "title": "Scrutiny",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 157000
+        },
+        {
+          "title": "Prodigal Son",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 188000
+        },
+        {
+          "title": "The Grand Delusion",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 131000
+        },
+        {
+          "title": "Lost Pilgrim",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 148000
+        },
+        {
+          "title": "Submission Complete",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 221000
+        },
+        {
+          "title": "Fields of Mars",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 219000
+        },
+        {
+          "title": "Sorrow (acoustic)",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 198000
+        },
+        {
+          "title": "God Song (acoustic)",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 137000
+        }
+      ]
+    },
+    {
+      "mbid": "fff99720-f40d-4a56-bd24-b938a56d3571",
+      "releaseMbid": "e351c99a-7fcc-447a-b4b8-cb5567c577e5",
+      "title": "The Dissent of Man",
+      "type": "ALBUM",
+      "releaseDate": "2010-09-27",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/fff99720-f40d-4a56-bd24-b938a56d3571/front-1200",
+      "tracks": [
+        {
+          "title": "The Day That the Earth Stalled",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 86000
+        },
+        {
+          "title": "Only Rain",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 162000
+        },
+        {
+          "title": "The Resist Stance",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 153000
+        },
+        {
+          "title": "Won’t Somebody",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 163000
+        },
+        {
+          "title": "The Devil in Stitches",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 208000
+        },
+        {
+          "title": "Pride and the Pallor",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 179000
+        },
+        {
+          "title": "Wrong Way Kids",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 166000
+        },
+        {
+          "title": "Meeting of the Minds",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 127000
+        },
+        {
+          "title": "Someone to Believe",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 158000
+        },
+        {
+          "title": "Avalon",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 207000
+        },
+        {
+          "title": "Cyanide",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 235000
+        },
+        {
+          "title": "Turn Your Back on Me",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 144000
+        },
+        {
+          "title": "Ad Hominem",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 207000
+        },
+        {
+          "title": "Where the Fun Is",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 184000
+        },
+        {
+          "title": "I Won’t Say Anything",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 203000
+        },
+        {
+          "title": "Finite",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 234000
+        },
+        {
+          "title": "Best for You (live)",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 129000
+        },
+        {
+          "title": "Pessimistic Lines (live)",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 75000
+        },
+        {
+          "title": "How Much Is Enough? (live)",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 92000
+        },
+        {
+          "title": "Generator (live)",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 196000
+        }
+      ]
+    },
+    {
+      "mbid": "7899cb09-a886-4296-8b18-888e5607b269",
+      "releaseMbid": "4c52e7e6-1c4c-4539-baea-9b1a41512809",
+      "title": "True North",
+      "type": "ALBUM",
+      "releaseDate": "2013-01-18",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/7899cb09-a886-4296-8b18-888e5607b269/front-1200",
+      "tracks": [
+        {
+          "title": "True North",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 115000
+        },
+        {
+          "title": "Past Is Dead",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 158000
+        },
+        {
+          "title": "Robin Hood in Reverse",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 173213
+        },
+        {
+          "title": "Land of Endless Greed",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 113146
+        },
+        {
+          "title": "Fuck You",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 133000
+        },
+        {
+          "title": "Dharma and the Bomb",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 120346
+        },
+        {
+          "title": "Hello Cruel World",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 229000
+        },
+        {
+          "title": "Vanity",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 61000
+        },
+        {
+          "title": "In Their Hearts Is Right",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 119253
+        },
+        {
+          "title": "Crisis Time",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 159200
+        },
+        {
+          "title": "Dept. of False Hope",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 160213
+        },
+        {
+          "title": "Nothing to Dismay",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 126000
+        },
+        {
+          "title": "Popular Consensus",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 112000
+        },
+        {
+          "title": "My Head Is Full of Ghosts",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 106106
+        },
+        {
+          "title": "The Island",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 88040
+        },
+        {
+          "title": "Changing Tide",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 135000
+        }
+      ]
+    },
+    {
+      "mbid": "62a0b69c-a78d-4aa5-9da7-bdc176afec3c",
+      "releaseMbid": "0a62c4bf-343e-459b-968b-27908a4aabb4",
+      "title": "The Gray Race Demo Sessions",
+      "type": "ALBUM",
+      "releaseDate": "2019",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/62a0b69c-a78d-4aa5-9da7-bdc176afec3c/front-1200",
+      "tracks": [
+        {
+          "title": "Come Join Us",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Punk Rock Song",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Pity the Dead",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Empty Causes",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "A Walk",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Victory",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Ten in 2010",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Cease",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "Tested",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Strange Denial",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": null
+        },
+        {
+          "title": "Drunk Sincerity",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": null
+        },
+        {
+          "title": "The Streets of America",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": null
+        },
+        {
+          "title": "Them and Us",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": null
+        },
+        {
+          "title": "The Universal Cynic",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": null
+        },
+        {
+          "title": "Nobody Listens",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": null
+        },
+        {
+          "title": "The Gray Race",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": null
+        },
+        {
+          "title": "Parallel",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": null
+        },
+        {
+          "title": "Spirit Shine",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "5e344f80-fcf7-4bb3-b8ff-d3ba6e867578",
+      "releaseMbid": "8a4ad8be-ed85-4050-a53e-9b63a635d31e",
+      "title": "Age of Unreason",
+      "type": "ALBUM",
+      "releaseDate": "2019-05-03",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/5e344f80-fcf7-4bb3-b8ff-d3ba6e867578/front-1200",
+      "tracks": [
+        {
+          "title": "Chaos From Within",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 110000
+        },
+        {
+          "title": "My Sanity",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 178000
+        },
+        {
+          "title": "Do the Paranoid Style",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 106000
+        },
+        {
+          "title": "The Approach",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 146000
+        },
+        {
+          "title": "Lose Your Head",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 171000
+        },
+        {
+          "title": "End of History",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 167000
+        },
+        {
+          "title": "Age of Unreason",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 161000
+        },
+        {
+          "title": "Candidate",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 165000
+        },
+        {
+          "title": "Faces of Grief",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 65000
+        },
+        {
+          "title": "Old Regime",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 162000
+        },
+        {
+          "title": "Big Black Dog",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 126000
+        },
+        {
+          "title": "Downfall",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 156000
+        },
+        {
+          "title": "Since Now",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 104000
+        },
+        {
+          "title": "What Tomorrow Brings",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 189000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

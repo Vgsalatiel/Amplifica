@@ -1,0 +1,460 @@
+{
+  "generatedAt": "2026-11-19T18:49:45.493Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "e56ab1ae-1cfa-4d0e-b33b-af31bff677c7",
+    "name": "Falling in Reverse",
+    "slug": "falling-in-reverse",
+    "type": "BAND",
+    "country": "US",
+    "city": "Las Vegas",
+    "formedYear": 2008,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/e56ab1ae-1cfa-4d0e-b33b-af31bff677c7"
+      },
+      {
+        "name": "YouTube Music",
+        "url": "https://music.youtube.com/@FallingInReverse"
+      }
+    ],
+    "genres": [
+      "post-hardcore",
+      "metalcore",
+      "pop-punk"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "5fba5914-a33e-49b5-a809-21eecb9d8d99",
+      "releaseMbid": "1e76209b-199d-47cd-9ee7-01d9c30fea0d",
+      "title": "The Drug in Me Is You",
+      "type": "ALBUM",
+      "releaseDate": "2011-07-26",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/5fba5914-a33e-49b5-a809-21eecb9d8d99/front-1200",
+      "tracks": [
+        {
+          "title": "Raised by Wolves",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 202893
+        },
+        {
+          "title": "Tragic Magic",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 246133
+        },
+        {
+          "title": "The Drug in Me Is You",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 219386
+        },
+        {
+          "title": "I’m Not a Vampire",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 231840
+        },
+        {
+          "title": "Good Girls Bad Guys",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 195373
+        },
+        {
+          "title": "Pick Up the Phone",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 277626
+        },
+        {
+          "title": "Don’t Mess With Ouija Boards",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 295880
+        },
+        {
+          "title": "Sink or Swim",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 285480
+        },
+        {
+          "title": "Caught Like a Fly",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 276826
+        },
+        {
+          "title": "Goodbye Graceful",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 287960
+        },
+        {
+          "title": "The Westerner",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 231920
+        }
+      ]
+    },
+    {
+      "mbid": "3f54eb19-36b0-4554-9549-c937dbfa4aa7",
+      "releaseMbid": "75fc346b-9c1f-4b2b-a089-4cda6b955222",
+      "title": "Fashionably Late",
+      "type": "ALBUM",
+      "releaseDate": "2013-06-14",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/3f54eb19-36b0-4554-9549-c937dbfa4aa7/front-1200",
+      "tracks": [
+        {
+          "title": "Champion",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 242000
+        },
+        {
+          "title": "Bad Girls Club",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 221000
+        },
+        {
+          "title": "Rolling Stone",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 233000
+        },
+        {
+          "title": "Fashionably Late",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 213000
+        },
+        {
+          "title": "Alone",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 279077
+        },
+        {
+          "title": "Born to Lead",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 319000
+        },
+        {
+          "title": "It’s Over When It’s Over",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 233000
+        },
+        {
+          "title": "Game Over",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 190000
+        },
+        {
+          "title": "Self‐Destruct Personality",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 256000
+        },
+        {
+          "title": "Fuck the Rest",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 264000
+        },
+        {
+          "title": "Keep Holding On",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 297000
+        },
+        {
+          "title": "Drifter",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 166000
+        },
+        {
+          "title": "Where Have You Been",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 198000
+        },
+        {
+          "title": "Goddamn",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 194000
+        },
+        {
+          "title": "Rolling Stone (Shy Kidx remix)",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 280000
+        }
+      ]
+    },
+    {
+      "mbid": "492aacb9-8b31-431c-8cbd-cd1ff70ff418",
+      "releaseMbid": "ef6fc83e-daff-4747-93c0-0d417862176d",
+      "title": "Just Like You",
+      "type": "ALBUM",
+      "releaseDate": "2015-02-24",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Chemical Prisoner",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 260000
+        },
+        {
+          "title": "God, If You Are Above…",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 216000
+        },
+        {
+          "title": "Sexy Drug",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 194000
+        },
+        {
+          "title": "Just Like You",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 212000
+        },
+        {
+          "title": "Guillotine IV (The Final Chapter)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 215000
+        },
+        {
+          "title": "Stay Away",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 201000
+        },
+        {
+          "title": "Wait and See",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 278000
+        },
+        {
+          "title": "The Bitter End",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 243000
+        },
+        {
+          "title": "My Heart’s to Blame",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 229000
+        },
+        {
+          "title": "Get Me Out",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 225000
+        },
+        {
+          "title": "Die for You",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 224000
+        },
+        {
+          "title": "Brother",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 201000
+        }
+      ]
+    },
+    {
+      "mbid": "ca301966-5bf8-457c-a2e9-81ee47e5a564",
+      "releaseMbid": "bded1f72-28fd-45aa-b426-e1ac9370b72a",
+      "title": "Coming Home",
+      "type": "ALBUM",
+      "releaseDate": "2017-04-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ca301966-5bf8-457c-a2e9-81ee47e5a564/front-1200",
+      "tracks": [
+        {
+          "title": "Coming Home",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 294000
+        },
+        {
+          "title": "Broken",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 235000
+        },
+        {
+          "title": "Loser",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 253000
+        },
+        {
+          "title": "Fuck You and All Your Friends",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 191000
+        },
+        {
+          "title": "I Hate Everyone",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 219000
+        },
+        {
+          "title": "I’m Bad at Life",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 235000
+        },
+        {
+          "title": "Hanging On",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 228000
+        },
+        {
+          "title": "Superhero",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 193000
+        },
+        {
+          "title": "Straight to Hell",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 230000
+        },
+        {
+          "title": "I Don’t Mind",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 264000
+        },
+        {
+          "title": "The Departure",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 288000
+        },
+        {
+          "title": "Right Now",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 208000
+        },
+        {
+          "title": "Paparazzi",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 242000
+        }
+      ]
+    },
+    {
+      "mbid": "d14f7547-2dcf-4c74-800e-614723b2352b",
+      "releaseMbid": "126de5cb-8026-4a3e-af6a-2cbd3d20e721",
+      "title": "Popular Monster",
+      "type": "ALBUM",
+      "releaseDate": "2024-08-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d14f7547-2dcf-4c74-800e-614723b2352b/front-1200",
+      "tracks": [
+        {
+          "title": "Prequel",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 234013
+        },
+        {
+          "title": "Popular Monster",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 220533
+        },
+        {
+          "title": "All My Life",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 190240
+        },
+        {
+          "title": "Ronald",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 196746
+        },
+        {
+          "title": "Voices in My Head",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 191413
+        },
+        {
+          "title": "Bad Guy",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 157746
+        },
+        {
+          "title": "Watch the World Burn",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 203946
+        },
+        {
+          "title": "Trigger Warning",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 142040
+        },
+        {
+          "title": "Zombified",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 218520
+        },
+        {
+          "title": "No Fear",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 228826
+        },
+        {
+          "title": "Last Resort (reimagined)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 284733
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

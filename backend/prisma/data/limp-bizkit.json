@@ -1,0 +1,721 @@
+{
+  "generatedAt": "2026-11-19T18:54:31.973Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "8f9d6bb2-dba4-4cca-9967-cc02b9f4820c",
+    "name": "Limp Bizkit",
+    "slug": "limp-bizkit",
+    "type": "BAND",
+    "country": "US",
+    "city": "Jacksonville",
+    "formedYear": 1994,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/8f9d6bb2-dba4-4cca-9967-cc02b9f4820c"
+      }
+    ],
+    "genres": [
+      "nu-metal",
+      "metal"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "bb2e11ec-df8d-4bba-9aea-300d197ebef9",
+      "releaseMbid": "975fd9b9-5d62-49af-bd52-197a6e4ecb7d",
+      "title": "Three Dollar Bill, Yall$",
+      "type": "EP",
+      "releaseDate": "1996",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Counterfeit (demo)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 259240
+        },
+        {
+          "title": "Pollution (demo)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 271426
+        },
+        {
+          "title": "Stuck (demo)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 295490
+        }
+      ]
+    },
+    {
+      "mbid": "37e85bb0-e792-3a19-a3ca-593e2c4c026a",
+      "releaseMbid": "3c373a20-fda4-4780-82d7-4fb2132e4ed1",
+      "title": "Three Dollar Bill, Yall$",
+      "type": "ALBUM",
+      "releaseDate": "1997-06-24",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/37e85bb0-e792-3a19-a3ca-593e2c4c026a/front-1200",
+      "tracks": [
+        {
+          "title": "Intro",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 47973
+        },
+        {
+          "title": "Pollution",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 232666
+        },
+        {
+          "title": "Counterfeit",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 307960
+        },
+        {
+          "title": "Stuck",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 324000
+        },
+        {
+          "title": "Nobody Loves Me",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 267666
+        },
+        {
+          "title": "Sour",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 212866
+        },
+        {
+          "title": "Stalemate",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 374893
+        },
+        {
+          "title": "Clunk",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 243240
+        },
+        {
+          "title": "Faith",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 232333
+        },
+        {
+          "title": "Stinkfinger",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 183866
+        },
+        {
+          "title": "Indigo Flow",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 143293
+        },
+        {
+          "title": "Leech",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 131173
+        },
+        {
+          "title": "Everything",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 987000
+        }
+      ]
+    },
+    {
+      "mbid": "ee92f04c-0be5-4151-991d-a2a19348a91e",
+      "releaseMbid": "c5cf4184-bd34-4247-8e00-735136c022c2",
+      "title": "Re-Arranged",
+      "type": "EP",
+      "releaseDate": "1999",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ee92f04c-0be5-4151-991d-a2a19348a91e/front-1200",
+      "tracks": [
+        {
+          "title": "Re-Arranged",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 355000
+        },
+        {
+          "title": "N 2 Gether Now",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 236000
+        },
+        {
+          "title": "Crushed",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 206000
+        },
+        {
+          "title": "Faith",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 147000
+        },
+        {
+          "title": "Counterfeit (Phat Ass remix)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 184000
+        }
+      ]
+    },
+    {
+      "mbid": "2234d0c4-5ee5-3388-8baa-49bcb23ebbbd",
+      "releaseMbid": "cf3e8681-b4e1-4487-a2eb-80953c007df8",
+      "title": "Significant Other",
+      "type": "ALBUM",
+      "releaseDate": "1999-06-18",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/2234d0c4-5ee5-3388-8baa-49bcb23ebbbd/front-1200",
+      "tracks": [
+        {
+          "title": "Intro",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Just Like This",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Nookie",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Break Stuff",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Re‐Arranged",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "I’m Broke",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Nobody Like You",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Don’t Go Off Wandering",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "9 Teen 90 Nine",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "N 2 Gether Now",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Trust?",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "No Sex",
+          "discNumber": 2,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Show Me What You Got",
+          "discNumber": 2,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "A Lesson Learned",
+          "discNumber": 2,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Outro",
+          "discNumber": 2,
+          "position": 8,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "55203b2f-314b-39c2-9e48-56a95e41a337",
+      "releaseMbid": "65c48106-0c8f-4121-a6c9-d29d97ae283a",
+      "title": "Chocolate Starfish and the Hot Dog Flavored Water",
+      "type": "ALBUM",
+      "releaseDate": "2000-10-14",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/55203b2f-314b-39c2-9e48-56a95e41a337/front-1200",
+      "tracks": [
+        {
+          "title": "Intro",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 78760
+        },
+        {
+          "title": "Hot Dog",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 230240
+        },
+        {
+          "title": "My Generation",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 221000
+        },
+        {
+          "title": "Full Nelson",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 247360
+        },
+        {
+          "title": "My Way",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 272973
+        },
+        {
+          "title": "Rollin’ (Air Raid Vehicle)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 213760
+        },
+        {
+          "title": "Livin’ It Up",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 264040
+        },
+        {
+          "title": "The One",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 343360
+        },
+        {
+          "title": "Getcha Groove On",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 269466
+        },
+        {
+          "title": "Take a Look Around",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 321040
+        },
+        {
+          "title": "It’ll Be OK",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 306226
+        },
+        {
+          "title": "Boiler",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 420266
+        },
+        {
+          "title": "Hold On",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 347573
+        },
+        {
+          "title": "Rollin’ (Urban Assault Vehicle)",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 382826
+        },
+        {
+          "title": "Outro",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 589773
+        }
+      ]
+    },
+    {
+      "mbid": "1a7f7f9f-36b8-3a22-b75c-431de63e068e",
+      "releaseMbid": "3084a890-6c2e-4eb8-abca-e6a19cdcacde",
+      "title": "Results May Vary",
+      "type": "ALBUM",
+      "releaseDate": "2003-05-28",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/1a7f7f9f-36b8-3a22-b75c-431de63e068e/front-1200",
+      "tracks": [
+        {
+          "title": "Re-Entry",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 157626
+        },
+        {
+          "title": "Eat You Alive",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 237666
+        },
+        {
+          "title": "Gimme the Mic",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 185066
+        },
+        {
+          "title": "Underneath the Gun",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 342400
+        },
+        {
+          "title": "Down Another Day",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 246240
+        },
+        {
+          "title": "Almost Over",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 278666
+        },
+        {
+          "title": "Build a Bridge",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 236733
+        },
+        {
+          "title": "Red Light-Green Light",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 336293
+        },
+        {
+          "title": "The Only One",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 248840
+        },
+        {
+          "title": "Let Me Down",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 256226
+        },
+        {
+          "title": "Lonely World",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 273600
+        },
+        {
+          "title": "Phenomenon",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 239533
+        },
+        {
+          "title": "Creamer (Radio Is Dead)",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 270866
+        },
+        {
+          "title": "Head for the Barricade",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 214733
+        },
+        {
+          "title": "Behind Blue Eyes",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 365800
+        },
+        {
+          "title": "Drown",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 230707
+        }
+      ]
+    },
+    {
+      "mbid": "7377fe50-4c75-36c9-a1cd-79cfce2166f6",
+      "releaseMbid": "637ba971-bfcd-4fea-a2e1-0dd9ebd72fe6",
+      "title": "The Unquestionable Truth, Part 1",
+      "type": "EP",
+      "releaseDate": "2005-05-02",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/7377fe50-4c75-36c9-a1cd-79cfce2166f6/front-1200",
+      "tracks": [
+        {
+          "title": "The Propaganda",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 316360
+        },
+        {
+          "title": "The Truth",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 328600
+        },
+        {
+          "title": "The Priest",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 297613
+        },
+        {
+          "title": "The Key",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 84480
+        },
+        {
+          "title": "The Channel",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 281080
+        },
+        {
+          "title": "The Story",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 236400
+        },
+        {
+          "title": "The Surrender",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 237906
+        }
+      ]
+    },
+    {
+      "mbid": "bf5318e4-4842-4010-8113-7981cc5f87fe",
+      "releaseMbid": "e28bc2b0-19be-4fb5-b33a-0d1e95a394d1",
+      "title": "Gold Cobra",
+      "type": "ALBUM",
+      "releaseDate": "2011-06-24",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/bf5318e4-4842-4010-8113-7981cc5f87fe/front-1200",
+      "tracks": [
+        {
+          "title": "Introbra",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 80666
+        },
+        {
+          "title": "Bring It Back",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 137546
+        },
+        {
+          "title": "Gold Cobra",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 233533
+        },
+        {
+          "title": "Shark Attack",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 206626
+        },
+        {
+          "title": "Get a Life",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 294133
+        },
+        {
+          "title": "Shotgun",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 272946
+        },
+        {
+          "title": "Douche Bag",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 222146
+        },
+        {
+          "title": "Walking Away",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 285573
+        },
+        {
+          "title": "Loser",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 293493
+        },
+        {
+          "title": "Autotunage",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 300213
+        },
+        {
+          "title": "90.2.10",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 258160
+        },
+        {
+          "title": "Why Try",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 171333
+        },
+        {
+          "title": "Killer in You",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 226066
+        }
+      ]
+    },
+    {
+      "mbid": "39bcad85-bc28-4b8c-beec-04573bdf4dc9",
+      "releaseMbid": "7dfe0e1f-be0e-45fc-9cd5-c39cab5a34b2",
+      "title": "Still Sucks",
+      "type": "ALBUM",
+      "releaseDate": "2021-10-31",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/39bcad85-bc28-4b8c-beec-04573bdf4dc9/front-1200",
+      "tracks": [
+        {
+          "title": "Out of Style",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 202000
+        },
+        {
+          "title": "Dirty Rotten Bizkit",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 181000
+        },
+        {
+          "title": "Dad Vibes",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 132000
+        },
+        {
+          "title": "Turn It Up, Bitch",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 140000
+        },
+        {
+          "title": "Don’t Change",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 175000
+        },
+        {
+          "title": "You Bring Out the Worst in Me",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 192000
+        },
+        {
+          "title": "Love the Hate",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 116000
+        },
+        {
+          "title": "Barnacle",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 115000
+        },
+        {
+          "title": "Empty Hole",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 112000
+        },
+        {
+          "title": "Pill Popper",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 144000
+        },
+        {
+          "title": "Snacky Poo",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 251000
+        },
+        {
+          "title": "Goodbye",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 155000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

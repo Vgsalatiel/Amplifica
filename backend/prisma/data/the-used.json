@@ -1,0 +1,1265 @@
+{
+  "generatedAt": "2026-11-19T18:49:19.102Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "8262d8e4-9137-4bb3-a787-3caabbbc13e9",
+    "name": "The Used",
+    "slug": "the-used",
+    "type": "BAND",
+    "country": "US",
+    "city": "Orem",
+    "formedYear": 2001,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/8262d8e4-9137-4bb3-a787-3caabbbc13e9"
+      },
+      {
+        "name": "YouTube Music",
+        "url": "https://music.youtube.com/@theusedchannel"
+      }
+    ],
+    "genres": [
+      "post-hardcore",
+      "emo",
+      "alternative-rock"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "177629b6-4ba1-41b6-be27-92c12bda37f7",
+      "releaseMbid": "4374f95a-ae7b-4574-90c0-084250883483",
+      "title": "USED",
+      "type": "ALBUM",
+      "releaseDate": "2001",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Maybe Memories",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 157000
+        },
+        {
+          "title": "The Taste of Ink",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 161000
+        },
+        {
+          "title": "Say Days Ago",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 195000
+        },
+        {
+          "title": "Poetic Tragedy",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 237000
+        },
+        {
+          "title": "A Box Full of Sharp Objects",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 139000
+        },
+        {
+          "title": "Just a Little",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 176000
+        },
+        {
+          "title": "It Could Be a Good Excuse",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 173000
+        },
+        {
+          "title": "Zero Mechanism",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 159000
+        },
+        {
+          "title": "Greener With the Scenery",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 196000
+        },
+        {
+          "title": "Pieces Mended",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 200000
+        }
+      ]
+    },
+    {
+      "mbid": "5a0f4d73-e962-354f-90bc-29654dd90fae",
+      "releaseMbid": "121e9f05-a568-4ef6-b96c-d6fcb053bdc1",
+      "title": "Something to Burn",
+      "type": "ALBUM",
+      "releaseDate": "2002",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Intro",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 14485
+        },
+        {
+          "title": "Maybe Memories",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 161628
+        },
+        {
+          "title": "The Taste of Ink",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 218720
+        },
+        {
+          "title": "A Box Full of Sharp Objects",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 176355
+        },
+        {
+          "title": "Share with Me (Noise and Kisses)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 170991
+        },
+        {
+          "title": "Goodbye to You (Bulimic)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 199772
+        },
+        {
+          "title": "Poetic Tragedy",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 223979
+        },
+        {
+          "title": "Buried Myself Alive",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 241998
+        },
+        {
+          "title": "Say Days Ago",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 195837
+        },
+        {
+          "title": "Looking for it (Blue and Yellow)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 201560
+        },
+        {
+          "title": "On My Own",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 162992
+        },
+        {
+          "title": "Pieces Mended",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 194989
+        },
+        {
+          "title": "Interlude (Polly)",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 116488
+        },
+        {
+          "title": "So Crazy (Choke Me)",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 122990
+        },
+        {
+          "title": "Circles (Greener With the Scenery)",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 218792
+        },
+        {
+          "title": "Looking For It (Blue and Yellow) (Alternate Mix)",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 201124
+        },
+        {
+          "title": "So Crazy (Choke Me) (Alternate Mix)",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 123018
+        },
+        {
+          "title": "Circles (Greener With the Scenery) (Alternate Mix)",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 218835
+        }
+      ]
+    },
+    {
+      "mbid": "2c578537-d479-3345-a1cd-2bd424619ce7",
+      "releaseMbid": "ed87b9a4-08d7-44b0-9af9-30e0ca325418",
+      "title": "The Used",
+      "type": "ALBUM",
+      "releaseDate": "2002-06-25",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/2c578537-d479-3345-a1cd-2bd424619ce7/front-1200",
+      "tracks": [
+        {
+          "title": "Maybe Memories",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 175133
+        },
+        {
+          "title": "The Taste of Ink",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 208693
+        },
+        {
+          "title": "Bulimic",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 200333
+        },
+        {
+          "title": "Say Days Ago",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 197866
+        },
+        {
+          "title": "Poetic Tragedy",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 224000
+        },
+        {
+          "title": "Buried Myself Alive",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 242133
+        },
+        {
+          "title": "A Box Full of Sharp Objects",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 176373
+        },
+        {
+          "title": "Blue and Yellow",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 201426
+        },
+        {
+          "title": "Greener With the Scenery",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 217640
+        },
+        {
+          "title": "Noise and Kisses",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 169160
+        },
+        {
+          "title": "On My Own",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 163333
+        },
+        {
+          "title": "Pieces Mended",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 660373
+        }
+      ]
+    },
+    {
+      "mbid": "f9d76741-7b7a-30f3-beb0-f90f5e6986f1",
+      "releaseMbid": "0b566da8-c18c-4297-bb27-1b09892274a1",
+      "title": "In Love and Death",
+      "type": "ALBUM",
+      "releaseDate": "2004-09-27",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f9d76741-7b7a-30f3-beb0-f90f5e6986f1/front-1200",
+      "tracks": [
+        {
+          "title": "Take It Away",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 218000
+        },
+        {
+          "title": "I Caught Fire",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 205000
+        },
+        {
+          "title": "Let It Bleed",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 191000
+        },
+        {
+          "title": "All That I’ve Got",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 239000
+        },
+        {
+          "title": "Cut Up Angels",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 227000
+        },
+        {
+          "title": "Listening",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 166000
+        },
+        {
+          "title": "Yesterday’s Feelings",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 168000
+        },
+        {
+          "title": "Light With a Sharpened Edge",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 210000
+        },
+        {
+          "title": "Sound Effects and Overdramatics",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 209000
+        },
+        {
+          "title": "Hard to Say",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 210000
+        },
+        {
+          "title": "Lunacy Fringe",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 221000
+        },
+        {
+          "title": "I’m a Fake",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 246000
+        }
+      ]
+    },
+    {
+      "mbid": "60e8359a-1062-3597-9dc2-a3516126c115",
+      "releaseMbid": "fb8cb30c-0bbb-3a46-9c54-08edafc82344",
+      "title": "Lies for the Liars",
+      "type": "ALBUM",
+      "releaseDate": "2007-05-18",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/60e8359a-1062-3597-9dc2-a3516126c115/front-1200",
+      "tracks": [
+        {
+          "title": "The Ripper",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 176266
+        },
+        {
+          "title": "Pretty Handsome Awkward",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 212840
+        },
+        {
+          "title": "The Bird and the Worm",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 226066
+        },
+        {
+          "title": "Earthquake",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 209440
+        },
+        {
+          "title": "Hospital",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 177920
+        },
+        {
+          "title": "Paralyzed",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 193733
+        },
+        {
+          "title": "With Me Tonight",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 186200
+        },
+        {
+          "title": "Wake the Dead",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 254066
+        },
+        {
+          "title": "Find a Way",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 203333
+        },
+        {
+          "title": "Liar Liar (Burn in Hell)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 177066
+        },
+        {
+          "title": "Smother Me / Queso",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 377680
+        }
+      ]
+    },
+    {
+      "mbid": "8cc0a477-0ec2-327a-adc1-ffee9a120051",
+      "releaseMbid": "ea4193b8-67d7-4017-9e6b-ef286555a5b3",
+      "title": "Shallow Believer",
+      "type": "EP",
+      "releaseDate": "2008-02-19",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/8cc0a477-0ec2-327a-adc1-ffee9a120051/front-1200",
+      "tracks": [
+        {
+          "title": "Dark Days",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 229000
+        },
+        {
+          "title": "Slit Your Own Throat",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 186000
+        },
+        {
+          "title": "Devil Beside You",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 227000
+        },
+        {
+          "title": "Into My Web",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 219000
+        },
+        {
+          "title": "My Pesticide",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 187000
+        },
+        {
+          "title": "Choke Me",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 122000
+        },
+        {
+          "title": "Sun Comes Up",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 239000
+        },
+        {
+          "title": "Sick Hearts",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 209000
+        },
+        {
+          "title": "The Back of Your Mouth",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 201000
+        },
+        {
+          "title": "Tunnel",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 224000
+        }
+      ]
+    },
+    {
+      "mbid": "9988beec-8273-4b57-977e-3fac4f9a8d3a",
+      "releaseMbid": "13bd1f21-7547-42da-b364-0e7094e81ce7",
+      "title": "Artwork",
+      "type": "ALBUM",
+      "releaseDate": "2009-08-10",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/9988beec-8273-4b57-977e-3fac4f9a8d3a/front-1200",
+      "tracks": [
+        {
+          "title": "Blood on My Hands",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 197866
+        },
+        {
+          "title": "Empty With You",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 203520
+        },
+        {
+          "title": "Born to Quit",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 213946
+        },
+        {
+          "title": "Kissing You Goodbye",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 248720
+        },
+        {
+          "title": "Sold My Soul",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 252453
+        },
+        {
+          "title": "Watered Down",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 237520
+        },
+        {
+          "title": "On the Cross",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 187253
+        },
+        {
+          "title": "Come Undone",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 203706
+        },
+        {
+          "title": "Meant to Die",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 226080
+        },
+        {
+          "title": "The Best of Me",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 269226
+        },
+        {
+          "title": "Men Are All the Same",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 354426
+        }
+      ]
+    },
+    {
+      "mbid": "1b568b0e-b4e1-423f-a89a-28d87d8280c9",
+      "releaseMbid": "4502e037-d248-4dd1-9b6e-5e4cce1a5aeb",
+      "title": "Untitled",
+      "type": "EP",
+      "releaseDate": "2010-03-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/1b568b0e-b4e1-423f-a89a-28d87d8280c9/front-1200",
+      "tracks": [
+        {
+          "title": "In a Needle",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 236000
+        },
+        {
+          "title": "On the Cross [Save Yourself mix]",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 183000
+        }
+      ]
+    },
+    {
+      "mbid": "d65eda59-cdba-4541-babd-b1a657ede2c3",
+      "releaseMbid": "12872c3d-09b9-4a4a-a68a-ade6fcdc50a6",
+      "title": "The Bird and the Worm",
+      "type": "EP",
+      "releaseDate": "2010-03-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d65eda59-cdba-4541-babd-b1a657ede2c3/front-1200",
+      "tracks": [
+        {
+          "title": "The Bird and the Worm (album version)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 225000
+        },
+        {
+          "title": "The Bird and the Worm (a cappella)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 221000
+        },
+        {
+          "title": "The Bird and the Worm (instrumental)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 226000
+        }
+      ]
+    },
+    {
+      "mbid": "dd410749-443c-4708-bf8f-ae095f263d31",
+      "releaseMbid": "c9df3f0b-a82a-4e0c-91db-e5bd88ddf45a",
+      "title": "Vulnerable",
+      "type": "ALBUM",
+      "releaseDate": "2012-03-26",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/dd410749-443c-4708-bf8f-ae095f263d31/front-1200",
+      "tracks": [
+        {
+          "title": "I Come Alive",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 196306
+        },
+        {
+          "title": "This Fire",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 194666
+        },
+        {
+          "title": "Hands and Faces",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 205813
+        },
+        {
+          "title": "Put Me Out",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 242306
+        },
+        {
+          "title": "Shine",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 243973
+        },
+        {
+          "title": "Now That You’re Dead",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 246720
+        },
+        {
+          "title": "Give Me Love",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 198546
+        },
+        {
+          "title": "Moving On",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 241146
+        },
+        {
+          "title": "Getting Over You",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 225560
+        },
+        {
+          "title": "Kiss It Goodbye",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 203333
+        },
+        {
+          "title": "Hurt No One",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 200840
+        },
+        {
+          "title": "Together Burning Bright",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 234386
+        },
+        {
+          "title": "Machine",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 242093
+        },
+        {
+          "title": "Disaster",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 199346
+        },
+        {
+          "title": "Put Me Out (acoustic)",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 229893
+        },
+        {
+          "title": "I Come Alive (acoustic)",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 183360
+        },
+        {
+          "title": "Together Burning Bright (acoustic)",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 239653
+        }
+      ]
+    },
+    {
+      "mbid": "0db708aa-2c70-44f2-8ec3-280476b85c3d",
+      "releaseMbid": "c5cbdc32-e75d-4e29-a489-ad3411062a69",
+      "title": "The Ocean of the Sky",
+      "type": "EP",
+      "releaseDate": "2013-07-09",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0db708aa-2c70-44f2-8ec3-280476b85c3d/front-1200",
+      "tracks": [
+        {
+          "title": "Iddy Biddy",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 201000
+        },
+        {
+          "title": "Quixotica",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 217000
+        },
+        {
+          "title": "Thought Criminal",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 286000
+        },
+        {
+          "title": "The Ocean of the Sky",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 495000
+        },
+        {
+          "title": "Tethys",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 1228000
+        }
+      ]
+    },
+    {
+      "mbid": "4879bb52-ca44-42cb-8563-e70a5f72f1db",
+      "releaseMbid": "b39a9aa1-0b78-426c-9764-b91d3b995656",
+      "title": "Imaginary Enemy",
+      "type": "ALBUM",
+      "releaseDate": "2014-04-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4879bb52-ca44-42cb-8563-e70a5f72f1db/front-1200",
+      "tracks": [
+        {
+          "title": "Revolution",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 244680
+        },
+        {
+          "title": "Cry",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 210133
+        },
+        {
+          "title": "El-Oh-Vee-Ee",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 212920
+        },
+        {
+          "title": "A Song to Stifle Imperial Progression (A Work in Progress)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 245960
+        },
+        {
+          "title": "Generation Throwaway",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 185813
+        },
+        {
+          "title": "Make Believe",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 207080
+        },
+        {
+          "title": "Evolution",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 278267
+        },
+        {
+          "title": "Imaginary Enemy",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 204973
+        },
+        {
+          "title": "Kenna Song",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 260827
+        },
+        {
+          "title": "Force Without Violence",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 323413
+        },
+        {
+          "title": "Overdose",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 881249
+        }
+      ]
+    },
+    {
+      "mbid": "d95672cc-f93e-4db2-ac89-9793fe0f14a8",
+      "releaseMbid": "90d20368-5313-4852-87b3-60d34171e550",
+      "title": "The Canyon",
+      "type": "ALBUM",
+      "releaseDate": "2017-10-27",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d95672cc-f93e-4db2-ac89-9793fe0f14a8/front-1200",
+      "tracks": [
+        {
+          "title": "For You",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 275653
+        },
+        {
+          "title": "Cold War Telescreen",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 281880
+        },
+        {
+          "title": "Broken Windows",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 285186
+        },
+        {
+          "title": "Rise Up Lights",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 208786
+        },
+        {
+          "title": "Vertigo Cave",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 265826
+        },
+        {
+          "title": "Pretty Picture",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 251360
+        },
+        {
+          "title": "Funeral Post",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 319560
+        },
+        {
+          "title": "Upper Falls",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 334186
+        },
+        {
+          "title": "The Divine Absence (This Is Water)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 300840
+        },
+        {
+          "title": "Selfies in Aleppo",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": 273000
+        },
+        {
+          "title": "Moving the Mountain (Odysseus Surrenders)",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": 256000
+        },
+        {
+          "title": "Over and Over Again",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": 314000
+        },
+        {
+          "title": "The Quiet War",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": 251000
+        },
+        {
+          "title": "Moon-Dream",
+          "discNumber": 2,
+          "position": 5,
+          "durationMs": 285000
+        },
+        {
+          "title": "The Nexus",
+          "discNumber": 2,
+          "position": 6,
+          "durationMs": 281000
+        },
+        {
+          "title": "About You (No Songs Left to Sing)",
+          "discNumber": 2,
+          "position": 7,
+          "durationMs": 227000
+        },
+        {
+          "title": "The Mouth of the Canyon",
+          "discNumber": 2,
+          "position": 8,
+          "durationMs": 333000
+        }
+      ]
+    },
+    {
+      "mbid": "e5540cfd-9da2-4928-9f5e-1a85c6bebf5e",
+      "releaseMbid": "181f3c84-5008-40da-ac70-995ce5c01f31",
+      "title": "Heartwork",
+      "type": "ALBUM",
+      "releaseDate": "2020-04-24",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/e5540cfd-9da2-4928-9f5e-1a85c6bebf5e/front-1200",
+      "tracks": [
+        {
+          "title": "Paradise Lost (a poem by John Milton)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 169160
+        },
+        {
+          "title": "Blow Me",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 200760
+        },
+        {
+          "title": "Big, Wanna Be",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 210160
+        },
+        {
+          "title": "Bloody Nose",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 184106
+        },
+        {
+          "title": "Wow, I Hate This Song",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 176866
+        },
+        {
+          "title": "My Cocoon",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 60906
+        },
+        {
+          "title": "Cathedral Bell",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 184706
+        },
+        {
+          "title": "1984 (infinite jest)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 164320
+        },
+        {
+          "title": "Gravity’s Rainbow",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 254026
+        },
+        {
+          "title": "Clean Cut Heals",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 171760
+        },
+        {
+          "title": "Heartwork",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 82973
+        },
+        {
+          "title": "The Lighthouse",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 171746
+        },
+        {
+          "title": "Obvious Blasé",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 172880
+        },
+        {
+          "title": "The Lottery",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 164440
+        },
+        {
+          "title": "Darkness Bleeds, FOTF",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 241466
+        },
+        {
+          "title": "To Feel Something",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 176906
+        }
+      ]
+    },
+    {
+      "mbid": "3edcef50-8395-47e4-a743-65493dc2e00d",
+      "releaseMbid": "729b0954-a0e2-48da-b093-8d64317c043d",
+      "title": "Toxic Positivity",
+      "type": "ALBUM",
+      "releaseDate": "2023-05-19",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/3edcef50-8395-47e4-a743-65493dc2e00d/front-1200",
+      "tracks": [
+        {
+          "title": "Worst I’ve Ever Been",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 170000
+        },
+        {
+          "title": "Numb",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 174000
+        },
+        {
+          "title": "I Hate Everybody",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 168000
+        },
+        {
+          "title": "Pinky Swear",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 133000
+        },
+        {
+          "title": "Headspace",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 215000
+        },
+        {
+          "title": "Cherry",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 175000
+        },
+        {
+          "title": "Dopamine",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 157000
+        },
+        {
+          "title": "Dancing With a Brick Wall",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 159000
+        },
+        {
+          "title": "Top of the World",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 176000
+        },
+        {
+          "title": "House of Sand",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 120000
+        },
+        {
+          "title": "Giving Up",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 190000
+        }
+      ]
+    },
+    {
+      "mbid": "5d520ec4-edcc-425a-87dd-b505c178c88c",
+      "releaseMbid": "eec3e7df-dfa2-436f-bc6c-6d4d19318923",
+      "title": "MEDZ",
+      "type": "ALBUM",
+      "releaseDate": "2024-06-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/5d520ec4-edcc-425a-87dd-b505c178c88c/front-1200",
+      "tracks": [
+        {
+          "title": "MEDZ",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 165868
+        },
+        {
+          "title": "Fuck You",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 177600
+        },
+        {
+          "title": "People Are Vomit",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 172146
+        },
+        {
+          "title": "Sisyphus",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 179147
+        },
+        {
+          "title": "Depression Personified",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 170484
+        },
+        {
+          "title": "Terrified",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 183044
+        },
+        {
+          "title": "Before I Leave",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 197966
+        },
+        {
+          "title": "Take Yourself Out",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 175272
+        },
+        {
+          "title": "Tell Me",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 159378
+        },
+        {
+          "title": "Pain Is My Therapy",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 168500
+        }
+      ]
+    }
+  ],
+  "pending": []
+}
