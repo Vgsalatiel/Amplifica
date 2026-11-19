@@ -29,10 +29,11 @@ describe('Carga de imagens (e2e)', () => {
     }
     return make();
   };
-  const load = (manifest: ImageManifest, replace = false) =>
+  const load = (manifest: ImageManifest, replace = false, only?: string[]) =>
     loadImages({ prisma, images, readFile }, manifest, {
       baseDir: '/pasta',
       replace,
+      only,
     });
 
   const manifest: ImageManifest = {
@@ -119,6 +120,28 @@ describe('Carga de imagens (e2e)', () => {
     expect(report.missing).toEqual(['e2e-nao-existe']);
     expect(report.failed).toHaveLength(1);
     expect(report.failed[0]).toMatch(/e2e-banda-foto.*ENOENT/);
+  });
+
+  it('only carrega só as bandas pedidas e deixa as outras do manifesto de lado', async () => {
+    await prisma.artist.create({
+      data: { name: 'E2E Banda So Uma', slug: 'e2e-banda-so-uma' },
+    });
+    const report = await load(
+      {
+        artists: [
+          { slug: 'e2e-banda-so-uma', file: 'banda.png' },
+          { slug: 'e2e-banda-foto', file: 'outra.png' },
+        ],
+        releases: [],
+      },
+      true,
+      ['e2e-banda-so-uma'],
+    );
+    expect(report.stored).toEqual(['e2e-banda-so-uma']);
+    const other = await prisma.artist.findUniqueOrThrow({
+      where: { slug: 'e2e-banda-foto' },
+    });
+    expect(other.imagePath).not.toBeNull();
   });
 
   describe('crédito da foto', () => {

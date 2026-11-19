@@ -2,7 +2,13 @@
   "artists": [
     {
       "slug": "american-football",
-      "file": "americanFootball/American-Football-tour.webp"
+      "file": "livres/american-football.jpg",
+      "credit": {
+        "author": "Andy Witchger",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mike_Kinsella,_American_Football_-_First_Avenue_-_Minnesota_-_Band_-_Reunion_5_17.jpg"
+      }
     },
     {
       "slug": "b5",
@@ -14,7 +20,13 @@
     },
     {
       "slug": "black-flag",
-      "file": "blackflag/Black_Flag_logo.jpg"
+      "file": "livres/black-flag.jpg",
+      "credit": {
+        "author": "Robxwallace",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Black_Flag_-_2019.jpg"
+      }
     },
     {
       "slug": "bullet-bane",
@@ -22,11 +34,23 @@
     },
     {
       "slug": "charlie-brown-jr",
-      "file": "CharlieBrownJunior/CHARLIE.jpg"
+      "file": "livres/charlie-brown-jr.jpg",
+      "credit": {
+        "author": "Editorial J from Porto Alegre, Brasil",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charlie_Brown_Jr._2012.jpg"
+      }
     },
     {
       "slug": "cpm-22",
-      "file": "CPM22/cpm22.jpg"
+      "file": "livres/cpm-22.jpg",
+      "credit": {
+        "author": "Cristian Janke",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Badau%C3%AD_-_CPM_22.jpg"
+      }
     },
     {
       "slug": "dance-of-days",
@@ -34,11 +58,23 @@
     },
     {
       "slug": "dead-fish",
-      "file": "deadfish/deadfish.avif"
+      "file": "livres/dead-fish.jpg",
+      "credit": {
+        "author": "tatu43",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dead_Fish_(outubro_de_2007).jpg"
+      }
     },
     {
       "slug": "fresno",
-      "file": "fresno/fresno.jpeg"
+      "file": "livres/fresno.jpg",
+      "credit": {
+        "author": "Luiz Alberto Fiebig Junior from Porto Alegre, Brasil",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:FresnoBanda.jpg"
+      }
     },
     {
       "slug": "gloria",
@@ -46,7 +82,13 @@
     },
     {
       "slug": "green-day",
-      "file": "green day/green_day_warner_records_por_alice_baxley.webp"
+      "file": "livres/green-day.jpg",
+      "credit": {
+        "author": "ECarterSterling",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Green_Day_-_Hella_Mega_Tour_-_August_10,_2021.jpg"
+      }
     },
     {
       "slug": "hateen",
@@ -66,7 +108,13 @@
     },
     {
       "slug": "rancore",
-      "file": "rancore/rancore-formacao-2024.webp"
+      "file": "livres/rancore.jpg",
+      "credit": {
+        "author": "marlise rodrigues from brasil",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rancore._(1099381998).jpg"
+      }
     },
     {
       "slug": "rolima",
@@ -78,7 +126,13 @@
     },
     {
       "slug": "venere-vai-venus",
-      "file": "venereVaiVenus/0e3491174ef0bb4e2fa05dd2d95657c4.avif"
+      "file": "livres/venere-vai-venus.png",
+      "credit": {
+        "author": "Felipe Morota",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Venere_Vai_Venus_2026.png"
+      }
     },
     {
       "slug": "forfun",
@@ -798,6 +852,16 @@
         "license": "CC BY-SA 4.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blink-182_2015-03-22_02.JPG"
+      }
+    },
+    {
+      "slug": "bring-me-the-horizon",
+      "file": "livres/bring-me-the-horizon.jpg",
+      "credit": {
+        "author": "Birgit Fostervold",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bring_Me_The_Horizon_Tons_of_Rock_2026.jpg"
       }
     }
   ],

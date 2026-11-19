@@ -93,3 +93,23 @@ Baixadas do Wikimedia Commons em até 1280 px, guardadas em `frontend/img/bandas
 | Upon a Burning Body | Jax 0677 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Upon A Burning Body Mayhemfest 2014.jpg](https://commons.wikimedia.org/wiki/File:Upon_A_Burning_Body_Mayhemfest_2014.jpg) |
 | While She Sleeps | Sebastian Hansen | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Sänger Lawrence Taylor der Metalband While She Sleeps im Palladium Köln.jpg](https://commons.wikimedia.org/wiki/File:S%C3%A4nger_Lawrence_Taylor_der_Metalband_While_She_Sleeps_im_Palladium_K%C3%B6ln.jpg) |
 | Yellowcard | IllaZilla | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Yellowcard 2012-06-27 02.JPG](https://commons.wikimedia.org/wiki/File:Yellowcard_2012-06-27_02.JPG) |
+
+
+## Fotos antigas trocadas por fotos livres (19/11/2026)
+
+Estas 10 bandas tinham foto de origem desconhecida ou de fotógrafo/gravadora, sem crédito (veja `docs/imagens-direitos.md`). Foram trocadas por fotos com licença livre do Wikimedia Commons, com crédito na página da banda.
+
+| Banda | Autor | Licença | Original | Substitui |
+|---|---|---|---|---|
+| American Football | Andy Witchger | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Mike Kinsella, American Football - First Avenue - Minnesota - Band - Reunion 5 17.jpg](https://commons.wikimedia.org/wiki/File:Mike_Kinsella,_American_Football_-_First_Avenue_-_Minnesota_-_Band_-_Reunion_5_17.jpg) | `americanFootball/American-Football-tour.webp` |
+| Black Flag | Robxwallace | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Black Flag - 2019.jpg](https://commons.wikimedia.org/wiki/File:Black_Flag_-_2019.jpg) | `blackflag/Black_Flag_logo.jpg` |
+| Bring Me the Horizon | Birgit Fostervold | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Bring Me The Horizon Tons of Rock 2026.jpg](https://commons.wikimedia.org/wiki/File:Bring_Me_The_Horizon_Tons_of_Rock_2026.jpg) | `(foto enviada antes, fora do manifesto)` |
+| CPM 22 | Cristian Janke | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Badauí - CPM 22.jpg](https://commons.wikimedia.org/wiki/File:Badau%C3%AD_-_CPM_22.jpg) | `CPM22/cpm22.jpg` |
+| Charlie Brown Jr | Editorial J from Porto Alegre, Brasil | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Charlie Brown Jr. 2012.jpg](https://commons.wikimedia.org/wiki/File:Charlie_Brown_Jr._2012.jpg) | `CharlieBrownJunior/CHARLIE.jpg` |
+| Dead Fish | tatu43 | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Dead Fish (outubro de 2007).jpg](https://commons.wikimedia.org/wiki/File:Dead_Fish_(outubro_de_2007).jpg) | `deadfish/deadfish.avif` |
+| Fresno | Luiz Alberto Fiebig Junior from Porto Alegre, Brasil | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [FresnoBanda.jpg](https://commons.wikimedia.org/wiki/File:FresnoBanda.jpg) | `fresno/fresno.jpeg` |
+| Green Day | ECarterSterling | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Green Day - Hella Mega Tour - August 10, 2021.jpg](https://commons.wikimedia.org/wiki/File:Green_Day_-_Hella_Mega_Tour_-_August_10,_2021.jpg) | `green day/green_day_warner_records_por_alice_baxley.webp` |
+| Rancore | marlise rodrigues from brasil | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Rancore. (1099381998).jpg](https://commons.wikimedia.org/wiki/File:Rancore._(1099381998).jpg) | `rancore/rancore-formacao-2024.webp` |
+| Venere Vai Vênus | Felipe Morota | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Venere Vai Venus 2026.png](https://commons.wikimedia.org/wiki/File:Venere_Vai_Venus_2026.png) | `venereVaiVenus/0e3491174ef0bb4e2fa05dd2d95657c4.avif` |
+
+A foto do Rancore é do Commons com o rótulo "Rancore." (de uma fotógrafa de São Paulo, com link do fotolog da banda): confirme com quem conhece a banda. A do Venere Vai Vênus tem só 545×618.

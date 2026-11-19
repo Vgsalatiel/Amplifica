@@ -7,6 +7,7 @@
  * desfeito). Opções:
  *   --dir <pasta>   pasta onde estão os arquivos (padrão: ../frontend/img/bandasimgaens)
  *   --replace       troca também as imagens que já existem
+ *   --only a,b      só estas bandas e discos do manifesto (pelo endereço), ignorando o resto
  *
  * Imagens AVIF são convertidas para JPEG, porque a API só aceita JPEG, PNG e WebP. As imagens em si
  * não vão para o repositório: os direitos são de quem as fez.
@@ -28,6 +29,7 @@ const { values, positionals } = parseArgs({
   options: {
     dir: { type: 'string', default: '../frontend/img/bandasimgaens' },
     replace: { type: 'boolean', default: false },
+    only: { type: 'string', default: '' },
   },
   allowPositionals: true,
 });
@@ -61,7 +63,14 @@ try {
       readFile: readFileAsync,
     },
     parsed.data,
-    { baseDir: resolve(values.dir), replace: values.replace },
+    {
+      baseDir: resolve(values.dir),
+      replace: values.replace,
+      only: values.only
+        .split(',')
+        .map((slug) => slug.trim())
+        .filter(Boolean),
+    },
   );
   console.log(
     `Imagens: ${report.stored.length} gravada(s), ${report.kept.length} mantida(s).`,

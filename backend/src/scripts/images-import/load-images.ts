@@ -69,7 +69,7 @@ export async function toAcceptedFormat(buffer: Buffer): Promise<Buffer> {
 export async function loadImages(
   { prisma, images, readFile }: Deps,
   manifest: ImageManifest,
-  options: { baseDir: string; replace: boolean },
+  options: { baseDir: string; replace: boolean; only?: string[] },
 ): Promise<ImagesReport> {
   const report: ImagesReport = {
     stored: [],
@@ -78,12 +78,17 @@ export async function loadImages(
     failed: [],
   };
 
+  // `only`: carrega só estas bandas e discos do manifesto (pelo endereço), ignorando o resto.
+  const wanted = options.only?.length ? new Set(options.only) : null;
+  const picked = <T extends { slug: string }>(entries: T[]) =>
+    wanted ? entries.filter((entry) => wanted.has(entry.slug)) : entries;
+
   const read = async (file: string) =>
     toAcceptedFormat(await readFile(join(options.baseDir, file)));
   const asUpload = (buffer: Buffer) =>
     ({ buffer, size: buffer.length }) as Express.Multer.File;
 
-  for (const entry of manifest.artists) {
+  for (const entry of picked(manifest.artists)) {
     const artist = await prisma.artist.findUnique({
       where: { slug: entry.slug },
     });
@@ -120,7 +125,7 @@ export async function loadImages(
     }
   }
 
-  for (const entry of manifest.releases) {
+  for (const entry of picked(manifest.releases)) {
     const release = await prisma.release.findUnique({
       where: { slug: entry.slug },
     });
