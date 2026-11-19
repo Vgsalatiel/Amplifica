@@ -60,6 +60,7 @@ O script roda as migrations (pule com `--skip-migrate`), as bandas, as capas e, 
 | `--update a,b` ou `all` | bandas que já existem e devem ser atualizadas pelo arquivo |
 | `--skip-covers`, `--skip-images`, `--skip-migrate` | pula a etapa |
 | `--images-only` | só grava as fotos do manifesto (sem bandas nem migrations) |
+| `--shows-only ARQ` | só grava os shows de um arquivo (sem bandas, fotos nem migrations) |
 | `--clips` | também grava a playlist de clipes |
 | `--confirm-host HOST` | confirma sem perguntar (sem terminal) |
 
@@ -86,3 +87,15 @@ Para publicar as fotos novas do manifesto (`band-images.json`) sem repetir a car
 ```
 
 Isso exige as cinco `STORAGE_*` no arquivo e a pasta `frontend/img/bandasimgaens/` (com a subpasta `livres/`) neste computador. O que já tem foto em produção é mantido; a foto nova só entra em quem ainda não tem.
+
+## Só os shows
+
+Para publicar os shows de um arquivo (por exemplo, depois de acrescentar um show em `prisma/data/shows/2027.json`):
+
+```bash
+./scripts/carga-producao.sh --env-file ~/amplifica-prod.env --shows-only prisma/data/shows/2027.json --dry-run
+./scripts/carga-producao.sh --env-file ~/amplifica-prod.env --shows-only prisma/data/shows/2027.json \
+  --confirm-host <host do banco>
+```
+
+O que já existe é mantido como está (edições feitas no admin não se perdem), e os shows novos são criados. Não exige as variáveis `STORAGE_*`.

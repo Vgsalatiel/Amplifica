@@ -13,7 +13,7 @@ BACKEND_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "$BACKEND_DIR"
 
 ENV_FILE=""; DRY_RUN=0; SKIP_MIGRATE=0; SKIP_COVERS=0; SKIP_IMAGES=0; WITH_CLIPS=0
-SINCE=""; ONLY=""; CONFIRM_HOST=""; IMAGES_ONLY=0; REPLACE_IMAGES=""
+SINCE=""; ONLY=""; CONFIRM_HOST=""; IMAGES_ONLY=0; REPLACE_IMAGES=""; SHOWS_ONLY=0; SHOWS_FILE=""
 UPDATE_SLUGS="antipoetica,aurora-rules,becold"   # já existem em produção: o arquivo manda (--update)
 PROD_API="https://amplifica.onrender.com/api/v1"
 
@@ -28,6 +28,8 @@ Opções:
   --images-only         só grava as fotos do manifesto (não mexe nas bandas nem roda migrations)
   --replace-images a,b  troca a foto já existente destas bandas pela do manifesto (use junto de
                         --images-only; as outras fotos ficam como estão)
+  --shows-only ARQ      só grava os shows de um arquivo (ex.: prisma/data/shows/2027.json); não mexe
+                        nas bandas, nas fotos nem nas migrations
   --clips               também roda a carga da playlist de clipes
   --since REF           só os arquivos de bandas alterados desde o commit/tag REF
   --only a,b,c          só estas bandas (nomes dos arquivos, sem .json)
@@ -47,6 +49,7 @@ while [[ $# -gt 0 ]]; do
     --skip-images) SKIP_IMAGES=1; shift ;;
     --images-only) IMAGES_ONLY=1; shift ;;
     --replace-images) REPLACE_IMAGES="${2:-}"; shift 2 ;;
+    --shows-only) SHOWS_ONLY=1; SHOWS_FILE="${2:-}"; shift 2 ;;
     --clips) WITH_CLIPS=1; shift ;;
     --since) SINCE="${2:-}"; shift 2 ;;
     --only) ONLY="${2:-}"; shift 2 ;;
@@ -102,7 +105,10 @@ fi
 
 # ---- 2. Quais bandas ----------------------------------------------------------------------------
 declare -a FILES=()
-if [[ $IMAGES_ONLY -eq 1 ]]; then
+if [[ $SHOWS_ONLY -eq 1 ]]; then
+  [[ -n "$SHOWS_FILE" && -f "$SHOWS_FILE" ]] || die "--shows-only exige um arquivo existente (ex.: prisma/data/shows/2027.json)."
+  SKIP_MIGRATE=1; SKIP_IMAGES=1; SKIP_COVERS=1; IMAGES_ONLY=1
+elif [[ $IMAGES_ONLY -eq 1 ]]; then
   SKIP_MIGRATE=1; SKIP_IMAGES=0
   [[ $HAVE_STORAGE -eq 1 ]] || die "--images-only exige as cinco variáveis STORAGE_* no arquivo."
 elif [[ -n "$ONLY" ]]; then
@@ -124,7 +130,7 @@ TS="$(date +%Y%m%d-%H%M%S)"; LOG="${TMPDIR:-/tmp}/carga-producao-$TS.log"
 
 echo "=== Carga em PRODUÇÃO ==="
 echo "Banco (host): $PROD_HOST"
-if [[ $IMAGES_ONLY -eq 1 ]]; then echo "Modo: só as fotos do manifesto (bandas e migrations ficam de fora)"; else echo "Bandas: ${#FILES[@]} arquivos | atualizar pelo arquivo: ${UPDATE_SLUGS:-nenhuma}"; fi
+if [[ $SHOWS_ONLY -eq 1 ]]; then echo "Modo: só os shows de $SHOWS_FILE (bandas, fotos e migrations ficam de fora)"; elif [[ $IMAGES_ONLY -eq 1 ]]; then echo "Modo: só as fotos do manifesto (bandas e migrations ficam de fora)"; else echo "Bandas: ${#FILES[@]} arquivos | atualizar pelo arquivo: ${UPDATE_SLUGS:-nenhuma}"; fi
 echo "Trocar fotos de: ${REPLACE_IMAGES:-nenhuma}"
 echo "Migrations: $([[ $SKIP_MIGRATE -eq 1 ]] && echo não || echo sim) | Capas: $([[ $SKIP_COVERS -eq 1 ]] && echo não || echo sim) | Fotos do manifesto: $([[ $SKIP_IMAGES -eq 1 ]] && echo não || echo sim) | Clipes: $([[ $WITH_CLIPS -eq 1 ]] && echo sim || echo não)"
 echo "Registro: $LOG"
@@ -191,6 +197,12 @@ if [[ $SKIP_IMAGES -eq 0 ]]; then
   else
     echo "  pulado: a pasta frontend/img/bandasimgaens não existe neste computador."
   fi
+fi
+if [[ $SHOWS_ONLY -eq 1 ]]; then
+  echo "Shows de $SHOWS_FILE…"
+  show_out="$(node dist/scripts/seed-shows.js "$SHOWS_FILE" 2>&1)"; show_code=$?
+  echo "$show_out" >>"$LOG"
+  if [[ $show_code -eq 0 ]]; then echo "  ok: $(grep -E 'Shows?:|criado|atualizado|mantido' <<<"$show_out" | tail -2 | tr '\n' ' ')"; else echo "  FALHOU (veja $LOG)"; FAILED+=("shows:seed"); fi
 fi
 if [[ $WITH_CLIPS -eq 1 ]]; then
   echo "Clipes…"
