@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-19T11:50:01.887Z",
-  "source": "MusicBrainz (dados principais em CC0)",
+  "generatedAt": "2026-11-19T00:00:00.000Z",
+  "source": "MusicBrainz (dados principais em CC0) e YouTube Music (página pública da banda)",
   "artist": {
     "mbid": "cacb7214-2881-44f3-9dfc-053e22449acb",
     "name": "NX Zero",
@@ -15,65 +15,69 @@
       {
         "name": "MusicBrainz",
         "url": "https://musicbrainz.org/artist/cacb7214-2881-44f3-9dfc-053e22449acb"
+      },
+      {
+        "name": "YouTube Music",
+        "url": "https://music.youtube.com/channel/UCu8JtZfA1bzGK_0vj1iENcQ"
       }
     ],
     "genres": [
       "emo",
-      "melodic-hardcore",
-      "pop-punk"
+      "pop-punk",
+      "rock-nacional"
     ]
   },
   "releases": [
     {
-      "mbid": "56f2b932-9fdc-3a47-9e4e-f752ccbff5a0",
-      "releaseMbid": "b7ddc00d-9b2a-4ab0-bfa8-4579f3141189",
-      "title": "Diálogo",
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Diálogo?",
       "type": "ALBUM",
-      "releaseDate": "2004-06-06",
+      "releaseDate": "2004",
       "description": null,
       "coverUrl": null,
       "tracks": [
         {
-          "title": "Apenas um olhar",
+          "title": "Apenas um Olhar",
           "discNumber": 1,
           "position": 1,
-          "durationMs": 200000
+          "durationMs": 201000
         },
         {
-          "title": "Uma chance",
+          "title": "Uma Chance",
           "discNumber": 1,
           "position": 2,
-          "durationMs": 270000
+          "durationMs": 271000
         },
         {
-          "title": "Ilegítima defesa",
+          "title": "Ilegítima Defesa",
           "discNumber": 1,
           "position": 3,
-          "durationMs": 188000
+          "durationMs": 189000
         },
         {
-          "title": "Finja entender",
+          "title": "Finja Entender",
           "discNumber": 1,
           "position": 4,
-          "durationMs": 163000
+          "durationMs": 162000
         },
         {
           "title": "Ilusão",
           "discNumber": 1,
           "position": 5,
-          "durationMs": 218000
+          "durationMs": 219000
         },
         {
-          "title": "Mentiras e fracassos",
+          "title": "Mentiras e Fracassos",
           "discNumber": 1,
           "position": 6,
-          "durationMs": 197000
+          "durationMs": 198000
         },
         {
           "title": "Promessa",
           "discNumber": 1,
           "position": 7,
-          "durationMs": 165000
+          "durationMs": 164000
         },
         {
           "title": "Mudanças",
@@ -82,28 +86,28 @@
           "durationMs": 203000
         },
         {
-          "title": "Diálogo",
+          "title": "Diálogo?",
           "discNumber": 1,
           "position": 9,
-          "durationMs": 120000
+          "durationMs": 121000
         },
         {
-          "title": "Um outro caminho",
+          "title": "Um Outro Caminho",
           "discNumber": 1,
           "position": 10,
-          "durationMs": 186000
+          "durationMs": 187000
         },
         {
-          "title": "Tarde demais",
+          "title": "Gritos do Silêncio",
           "discNumber": 1,
           "position": 11,
-          "durationMs": 232000
+          "durationMs": 196000
         },
         {
-          "title": "Gritos do silêncio",
+          "title": "Tarde Demais",
           "discNumber": 1,
           "position": 12,
-          "durationMs": 187000
+          "durationMs": 254000
         }
       ]
     },
@@ -191,91 +195,91 @@
       ]
     },
     {
-      "mbid": "66f3fd4d-0508-303e-a7d4-66c5da3af738",
-      "releaseMbid": "c9c2d70d-b1cc-492f-8b1c-4d4dd43b61e0",
-      "title": "NxZero",
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "NX Zero",
       "type": "ALBUM",
       "releaseDate": "2006",
       "description": null,
-      "coverUrl": "https://coverartarchive.org/release-group/66f3fd4d-0508-303e-a7d4-66c5da3af738/front-1200",
+      "coverUrl": null,
       "tracks": [
         {
-          "title": "Além de Mim",
+          "title": "Além De Mim",
           "discNumber": 1,
           "position": 1,
-          "durationMs": 206000
+          "durationMs": 205000
         },
         {
           "title": "Consequência",
           "discNumber": 1,
           "position": 2,
-          "durationMs": 171000
+          "durationMs": 170000
         },
         {
-          "title": "Razões e Emoções",
+          "title": "Razões E Emoções",
           "discNumber": 1,
           "position": 3,
-          "durationMs": 224000
+          "durationMs": 223000
         },
         {
           "title": "Um Pouco Mais",
           "discNumber": 1,
           "position": 4,
-          "durationMs": 212000
+          "durationMs": 210000
         },
         {
           "title": "Ilusão",
           "discNumber": 1,
           "position": 5,
-          "durationMs": 219000
+          "durationMs": 218000
         },
         {
-          "title": "Apenas um Olhar",
+          "title": "Apenas Um Olhar",
           "discNumber": 1,
           "position": 6,
-          "durationMs": 217000
+          "durationMs": 216000
         },
         {
           "title": "Pela Última Vez",
           "discNumber": 1,
           "position": 7,
-          "durationMs": 226000
+          "durationMs": 225000
         },
         {
           "title": "La Prision",
           "discNumber": 1,
           "position": 8,
-          "durationMs": 208000
+          "durationMs": 206000
         },
         {
           "title": "Incompleta",
           "discNumber": 1,
           "position": 9,
-          "durationMs": 204000
+          "durationMs": 202000
         },
         {
           "title": "Círculos",
           "discNumber": 1,
           "position": 10,
-          "durationMs": 170000
+          "durationMs": 169000
         },
         {
           "title": "Tarde Demais",
           "discNumber": 1,
           "position": 11,
-          "durationMs": 244000
+          "durationMs": 243000
         },
         {
           "title": "Uma Chance",
           "discNumber": 1,
           "position": 12,
-          "durationMs": 219000
+          "durationMs": 217000
         },
         {
-          "title": "Mentiras e Fracassos",
+          "title": "Mentiras E Fracassos",
           "discNumber": 1,
           "position": 13,
-          "durationMs": 194000
+          "durationMs": 193000
         },
         {
           "title": "Um Outro Caminho",
@@ -351,103 +355,311 @@
       ]
     },
     {
-      "mbid": "3940f6aa-d013-3cc5-a11d-beaaceb1af87",
-      "releaseMbid": "ec67defe-6a2e-4f4c-b3b0-b60d34a70cf4",
+      "mbid": null,
+      "releaseMbid": null,
       "title": "Agora",
       "type": "ALBUM",
-      "releaseDate": "2008-07-07",
+      "releaseDate": "2008",
       "description": null,
-      "coverUrl": "https://coverartarchive.org/release-group/3940f6aa-d013-3cc5-a11d-beaaceb1af87/front-1200",
+      "coverUrl": null,
       "tracks": [
         {
-          "title": "Cedo ou Tarde",
+          "title": "Cedo Ou Tarde",
           "discNumber": 1,
           "position": 1,
-          "durationMs": 193466
+          "durationMs": 194000
         },
         {
           "title": "Daqui Pra Frente",
           "discNumber": 1,
           "position": 2,
-          "durationMs": 186533
+          "durationMs": 187000
         },
         {
           "title": "Entre Nós Dois",
           "discNumber": 1,
           "position": 3,
-          "durationMs": 204826
+          "durationMs": 205000
         },
         {
-          "title": "Bem ou Mal",
+          "title": "Bem Ou Mal",
           "discNumber": 1,
           "position": 4,
-          "durationMs": 189906
+          "durationMs": 190000
         },
         {
-          "title": "Além das Palavras",
+          "title": "Além Das Palavras",
           "discNumber": 1,
           "position": 5,
-          "durationMs": 89160
+          "durationMs": 90000
         },
         {
           "title": "Silêncio",
           "discNumber": 1,
           "position": 6,
-          "durationMs": 235800
+          "durationMs": 236000
         },
         {
           "title": "Segunda Chance",
           "discNumber": 1,
           "position": 7,
-          "durationMs": 173866
+          "durationMs": 174000
         },
         {
-          "title": "Cartas pra Você",
+          "title": "Cartas Pra Você",
           "discNumber": 1,
           "position": 8,
-          "durationMs": 203840
+          "durationMs": 204000
         },
         {
           "title": "Tudo Bem",
           "discNumber": 1,
           "position": 9,
-          "durationMs": 167293
+          "durationMs": 168000
         },
         {
           "title": "Nunca Mais",
           "discNumber": 1,
           "position": 10,
-          "durationMs": 197573
+          "durationMs": 198000
         },
         {
-          "title": "A Melhor Parte de Mim",
+          "title": "A Melhor Parte De Mim",
           "discNumber": 1,
           "position": 11,
-          "durationMs": 197866
+          "durationMs": 198000
         },
         {
           "title": "Inimigo Invisível",
           "discNumber": 1,
           "position": 12,
-          "durationMs": 136893
+          "durationMs": 137000
         },
         {
           "title": "O Destino",
           "discNumber": 1,
           "position": 13,
-          "durationMs": 224573
+          "durationMs": 225000
         },
         {
           "title": "Diferenças",
           "discNumber": 1,
           "position": 14,
-          "durationMs": 206226
+          "durationMs": 207000
         },
         {
-          "title": "Apenas Mais uma de Amor",
+          "title": "Apenas Mais Uma De Amor",
           "discNumber": 1,
           "position": 15,
-          "durationMs": 221373
+          "durationMs": 222000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "62 Mil Horas Até Aqui",
+      "type": "LIVE",
+      "releaseDate": "2008",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Consequência (Estúdio)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 181000
+        },
+        {
+          "title": "Apenas Um Olhar (Estúdio)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 224000
+        },
+        {
+          "title": "Um Pouco Mais (Estúdio)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 211000
+        },
+        {
+          "title": "Além De Mim (Estúdio)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 203000
+        },
+        {
+          "title": "Círculos (Estúdio)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 165000
+        },
+        {
+          "title": "Razões E Emoções (Estúdio)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 229000
+        },
+        {
+          "title": "Pela Última Vez (Estúdio)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 225000
+        },
+        {
+          "title": "Mentiras E Fracassos (Estúdio)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 187000
+        },
+        {
+          "title": "Mais E Mais (Estúdio)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 227000
+        },
+        {
+          "title": "Ilusão (Estúdio)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 228000
+        },
+        {
+          "title": "Tarde Demais (Estúdio)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 250000
+        },
+        {
+          "title": "Uma Chance (Estúdio)",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 215000
+        },
+        {
+          "title": "Um Outro Caminho (Estúdio)",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 193000
+        },
+        {
+          "title": "Incompleta (Estúdio)",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 202000
+        },
+        {
+          "title": "La Prision (Estúdio)",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 201000
+        },
+        {
+          "title": "Algo Que Não Sou (Estúdio)",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 195000
+        },
+        {
+          "title": "Apenas Mais Uma De Amor",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 224000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Sete Chaves",
+      "type": "ALBUM",
+      "releaseDate": "2009",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Vertigem",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 39000
+        },
+        {
+          "title": "Só Rezo",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 237000
+        },
+        {
+          "title": "Espero A Minha Vez",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 253000
+        },
+        {
+          "title": "Insubstituível",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 218000
+        },
+        {
+          "title": "Interlúdio",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 37000
+        },
+        {
+          "title": "Zerar E Recomeçar",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 221000
+        },
+        {
+          "title": "Mais Além",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 214000
+        },
+        {
+          "title": "Confidencial",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 176000
+        },
+        {
+          "title": "Como Se Fosse Ontem",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 189000
+        },
+        {
+          "title": "Perto De Você (Roots)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 167000
+        },
+        {
+          "title": "Tudo Em Seu Lugar",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 171000
+        },
+        {
+          "title": "Subliminar",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 219000
+        },
+        {
+          "title": "Vício",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 159000
+        },
+        {
+          "title": "Sem Saída",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 170000
         }
       ]
     },
@@ -517,198 +729,186 @@
       ]
     },
     {
-      "mbid": "9375afc6-7a22-4680-b1db-8fa828e9d15e",
-      "releaseMbid": "e9463572-c89f-439a-9a91-e83ed3151653",
-      "title": "Sete Chaves",
-      "type": "ALBUM",
-      "releaseDate": "2009-10-20",
-      "description": null,
-      "coverUrl": "https://coverartarchive.org/release-group/9375afc6-7a22-4680-b1db-8fa828e9d15e/front-1200",
-      "tracks": [
-        {
-          "title": "Vertigem",
-          "discNumber": 1,
-          "position": 1,
-          "durationMs": 38000
-        },
-        {
-          "title": "Só rezo",
-          "discNumber": 1,
-          "position": 2,
-          "durationMs": 236000
-        },
-        {
-          "title": "Espero a minha vez",
-          "discNumber": 1,
-          "position": 3,
-          "durationMs": 252000
-        },
-        {
-          "title": "Insubstituível",
-          "discNumber": 1,
-          "position": 4,
-          "durationMs": 217000
-        },
-        {
-          "title": "Interlúdio",
-          "discNumber": 1,
-          "position": 5,
-          "durationMs": 36000
-        },
-        {
-          "title": "Zerar e recomeçar",
-          "discNumber": 1,
-          "position": 6,
-          "durationMs": 220000
-        },
-        {
-          "title": "Mais Além",
-          "discNumber": 1,
-          "position": 7,
-          "durationMs": 213000
-        },
-        {
-          "title": "Confidencial",
-          "discNumber": 1,
-          "position": 8,
-          "durationMs": 175000
-        },
-        {
-          "title": "Como se fosse ontem",
-          "discNumber": 1,
-          "position": 9,
-          "durationMs": 188000
-        },
-        {
-          "title": "Perto de você (Roots)",
-          "discNumber": 1,
-          "position": 10,
-          "durationMs": 166000
-        },
-        {
-          "title": "Tudo em seu lugar",
-          "discNumber": 1,
-          "position": 11,
-          "durationMs": 170000
-        },
-        {
-          "title": "Subliminar",
-          "discNumber": 1,
-          "position": 12,
-          "durationMs": 218000
-        },
-        {
-          "title": "Vício",
-          "discNumber": 1,
-          "position": 13,
-          "durationMs": 158000
-        },
-        {
-          "title": "Sem saída",
-          "discNumber": 1,
-          "position": 14,
-          "durationMs": 169000
-        }
-      ]
-    },
-    {
-      "mbid": "271a534e-7df3-4630-a310-50f8446be1e6",
-      "releaseMbid": "923f16bd-b649-481a-ae76-cc47a12590e1",
+      "mbid": null,
+      "releaseMbid": null,
       "title": "Projeto Paralelo",
-      "type": "COMPILATION",
-      "releaseDate": "2010-11-24",
+      "type": "ALBUM",
+      "releaseDate": "2010",
       "description": null,
-      "coverUrl": "https://coverartarchive.org/release-group/271a534e-7df3-4630-a310-50f8446be1e6/front-1200",
+      "coverUrl": null,
       "tracks": [
         {
-          "title": "Intro",
+          "title": "Intro - Projeto Paralelo",
           "discNumber": 1,
           "position": 1,
-          "durationMs": 139000
+          "durationMs": 140000
         },
         {
-          "title": "Inimigo invisível 0.2",
+          "title": "Inimigo Invisível - Projeto Paralelo",
           "discNumber": 1,
           "position": 2,
-          "durationMs": 267000
+          "durationMs": 268000
         },
         {
-          "title": "A melhor parte de mim 0.2",
+          "title": "A Melhor Parte De Mim - Projeto Paralelo",
           "discNumber": 1,
           "position": 3,
-          "durationMs": 233000
+          "durationMs": 234000
         },
         {
-          "title": "Daqui pra frente 0.2",
+          "title": "Daqui Pra Frente - Projeto Paralelo",
           "discNumber": 1,
           "position": 4,
-          "durationMs": 282000
+          "durationMs": 283000
         },
         {
-          "title": "Vertigem 0.2",
+          "title": "Vertigem (Projeto Paralelo)",
           "discNumber": 1,
           "position": 5,
-          "durationMs": 36000
+          "durationMs": 37000
         },
         {
-          "title": "Só rezo 0.2",
+          "title": "Só Rezo - Projeto Paralelo",
           "discNumber": 1,
           "position": 6,
-          "durationMs": 274000
+          "durationMs": 275000
         },
         {
-          "title": "Onde estiver",
+          "title": "Onde Estiver",
           "discNumber": 1,
           "position": 7,
-          "durationMs": 218000
+          "durationMs": 219000
         },
         {
-          "title": "Bem ou mal 0.2",
+          "title": "Bem Ou Mal - Projeto Paralelo",
           "discNumber": 1,
           "position": 8,
-          "durationMs": 225000
+          "durationMs": 226000
         },
         {
-          "title": "Tarde pra desistir",
+          "title": "Tarde Para Desistir",
           "discNumber": 1,
           "position": 9,
           "durationMs": 234000
         },
         {
-          "title": "Entre nós dois 0.2",
+          "title": "Entre Nós Dois - Projeto Paralelo",
           "discNumber": 1,
           "position": 10,
-          "durationMs": 263000
+          "durationMs": 264000
         },
         {
           "title": "Corra",
           "discNumber": 1,
           "position": 11,
-          "durationMs": 207000
+          "durationMs": 208000
         },
         {
-          "title": "Cedo ou tarde 0.2",
+          "title": "Cedo Ou Tarde - Projeto Paralelo",
           "discNumber": 1,
           "position": 12,
-          "durationMs": 236000
+          "durationMs": 237000
         },
         {
-          "title": "O destino 0.2",
+          "title": "O Destino",
           "discNumber": 1,
           "position": 13,
-          "durationMs": 259000
+          "durationMs": 260000
         },
         {
-          "title": "A minha fé",
+          "title": "A Minha Fé",
           "discNumber": 1,
           "position": 14,
-          "durationMs": 253000
+          "durationMs": 254000
         },
         {
-          "title": "Entre nós (Between Us)",
+          "title": "Entre Nós (Between Us)",
           "discNumber": 1,
           "position": 15,
-          "durationMs": null
+          "durationMs": 263000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Em Comum",
+      "type": "ALBUM",
+      "releaseDate": "2011",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Sem Hora Pra Voltar",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 310000
+        },
+        {
+          "title": "Maré",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 241000
+        },
+        {
+          "title": "Ligação",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 214000
+        },
+        {
+          "title": "Hoje O Céu Abriu",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 231000
+        },
+        {
+          "title": "Espero Um Sinal",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 254000
+        },
+        {
+          "title": "Em Comum",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 215000
+        },
+        {
+          "title": "Intro",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 40000
+        },
+        {
+          "title": "Guerra Por Paz",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 265000
+        },
+        {
+          "title": "Você Me Fez",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 202000
+        },
+        {
+          "title": "Pedido",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 231000
+        },
+        {
+          "title": "Estrada (Gonza)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 200000
+        },
+        {
+          "title": "Nada Mais É Como Era Antes",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 227000
         }
       ]
     },
@@ -850,573 +1050,730 @@
       ]
     },
     {
-      "mbid": "e790d0fe-e6c9-478b-8a3f-87bc8caa0670",
-      "releaseMbid": "1f6dadf1-7e15-4ed0-b35a-cdb73ea460c2",
-      "title": "Em Comum",
-      "type": "ALBUM",
-      "releaseDate": "2012-08-14",
-      "description": null,
-      "coverUrl": "https://coverartarchive.org/release-group/e790d0fe-e6c9-478b-8a3f-87bc8caa0670/front-1200",
-      "tracks": [
-        {
-          "title": "Sem Hora pra voltar",
-          "discNumber": 1,
-          "position": 1,
-          "durationMs": 309053
-        },
-        {
-          "title": "Maré",
-          "discNumber": 1,
-          "position": 2,
-          "durationMs": 240413
-        },
-        {
-          "title": "Ligação",
-          "discNumber": 1,
-          "position": 3,
-          "durationMs": 213760
-        },
-        {
-          "title": "Hoje o céu abriu",
-          "discNumber": 1,
-          "position": 4,
-          "durationMs": 230773
-        },
-        {
-          "title": "Espero um sinal",
-          "discNumber": 1,
-          "position": 5,
-          "durationMs": 253067
-        },
-        {
-          "title": "Em comum",
-          "discNumber": 1,
-          "position": 6,
-          "durationMs": 214533
-        },
-        {
-          "title": "Intro",
-          "discNumber": 1,
-          "position": 7,
-          "durationMs": 39947
-        },
-        {
-          "title": "Guerra por paz",
-          "discNumber": 1,
-          "position": 8,
-          "durationMs": 264067
-        },
-        {
-          "title": "Você me fez",
-          "discNumber": 1,
-          "position": 9,
-          "durationMs": 201987
-        },
-        {
-          "title": "Pedido",
-          "discNumber": 1,
-          "position": 10,
-          "durationMs": 230973
-        },
-        {
-          "title": "Estrada (Gonza)",
-          "discNumber": 1,
-          "position": 11,
-          "durationMs": 199680
-        },
-        {
-          "title": "Nada mais é como era antes",
-          "discNumber": 1,
-          "position": 12,
-          "durationMs": 226587
-        }
-      ]
-    },
-    {
-      "mbid": "4076a1ab-cc29-41fd-a6e7-615f51ab23dc",
-      "releaseMbid": "be036d21-18d7-4ab2-8d50-22a6a975fe1b",
+      "mbid": null,
+      "releaseMbid": null,
       "title": "Estamos no Começo de Algo Muito Bom, Não Precisa Ter Nome Não",
       "type": "EP",
-      "releaseDate": "2014-11-18",
+      "releaseDate": "2014",
       "description": null,
       "coverUrl": null,
       "tracks": [
         {
-          "title": "Vamos seguir",
+          "title": "Vamos Seguir",
           "discNumber": 1,
           "position": 1,
-          "durationMs": 220000
+          "durationMs": 221000
         },
         {
-          "title": "Tira onda",
+          "title": "Tira Onda",
           "discNumber": 1,
           "position": 2,
-          "durationMs": 362000
+          "durationMs": 363000
         },
         {
-          "title": "Uma gota no oceano",
+          "title": "Uma Gota no Oceano",
           "discNumber": 1,
           "position": 3,
-          "durationMs": 233000
+          "durationMs": 234000
         },
         {
           "title": "Free Your Mind",
           "discNumber": 1,
           "position": 4,
-          "durationMs": 181000
+          "durationMs": 182000
         }
       ]
     },
     {
-      "mbid": "edd54d9d-40fd-430b-9ec5-b78c7ebf2083",
-      "releaseMbid": "9e16e7e7-4b6d-4e99-8814-f6db5e727d3c",
+      "mbid": null,
+      "releaseMbid": null,
       "title": "Norte",
       "type": "ALBUM",
-      "releaseDate": "2015-08-07",
+      "releaseDate": "2015",
       "description": null,
-      "coverUrl": "https://coverartarchive.org/release-group/edd54d9d-40fd-430b-9ec5-b78c7ebf2083/front-1200",
+      "coverUrl": null,
       "tracks": [
         {
           "title": "Modo Avião",
           "discNumber": 1,
           "position": 1,
-          "durationMs": 186000
+          "durationMs": 187000
         },
         {
           "title": "Meu Bem",
           "discNumber": 1,
           "position": 2,
-          "durationMs": 189000
+          "durationMs": 190000
         },
         {
           "title": "Mandela",
           "discNumber": 1,
           "position": 3,
-          "durationMs": 240000
+          "durationMs": 241000
         },
         {
           "title": "Fração de Segundo",
           "discNumber": 1,
           "position": 4,
-          "durationMs": 224000
+          "durationMs": 225000
         },
         {
           "title": "Por Amor",
           "discNumber": 1,
           "position": 5,
-          "durationMs": 195000
+          "durationMs": 196000
         },
         {
           "title": "Personal Privê",
           "discNumber": 1,
           "position": 6,
-          "durationMs": 337000
+          "durationMs": 338000
         },
         {
           "title": "Vibe",
           "discNumber": 1,
           "position": 7,
-          "durationMs": 275000
+          "durationMs": 276000
         },
         {
           "title": "Pedra Murano",
           "discNumber": 1,
           "position": 8,
-          "durationMs": 231000
+          "durationMs": 232000
         },
         {
           "title": "Breve Momento",
           "discNumber": 1,
           "position": 9,
-          "durationMs": 236000
+          "durationMs": 237000
         },
         {
           "title": "Gole de Sorte",
           "discNumber": 1,
           "position": 10,
-          "durationMs": 246000
+          "durationMs": 247000
         },
         {
           "title": "Milianos",
           "discNumber": 1,
           "position": 11,
-          "durationMs": 234000
+          "durationMs": 235000
         },
         {
           "title": "Marcas de Expressão",
           "discNumber": 1,
           "position": 12,
-          "durationMs": 352000
+          "durationMs": 353000
         }
       ]
     },
     {
-      "mbid": "9e7b586c-bc70-4e8d-8db3-f9033e3b39a7",
-      "releaseMbid": "370bfc35-b07b-41b6-acac-6264bad4ea32",
-      "title": "Norte Ao Vivo",
-      "type": "LIVE",
-      "releaseDate": "2017-10-26",
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Pedra Murano",
+      "type": "EP",
+      "releaseDate": "2015",
       "description": null,
-      "coverUrl": "https://coverartarchive.org/release-group/9e7b586c-bc70-4e8d-8db3-f9033e3b39a7/front-1200",
+      "coverUrl": null,
       "tracks": [
         {
-          "title": "Intro Modo Avião (Ao Vivo)",
+          "title": "Pedra Murano",
           "discNumber": 1,
           "position": 1,
-          "durationMs": 88000
+          "durationMs": 232000
         },
         {
-          "title": "Modo Avião (Ao Vivo)",
+          "title": "Pedra Murano (Victor Rice Dub Mix #1)",
           "discNumber": 1,
           "position": 2,
-          "durationMs": 179000
+          "durationMs": 224000
         },
         {
-          "title": "Não É Normal",
+          "title": "Pedra Murano (Victor Rice Dub Mix #2)",
           "discNumber": 1,
           "position": 3,
-          "durationMs": 304000
+          "durationMs": 213000
         },
         {
-          "title": "Por Amor (Ao Vivo)",
+          "title": "Pedra Murano (Victor Rice Dub Mix #3)",
           "discNumber": 1,
           "position": 4,
-          "durationMs": 209000
+          "durationMs": 228000
         },
         {
-          "title": "Maré (Ao Vivo)",
+          "title": "Pedra Murano (Victor Rice Dub Mix #4)",
           "discNumber": 1,
           "position": 5,
-          "durationMs": 310000
+          "durationMs": 233000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Norte Sessions",
+      "type": "EP",
+      "releaseDate": "2017",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Piloto Automático",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 270000
         },
         {
-          "title": "Pedra Murano (Ao Vivo)",
+          "title": "Gole de Sorte",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 300000
+        },
+        {
+          "title": "Carranca",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 398000
+        },
+        {
+          "title": "Breve Momento",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 309000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Sintonia / Nessa Cidade",
+      "type": "SINGLE",
+      "releaseDate": "2017",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Sintonia",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 184000
+        },
+        {
+          "title": "Nessa Cidade",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 206000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Norte Ao Vivo",
+      "type": "LIVE",
+      "releaseDate": "2017",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Intro Modo Avião",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 89000
+        },
+        {
+          "title": "Onde Estiver",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 297000
+        },
+        {
+          "title": "Ligação",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 241000
+        },
+        {
+          "title": "Modo Avião",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 180000
+        },
+        {
+          "title": "Sintonia",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 205000
+        },
+        {
+          "title": "Não é Normal",
           "discNumber": 1,
           "position": 6,
-          "durationMs": 435000
+          "durationMs": 305000
         },
         {
-          "title": "Fração de Segundo (Ao Vivo)",
+          "title": "Gole de Sorte",
           "discNumber": 1,
           "position": 7,
-          "durationMs": 220000
+          "durationMs": 259000
         },
         {
-          "title": "Além de Mim (Ao Vivo)",
+          "title": "Por Amor",
           "discNumber": 1,
           "position": 8,
-          "durationMs": 257000
+          "durationMs": 210000
         },
         {
-          "title": "Nessa Cidade (Ao Vivo)",
+          "title": "Daqui Pra Frente",
           "discNumber": 1,
           "position": 9,
-          "durationMs": 218000
+          "durationMs": 228000
         },
         {
-          "title": "Cedo Ou Tarde (Ao Vivo)",
+          "title": "Maré",
           "discNumber": 1,
           "position": 10,
-          "durationMs": 291000
+          "durationMs": 311000
         },
         {
-          "title": "Vibe (Ao Vivo)",
+          "title": "Marcas de Expressão",
           "discNumber": 1,
           "position": 11,
-          "durationMs": 301000
+          "durationMs": 336000
         },
         {
-          "title": "Mandela (Ao Vivo)",
+          "title": "Pedra Murano",
           "discNumber": 1,
           "position": 12,
-          "durationMs": 250000
+          "durationMs": 436000
         },
         {
-          "title": "Hoje o Céu Abriu (Ao Vivo)",
+          "title": "Personal Privê",
           "discNumber": 1,
           "position": 13,
-          "durationMs": 279000
+          "durationMs": 386000
         },
         {
-          "title": "Onde Estiver (Ao Vivo)",
-          "discNumber": 2,
-          "position": 1,
-          "durationMs": 296000
+          "title": "Fração de Segundo",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 221000
         },
         {
-          "title": "Ligação (Ao Vivo)",
-          "discNumber": 2,
-          "position": 2,
-          "durationMs": 240000
+          "title": "Razões e Emoções",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 246000
         },
         {
-          "title": "Sintonia (Ao Vivo)",
-          "discNumber": 2,
-          "position": 3,
-          "durationMs": 204000
-        },
-        {
-          "title": "Gole de Sorte (Ao Vivo)",
-          "discNumber": 2,
-          "position": 4,
+          "title": "Além de Mim",
+          "discNumber": 1,
+          "position": 16,
           "durationMs": 258000
         },
         {
-          "title": "Daqui Pra Frente (Ao Vivo)",
-          "discNumber": 2,
-          "position": 5,
-          "durationMs": 227000
+          "title": "Nessa Cidade",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 219000
         },
         {
-          "title": "Marcas de Expressão (Ao Vivo)",
-          "discNumber": 2,
-          "position": 6,
-          "durationMs": 335000
+          "title": "Vamos Seguir",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 396000
         },
         {
-          "title": "Personal Privê (Ao Vivo)",
-          "discNumber": 2,
-          "position": 7,
-          "durationMs": 385000
+          "title": "Cedo ou Tarde",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 292000
         },
         {
-          "title": "Razões e Emoções (Ao Vivo)",
-          "discNumber": 2,
-          "position": 8,
-          "durationMs": 245000
+          "title": "Só Rezo",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 288000
         },
         {
-          "title": "Vamos Seguir (Ao Vivo)",
-          "discNumber": 2,
-          "position": 9,
-          "durationMs": 395000
+          "title": "Vibe",
+          "discNumber": 1,
+          "position": 21,
+          "durationMs": 302000
         },
         {
-          "title": "Só Rezo (Ao Vivo)",
-          "discNumber": 2,
-          "position": 10,
-          "durationMs": 287000
+          "title": "Meu Bem",
+          "discNumber": 1,
+          "position": 22,
+          "durationMs": 371000
         },
         {
-          "title": "Meu Bem (Ao Vivo)",
-          "discNumber": 2,
-          "position": 11,
-          "durationMs": 370000
+          "title": "Mandela",
+          "discNumber": 1,
+          "position": 23,
+          "durationMs": 251000
+        },
+        {
+          "title": "Hoje o Céu Abriu",
+          "discNumber": 1,
+          "position": 24,
+          "durationMs": 280000
         }
       ]
     },
     {
-      "mbid": "f3c46a1a-2e5a-4443-881b-42564631f2c7",
-      "releaseMbid": "5c0f8178-4bba-42c2-a8aa-27912e4019cc",
-      "title": "Tour Cedo ou Tarde (Ao Vivo)",
-      "type": "LIVE",
-      "releaseDate": "2024-10-04",
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Agora (Mixagem 2023)",
+      "type": "ALBUM",
+      "releaseDate": "2023",
       "description": null,
-      "coverUrl": "https://coverartarchive.org/release-group/f3c46a1a-2e5a-4443-881b-42564631f2c7/front-1200",
+      "coverUrl": null,
       "tracks": [
         {
-          "title": "Intro / Vertigem (Ao Vivo)",
+          "title": "Cedo Ou Tarde (Mixagem 2023)",
           "discNumber": 1,
           "position": 1,
-          "durationMs": null
+          "durationMs": 195000
         },
         {
-          "title": "Só Rezo (Ao Vivo)",
+          "title": "Daqui Pra Frente (Mixagem 2023)",
           "discNumber": 1,
           "position": 2,
-          "durationMs": null
+          "durationMs": 188000
         },
         {
-          "title": "Daqui Pra Frente (Ao Vivo)",
+          "title": "Entre Nós Dois (Mixagem 2023)",
           "discNumber": 1,
           "position": 3,
-          "durationMs": null
+          "durationMs": 205000
         },
         {
-          "title": "Bem ou Mal (Ao Vivo)",
+          "title": "Bem Ou Mal (Mixagem 2023)",
           "discNumber": 1,
           "position": 4,
-          "durationMs": null
+          "durationMs": 190000
         },
         {
-          "title": "Pela Última Vez (Ao Vivo)",
+          "title": "Além Das Palavras (Mixagem 2023)",
           "discNumber": 1,
           "position": 5,
-          "durationMs": null
+          "durationMs": 90000
         },
         {
-          "title": "Apenas Um Olhar (Ao Vivo)",
+          "title": "Silêncio (Mixagem 2023)",
           "discNumber": 1,
           "position": 6,
-          "durationMs": null
+          "durationMs": 236000
         },
         {
-          "title": "Insubstituível (Ao Vivo)",
+          "title": "Segunda Chance (Mixagem 2023)",
           "discNumber": 1,
           "position": 7,
-          "durationMs": null
+          "durationMs": 175000
         },
         {
-          "title": "Onde Estiver (Ao Vivo)",
+          "title": "Cartas Pra Você (Mixagem 2023)",
           "discNumber": 1,
           "position": 8,
-          "durationMs": null
+          "durationMs": 204000
         },
         {
-          "title": "Espero A Minha (Ao Vivo)",
+          "title": "Tudo Bem (Mixagem 2023)",
           "discNumber": 1,
           "position": 9,
-          "durationMs": null
+          "durationMs": 168000
         },
         {
-          "title": "Mais Além (Ao Vivo)",
+          "title": "Nunca Mais (Mixagem 2023)",
           "discNumber": 1,
           "position": 10,
-          "durationMs": null
+          "durationMs": 199000
         },
         {
-          "title": "Mentiras e Fracassos / Inimigo Invisível (Ao Vivo)",
+          "title": "A Melhor Parte De Mim (Mixagem 2023)",
           "discNumber": 1,
           "position": 11,
-          "durationMs": null
+          "durationMs": 198000
         },
         {
-          "title": "Intro / Cedo Ou Tarde (Ao Vivo)",
+          "title": "Inimigo Invisível (Mixagem 2023)",
           "discNumber": 1,
           "position": 12,
-          "durationMs": null
+          "durationMs": 138000
         },
         {
-          "title": "Cedo Ou Tarde (Ao Vivo)",
+          "title": "O Destino (Mixagem 2023)",
           "discNumber": 1,
           "position": 13,
-          "durationMs": null
+          "durationMs": 225000
         },
         {
-          "title": "Intro / Você Vai Lembrar de Mim (Ao Vivo)",
+          "title": "Diferenças (Mixagem 2023)",
           "discNumber": 1,
           "position": 14,
-          "durationMs": null
+          "durationMs": 207000
         },
         {
-          "title": "Você Vai Lembrar de Mim (Ao Vivo)",
+          "title": "Apenas Mais Uma De Amor (Mixagem 2023)",
           "discNumber": 1,
           "position": 15,
-          "durationMs": null
+          "durationMs": 218000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Você Vai Lembrar de Mim (Edição Especial)",
+      "type": "SINGLE",
+      "releaseDate": "2023",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Você Vai Lembrar de Mim (Acústica)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 175000
         },
         {
-          "title": "Meu Bem (Ao Vivo)",
+          "title": "Você Vai Lembrar de Mim",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 186000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Tour Cedo ou Tarde (Ao Vivo)",
+      "type": "LIVE",
+      "releaseDate": "2024",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Intro - Vertigem",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 136000
+        },
+        {
+          "title": "Só Rezo",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 226000
+        },
+        {
+          "title": "Daqui Pra Frente",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 167000
+        },
+        {
+          "title": "Bem ou Mal",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 194000
+        },
+        {
+          "title": "Pela Última Vez",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 248000
+        },
+        {
+          "title": "Apenas Um Olhar",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 234000
+        },
+        {
+          "title": "Insubstituível",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 223000
+        },
+        {
+          "title": "Onde Estiver",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 260000
+        },
+        {
+          "title": "Espero a Minha Vez",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 269000
+        },
+        {
+          "title": "Mais Além",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 219000
+        },
+        {
+          "title": "Mentiras e Fracassos-Inimigo Invisível",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 256000
+        },
+        {
+          "title": "Intro – Cedo ou Tarde",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 70000
+        },
+        {
+          "title": "Cedo ou Tarde",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 455000
+        },
+        {
+          "title": "Intro - Você Vai Lembrar de Mim",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 68000
+        },
+        {
+          "title": "Você Vai Lembrar de Mim",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 220000
+        },
+        {
+          "title": "Meu Bem",
           "discNumber": 1,
           "position": 16,
-          "durationMs": null
+          "durationMs": 205000
         },
         {
-          "title": "Intro / Círculos (Ao Vivo)",
+          "title": "Intro - Círculos",
           "discNumber": 1,
           "position": 17,
-          "durationMs": null
+          "durationMs": 75000
         },
         {
-          "title": "Círculos (Ao Vivo)",
+          "title": "Círculos",
           "discNumber": 1,
           "position": 18,
-          "durationMs": null
+          "durationMs": 176000
         },
         {
-          "title": "Maré (Ao Vivo)",
+          "title": "Maré",
           "discNumber": 1,
           "position": 19,
-          "durationMs": null
+          "durationMs": 266000
         },
         {
-          "title": "Mais e Mais (Ao Vivo)",
+          "title": "Mais e Mais",
           "discNumber": 1,
           "position": 20,
-          "durationMs": null
+          "durationMs": 235000
         },
         {
-          "title": "Incompleta (Ao Vivo)",
+          "title": "Incompleta",
           "discNumber": 1,
           "position": 21,
-          "durationMs": null
+          "durationMs": 225000
         },
         {
-          "title": "Fração de Segundos (Ao Vivo)",
+          "title": "Fração de Segundo",
           "discNumber": 1,
           "position": 22,
-          "durationMs": null
+          "durationMs": 208000
         },
         {
-          "title": "Marcas de Expressões (Ao Vivo)",
+          "title": "Marcas de Expressão",
           "discNumber": 1,
           "position": 23,
-          "durationMs": null
+          "durationMs": 237000
         },
         {
-          "title": "Silêncio (Ao Vivo)",
+          "title": "Silêncio",
           "discNumber": 1,
           "position": 24,
-          "durationMs": null
+          "durationMs": 257000
         },
         {
-          "title": "Cartas Pra Você (Ao Vivo)",
+          "title": "Cartas Pra Você",
           "discNumber": 1,
           "position": 25,
-          "durationMs": null
+          "durationMs": 221000
         },
         {
-          "title": "Hoje o Céu Abriu (Ao Vivo)",
+          "title": "Hoje o Céu Abriu",
           "discNumber": 1,
           "position": 26,
-          "durationMs": null
+          "durationMs": 273000
         },
         {
-          "title": "Vamos Seguir (Ao Vivo)",
+          "title": "Vamos Seguir",
           "discNumber": 1,
           "position": 27,
-          "durationMs": null
+          "durationMs": 244000
         },
         {
-          "title": "Intro / Pedra Murano (Ao Vivo)",
+          "title": "Intro - Pedra Murano",
           "discNumber": 1,
           "position": 28,
-          "durationMs": null
+          "durationMs": 41000
         },
         {
-          "title": "Pedra Murano (Ao Vivo)",
+          "title": "Pedra Murano",
           "discNumber": 1,
           "position": 29,
-          "durationMs": null
+          "durationMs": 252000
         },
         {
-          "title": "Ligação (Ao Vivo)",
+          "title": "Ligação",
           "discNumber": 1,
           "position": 30,
-          "durationMs": null
+          "durationMs": 273000
         },
         {
-          "title": "Não É Normal (Ao Vivo)",
+          "title": "Não é Normal",
           "discNumber": 1,
           "position": 31,
-          "durationMs": null
+          "durationMs": 309000
         },
         {
-          "title": "A Melhor Parte de Mim (Ao Vivo)",
+          "title": "A Melhor Parte de Mim",
           "discNumber": 1,
           "position": 32,
-          "durationMs": null
+          "durationMs": 233000
         },
         {
-          "title": "Além de Mim (Ao Vivo)",
+          "title": "Além de Mim",
           "discNumber": 1,
           "position": 33,
-          "durationMs": null
+          "durationMs": 223000
         },
         {
-          "title": "Razões e Emoções (Ao Vivo)",
+          "title": "Razões e Emoções",
           "discNumber": 1,
           "position": 34,
-          "durationMs": null
+          "durationMs": 296000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Cedo ou Tarde (Ao Vivo) (com Chorão)",
+      "type": "SINGLE",
+      "releaseDate": "2024",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Cedo ou Tarde (Ao Vivo)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 455000
         }
       ]
     }

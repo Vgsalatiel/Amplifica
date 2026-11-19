@@ -1,0 +1,446 @@
+{
+  "generatedAt": "2026-11-19T00:00:00.000Z",
+  "source": "YouTube Music (página pública da banda)",
+  "artist": {
+    "mbid": null,
+    "name": "DAY LIMNS",
+    "slug": "day-limns",
+    "type": "BAND",
+    "country": "BR",
+    "city": null,
+    "formedYear": null,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "YouTube Music",
+        "url": "https://music.youtube.com/channel/UCbFuSDj4qkbeSVC65hUMApQ"
+      }
+    ],
+    "genres": [
+      "alternative-rock",
+      "pop-punk"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Day",
+      "type": "EP",
+      "releaseDate": "2018",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Espaço",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 177000
+        },
+        {
+          "title": "Deixa Rolar (part. Carol Biazin)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 194000
+        },
+        {
+          "title": "Clichê (part. Vitão)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 162000
+        },
+        {
+          "title": "Pequena Sereia",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 177000
+        },
+        {
+          "title": "Tanto Faz",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 176000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Bem-Vindo Ao Clube",
+      "type": "ALBUM",
+      "releaseDate": "2021",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Prefácio",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 41000
+        },
+        {
+          "title": "Clube Dos Sonhos Frustrados",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 163000
+        },
+        {
+          "title": "Fugitivos",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 182000
+        },
+        {
+          "title": "Inevitável",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 142000
+        },
+        {
+          "title": "Inconsequente",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 178000
+        },
+        {
+          "title": "Dilúvio",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 167000
+        },
+        {
+          "title": "Não Gosto De Mim",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 175000
+        },
+        {
+          "title": "Isso Não É Amor",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 209000
+        },
+        {
+          "title": "Finais Mentem",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 182000
+        },
+        {
+          "title": "Efeito Colateral",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 150000
+        },
+        {
+          "title": "Não Me Encontre",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 194000
+        },
+        {
+          "title": "Epílogo: A Maldição Da Expectativa",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 105000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "#BVAC LIVE SESSIONS",
+      "type": "LIVE",
+      "releaseDate": "2021",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Clube Dos Sonhos Frustrados (Ao Vivo)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 166000
+        },
+        {
+          "title": "Fugitivos (Ao Vivo)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 192000
+        },
+        {
+          "title": "Inconsequente (Ao Vivo)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 178000
+        },
+        {
+          "title": "Finais Mentem (Ao Vivo)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 182000
+        },
+        {
+          "title": "Efeito Colateral (Ao Vivo / Acústico)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 144000
+        },
+        {
+          "title": "Inevitável (Ao Vivo / Acústico)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 143000
+        },
+        {
+          "title": "Finais Mentem (Ao Vivo / Acústico)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 184000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "VÊNUS≠netuno",
+      "type": "ALBUM",
+      "releaseDate": "2023",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "KÁLICE",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 174000
+        },
+        {
+          "title": "VERMELHO FAROL",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 151000
+        },
+        {
+          "title": "CACOS",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 163000
+        },
+        {
+          "title": "EGOÍSTA",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 161000
+        },
+        {
+          "title": "MÁS CARAS",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 186000
+        },
+        {
+          "title": "MINHA RELIGIÃO",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 153000
+        },
+        {
+          "title": "FIEL",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 227000
+        },
+        {
+          "title": "ANJO CAÍDO",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 127000
+        },
+        {
+          "title": "CINZEIRO",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 146000
+        },
+        {
+          "title": "PURGATÓRIO",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 158000
+        },
+        {
+          "title": "APOCALÍPTIKA",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 184000
+        },
+        {
+          "title": "NIRVANA",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 145000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "VÊNUSNETUNO II",
+      "type": "ALBUM",
+      "releaseDate": "2024",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "PROFETA",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 162000
+        },
+        {
+          "title": "MARÉ",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 169000
+        },
+        {
+          "title": "TSUNAMI",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 162000
+        },
+        {
+          "title": "DOM",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 159000
+        },
+        {
+          "title": "SODOMA & GOMOHA",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 135000
+        },
+        {
+          "title": "TÁ TUDO BEM",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 147000
+        },
+        {
+          "title": "BÔNUS: CARTA DE VÊNUSNETUNO",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 137000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "PUT@RIA & POE$IA (mixtape)",
+      "type": "ALBUM",
+      "releaseDate": "2026",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "jeans",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 202000
+        },
+        {
+          "title": "sexy",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 152000
+        },
+        {
+          "title": "feitiço",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 137000
+        },
+        {
+          "title": "simplesmente...",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 172000
+        },
+        {
+          "title": "bem-vinda",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 166000
+        },
+        {
+          "title": "mania",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 148000
+        },
+        {
+          "title": "1%",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 172000
+        },
+        {
+          "title": "calmaê / citação: baba",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 147000
+        },
+        {
+          "title": "nada sério",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 201000
+        },
+        {
+          "title": "dia que te superei",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 164000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "IMAGINA (part. Giana Mello)",
+      "type": "SINGLE",
+      "releaseDate": "2026",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "IMAGINA",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 134000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "I Got It Bad (com Adrian Lyles)",
+      "type": "SINGLE",
+      "releaseDate": "2026",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "I Got It Bad",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 205000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

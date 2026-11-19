@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-19T11:48:17.987Z",
-  "source": "MusicBrainz (dados principais em CC0)",
+  "generatedAt": "2026-11-19T00:00:00.000Z",
+  "source": "MusicBrainz (dados principais em CC0) e YouTube Music (página pública da banda)",
   "artist": {
     "mbid": "9599590c-90f5-46e2-af7c-ce8727197918",
     "name": "Crônica Ativa",
@@ -15,6 +15,10 @@
       {
         "name": "MusicBrainz",
         "url": "https://musicbrainz.org/artist/9599590c-90f5-46e2-af7c-ce8727197918"
+      },
+      {
+        "name": "YouTube Music",
+        "url": "https://music.youtube.com/channel/UC2zo4GzS4H7HpVf2iTpOqpg"
       }
     ],
     "genres": [
@@ -24,11 +28,28 @@
   },
   "releases": [
     {
-      "mbid": "353b5d10-fa43-4699-a14c-781749fb4e1e",
-      "releaseMbid": "71d116c6-64bf-4820-a79a-6a7cf31f9b39",
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "De Encontro ao Caos (Quarantine Version)",
+      "type": "SINGLE",
+      "releaseDate": "2020",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "De Encontro ao Caos (Quarantine Version)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 284000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
       "title": "2020",
       "type": "EP",
-      "releaseDate": "2020-04-13",
+      "releaseDate": "2020",
       "description": null,
       "coverUrl": null,
       "tracks": [
@@ -36,117 +57,134 @@
           "title": "Inocência Perdida",
           "discNumber": 1,
           "position": 1,
-          "durationMs": 254000
+          "durationMs": 255000
         },
         {
           "title": "Escravos do Seu Próprio Eu",
           "discNumber": 1,
           "position": 2,
-          "durationMs": 265000
+          "durationMs": 266000
         },
         {
           "title": "Sem Raízes",
           "discNumber": 1,
           "position": 3,
-          "durationMs": 305000
+          "durationMs": 306000
         },
         {
           "title": "Não Há Respostas",
           "discNumber": 1,
           "position": 4,
-          "durationMs": 201000
+          "durationMs": 202000
         },
         {
-          "title": "De Encontro ao Caos",
+          "title": "De Encontro Ao Caos",
           "discNumber": 1,
           "position": 5,
-          "durationMs": 276000
+          "durationMs": 277000
         }
       ]
     },
     {
-      "mbid": "816ffc80-5302-4c3d-86db-f736d888e98a",
-      "releaseMbid": "41dc2f9a-daa2-45b0-ad25-2897ea04c043",
-      "title": "Crônica Ativa: Edição de Aniversário",
-      "type": "ALBUM",
-      "releaseDate": "2021-04-16",
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Submersa",
+      "type": "SINGLE",
+      "releaseDate": "2021",
       "description": null,
       "coverUrl": null,
       "tracks": [
         {
-          "title": "Inocência Perdida - Remasterizado",
+          "title": "Submersa",
           "discNumber": 1,
           "position": 1,
-          "durationMs": 254000
+          "durationMs": 276000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Crônica Ativa: Edição de Aniversário",
+      "type": "ALBUM",
+      "releaseDate": "2021",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Inocência Perdida (Remasterizado)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 255000
         },
         {
-          "title": "Escravos do Seu Próprio Eu - Remasterizado",
+          "title": "Escravos do Seu Próprio Eu (Remasterizado)",
           "discNumber": 1,
           "position": 2,
-          "durationMs": 265000
+          "durationMs": 266000
         },
         {
-          "title": "Sem Raízes - Remasterizado",
+          "title": "Sem Raízes (Remasterizado)",
           "discNumber": 1,
           "position": 3,
-          "durationMs": 305000
+          "durationMs": 306000
         },
         {
           "title": "Não Há Respostas",
           "discNumber": 1,
           "position": 4,
-          "durationMs": 201000
+          "durationMs": 202000
         },
         {
-          "title": "De Encontro ao Caos - Remasterizado",
+          "title": "De Encontro ao Caos (Remasterizado)",
           "discNumber": 1,
           "position": 5,
-          "durationMs": 276000
+          "durationMs": 277000
         },
         {
-          "title": "Caminhos Opostos - Live Session",
+          "title": "Caminhos Opostos (Live Session)",
           "discNumber": 1,
           "position": 6,
-          "durationMs": 207000
+          "durationMs": 208000
         },
         {
-          "title": "Inocência Perdida - Live Session",
+          "title": "Inocência Perdida (Live Session)",
           "discNumber": 1,
           "position": 7,
-          "durationMs": 241000
+          "durationMs": 242000
         },
         {
-          "title": "Escravos do Seu Próprio Eu - Live Session",
+          "title": "Escravos do Seu Próprio Eu (Live Session)",
           "discNumber": 1,
           "position": 8,
-          "durationMs": 256000
+          "durationMs": 257000
         },
         {
-          "title": "Sem Raízes - Live Session",
+          "title": "Sem Raízes (Live Session)",
           "discNumber": 1,
           "position": 9,
-          "durationMs": 262000
+          "durationMs": 263000
         },
         {
-          "title": "Não Há Respostas - Live Session",
+          "title": "Não Há Respostas (Live Session)",
           "discNumber": 1,
           "position": 10,
-          "durationMs": 247000
+          "durationMs": 248000
         },
         {
-          "title": "De Encontro ao Caos - Live Session",
+          "title": "De Encontro ao Caos (Live Session)",
           "discNumber": 1,
           "position": 11,
-          "durationMs": 282000
+          "durationMs": 283000
         }
       ]
     },
     {
-      "mbid": "23022ba2-fed3-4d3f-84db-f39326f52906",
-      "releaseMbid": "2b930f8a-d36c-466a-a1bf-656fe413d367",
+      "mbid": null,
+      "releaseMbid": null,
       "title": "Alvorecer",
       "type": "ALBUM",
-      "releaseDate": "2022-05-13",
+      "releaseDate": "2022",
       "description": null,
       "coverUrl": null,
       "tracks": [
@@ -154,67 +192,124 @@
           "title": "Alvorecer",
           "discNumber": 1,
           "position": 1,
-          "durationMs": 56000
+          "durationMs": 57000
         },
         {
           "title": "Ego Inflado",
           "discNumber": 1,
           "position": 2,
-          "durationMs": 185000
+          "durationMs": 186000
         },
         {
           "title": "Imperium",
           "discNumber": 1,
           "position": 3,
-          "durationMs": 200000
+          "durationMs": 201000
         },
         {
           "title": "Causa e Efeito",
           "discNumber": 1,
           "position": 4,
-          "durationMs": 268000
+          "durationMs": 269000
         },
         {
           "title": "Terra Prometida",
           "discNumber": 1,
           "position": 5,
-          "durationMs": 269000
+          "durationMs": 270000
         },
         {
           "title": "Essência",
           "discNumber": 1,
           "position": 6,
-          "durationMs": 233000
+          "durationMs": 234000
         },
         {
           "title": "Sacrifícios",
           "discNumber": 1,
           "position": 7,
-          "durationMs": 280000
+          "durationMs": 281000
         },
         {
           "title": "A Outra Face",
           "discNumber": 1,
           "position": 8,
-          "durationMs": 212000
+          "durationMs": 213000
         },
         {
           "title": "Mantos e Diamantes",
           "discNumber": 1,
           "position": 9,
-          "durationMs": 264000
+          "durationMs": 265000
         },
         {
           "title": "Idolatria",
           "discNumber": 1,
           "position": 10,
-          "durationMs": 253000
+          "durationMs": 254000
         },
         {
           "title": "Reconstruir",
           "discNumber": 1,
           "position": 11,
-          "durationMs": 329000
+          "durationMs": 330000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Meu Lugar",
+      "type": "SINGLE",
+      "releaseDate": "2024",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Meu Lugar",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 265000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Colateral",
+      "type": "SINGLE",
+      "releaseDate": "2025",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Colateral",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 289000
+        },
+        {
+          "title": "Incendiar",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 266000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "AQUI",
+      "type": "SINGLE",
+      "releaseDate": "2025",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "AQUI",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 212000
         }
       ]
     }

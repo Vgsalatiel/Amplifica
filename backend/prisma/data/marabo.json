@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-19T11:48:48.363Z",
-  "source": "MusicBrainz (dados principais em CC0)",
+  "generatedAt": "2026-11-19T00:00:00.000Z",
+  "source": "MusicBrainz (dados principais em CC0) e YouTube Music (página pública da banda)",
   "artist": {
     "mbid": "2278cebf-6c0c-4b9d-96df-670a133d6364",
     "name": "Marabô",
@@ -15,6 +15,10 @@
       {
         "name": "MusicBrainz",
         "url": "https://musicbrainz.org/artist/2278cebf-6c0c-4b9d-96df-670a133d6364"
+      },
+      {
+        "name": "YouTube Music",
+        "url": "https://music.youtube.com/channel/UCm1bF7wU8_kdHy1Ci0pMfSg"
       }
     ],
     "genres": [
@@ -24,11 +28,79 @@
   },
   "releases": [
     {
-      "mbid": "94a628d7-4d3b-43a8-afc9-c85beb242401",
-      "releaseMbid": "5a06cda5-df96-4955-a007-b0d0167322ac",
-      "title": "Marabô",
-      "type": "EP",
-      "releaseDate": "2024-08-16",
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "What Did U Do?",
+      "type": "SINGLE",
+      "releaseDate": "2019",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "What Did U Do?",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 202000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Show Me Your Tattoos",
+      "type": "SINGLE",
+      "releaseDate": "2019",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Show Me Your Tattoos",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 203000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "You",
+      "type": "SINGLE",
+      "releaseDate": "2020",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "You",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 199000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Asco",
+      "type": "SINGLE",
+      "releaseDate": "2023",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Asco",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 231000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "MARABÔ",
+      "type": "SINGLE",
+      "releaseDate": "2024",
       "description": null,
       "coverUrl": null,
       "tracks": [
@@ -36,19 +108,19 @@
           "title": "Estacas",
           "discNumber": 1,
           "position": 1,
-          "durationMs": 215000
+          "durationMs": 216000
         },
         {
-          "title": "Asco",
+          "title": "Asco (2024)",
           "discNumber": 1,
           "position": 2,
-          "durationMs": 230000
+          "durationMs": 231000
         },
         {
           "title": "Marabô",
           "discNumber": 1,
           "position": 3,
-          "durationMs": 202000
+          "durationMs": 203000
         }
       ]
     }

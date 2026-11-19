@@ -1,0 +1,866 @@
+{
+  "generatedAt": "2026-11-19T00:00:00.000Z",
+  "source": "YouTube Music (página pública da banda)",
+  "artist": {
+    "mbid": null,
+    "name": "Forfun",
+    "slug": "forfun",
+    "type": "BAND",
+    "country": "BR",
+    "city": "Rio de Janeiro",
+    "formedYear": null,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "YouTube Music",
+        "url": "https://music.youtube.com/channel/UCiIpGk-ZV8MD_zaBsCWDCTg"
+      }
+    ],
+    "genres": [
+      "rock-nacional",
+      "alternative-rock"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Polisenso",
+      "type": "ALBUM",
+      "releaseDate": "2008",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Ai Sim",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 181000
+        },
+        {
+          "title": "O Viajante",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 194000
+        },
+        {
+          "title": "Infinitas Possibilidades",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 164000
+        },
+        {
+          "title": "Sol ou Chuva",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 206000
+        },
+        {
+          "title": "Panorama",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 200000
+        },
+        {
+          "title": "Dia do Alívio",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 198000
+        },
+        {
+          "title": "Colírio",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 298000
+        },
+        {
+          "title": "Suave",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 284000
+        },
+        {
+          "title": "Gruvi Quântico",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 211000
+        },
+        {
+          "title": "Cósmica",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 254000
+        },
+        {
+          "title": "Eremita Moderno",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 199000
+        },
+        {
+          "title": "Escala Latina",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 192000
+        },
+        {
+          "title": "Uma Noite em Havana",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 123000
+        },
+        {
+          "title": "Siga o Som",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 213000
+        },
+        {
+          "title": "Sócrates e a Deusa Música",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 203000
+        },
+        {
+          "title": "Cigarras",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 322000
+        },
+        {
+          "title": "Bônus Track :Dia do Alívio (Bold Mix)",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 178000
+        },
+        {
+          "title": "Bônus Track :O Viajante (Supershiva Mix)",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 299000
+        },
+        {
+          "title": "Bônus Track: Suave (Felguk Mix)",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 338000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Alegria Compartilhada",
+      "type": "ALBUM",
+      "releaseDate": "2011",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Alegria Compartilhada",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 183000
+        },
+        {
+          "title": "Quem Vai, Vai",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 235000
+        },
+        {
+          "title": "A Garça",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 161000
+        },
+        {
+          "title": "Cosmic Jesus",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 308000
+        },
+        {
+          "title": "Descendo o Rio",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 234000
+        },
+        {
+          "title": "Tropicália Digital",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 151000
+        },
+        {
+          "title": "Dissolver e Recompor",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 192000
+        },
+        {
+          "title": "Largo dos Leões",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 198000
+        },
+        {
+          "title": "Minha Jóia",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 209000
+        },
+        {
+          "title": "Morada",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 229000
+        },
+        {
+          "title": "Quando a Alma Transborda",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 272000
+        },
+        {
+          "title": "Pra Sempre",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 200000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Ao Vivo No Circo Voador",
+      "type": "LIVE",
+      "releaseDate": "2013",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Intro",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 89000
+        },
+        {
+          "title": "Cosmic Jesus",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 305000
+        },
+        {
+          "title": "Tropicália Digital",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 194000
+        },
+        {
+          "title": "Quem Vai, Vai",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 235000
+        },
+        {
+          "title": "Dissolver e Recompor",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 189000
+        },
+        {
+          "title": "Largo dos Leões",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 257000
+        },
+        {
+          "title": "Sol ou Chuva",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 197000
+        },
+        {
+          "title": "Hidropônica",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 194000
+        },
+        {
+          "title": "Quando a Alma Transborda",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 271000
+        },
+        {
+          "title": "Gruvi Quântico",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 211000
+        },
+        {
+          "title": "Panorama",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 196000
+        },
+        {
+          "title": "Minha Jóia (part. Toni Garrido)",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 229000
+        },
+        {
+          "title": "Morada",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 244000
+        },
+        {
+          "title": "História de Verão",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 188000
+        },
+        {
+          "title": "Costa Verde (part. Dedeco)",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 160000
+        },
+        {
+          "title": "Dia do Alívio (part. Rodrigo Lima)",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 191000
+        },
+        {
+          "title": "Good Trip",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 170000
+        },
+        {
+          "title": "Alegria Compartilhada",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 204000
+        },
+        {
+          "title": "Ahorita",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 181000
+        },
+        {
+          "title": "Malícia (part. Hélio Bentes)",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 233000
+        },
+        {
+          "title": "Terra de Cego",
+          "discNumber": 1,
+          "position": 21,
+          "durationMs": 167000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Solto",
+      "type": "EP",
+      "releaseDate": "2013",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Ahorita",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 182000
+        },
+        {
+          "title": "Malicia (part. Helio Bentes)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 233000
+        },
+        {
+          "title": "Terra de Cego",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 167000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Nu",
+      "type": "ALBUM",
+      "releaseDate": "2014",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "O Baile Não Vai Morrer",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 217000
+        },
+        {
+          "title": "Alforria",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 223000
+        },
+        {
+          "title": "Mariá",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 238000
+        },
+        {
+          "title": "Considerações",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 137000
+        },
+        {
+          "title": "Muitos Amigos (Funk, Reggae, Rap, Hardcore)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 215000
+        },
+        {
+          "title": "Stocked",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 164000
+        },
+        {
+          "title": "Previsão do Tempo",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 207000
+        },
+        {
+          "title": "Arriba Y Avante",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 153000
+        },
+        {
+          "title": "Coisa Pouca",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 204000
+        },
+        {
+          "title": "Bolo Cosmoman",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 264000
+        },
+        {
+          "title": "A Vida Me Chamou",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 198000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Teoria Dinâmica Gastativa",
+      "type": "ALBUM",
+      "releaseDate": "2021",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Hidropônica",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 194000
+        },
+        {
+          "title": "História De Verão",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 179000
+        },
+        {
+          "title": "Mentalmorfose",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 157000
+        },
+        {
+          "title": "Costa Verde",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 151000
+        },
+        {
+          "title": "Good Trip",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 144000
+        },
+        {
+          "title": "Cara Esperto",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 174000
+        },
+        {
+          "title": "El Blend",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 78000
+        },
+        {
+          "title": "Valer A Pena",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 142000
+        },
+        {
+          "title": "Seu Namorado É Um Cuzão",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 166000
+        },
+        {
+          "title": "V.I.P. (Very Important Por Quê)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 144000
+        },
+        {
+          "title": "Terra Do Nunca",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 137000
+        },
+        {
+          "title": "4 A.M.",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 174000
+        },
+        {
+          "title": "O Melhor Bodyboarder Da Minha Rua",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 166000
+        },
+        {
+          "title": "Blake Metal",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 61000
+        },
+        {
+          "title": "Viva La Revolución!",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 155000
+        },
+        {
+          "title": "Constelação Karina",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 173000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Das Pistas de Skate às Pistas de Dança (Demo)",
+      "type": "ALBUM",
+      "releaseDate": "2021",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "História De Verão (Demo)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 197000
+        },
+        {
+          "title": "Cara Esperto (Demo)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 184000
+        },
+        {
+          "title": "Terra Do Nunca (Demo)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 142000
+        },
+        {
+          "title": "Garota De Floral (Demo)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 183000
+        },
+        {
+          "title": "O Melhor Bodyboarder Da Minha Rua (Demo)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 195000
+        },
+        {
+          "title": "Vou Em Frente (Demo)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 219000
+        },
+        {
+          "title": "O Mundo Vai Girar (Demo)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 217000
+        },
+        {
+          "title": "Minha Formatura (Demo)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 222000
+        },
+        {
+          "title": "Seu Namorado É Um Bundão (Demo)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 181000
+        },
+        {
+          "title": "Segundo Lugar (Demo)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 241000
+        },
+        {
+          "title": "Noites Que Virei (Demo)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 203000
+        },
+        {
+          "title": "Constelação Karina (Demo)",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 161000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Ao Vivo na Fundição",
+      "type": "LIVE",
+      "releaseDate": "2022",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Suave (Ao Vivo)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 265000
+        },
+        {
+          "title": "Sigo o Som (Ao Vivo)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 220000
+        },
+        {
+          "title": "Quando a Alma Transborda (Ao Vivo)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 274000
+        },
+        {
+          "title": "Largo dos Leões (Ao Vivo)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 247000
+        },
+        {
+          "title": "Eremita Moderno (Ao Vivo)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 168000
+        },
+        {
+          "title": "Sol ou Chuva (Ao Vivo)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 205000
+        },
+        {
+          "title": "Cigarras (Ao Vivo)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 368000
+        },
+        {
+          "title": "Muito Amigos (Ao Vivo)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 227000
+        },
+        {
+          "title": "Mariá (Ao Vivo)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 227000
+        },
+        {
+          "title": "Tropicália Digital (Ao Vivo)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 188000
+        },
+        {
+          "title": "Alforria (Ao Vivo)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 215000
+        },
+        {
+          "title": "A Vida Me Chamou (Ao Vivo)",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 192000
+        },
+        {
+          "title": "Considerações (Ao Vivo)",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 142000
+        },
+        {
+          "title": "O Viajante (Ao Vivo)",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 224000
+        },
+        {
+          "title": "Cara Esperto (Ao Vivo)",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 189000
+        },
+        {
+          "title": "Constelação Karina (Ao Vivo)",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 164000
+        },
+        {
+          "title": "História de Verão (Ao Vivo)",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 195000
+        },
+        {
+          "title": "Minha Jóia (Ao Vivo)",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 214000
+        },
+        {
+          "title": "Cósmica (Ao Vivo)",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 259000
+        },
+        {
+          "title": "Morada (Ao Vivo)",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 242000
+        },
+        {
+          "title": "Aí Sim (Ao Vivo)",
+          "discNumber": 1,
+          "position": 21,
+          "durationMs": 183000
+        },
+        {
+          "title": "Dia do Alívio (Ao Vivo)",
+          "discNumber": 1,
+          "position": 22,
+          "durationMs": 296000
+        },
+        {
+          "title": "O Mundo Vai Girar (Ao Vivo)",
+          "discNumber": 1,
+          "position": 23,
+          "durationMs": 110000
+        },
+        {
+          "title": "Coisa Pouca (Ao Vivo)",
+          "discNumber": 1,
+          "position": 24,
+          "durationMs": 209000
+        },
+        {
+          "title": "Hidropônica (Ao Vivo)",
+          "discNumber": 1,
+          "position": 25,
+          "durationMs": 196000
+        },
+        {
+          "title": "Good Trip (Ao Vivo)",
+          "discNumber": 1,
+          "position": 26,
+          "durationMs": 166000
+        },
+        {
+          "title": "Costa Verde (Ao Vivo)",
+          "discNumber": 1,
+          "position": 27,
+          "durationMs": 229000
+        },
+        {
+          "title": "Gruvi Quântico (Ao Vivo)",
+          "discNumber": 1,
+          "position": 28,
+          "durationMs": 240000
+        },
+        {
+          "title": "Panorama (Ao Vivo)",
+          "discNumber": 1,
+          "position": 29,
+          "durationMs": 215000
+        },
+        {
+          "title": "Bolo Cosmoman (Ao Vivo)",
+          "discNumber": 1,
+          "position": 30,
+          "durationMs": 429000
+        },
+        {
+          "title": "Alegria Compartilhada (Ao Vivo)",
+          "discNumber": 1,
+          "position": 31,
+          "durationMs": 297000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

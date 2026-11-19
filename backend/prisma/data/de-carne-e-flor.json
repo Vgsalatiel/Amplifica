@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-19T11:50:45.095Z",
-  "source": "MusicBrainz (dados principais em CC0)",
+  "generatedAt": "2026-11-19T00:00:00.000Z",
+  "source": "MusicBrainz (dados principais em CC0) e YouTube Music (página pública da banda)",
   "artist": {
     "mbid": "0a2cd206-ab55-42ac-8870-597caaa57e11",
     "name": "De Carne e Flor",
@@ -15,6 +15,10 @@
       {
         "name": "MusicBrainz",
         "url": "https://musicbrainz.org/artist/0a2cd206-ab55-42ac-8870-597caaa57e11"
+      },
+      {
+        "name": "YouTube Music",
+        "url": "https://music.youtube.com/channel/UCrjLMDYudXcoNrLcMZLnsLw"
       }
     ],
     "genres": [
@@ -25,119 +29,119 @@
   },
   "releases": [
     {
-      "mbid": "0925a9d2-1366-49d3-bc81-626202b9e916",
-      "releaseMbid": "213f7352-1a20-42ce-b1e5-20512251a00b",
+      "mbid": null,
+      "releaseMbid": null,
       "title": "Teto Não Familiar",
       "type": "EP",
-      "releaseDate": "2018-11-23",
+      "releaseDate": "2018",
       "description": null,
-      "coverUrl": "https://coverartarchive.org/release-group/0925a9d2-1366-49d3-bc81-626202b9e916/front-1200",
+      "coverUrl": null,
       "tracks": [
         {
-          "title": "A âncora que jogamos",
+          "title": "A Âncora Que Jogamos",
           "discNumber": 1,
           "position": 1,
           "durationMs": 140000
         },
         {
-          "title": "nas poças se transforma",
+          "title": "Nas Poças Se Transforma",
           "discNumber": 1,
           "position": 2,
-          "durationMs": 205000
+          "durationMs": 206000
         },
         {
-          "title": "em medo e em desejo",
+          "title": "Em Medo e Em Desejo",
           "discNumber": 1,
           "position": 3,
-          "durationMs": 157000
+          "durationMs": 158000
         },
         {
-          "title": "de um teto não familiar",
+          "title": "De um Teto Não Familiar",
           "discNumber": 1,
           "position": 4,
-          "durationMs": 289000
+          "durationMs": 290000
         }
       ]
     },
     {
-      "mbid": "28cb9032-a07f-4272-82fa-e7eb7ab117bb",
-      "releaseMbid": "ea7e392f-e724-47b5-bbe1-96aa5b79c447",
+      "mbid": null,
+      "releaseMbid": null,
       "title": "Cienfuegos / De Carne e Flor",
       "type": "EP",
-      "releaseDate": "2021-01-04",
+      "releaseDate": "2021",
       "description": null,
-      "coverUrl": "https://coverartarchive.org/release-group/28cb9032-a07f-4272-82fa-e7eb7ab117bb/front-1200",
+      "coverUrl": null,
       "tracks": [
         {
           "title": "Esquemas de Resistencia",
           "discNumber": 1,
           "position": 1,
-          "durationMs": 356000
+          "durationMs": 357000
         },
         {
           "title": "Arquitecturas",
           "discNumber": 1,
           "position": 2,
-          "durationMs": 253000
+          "durationMs": 254000
         },
         {
           "title": "Orquídea",
           "discNumber": 1,
           "position": 3,
-          "durationMs": 177000
+          "durationMs": 179000
         },
         {
           "title": "Vergonha",
           "discNumber": 1,
           "position": 4,
-          "durationMs": 140000
+          "durationMs": 142000
         }
       ]
     },
     {
-      "mbid": "ebeddcbf-b7a0-428e-9522-2ec3af86145a",
-      "releaseMbid": "abee093c-50aa-47cc-a7c0-79190a8caec8",
+      "mbid": null,
+      "releaseMbid": null,
       "title": "Em Teus Olhos Vejo Fendas",
       "type": "ALBUM",
-      "releaseDate": "2025-10-31",
+      "releaseDate": "2025",
       "description": null,
-      "coverUrl": "https://coverartarchive.org/release-group/ebeddcbf-b7a0-428e-9522-2ec3af86145a/front-1200",
+      "coverUrl": null,
       "tracks": [
         {
           "title": "/",
           "discNumber": 1,
           "position": 1,
-          "durationMs": 143000
+          "durationMs": 144000
         },
         {
           "title": "A Última Canção do Mundo Não É Essa",
           "discNumber": 1,
           "position": 2,
-          "durationMs": 254000
+          "durationMs": 255000
         },
         {
           "title": "Sinos",
           "discNumber": 1,
           "position": 3,
-          "durationMs": 269000
+          "durationMs": 270000
         },
         {
           "title": "Onde Mais Eu Devo Ir?",
           "discNumber": 1,
           "position": 4,
-          "durationMs": 298000
+          "durationMs": 299000
         },
         {
           "title": "(em teus olhos)",
           "discNumber": 1,
           "position": 5,
-          "durationMs": 290000
+          "durationMs": 291000
         },
         {
           "title": "Furores Perdidos",
           "discNumber": 1,
           "position": 6,
-          "durationMs": 296000
+          "durationMs": 297000
         },
         {
           "title": "LCL",
@@ -149,25 +153,25 @@
           "title": "Afago",
           "discNumber": 1,
           "position": 8,
-          "durationMs": 168000
+          "durationMs": 169000
         },
         {
           "title": "As Libélulas Insones (ou A Aposta Indecisa de Apolo e Dionísio)",
           "discNumber": 1,
           "position": 9,
-          "durationMs": 271000
+          "durationMs": 272000
         },
         {
           "title": "(vejo fendas)",
           "discNumber": 1,
           "position": 10,
-          "durationMs": 346000
+          "durationMs": 347000
         },
         {
           "title": "Teto, Pt. 2",
           "discNumber": 1,
           "position": 11,
-          "durationMs": 345000
+          "durationMs": 346000
         }
       ]
     }
