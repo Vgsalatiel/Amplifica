@@ -322,6 +322,31 @@ describe('Clipes da playlist (e2e)', () => {
       );
     });
 
+    it('os clipes do catálogo vêm depois das sugestões aprovadas, que continuam sendo o próximo', async () => {
+      await prisma.clip.create({
+        data: {
+          youtubeId: 'LLLLLLLLLL1',
+          title: 'E2E Catálogo Um',
+          channelName: 'x',
+          pinned: false,
+          position: 1000,
+          status: 'APPROVED',
+          reviewedAt: new Date(Date.now() - 60_000),
+        },
+      });
+      const fresh = (await suggest(admin, link('LLLLLLLLLL2')).expect(201)).body;
+      expect(fresh.status).toBe('APPROVED');
+
+      const titles = (await playlist()).map((clip) => clip.title);
+      const catalog = titles.indexOf('E2E Catálogo Um');
+      const suggestion = titles.indexOf('E2E Clipe LLLLLLLLLL2');
+      const fixed = titles.indexOf('E2E Fixo A');
+      expect(fixed).toBeLessThan(suggestion);
+      expect(suggestion).toBeLessThan(catalog);
+      // Todas as sugestões aprovadas antes de qualquer clipe do catálogo.
+      expect(catalog).toBe(titles.length - 1);
+    });
+
     it('os clipes fixos não mostram quem sugeriu', async () => {
       const fixed = (
         await request(server()).get(`${API}/clips?limit=50`).expect(200)

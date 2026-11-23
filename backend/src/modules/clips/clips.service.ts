@@ -222,8 +222,13 @@ export class ClipsService {
     const clips = await this.prisma.clip.findMany({
       where: { status: query.status },
       include: clipInclude,
-      orderBy: [{ createdAt: 'asc' }, { id: 'asc' }],
-      take: 100,
+      // Pendentes: os mais antigos primeiro (fila). Aprovados e recusados: os mais novos primeiro,
+      // porque o catálogo fixo é grande e esconderia o que as pessoas sugeriram.
+      orderBy:
+        query.status === 'PENDING'
+          ? [{ createdAt: 'asc' }, { id: 'asc' }]
+          : [{ createdAt: 'desc' }, { id: 'desc' }],
+      take: 300,
     });
     return clips.map(toReviewClipResponse);
   }

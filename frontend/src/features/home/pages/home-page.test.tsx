@@ -14,7 +14,7 @@ const base = {
   'GET /shows?limit=4': empty,
   'GET /artists?country=BR&sort=newest&limit=4': empty,
   'GET /genres': { status: 200, body: [] },
-  'GET /clips?limit=20': empty,
+  'GET /clips?limit=500': empty,
   'GET /artists/bullet-bane': { status: 200, body: artistDetail({ slug: 'bullet-bane', name: 'Bullet Bane' }) },
   'GET /artists/fresno': { status: 200, body: artistDetail({ slug: 'fresno', name: 'Fresno' }) },
 }
@@ -41,7 +41,7 @@ describe('HomePage', () => {
     endSession()
     mockApi({
       ...base,
-      'GET /clips?limit=20': {
+      'GET /clips?limit=500': {
         status: 200,
         body: [
           {
@@ -68,7 +68,7 @@ describe('HomePage', () => {
     endSession()
     mockApi({
       ...base,
-      'GET /clips?limit=20': { status: 404, body: { statusCode: 404, code: 'not_found', message: 'x' } },
+      'GET /clips?limit=500': { status: 404, body: { statusCode: 404, code: 'not_found', message: 'x' } },
     })
     open()
 

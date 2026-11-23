@@ -20,4 +20,11 @@ describe('prisma/data/clips/clips.json', () => {
     const ids = parsed.data!.clips.map((clip) => clip.youtubeId);
     expect(new Set(ids).size).toBe(ids.length);
   });
+
+  it('o catálogo tem no máximo um clipe por banda', () => {
+    const catalog = parsed.data!.clips.filter((clip) => clip.catalog);
+    const artists = catalog.map((clip) => clip.artist);
+    expect(artists.every(Boolean)).toBe(true);
+    expect(new Set(artists).size).toBe(artists.length);
+  });
 });

@@ -61,7 +61,8 @@ O script roda as migrations (pule com `--skip-migrate`), as bandas, as capas e, 
 | `--skip-covers`, `--skip-images`, `--skip-migrate` | pula a etapa |
 | `--images-only` | só grava as fotos do manifesto (sem bandas nem migrations) |
 | `--shows-only ARQ` | só grava os shows de um arquivo (sem bandas, fotos nem migrations) |
-| `--clips` | também grava a playlist de clipes |
+| `--clips-only` | só grava os clipes fixos da playlist (sem bandas, fotos nem migrations) |
+| `--clips` | também grava os clipes fixos, junto com o resto |
 | `--confirm-host HOST` | confirma sem perguntar (sem terminal) |
 
 ## Segurança embutida
@@ -99,3 +100,14 @@ Para publicar os shows de um arquivo (por exemplo, depois de acrescentar um show
 ```
 
 O que já existe é mantido como está (edições feitas no admin não se perdem), e os shows novos são criados. Não exige as variáveis `STORAGE_*`.
+
+## Só a playlist de clipes
+
+Os dois clipes fixos da página inicial (`prisma/data/clips/clips.json`) entram assim:
+
+```bash
+./scripts/carga-producao.sh --env-file ~/amplifica-prod.env --clips-only --dry-run
+./scripts/carga-producao.sh --env-file ~/amplifica-prod.env --clips-only --confirm-host <host do banco>
+```
+
+Sem eles, a playlist mostra só as sugestões aprovadas das pessoas. Os fixos vêm sempre primeiro, e o que já existe é mantido.

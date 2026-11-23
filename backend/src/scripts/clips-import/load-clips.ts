@@ -3,8 +3,9 @@ import { slugSchema } from '../../common/slug.js';
 import type { PrismaService } from '../../prisma/prisma.service.js';
 
 /**
- * Clipes fixos da playlist "Agora na tela": abrem a playlist, antes das sugestões, na ordem em que
- * aparecem neste arquivo. O título e o canal são os que o YouTube informa para o vídeo.
+ * Clipes fixos da playlist "Agora na tela". Os de abertura (padrão) vêm antes de tudo, na ordem do
+ * arquivo. Os `catalog` (um de cada banda do site) vêm depois das sugestões aprovadas, para que o
+ * pedido de uma pessoa continue sendo o próximo. O título e o canal são os que o YouTube informa.
  */
 export const clipsFileSchema = z.object({
   clips: z.array(
@@ -14,11 +15,16 @@ export const clipsFileSchema = z.object({
       channelName: z.string().min(1).max(120),
       /** Endereço (slug) da banda no catálogo, quando ela está lá. */
       artist: slugSchema.nullable().optional(),
+      /** Clipe do catálogo: não abre a playlist, entra depois das sugestões aprovadas. */
+      catalog: z.boolean().optional(),
     }),
   ),
 });
 
 export type ClipsFile = z.infer<typeof clipsFileSchema>;
+
+/** Onde começam os clipes do catálogo na ordem da playlist (as sugestões ficam na posição 0). */
+export const CATALOG_POSITION = 1000;
 
 export interface ClipsReport {
   created: number;
@@ -53,8 +59,9 @@ export async function loadClips(
         title: entry.title,
         channelName: entry.channelName,
         artistId: artist?.id ?? null,
-        pinned: true,
-        position,
+        pinned: !entry.catalog,
+        // Sugestões aprovadas têm posição 0: as do catálogo ficam bem depois delas.
+        position: entry.catalog ? CATALOG_POSITION + position : position,
         status: 'APPROVED',
         reviewedAt: new Date(),
       },

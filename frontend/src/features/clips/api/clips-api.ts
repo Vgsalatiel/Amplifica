@@ -2,7 +2,7 @@ import { apiFetch } from '../../../lib/api-client'
 import type { ClipStatus, Discoveries, MyClip, PlaylistClip, ReviewClip } from '../../../types/api'
 
 /** A playlist pública da página inicial: fixos primeiro, depois as sugestões aprovadas. */
-export const listClips = () => apiFetch<PlaylistClip[]>('/clips?limit=20')
+export const listClips = () => apiFetch<PlaylistClip[]>('/clips?limit=500')
 
 /** As sugestões de quem está logado, com a situação de cada uma. */
 export const listMyClips = () => apiFetch<MyClip[]>('/clips/mine')

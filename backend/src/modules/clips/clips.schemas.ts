@@ -9,7 +9,7 @@ export const suggestClipSchema = z.object({
 });
 
 export const listClipsSchema = z.object({
-  limit: z.coerce.number().int().min(1).max(50).default(20),
+  limit: z.coerce.number().int().min(1).max(500).default(20),
 });
 
 export const reviewListSchema = z.object({
