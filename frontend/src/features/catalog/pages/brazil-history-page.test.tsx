@@ -24,6 +24,26 @@ describe('BrazilHistoryPage', () => {
     expect(document.title).toBe('História da cena BR | Amplifica')
   })
 
+  it('ilustra os capítulos com fotos livres, ao lado do texto e com o crédito do autor', () => {
+    endSession()
+    mockApi({ 'GET /artists?country=BR&limit=50': { status: 200, body: page([]) } })
+    open()
+
+    const colera = screen.getByRole('img', { name: /Banda Cólera tocando/ })
+    expect(colera).toHaveAttribute('src', '/historia/colera-1985.jpg')
+    const figure = colera.closest('figure')!
+    expect(within(figure).getByText(/Foto: Zani89/)).toBeInTheDocument()
+    expect(within(figure).getByRole('link', { name: 'CC BY-SA 3.0' })).toHaveAttribute(
+      'href',
+      'https://creativecommons.org/licenses/by-sa/3.0',
+    )
+    expect(within(figure).getByRole('link', { name: /Wikimedia Commons/ })).toHaveAttribute(
+      'href',
+      'https://commons.wikimedia.org/wiki/File:C%C3%B3lera.jpg',
+    )
+    expect(screen.getAllByRole('figure')).toHaveLength(4)
+  })
+
   it('tem a seção da MTV Brasil com a linha do tempo, sem ligar o Amplifica à emissora', () => {
     endSession()
     mockApi({ 'GET /artists?country=BR&limit=50': { status: 200, body: page([]) } })

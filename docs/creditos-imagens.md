@@ -123,3 +123,17 @@ Fotos do Wikimedia Commons, em até 1280 px, vistas antes de entrar. Poppy: foto
 |---|---|---|---|
 | Poppy | DiegoVigueras | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Poppy 2023.jpg](https://commons.wikimedia.org/wiki/File:Poppy_2023.jpg) |
 | Jinjer | Doornroosje.nl | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Jinjer-1-1920x1080.jpg](https://commons.wikimedia.org/wiki/File:Jinjer-1-1920x1080.jpg) |
+
+
+## Fotos da página "História da cena BR"
+
+Ficam em `frontend/public/historia/` (vão junto com o site) e são declaradas em `frontend/src/features/catalog/lib/brazil-history.ts`, campo `image` de cada capítulo. A legenda da página já mostra autor, licença e link do original.
+
+| Capítulo | Arquivo | Foto | Autor | Licença | Original |
+|---|---|---|---|---|---|
+| Anos 80 | `colera-1985.jpg` | Cólera ao vivo em São Paulo, 1985 (preto e branco, 708×467) | Zani89 ("obra própria" no Commons) | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Cólera.jpg](https://commons.wikimedia.org/wiki/File:C%C3%B3lera.jpg) |
+| Anos 90 | `dead-fish-2007.jpg` | Dead Fish ao vivo, 2007 (traz a assinatura do fotógrafo na imagem) | tatu43 | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Dead Fish (outubro de 2007).jpg](https://commons.wikimedia.org/wiki/File:Dead_Fish_(outubro_de_2007).jpg) |
+| Anos 2000 | `fresno.jpg` | Fresno no palco (traz a assinatura do fotógrafo na imagem) | Rodrigo Bertolino | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Banda Fresno 2.jpg](https://commons.wikimedia.org/wiki/File:Banda_Fresno_2.jpg) |
+| 2009 | `restart.jpg` | Integrante do Restart em show | Dariane Cristine | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Restart 003.jpg](https://commons.wikimedia.org/wiki/File:Restart_003.jpg) |
+
+O capítulo "A cena hoje" não tem foto: não achei foto livre das bandas independentes atuais. Pesquisadas e sem resultado no Commons: Olho Seco, Inocentes (a banda), Cine, Hori e Replace.

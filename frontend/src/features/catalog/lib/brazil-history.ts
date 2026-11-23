@@ -4,12 +4,26 @@ export interface HistoryBand {
   slug?: string
 }
 
+/** Foto de licença livre (Wikimedia Commons) que ilustra um capítulo; o crédito aparece embaixo dela. */
+export interface HistoryImage {
+  src: string
+  alt: string
+  caption: string
+  width: number
+  height: number
+  author: string
+  license: string
+  licenseUrl: string
+  sourceUrl: string
+}
+
 export interface HistoryEra {
   id: string
   title: string
   period: string
   paragraphs: string[]
   bands: HistoryBand[]
+  image?: HistoryImage
 }
 
 export interface HistorySource {
@@ -31,6 +45,17 @@ export const HISTORY_ERAS: HistoryEra[] = [
       'Por volta de 1983, em São Paulo, os grupos que se assumiam hardcore se separaram dos que seguiam o punk rock dos anos 70. Entraram nesse lado Ratos de Porão, Olho Seco e Excomungados, e a cena se espalhou: o Rio tinha Desordeiros e Auschwitz, e Brasília tinha A.R.D. e DF-Caos, que depois virou DFC.',
     ],
     bands: [{ name: 'Olho Seco' }, { name: 'Inocentes' }, { name: 'Cólera' }, { name: 'Ratos de Porão' }],
+    image: {
+      src: '/historia/colera-1985.jpg',
+      alt: "Banda Cólera tocando num palco em 1985, com o nome da banda numa faixa ao fundo",
+      caption: "Cólera ao vivo em São Paulo, 1985.",
+      width: 708,
+      height: 467,
+      author: 'Zani89',
+      license: 'CC BY-SA 3.0',
+      licenseUrl: 'https://creativecommons.org/licenses/by-sa/3.0',
+      sourceUrl: 'https://commons.wikimedia.org/wiki/File:C%C3%B3lera.jpg',
+    },
   },
   {
     id: 'hardcore-melodico-anos-90',
@@ -46,6 +71,17 @@ export const HISTORY_ERAS: HistoryEra[] = [
       { name: 'CPM 22', slug: 'cpm-22' },
       { name: 'Charlie Brown Jr.', slug: 'charlie-brown-jr' },
     ],
+    image: {
+      src: '/historia/dead-fish-2007.jpg',
+      alt: "Show do Dead Fish em 2007, com a plateia colada no palco",
+      caption: "Dead Fish ao vivo, em 2007.",
+      width: 800,
+      height: 531,
+      author: 'tatu43',
+      license: 'CC BY 2.0',
+      licenseUrl: 'https://creativecommons.org/licenses/by/2.0',
+      sourceUrl: 'https://commons.wikimedia.org/wiki/File:Dead_Fish_(outubro_de_2007).jpg',
+    },
   },
   {
     id: 'emo-anos-2000',
@@ -59,6 +95,17 @@ export const HISTORY_ERAS: HistoryEra[] = [
       { name: 'Fresno', slug: 'fresno' },
       { name: 'Gloria', slug: 'gloria' },
     ],
+    image: {
+      src: '/historia/fresno.jpg',
+      alt: "Banda Fresno no palco de um festival, com a luz do sol entre os refletores",
+      caption: "Fresno no palco.",
+      width: 640,
+      height: 426,
+      author: 'Rodrigo Bertolino',
+      license: 'CC BY-SA 2.0',
+      licenseUrl: 'https://creativecommons.org/licenses/by-sa/2.0',
+      sourceUrl: 'https://commons.wikimedia.org/wiki/File:Banda_Fresno_2.jpg',
+    },
   },
   {
     id: 'bandas-coloridas-2009',
@@ -69,6 +116,17 @@ export const HISTORY_ERAS: HistoryEra[] = [
       'O sucesso começou com a Cine e o single "Garota Radical". Em novembro de 2009 surgiu o Restart, que consolidou o estilo. Também se destacaram Hori, Replace, Jullie, CW7, Caps Lock e Izi.',
     ],
     bands: [{ name: 'Cine' }, { name: 'Restart' }, { name: 'Hori' }, { name: 'Replace' }],
+    image: {
+      src: '/historia/restart.jpg',
+      alt: "Integrante do Restart tocando guitarra num show, em preto e branco",
+      caption: "Restart ao vivo.",
+      width: 960,
+      height: 639,
+      author: 'Dariane Cristine',
+      license: 'CC BY 2.0',
+      licenseUrl: 'https://creativecommons.org/licenses/by/2.0',
+      sourceUrl: 'https://commons.wikimedia.org/wiki/File:Restart_003.jpg',
+    },
   },
   {
     id: 'cena-atual',

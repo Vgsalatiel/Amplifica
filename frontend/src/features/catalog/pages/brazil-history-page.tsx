@@ -3,7 +3,14 @@ import { SectionHeading } from '../../../components/ui/section-heading'
 import { TextLink } from '../../../components/ui/text-link'
 import { useDocumentTitle } from '../../../hooks/use-document-title'
 import { BrazilSceneNav } from '../components/brazil-scene-nav'
-import { HISTORY_ERAS, HISTORY_SOURCES, MTV_INTRO, MTV_TIMELINE, type HistoryBand } from '../lib/brazil-history'
+import {
+  HISTORY_ERAS,
+  HISTORY_SOURCES,
+  MTV_INTRO,
+  MTV_TIMELINE,
+  type HistoryBand,
+  type HistoryImage,
+} from '../lib/brazil-history'
 import { useArtistList } from '../hooks/use-catalog'
 
 /** História da cena BR, em /cena-br/historia: do hardcore dos anos 80 ao emo e ao metalcore de hoje. */
@@ -26,22 +33,31 @@ export function BrazilHistoryPage() {
         {HISTORY_ERAS.map((era) => (
           <li key={era.id}>
             <section aria-labelledby={era.id}>
-              <p className="font-display text-2xl text-accent">{era.period}</p>
-              <SectionHeading as="h2" className="mt-1">
-                <span id={era.id}>{era.title}</span>
-              </SectionHeading>
-              <div className="mt-5 max-w-2xl space-y-4 text-lg leading-relaxed">
-                {era.paragraphs.map((text) => (
-                  <p key={text}>{text}</p>
-                ))}
+              <div
+                className={
+                  era.image ? 'grid items-start gap-8 md:grid-cols-[minmax(0,3fr)_minmax(0,2fr)] md:gap-12' : undefined
+                }
+              >
+                <div>
+                  <p className="font-display text-2xl text-accent">{era.period}</p>
+                  <SectionHeading as="h2" className="mt-1">
+                    <span id={era.id}>{era.title}</span>
+                  </SectionHeading>
+                  <div className="mt-5 max-w-2xl space-y-4 text-lg leading-relaxed">
+                    {era.paragraphs.map((text) => (
+                      <p key={text}>{text}</p>
+                    ))}
+                  </div>
+                  <ul className="mt-6 flex flex-wrap gap-x-5 gap-y-2" aria-label={`Bandas: ${era.title}`}>
+                    {era.bands.map((band) => (
+                      <li key={band.name}>
+                        <BandName band={band} linked={band.slug !== undefined && inCatalog.has(band.slug)} />
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+                {era.image && <EraPhoto image={era.image} />}
               </div>
-              <ul className="mt-6 flex flex-wrap gap-x-5 gap-y-2" aria-label={`Bandas: ${era.title}`}>
-                {era.bands.map((band) => (
-                  <li key={band.name}>
-                    <BandName band={band} linked={band.slug !== undefined && inCatalog.has(band.slug)} />
-                  </li>
-                ))}
-              </ul>
             </section>
           </li>
         ))}
@@ -98,4 +114,42 @@ function BandName({ band, linked }: { band: HistoryBand; linked: boolean }) {
     return <TextLink to={`/artistas/${band.slug}`}>{band.name}</TextLink>
   }
   return <span className="text-muted">{band.name}</span>
+}
+
+/** A foto do capítulo, ao lado do texto, com legenda e o crédito que a licença livre exige. */
+function EraPhoto({ image }: { image: HistoryImage }) {
+  return (
+    <figure className="md:sticky md:top-28">
+      <img
+        src={image.src}
+        alt={image.alt}
+        width={image.width}
+        height={image.height}
+        loading="lazy"
+        className="h-auto w-full border border-rule"
+      />
+      <figcaption className="mt-2 text-xs leading-snug text-muted">
+        {image.caption} Foto: {image.author},{' '}
+        <a
+          href={image.licenseUrl}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="underline underline-offset-2 hover:text-accent"
+        >
+          {image.license}
+        </a>
+        , via{' '}
+        <a
+          href={image.sourceUrl}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="underline underline-offset-2 hover:text-accent"
+        >
+          Wikimedia Commons
+          <span className="sr-only"> (abre em outra aba)</span>
+        </a>
+        .
+      </figcaption>
+    </figure>
+  )
 }
