@@ -63,6 +63,7 @@ export function artistDetail(overrides: Partial<ArtistDetail> = {}): ArtistDetai
     imageCredit: null,
     bio: 'Primeiro parágrafo da história.\n\nSegundo parágrafo da história.',
     sources: [{ name: 'MusicBrainz', url: 'https://musicbrainz.org/artist/1' }],
+    facts: [],
     city: 'Sheffield',
     formedYear: 2004,
     disbandedYear: null,

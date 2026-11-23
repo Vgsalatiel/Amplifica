@@ -159,6 +159,8 @@ model Artist {
   imageCredit   Json?
   // Fontes do texto da bio, como [{ name, url }]. Exibidas na página do artista.
   sources       Json?
+  // Curiosidades da seção "Você sabia?", como [{ text, sourceName, sourceUrl }]; cada uma com a sua fonte.
+  facts         Json?
   // Identificador no MusicBrainz, para a importação futura.
   mbid          String?    @unique
   createdAt     DateTime   @default(now())

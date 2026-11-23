@@ -90,11 +90,40 @@ export function parseImageCredit(value: unknown): ImageCredit | null {
     : null;
 }
 
+/** Uma curiosidade da seção "Você sabia?", sempre com a fonte de onde veio. */
+export interface ArtistFact {
+  text: string;
+  sourceName: string;
+  sourceUrl: string;
+}
+
+/** Lê as curiosidades gravadas no banco; descarta as que estão incompletas ou com link que não seja https. */
+export function parseFacts(value: unknown): ArtistFact[] {
+  if (!Array.isArray(value)) {
+    return [];
+  }
+  return value.flatMap((item): ArtistFact[] => {
+    if (typeof item !== 'object' || item === null) {
+      return [];
+    }
+    const { text, sourceName, sourceUrl } = item as Record<string, unknown>;
+    return typeof text === 'string' &&
+      text.trim() &&
+      typeof sourceName === 'string' &&
+      sourceName.trim() &&
+      isHttps(sourceUrl)
+      ? [{ text, sourceName, sourceUrl }]
+      : [];
+  });
+}
+
 export interface ArtistDetail extends ArtistSummary {
   /** Só existe para foto própria da banda (nunca para a capa emprestada de um disco). */
   imageCredit: ImageCredit | null;
   bio: string | null;
   sources: Source[];
+  /** Curiosidades com fonte; vazio quando a banda ainda não tem. */
+  facts: ArtistFact[];
   city: string | null;
   formedYear: number | null;
   disbandedYear: number | null;
@@ -241,6 +270,7 @@ export function toArtistDetail(
     imageCredit: artist.imagePath ? parseImageCredit(artist.imageCredit) : null,
     bio: artist.bio,
     sources: parseSources(artist.sources),
+    facts: parseFacts(artist.facts),
     city: artist.city,
     formedYear: artist.formedYear,
     disbandedYear: artist.disbandedYear,

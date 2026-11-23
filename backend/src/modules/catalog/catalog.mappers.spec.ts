@@ -1,4 +1,4 @@
-import { parseSources } from './catalog.mappers.js';
+import { parseFacts, parseSources } from './catalog.mappers.js';
 
 describe('parseSources', () => {
   it('mantém fontes válidas', () => {
@@ -24,5 +24,32 @@ describe('parseSources', () => {
   it('devolve lista vazia quando o campo não é uma lista', () => {
     expect(parseSources(null)).toEqual([]);
     expect(parseSources({ name: 'x' })).toEqual([]);
+  });
+});
+
+describe('parseFacts', () => {
+  const fact = { text: 'Uma curiosidade.', sourceName: 'Wikipédia (pt)', sourceUrl: 'https://pt.wikipedia.org/wiki/X' };
+
+  it('mantém curiosidades completas', () => {
+    expect(parseFacts([fact])).toEqual([fact]);
+  });
+
+  it('descarta as incompletas ou com link que não seja https', () => {
+    expect(
+      parseFacts([
+        fact,
+        { ...fact, text: '  ' },
+        { ...fact, sourceName: '' },
+        { ...fact, sourceUrl: 'javascript:alert(1)' },
+        { ...fact, sourceUrl: 'http://exemplo.com' },
+        'texto solto',
+        null,
+      ]),
+    ).toEqual([fact]);
+  });
+
+  it('devolve lista vazia quando não há curiosidades', () => {
+    expect(parseFacts(null)).toEqual([]);
+    expect(parseFacts({ text: 'x' })).toEqual([]);
   });
 });

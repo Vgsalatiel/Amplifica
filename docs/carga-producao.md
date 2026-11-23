@@ -62,6 +62,7 @@ O script roda as migrations (pule com `--skip-migrate`), as bandas, as capas e, 
 | `--images-only` | só grava as fotos do manifesto (sem bandas nem migrations) |
 | `--shows-only ARQ` | só grava os shows de um arquivo (sem bandas, fotos nem migrations) |
 | `--clips-only` | só grava os clipes fixos da playlist (sem bandas, fotos nem migrations) |
+| `--facts-only` | só grava as curiosidades "Você sabia?" de `prisma/data/facts/facts.json`. Rode **depois** do deploy: a migration que cria a coluna roda no Render |
 | `--clips` | também grava os clipes fixos, junto com o resto |
 | `--confirm-host HOST` | confirma sem perguntar (sem terminal) |
 

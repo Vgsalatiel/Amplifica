@@ -30,7 +30,8 @@
     "catalog:seed": "nest build && node dist/scripts/seed-catalog.js",
     "shows:seed": "nest build && node dist/scripts/seed-shows.js",
     "images:seed": "nest build && node dist/scripts/seed-images.js",
-    "clips:seed": "nest build && node dist/scripts/seed-clips.js"
+    "clips:seed": "nest build && node dist/scripts/seed-clips.js",
+    "facts:seed": "nest build && node dist/scripts/seed-facts.js"
   },
   "dependencies": {
     "@nestjs/authentication": "^0.1.5",

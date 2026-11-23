@@ -87,6 +87,28 @@ describe('ArtistPage', () => {
     expect(screen.getByText(/Nenhum lançamento cadastrado/)).toBeInTheDocument()
   })
 
+  it('mostra "Você sabia?" com a fonte de cada curiosidade, e esconde a seção se não houver', async () => {
+    endSession()
+    const facts = [
+      { text: 'O nome da banda vem de uma música antiga.', sourceName: 'Wikipédia (pt)', sourceUrl: 'https://pt.wikipedia.org/wiki/X' },
+      { text: 'Uma curiosidade com link perigoso.', sourceName: 'Fonte ruim', sourceUrl: 'javascript:alert(1)' },
+    ]
+    mockApi({ 'GET /artists/x': { status: 200, body: artistDetail({ facts }) } })
+    const { unmount } = open('x')
+
+    const section = await screen.findByRole('region', { name: 'Você sabia?' })
+    expect(within(section).getByText('O nome da banda vem de uma música antiga.')).toBeInTheDocument()
+    expect(within(section).getByRole('link', { name: /Wikipédia \(pt\)/ })).toHaveAttribute('href', 'https://pt.wikipedia.org/wiki/X')
+    expect(within(section).queryByRole('link', { name: /Fonte ruim/ })).not.toBeInTheDocument()
+    expect(within(section).getByText('Fonte: Fonte ruim')).toBeInTheDocument()
+    unmount()
+
+    mockApi({ 'GET /artists/x': { status: 200, body: artistDetail({ facts: [] }) } })
+    open('x')
+    await screen.findByRole('heading', { level: 1 })
+    expect(screen.queryByRole('heading', { name: 'Você sabia?' })).not.toBeInTheDocument()
+  })
+
   it('muda o título da aba e explica quando o artista não existe', async () => {
     endSession()
     mockApi({ 'GET /artists/x': { status: 200, body: artistDetail() } })

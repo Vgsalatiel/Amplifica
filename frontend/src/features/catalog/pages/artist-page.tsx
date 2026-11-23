@@ -10,6 +10,7 @@ import { ApiError } from '../../../lib/http'
 import { ARTIST_TYPE_LABELS } from '../../../lib/labels'
 import type { ArtistDetail } from '../../../types/api'
 import { UpcomingShows } from '../../shows/components/upcoming-shows'
+import { ArtistFacts } from '../components/artist-facts'
 import { Discography } from '../components/discography'
 import { PhotoCredit } from '../components/photo-credit'
 import { useArtist } from '../hooks/use-catalog'
@@ -117,6 +118,9 @@ export function ArtistPage() {
           )}
         </section>
       )}
+
+      {/* `?? []`: a API antiga, ainda sem curiosidades, não pode derrubar a página. */}
+      <ArtistFacts facts={data.facts ?? []} />
 
       <section className="mt-16 border-t border-rule pt-12" aria-labelledby="discografia-titulo">
         <SectionHeading as="h2">

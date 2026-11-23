@@ -117,11 +117,20 @@ export interface ImageCredit {
   sourceUrl: string
 }
 
+/** Uma curiosidade da seção "Você sabia?", com a fonte de onde veio. */
+export interface ArtistFact {
+  text: string
+  sourceName: string
+  sourceUrl: string
+}
+
 export interface ArtistDetail extends ArtistSummary {
   /** Só vem para a foto própria da banda, nunca para a capa emprestada de um disco. */
   imageCredit: ImageCredit | null
   bio: string | null
   sources: Source[]
+  /** Curiosidades com fonte; vazio quando a banda ainda não tem. */
+  facts: ArtistFact[]
   city: string | null
   formedYear: number | null
   disbandedYear: number | null

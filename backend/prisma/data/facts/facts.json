@@ -1,0 +1,429 @@
+{
+  "bands": [
+    {
+      "artist": "linkin-park",
+      "facts": [
+        {
+          "text": "Antes de virar Linkin Park, a banda se chamou Xero e depois Hybrid Theory. O nome atual faz referência ao Lincoln Park, em Santa Monica, onde os integrantes costumavam se encontrar.",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/Linkin_Park"
+        },
+        {
+          "text": "Em 2006, a banda levou o Grammy de Melhor Colaboração Rap/Cantada ao tocar \"Numb/Encore\" com Jay-Z, mistura de músicas dos dois que veio do álbum Collision Course (2004).",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/Linkin_Park"
+        },
+        {
+          "text": "Na turnê do Meteora, em 2004, o Linkin Park tocou no Estádio do Morumbi, em São Paulo, para cerca de 80 mil pagantes.",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/Linkin_Park"
+        }
+      ]
+    },
+    {
+      "artist": "green-day",
+      "facts": [
+        {
+          "text": "Nos primeiros anos, o Green Day se chamava The Sweet Children. A troca para o nome atual aconteceu em 1989, antes do EP 1,000 Hours.",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/Green_Day"
+        },
+        {
+          "text": "Em 2003, as fitas master do álbum Cigarettes and Valentines foram roubadas do estúdio. A banda não tentou recriá-lo e começou tudo de novo, o que levou ao American Idiot (2004).",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/Green_Day"
+        },
+        {
+          "text": "American Idiot virou musical na Broadway em 2010, com três indicações ao Tony e duas vitórias (cenário e iluminação). A gravação do elenco ganhou o Grammy de Melhor Álbum de Musical.",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/Green_Day"
+        },
+        {
+          "text": "O Green Day entrou no Rock and Roll Hall of Fame em 2015, já no primeiro ano em que era elegível.",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/Green_Day"
+        }
+      ]
+    },
+    {
+      "artist": "blink-182",
+      "facts": [
+        {
+          "text": "Em 2002, o blink-182 fez a Pop Disaster Tour ao lado do Green Day, com a ideia de mostrar união entre as duas bandas.",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/Blink-182"
+        },
+        {
+          "text": "Robert Smith, do The Cure, participa da faixa \"All of This\", do álbum autointitulado de 2003.",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/Blink-182"
+        },
+        {
+          "text": "Em março de 2024, a banda foi atração principal do Lollapalooza no Chile, na Argentina e no Brasil, suas primeiras apresentações nesses países.",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/Blink-182"
+        }
+      ]
+    },
+    {
+      "artist": "my-chemical-romance",
+      "facts": [
+        {
+          "text": "O nome veio de Mikey Way, que se inspirou no título do livro Ecstasy: Three Tales of Chemical Romance, de Irvine Welsh.",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/My_Chemical_Romance"
+        },
+        {
+          "text": "\"Welcome to the Black Parade\" foi o primeiro número 1 do grupo no Reino Unido, em outubro de 2006. Nos EUA, chegou à nona posição da Billboard Hot 100.",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/My_Chemical_Romance"
+        },
+        {
+          "text": "A turnê The Black Parade World Tour começou em 22 de fevereiro de 2007 e teve 133 shows.",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/My_Chemical_Romance"
+        },
+        {
+          "text": "Em 2007, a banda venceu o prêmio de Melhor Banda Internacional no NME Awards.",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/My_Chemical_Romance"
+        }
+      ]
+    },
+    {
+      "artist": "paramore",
+      "facts": [
+        {
+          "text": "O nome vem do nome da mãe de um ex-baixista. Depois, a banda descobriu que \"paramour\" (amante secreto, em inglês) soa igual e adotou a grafia Paramore.",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/Paramore"
+        },
+        {
+          "text": "\"Ain't It Fun\" deu à banda o primeiro Grammy, o de Melhor Canção de Rock, em 2015.",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/Paramore"
+        },
+        {
+          "text": "Em 2024, o álbum This Is Why ganhou o Grammy de Melhor Álbum de Rock, e a faixa-título levou o de Melhor Performance Alternativa.",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/Paramore"
+        },
+        {
+          "text": "O álbum Paramore (2013) foi o primeiro da banda a chegar ao topo da parada dos EUA, e também foi número 1 no Reino Unido, na Austrália e no Brasil.",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/Paramore"
+        }
+      ]
+    },
+    {
+      "artist": "bring-me-the-horizon",
+      "facts": [
+        {
+          "text": "O nome vem de Piratas do Caribe: A Maldição do Pérola Negra. O Capitão Jack Sparrow diz \"Now, bring me that horizon\", e a banda adaptou a frase.",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/Bring_Me_the_Horizon"
+        },
+        {
+          "text": "Em 22 de abril de 2016, a banda tocou no Royal Albert Hall com orquestra ao vivo, pela primeira vez. A gravação foi lançada para arrecadar fundos para a Teenage Cancer Trust.",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/Bring_Me_the_Horizon"
+        },
+        {
+          "text": "Amo (2019) foi o primeiro álbum da banda a chegar ao primeiro lugar no Reino Unido.",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/Bring_Me_the_Horizon"
+        },
+        {
+          "text": "Em 2022, a banda foi co-headliner do Reading e do Leeds com o Arctic Monkeys, sua primeira vez como atração principal dos festivais.",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/Bring_Me_the_Horizon"
+        }
+      ]
+    },
+    {
+      "artist": "slipknot",
+      "facts": [
+        {
+          "text": "Antes de virar Slipknot, a banda se apresentou pela primeira vez, em dezembro de 1995, com o nome Meld. O nome definitivo veio de uma sugestão do baterista Joey Jordison, inspirada numa faixa da demo Mate. Feed. Kill. Repeat.",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/Slipknot"
+        },
+        {
+          "text": "Os integrantes usam macacões e máscaras e são identificados por números de 0 a 8, o que dá nove membros. As máscaras mudam a cada álbum e, desde 2001, são feitas pelo artista de efeitos especiais Screaming Mad George.",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/Slipknot"
+        },
+        {
+          "text": "Em 2006 o Slipknot ganhou o Grammy de Melhor Performance de Metal com \"Before I Forget\". Já o álbum Iowa (2001) chegou ao primeiro lugar da parada britânica de álbuns.",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/Slipknot"
+        }
+      ]
+    },
+    {
+      "artist": "sleep-token",
+      "facts": [
+        {
+          "text": "O Sleep Token é uma banda inglesa anônima: no palco, os integrantes aparecem de máscara, túnica longa e pintura corporal preta. A própria banda já declarou que suas identidades são sem importância.",
+          "sourceName": "Wikipedia (en)",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Sleep_Token"
+        },
+        {
+          "text": "Em 2023, o show do Sleep Token na Wembley Arena, em Londres, esgotou os ingressos em apenas dez minutos.",
+          "sourceName": "Wikipedia (en)",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Sleep_Token"
+        },
+        {
+          "text": "Even in Arcadia (2025) estreou em primeiro lugar na Billboard 200, com 127 mil unidades equivalentes, o primeiro álbum da banda a chegar ao topo nos Estados Unidos.",
+          "sourceName": "Wikipedia (en)",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Sleep_Token"
+        }
+      ]
+    },
+    {
+      "artist": "architects",
+      "facts": [
+        {
+          "text": "Antes de se chamar Architects, o projeto dos irmãos gêmeos Dan e Tom Searle em Brighton atendia por Counting the Days.",
+          "sourceName": "Wikipedia (en)",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Architects_(British_band)"
+        },
+        {
+          "text": "Em 2017, All Our Gods Have Abandoned Us levou o prêmio de Melhor Álbum na primeira edição do Heavy Music Awards.",
+          "sourceName": "Wikipedia (en)",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Architects_(British_band)"
+        },
+        {
+          "text": "Para lançar For Those That Wish to Exist, o Architects fez uma transmissão ao vivo do Royal Albert Hall, em novembro de 2020. O disco, de 2021, foi o primeiro da banda no topo da parada britânica de álbuns.",
+          "sourceName": "Wikipedia (en)",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Architects_(British_band)"
+        },
+        {
+          "text": "Sam Carter, vocalista do Architects, emprestou a voz ao tema de Final Fantasy XIV: Endwalker, lançado em 2021.",
+          "sourceName": "Wikipedia (en)",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Architects_(British_band)"
+        }
+      ]
+    },
+    {
+      "artist": "fall-out-boy",
+      "facts": [
+        {
+          "text": "Antes de ser Fall Out Boy, a banda se apresentava como Forget Me Not. O nome atual surgiu de um grito de um fã num show no sul de Illinois, depois de a banda cogitar várias opções, entre elas um personagem de Os Simpsons.",
+          "sourceName": "Wikipedia (en)",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Fall_Out_Boy"
+        },
+        {
+          "text": "Infinity on High (2007) estreou em primeiro lugar na Billboard 200, com 260 mil cópias na primeira semana, a maior estreia da banda. Mania (2018) foi o quarto álbum dela a chegar ao topo.",
+          "sourceName": "Wikipedia (en)",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Fall_Out_Boy"
+        },
+        {
+          "text": "Em abril de 2015, o Fall Out Boy foi a banda escolhida para apresentar o Green Day na indução ao Rock and Roll Hall of Fame.",
+          "sourceName": "Wikipedia (en)",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Fall_Out_Boy"
+        },
+        {
+          "text": "Em setembro de 2018 o Fall Out Boy fez seu primeiro show como atração principal num estádio, o Wrigley Field.",
+          "sourceName": "Wikipedia (en)",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Fall_Out_Boy"
+        }
+      ]
+    },
+    {
+      "artist": "good-charlotte",
+      "facts": [
+        {
+          "text": "O nome do Good Charlotte vem do livro infantil Good Charlotte: Girls of the Good Day Orphanage, de Carol Beach York.",
+          "sourceName": "Wikipedia (en)",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Good_Charlotte"
+        },
+        {
+          "text": "Uma demo de \"Little Things\" tocou em rádios locais em 1999 e despertou o interesse de gravadoras. A banda assinou com a Epic Records em maio de 2000, depois de um showcase em Nova York.",
+          "sourceName": "Wikipedia (en)",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Good_Charlotte"
+        },
+        {
+          "text": "The Chronicles of Life and Death (2004) estreou em terceiro lugar na Billboard 200, a melhor posição da banda nos EUA, e foi certificado platina.",
+          "sourceName": "Wikipedia (en)",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Good_Charlotte"
+        },
+        {
+          "text": "Em 2007, o Good Charlotte abriu a turnê FutureSex/LoveShow, de Justin Timberlake, incluindo um show no Madison Square Garden, e desfilou num carro alegórico na parada de Ação de Graças da Macy's.",
+          "sourceName": "Wikipedia (en)",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Good_Charlotte"
+        }
+      ]
+    },
+    {
+      "artist": "sum-41",
+      "facts": [
+        {
+          "text": "O nome Sum 41 veio de uma conta de calendário: os dias entre o início das férias de verão e o dia do Warped Tour somaram 41. O nome estreou numa batalha de bandas em setembro de 1996.",
+          "sourceName": "Wikipedia (en)",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Sum_41"
+        },
+        {
+          "text": "O Sum 41 venceu dois prêmios Juno, de Grupo do Ano (2003) e de Álbum de Rock do Ano por Chuck (2005). Em março de 2025, a banda entrou para o Hall da Fama da Música Canadense.",
+          "sourceName": "Wikipedia (en)",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Sum_41"
+        },
+        {
+          "text": "Iggy Pop recrutou o Sum 41 para o álbum Skull Ring, e Deryck Whibley coescreveu o primeiro single, \"Little Know It All\".",
+          "sourceName": "Wikipedia (en)",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Sum_41"
+        },
+        {
+          "text": "Em 2001 o Sum 41 tocou em mais de 300 shows. \"Fat Lip\" liderou a parada Modern Rock Tracks da Billboard e segue como o single de maior sucesso da banda.",
+          "sourceName": "Wikipedia (en)",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Sum_41"
+        }
+      ]
+    },
+    {
+      "artist": "charlie-brown-jr",
+      "facts": [
+        {
+          "text": "O nome veio de uma barraca de água de coco com a imagem do personagem Charlie Brown, que Chorão derrubou. O \"Jr.\" foi acrescentado para marcar as raízes da banda no rock.",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/Charlie_Brown_Jr."
+        },
+        {
+          "text": "Antes de virar Charlie Brown Jr., o grupo de Santos se chamava What's Up e tocava thrash/hardcore com letras em inglês.",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/Charlie_Brown_Jr."
+        },
+        {
+          "text": "\"Te Levar\" foi tema da novela Malhação, da TV Globo, de 1999 a 2006. Em 2001, o clipe de \"Rubão, o Dono do Mundo\" levou o prêmio Escolha da Audiência do VMB.",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/Charlie_Brown_Jr."
+        },
+        {
+          "text": "O álbum Camisa 10 Joga Bola Até na Chuva (2009) venceu o Grammy Latino de Melhor Álbum de Rock Brasileiro.",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/Charlie_Brown_Jr."
+        }
+      ]
+    },
+    {
+      "artist": "cpm-22",
+      "facts": [
+        {
+          "text": "A banda começou em 1995 apenas como CPM. Em 1998 abriu uma caixa postal de número 1022 e passou a se chamar CPM 22, nome que também deu à segunda demo.",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/CPM_22"
+        },
+        {
+          "text": "\"Tarde de Outubro\" rendeu à banda o prêmio de Banda Revelação no VMB 2002, e o álbum de 2001 recebeu Disco de Ouro por 100 mil cópias vendidas.",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/CPM_22"
+        },
+        {
+          "text": "Em 2007, o álbum Cidade Cinza levou o Grammy Latino de melhor álbum de rock brasileiro (premiação de 2008, segundo a página).",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/CPM_22"
+        },
+        {
+          "text": "Em 2016, a banda fez sua estreia no Rock in Rio, diante de 85 mil pessoas, celebrando 20 anos de carreira.",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/CPM_22"
+        }
+      ]
+    },
+    {
+      "artist": "dead-fish",
+      "facts": [
+        {
+          "text": "A banda nasceu entre amigos skatistas de Vitória (ES) com o nome Stage Dive. Como já existia outra banda assim, sortearam alternativas, saiu \"Dead Fresh Fish\" e o nome foi encurtado para Dead Fish.",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/Dead_Fish"
+        },
+        {
+          "text": "Para lançar o disco Sonho Médio, o grupo criou a própria produtora e gravadora, a Terceiro Mundo Produções Fonográficas, que depois lançou outras bandas.",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/Dead_Fish"
+        },
+        {
+          "text": "Em 2014, uma campanha no Catarse arrecadou R$ 246.381 em 45 dias, o que a página descreve como a maior arrecadação por financiamento coletivo do país até então. O resultado foi o álbum Vitória (2015).",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/Dead_Fish"
+        },
+        {
+          "text": "Em 2004, a banda ganhou o VMB de banda revelação e lançou seu primeiro DVD, MTV Apresenta Dead Fish.",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/Dead_Fish"
+        }
+      ]
+    },
+    {
+      "artist": "fresno",
+      "facts": [
+        {
+          "text": "A banda se chamava Democratas, mas trocou de nome em 2001 porque já existia um grupo nordestino com esse nome. \"Fresno\" foi sugestão de Lucas Silveira, que gostava da sonoridade da palavra.",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/Fresno_(banda)"
+        },
+        {
+          "text": "A live beneficente QuarentEMO, em 17 de abril de 2020, durou cerca de 4 horas e arrecadou mais de 8 mil cestas básicas, com pico de mais de 100 mil pessoas assistindo ao mesmo tempo.",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/Fresno_(banda)"
+        },
+        {
+          "text": "A banda gravou \"Show de rock'n roll\" com os integrantes do Roupa Nova no CD e DVD de 30 anos do grupo, em 2010.",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/Fresno_(banda)"
+        }
+      ]
+    },
+    {
+      "artist": "nx-zero",
+      "facts": [
+        {
+          "text": "A banda começou em 2001 como um power trio chamado NX Zero Granada. Em 2004 encurtou o nome para NX Zero, que a página diz ser uma abreviação de \"Nexo Zero\".",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/NX_Zero"
+        },
+        {
+          "text": "Em 2006, a NX Zero foi a primeira banda independente a chegar ao primeiro lugar do programa Disk MTV.",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/NX_Zero"
+        },
+        {
+          "text": "No VMB 2008, a banda venceu as três categorias em que concorria. O álbum Agora (2008) é platina e levou o Grammy Latino de Melhor Álbum de Rock Brasileiro.",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/NX_Zero"
+        },
+        {
+          "text": "A NX Zero abriu o Palco Mundo do Rock in Rio IV em 24 de setembro de 2011, sua primeira participação no festival.",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/NX_Zero"
+        }
+      ]
+    },
+    {
+      "artist": "legiao-urbana",
+      "facts": [
+        {
+          "text": "O nome vem de uma frase em latim que brinca com o lema \"Romana Legio Omnia Vincit\", associado a Júlio César, e da ideia inicial de ter vários guitarristas e tecladistas se revezando, como uma \"legião\" de músicos.",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/Legião_Urbana"
+        },
+        {
+          "text": "O primeiro show foi em 5 de setembro de 1982, em Patos de Minas (MG), no festival Rock no Parque. O contrato com a EMI só veio em fevereiro de 1984.",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/Legião_Urbana"
+        },
+        {
+          "text": "As Quatro Estações (1989) é o álbum mais vendido da banda, com mais de 2,6 milhões de cópias. Dois (1986), com \"Tempo Perdido\", passou de 1,8 milhão.",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/Legião_Urbana"
+        },
+        {
+          "text": "A banda integra o chamado \"Quarteto Sagrado\" do rock brasileiro, ao lado de Barão Vermelho, Paralamas do Sucesso e Titãs.",
+          "sourceName": "Wikipédia (pt)",
+          "sourceUrl": "https://pt.wikipedia.org/wiki/Legião_Urbana"
+        }
+      ]
+    }
+  ]
+}

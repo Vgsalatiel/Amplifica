@@ -13,7 +13,7 @@ BACKEND_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "$BACKEND_DIR"
 
 ENV_FILE=""; DRY_RUN=0; SKIP_MIGRATE=0; SKIP_COVERS=0; SKIP_IMAGES=0; WITH_CLIPS=0
-SINCE=""; ONLY=""; CONFIRM_HOST=""; IMAGES_ONLY=0; REPLACE_IMAGES=""; SHOWS_ONLY=0; SHOWS_FILE=""; CLIPS_ONLY=0
+SINCE=""; ONLY=""; CONFIRM_HOST=""; IMAGES_ONLY=0; REPLACE_IMAGES=""; SHOWS_ONLY=0; SHOWS_FILE=""; CLIPS_ONLY=0; FACTS_ONLY=0
 UPDATE_SLUGS="antipoetica,aurora-rules,becold"   # já existem em produção: o arquivo manda (--update)
 PROD_API="https://amplifica.onrender.com/api/v1"
 
@@ -32,6 +32,8 @@ Opções:
                         nas bandas, nas fotos nem nas migrations
   --clips-only          só grava os clipes fixos da playlist (prisma/data/clips/clips.json); não mexe
                         nas bandas, nas fotos nem nas migrations
+  --facts-only          só grava as curiosidades "Você sabia?" (prisma/data/facts/facts.json); não mexe
+                        nas bandas, nas fotos nem nas migrations (rode depois que o deploy aplicou a migration)
   --clips               também roda a carga da playlist de clipes, junto com o resto
   --since REF           só os arquivos de bandas alterados desde o commit/tag REF
   --only a,b,c          só estas bandas (nomes dos arquivos, sem .json)
@@ -53,6 +55,7 @@ while [[ $# -gt 0 ]]; do
     --replace-images) REPLACE_IMAGES="${2:-}"; shift 2 ;;
     --shows-only) SHOWS_ONLY=1; SHOWS_FILE="${2:-}"; shift 2 ;;
     --clips-only) CLIPS_ONLY=1; shift ;;
+    --facts-only) FACTS_ONLY=1; shift ;;
     --clips) WITH_CLIPS=1; shift ;;
     --since) SINCE="${2:-}"; shift 2 ;;
     --only) ONLY="${2:-}"; shift 2 ;;
@@ -108,7 +111,10 @@ fi
 
 # ---- 2. Quais bandas ----------------------------------------------------------------------------
 declare -a FILES=()
-if [[ $CLIPS_ONLY -eq 1 ]]; then
+if [[ $FACTS_ONLY -eq 1 ]]; then
+  [[ -f prisma/data/facts/facts.json ]] || die "não achei prisma/data/facts/facts.json."
+  SKIP_MIGRATE=1; SKIP_IMAGES=1; SKIP_COVERS=1; IMAGES_ONLY=1
+elif [[ $CLIPS_ONLY -eq 1 ]]; then
   [[ -f prisma/data/clips/clips.json ]] || die "não achei prisma/data/clips/clips.json."
   SKIP_MIGRATE=1; SKIP_IMAGES=1; SKIP_COVERS=1; IMAGES_ONLY=1; WITH_CLIPS=1
 elif [[ $SHOWS_ONLY -eq 1 ]]; then
@@ -136,7 +142,7 @@ TS="$(date +%Y%m%d-%H%M%S)"; LOG="${TMPDIR:-/tmp}/carga-producao-$TS.log"
 
 echo "=== Carga em PRODUÇÃO ==="
 echo "Banco (host): $PROD_HOST"
-if [[ $CLIPS_ONLY -eq 1 ]]; then echo "Modo: só os clipes fixos da playlist (bandas, fotos e migrations ficam de fora)"; elif [[ $SHOWS_ONLY -eq 1 ]]; then echo "Modo: só os shows de $SHOWS_FILE (bandas, fotos e migrations ficam de fora)"; elif [[ $IMAGES_ONLY -eq 1 ]]; then echo "Modo: só as fotos do manifesto (bandas e migrations ficam de fora)"; else echo "Bandas: ${#FILES[@]} arquivos | atualizar pelo arquivo: ${UPDATE_SLUGS:-nenhuma}"; fi
+if [[ $FACTS_ONLY -eq 1 ]]; then echo "Modo: só as curiosidades \"Você sabia?\" (bandas, fotos e migrations ficam de fora)"; elif [[ $CLIPS_ONLY -eq 1 ]]; then echo "Modo: só os clipes fixos da playlist (bandas, fotos e migrations ficam de fora)"; elif [[ $SHOWS_ONLY -eq 1 ]]; then echo "Modo: só os shows de $SHOWS_FILE (bandas, fotos e migrations ficam de fora)"; elif [[ $IMAGES_ONLY -eq 1 ]]; then echo "Modo: só as fotos do manifesto (bandas e migrations ficam de fora)"; else echo "Bandas: ${#FILES[@]} arquivos | atualizar pelo arquivo: ${UPDATE_SLUGS:-nenhuma}"; fi
 echo "Trocar fotos de: ${REPLACE_IMAGES:-nenhuma}"
 echo "Migrations: $([[ $SKIP_MIGRATE -eq 1 ]] && echo não || echo sim) | Capas: $([[ $SKIP_COVERS -eq 1 ]] && echo não || echo sim) | Fotos do manifesto: $([[ $SKIP_IMAGES -eq 1 ]] && echo não || echo sim) | Clipes: $([[ $WITH_CLIPS -eq 1 ]] && echo sim || echo não)"
 echo "Registro: $LOG"
@@ -209,6 +215,10 @@ if [[ $SHOWS_ONLY -eq 1 ]]; then
   show_out="$(node dist/scripts/seed-shows.js "$SHOWS_FILE" 2>&1)"; show_code=$?
   echo "$show_out" >>"$LOG"
   if [[ $show_code -eq 0 ]]; then echo "  ok: $(grep -E 'Shows?:|criado|atualizado|mantido' <<<"$show_out" | tail -2 | tr '\n' ' ')"; else echo "  FALHOU (veja $LOG)"; FAILED+=("shows:seed"); fi
+fi
+if [[ $FACTS_ONLY -eq 1 ]]; then
+  echo "Curiosidades…"
+  node dist/scripts/seed-facts.js prisma/data/facts/facts.json >>"$LOG" 2>&1 && echo "  ok: $(grep -E 'Curiosidades:' "$LOG" | tail -1)" || { echo "  FALHOU (veja $LOG)"; FAILED+=("facts:seed"); }
 fi
 if [[ $WITH_CLIPS -eq 1 ]]; then
   echo "Clipes…"
