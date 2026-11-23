@@ -17,7 +17,7 @@ interface ClipPlayerProps {
   /** Dá acesso ao player do YouTube (pausar, retomar) a quem usa este componente. */
   controlRef?: MutableRefObject<YTPlayer | null>
   /** Chamado uma vez por segundo, com o ponto do vídeo e a situação do player, para outra tela continuar dali. */
-  onTick?: (snapshot: { time: number; state: number }) => void
+  onTick?: (snapshot: { time: number; state: number; muted: boolean }) => void
 }
 
 /**
@@ -109,7 +109,7 @@ export function ClipPlayer({ videoIds, title, muted, selected, onIndexChange, st
         }
         ticker = window.setInterval(() => {
           if (tickNow.current) {
-            tickNow.current({ time: created.getCurrentTime(), state: created.getPlayerState() })
+            tickNow.current({ time: created.getCurrentTime(), state: created.getPlayerState(), muted: created.isMuted() })
           }
         }, 1000)
       })

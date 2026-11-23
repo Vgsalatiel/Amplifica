@@ -8,6 +8,7 @@ import { MiniPlayer } from './mini-player'
 const created = vi.hoisted(() => ({
   options: [] as Array<{ videoId: string; playerVars: Record<string, string | number> }>,
   loaded: [] as string[],
+  muted: false,
   paused: 0,
 }))
 
@@ -31,6 +32,9 @@ vi.mock('../../lib/youtube-api', () => ({
         }
         getPlayerState() {
           return 1
+        }
+        isMuted() {
+          return created.muted
         }
         destroy() {}
         getIframe() {
@@ -102,6 +106,12 @@ describe('MiniPlayer', () => {
     fireEvent.click(screen.getByRole('button', { name: 'Próximo clipe' }))
     expect(screen.getByText('Clipe de Banda B')).toBeInTheDocument()
     await vi.waitFor(() => expect(created.loaded).toEqual(['3psvNDHQv7Y']))
+
+    const open = vi.spyOn(window, 'open').mockReturnValue(null)
+    fireEvent.click(screen.getByRole('button', { name: /Abrir no YouTube/ }))
+    expect(open).toHaveBeenCalledWith('https://www.youtube.com/watch?v=3psvNDHQv7Y', '_blank', 'noopener,noreferrer')
+    expect(created.paused).toBe(2)
+    open.mockRestore()
 
     fireEvent.click(screen.getByRole('button', { name: 'Fechar o mini-player' }))
     expect(screen.queryByRole('region', { name: 'Mini-player' })).not.toBeInTheDocument()

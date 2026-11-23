@@ -67,6 +67,15 @@ export function MiniPlayer({ onHome }: { onHome: boolean }) {
     setPaused(!paused)
   }
 
+  /** Abre o clipe no YouTube (no celular, no app) do ponto em que está, e pausa aqui para não tocar em dobro. */
+  function openOnYouTube() {
+    const seconds = Math.floor(playbackMemory.time)
+    const url = `https://www.youtube.com/watch?v=${current.videoId}${seconds > 0 ? `&t=${seconds}s` : ''}`
+    control.current?.pauseVideo()
+    setPaused(true)
+    window.open(url, '_blank', 'noopener,noreferrer')
+  }
+
   function close() {
     playbackMemory.live = false
     setSession(null)
@@ -124,6 +133,11 @@ export function MiniPlayer({ onHome }: { onHome: boolean }) {
         <button type="button" aria-label="Próximo clipe" onClick={() => go(session.selected + 1)} className={buttonClass}>
           <svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
             <path d="M6 18l8.5-6L6 6zM16 6h2v12h-2z" />
+          </svg>
+        </button>
+        <button type="button" aria-label="Abrir no YouTube (abre em outra aba)" title="Abrir no YouTube" onClick={openOnYouTube} className={buttonClass}>
+          <svg aria-hidden="true" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
+            <path d="M14 4h6v6M20 4l-9 9M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5" />
           </svg>
         </button>
         <button type="button" aria-label="Fechar o mini-player" onClick={close} className={buttonClass}>

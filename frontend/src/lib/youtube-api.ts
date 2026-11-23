@@ -5,6 +5,7 @@ export interface YTPlayer {
   pauseVideo(): void
   getCurrentTime(): number
   getPlayerState(): number
+  isMuted(): boolean
   destroy(): void
   getIframe(): HTMLIFrameElement
 }

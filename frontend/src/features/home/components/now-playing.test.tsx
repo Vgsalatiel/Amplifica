@@ -12,6 +12,7 @@ import { NowPlaying } from './now-playing'
 const created = vi.hoisted(() => ({
   options: [] as Array<{ videoId: string; playerVars: Record<string, string | number> }>,
   loaded: [] as string[],
+  muted: false,
 }))
 
 vi.mock('../../../lib/youtube-api', () => ({
@@ -32,6 +33,9 @@ vi.mock('../../../lib/youtube-api', () => ({
         }
         getPlayerState() {
           return 1
+        }
+        isMuted() {
+          return created.muted
         }
         destroy() {}
         getIframe() {
@@ -80,9 +84,25 @@ afterEach(() => {
   vi.unstubAllGlobals()
   created.options.length = 0
   created.loaded.length = 0
+  created.muted = false
 })
 
 describe('NowPlaying', () => {
+  it('anota que a música está tocando com som mesmo que o som tenha sido ligado no botão do player do YouTube', async () => {
+    renderWithProviders(<NowPlaying items={[a, b]} />)
+    await vi.waitFor(() => expect(created.options).toHaveLength(1))
+
+    // Sem som (autoplay mudo): o mini-player não deve assumir quando a pessoa sair.
+    created.muted = true
+    await vi.waitFor(() => expect(playbackMemory.items.length).toBe(2), { timeout: 3000 })
+    expect(playbackMemory.live).toBe(false)
+
+    // A pessoa liga o som no player do YouTube (o React não fica sabendo).
+    created.muted = false
+    await vi.waitFor(() => expect(playbackMemory.live).toBe(true), { timeout: 3000 })
+    expect(playbackMemory.selectedId).toBe('banda-a')
+  })
+
   it('volta de outra página continuando do clipe e do segundo em que o mini-player estava, já com som', async () => {
     Object.assign(playbackMemory, { items: [a, b], selectedId: 'banda-b', time: 30.4, live: true })
     renderWithProviders(<NowPlaying items={[a, b]} />)

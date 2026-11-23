@@ -72,11 +72,12 @@ export function NowPlaying({ items, coverClip }: { items: PlaylistItem[]; coverC
     playbackMemory.time = 0
   }
 
-  function remember({ time, state }: { time: number; state: number }) {
+  function remember({ time, state, muted }: { time: number; state: number; muted: boolean }) {
     playbackMemory.items = ordered
     playbackMemory.selectedId = ordered[current]?.id
     playbackMemory.time = time
-    playbackMemory.live = clicked && isPlayingState(state)
+    // O som pode ter sido ligado no botão do próprio player do YouTube (que o React não vê): vale o que o player diz.
+    playbackMemory.live = !muted && isPlayingState(state)
   }
 
   function choose(index: number) {
@@ -123,7 +124,17 @@ export function NowPlaying({ items, coverClip }: { items: PlaylistItem[]; coverC
         <>
           <p className="mt-3 mb-3 text-sm text-muted">
             {!clicked && !reduced && 'O vídeo começa sem som; ligue no botão do player. '}
-            Toque em um clipe da lista para ouvir.
+            Toque em um clipe da lista para ouvir.{' '}
+            <a
+              href={`https://www.youtube.com/watch?v=${ordered[current]?.videoId}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="font-semibold text-ink underline underline-offset-4 hover:text-accent"
+            >
+              Abrir este clipe no YouTube
+              <span className="sr-only"> (abre em outra aba)</span>
+            </a>{' '}
+            para ouvir com a tela bloqueada, no app.
           </p>
           <ClipPlaylist items={ordered} current={current} onSelect={choose} />
         </>
