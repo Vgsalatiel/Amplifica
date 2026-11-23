@@ -2,7 +2,7 @@ import { screen, within } from '@testing-library/react'
 import { describe, expect, it } from 'vitest'
 import { endSession } from '../../../lib/session'
 import { mockApi, renderRoutes } from '../../../test/helpers'
-import { artistDetail, artistSummary, genreNode, page, releaseSummary, show } from '../../../test/fixtures'
+import { artistDetail, genreNode, page, releaseSummary, show } from '../../../test/fixtures'
 import { HomePage } from './home-page'
 
 const open = () => renderRoutes([{ path: '/', element: <HomePage /> }], '/')
@@ -12,7 +12,9 @@ const empty = { status: 200, body: page([]) }
 const base = {
   'GET /releases?limit=8': empty,
   'GET /shows?limit=4': empty,
-  'GET /artists?country=BR&sort=newest&limit=4': empty,
+  'GET /releases?country=BR&released=past&sort=recent&limit=12': empty,
+  'GET /releases?anniversary=5%2C10%2C15%2C20%2C25%2C30%2C35%2C40&sort=recent&limit=12': empty,
+  'GET /releases?sort=rating&limit=5': empty,
   'GET /genres': { status: 200, body: [] },
   'GET /clips?limit=500': empty,
   'GET /artists/bullet-bane': { status: 200, body: artistDetail({ slug: 'bullet-bane', name: 'Bullet Bane' }) },
@@ -102,19 +104,30 @@ describe('HomePage', () => {
     expect(within(shows).getByRole('link', { name: 'Ver a agenda completa' })).toHaveAttribute('href', '/shows')
   })
 
-  it('mostra a cena BR, com links para a história e para todas as bandas', async () => {
+  it('mostra a cena BR como prateleira de discos, com links para a história e para todas as bandas', async () => {
     endSession()
     mockApi({
       ...base,
-      'GET /artists?country=BR&sort=newest&limit=4': {
+      'GET /releases?country=BR&released=past&sort=recent&limit=12': {
         status: 200,
-        body: page([artistSummary({ slug: 'fresno', name: 'Fresno', country: 'BR' })]),
+        body: page([
+          releaseSummary({
+            id: 'br1',
+            title: 'Rugby Japonês',
+            slug: 'amandinho-rugby-japones',
+            artists: [{ id: 'a9', name: 'Amandinho', slug: 'amandinho', role: 'PRIMARY' }],
+          }),
+        ]),
       },
     })
     open()
 
     const scene = await screen.findByRole('region', { name: 'Cena BR' })
-    expect(within(scene).getByRole('link', { name: /Fresno/ })).toHaveAttribute('href', '/artistas/fresno')
+    const shelf = within(scene).getByRole('list', { name: 'Discos da cena BR' })
+    expect(within(shelf).getByRole('link', { name: /Rugby Japonês/ })).toHaveAttribute(
+      'href',
+      '/lancamentos/amandinho-rugby-japones',
+    )
     expect(within(scene).getByRole('link', { name: 'Ver a história da cena' })).toHaveAttribute(
       'href',
       '/cena-br/historia',
@@ -123,6 +136,42 @@ describe('HomePage', () => {
       'href',
       '/cena-br',
     )
+  })
+
+  it('mostra os aniversários de discos do mês, com quantos anos cada um faz', async () => {
+    endSession()
+    const year = new Date().getFullYear() - 10
+    mockApi({
+      ...base,
+      'GET /releases?anniversary=5%2C10%2C15%2C20%2C25%2C30%2C35%2C40&sort=recent&limit=12': {
+        status: 200,
+        body: page([releaseSummary({ id: 'an1', title: 'Disco de dez anos', releaseDate: `${year}-11-04` })]),
+      },
+    })
+    open()
+
+    const section = await screen.findByRole('region', { name: /Aniversários de/ })
+    expect(within(section).getByText('Faz 10 anos')).toBeInTheDocument()
+    expect(within(section).getByRole('link', { name: /Disco de dez anos/ })).toBeInTheDocument()
+  })
+
+  it('mostra os mais bem avaliados só com discos que têm nota', async () => {
+    endSession()
+    mockApi({
+      ...base,
+      'GET /releases?sort=rating&limit=5': {
+        status: 200,
+        body: page([
+          releaseSummary({ id: 'n1', title: 'Disco nota', rating: { average: 4.5, count: 3 } }),
+          releaseSummary({ id: 'n2', title: 'Disco sem nota', rating: { average: null, count: 0 } }),
+        ]),
+      },
+    })
+    open()
+
+    const section = await screen.findByRole('region', { name: 'Mais bem avaliados' })
+    expect(within(section).getByRole('link', { name: /Disco nota/ })).toBeInTheDocument()
+    expect(within(section).queryByText('Disco sem nota')).not.toBeInTheDocument()
   })
 
   it('a faixa rosa corre em loop, leva à agenda e tem botão de pausar; o texto fica escondido de leitores de tela', async () => {
@@ -145,7 +194,7 @@ describe('HomePage', () => {
     open()
 
     await screen.findByRole('heading', { level: 1 })
-    for (const name of ['Lançamentos recentes', 'Grade de shows', 'Cena BR', 'Explore por gênero']) {
+    for (const name of ['Lançamentos recentes', 'Grade de shows', 'Cena BR', 'Mais bem avaliados', 'Explore por gênero']) {
       expect(screen.queryByRole('heading', { name })).not.toBeInTheDocument()
     }
   })

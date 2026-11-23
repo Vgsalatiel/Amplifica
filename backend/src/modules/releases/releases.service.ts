@@ -29,6 +29,7 @@ import { toRatingSummary } from '../catalog/rating.js';
 import { loadRatings, ratingOf } from '../catalog/ratings.js';
 import { GenresService } from '../genres/genres.service.js';
 import { ImagesService } from '../images/images.service.js';
+import { anniversaryRanges } from './anniversary.js';
 import { parseReleaseDate } from './release-date.js';
 import type {
   CreateReleaseDto,
@@ -109,6 +110,28 @@ export class ReleasesService {
           gte: new Date(Date.UTC(query.year, 0, 1)),
           lte: new Date(Date.UTC(query.year, 11, 31)),
         },
+      });
+    }
+    if (query.country) {
+      and.push({
+        artists: {
+          some: {
+            role: 'PRIMARY',
+            artist: { country: query.country },
+          },
+        },
+      });
+    }
+    if (query.released) {
+      and.push({ releaseDate: { lte: new Date() } });
+    }
+    if (query.anniversary) {
+      and.push({
+        // Data só com o ano fica em 1º de janeiro: não é aniversário de mês nenhum.
+        datePrecision: { in: ['MONTH', 'DAY'] },
+        OR: anniversaryRanges(new Date(), query.anniversary).map((range) => ({
+          releaseDate: range,
+        })),
       });
     }
     if (query.q) {

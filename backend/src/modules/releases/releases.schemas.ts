@@ -140,6 +140,24 @@ export const listReleasesSchema = paginationSchema.extend({
   year: z.coerce.number().int().min(1900).max(2100).optional(),
   /** Palavras do título ou do nome do artista, sem acento e sem diferença de maiúsculas. */
   q: z.string().trim().min(1).max(80).optional(),
+  /** País (código de duas letras, como BR) do artista principal do disco. */
+  country: z
+    .string()
+    .trim()
+    .length(2)
+    .transform((value) => value.toUpperCase())
+    .optional(),
+  /** `past`: só discos que já saíram (data de lançamento até hoje). */
+  released: z.literal('past').optional(),
+  /**
+   * Aniversário de lançamento neste mês, em anos, separados por vírgula: `10,15,20` traz os discos
+   * lançados neste mês há 10, 15 e 20 anos. Só entram discos com mês conhecido na data.
+   */
+  anniversary: z
+    .string()
+    .regex(/^\d{1,3}(,\d{1,3}){0,9}$/, 'Use idades separadas por vírgula, como 10,15,20.')
+    .transform((value) => value.split(',').map(Number))
+    .optional(),
   /** `recent` (padrão), `rating` (melhor nota primeiro; sem nota por último) ou `title`. */
   sort: z.enum(RELEASE_SORTS).default('recent'),
 });

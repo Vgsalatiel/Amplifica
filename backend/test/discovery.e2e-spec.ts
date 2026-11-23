@@ -146,6 +146,19 @@ describe('Descoberta: busca, filtros e notas nas listas (e2e)', () => {
       await get('/releases?sort=aleatorio').expect(400);
     });
 
+    it('filtra por país do artista, só discos já lançados e aniversário de lançamento', async () => {
+      const none = await get('/releases?country=zz').expect(200);
+      expect(none.body.items).toHaveLength(0);
+      const released = await get('/releases?released=past&limit=50').expect(200);
+      const today = new Date().toISOString().slice(0, 10);
+      for (const item of released.body.items) {
+        expect(item.releaseDate.slice(0, 4) <= today.slice(0, 4)).toBe(true);
+      }
+      await get('/releases?anniversary=10,15,20').expect(200);
+      await get('/releases?anniversary=dez').expect(400);
+      await get('/releases?released=future').expect(400);
+    });
+
     it('ordena por título, por mais recente e por nota (sem nota por último)', async () => {
       const filter = 'q=e2e';
       const byTitle = await get(`/releases?${filter}&sort=title`).expect(200);

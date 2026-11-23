@@ -115,6 +115,12 @@ export interface ReleaseListParams {
   year?: number
   /** Palavras do título ou do nome do artista. */
   q?: string
+  /** País (BR) do artista principal. */
+  country?: string
+  /** `past`: só discos que já saíram. */
+  released?: 'past'
+  /** Idades separadas por vírgula ("10,15,20"): discos lançados neste mês há tantos anos. */
+  anniversary?: string
   sort?: ReleaseSort
 }
 
