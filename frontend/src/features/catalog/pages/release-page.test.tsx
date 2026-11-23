@@ -53,7 +53,32 @@ describe('ReleasePage', () => {
     mockApi({ 'GET /releases/y': { status: 200, body: releaseDetail({ youtubeVideoId: null }) } })
     open('y')
     await screen.findByRole('heading', { level: 1 })
-    expect(screen.queryByTitle(/no YouTube/)).not.toBeInTheDocument()
+    expect(screen.queryByTitle(/^Vídeo de .* no YouTube$/)).not.toBeInTheDocument()
+  })
+
+  it('todo disco tem as logos do YouTube Music e do Spotify, direto ao vídeo quando há um', async () => {
+    endSession()
+    mockApi({ 'GET /releases/x': { status: 200, body: releaseDetail({ youtubeVideoId: null }) } })
+    const { unmount } = open('x')
+
+    const youtube = await screen.findByRole('link', { name: /Ouvir no YouTube Music/ })
+    expect(youtube.getAttribute('href')).toBe(
+      'https://music.youtube.com/search?q=Bring%20Me%20the%20Horizon%20Sempiternal',
+    )
+    expect(screen.getByRole('link', { name: /Ouvir no Spotify/ })).toHaveAttribute(
+      'href',
+      'https://open.spotify.com/search/Bring%20Me%20the%20Horizon%20Sempiternal',
+    )
+    expect(youtube).toHaveAttribute('target', '_blank')
+    expect(youtube).not.toHaveTextContent(/\S/)
+    unmount()
+
+    mockApi({ 'GET /releases/y': { status: 200, body: releaseDetail({ youtubeVideoId: 'dQw4w9WgXcQ' }) } })
+    open('y')
+    expect(await screen.findByRole('link', { name: /Ouvir no YouTube Music/ })).toHaveAttribute(
+      'href',
+      'https://music.youtube.com/watch?v=dQw4w9WgXcQ',
+    )
   })
 
   it('o visitante vê o convite para criar conta, sem precisar de conta para ver o disco', async () => {

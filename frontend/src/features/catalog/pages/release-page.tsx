@@ -13,6 +13,7 @@ import { RELEASE_TYPE_LABELS } from '../../../lib/labels'
 import { useRelease } from '../hooks/use-catalog'
 import { ReviewsSection } from '../../reviews/components/reviews-section'
 import { RatingSummaryBlock } from '../../reviews/components/rating-summary'
+import { ListenLinks } from '../components/listen-links'
 import { RatingPrompt } from '../components/rating-prompt'
 import { TrackList } from '../components/track-list'
 import { YouTubeEmbed } from '../components/youtube-embed'
@@ -87,6 +88,12 @@ export function ReleasePage() {
             )}
 
             {data.description && <p className="mt-8 max-w-xl text-xl whitespace-pre-line">{data.description}</p>}
+
+            <ListenLinks
+              title={data.title}
+              artists={primary.map((artist) => artist.name)}
+              youtubeVideoId={data.youtubeVideoId}
+            />
 
             <RatingSummaryBlock rating={data.rating} />
 
