@@ -797,6 +797,50 @@
       "genres": [
         "punk-rock"
       ]
+    },
+    {
+      "date": "2027-04-16",
+      "venue": "Tork n' Roll",
+      "city": "Curitiba",
+      "state": "PR",
+      "ticketUrl": "https://fastix.com.br/",
+      "organizerName": "Liberation Music Company",
+      "verifiedAt": "2026-11-23",
+      "acts": [
+        {
+          "name": "Architects",
+          "artist": "architects"
+        },
+        {
+          "name": "Novelists"
+        }
+      ],
+      "genres": [
+        "metalcore",
+        "metal"
+      ]
+    },
+    {
+      "date": "2027-04-18",
+      "venue": "Vibra",
+      "city": "São Paulo",
+      "state": "SP",
+      "ticketUrl": "https://fastix.com.br/",
+      "organizerName": "Liberation Music Company",
+      "verifiedAt": "2026-11-23",
+      "acts": [
+        {
+          "name": "Architects",
+          "artist": "architects"
+        },
+        {
+          "name": "Novelists"
+        }
+      ],
+      "genres": [
+        "metalcore",
+        "metal"
+      ]
     }
   ]
 }
