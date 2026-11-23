@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from 'react'
+import { useEffect, useRef, useState, type MutableRefObject } from 'react'
 import { loadYouTubeApi, type YTPlayer } from '../../../lib/youtube-api'
 
 interface ClipPlayerProps {
@@ -12,6 +12,12 @@ interface ClipPlayerProps {
   selected: number
   /** Chamado quando o próprio player muda de clipe (terminou ou deu erro), para a lista acompanhar. */
   onIndexChange: (index: number) => void
+  /** Segundo do primeiro vídeo em que começar (retomar de onde outra tela parou). */
+  startAt?: number
+  /** Dá acesso ao player do YouTube (pausar, retomar) a quem usa este componente. */
+  controlRef?: MutableRefObject<YTPlayer | null>
+  /** Chamado uma vez por segundo, com o ponto do vídeo e a situação do player, para outra tela continuar dali. */
+  onTick?: (snapshot: { time: number; state: number }) => void
 }
 
 /**
@@ -20,7 +26,7 @@ interface ClipPlayerProps {
  * erro é pulado, e se todos falharem em sequência a tela para. A playlist visível (fora daqui)
  * escolhe o clipe pelo `selected` e acompanha as trocas pelo `onIndexChange`.
  */
-export function ClipPlayer({ videoIds, title, muted, selected, onIndexChange }: ClipPlayerProps) {
+export function ClipPlayer({ videoIds, title, muted, selected, onIndexChange, startAt, controlRef, onTick }: ClipPlayerProps) {
   const holder = useRef<HTMLDivElement>(null)
   const player = useRef<YTPlayer | null>(null)
   // A lista pode ganhar clipes enquanto toca (um pedido novo vira o próximo): o player lê a lista
@@ -31,6 +37,8 @@ export function ClipPlayer({ videoIds, title, muted, selected, onIndexChange }: 
   const selectedNow = useRef(selected)
   const notify = useRef(onIndexChange)
   const titleNow = useRef(title)
+  const tickNow = useRef(onTick)
+  const startNow = useRef(startAt)
   const [failed, setFailed] = useState(false)
 
   useEffect(() => {
@@ -38,12 +46,14 @@ export function ClipPlayer({ videoIds, title, muted, selected, onIndexChange }: 
     selectedNow.current = selected
     notify.current = onIndexChange
     titleNow.current = title
+    tickNow.current = onTick
     player.current?.getIframe().setAttribute('title', `Vídeo de ${title} no YouTube`)
   })
 
   useEffect(() => {
     let cancelled = false
     let failures = 0
+    let ticker: number | undefined
     const first = idsNow.current[Math.min(selectedNow.current, idsNow.current.length - 1)]!
     position.current = Math.min(selectedNow.current, idsNow.current.length - 1)
     playing.current = first
@@ -68,7 +78,14 @@ export function ClipPlayer({ videoIds, title, muted, selected, onIndexChange }: 
           videoId: first,
           width: '100%',
           height: '100%',
-          playerVars: { autoplay: 1, mute: muted ? 1 : 0, playsinline: 1, rel: 0, origin: window.location.origin },
+          playerVars: {
+            autoplay: 1,
+            mute: muted ? 1 : 0,
+            playsinline: 1,
+            rel: 0,
+            origin: window.location.origin,
+            ...(startNow.current && startNow.current > 0 ? { start: Math.floor(startNow.current) } : {}),
+          },
           events: {
             onReady: () => created.getIframe().setAttribute('title', `Vídeo de ${titleNow.current} no YouTube`),
             onStateChange: (event) => {
@@ -87,6 +104,14 @@ export function ClipPlayer({ videoIds, title, muted, selected, onIndexChange }: 
           },
         })
         player.current = created
+        if (controlRef) {
+          controlRef.current = created
+        }
+        ticker = window.setInterval(() => {
+          if (tickNow.current) {
+            tickNow.current({ time: created.getCurrentTime(), state: created.getPlayerState() })
+          }
+        }, 1000)
       })
       .catch(() => {
         if (!cancelled) {
@@ -96,10 +121,14 @@ export function ClipPlayer({ videoIds, title, muted, selected, onIndexChange }: 
 
     return () => {
       cancelled = true
+      window.clearInterval(ticker)
+      if (controlRef) {
+        controlRef.current = null
+      }
       player.current?.destroy()
       player.current = null
     }
-  }, [muted])
+  }, [muted, controlRef])
 
   // A lista mudou ou a pessoa escolheu outro clipe. Se o vídeo no ar continua o mesmo (só mudou
   // a posição dele na lista), apenas acompanha; se é outro, toca esse.

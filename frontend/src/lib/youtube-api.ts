@@ -1,6 +1,10 @@
 /** Só o que usamos da API de player do YouTube (https://developers.google.com/youtube/iframe_api_reference). */
 export interface YTPlayer {
   loadVideoById(videoId: string): void
+  playVideo(): void
+  pauseVideo(): void
+  getCurrentTime(): number
+  getPlayerState(): number
   destroy(): void
   getIframe(): HTMLIFrameElement
 }
@@ -20,7 +24,7 @@ export interface YTPlayerOptions {
 
 export interface YTNamespace {
   Player: new (element: HTMLElement, options: YTPlayerOptions) => YTPlayer
-  PlayerState: { ENDED: number; PLAYING: number }
+  PlayerState: { ENDED: number; PLAYING: number; PAUSED: number }
 }
 
 declare global {

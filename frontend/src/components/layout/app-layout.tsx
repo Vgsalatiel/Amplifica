@@ -1,5 +1,6 @@
 import { Outlet, ScrollRestoration, useLocation } from 'react-router'
 import { EmailVerificationBanner } from './email-verification-banner'
+import { MiniPlayer } from './mini-player'
 import { SiteFooter } from './site-footer'
 import { SlowApiNotice } from './slow-api-notice'
 import { SiteHeader } from './site-header'
@@ -28,6 +29,7 @@ export function AppLayout() {
         <Outlet />
       </main>
       <SiteFooter />
+      <MiniPlayer onHome={pathname === '/'} />
       {/* Volta ao topo em páginas novas e restaura a posição ao usar "voltar". */}
       <ScrollRestoration />
     </div>

@@ -6,6 +6,7 @@ import { artistDetail, releaseSummary } from '../../../test/fixtures'
 import { mockApi, renderWithProviders } from '../../../test/helpers'
 import type { Clip } from '../lib/clips'
 import type { PlaylistItem } from '../lib/playlist'
+import { playbackMemory, resetPlaybackMemory } from '../lib/playback-memory'
 import { NowPlaying } from './now-playing'
 
 const created = vi.hoisted(() => ({
@@ -16,13 +17,21 @@ const created = vi.hoisted(() => ({
 vi.mock('../../../lib/youtube-api', () => ({
   loadYouTubeApi: () =>
     Promise.resolve({
-      PlayerState: { ENDED: 0, PLAYING: 1 },
+      PlayerState: { ENDED: 0, PLAYING: 1, PAUSED: 2 },
       Player: class {
         constructor(_element: HTMLElement, options: (typeof created.options)[number]) {
           created.options.push(options)
         }
         loadVideoById(id: string) {
           created.loaded.push(id)
+        }
+        playVideo() {}
+        pauseVideo() {}
+        getCurrentTime() {
+          return 0
+        }
+        getPlayerState() {
+          return 1
         }
         destroy() {}
         getIframe() {
@@ -62,7 +71,10 @@ function reducedMotion(value: boolean) {
   vi.stubGlobal('matchMedia', (query: string) => ({ matches: value && query.includes('reduce'), media: query }))
 }
 
-beforeEach(() => endSession())
+beforeEach(() => {
+  endSession()
+  resetPlaybackMemory()
+})
 
 afterEach(() => {
   vi.unstubAllGlobals()
@@ -71,6 +83,15 @@ afterEach(() => {
 })
 
 describe('NowPlaying', () => {
+  it('volta de outra página continuando do clipe e do segundo em que o mini-player estava, já com som', async () => {
+    Object.assign(playbackMemory, { items: [a, b], selectedId: 'banda-b', time: 30.4, live: true })
+    renderWithProviders(<NowPlaying items={[a, b]} />)
+
+    await vi.waitFor(() => expect(created.options).toHaveLength(1))
+    expect(created.options[0]!.videoId).toBe('3psvNDHQv7Y')
+    expect(created.options[0]!.playerVars).toMatchObject({ mute: 0, start: 30 })
+  })
+
   it('toca sozinho e sem som, com todos os clipes na mesma tela', async () => {
     renderWithProviders(<NowPlaying items={[a, b]} />)
 

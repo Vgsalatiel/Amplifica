@@ -31,7 +31,7 @@ vi.mock('../../../lib/youtube-api', () => ({
       return Promise.reject(new Error('bloqueado'))
     }
     return Promise.resolve({
-      PlayerState: { ENDED: 0, PLAYING: 1 },
+      PlayerState: { ENDED: 0, PLAYING: 1, PAUSED: 2 },
       Player: class {
         loadVideoById = vi.fn()
         destroy = vi.fn()

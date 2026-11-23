@@ -4,6 +4,7 @@ import { cn } from '../../../lib/cn'
 import { useArtist } from '../../catalog/hooks/use-catalog'
 import { NARRATION, type Clip } from '../lib/clips'
 import { mergeOrder } from '../lib/live-order'
+import { isPlayingState, playbackMemory } from '../lib/playback-memory'
 import type { PlaylistItem } from '../lib/playlist'
 import { ClipPlayer } from './clip-player'
 import { ClipPlaylist } from './clip-playlist'
@@ -29,10 +30,16 @@ function prefersReducedMotion(): boolean {
  */
 export function NowPlaying({ items, coverClip }: { items: PlaylistItem[]; coverClip?: Clip }) {
   const [reduced] = useState(prefersReducedMotion)
-  const [clicked, setClicked] = useState(false)
+  // Voltando de outra página com o mini-player tocando: continua do clipe e do segundo em que ele estava.
+  const [resume] = useState(() => {
+    const wanted = playbackMemory.live && items.some((item) => item.id === playbackMemory.selectedId)
+    playbackMemory.live = false
+    return wanted ? { id: playbackMemory.selectedId, time: playbackMemory.time } : null
+  })
+  const [clicked, setClicked] = useState(resume !== null)
   // A ordem em que os clipes tocam. A API manda a lista (a cada minuto ela é pedida de novo); um
   // pedido aprovado enquanto a pessoa assiste entra logo depois do clipe que está no ar.
-  const [selectedId, setSelectedId] = useState<string | undefined>(items[0]?.id)
+  const [selectedId, setSelectedId] = useState<string | undefined>(resume?.id ?? items[0]?.id)
   const [order, setOrder] = useState(() => items.map((item) => item.id))
   const selectedRef = useRef(selectedId)
   const idsKey = items.map((item) => item.id).join(',')
@@ -62,6 +69,14 @@ export function NowPlaying({ items, coverClip }: { items: PlaylistItem[]; coverC
 
   function select(index: number) {
     setSelectedId(ordered[index]?.id)
+    playbackMemory.time = 0
+  }
+
+  function remember({ time, state }: { time: number; state: number }) {
+    playbackMemory.items = ordered
+    playbackMemory.selectedId = ordered[current]?.id
+    playbackMemory.time = time
+    playbackMemory.live = clicked && isPlayingState(state)
   }
 
   function choose(index: number) {
@@ -84,6 +99,8 @@ export function NowPlaying({ items, coverClip }: { items: PlaylistItem[]; coverC
           muted={!clicked}
           selected={current}
           onIndexChange={select}
+          startAt={resume?.time}
+          onTick={remember}
         />
       ) : ordered.length > 0 ? (
         <div className={cn('relative aspect-video border border-rule bg-surface-raised', scanlines)}>
