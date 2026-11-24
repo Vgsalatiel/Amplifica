@@ -32,7 +32,10 @@ export function ResetPasswordPage() {
   const [confirm, setConfirm] = useState('')
   const [mismatch, setMismatch] = useState(false)
 
-  const check = useMutation({ mutationFn: () => checkResetCode(email.trim(), code.trim()), onSuccess: () => setStep('password') })
+  const check = useMutation({
+    mutationFn: (input: { email: string; code: string }) => checkResetCode(input.email, input.code),
+    onSuccess: () => setStep('password'),
+  })
   const save = useMutation({
     mutationFn: () => resetPassword(email.trim(), code.trim(), password),
     onSuccess: () => setStep('done'),
@@ -40,7 +43,16 @@ export function ResetPasswordPage() {
 
   function submitCode(event: FormEvent) {
     event.preventDefault()
-    check.mutate()
+    check.mutate({ email: email.trim(), code: code.trim() })
+  }
+
+  /** Ao digitar o 6º número, confere o código na hora e abre a escolha da nova senha. */
+  function changeCode(value: string) {
+    const digits = value.replace(/\D/g, '')
+    setCode(digits)
+    if (digits.length === 6 && email.trim() && !check.isPending) {
+      check.mutate({ email: email.trim(), code: digits })
+    }
   }
 
   function submitPassword(event: FormEvent) {
@@ -138,7 +150,7 @@ export function ResetPasswordPage() {
             maxLength={6}
             hint="Os 6 números do e-mail. Olhe também a caixa de spam."
             value={code}
-            onChange={(event) => setCode(event.target.value.replace(/\D/g, ''))}
+            onChange={(event) => changeCode(event.target.value)}
             error={codeErrors.code}
           />
           <div className="flex flex-wrap items-center gap-x-8 gap-y-3">

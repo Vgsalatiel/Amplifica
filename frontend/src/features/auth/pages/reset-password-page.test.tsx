@@ -14,7 +14,8 @@ const invalidCode = { status: 400, body: { statusCode: 400, code: 'invalid_code'
 
 function typeCode(value: string) {
   fireEvent.change(screen.getByLabelText('Código'), { target: { value } })
-  fireEvent.click(screen.getByRole('button', { name: 'Continuar' }))
+  // Com os 6 números, a tela confere sozinha; o botão só é preciso se faltar algum.
+  if (value.length < 6) fireEvent.click(screen.getByRole('button', { name: 'Continuar' }))
 }
 
 describe('ResetPasswordPage', () => {
@@ -55,6 +56,21 @@ describe('ResetPasswordPage', () => {
     typeCode('123456')
     await screen.findByRole('heading', { name: 'Escolha uma nova senha' })
     expect(JSON.parse(fetchMock.mock.calls[0][1]?.body as string)).toEqual({ email: 'ana@exemplo.com', code: '123456' })
+  })
+
+  it('ao digitar o 6º número, confere o código sozinha e abre a nova senha, sem clicar em Continuar', async () => {
+    endSession()
+    const fetchMock = mockApi({ 'POST /auth/reset-password/check': { status: 204 } })
+    renderRoutes(routes, '/redefinir-senha')
+    fireEvent.change(screen.getByLabelText('E-mail'), { target: { value: 'a@b.com' } })
+
+    fireEvent.change(screen.getByLabelText('Código'), { target: { value: '12345' } })
+    expect(fetchMock).not.toHaveBeenCalled()
+    fireEvent.change(screen.getByLabelText('Código'), { target: { value: '123456' } })
+
+    expect(await screen.findByRole('heading', { name: 'Escolha uma nova senha' })).toBeInTheDocument()
+    expect(screen.getByLabelText('Repita a nova senha')).toBeInTheDocument()
+    expect(fetchMock).toHaveBeenCalledTimes(1)
   })
 
   it('o campo do código só aceita números', () => {
