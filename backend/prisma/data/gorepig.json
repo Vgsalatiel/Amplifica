@@ -1,0 +1,181 @@
+{
+  "generatedAt": "2026-11-24T18:59:35.728Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "a41d6489-07c9-4f88-93cd-bb0d1eb693d6",
+    "name": "Gorepig",
+    "slug": "gorepig",
+    "type": "BAND",
+    "country": "US",
+    "city": "Arkansas",
+    "formedYear": 2018,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/a41d6489-07c9-4f88-93cd-bb0d1eb693d6"
+      }
+    ],
+    "genres": [
+      "deathcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "2d1ee359-967e-44ba-827f-69f9be80391b",
+      "releaseMbid": "db7c249e-a686-4e05-8eb2-eaf27aca6fa7",
+      "title": "Boar King",
+      "type": "SINGLE",
+      "releaseDate": "2019-09-08",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/2d1ee359-967e-44ba-827f-69f9be80391b/front-1200",
+      "tracks": [
+        {
+          "title": "Boar King",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 238000
+        }
+      ]
+    },
+    {
+      "mbid": "84e35a8e-ee31-4445-b833-708742c1c3f1",
+      "releaseMbid": "5a9e8776-c264-4aa7-a8cd-d0d58942889b",
+      "title": "Mr. Pig",
+      "type": "SINGLE",
+      "releaseDate": "2020-12-15",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/84e35a8e-ee31-4445-b833-708742c1c3f1/front-1200",
+      "tracks": [
+        {
+          "title": "Mr. Pig",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 201000
+        }
+      ]
+    },
+    {
+      "mbid": "122e136c-4973-4626-8432-74e408d17381",
+      "releaseMbid": "471f6578-e3f7-4110-8e1e-8e75fa2275ea",
+      "title": "Butcher Gang",
+      "type": "SINGLE",
+      "releaseDate": "2021-01-08",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/122e136c-4973-4626-8432-74e408d17381/front-1200",
+      "tracks": [
+        {
+          "title": "Butcher Gang",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 226000
+        }
+      ]
+    },
+    {
+      "mbid": "d3c1b67b-3550-432b-b818-7b3eeb2ef35d",
+      "releaseMbid": "99454f46-7ba3-4243-8482-369c13d20b6b",
+      "title": "Rot",
+      "type": "SINGLE",
+      "releaseDate": "2022-05-03",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d3c1b67b-3550-432b-b818-7b3eeb2ef35d/front-1200",
+      "tracks": [
+        {
+          "title": "Rot",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 215000
+        }
+      ]
+    },
+    {
+      "mbid": "675d4b5f-6301-4151-9ebd-1d3d031d8dd8",
+      "releaseMbid": "471adbe3-394a-401b-83ef-beb61a2020cf",
+      "title": "Father Hog",
+      "type": "SINGLE",
+      "releaseDate": "2022-11-12",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/675d4b5f-6301-4151-9ebd-1d3d031d8dd8/front-1200",
+      "tracks": [
+        {
+          "title": "Father Hog",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 192000
+        }
+      ]
+    },
+    {
+      "mbid": "8ddaa664-5219-4dd9-8795-21c17334886a",
+      "releaseMbid": "fbeab3f8-79c6-4ae6-9809-a14a251e33f5",
+      "title": "Pigsty",
+      "type": "SINGLE",
+      "releaseDate": "2023-03-22",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/8ddaa664-5219-4dd9-8795-21c17334886a/front-1200",
+      "tracks": [
+        {
+          "title": "Pigsty",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 224000
+        }
+      ]
+    },
+    {
+      "mbid": "94a054fc-d922-4e8c-9fc0-91255e42c0b3",
+      "releaseMbid": "f2426d82-41a6-49e3-acc6-cebdd1633490",
+      "title": "Gorepig",
+      "type": "EP",
+      "releaseDate": "2023-05-01",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Swine//Flu",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 164426
+        },
+        {
+          "title": "Way of The Tusk",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 191630
+        },
+        {
+          "title": "Pigsty",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 222656
+        },
+        {
+          "title": "Father Hog (Remastered)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 179619
+        }
+      ]
+    },
+    {
+      "mbid": "6564c6b9-8a36-4136-a2ff-75d648c7fd20",
+      "releaseMbid": "2ad7d03f-2c45-4da4-b721-12ff17338940",
+      "title": "Nu-Death",
+      "type": "SINGLE",
+      "releaseDate": "2026-02-13",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/6564c6b9-8a36-4136-a2ff-75d648c7fd20/front-1200",
+      "tracks": [
+        {
+          "title": "Nu-Death",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 183385
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

@@ -1,0 +1,936 @@
+{
+  "generatedAt": "2026-11-24T18:53:35.257Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "0103c1cc-4a09-4a5d-a344-56ad99a77193",
+    "name": "Avril Lavigne",
+    "slug": "avril-lavigne",
+    "type": "SOLO",
+    "country": "CA",
+    "city": "Belleville",
+    "formedYear": 1984,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/0103c1cc-4a09-4a5d-a344-56ad99a77193"
+      }
+    ],
+    "genres": [
+      "pop-punk",
+      "alternative-rock"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "0837aca2-319e-3f2f-a2d3-c525802068d6",
+      "releaseMbid": "002a0094-40b7-4403-99ab-f3b0daeffacd",
+      "title": "Let Go",
+      "type": "ALBUM",
+      "releaseDate": "2002-06-04",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0837aca2-319e-3f2f-a2d3-c525802068d6/front-1200",
+      "tracks": [
+        {
+          "title": "Losing Grip",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 233826
+        },
+        {
+          "title": "Complicated",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 244506
+        },
+        {
+          "title": "Sk8er Boi",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 204000
+        },
+        {
+          "title": "I'm with You",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 223066
+        },
+        {
+          "title": "Mobile",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 211933
+        },
+        {
+          "title": "Unwanted",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 221026
+        },
+        {
+          "title": "Tomorrow",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 228840
+        },
+        {
+          "title": "Anything But Ordinary",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 251493
+        },
+        {
+          "title": "Things I'll Never Say",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 223866
+        },
+        {
+          "title": "My World",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 207266
+        },
+        {
+          "title": "Nobody's Fool",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 237333
+        },
+        {
+          "title": "Too Much to Ask",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 225400
+        },
+        {
+          "title": "Naked",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 208666
+        }
+      ]
+    },
+    {
+      "mbid": "b0b44108-b4d7-363a-9417-bfaaf0ce9f3f",
+      "releaseMbid": "b15e673c-aad2-4898-8a7f-1fbc5a5ef196",
+      "title": "Under My Skin",
+      "type": "ALBUM",
+      "releaseDate": "2004-05-12",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b0b44108-b4d7-363a-9417-bfaaf0ce9f3f/front-1200",
+      "tracks": [
+        {
+          "title": "Take Me Away",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 177600
+        },
+        {
+          "title": "Together",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 194626
+        },
+        {
+          "title": "He Wasn’t",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 179773
+        },
+        {
+          "title": "How Does It Feel",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 224933
+        },
+        {
+          "title": "My Happy Ending",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 242413
+        },
+        {
+          "title": "Nobody’s Home",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 212413
+        },
+        {
+          "title": "Forgotten",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 196640
+        },
+        {
+          "title": "Who Knows",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 210386
+        },
+        {
+          "title": "Fall to Pieces",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 208680
+        },
+        {
+          "title": "Freak Out",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 193293
+        },
+        {
+          "title": "Slipped Away",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 213973
+        }
+      ]
+    },
+    {
+      "mbid": "61456a94-ba4c-3377-b2b9-0d2513e2ba37",
+      "releaseMbid": "0d071a53-b027-4321-85a9-37b479983f22",
+      "title": "The Best Damn Thing",
+      "type": "ALBUM",
+      "releaseDate": "2007-04-13",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/61456a94-ba4c-3377-b2b9-0d2513e2ba37/front-1200",
+      "tracks": [
+        {
+          "title": "Girlfriend",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 217066
+        },
+        {
+          "title": "I Can Do Better",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 197093
+        },
+        {
+          "title": "Runaway",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 228573
+        },
+        {
+          "title": "The Best Damn Thing",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 190400
+        },
+        {
+          "title": "When You're Gone",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 240493
+        },
+        {
+          "title": "Everything Back but You",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 183066
+        },
+        {
+          "title": "Hot",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 203533
+        },
+        {
+          "title": "Innocence",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 233000
+        },
+        {
+          "title": "I Don't Have to Try",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 197706
+        },
+        {
+          "title": "One of Those Girls",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 176266
+        },
+        {
+          "title": "Contagious",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 130560
+        },
+        {
+          "title": "Keep Holding On",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 239906
+        }
+      ]
+    },
+    {
+      "mbid": "66efcfc4-0b98-431c-abee-388318f1384b",
+      "releaseMbid": "18a4f2b5-3b31-48aa-919f-031e6adfd30a",
+      "title": "Greatest Hits",
+      "type": "COMPILATION",
+      "releaseDate": "2008",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/66efcfc4-0b98-431c-abee-388318f1384b/front-1200",
+      "tracks": [
+        {
+          "title": "The Best Damn Thing",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 191000
+        },
+        {
+          "title": "Sk8er Boi",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 205000
+        },
+        {
+          "title": "Girlfriend",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 218000
+        },
+        {
+          "title": "Freak Out",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 194000
+        },
+        {
+          "title": "I Don’t Have to Try",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 199000
+        },
+        {
+          "title": "Fall to Pieces",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 211000
+        },
+        {
+          "title": "I Can Do Better",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 197000
+        },
+        {
+          "title": "Nobody’s Fool",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 239000
+        },
+        {
+          "title": "Keep Holding On",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 241000
+        },
+        {
+          "title": "Don’t Tell Me",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 204000
+        },
+        {
+          "title": "He Wasn’t",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 181000
+        },
+        {
+          "title": "Hot",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 205000
+        },
+        {
+          "title": "Complicated",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 247000
+        },
+        {
+          "title": "Innocence",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 234000
+        },
+        {
+          "title": "Nobody’s Home",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 214000
+        },
+        {
+          "title": "Forgotten",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 199000
+        },
+        {
+          "title": "My Happy Ending",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 244000
+        },
+        {
+          "title": "When You’re Gone",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 242000
+        },
+        {
+          "title": "Losing Grip",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 235000
+        },
+        {
+          "title": "How Does It Feel",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 227000
+        },
+        {
+          "title": "I’m With You",
+          "discNumber": 1,
+          "position": 21,
+          "durationMs": 225000
+        },
+        {
+          "title": "Knockin’ on Heaven’s Door (unplugged)",
+          "discNumber": 1,
+          "position": 22,
+          "durationMs": 172000
+        }
+      ]
+    },
+    {
+      "mbid": "4ddf87cb-29c0-42ef-bb64-c57d617a8b4a",
+      "releaseMbid": "0f20a1b3-b812-4776-b66c-dea89bc4f0b7",
+      "title": "Goodbye Lullaby",
+      "type": "ALBUM",
+      "releaseDate": "2011-03-02",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4ddf87cb-29c0-42ef-bb64-c57d617a8b4a/front-1200",
+      "tracks": [
+        {
+          "title": "Black Star",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 94093
+        },
+        {
+          "title": "What the Hell",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 220626
+        },
+        {
+          "title": "Push",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 181293
+        },
+        {
+          "title": "Wish You Were Here",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 225680
+        },
+        {
+          "title": "Smile",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 209453
+        },
+        {
+          "title": "Stop Standing There",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 207266
+        },
+        {
+          "title": "I Love You",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 241946
+        },
+        {
+          "title": "Everybody Hurts",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 221773
+        },
+        {
+          "title": "Not Enough",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 258626
+        },
+        {
+          "title": "4 Real",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 208346
+        },
+        {
+          "title": "Darlin",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 230493
+        },
+        {
+          "title": "Remember When",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 209186
+        },
+        {
+          "title": "Goodbye",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 329360
+        },
+        {
+          "title": "Alice",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 299573
+        }
+      ]
+    },
+    {
+      "mbid": "398e602b-f1ed-40e7-beb9-e0f6692a497b",
+      "releaseMbid": "f125e1e0-53be-4de4-88b3-6b416bb4429b",
+      "title": "The Singles Collection",
+      "type": "COMPILATION",
+      "releaseDate": "2012-03-17",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/398e602b-f1ed-40e7-beb9-e0f6692a497b/front-1200",
+      "tracks": [
+        {
+          "title": "Complicated",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 245000
+        },
+        {
+          "title": "Skater Boy",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 204000
+        },
+        {
+          "title": "I’m With You",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 224000
+        },
+        {
+          "title": "Losing Grip",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 233000
+        },
+        {
+          "title": "Knockin’ on Heaven’s Door",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 181000
+        },
+        {
+          "title": "Don’t Tell Me",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 202000
+        },
+        {
+          "title": "My Happy Ending",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 242000
+        },
+        {
+          "title": "Nobody’s Home",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 212000
+        },
+        {
+          "title": "He Wasn’t",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 179000
+        },
+        {
+          "title": "Keep Holding On",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 249000
+        },
+        {
+          "title": "Girlfriend",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 214000
+        },
+        {
+          "title": "When You’re Gone",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 240000
+        },
+        {
+          "title": "Hot",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 203000
+        },
+        {
+          "title": "The Best Damn Thing",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 189000
+        },
+        {
+          "title": "Alice",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 213000
+        },
+        {
+          "title": "What the Hell",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 219000
+        },
+        {
+          "title": "Smile",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 209000
+        },
+        {
+          "title": "Wish You Were Here",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 225000
+        },
+        {
+          "title": "Alone",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 193000
+        },
+        {
+          "title": "I Will Be",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 239000
+        },
+        {
+          "title": "Get Over It",
+          "discNumber": 1,
+          "position": 21,
+          "durationMs": 210000
+        }
+      ]
+    },
+    {
+      "mbid": "f8c7022d-2cb2-4e19-bd46-b0e9460347a5",
+      "releaseMbid": "2e7dd2ba-9402-40cf-bd08-c3a16366a1c6",
+      "title": "Avril Lavigne",
+      "type": "ALBUM",
+      "releaseDate": "2013-11-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f8c7022d-2cb2-4e19-bd46-b0e9460347a5/front-1200",
+      "tracks": [
+        {
+          "title": "Rock ’n’ Roll",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 206880
+        },
+        {
+          "title": "Here’s to Never Growing Up",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 214320
+        },
+        {
+          "title": "17",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 204946
+        },
+        {
+          "title": "Bitchin’ Summer",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 210573
+        },
+        {
+          "title": "Let Me Go",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 267973
+        },
+        {
+          "title": "Give You What You Like",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 225266
+        },
+        {
+          "title": "Bad Girl",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 174893
+        },
+        {
+          "title": "Hello Kitty",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 196240
+        },
+        {
+          "title": "You Ain’t Seen Nothin’ Yet",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 193280
+        },
+        {
+          "title": "Sippin’ on Sunshine",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 209360
+        },
+        {
+          "title": "Hello Heartache",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 229426
+        },
+        {
+          "title": "Falling Fast",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 193720
+        },
+        {
+          "title": "Hush Hush",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 239373
+        }
+      ]
+    },
+    {
+      "mbid": "bcab1857-06d4-4bf9-bf32-ee1bb718f36b",
+      "releaseMbid": "39bd3743-e812-431a-9119-0302dc94330c",
+      "title": "Head Above Water",
+      "type": "ALBUM",
+      "releaseDate": "2019-02-15",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/bcab1857-06d4-4bf9-bf32-ee1bb718f36b/front-1200",
+      "tracks": [
+        {
+          "title": "Head Above Water",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 220850
+        },
+        {
+          "title": "Birdie",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 215000
+        },
+        {
+          "title": "I Fell in Love With the Devil",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 256000
+        },
+        {
+          "title": "Tell Me It’s Over",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 188573
+        },
+        {
+          "title": "Dumb Blonde",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 215000
+        },
+        {
+          "title": "It Was in Me",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 223000
+        },
+        {
+          "title": "Souvenir",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 178000
+        },
+        {
+          "title": "Crush",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 214000
+        },
+        {
+          "title": "Goddess",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 221000
+        },
+        {
+          "title": "Bigger Wow",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 175000
+        },
+        {
+          "title": "Love Me Insane",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 181000
+        },
+        {
+          "title": "Warrior",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 226000
+        }
+      ]
+    },
+    {
+      "mbid": "f0ebdcd4-e99e-4172-a5ad-24ce7f58adcf",
+      "releaseMbid": "376440db-77a8-4325-b876-eefb7bd26443",
+      "title": "Love Sux",
+      "type": "ALBUM",
+      "releaseDate": "2022-02-25",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f0ebdcd4-e99e-4172-a5ad-24ce7f58adcf/front-1200",
+      "tracks": [
+        {
+          "title": "Cannonball",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 139000
+        },
+        {
+          "title": "Bois Lie",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 163000
+        },
+        {
+          "title": "Bite Me",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 160000
+        },
+        {
+          "title": "Love It When You Hate Me",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 145000
+        },
+        {
+          "title": "Love Sux",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 169000
+        },
+        {
+          "title": "Kiss Me Like the World Is Ending",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 170000
+        },
+        {
+          "title": "Avalanche",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 220000
+        },
+        {
+          "title": "Déjà vu",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 204000
+        },
+        {
+          "title": "F.U.",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 168000
+        },
+        {
+          "title": "All I Wanted",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 153000
+        },
+        {
+          "title": "Dare to Love Me",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 215000
+        },
+        {
+          "title": "Break of a Heartache",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 112000
+        }
+      ]
+    },
+    {
+      "mbid": "b8500719-4286-4f00-8015-4a2595951cd4",
+      "releaseMbid": "fa3ca880-3967-4907-9a04-6e2209252e0a",
+      "title": "I’m a Mess EP",
+      "type": "EP",
+      "releaseDate": "2022-12-08",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b8500719-4286-4f00-8015-4a2595951cd4/front-1200",
+      "tracks": [
+        {
+          "title": "I’m a Mess",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 187794
+        },
+        {
+          "title": "Mercury in Retrograde",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 129279
+        },
+        {
+          "title": "Pity Party",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 114678
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

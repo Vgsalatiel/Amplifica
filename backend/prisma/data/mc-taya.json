@@ -1,0 +1,142 @@
+{
+  "generatedAt": "2026-11-24T18:56:09.468Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "e4df2f2f-158d-47fa-92de-f4f7f142743c",
+    "name": "MC Taya",
+    "slug": "mc-taya",
+    "type": "SOLO",
+    "country": "BR",
+    "city": null,
+    "formedYear": null,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/e4df2f2f-158d-47fa-92de-f4f7f142743c"
+      }
+    ],
+    "genres": [
+      "rock-nacional"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "8467b8aa-e4e2-499d-917d-2c49eeaeee97",
+      "releaseMbid": "7fa123ab-4190-4d33-9c18-791e71b6a0cb",
+      "title": "Xerecaria",
+      "type": "SINGLE",
+      "releaseDate": "2020-02-22",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/8467b8aa-e4e2-499d-917d-2c49eeaeee97/front-1200",
+      "tracks": [
+        {
+          "title": "Xerecaria",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 148800
+        }
+      ]
+    },
+    {
+      "mbid": "265e597a-610b-4c1c-af93-bdea9eca008d",
+      "releaseMbid": "fa19e98c-4599-4285-93f4-5a051502ae35",
+      "title": "Puta que pariu",
+      "type": "SINGLE",
+      "releaseDate": "2023-09-29",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/265e597a-610b-4c1c-af93-bdea9eca008d/front-1200",
+      "tracks": [
+        {
+          "title": "Puta que pariu",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 151951
+        }
+      ]
+    },
+    {
+      "mbid": "cce97549-78dd-4312-970f-001142336e7e",
+      "releaseMbid": "4ea1b714-2837-47d2-a5c4-fc63ad11a36d",
+      "title": "Branca de Neve (Rap das Sinhás)",
+      "type": "SINGLE",
+      "releaseDate": "2024-04-15",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Branca de Neve (Rap das Sinhás)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 343000
+        },
+        {
+          "title": "Branca de Neve (Rap das Sinhás)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 420000
+        }
+      ]
+    },
+    {
+      "mbid": "252db9a6-314d-4165-9db5-a10d37493b2e",
+      "releaseMbid": "48c2d2d0-8db5-46ea-b60c-8fd316e233ce",
+      "title": "HISTERIA AGRESSIVA 100% NEURÓTICA",
+      "type": "EP",
+      "releaseDate": "2024-11-29",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/252db9a6-314d-4165-9db5-a10d37493b2e/front-1200",
+      "tracks": [
+        {
+          "title": "BONDE DAS INSUBMISSAS - INTRO",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 107294
+        },
+        {
+          "title": "FIM DO MUNDO",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 110500
+        },
+        {
+          "title": "SEXO TODO DIA",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 171692
+        },
+        {
+          "title": "O MONSTRO E A RAIVA",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 166543
+        },
+        {
+          "title": "CRIANÇA NÃO É MÃE",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 156000
+        }
+      ]
+    },
+    {
+      "mbid": "845ec39e-9e62-483e-8c5f-ec2b69150033",
+      "releaseMbid": "f17aee1a-f503-4cd9-8d20-ac00e05879e7",
+      "title": "FERA",
+      "type": "SINGLE",
+      "releaseDate": "2026-10-02",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "FERA",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 229000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

@@ -1,0 +1,169 @@
+{
+  "generatedAt": "2026-11-24T18:58:14.515Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "2837db34-642f-4f60-b83d-e40adf18e5be",
+    "name": "John Wayne",
+    "slug": "john-wayne",
+    "type": "BAND",
+    "country": "BR",
+    "city": null,
+    "formedYear": null,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/2837db34-642f-4f60-b83d-e40adf18e5be"
+      }
+    ],
+    "genres": [
+      "metalcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "bade1c14-7648-46ac-8b4a-6f27d8fc0a54",
+      "releaseMbid": "f63b2020-7fa7-44d0-9b19-98d9a2207fe0",
+      "title": "Tempestade",
+      "type": "ALBUM",
+      "releaseDate": "2012-11-12",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/bade1c14-7648-46ac-8b4a-6f27d8fc0a54/front-1200",
+      "tracks": [
+        {
+          "title": "Tormenta",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 52040
+        },
+        {
+          "title": "Tempestade",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 254787
+        },
+        {
+          "title": "Ascensão",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 238293
+        },
+        {
+          "title": "Lágrimas",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 287853
+        },
+        {
+          "title": "Retrato da Nossa Miséria",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 233733
+        },
+        {
+          "title": "Solaris",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 263440
+        },
+        {
+          "title": "Trégua",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 33080
+        },
+        {
+          "title": "Pregue a Paz",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 271200
+        },
+        {
+          "title": "Talvez o Amanhã",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 255187
+        },
+        {
+          "title": "Aliança",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 270933
+        }
+      ]
+    },
+    {
+      "mbid": "8b1c08d3-debb-43de-bb14-15bdd04191ec",
+      "releaseMbid": "25215acb-a83c-45ca-8902-1d4f7cfb0e3a",
+      "title": "Purgatório",
+      "type": "ALBUM",
+      "releaseDate": "2019-11-04",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/8b1c08d3-debb-43de-bb14-15bdd04191ec/front-1200",
+      "tracks": [
+        {
+          "title": "A Ilha",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Abel",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Demasia",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Midas",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Cair do Céu",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Pecado Original",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Caminho das Pedras",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Crucificado",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "Amuleto",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Adeus",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": null
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

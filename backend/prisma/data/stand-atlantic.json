@@ -1,0 +1,571 @@
+{
+  "generatedAt": "2026-11-24T18:56:59.728Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "2e8ca124-e38a-4dab-93dd-c9f3d415902b",
+    "name": "Stand Atlantic",
+    "slug": "stand-atlantic",
+    "type": "BAND",
+    "country": "AU",
+    "city": "Sydney",
+    "formedYear": 2015,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/2e8ca124-e38a-4dab-93dd-c9f3d415902b"
+      }
+    ],
+    "genres": [
+      "pop-punk"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "f7f204d0-faea-4c30-9a1b-0d1ae6f123dc",
+      "releaseMbid": "baa6122c-2cc5-4c6b-86ad-088f7e6bd6e8",
+      "title": "Catalyst",
+      "type": "EP",
+      "releaseDate": "2013",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Bulletproof Vest",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Streetlights",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Romeo",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Disappear (I'll Be A Ghost)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Catalyst",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "dd0b89f9-028c-4cb3-801a-a45744385e9e",
+      "releaseMbid": "1f1aef3b-3494-4f28-9963-5a3a73621782",
+      "title": "A Place Apart",
+      "type": "EP",
+      "releaseDate": "2015",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/dd0b89f9-028c-4cb3-801a-a45744385e9e/front-1200",
+      "tracks": [
+        {
+          "title": "Propellers",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 77000
+        },
+        {
+          "title": "Tonight We Stay",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 234000
+        },
+        {
+          "title": "Paper Skin",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 199000
+        },
+        {
+          "title": "Just Like You",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 268000
+        },
+        {
+          "title": "Wasteland",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 209000
+        }
+      ]
+    },
+    {
+      "mbid": "e04e2565-0c0d-4fd2-ae90-c0b600373acc",
+      "releaseMbid": "7630f79e-7184-4d66-859b-1ce0dda21b0d",
+      "title": "Sidewinder",
+      "type": "EP",
+      "releaseDate": "2017-09-15",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/e04e2565-0c0d-4fd2-ae90-c0b600373acc/front-1200",
+      "tracks": [
+        {
+          "title": "Sidewinder",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 162000
+        },
+        {
+          "title": "Mess I Made",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 137000
+        },
+        {
+          "title": "Push",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 220000
+        },
+        {
+          "title": "Coffee at Midnight",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 224000
+        },
+        {
+          "title": "Chemicals",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 208000
+        }
+      ]
+    },
+    {
+      "mbid": "0a85be42-e798-4859-9b97-de31a91f96b4",
+      "releaseMbid": "1a3a20a7-06f0-4c1b-8857-e18d3ea0d7a0",
+      "title": "Skinny Dipping",
+      "type": "ALBUM",
+      "releaseDate": "2018-10-26",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0a85be42-e798-4859-9b97-de31a91f96b4/front-1200",
+      "tracks": [
+        {
+          "title": "Lavender Bones",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 204253
+        },
+        {
+          "title": "Bullfrog",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 181387
+        },
+        {
+          "title": "Skinny Dipping",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 169613
+        },
+        {
+          "title": "Speak Slow",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 188747
+        },
+        {
+          "title": "Cigarette Kiss",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 220320
+        },
+        {
+          "title": "Lost My Cool",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 205213
+        },
+        {
+          "title": "Toothpick",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 215187
+        },
+        {
+          "title": "Burn in the Afterthought",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 223573
+        },
+        {
+          "title": "Clay",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 153667
+        },
+        {
+          "title": "Roses",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 233445
+        }
+      ]
+    },
+    {
+      "mbid": "eab689e6-5f81-42f5-b992-5c8a2807d89a",
+      "releaseMbid": "85cde05f-64e0-47d2-a34c-39a62845f80c",
+      "title": "Pink Elephant",
+      "type": "ALBUM",
+      "releaseDate": "2020-08-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/eab689e6-5f81-42f5-b992-5c8a2807d89a/front-1200",
+      "tracks": [
+        {
+          "title": "Like That",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 177000
+        },
+        {
+          "title": "Shh!",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 159000
+        },
+        {
+          "title": "Blurry",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 167000
+        },
+        {
+          "title": "Jurassic Park",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 147000
+        },
+        {
+          "title": "Eviligo",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 187000
+        },
+        {
+          "title": "Wavelength",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 178000
+        },
+        {
+          "title": "Drink to Drown",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 196000
+        },
+        {
+          "title": "DWYW",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 188000
+        },
+        {
+          "title": "Silk & Satin",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 171000
+        },
+        {
+          "title": "Soap",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 186000
+        },
+        {
+          "title": "Hate Me (Sometimes)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 234000
+        }
+      ]
+    },
+    {
+      "mbid": "c9ba54b0-1260-40eb-bbd8-f19441c6cc83",
+      "releaseMbid": "65b98360-f719-452e-a4e1-a4dd8b7e4012",
+      "title": "f.e.a.r.",
+      "type": "ALBUM",
+      "releaseDate": "2022-05-06",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "doomsday",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 183000
+        },
+        {
+          "title": "pity party",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 162000
+        },
+        {
+          "title": "van gogh",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 186000
+        },
+        {
+          "title": "dumb",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 165000
+        },
+        {
+          "title": "hair out",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 160000
+        },
+        {
+          "title": "deathwish",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 148000
+        },
+        {
+          "title": "switchblade",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 158000
+        },
+        {
+          "title": "nails from the back",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 161000
+        },
+        {
+          "title": "bloodclot",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 201000
+        },
+        {
+          "title": "don’t talk [to me]",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 147000
+        },
+        {
+          "title": "xo",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 172000
+        },
+        {
+          "title": "cabin fever",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 191000
+        },
+        {
+          "title": "molotov [OK]",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 136000
+        },
+        {
+          "title": "i wonder what kind of garlic bread they eat at MENSA",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 40000
+        }
+      ]
+    },
+    {
+      "mbid": "b8e3b691-dfed-4588-90b2-315765d4ab26",
+      "releaseMbid": "c8539463-8d13-47ed-bc4a-8598241f3d16",
+      "title": "WAS HERE",
+      "type": "ALBUM",
+      "releaseDate": "2024-08-23",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b8e3b691-dfed-4588-90b2-315765d4ab26/front-1200",
+      "tracks": [
+        {
+          "title": "WAKE UP-SIT DOWN-SHUT UP",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 180693
+        },
+        {
+          "title": "FRENEMIES",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 190266
+        },
+        {
+          "title": "GIRL$",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 133000
+        },
+        {
+          "title": "FREAKIN' OUT",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 165973
+        },
+        {
+          "title": "NOSE BLEED",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 195173
+        },
+        {
+          "title": "LOVE U ANYWAY",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 176493
+        },
+        {
+          "title": "KISSIN' KILLER COBRAS",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 165853
+        },
+        {
+          "title": "WARZ0NE",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 158173
+        },
+        {
+          "title": "CRIMINAL",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 227266
+        },
+        {
+          "title": "17",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 187266
+        },
+        {
+          "title": "17 // REPRIZE [ONE TAKE]",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 88626
+        },
+        {
+          "title": "G.A.G.",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 142800
+        },
+        {
+          "title": "ROCKSTAR",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 158813
+        },
+        {
+          "title": "SEX ON THE BEACH",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 190733
+        },
+        {
+          "title": "KILL[H]ER",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 145746
+        }
+      ]
+    },
+    {
+      "mbid": "762c9862-5d58-4a98-bfec-b402800b34cc",
+      "releaseMbid": "39036782-3118-4a39-9166-b1af0b403908",
+      "title": "GODBREATH",
+      "type": "ALBUM",
+      "releaseDate": "2026-10-23",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/762c9862-5d58-4a98-bfec-b402800b34cc/front-1200",
+      "tracks": [
+        {
+          "title": "d.L.M.A.",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 145000
+        },
+        {
+          "title": "SO COOL",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 142000
+        },
+        {
+          "title": "Favourite Flavour",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 197000
+        },
+        {
+          "title": "NEXT2U",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 197000
+        },
+        {
+          "title": "Velcro",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 208000
+        },
+        {
+          "title": "finger",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 186000
+        },
+        {
+          "title": "LUCID",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 188000
+        },
+        {
+          "title": "EDGE OF VEGAS",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 220000
+        },
+        {
+          "title": "teeth",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 220000
+        },
+        {
+          "title": "HeadRush",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 186000
+        },
+        {
+          "title": "Gimme A Show",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 170000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

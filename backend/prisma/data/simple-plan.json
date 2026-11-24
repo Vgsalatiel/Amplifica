@@ -1,0 +1,677 @@
+{
+  "generatedAt": "2026-11-24T18:48:53.327Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "b345af35-205e-4eca-8006-029e5c20127e",
+    "name": "Simple Plan",
+    "slug": "simple-plan",
+    "type": "BAND",
+    "country": "CA",
+    "city": "Montréal",
+    "formedYear": 1999,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/b345af35-205e-4eca-8006-029e5c20127e"
+      }
+    ],
+    "genres": [
+      "pop-punk"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "b29bacc5-e0da-435e-9df2-f8494a79d92a",
+      "releaseMbid": "1ca8e8d1-0809-4a13-b265-06942cc12860",
+      "title": "Simple Plan",
+      "type": "EP",
+      "releaseDate": "2001",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b29bacc5-e0da-435e-9df2-f8494a79d92a/front-1200",
+      "tracks": [
+        {
+          "title": "I'm Just a Kid",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 187000
+        },
+        {
+          "title": "When I'm With You",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 158000
+        },
+        {
+          "title": "Worst Day Ever",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 207000
+        }
+      ]
+    },
+    {
+      "mbid": "918e4df1-d1c3-33d1-805a-1228f9c684db",
+      "releaseMbid": "25decb5c-20f2-4a62-ad47-f8a1b668922b",
+      "title": "No Pads, No Helmets…Just Balls",
+      "type": "ALBUM",
+      "releaseDate": "2002-03-19",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/918e4df1-d1c3-33d1-805a-1228f9c684db/front-1200",
+      "tracks": [
+        {
+          "title": "I’d Do Anything",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 197200
+        },
+        {
+          "title": "The Worst Day Ever",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 207133
+        },
+        {
+          "title": "You Don’t Mean Anything",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 148600
+        },
+        {
+          "title": "I’m Just a Kid",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 198093
+        },
+        {
+          "title": "When I’m With You",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 157306
+        },
+        {
+          "title": "Meet You There",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 254026
+        },
+        {
+          "title": "Addicted",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 232066
+        },
+        {
+          "title": "My Alien",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 188066
+        },
+        {
+          "title": "God Must Hate Me",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 164533
+        },
+        {
+          "title": "I Won’t Be There",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 189306
+        },
+        {
+          "title": "One Day",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 195000
+        },
+        {
+          "title": "Perfect",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 277533
+        }
+      ]
+    },
+    {
+      "mbid": "9faf48d0-02e7-310d-8765-035832859951",
+      "releaseMbid": "62292877-3eca-43fe-870d-a1a4d303af57",
+      "title": "Still Not Getting Any…",
+      "type": "ALBUM",
+      "releaseDate": "2004-10-26",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/9faf48d0-02e7-310d-8765-035832859951/front-1200",
+      "tracks": [
+        {
+          "title": "Shut Up!",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 181306
+        },
+        {
+          "title": "Welcome to My Life",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 203346
+        },
+        {
+          "title": "Perfect World",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 231053
+        },
+        {
+          "title": "Thank You",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 173533
+        },
+        {
+          "title": "Me Against the World",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 192453
+        },
+        {
+          "title": "Crazy",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 218360
+        },
+        {
+          "title": "Jump",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 188400
+        },
+        {
+          "title": "Everytime",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 241480
+        },
+        {
+          "title": "Promise",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 212013
+        },
+        {
+          "title": "One",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 202066
+        },
+        {
+          "title": "Untitled",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 237960
+        }
+      ]
+    },
+    {
+      "mbid": "7d195365-00d7-44f1-9dcb-6a721ccbb03a",
+      "releaseMbid": "af369d10-1c4e-4b0f-9350-b181ad89e6f1",
+      "title": "Slammerz Vol. 1",
+      "type": "EP",
+      "releaseDate": "2006-09-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/7d195365-00d7-44f1-9dcb-6a721ccbb03a/front-1200",
+      "tracks": [
+        {
+          "title": "How Stuff",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 400947
+        },
+        {
+          "title": "Rednecks",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 359440
+        },
+        {
+          "title": "Dope Beats (Steve Dexter remix)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 460973
+        },
+        {
+          "title": "Dope Beats",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 402307
+        }
+      ]
+    },
+    {
+      "mbid": "63fc83b9-b927-3e56-a910-1d7e5ec0d34a",
+      "releaseMbid": "b275cec3-8830-4096-9ebc-817f7a7c7a8e",
+      "title": "Simple Plan",
+      "type": "ALBUM",
+      "releaseDate": "2008-02-06",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/63fc83b9-b927-3e56-a910-1d7e5ec0d34a/front-1200",
+      "tracks": [
+        {
+          "title": "When I’m Gone",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 229653
+        },
+        {
+          "title": "Take My Hand",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 231493
+        },
+        {
+          "title": "The End",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 202240
+        },
+        {
+          "title": "Your Love Is a Lie",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 221960
+        },
+        {
+          "title": "Save You",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 225866
+        },
+        {
+          "title": "Generation",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 182653
+        },
+        {
+          "title": "Time to Say Goodbye",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 176480
+        },
+        {
+          "title": "I Can Wait Forever",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 294320
+        },
+        {
+          "title": "Holding On",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 303493
+        },
+        {
+          "title": "No Love",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 197133
+        },
+        {
+          "title": "What If",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 354360
+        }
+      ]
+    },
+    {
+      "mbid": "c8967034-b5f5-4ffd-99cc-aa95e5b8750a",
+      "releaseMbid": "50424ddd-6bec-4d1d-bc75-e7498072fe96",
+      "title": "Get Your Heart On!",
+      "type": "ALBUM",
+      "releaseDate": "2011-06-14",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c8967034-b5f5-4ffd-99cc-aa95e5b8750a/front-1200",
+      "tracks": [
+        {
+          "title": "You Suck at Love",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 191040
+        },
+        {
+          "title": "Can’t Keep My Hands Off You",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 200722
+        },
+        {
+          "title": "Jet Lag",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 204526
+        },
+        {
+          "title": "Astronaut",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 220747
+        },
+        {
+          "title": "Loser of the Year",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 206093
+        },
+        {
+          "title": "Anywhere Else but Here",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 223387
+        },
+        {
+          "title": "Freaking Me Out",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 186613
+        },
+        {
+          "title": "Summer Paradise",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 235373
+        },
+        {
+          "title": "Gone Too Soon",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 195547
+        },
+        {
+          "title": "Last One Standing",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 207293
+        },
+        {
+          "title": "This Song Saved My Life",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 192280
+        },
+        {
+          "title": "Summer Paradise (single version)",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 234787
+        }
+      ]
+    },
+    {
+      "mbid": "6eba51d1-a0bd-47d2-9bb3-97e761fa8968",
+      "releaseMbid": "81270a62-eb84-4e73-aa1d-616d2f11ec64",
+      "title": "Get Your Heart On - The Second Coming!",
+      "type": "EP",
+      "releaseDate": "2013-11-29",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/6eba51d1-a0bd-47d2-9bb3-97e761fa8968/front-1200",
+      "tracks": [
+        {
+          "title": "Ordinary Life",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 205000
+        },
+        {
+          "title": "The Rest of Us",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 194000
+        },
+        {
+          "title": "Outta My System",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 205000
+        },
+        {
+          "title": "Fire in My Heart",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 206000
+        },
+        {
+          "title": "In",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 222000
+        },
+        {
+          "title": "Lucky One",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 230000
+        },
+        {
+          "title": "Try",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 206000
+        }
+      ]
+    },
+    {
+      "mbid": "4a5b17c4-e622-415a-91b5-8e927ff0edcd",
+      "releaseMbid": "424d4dfa-1050-4fcc-99c5-9980b5071e66",
+      "title": "Taking One for the Team",
+      "type": "ALBUM",
+      "releaseDate": "2016-02-19",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4a5b17c4-e622-415a-91b5-8e927ff0edcd/front-1200",
+      "tracks": [
+        {
+          "title": "Opinion Overload",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 199000
+        },
+        {
+          "title": "Boom!",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 189000
+        },
+        {
+          "title": "Kiss Me Like Nobody's Watching",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 203000
+        },
+        {
+          "title": "Farewell",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 201000
+        },
+        {
+          "title": "Singing in the Rain",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 223000
+        },
+        {
+          "title": "Everything Sucks",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 212000
+        },
+        {
+          "title": "I Refuse",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 199000
+        },
+        {
+          "title": "I Don't Wanna Go to Bed",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 189000
+        },
+        {
+          "title": "Nostalgic",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 186000
+        },
+        {
+          "title": "Perfectly Perfect",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 187000
+        },
+        {
+          "title": "I Don't Wanna Be Sad",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 193000
+        },
+        {
+          "title": "P.S. I Hate You",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 183000
+        },
+        {
+          "title": "Problem Child",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 221000
+        },
+        {
+          "title": "I Dream About You",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 189000
+        }
+      ]
+    },
+    {
+      "mbid": "e17c38cf-2630-453c-b098-690942f633aa",
+      "releaseMbid": "525c626d-475c-4fbd-be8e-486443d7afe0",
+      "title": "Harder Than It Looks",
+      "type": "ALBUM",
+      "releaseDate": "2022-05-06",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/e17c38cf-2630-453c-b098-690942f633aa/front-1200",
+      "tracks": [
+        {
+          "title": "Wake Me Up (When This Nightmare’s Over)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 216000
+        },
+        {
+          "title": "Ruin My Life",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 199000
+        },
+        {
+          "title": "The Antidote",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 195000
+        },
+        {
+          "title": "Million Pictures of You",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 206000
+        },
+        {
+          "title": "Anxiety",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 209000
+        },
+        {
+          "title": "Congratulations",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 196000
+        },
+        {
+          "title": "Iconic",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 185000
+        },
+        {
+          "title": "Best Day of My Life",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 206000
+        },
+        {
+          "title": "Slow Motion",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 239000
+        },
+        {
+          "title": "Two",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 218000
+        }
+      ]
+    },
+    {
+      "mbid": "16146458-f993-4732-80fb-83373906e4ca",
+      "releaseMbid": "7d806668-6192-4d4b-a3ee-fcfc7632c106",
+      "title": "Life Is a Nightmare",
+      "type": "EP",
+      "releaseDate": "2024-10-04",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/16146458-f993-4732-80fb-83373906e4ca/front-1200",
+      "tracks": [
+        {
+          "title": "I’m Just a Kid",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "My Alien",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "What’s New Scooby‐Doo?",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "You Suck at Love",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Me Against the World",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Take My Hand",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

@@ -1,0 +1,439 @@
+{
+  "generatedAt": "2026-11-24T18:57:56.352Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "64262a93-09ac-445f-9afd-edf3cd8528c3",
+    "name": "The Nearly Deads",
+    "slug": "the-nearly-deads",
+    "type": "BAND",
+    "country": "US",
+    "city": "Nashville",
+    "formedYear": 2010,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/64262a93-09ac-445f-9afd-edf3cd8528c3"
+      }
+    ],
+    "genres": [
+      "alternative-rock"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "9cef6119-6af6-47f5-b1cf-97dba8523a2c",
+      "releaseMbid": "42eefdb0-1825-4bec-ae44-17e545944905",
+      "title": "The Nearly Deads",
+      "type": "EP",
+      "releaseDate": "2011-03-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/9cef6119-6af6-47f5-b1cf-97dba8523a2c/front-1200",
+      "tracks": [
+        {
+          "title": "Fact & Friction",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 228360
+        },
+        {
+          "title": "Never Look Back",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 200826
+        },
+        {
+          "title": "Reasons",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 179893
+        },
+        {
+          "title": "Special",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 207426
+        },
+        {
+          "title": "The Perfect Cure",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 235426
+        },
+        {
+          "title": "Thanks for Nothing",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 235066
+        }
+      ]
+    },
+    {
+      "mbid": "8bf42f31-330e-4b47-877a-21eee4baf9c3",
+      "releaseMbid": "f747e2c4-5d43-40c0-955d-bcd70499957d",
+      "title": "Survival Guide",
+      "type": "EP",
+      "releaseDate": "2013-08-20",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/8bf42f31-330e-4b47-877a-21eee4baf9c3/front-1200",
+      "tracks": [
+        {
+          "title": "Brave",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 208771
+        },
+        {
+          "title": "Never Look Back",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 203860
+        },
+        {
+          "title": "Changeover",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 204800
+        },
+        {
+          "title": "Reasons",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 179670
+        },
+        {
+          "title": "Fact and Friction",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 227291
+        },
+        {
+          "title": "Never Look Back (Reanimated)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 217626
+        }
+      ]
+    },
+    {
+      "mbid": "999944ad-3e97-40f0-a1f2-225b8cef1f76",
+      "releaseMbid": "4e70f131-79ce-4989-8f90-27e3c4183cc1",
+      "title": "Invisible Tonight",
+      "type": "ALBUM",
+      "releaseDate": "2014-06-24",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/999944ad-3e97-40f0-a1f2-225b8cef1f76/front-1200",
+      "tracks": [
+        {
+          "title": "I Said",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 198000
+        },
+        {
+          "title": "Invisible Tonight",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 198000
+        },
+        {
+          "title": "Changeover",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 204000
+        },
+        {
+          "title": "Paper Doll",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 243000
+        },
+        {
+          "title": "Easy Way Out",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 216000
+        },
+        {
+          "title": "In the Morning",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 212000
+        },
+        {
+          "title": "Point of No Return",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 177000
+        },
+        {
+          "title": "You Got Me",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 185000
+        },
+        {
+          "title": "Brave",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 209000
+        },
+        {
+          "title": "Our Last Adventure",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 247000
+        },
+        {
+          "title": "Never Look Back (Reanimated)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 217000
+        }
+      ]
+    },
+    {
+      "mbid": "d9d5473e-211d-4729-86bb-88e3444d1ec1",
+      "releaseMbid": "6ca91ccd-466d-4587-a2cf-18cf757b9ace",
+      "title": "Revenge of The Nearly Deads",
+      "type": "EP",
+      "releaseDate": "2017-06-09",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d9d5473e-211d-4729-86bb-88e3444d1ec1/front-1200",
+      "tracks": [
+        {
+          "title": "Diamond in the Rough",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 168000
+        },
+        {
+          "title": "My Evil Ways",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 197000
+        },
+        {
+          "title": "Not Listening",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 211000
+        },
+        {
+          "title": "Revenge",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 212000
+        },
+        {
+          "title": "Frequencies",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 197000
+        },
+        {
+          "title": "As Good As It Gets",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 176000
+        }
+      ]
+    },
+    {
+      "mbid": "b228aea0-6f41-4d8e-afc7-22a78af1209d",
+      "releaseMbid": "2596ad6b-8e9c-4504-a832-e9cae4ece598",
+      "title": "Unearthed",
+      "type": "EP",
+      "releaseDate": "2022-09-08",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b228aea0-6f41-4d8e-afc7-22a78af1209d/front-1200",
+      "tracks": [
+        {
+          "title": "Frequencies (Unearthed)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 191633
+        },
+        {
+          "title": "Diamond in the Rough (Unearthed)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 239621
+        },
+        {
+          "title": "My Evil Ways (Unearthed)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 213456
+        },
+        {
+          "title": "Fact and Friction (Unearthed)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 312796
+        },
+        {
+          "title": "Believer (Unearthed)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 236490
+        }
+      ]
+    },
+    {
+      "mbid": "f6505229-2ad3-4b7f-b639-0ebd780eb8fe",
+      "releaseMbid": "09452daf-64c8-40bd-a9f6-a3a7fe156440",
+      "title": "Faith",
+      "type": "EP",
+      "releaseDate": "2023-04-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f6505229-2ad3-4b7f-b639-0ebd780eb8fe/front-1200",
+      "tracks": [
+        {
+          "title": "Faith",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 235000
+        },
+        {
+          "title": "Suffocating",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 203000
+        },
+        {
+          "title": "Relentless",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 212000
+        },
+        {
+          "title": "Wild",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 197000
+        }
+      ]
+    },
+    {
+      "mbid": "b31319e7-7bf1-4020-831e-29687c00951e",
+      "releaseMbid": "8199d849-20b9-413a-91d5-530db1dbc5be",
+      "title": "We Are the Nearly Deads",
+      "type": "ALBUM",
+      "releaseDate": "2023-07-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b31319e7-7bf1-4020-831e-29687c00951e/front-1200",
+      "tracks": [
+        {
+          "title": "Suffocating",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 202000
+        },
+        {
+          "title": "Maybe",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 227000
+        },
+        {
+          "title": "Supernatural",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 226000
+        },
+        {
+          "title": "Wonderland",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 205000
+        },
+        {
+          "title": "Believer",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 246000
+        },
+        {
+          "title": "Home",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 213000
+        },
+        {
+          "title": "Redemption",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 224000
+        },
+        {
+          "title": "Relentless",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 215000
+        },
+        {
+          "title": "Wild",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 197000
+        },
+        {
+          "title": "Faith",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 236000
+        }
+      ]
+    },
+    {
+      "mbid": "a4b471e5-3993-4a4b-ac92-03808c7d4694",
+      "releaseMbid": "56c1014a-8291-49e4-8b19-32cefcb6a26b",
+      "title": "Echoes",
+      "type": "EP",
+      "releaseDate": "2024-11-29",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a4b471e5-3993-4a4b-ac92-03808c7d4694/front-1200",
+      "tracks": [
+        {
+          "title": "Come Down",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 273000
+        },
+        {
+          "title": "You're Dead",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 137000
+        },
+        {
+          "title": "Cruel World",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 163000
+        },
+        {
+          "title": "She's Not There",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 160000
+        },
+        {
+          "title": "I Don't Want to Set the World on Fire",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 214000
+        },
+        {
+          "title": "9 to 5",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 192000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

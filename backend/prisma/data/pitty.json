@@ -1,0 +1,1671 @@
+{
+  "generatedAt": "2026-11-24T18:55:47.210Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "ce1509b1-fc1a-4b0a-aeb3-36cbf9cc11fb",
+    "name": "Pitty",
+    "slug": "pitty",
+    "type": "SOLO",
+    "country": "BR",
+    "city": "Salvador",
+    "formedYear": 1977,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/ce1509b1-fc1a-4b0a-aeb3-36cbf9cc11fb"
+      }
+    ],
+    "genres": [
+      "alternative-rock",
+      "rock-nacional"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "66af9ca7-ee50-445c-b9ff-18b0e890555e",
+      "releaseMbid": "45556367-e6b7-4f3e-b35f-4e23734cf9bf",
+      "title": "Lado Z",
+      "type": "EP",
+      "releaseDate": "2003",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/66af9ca7-ee50-445c-b9ff-18b0e890555e/front-1200",
+      "tracks": [
+        {
+          "title": "Seu mestre mandou",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 130000
+        },
+        {
+          "title": "O muro",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 64000
+        },
+        {
+          "title": "Suas armas",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 264000
+        },
+        {
+          "title": "Deus lhe pague",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 171000
+        },
+        {
+          "title": "Digging the Grave",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 174000
+        }
+      ]
+    },
+    {
+      "mbid": "04ef1b24-ba3f-3d92-9e79-939f642c0fbf",
+      "releaseMbid": "24f1473c-f653-4be8-abf3-f8236306e175",
+      "title": "Admirável chip novo",
+      "type": "ALBUM",
+      "releaseDate": "2003-05-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/04ef1b24-ba3f-3d92-9e79-939f642c0fbf/front-1200",
+      "tracks": [
+        {
+          "title": "Teto de vidro",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 212720
+        },
+        {
+          "title": "Admirável chip novo",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 191520
+        },
+        {
+          "title": "Máscara",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 289706
+        },
+        {
+          "title": "Equalize",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 232240
+        },
+        {
+          "title": "O lobo",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 218386
+        },
+        {
+          "title": "Emboscada",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 193653
+        },
+        {
+          "title": "Do mesmo lado",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 275773
+        },
+        {
+          "title": "Temporal",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 245040
+        },
+        {
+          "title": "Só de passagem",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 129626
+        },
+        {
+          "title": "I Wanna Be",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 152773
+        },
+        {
+          "title": "Semana que vem",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 219720
+        }
+      ]
+    },
+    {
+      "mbid": "ad393aa3-a232-3729-9ede-965abd331177",
+      "releaseMbid": "1f8d0d37-2c39-4c53-91bd-b7f48d0ce32d",
+      "title": "Anacrônico",
+      "type": "ALBUM",
+      "releaseDate": "2005-08-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ad393aa3-a232-3729-9ede-965abd331177/front-1200",
+      "tracks": [
+        {
+          "title": "A saideira",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 171773
+        },
+        {
+          "title": "Anacrônico",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 192106
+        },
+        {
+          "title": "De você",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 228813
+        },
+        {
+          "title": "Memórias",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 214546
+        },
+        {
+          "title": "Déjà vu",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 258066
+        },
+        {
+          "title": "Aahhh...!",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 68066
+        },
+        {
+          "title": "Ignorin' U",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 259959
+        },
+        {
+          "title": "Brinquedo torto",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 299266
+        },
+        {
+          "title": "Na sua estante",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 222040
+        },
+        {
+          "title": "No escuro",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 187733
+        },
+        {
+          "title": "Quem vai queimar?",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 242306
+        },
+        {
+          "title": "Guerreiros são guerreiros",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 286853
+        },
+        {
+          "title": "Querer depois",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 166493
+        }
+      ]
+    },
+    {
+      "mbid": "27329a72-06ac-4f20-bc57-d10d5bbcc202",
+      "releaseMbid": "e37b7695-9784-4c2b-b4cd-8711d2f5a60a",
+      "title": "Estúdio Coca-Cola: Pitty e Negra Li",
+      "type": "EP",
+      "releaseDate": "2007-05-05",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/27329a72-06ac-4f20-bc57-d10d5bbcc202/front-1200",
+      "tracks": [
+        {
+          "title": "Do mesmo lado",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 275000
+        },
+        {
+          "title": "Ninguém pode me impedir",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 200000
+        },
+        {
+          "title": "Você vai estar na minha",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 204000
+        },
+        {
+          "title": "A saideira",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 171000
+        },
+        {
+          "title": "Admirável chip novo",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 191000
+        },
+        {
+          "title": "Amar em vão",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 200000
+        },
+        {
+          "title": "Chain of Fools",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 191000
+        }
+      ]
+    },
+    {
+      "mbid": "2e2fe1d7-87ba-3097-9c9e-3a19768863ff",
+      "releaseMbid": "5cdaa680-b885-4102-9cc3-d28e31b854e6",
+      "title": "{Des}concerto ao vivo",
+      "type": "LIVE",
+      "releaseDate": "2007-09-15",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/2e2fe1d7-87ba-3097-9c9e-3a19768863ff/front-1200",
+      "tracks": [
+        {
+          "title": "Anacrônico",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 238613
+        },
+        {
+          "title": "Admirável chip novo",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 178213
+        },
+        {
+          "title": "Semana que vem",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 260586
+        },
+        {
+          "title": "Déjà vu",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 271960
+        },
+        {
+          "title": "Brinquedo torto",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 325506
+        },
+        {
+          "title": "Memórias",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 414786
+        },
+        {
+          "title": "Na sua estante",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 246573
+        },
+        {
+          "title": "Malditos cromossomos",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 133240
+        },
+        {
+          "title": "De você",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 234080
+        },
+        {
+          "title": "No escuro",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 196840
+        },
+        {
+          "title": "Equalize",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 255680
+        },
+        {
+          "title": "Pulsos",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 280093
+        },
+        {
+          "title": "Ignorin' U",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 270320
+        },
+        {
+          "title": "A saideira",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 172266
+        },
+        {
+          "title": "I Wanna Be",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 182453
+        },
+        {
+          "title": "Seu mestre mandou",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 155986
+        },
+        {
+          "title": "Máscara",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 515386
+        }
+      ]
+    },
+    {
+      "mbid": "6d71c1db-31f4-486b-a597-6668ae11fd44",
+      "releaseMbid": "34000f0b-e6a1-40be-8679-de8c96b87bcd",
+      "title": "Chiaroscuro",
+      "type": "ALBUM",
+      "releaseDate": "2009-08-11",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/6d71c1db-31f4-486b-a597-6668ae11fd44/front-1200",
+      "tracks": [
+        {
+          "title": "8 ou 80",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 338053
+        },
+        {
+          "title": "Me adora",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 267613
+        },
+        {
+          "title": "Medo",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 209186
+        },
+        {
+          "title": "Água contida",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 265600
+        },
+        {
+          "title": "Só agora",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 197746
+        },
+        {
+          "title": "Fracasso",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 213626
+        },
+        {
+          "title": "Desconstruindo Amélia",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 236706
+        },
+        {
+          "title": "Trapézio",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 289026
+        },
+        {
+          "title": "Rato na roda",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 161120
+        },
+        {
+          "title": "A sombra",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 246013
+        },
+        {
+          "title": "Todos estão mudos",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 217213
+        }
+      ]
+    },
+    {
+      "mbid": "a62ca455-3314-4b84-bd89-d250b5865b88",
+      "releaseMbid": "59d57bf3-665f-4ca8-8070-7c90525659c3",
+      "title": "The Best of Pitty",
+      "type": "COMPILATION",
+      "releaseDate": "2009-09-20",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Máscara",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 289000
+        },
+        {
+          "title": "Equalize",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 232000
+        },
+        {
+          "title": "Memórias",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 214000
+        },
+        {
+          "title": "De você",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 228000
+        },
+        {
+          "title": "Na Sua Estante",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 222000
+        },
+        {
+          "title": "Semana Que Vem",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 221000
+        },
+        {
+          "title": "Admirável Chip Novo",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 191000
+        },
+        {
+          "title": "Déjà Vu",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 258000
+        },
+        {
+          "title": "Anacrônico",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 192000
+        },
+        {
+          "title": "Pulsos (Ao Vivo)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 280000
+        }
+      ]
+    },
+    {
+      "mbid": "0f43ad1f-6ca1-4976-9abf-335ad0bf1a10",
+      "releaseMbid": "9238c9b2-eaa9-4302-952c-ee838f77a1de",
+      "title": "A trupe delirante no Circo Voador",
+      "type": "LIVE",
+      "releaseDate": "2011-05-09",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0f43ad1f-6ca1-4976-9abf-335ad0bf1a10/front-1200",
+      "tracks": [
+        {
+          "title": "8 ou 80",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 330000
+        },
+        {
+          "title": "Fracasso",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 206000
+        },
+        {
+          "title": "Desconstruindo Amélia",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 243000
+        },
+        {
+          "title": "Água contida",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 327000
+        },
+        {
+          "title": "Emboscada",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 196000
+        },
+        {
+          "title": "Trapézio",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 159000
+        },
+        {
+          "title": "Rato na roda",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 298000
+        },
+        {
+          "title": "Só agora",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 298000
+        },
+        {
+          "title": "Medo",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 209000
+        },
+        {
+          "title": "Comum de dois",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 253000
+        },
+        {
+          "title": "Só de passagem",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 130000
+        },
+        {
+          "title": "Pra onde ir",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 282000
+        },
+        {
+          "title": "Senhor das moscas",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 165000
+        },
+        {
+          "title": "O lobo",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 280000
+        },
+        {
+          "title": "Se você pensa",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 194000
+        },
+        {
+          "title": "Todos estão mudos",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 210000
+        },
+        {
+          "title": "Me adora",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 353000
+        }
+      ]
+    },
+    {
+      "mbid": "4a5ddb38-490b-46e0-bb41-2fbea44bfe95",
+      "releaseMbid": "0d3a2571-7f0f-4fdc-a040-18dcb309cf80",
+      "title": "SETEVIDAS",
+      "type": "ALBUM",
+      "releaseDate": "2014-05-27",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4a5ddb38-490b-46e0-bb41-2fbea44bfe95/front-1200",
+      "tracks": [
+        {
+          "title": "Pouco",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 240000
+        },
+        {
+          "title": "Deixa ela entrar",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 230000
+        },
+        {
+          "title": "Pequena morte",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 234000
+        },
+        {
+          "title": "Um leão",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 215000
+        },
+        {
+          "title": "Lado de lá",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 289000
+        },
+        {
+          "title": "Olho calmo",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 314000
+        },
+        {
+          "title": "Boca aberta",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 178000
+        },
+        {
+          "title": "A massa",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 241000
+        },
+        {
+          "title": "Setevidas",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 253000
+        },
+        {
+          "title": "Serpente",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 353000
+        }
+      ]
+    },
+    {
+      "mbid": "b1fbfb22-e1f2-4f0a-b837-963629a4dd7b",
+      "releaseMbid": "50141a9b-8f1b-4907-8082-9465a7e270c3",
+      "title": "Turnê: Setevidas",
+      "type": "LIVE",
+      "releaseDate": "2016-07-13",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Setevidas",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 254000
+        },
+        {
+          "title": "Anacrônico",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 201000
+        },
+        {
+          "title": "Admirável chip novo",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 195000
+        },
+        {
+          "title": "Semana que vem",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 245000
+        },
+        {
+          "title": "Deixa ela entrar",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 226000
+        },
+        {
+          "title": "Teto de vidro",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 225000
+        },
+        {
+          "title": "Memórias",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 341000
+        },
+        {
+          "title": "Um leão",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 238000
+        },
+        {
+          "title": "Pulsos",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 278000
+        },
+        {
+          "title": "A massa",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 249000
+        },
+        {
+          "title": "Só agora",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 190000
+        },
+        {
+          "title": "Olho calmo",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 325000
+        },
+        {
+          "title": "Boca aberta",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 196000
+        },
+        {
+          "title": "Pequena morte",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 247000
+        },
+        {
+          "title": "Me adora",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 273000
+        },
+        {
+          "title": "Equalize",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 270000
+        },
+        {
+          "title": "Na sua estante",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 256000
+        },
+        {
+          "title": "Máscara / Bom senso",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 463000
+        },
+        {
+          "title": "Serpente",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 440000
+        }
+      ]
+    },
+    {
+      "mbid": "ce905a86-e013-4d5e-984e-c0cf2ae8ff38",
+      "releaseMbid": "855c0b57-a967-4e1b-843c-8ab11f2c78cc",
+      "title": "MATRIZ",
+      "type": "ALBUM",
+      "releaseDate": "2019-04-26",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ce905a86-e013-4d5e-984e-c0cf2ae8ff38/front-1200",
+      "tracks": [
+        {
+          "title": "Bicho solto",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 166684
+        },
+        {
+          "title": "Noite inteira",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 314893
+        },
+        {
+          "title": "Ninguém é de ninguém",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 186955
+        },
+        {
+          "title": "Motor",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 230089
+        },
+        {
+          "title": "Saudade (vinheta)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 4286
+        },
+        {
+          "title": "Roda",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 200490
+        },
+        {
+          "title": "Azul (vinheta)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 3855
+        },
+        {
+          "title": "Bahia blues",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 226845
+        },
+        {
+          "title": "Te conecta",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 231502
+        },
+        {
+          "title": "Redimir",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 216236
+        },
+        {
+          "title": "Para o grande amor",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 223028
+        },
+        {
+          "title": "Submersa",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 246122
+        },
+        {
+          "title": "Sol quadrado",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 341860
+        }
+      ]
+    },
+    {
+      "mbid": "11de8606-7684-42a6-a83b-1daac23772d0",
+      "releaseMbid": "c261b8f7-6f4e-49bb-b40f-ad929c34294e",
+      "title": "Matriz Ao Vivo Na Bahia",
+      "type": "LIVE",
+      "releaseDate": "2020",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/11de8606-7684-42a6-a83b-1daac23772d0/front-1200",
+      "tracks": [
+        {
+          "title": "Bicho Solto",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 95634
+        },
+        {
+          "title": "Ninguém É de Ninguém",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 188081
+        },
+        {
+          "title": "Admirável Chip Novo",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 191503
+        },
+        {
+          "title": "Memórias",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 312032
+        },
+        {
+          "title": "Setevidas",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 281234
+        },
+        {
+          "title": "Noite Inteira",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 340244
+        },
+        {
+          "title": "Te Conecta Tudo Me Faz Sentido",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 395467
+        },
+        {
+          "title": "Na Sua Estante",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 227343
+        },
+        {
+          "title": "Motor",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 235467
+        },
+        {
+          "title": "Redimir",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 276506
+        },
+        {
+          "title": "Teto de Vidro",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 256391
+        },
+        {
+          "title": "Quem Vai Queimar",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 361430
+        },
+        {
+          "title": "Dançando",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 326608
+        },
+        {
+          "title": "Equalize",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 266475
+        },
+        {
+          "title": "Roda",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 219454
+        },
+        {
+          "title": "Bahia Blues",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 232176
+        },
+        {
+          "title": "Me Adora",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 322925
+        },
+        {
+          "title": "Máscara Bonecas Pretas",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 450168
+        },
+        {
+          "title": "Sol Quadrado",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 478328
+        }
+      ]
+    },
+    {
+      "mbid": "8ff4b6b4-c8f8-416b-ad5b-6ca89e81ac81",
+      "releaseMbid": "be898c6b-7b4c-43f5-9a7d-98e351962030",
+      "title": "Casulo",
+      "type": "EP",
+      "releaseDate": "2022-01-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/8ff4b6b4-c8f8-416b-ad5b-6ca89e81ac81/front-1200",
+      "tracks": [
+        {
+          "title": "Diamante",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 224000
+        },
+        {
+          "title": "Simplesmente fluir",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 234000
+        },
+        {
+          "title": "Busca implacável",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 248000
+        },
+        {
+          "title": "Diário",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 280000
+        }
+      ]
+    },
+    {
+      "mbid": "c5b2320f-0324-4d48-848b-f501ad5dd192",
+      "releaseMbid": "87510c51-e4ab-4c17-a6c8-226792045e0f",
+      "title": "PITTYNANDO – As suas, as minhas e as nossas",
+      "type": "EP",
+      "releaseDate": "2022-12-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c5b2320f-0324-4d48-848b-f501ad5dd192/front-1200",
+      "tracks": [
+        {
+          "title": "PITTYNANDO",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 223773
+        },
+        {
+          "title": "Os cegos do castelo",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 262947
+        },
+        {
+          "title": "Na sua estante",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 283667
+        },
+        {
+          "title": "Luz dos olhos",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 262000
+        },
+        {
+          "title": "Temporal",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 263173
+        }
+      ]
+    },
+    {
+      "mbid": "109d0f9a-5cd5-498d-b78b-cd84d9cff026",
+      "releaseMbid": "db482155-4376-41db-be5c-6661dafcbae0",
+      "title": "PITTYNANDO – As Suas, As Minhas e As Nossas",
+      "type": "LIVE",
+      "releaseDate": "2023-03-17",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/109d0f9a-5cd5-498d-b78b-cd84d9cff026/front-1200",
+      "tracks": [
+        {
+          "title": "PITTYNANDO (Ao Vivo)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 238581
+        },
+        {
+          "title": "Admirável Chip Novo / Do Seu Lado (Ao Vivo)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 446814
+        },
+        {
+          "title": "Memórias / Me Diga (Ao Vivo)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 311744
+        },
+        {
+          "title": "Sou Dela (Ao Vivo)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 298547
+        },
+        {
+          "title": "Semana Que Vem (Ao Vivo)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 275635
+        },
+        {
+          "title": "Os Cegos do Castelo (Ao Vivo)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 311818
+        },
+        {
+          "title": "Na Sua Estante (Ao Vivo)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 322969
+        },
+        {
+          "title": "All Star (Ao Vivo)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 161511
+        },
+        {
+          "title": "Temporal (Ao Vivo)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 259870
+        },
+        {
+          "title": "Por Onde Andei (Ao Vivo)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 241625
+        },
+        {
+          "title": "Equalize (Ao Vivo)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 244814
+        },
+        {
+          "title": "Resposta (Ao Vivo)",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 239058
+        },
+        {
+          "title": "Déjà Vu (Ao Vivo)",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 255702
+        },
+        {
+          "title": "Luz Dos Olhos (Ao Vivo)",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 237726
+        },
+        {
+          "title": "Teto de Vidro (Ao Vivo)",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 257798
+        },
+        {
+          "title": "Relicário (Ao Vivo)",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 222725
+        },
+        {
+          "title": "Me Adora (Ao Vivo)",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 292550
+        },
+        {
+          "title": "Máscara/ Não Vou Me Adaptar (Ao Vivo)",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 374489
+        },
+        {
+          "title": "O Segundo Sol (Ao Vivo)",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 257961
+        },
+        {
+          "title": "Mantra (Ao Vivo)",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 228511
+        },
+        {
+          "title": "Serpente (Ao Vivo)",
+          "discNumber": 1,
+          "position": 21,
+          "durationMs": 410323
+        }
+      ]
+    },
+    {
+      "mbid": "8db0a1d8-eda2-4b42-b1f7-6427b1a41101",
+      "releaseMbid": "f5c0d0cf-a7df-4527-a683-39b8d4419c21",
+      "title": "Espelhos",
+      "type": "COMPILATION",
+      "releaseDate": "2023-06-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/8db0a1d8-eda2-4b42-b1f7-6427b1a41101/front-1200",
+      "tracks": [
+        {
+          "title": "Girls Just Want to Have Fun",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 204426
+        },
+        {
+          "title": "Eleanor Rigby",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 201000
+        },
+        {
+          "title": "Private Idaho",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 224946
+        },
+        {
+          "title": "Sailin’ On",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 109466
+        },
+        {
+          "title": "Love Buzz",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 209080
+        },
+        {
+          "title": "Femme Fatale",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 238093
+        },
+        {
+          "title": "Go With the Flow",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 253093
+        },
+        {
+          "title": "Be Bigger",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 194760
+        },
+        {
+          "title": "Imagem é tudo, sua cabeça não tem nada",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 87893
+        },
+        {
+          "title": "Punk Rock, Hardcore Alto José do Pinho",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 90586
+        },
+        {
+          "title": "Sailin’ On (Country)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 108600
+        }
+      ]
+    },
+    {
+      "mbid": "964e2822-ddcf-415d-a699-fb2b08a231ea",
+      "releaseMbid": "a4612bce-db8e-4931-adb5-71531d0978ce",
+      "title": "ADMIRÁVEL CHIP NOVO (RE)ATIVADO",
+      "type": "COMPILATION",
+      "releaseDate": "2023-10-06",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/964e2822-ddcf-415d-a699-fb2b08a231ea/front-1200",
+      "tracks": [
+        {
+          "title": "Teto de vidro (reativado)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 189307
+        },
+        {
+          "title": "Admirável chip novo",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 165696
+        },
+        {
+          "title": "Máscara",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 262933
+        },
+        {
+          "title": "Equalize",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 218709
+        },
+        {
+          "title": "O lobo",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 182121
+        },
+        {
+          "title": "Emboscada",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 220443
+        },
+        {
+          "title": "Do mesmo lado",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 158109
+        },
+        {
+          "title": "Temporal",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 241389
+        },
+        {
+          "title": "Só de passagem",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 129896
+        },
+        {
+          "title": "I Wanna Be",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 220856
+        },
+        {
+          "title": "Semana que vem",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 246920
+        }
+      ]
+    },
+    {
+      "mbid": "2dd3b04a-adee-48ec-8d9f-1e54390025ed",
+      "releaseMbid": "2d9e4410-23e4-4163-9cf9-6c8a7df0cd2c",
+      "title": "ACNXX ao vivo em Salvador",
+      "type": "LIVE",
+      "releaseDate": "2024-02-02",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/2dd3b04a-adee-48ec-8d9f-1e54390025ed/front-1200",
+      "tracks": [
+        {
+          "title": "ACNXX (intro)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 73726
+        },
+        {
+          "title": "Teto de vidro",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 241970
+        },
+        {
+          "title": "Admirável chip novo",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 223867
+        },
+        {
+          "title": "Máscara",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 439556
+        },
+        {
+          "title": "Equalize",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 252136
+        },
+        {
+          "title": "O lobo",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 287506
+        },
+        {
+          "title": "Emboscada",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 252809
+        },
+        {
+          "title": "Do mesmo lado",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 276162
+        },
+        {
+          "title": "Temporal",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 254390
+        },
+        {
+          "title": "Só de passagem",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 134984
+        },
+        {
+          "title": "I Wanna Be",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 156166
+        },
+        {
+          "title": "Semana que vem",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 268162
+        },
+        {
+          "title": "Seu mestre mandou",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 138244
+        },
+        {
+          "title": "Sailin’ On",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 116266
+        },
+        {
+          "title": "Lovebuzz",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 276059
+        },
+        {
+          "title": "Femme Fatale",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 282083
+        },
+        {
+          "title": "Setevidas",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 257447
+        },
+        {
+          "title": "Memórias (Roda no Rio Vermelho)",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 516074
+        },
+        {
+          "title": "Pulsos",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 269110
+        },
+        {
+          "title": "Anacrônico",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 192441
+        },
+        {
+          "title": "Na sua estante",
+          "discNumber": 1,
+          "position": 21,
+          "durationMs": 234135
+        },
+        {
+          "title": "Me adora",
+          "discNumber": 1,
+          "position": 22,
+          "durationMs": 376164
+        }
+      ]
+    },
+    {
+      "mbid": "d63074aa-3b88-446a-ac57-292d17bda2e9",
+      "releaseMbid": "663a0c8b-538e-45bb-8f25-a9f51eef1084",
+      "title": "Pitty",
+      "type": "ALBUM",
+      "releaseDate": "2026-10-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d63074aa-3b88-446a-ac57-292d17bda2e9/front-1200",
+      "tracks": [
+        {
+          "title": "Sobremesa",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 184803
+        },
+        {
+          "title": "Armadura",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 153725
+        },
+        {
+          "title": "Desobediente",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 190826
+        },
+        {
+          "title": "Pileque de poeta",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 187917
+        },
+        {
+          "title": "Não à deriva",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 143406
+        },
+        {
+          "title": "Caminhada",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 246245
+        },
+        {
+          "title": "Sobriedade seletiva",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 244499
+        },
+        {
+          "title": "“Amiga,”",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 181532
+        },
+        {
+          "title": "Madame",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 183996
+        },
+        {
+          "title": "Álbum de casamento",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 234063
+        },
+        {
+          "title": "Prazer, universo",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 179364
+        },
+        {
+          "title": "Cuidada",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 164823
+        },
+        {
+          "title": "Nó",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 256887
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

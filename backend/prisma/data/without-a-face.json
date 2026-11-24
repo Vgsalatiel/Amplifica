@@ -1,0 +1,62 @@
+{
+  "generatedAt": "2026-11-24T18:45:19.890Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "f27a0a12-4e60-4c88-83e6-9b13489d2366",
+    "name": "Without a Face",
+    "slug": "without-a-face",
+    "type": "BAND",
+    "country": "CA",
+    "city": null,
+    "formedYear": null,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/f27a0a12-4e60-4c88-83e6-9b13489d2366"
+      }
+    ],
+    "genres": [
+      "deathcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "0f7a0fb6-484d-432d-a89c-fdcf89b4493a",
+      "releaseMbid": "ca64c908-5899-4ba7-b61b-50c245f14b7e",
+      "title": "Rat Poison",
+      "type": "EP",
+      "releaseDate": "2025-02-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0f7a0fb6-484d-432d-a89c-fdcf89b4493a/front-1200",
+      "tracks": [
+        {
+          "title": "Toe Tag Dope",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 90000
+        },
+        {
+          "title": "Rat Poison",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 145000
+        },
+        {
+          "title": "Resentment",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 133000
+        },
+        {
+          "title": "Moral Terror",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 61000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}
