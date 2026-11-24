@@ -7,6 +7,7 @@ import { TextLink } from '../../../components/ui/text-link'
 import { ApiError } from '../../../lib/http'
 import { retryDelay, shouldRetry } from '../../../lib/retry'
 import { TasteMatchSection } from '../components/taste-match'
+import { UserFavorites } from '../../favorites/components/user-favorites'
 import { UserDiscoveries } from '../components/user-discoveries'
 import { UserReviews } from '../../reviews/components/user-reviews'
 import { useSession } from '../../auth/hooks/use-session'
@@ -92,6 +93,13 @@ export function ProfilePage() {
       )}
 
       {!isOwnProfile && <TasteMatchSection username={user.username} displayName={user.displayName} />}
+
+      <section className="mt-16 border-t border-rule pt-12" aria-labelledby="favoritas-titulo">
+        <SectionHeading as="h2">
+          <span id="favoritas-titulo">Bandas favoritas</span>
+        </SectionHeading>
+        <UserFavorites username={user.username} displayName={user.displayName} isOwnProfile={isOwnProfile} />
+      </section>
 
       <section className="mt-16 border-t border-rule pt-12" aria-labelledby="descobertas-titulo">
         <SectionHeading as="h2">

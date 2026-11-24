@@ -105,6 +105,25 @@ export class ArtistsService {
     );
   }
 
+  /** Os resumos das bandas pedidas, na mesma ordem dos ids (os que não existem mais ficam de fora). */
+  async summariesByIds(ids: string[]): Promise<ArtistSummary[]> {
+    if (ids.length === 0) {
+      return [];
+    }
+    const artists = await this.prisma.artist.findMany({
+      where: { id: { in: ids } },
+      include: artistSummaryInclude,
+    });
+    const covers = await this.latestCovers(ids);
+    const byId = new Map(artists.map((artist) => [artist.id, artist]));
+    return ids.flatMap((id) => {
+      const artist = byId.get(id);
+      return artist
+        ? [toArtistSummary(artist, this.toImageSet, covers.get(id) ?? null, 'cover')]
+        : [];
+    });
+  }
+
   /** Para cada banda da lista, o caminho da capa do disco mais recente já lançado (álbum antes de EP e single). */
   private async latestCovers(
     artistIds: string[],

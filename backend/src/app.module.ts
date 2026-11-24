@@ -7,6 +7,7 @@ import { ClipsModule } from './modules/clips/clips.module.js';
 import { AttendanceModule } from './modules/attendance/attendance.module.js';
 import { CommentsModule } from './modules/comments/comments.module.js';
 import { GroupsModule } from './modules/groups/groups.module.js';
+import { FavoritesModule } from './modules/favorites/favorites.module.js';
 import { TasteModule } from './modules/taste/taste.module.js';
 import { ArtistsModule } from './modules/artists/artists.module.js';
 import { AuthModule } from './modules/auth/auth.module.js';
@@ -43,6 +44,7 @@ import { PrismaModule } from './prisma/prisma.module.js';
     AttendanceModule,
     CommentsModule,
     GroupsModule,
+    FavoritesModule,
     TasteModule,
     ModerationModule,
     TeamModule,

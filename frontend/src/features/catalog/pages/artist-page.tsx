@@ -12,6 +12,7 @@ import type { ArtistDetail } from '../../../types/api'
 import { UpcomingShows } from '../../shows/components/upcoming-shows'
 import { ArtistFacts } from '../components/artist-facts'
 import { Discography } from '../components/discography'
+import { FavoriteStar } from '../../favorites/components/favorite-star'
 import { PhotoCredit } from '../components/photo-credit'
 import { useArtist } from '../hooks/use-catalog'
 
@@ -67,7 +68,12 @@ export function ArtistPage() {
     <Container className="pt-10 md:pt-16">
       <header className="grid gap-8 md:grid-cols-[minmax(0,1fr)_16rem] md:items-end">
         <div>
-          <h1 className="font-display text-6xl leading-[1.06] font-normal tracking-tight text-balance md:text-8xl">{data.name}</h1>
+          <div className="flex flex-wrap items-start gap-x-6 gap-y-4">
+            <h1 className="font-display text-6xl leading-[1.06] font-normal tracking-tight text-balance md:text-8xl">{data.name}</h1>
+            <div className="md:mt-6">
+              <FavoriteStar slug={data.slug} name={data.name} />
+            </div>
+          </div>
           <p className="mt-5 text-lg text-muted">{artistFacts(data)}</p>
           {data.genres.length > 0 && (
             <ul aria-label="Gêneros" className="mt-6 flex flex-wrap gap-3">

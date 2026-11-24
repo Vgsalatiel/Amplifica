@@ -35,13 +35,14 @@ model User {
   createdAt       DateTime  @default(now())
   updatedAt       DateTime  @updatedAt
 
-  reviews        Review[]
-  emailTokens    EmailToken[]
-  clips          Clip[]
-  attendances    ShowAttendance[]
-  comments       ShowComment[]
-  commentReports CommentReport[]
-  groupLinks     ShowGroup[]
+  reviews         Review[]
+  emailTokens     EmailToken[]
+  clips           Clip[]
+  attendances     ShowAttendance[]
+  comments        ShowComment[]
+  commentReports  CommentReport[]
+  groupLinks      ShowGroup[]
+  favoriteArtists ArtistFavorite[]
 }
 
 enum EmailTokenPurpose {
@@ -168,10 +169,11 @@ model Artist {
   createdAt     DateTime   @default(now())
   updatedAt     DateTime   @updatedAt
 
-  genres   ArtistGenre[]
-  releases ReleaseArtist[]
-  shows    ShowAct[]
-  clips    Clip[]
+  genres      ArtistGenre[]
+  releases    ReleaseArtist[]
+  shows       ShowAct[]
+  clips       Clip[]
+  favoritedBy ArtistFavorite[]
 
   @@index([name])
 }
@@ -459,4 +461,18 @@ model ShowGroup {
   @@index([showId, status])
   @@index([status, createdAt])
   @@index([submittedById, createdAt])
+}
+
+// A estrela da banda: cada pessoa marca as bandas favoritas, e elas aparecem no perfil público dela.
+model ArtistFavorite {
+  userId    String   @db.Uuid
+  artistId  String   @db.Uuid
+  createdAt DateTime @default(now())
+
+  user   User   @relation(fields: [userId], references: [id], onDelete: Cascade)
+  artist Artist @relation(fields: [artistId], references: [id], onDelete: Cascade)
+
+  @@id([userId, artistId])
+  @@index([artistId])
+  @@index([userId, createdAt])
 }
