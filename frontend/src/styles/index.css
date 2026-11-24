@@ -64,6 +64,16 @@
     color-scheme: dark;
   }
 
+  /*
+   * As opções de uma lista aberta (<select>) são desenhadas pelo navegador e, num campo de fundo
+   * transparente, saem com letra clara sobre fundo claro. Fundo e letra explícitos deixam todas legíveis.
+   */
+  select option,
+  select optgroup {
+    background-color: var(--color-surface-raised);
+    color: var(--color-ink);
+  }
+
   body {
     background-color: var(--color-surface);
     color: var(--color-ink);

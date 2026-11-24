@@ -1,7 +1,10 @@
+import { useState, type FormEvent } from 'react'
 import { Link, useSearchParams } from 'react-router'
+import { Button } from '../../../components/ui/button'
 import { ButtonLink } from '../../../components/ui/button-link'
 import { Pagination } from '../../../components/ui/pagination'
 import { Select } from '../../../components/ui/select'
+import { TextField } from '../../../components/ui/text-field'
 import type { ReleaseType } from '../../../types/api'
 import { useReleaseList } from '../../catalog/hooks/use-catalog'
 import { RELEASE_TYPE_LABELS } from '../lib/forms'
@@ -10,7 +13,21 @@ export function ReleasesAdminPage() {
   const [params, setParams] = useSearchParams()
   const page = Math.max(1, Number(params.get('page')) || 1)
   const type = (params.get('type') as ReleaseType | null) ?? undefined
-  const releases = useReleaseList({ page, type, limit: 20 })
+  const q = params.get('q') ?? ''
+  const [search, setSearch] = useState(q)
+  const releases = useReleaseList({ page, type, q: q || undefined, limit: 20 })
+
+  /** A busca, o tipo e a página ficam na URL, para o botão "voltar" funcionar. */
+  const urlFor = (next: { q?: string; type?: string; page?: number }) => ({
+    ...(next.q && { q: next.q }),
+    ...(next.type && { type: next.type }),
+    ...(next.page && next.page > 1 && { page: String(next.page) }),
+  })
+
+  function submit(event: FormEvent) {
+    event.preventDefault()
+    setParams(urlFor({ q: search.trim(), type }))
+  }
 
   return (
     <section aria-labelledby="releases-title">
@@ -21,11 +38,23 @@ export function ReleasesAdminPage() {
         <ButtonLink to="/admin/lancamentos/novo">Novo lançamento</ButtonLink>
       </div>
 
+      <form onSubmit={submit} role="search" className="mt-6 flex max-w-lg items-end gap-3">
+        <TextField
+          label="Buscar pelo título ou pelo artista"
+          value={search}
+          onChange={(event) => setSearch(event.target.value)}
+          className="flex-1"
+        />
+        <Button type="submit" variant="secondary">
+          Buscar
+        </Button>
+      </form>
+
       <Select
         label="Filtrar por tipo"
         value={type ?? ''}
-        onChange={(event) => setParams(event.target.value ? { type: event.target.value } : {})}
-        className="mt-6 max-w-xs"
+        onChange={(event) => setParams(urlFor({ q, type: event.target.value || undefined }))}
+        className="mt-4 max-w-xs"
       >
         <option value="">Todos</option>
         {Object.entries(RELEASE_TYPE_LABELS).map(([value, label]) => (
@@ -43,8 +72,8 @@ export function ReleasesAdminPage() {
         </p>
       ) : releases.data.items.length === 0 ? (
         <p className="mt-8 text-muted">
-          {type
-            ? 'Nenhum lançamento desse tipo.'
+          {q || type
+            ? `Nenhum lançamento encontrado${q ? ` para "${q}"` : ''}${type ? ' nesse tipo' : ''}.`
             : 'Nenhum lançamento cadastrado ainda. Cadastre um artista e depois o primeiro lançamento.'}
         </p>
       ) : (
@@ -83,7 +112,7 @@ export function ReleasesAdminPage() {
           <Pagination
             page={releases.data.meta.page}
             totalPages={releases.data.meta.totalPages}
-            onChange={(next) => setParams({ ...(type && { type }), page: String(next) })}
+            onChange={(next) => setParams(urlFor({ q, type, page: next }))}
           />
         </>
       )}
