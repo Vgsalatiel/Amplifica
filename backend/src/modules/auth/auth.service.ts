@@ -284,7 +284,12 @@ export class AuthService {
         'RESET_PASSWORD',
       );
       await this.mail.send(
-        resetPasswordMessage(account.email, account.displayName, code),
+        resetPasswordMessage(
+          account.email,
+          account.displayName,
+          code,
+          `${this.siteOrigin}/redefinir-senha`,
+        ),
       );
     });
   }
