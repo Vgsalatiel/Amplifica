@@ -1,0 +1,405 @@
+{
+  "generatedAt": "2026-11-24T18:07:39.763Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "9ca10859-49e2-44e3-b3d6-04c535207bc2",
+    "name": "Knocked Loose",
+    "slug": "knocked-loose",
+    "type": "BAND",
+    "country": "US",
+    "city": "Oldham County",
+    "formedYear": 2013,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/9ca10859-49e2-44e3-b3d6-04c535207bc2"
+      }
+    ],
+    "genres": [
+      "hardcore",
+      "metalcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "874764df-5407-4ed1-b64d-ea35eef70fd9",
+      "releaseMbid": "59fb2e9d-cf0a-487c-8a1c-4aaa15cc8355",
+      "title": "Pop Culture",
+      "type": "EP",
+      "releaseDate": "2014-06-13",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/874764df-5407-4ed1-b64d-ea35eef70fd9/front-1200",
+      "tracks": [
+        {
+          "title": "The Gospel",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 156000
+        },
+        {
+          "title": "Separate",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 140000
+        },
+        {
+          "title": "Manipulator II",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 140000
+        },
+        {
+          "title": "Small Victories",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 112000
+        },
+        {
+          "title": "All My Friends",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 204000
+        }
+      ]
+    },
+    {
+      "mbid": "44f5c001-39a0-4dbd-9d62-927af8bd5e03",
+      "releaseMbid": "5179b5d4-4faa-44d2-953e-57abb4ecae4c",
+      "title": "Knocked Loose / Damaged Goods",
+      "type": "EP",
+      "releaseDate": "2015-05-12",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Damned Earth",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 161000
+        },
+        {
+          "title": "D.T.A.H.",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 138000
+        },
+        {
+          "title": "Burnt Toast",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 165000
+        }
+      ]
+    },
+    {
+      "mbid": "1f63c50a-110b-40e4-b555-28c7e53a357a",
+      "releaseMbid": "1d16e7f7-04da-4194-aa42-2f6b2be60445",
+      "title": "Laugh Tracks",
+      "type": "ALBUM",
+      "releaseDate": "2016-09-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/1f63c50a-110b-40e4-b555-28c7e53a357a/front-1200",
+      "tracks": [
+        {
+          "title": "Oblivions Peak",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 218000
+        },
+        {
+          "title": "Deadringer",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 180000
+        },
+        {
+          "title": "The Rain",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 177000
+        },
+        {
+          "title": "Blood Will Have Blood",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 145000
+        },
+        {
+          "title": "Counting Worms",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 72000
+        },
+        {
+          "title": "My Heroes",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 158000
+        },
+        {
+          "title": "Billy No Mates",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 134000
+        },
+        {
+          "title": "Last Words",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 157000
+        },
+        {
+          "title": "No Thanks",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 136000
+        },
+        {
+          "title": "A Fetish",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 140000
+        },
+        {
+          "title": "Laugh Tracks",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 233000
+        }
+      ]
+    },
+    {
+      "mbid": "d058a50a-54a1-4758-975d-6560f7627ebd",
+      "releaseMbid": "25ce3983-cc64-4b42-9630-e61754504edb",
+      "title": "Mistakes Like Fractures",
+      "type": "EP",
+      "releaseDate": "2019-04-04",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d058a50a-54a1-4758-975d-6560f7627ebd/front-1200",
+      "tracks": [
+        {
+          "title": "Mistakes Like Fractures",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 221852
+        },
+        {
+          "title": "Slings and Arrows",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 135831
+        },
+        {
+          "title": "All My Friends",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 146012
+        }
+      ]
+    },
+    {
+      "mbid": "cc75404d-4302-427e-9a84-958e2a34ba6a",
+      "releaseMbid": "30489914-1edc-4c90-b800-8214688d437f",
+      "title": "A Different Shade of Blue",
+      "type": "ALBUM",
+      "releaseDate": "2019-08-23",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/cc75404d-4302-427e-9a84-958e2a34ba6a/front-1200",
+      "tracks": [
+        {
+          "title": "Belleville",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 196806
+        },
+        {
+          "title": "Trapped in the Grasp of a Memory",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 233483
+        },
+        {
+          "title": "A Serpent’s Touch",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 182530
+        },
+        {
+          "title": "By the Grave",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 185905
+        },
+        {
+          "title": "In the Walls",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 182036
+        },
+        {
+          "title": "Guided by the Moon",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 228401
+        },
+        {
+          "title": "Mistakes Like Fractures",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 219592
+        },
+        {
+          "title": "Forget Your Name",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 162326
+        },
+        {
+          "title": "Road 23",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 141422
+        },
+        {
+          "title": "…and Still I Wander South",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 222006
+        },
+        {
+          "title": "Denied by Fate",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 143707
+        },
+        {
+          "title": "Misguided Son",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 195599
+        }
+      ]
+    },
+    {
+      "mbid": "8a8a6cbb-a0a5-42b2-9003-f385638bb63d",
+      "releaseMbid": "2eff4fa4-5f21-4285-b5fb-017ddae22704",
+      "title": "A Tear in the Fabric of Life",
+      "type": "EP",
+      "releaseDate": "2021-10-13",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/8a8a6cbb-a0a5-42b2-9003-f385638bb63d/front-1200",
+      "tracks": [
+        {
+          "title": "Where Light Divides the Holler",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 222000
+        },
+        {
+          "title": "God Knows",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 215000
+        },
+        {
+          "title": "Forced to Stay",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 235000
+        },
+        {
+          "title": "Contorted in the Faille",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 235000
+        },
+        {
+          "title": "Return to Passion",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 73000
+        },
+        {
+          "title": "Permanent",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 282000
+        }
+      ]
+    },
+    {
+      "mbid": "a78e5c5c-5475-4b5d-9db0-0eac670d491a",
+      "releaseMbid": "4de3dce2-bd28-4b90-a0e8-1101630368fb",
+      "title": "You Won’t Go Before You’re Supposed To",
+      "type": "ALBUM",
+      "releaseDate": "2024-05-10",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a78e5c5c-5475-4b5d-9db0-0eac670d491a/front-1200",
+      "tracks": [
+        {
+          "title": "Thirst",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 106866
+        },
+        {
+          "title": "Piece by Piece",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 171186
+        },
+        {
+          "title": "Suffocate",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 164693
+        },
+        {
+          "title": "Don’t Reach for Me",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 225240
+        },
+        {
+          "title": "Moss Covers All",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 46346
+        },
+        {
+          "title": "Take Me Home",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 135680
+        },
+        {
+          "title": "Slaughterhouse 2",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 183720
+        },
+        {
+          "title": "The Calm That Keeps You Awake",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 161520
+        },
+        {
+          "title": "Blinding Faith",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 171093
+        },
+        {
+          "title": "Sit & Mourn",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 287506
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

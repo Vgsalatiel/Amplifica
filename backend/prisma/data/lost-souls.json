@@ -1,0 +1,206 @@
+{
+  "generatedAt": "2026-11-24T18:10:14.360Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "cb177cb8-6484-4233-a48d-8fe7b7c13335",
+    "name": "Lost Souls",
+    "slug": "lost-souls",
+    "type": "BAND",
+    "country": "AU",
+    "city": null,
+    "formedYear": 2023,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/cb177cb8-6484-4233-a48d-8fe7b7c13335"
+      }
+    ],
+    "genres": [
+      "metalcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "e81949aa-4d7f-4163-a3b5-d3582f28bd00",
+      "releaseMbid": "9cd93c31-1089-418e-8c8c-5bb291882b2d",
+      "title": "Childhood Died",
+      "type": "SINGLE",
+      "releaseDate": "2023-03-15",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/e81949aa-4d7f-4163-a3b5-d3582f28bd00/front-1200",
+      "tracks": [
+        {
+          "title": "Childhood Died",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 173695
+        }
+      ]
+    },
+    {
+      "mbid": "024075dc-eb55-4230-beb1-76807d442ede",
+      "releaseMbid": "538b28b5-b785-4aa6-8d22-efcd4a6a3f41",
+      "title": "The Return",
+      "type": "SINGLE",
+      "releaseDate": "2024-06-19",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/024075dc-eb55-4230-beb1-76807d442ede/front-1200",
+      "tracks": [
+        {
+          "title": "The Return",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 185454
+        }
+      ]
+    },
+    {
+      "mbid": "5543a451-3be0-4976-9a8d-5583740ac048",
+      "releaseMbid": "628c3ef1-49d1-47ad-9706-71ea60d0bc7f",
+      "title": "My Soldiers Rage",
+      "type": "SINGLE",
+      "releaseDate": "2024-08-27",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/5543a451-3be0-4976-9a8d-5583740ac048/front-1200",
+      "tracks": [
+        {
+          "title": "My Soldiers Rage",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 211692
+        }
+      ]
+    },
+    {
+      "mbid": "a8e729d2-07a8-4c83-98a1-6a495cb75d8e",
+      "releaseMbid": "b615a558-86c8-4d71-a89f-c1c106870972",
+      "title": "Dopamine",
+      "type": "SINGLE",
+      "releaseDate": "2024-11-19",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a8e729d2-07a8-4c83-98a1-6a495cb75d8e/front-1200",
+      "tracks": [
+        {
+          "title": "Dopamine",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 177230
+        }
+      ]
+    },
+    {
+      "mbid": "f1d943ce-317c-4646-92d6-c889705c32b0",
+      "releaseMbid": "d289efdf-c56f-4eba-8963-8fb072fb9ec4",
+      "title": "xMOSHLORDx",
+      "type": "SINGLE",
+      "releaseDate": "2025-03-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f1d943ce-317c-4646-92d6-c889705c32b0/front-1200",
+      "tracks": [
+        {
+          "title": "xMOSHLORDx",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 217043
+        }
+      ]
+    },
+    {
+      "mbid": "8ea15837-fcb1-44c7-b781-bbcf61a6d8a9",
+      "releaseMbid": "8aefbb99-5285-4969-98fe-52f0592436b0",
+      "title": "Lore",
+      "type": "ALBUM",
+      "releaseDate": "2025-04-18",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/8ea15837-fcb1-44c7-b781-bbcf61a6d8a9/front-1200",
+      "tracks": [
+        {
+          "title": "Existence | Conflict",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 107000
+        },
+        {
+          "title": "Like and Subscribe",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 176000
+        },
+        {
+          "title": "My Soldiers Rage",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 212000
+        },
+        {
+          "title": "xMOSHLORDx",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 217000
+        },
+        {
+          "title": "Letter of Resignation",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 204000
+        },
+        {
+          "title": "Remember My Name",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 217000
+        },
+        {
+          "title": "Dopamine",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 177000
+        },
+        {
+          "title": "Shallow Graves",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 201000
+        },
+        {
+          "title": "The Return",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 185000
+        },
+        {
+          "title": "Boosters or Plastic Crack",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 186000
+        },
+        {
+          "title": "Childhood Died",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 174000
+        }
+      ]
+    },
+    {
+      "mbid": "8f20bc93-6570-4c8d-96db-3e6dfd111864",
+      "releaseMbid": "1cc1be2d-4564-4249-b262-a632115b18ce",
+      "title": "Democracy Manifest",
+      "type": "SINGLE",
+      "releaseDate": "2026-10-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/8f20bc93-6570-4c8d-96db-3e6dfd111864/front-1200",
+      "tracks": [
+        {
+          "title": "Democracy Manifest",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 218000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

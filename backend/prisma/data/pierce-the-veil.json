@@ -1,0 +1,453 @@
+{
+  "generatedAt": "2026-11-24T18:19:53.568Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "8ed919fb-eaee-45a1-ba99-b3ede9ca5f1d",
+    "name": "Pierce the Veil",
+    "slug": "pierce-the-veil",
+    "type": "BAND",
+    "country": "US",
+    "city": "San Diego",
+    "formedYear": 2006,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/8ed919fb-eaee-45a1-ba99-b3ede9ca5f1d"
+      }
+    ],
+    "genres": [
+      "post-hardcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "871f8a26-53a1-3c46-ae62-65378ae6a5c0",
+      "releaseMbid": "fa7ea6f2-f2d9-4dd3-9236-5287a6b56272",
+      "title": "A Flair for the Dramatic",
+      "type": "ALBUM",
+      "releaseDate": "2007-06-26",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/871f8a26-53a1-3c46-ae62-65378ae6a5c0/front-1200",
+      "tracks": [
+        {
+          "title": "Chemical Kids and Mechanical Brides",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 220000
+        },
+        {
+          "title": "Currents Convulsive",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 215000
+        },
+        {
+          "title": "Yeah Boy and Doll Face",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 264000
+        },
+        {
+          "title": "I’d Rather Die Than Be Famous",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 173000
+        },
+        {
+          "title": "The Cheap Bouquet",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 229000
+        },
+        {
+          "title": "Falling Asleep on a Stranger",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 223000
+        },
+        {
+          "title": "She Sings in the Morning",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 179000
+        },
+        {
+          "title": "The Balcony Scene",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 199000
+        },
+        {
+          "title": "Drella",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 177000
+        },
+        {
+          "title": "Diamonds and Why Men Buy Them",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 210000
+        },
+        {
+          "title": "Wonderless",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 341000
+        }
+      ]
+    },
+    {
+      "mbid": "b2b8e3de-a779-4a7c-b3a5-d62468a9cbe3",
+      "releaseMbid": "c5fef32b-b57d-4ede-9bcd-bdda2fcd0915",
+      "title": "Selfish Machines",
+      "type": "ALBUM",
+      "releaseDate": "2010-06-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b2b8e3de-a779-4a7c-b3a5-d62468a9cbe3/front-1200",
+      "tracks": [
+        {
+          "title": "Besitos",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 262800
+        },
+        {
+          "title": "Southern Constellations",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 64720
+        },
+        {
+          "title": "The Boy Who Could Fly",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 307787
+        },
+        {
+          "title": "Caraphernelia",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 268480
+        },
+        {
+          "title": "Fast Times at Clairemont High",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 241667
+        },
+        {
+          "title": "The New National Anthem",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 239573
+        },
+        {
+          "title": "Bulletproof Love",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 237400
+        },
+        {
+          "title": "Stay Away From My Friends",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 281800
+        },
+        {
+          "title": "I Don’t Care If You’re Contagious",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 204893
+        },
+        {
+          "title": "Disasterology",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 206933
+        },
+        {
+          "title": "Million Dollar Houses (The Painter)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 241640
+        },
+        {
+          "title": "The Sky Under the Sea",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 273453
+        }
+      ]
+    },
+    {
+      "mbid": "fbe216fc-3443-4425-8c99-e538b44e60ac",
+      "releaseMbid": "8ea81451-10e6-414a-9294-587c1e5b97fc",
+      "title": "Collide With the Sky",
+      "type": "ALBUM",
+      "releaseDate": "2012-07-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/fbe216fc-3443-4425-8c99-e538b44e60ac/front-1200",
+      "tracks": [
+        {
+          "title": "May These Noises Startle You in Your Sleep Tonight",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 81000
+        },
+        {
+          "title": "Hell Above",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 223000
+        },
+        {
+          "title": "A Match Into Water",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 212000
+        },
+        {
+          "title": "King for a Day",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 236000
+        },
+        {
+          "title": "Bulls in the Bronx",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 267000
+        },
+        {
+          "title": "Props & Mayhem",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 217000
+        },
+        {
+          "title": "Tangled in the Great Escape",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 356000
+        },
+        {
+          "title": "I'm Low on Gas and You Need a Jacket",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 252000
+        },
+        {
+          "title": "The First Punch",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 205000
+        },
+        {
+          "title": "One Hundred Sleepless Nights",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 221000
+        },
+        {
+          "title": "Stained Glass Eyes and Colorful Tears",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 218000
+        },
+        {
+          "title": "Hold on Till May",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 278000
+        }
+      ]
+    },
+    {
+      "mbid": "02ac11ad-7a8d-4b8e-b87a-20cfb87e951a",
+      "releaseMbid": "bb7847b9-bf23-4c59-b493-1f69bdb506b7",
+      "title": "Misadventures",
+      "type": "ALBUM",
+      "releaseDate": "2016-05-13",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/02ac11ad-7a8d-4b8e-b87a-20cfb87e951a/front-1200",
+      "tracks": [
+        {
+          "title": "Dive In",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 292360
+        },
+        {
+          "title": "Texas Is Forever",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 219040
+        },
+        {
+          "title": "The Divine Zero",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 248853
+        },
+        {
+          "title": "Floral & Fading",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 209187
+        },
+        {
+          "title": "Phantom Power and Ludicrous Speed",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 230920
+        },
+        {
+          "title": "Circles",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 224307
+        },
+        {
+          "title": "Today I Saw the Whole World",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 221960
+        },
+        {
+          "title": "Gold Medal Ribbon",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 238307
+        },
+        {
+          "title": "Bedless",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 284667
+        },
+        {
+          "title": "Sambuka",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 156493
+        },
+        {
+          "title": "Song for Isabelle",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 290573
+        }
+      ]
+    },
+    {
+      "mbid": "3e0732f1-0ed6-4efa-9d45-342b79cd0405",
+      "releaseMbid": "b5eb975a-748a-4299-b022-3d1c04e3ed53",
+      "title": "Today I Saw the Whole World",
+      "type": "EP",
+      "releaseDate": "2017-10-06",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/3e0732f1-0ed6-4efa-9d45-342b79cd0405/front-1200",
+      "tracks": [
+        {
+          "title": "Today I Saw the Whole World",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 221960
+        },
+        {
+          "title": "Today I Saw the Whole World (acoustic version)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 206973
+        }
+      ]
+    },
+    {
+      "mbid": "da9d53c0-2116-4368-b234-b3403073aca7",
+      "releaseMbid": "111447ac-e3ea-47f7-bc32-222105db2c6c",
+      "title": "The Jaws of Life",
+      "type": "ALBUM",
+      "releaseDate": "2023-02-10",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/da9d53c0-2116-4368-b234-b3403073aca7/front-1200",
+      "tracks": [
+        {
+          "title": "Death of an Executioner",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 268000
+        },
+        {
+          "title": "Pass the Nirvana",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 197000
+        },
+        {
+          "title": "Even When I’m Not With You",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 174000
+        },
+        {
+          "title": "Emergency Contact",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 240000
+        },
+        {
+          "title": "Flawless Execution",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 240000
+        },
+        {
+          "title": "The Jaws of Life",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 223000
+        },
+        {
+          "title": "Damn the Man, Save the Empire",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 237000
+        },
+        {
+          "title": "Resilience",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 220000
+        },
+        {
+          "title": "Irrational Fears (interlude)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 22000
+        },
+        {
+          "title": "Shared Trauma",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 253000
+        },
+        {
+          "title": "So Far So Fake",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 236000
+        },
+        {
+          "title": "12 Fractures",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 182000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

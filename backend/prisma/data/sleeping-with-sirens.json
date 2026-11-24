@@ -1,0 +1,1124 @@
+{
+  "generatedAt": "2026-11-24T18:19:11.791Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "3267d5a3-c72c-4c3b-bafe-ec8a569c0b74",
+    "name": "Sleeping With Sirens",
+    "slug": "sleeping-with-sirens",
+    "type": "BAND",
+    "country": "US",
+    "city": "Orlando",
+    "formedYear": 2009,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/3267d5a3-c72c-4c3b-bafe-ec8a569c0b74"
+      }
+    ],
+    "genres": [
+      "post-hardcore",
+      "pop-punk"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "97170fea-a5c1-4e36-b089-680207b05b7a",
+      "releaseMbid": "131090f5-02de-4298-a5ca-f9081183a7e8",
+      "title": "With Ears to See, and Eyes to Hear",
+      "type": "ALBUM",
+      "releaseDate": "2010-03-22",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/97170fea-a5c1-4e36-b089-680207b05b7a/front-1200",
+      "tracks": [
+        {
+          "title": "If I’m James Dean, You’re Audrey Hepburn",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 219000
+        },
+        {
+          "title": "The Bomb Dot Com V2.0",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 211000
+        },
+        {
+          "title": "You Kill Me (In a Good Way)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 222000
+        },
+        {
+          "title": "Let Love Bleed Red",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 222000
+        },
+        {
+          "title": "Captain Tyin Knots VS Mr Walkway (No Way)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 203000
+        },
+        {
+          "title": "Don’t Fall Asleep at the Helm",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 134000
+        },
+        {
+          "title": "With Ears to See, and Eyes to Hear",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 223000
+        },
+        {
+          "title": "In Case of Emergency, Dial 411",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 164000
+        },
+        {
+          "title": "The Left Side of Everywhere",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 179000
+        },
+        {
+          "title": "Dance Party",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 93000
+        }
+      ]
+    },
+    {
+      "mbid": "91a2ea9a-a908-4b46-a985-e21657a7d93b",
+      "releaseMbid": "a2ccb393-767a-4c96-89ec-53277a60a535",
+      "title": "Let’s Cheers to This",
+      "type": "ALBUM",
+      "releaseDate": "2011-05-09",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/91a2ea9a-a908-4b46-a985-e21657a7d93b/front-1200",
+      "tracks": [
+        {
+          "title": "Do It Now Remember It Later",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 203000
+        },
+        {
+          "title": "If You Can’t Hang",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 250000
+        },
+        {
+          "title": "Who Are You Now",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 257000
+        },
+        {
+          "title": "Four Corners and Two Sides",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 198000
+        },
+        {
+          "title": "A Trophy Father’s Trophy Son",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 222000
+        },
+        {
+          "title": "Fire",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 227000
+        },
+        {
+          "title": "Tally It Up: Settle the Score",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 215000
+        },
+        {
+          "title": "Your Nickel Ain’t Worth My Dime",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 168000
+        },
+        {
+          "title": "Postcards and Polaroids",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 194000
+        },
+        {
+          "title": "All My Heart",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 279000
+        },
+        {
+          "title": "Let’s Cheers to This",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 220000
+        }
+      ]
+    },
+    {
+      "mbid": "7fcc729f-dafe-4520-8ef9-528b9f1665e2",
+      "releaseMbid": "4f3d6273-14a4-440a-94e3-1bab303a3321",
+      "title": "If You Were a Movie, This Would Be Your Soundtrack",
+      "type": "EP",
+      "releaseDate": "2012-06-25",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/7fcc729f-dafe-4520-8ef9-528b9f1665e2/front-1200",
+      "tracks": [
+        {
+          "title": "Scene One: James Dean & Audrey Hepburn",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 256053
+        },
+        {
+          "title": "Scene Two: Roger Rabbit",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 197947
+        },
+        {
+          "title": "Scene Three: Stomach Tied in Knots",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 209573
+        },
+        {
+          "title": "Scene Four: Don’t You Ever Forget About Me",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 204867
+        },
+        {
+          "title": "Scene Five: With Ears to See and Eyes to Hear",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 227573
+        }
+      ]
+    },
+    {
+      "mbid": "f614b7db-8800-41ef-818b-b4d688037f2a",
+      "releaseMbid": "f3c37586-ad81-4e3a-a08f-c15f1fbad771",
+      "title": "Feel",
+      "type": "ALBUM",
+      "releaseDate": "2013-05-31",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f614b7db-8800-41ef-818b-b4d688037f2a/front-1200",
+      "tracks": [
+        {
+          "title": "Feel",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 277027
+        },
+        {
+          "title": "Here We Go",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 194680
+        },
+        {
+          "title": "Free Now",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 229293
+        },
+        {
+          "title": "Alone",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 227600
+        },
+        {
+          "title": "I’ll Take You There",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 240360
+        },
+        {
+          "title": "The Best There Ever Was",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 196920
+        },
+        {
+          "title": "Low",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 216117
+        },
+        {
+          "title": "Congratulations",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 278987
+        },
+        {
+          "title": "Déjà Vu",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 191120
+        },
+        {
+          "title": "These Things I’ve Done",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 202213
+        },
+        {
+          "title": "Sorry",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 178867
+        },
+        {
+          "title": "Satellites",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 216693
+        }
+      ]
+    },
+    {
+      "mbid": "4c4bb1c5-34d1-4a8f-9a9f-cd822f9906bc",
+      "releaseMbid": "d94b8999-60c1-49e2-acc7-7f61e9ce92d6",
+      "title": "Madness",
+      "type": "ALBUM",
+      "releaseDate": "2015-03-13",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4c4bb1c5-34d1-4a8f-9a9f-cd822f9906bc/front-1200",
+      "tracks": [
+        {
+          "title": "Kick Me",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 151000
+        },
+        {
+          "title": "Go Go Go",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 167000
+        },
+        {
+          "title": "Gold",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 212000
+        },
+        {
+          "title": "Save Me a Spark",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 219000
+        },
+        {
+          "title": "Fly",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 215000
+        },
+        {
+          "title": "The Strays",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 178000
+        },
+        {
+          "title": "Left Alone",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 200000
+        },
+        {
+          "title": "Better Off Dead",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 183000
+        },
+        {
+          "title": "We Like It Loud",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 137000
+        },
+        {
+          "title": "Heroine",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 215000
+        },
+        {
+          "title": "November",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 209000
+        },
+        {
+          "title": "Madness",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 162000
+        },
+        {
+          "title": "Don’t Say Anything",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 196000
+        },
+        {
+          "title": "Parasites",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 175000
+        },
+        {
+          "title": "2 Chord",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 289000
+        }
+      ]
+    },
+    {
+      "mbid": "33303de8-089e-4fdb-885c-e7dad3a46770",
+      "releaseMbid": "4a466de3-1634-40fb-88c7-7c92658b1f56",
+      "title": "The Rise Years",
+      "type": "COMPILATION",
+      "releaseDate": "2016-04-08",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/33303de8-089e-4fdb-885c-e7dad3a46770/front-1200",
+      "tracks": [
+        {
+          "title": "If I’m James Dean, You’re Audrey Hepburn",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 219000
+        },
+        {
+          "title": "The Bomb Dot Com V2.0",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 211000
+        },
+        {
+          "title": "You Kill Me (In a Good Way)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 222000
+        },
+        {
+          "title": "Let Love Bleed Red",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 222000
+        },
+        {
+          "title": "Captain Tyin Knots Vs Mr Walkway (No Way)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 203000
+        },
+        {
+          "title": "Don’t Fall Asleep at the Helm",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 134000
+        },
+        {
+          "title": "With Ears to See, and Eyes to Hear",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 223000
+        },
+        {
+          "title": "In Case of Emergency, Dial 411",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 164000
+        },
+        {
+          "title": "The Left Side of Everywhere",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 179000
+        },
+        {
+          "title": "Dance Party",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 93000
+        },
+        {
+          "title": "Do It Now Remember It Later",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": 203000
+        },
+        {
+          "title": "If You Can’t Hang",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": 250000
+        },
+        {
+          "title": "Let’s Cheers to This",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": 220000
+        },
+        {
+          "title": "Who Are You Now",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": 257000
+        },
+        {
+          "title": "Fire",
+          "discNumber": 2,
+          "position": 5,
+          "durationMs": 227000
+        },
+        {
+          "title": "Postcards and Polaroids",
+          "discNumber": 2,
+          "position": 6,
+          "durationMs": 194000
+        },
+        {
+          "title": "A Trophy Father’s Trophy Son",
+          "discNumber": 2,
+          "position": 7,
+          "durationMs": 222000
+        },
+        {
+          "title": "Your Nickel Ain’t Like My Dime",
+          "discNumber": 2,
+          "position": 8,
+          "durationMs": 168000
+        },
+        {
+          "title": "Tally It Up: Settle the Score",
+          "discNumber": 2,
+          "position": 9,
+          "durationMs": 215000
+        },
+        {
+          "title": "Four Corners and Two Sides",
+          "discNumber": 2,
+          "position": 10,
+          "durationMs": 198000
+        },
+        {
+          "title": "All My Heart",
+          "discNumber": 2,
+          "position": 11,
+          "durationMs": 279000
+        },
+        {
+          "title": "Feel",
+          "discNumber": 3,
+          "position": 1,
+          "durationMs": 277000
+        },
+        {
+          "title": "Here We Go",
+          "discNumber": 3,
+          "position": 2,
+          "durationMs": 194000
+        },
+        {
+          "title": "Free Now",
+          "discNumber": 3,
+          "position": 3,
+          "durationMs": 229000
+        },
+        {
+          "title": "Alone",
+          "discNumber": 3,
+          "position": 4,
+          "durationMs": 227000
+        },
+        {
+          "title": "I’ll Take You There",
+          "discNumber": 3,
+          "position": 5,
+          "durationMs": 240000
+        },
+        {
+          "title": "The Best There Ever Was",
+          "discNumber": 3,
+          "position": 6,
+          "durationMs": 197000
+        },
+        {
+          "title": "Low",
+          "discNumber": 3,
+          "position": 7,
+          "durationMs": 216000
+        },
+        {
+          "title": "Congratulations",
+          "discNumber": 3,
+          "position": 8,
+          "durationMs": 279000
+        },
+        {
+          "title": "Déjà Vu",
+          "discNumber": 3,
+          "position": 9,
+          "durationMs": 191000
+        },
+        {
+          "title": "These Things I’ve Done",
+          "discNumber": 3,
+          "position": 10,
+          "durationMs": 202000
+        },
+        {
+          "title": "Sorry",
+          "discNumber": 3,
+          "position": 11,
+          "durationMs": 179000
+        },
+        {
+          "title": "Satellites",
+          "discNumber": 3,
+          "position": 12,
+          "durationMs": 216000
+        }
+      ]
+    },
+    {
+      "mbid": "eec43769-0918-48b1-a22a-47dee572c357",
+      "releaseMbid": "15f52bfa-cd80-4979-ad2c-c4c076dbada0",
+      "title": "Live and Unplugged",
+      "type": "LIVE",
+      "releaseDate": "2016-04-08",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/eec43769-0918-48b1-a22a-47dee572c357/front-1200",
+      "tracks": [
+        {
+          "title": "With Ears to See, and Eyes to Hear",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 258000
+        },
+        {
+          "title": "If I’m James Dean, You’re Audrey Hepburn",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 238000
+        },
+        {
+          "title": "Gold",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 251000
+        },
+        {
+          "title": "The Strays",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 180000
+        },
+        {
+          "title": "Free Now",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 257000
+        },
+        {
+          "title": "Who Are You Now",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 290000
+        },
+        {
+          "title": "Go Go Go",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 222000
+        },
+        {
+          "title": "Santeria",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 211000
+        },
+        {
+          "title": "Save Me a Spark",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 235000
+        },
+        {
+          "title": "Iris",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 242000
+        },
+        {
+          "title": "If You Can’t Hang",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 376000
+        }
+      ]
+    },
+    {
+      "mbid": "9b891733-24ea-40f5-8f76-126a26c534eb",
+      "releaseMbid": "58c974f9-3aa3-4ac8-9e62-f26cd92d68dc",
+      "title": "Gossip",
+      "type": "ALBUM",
+      "releaseDate": "2017-09-22",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/9b891733-24ea-40f5-8f76-126a26c534eb/front-1200",
+      "tracks": [
+        {
+          "title": "Gossip",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 196000
+        },
+        {
+          "title": "Empire to Ashes",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 198000
+        },
+        {
+          "title": "Legends",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 223000
+        },
+        {
+          "title": "Trouble",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 198000
+        },
+        {
+          "title": "One Man Army",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 199000
+        },
+        {
+          "title": "Cheers",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 168000
+        },
+        {
+          "title": "Closer",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 216000
+        },
+        {
+          "title": "Hole in My Heart",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 214000
+        },
+        {
+          "title": "I Need to Know",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 218000
+        },
+        {
+          "title": "The Chase",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 179000
+        },
+        {
+          "title": "War",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 233000
+        }
+      ]
+    },
+    {
+      "mbid": "04cd66f1-1601-4434-8f59-08bc12cac210",
+      "releaseMbid": "0435b16f-170f-41d5-b483-5c33d7487363",
+      "title": "Live & Acoustic From NYC",
+      "type": "LIVE",
+      "releaseDate": "2017-10-27",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/04cd66f1-1601-4434-8f59-08bc12cac210/front-1200",
+      "tracks": [
+        {
+          "title": "Legends (Live & Acoustic from NYC)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 214783
+        },
+        {
+          "title": "Gossip (Live & Acoustic from NYC)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 203546
+        },
+        {
+          "title": "One Man Army (Live & Acoustic from NYC)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 182742
+        }
+      ]
+    },
+    {
+      "mbid": "b3f21edc-db11-4f25-93d7-10fc87fa4afa",
+      "releaseMbid": "10040284-36f7-4cd2-ac0a-1f633bbe60bd",
+      "title": "How It Feels to Be Lost",
+      "type": "ALBUM",
+      "releaseDate": "2019-09-06",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b3f21edc-db11-4f25-93d7-10fc87fa4afa/front-1200",
+      "tracks": [
+        {
+          "title": "Leave It All Behind",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 198000
+        },
+        {
+          "title": "Never Enough",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 222000
+        },
+        {
+          "title": "How It Feels to Be Lost",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 218000
+        },
+        {
+          "title": "Agree to Disagree",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 183000
+        },
+        {
+          "title": "Ghost",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 206000
+        },
+        {
+          "title": "Blood Lines",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 208000
+        },
+        {
+          "title": "Break Me Down",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 191000
+        },
+        {
+          "title": "Another Nightmare",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 213000
+        },
+        {
+          "title": "P.S. Missing You",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 255000
+        },
+        {
+          "title": "Medicine (Devil in My Head)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 194000
+        },
+        {
+          "title": "Dying to Believe",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 217000
+        }
+      ]
+    },
+    {
+      "mbid": "63f7f419-0fd8-408f-b093-2eae908fb9b6",
+      "releaseMbid": "28b356f3-d4b1-4cd5-b855-cfd0392459f2",
+      "title": "Complete Collapse",
+      "type": "ALBUM",
+      "releaseDate": "2022-10-14",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/63f7f419-0fd8-408f-b093-2eae908fb9b6/front-1200",
+      "tracks": [
+        {
+          "title": "Tyrants",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 206000
+        },
+        {
+          "title": "Complete Collapse",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 193000
+        },
+        {
+          "title": "Crosses",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 209000
+        },
+        {
+          "title": "Family Tree",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 254000
+        },
+        {
+          "title": "Let You Down",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 206000
+        },
+        {
+          "title": "Be Happy",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 199000
+        },
+        {
+          "title": "Us",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 224000
+        },
+        {
+          "title": "Ctrl + Alt + Del",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 185000
+        },
+        {
+          "title": "Bloody Knuckles",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 208000
+        },
+        {
+          "title": "Mr. Nice Guy",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 179000
+        },
+        {
+          "title": "Apathetic",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 207000
+        },
+        {
+          "title": "Grave",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 204000
+        }
+      ]
+    },
+    {
+      "mbid": "a33f1eea-7f05-4b36-82dd-16929d6561f1",
+      "releaseMbid": "17ff55d1-7f69-4660-9389-ab39ab89b785",
+      "title": "Audiotree Live",
+      "type": "LIVE",
+      "releaseDate": "2024-10-23",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a33f1eea-7f05-4b36-82dd-16929d6561f1/front-1200",
+      "tracks": [
+        {
+          "title": "Tally It Up, Settle the Score",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 236207
+        },
+        {
+          "title": "Do It Now Remember It Later",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 208158
+        },
+        {
+          "title": "A Trophy Fathers Trophy Son",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 249651
+        },
+        {
+          "title": "If I’m James Dean, You’re Audrey Hepburn",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 264254
+        },
+        {
+          "title": "If You Can’t Hang",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 367260
+        }
+      ]
+    },
+    {
+      "mbid": "1b2c7976-228a-475a-b1fb-2444ef4ddf34",
+      "releaseMbid": "b3a8aea7-d8da-4766-9054-d088342733d2",
+      "title": "An Ending in Itself",
+      "type": "ALBUM",
+      "releaseDate": "2026-06-12",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/1b2c7976-228a-475a-b1fb-2444ef4ddf34/front-1200",
+      "tracks": [
+        {
+          "title": "An Ending in Itself",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 216884
+        },
+        {
+          "title": "Forever/Always",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 222957
+        },
+        {
+          "title": "God in My Head",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 238764
+        },
+        {
+          "title": "Need You Here",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 246807
+        },
+        {
+          "title": "Left on Repeat",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 204824
+        },
+        {
+          "title": "House of Matches",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 181018
+        },
+        {
+          "title": "Waiting for You",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 242440
+        },
+        {
+          "title": "Paralyzed",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 192072
+        },
+        {
+          "title": "Process",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 270003
+        },
+        {
+          "title": "PTSD",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 145953
+        },
+        {
+          "title": "Looking Back at Me",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 318306
+        },
+        {
+          "title": "Storm Clouds",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 218526
+        }
+      ]
+    },
+    {
+      "mbid": "e8709328-f88a-41f5-ad7b-64924e1a55ec",
+      "releaseMbid": "59adf427-9e71-4d6e-b806-4a6b960e71c1",
+      "title": "Live at Apple Music Radio",
+      "type": "LIVE",
+      "releaseDate": "2026-08-04",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/e8709328-f88a-41f5-ad7b-64924e1a55ec/front-1200",
+      "tracks": [
+        {
+          "title": "An Ending In Itself (Live at Apple Music Radio)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 189291
+        },
+        {
+          "title": "Iris (Live at Apple Music Radio)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 215467
+        },
+        {
+          "title": "With Ears To See and Eyes To Hear (Live at Apple Music Radio)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 228715
+        },
+        {
+          "title": "An Ending In Itself (Live at Apple Music Radio)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 176768
+        },
+        {
+          "title": "Iris (Live at Apple Music Radio)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 205419
+        },
+        {
+          "title": "With Ears To See and Eyes To Hear (Live at Apple Music Radio)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 227158
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

@@ -1103,6 +1103,34 @@
       "channelName": "YellowcardVEVO",
       "artist": "yellowcard",
       "catalog": true
+    },
+    {
+      "youtubeId": "eO8q_Q4lRC8",
+      "title": "Knocked Loose \"Blinding Faith\" (Official Music Video)",
+      "channelName": "Pure Noise Records",
+      "artist": "knocked-loose",
+      "catalog": true
+    },
+    {
+      "youtubeId": "9q9QY44or70",
+      "title": "Lost Souls - The Return | Official Music Video",
+      "channelName": "Lost Souls",
+      "artist": "lost-souls",
+      "catalog": true
+    },
+    {
+      "youtubeId": "tHqGSMy6LqI",
+      "title": "Sleeping With Sirens - House Of Matches (Official Music Video)",
+      "channelName": "Sleeping With Sirens",
+      "artist": "sleeping-with-sirens",
+      "catalog": true
+    },
+    {
+      "youtubeId": "icXUkIfZxyg",
+      "title": "Pierce The Veil - King for a Day ft. Kellin Quinn",
+      "channelName": "PierceTheVeilVEVO",
+      "artist": "pierce-the-veil",
+      "catalog": true
     }
   ]
 }
