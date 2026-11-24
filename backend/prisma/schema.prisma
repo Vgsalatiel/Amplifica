@@ -58,6 +58,8 @@ model EmailToken {
   tokenHash String            @unique
   expiresAt DateTime
   usedAt    DateTime?
+  // Tentativas de digitar o código (redefinição de senha). Passou do limite, o código deixa de valer.
+  attempts  Int               @default(0)
   createdAt DateTime          @default(now())
 
   user User @relation(fields: [userId], references: [id], onDelete: Cascade)

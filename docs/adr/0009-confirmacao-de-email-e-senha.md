@@ -28,3 +28,11 @@ Qualquer pessoa podia criar contas com e-mails inventados e avaliar discos (limi
 - O envio em segundo plano não tem fila nem nova tentativa: se o Resend falhar, a pessoa pede o reenvio (na confirmação) ou pede o link de novo (na senha). A falha vai para o log.
 - Para o Resend enviar a qualquer destinatário, o domínio do remetente precisa estar verificado nele.
 - A confirmação não impede quem tem vários e-mails de criar várias contas.
+
+## Atualização (24/11/2026): a senha agora é redefinida por código
+
+A redefinição de senha deixou de usar link e passou a usar um **código de 6 números** enviado por e-mail. A confirmação de e-mail continua com link.
+
+- A pessoa pede o código em `/esqueci-a-senha`, digita o código em `/redefinir-senha` (passo 1) e depois escolhe a nova senha em dois campos (passo 2). `POST /auth/reset-password/check` confere o código sem gastá-lo; `POST /auth/reset-password` troca a senha e gasta o código.
+- O código vale **30 minutos** e só funciona uma vez. Um pedido novo invalida o anterior.
+- Como 6 números são fáceis de adivinhar, há **no máximo 8 tentativas** por código (`EmailToken.attempts`, contadas no banco antes de comparar, então chutes em paralelo também respeitam o limite), além do limite de pedidos por minuto. O banco guarda o SHA-256 do código junto com o id da pessoa. Código errado, vencido, esgotado ou de e-mail sem conta recebem a mesma resposta (`invalid_code`).

@@ -1,93 +1,59 @@
 import { createBrowserRouter, Navigate } from 'react-router'
+import { page } from './lazy-page'
+import { PageFallback } from './page-fallback'
 import { AppLayout } from '../components/layout/app-layout'
 import { AdminRoute } from '../features/admin/components/admin-route'
-import { AdminLayout } from '../features/admin/pages/admin-layout'
-import { ArtistsAdminPage } from '../features/admin/pages/artists-admin-page'
-import { EditArtistPage, NewArtistPage } from '../features/admin/pages/artist-form-page'
-import { GenresAdminPage } from '../features/admin/pages/genres-admin-page'
-import { TeamAdminPage } from '../features/admin/pages/team-admin-page'
 import { ModeratorRoute } from '../features/moderation/components/moderator-route'
-import { CommentsModerationPage } from '../features/moderation/pages/comments-moderation-page'
-import { GroupsModerationPage } from '../features/moderation/pages/groups-moderation-page'
-import { ClipsModerationPage } from '../features/moderation/pages/clips-moderation-page'
-import { ModerationLayout } from '../features/moderation/pages/moderation-layout'
-import { ShowsAdminPage } from '../features/admin/pages/shows-admin-page'
-import { EditShowPage, NewShowPage } from '../features/admin/pages/show-form-page'
-import { ReleasesAdminPage } from '../features/admin/pages/releases-admin-page'
-import { EditReleasePage, NewReleasePage } from '../features/admin/pages/release-form-page'
 import { ProtectedRoute } from '../features/auth/components/protected-route'
-import { ForgotPasswordPage } from '../features/auth/pages/forgot-password-page'
-import { ResetPasswordPage } from '../features/auth/pages/reset-password-page'
-import { VerifyEmailPage } from '../features/auth/pages/verify-email-page'
-import { LoginPage } from '../features/auth/pages/login-page'
-import { RegisterPage } from '../features/auth/pages/register-page'
 import { HomePage } from '../features/home/pages/home-page'
 import { NotFoundPage } from '../features/home/pages/not-found-page'
-import { AccountPage } from '../features/profile/pages/account-page'
-import { ProfilePage } from '../features/profile/pages/profile-page'
-import { ArtistPage } from '../features/catalog/pages/artist-page'
-import { ArtistsPage } from '../features/catalog/pages/artists-page'
-import { GenrePage } from '../features/catalog/pages/genre-page'
-import { GenresPage } from '../features/catalog/pages/genres-page'
-import { ReleasePage } from '../features/catalog/pages/release-page'
-import { ReleasesPage } from '../features/catalog/pages/releases-page'
-import { SearchPage } from '../features/search/pages/search-page'
-import { EmoTourPage } from '../features/shows/pages/emo-tour-page'
-import { PrivacyPage } from '../features/legal/pages/privacy-page'
-import { SafetyPage } from '../features/legal/pages/safety-page'
-import { TermsPage } from '../features/legal/pages/terms-page'
-import { PeoplePage } from '../features/profile/pages/people-page'
-import { ShowPage } from '../features/shows/pages/show-page'
-import { ShowsPage } from '../features/shows/pages/shows-page'
-import { BrazilHistoryPage } from '../features/catalog/pages/brazil-history-page'
-import { BrazilScenePage } from '../features/catalog/pages/brazil-scene-page'
-import { StyleguidePage } from '../features/styleguide/pages/styleguide-page'
 
 export const router = createBrowserRouter([
   {
     element: <AppLayout />,
+    HydrateFallback: PageFallback,
     children: [
       { path: '/', element: <HomePage /> },
-      { path: '/artistas', element: <ArtistsPage /> },
-      { path: '/artistas/:slug', element: <ArtistPage /> },
-      { path: '/lancamentos', element: <ReleasesPage /> },
-      { path: '/lancamentos/:slug', element: <ReleasePage /> },
-      { path: '/buscar', element: <SearchPage /> },
-      { path: '/generos', element: <GenresPage /> },
-      { path: '/generos/:slug', element: <GenrePage /> },
-      { path: '/shows', element: <ShowsPage /> },
-      { path: '/shows/:slug', element: <ShowPage /> },
-      { path: '/cena-br', element: <BrazilScenePage /> },
-      { path: '/cena-br/historia', element: <BrazilHistoryPage /> },
-      { path: '/emo-tour', element: <EmoTourPage /> },
-      { path: '/termos', element: <TermsPage /> },
-      { path: '/privacidade', element: <PrivacyPage /> },
-      { path: '/seguranca', element: <SafetyPage /> },
-      { path: '/guia', element: <StyleguidePage /> },
-      { path: '/entrar', element: <LoginPage /> },
-      { path: '/cadastro', element: <RegisterPage /> },
-      { path: '/esqueci-a-senha', element: <ForgotPasswordPage /> },
-      { path: '/redefinir-senha', element: <ResetPasswordPage /> },
-      { path: '/confirmar-email', element: <VerifyEmailPage /> },
-      { path: '/pessoas', element: <PeoplePage /> },
-      { path: '/u/:username', element: <ProfilePage /> },
+      { path: '/artistas', lazy: page(() => import('../features/catalog/pages/artists-page'), 'ArtistsPage') },
+      { path: '/artistas/:slug', lazy: page(() => import('../features/catalog/pages/artist-page'), 'ArtistPage') },
+      { path: '/lancamentos', lazy: page(() => import('../features/catalog/pages/releases-page'), 'ReleasesPage') },
+      { path: '/lancamentos/:slug', lazy: page(() => import('../features/catalog/pages/release-page'), 'ReleasePage') },
+      { path: '/buscar', lazy: page(() => import('../features/search/pages/search-page'), 'SearchPage') },
+      { path: '/generos', lazy: page(() => import('../features/catalog/pages/genres-page'), 'GenresPage') },
+      { path: '/generos/:slug', lazy: page(() => import('../features/catalog/pages/genre-page'), 'GenrePage') },
+      { path: '/shows', lazy: page(() => import('../features/shows/pages/shows-page'), 'ShowsPage') },
+      { path: '/shows/:slug', lazy: page(() => import('../features/shows/pages/show-page'), 'ShowPage') },
+      { path: '/cena-br', lazy: page(() => import('../features/catalog/pages/brazil-scene-page'), 'BrazilScenePage') },
+      { path: '/cena-br/historia', lazy: page(() => import('../features/catalog/pages/brazil-history-page'), 'BrazilHistoryPage') },
+      { path: '/emo-tour', lazy: page(() => import('../features/shows/pages/emo-tour-page'), 'EmoTourPage') },
+      { path: '/termos', lazy: page(() => import('../features/legal/pages/terms-page'), 'TermsPage') },
+      { path: '/privacidade', lazy: page(() => import('../features/legal/pages/privacy-page'), 'PrivacyPage') },
+      { path: '/seguranca', lazy: page(() => import('../features/legal/pages/safety-page'), 'SafetyPage') },
+      { path: '/guia', lazy: page(() => import('../features/styleguide/pages/styleguide-page'), 'StyleguidePage') },
+      { path: '/entrar', lazy: page(() => import('../features/auth/pages/login-page'), 'LoginPage') },
+      { path: '/cadastro', lazy: page(() => import('../features/auth/pages/register-page'), 'RegisterPage') },
+      { path: '/esqueci-a-senha', lazy: page(() => import('../features/auth/pages/forgot-password-page'), 'ForgotPasswordPage') },
+      { path: '/redefinir-senha', lazy: page(() => import('../features/auth/pages/reset-password-page'), 'ResetPasswordPage') },
+      { path: '/confirmar-email', lazy: page(() => import('../features/auth/pages/verify-email-page'), 'VerifyEmailPage') },
+      { path: '/pessoas', lazy: page(() => import('../features/profile/pages/people-page'), 'PeoplePage') },
+      { path: '/u/:username', lazy: page(() => import('../features/profile/pages/profile-page'), 'ProfilePage') },
       {
         // Tudo aqui dentro exige login.
         element: <ProtectedRoute />,
         children: [
-          { path: '/conta', element: <AccountPage /> },
+          { path: '/conta', lazy: page(() => import('../features/profile/pages/account-page'), 'AccountPage') },
           {
             // Dentro daqui só entra quem é administrador ou moderador.
             element: <ModeratorRoute />,
             children: [
               {
                 path: '/moderacao',
-                element: <ModerationLayout />,
+                lazy: page(() => import('../features/moderation/pages/moderation-layout'), 'ModerationLayout'),
                 children: [
                   { index: true, element: <Navigate to="/moderacao/clipes" replace /> },
-                  { path: 'clipes', element: <ClipsModerationPage /> },
-                  { path: 'denuncias', element: <CommentsModerationPage /> },
-                  { path: 'grupos', element: <GroupsModerationPage /> },
+                  { path: 'clipes', lazy: page(() => import('../features/moderation/pages/clips-moderation-page'), 'ClipsModerationPage') },
+                  { path: 'denuncias', lazy: page(() => import('../features/moderation/pages/comments-moderation-page'), 'CommentsModerationPage') },
+                  { path: 'grupos', lazy: page(() => import('../features/moderation/pages/groups-moderation-page'), 'GroupsModerationPage') },
                 ],
               },
             ],
@@ -98,20 +64,20 @@ export const router = createBrowserRouter([
             children: [
               {
                 path: '/admin',
-                element: <AdminLayout />,
+                lazy: page(() => import('../features/admin/pages/admin-layout'), 'AdminLayout'),
                 children: [
                   { index: true, element: <Navigate to="/admin/lancamentos" replace /> },
-                  { path: 'lancamentos', element: <ReleasesAdminPage /> },
-                  { path: 'lancamentos/novo', element: <NewReleasePage /> },
-                  { path: 'lancamentos/:slug', element: <EditReleasePage /> },
-                  { path: 'artistas', element: <ArtistsAdminPage /> },
-                  { path: 'artistas/novo', element: <NewArtistPage /> },
-                  { path: 'artistas/:slug', element: <EditArtistPage /> },
-                  { path: 'generos', element: <GenresAdminPage /> },
-                  { path: 'shows', element: <ShowsAdminPage /> },
-                  { path: 'equipe', element: <TeamAdminPage /> },
-                  { path: 'shows/novo', element: <NewShowPage /> },
-                  { path: 'shows/:slug', element: <EditShowPage /> },
+                  { path: 'lancamentos', lazy: page(() => import('../features/admin/pages/releases-admin-page'), 'ReleasesAdminPage') },
+                  { path: 'lancamentos/novo', lazy: page(() => import('../features/admin/pages/release-form-page'), 'NewReleasePage') },
+                  { path: 'lancamentos/:slug', lazy: page(() => import('../features/admin/pages/release-form-page'), 'EditReleasePage') },
+                  { path: 'artistas', lazy: page(() => import('../features/admin/pages/artists-admin-page'), 'ArtistsAdminPage') },
+                  { path: 'artistas/novo', lazy: page(() => import('../features/admin/pages/artist-form-page'), 'NewArtistPage') },
+                  { path: 'artistas/:slug', lazy: page(() => import('../features/admin/pages/artist-form-page'), 'EditArtistPage') },
+                  { path: 'generos', lazy: page(() => import('../features/admin/pages/genres-admin-page'), 'GenresAdminPage') },
+                  { path: 'shows', lazy: page(() => import('../features/admin/pages/shows-admin-page'), 'ShowsAdminPage') },
+                  { path: 'equipe', lazy: page(() => import('../features/admin/pages/team-admin-page'), 'TeamAdminPage') },
+                  { path: 'shows/novo', lazy: page(() => import('../features/admin/pages/show-form-page'), 'NewShowPage') },
+                  { path: 'shows/:slug', lazy: page(() => import('../features/admin/pages/show-form-page'), 'EditShowPage') },
                 ],
               },
             ],

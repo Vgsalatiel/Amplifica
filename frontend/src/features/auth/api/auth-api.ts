@@ -39,7 +39,7 @@ export async function logout(): Promise<void> {
   }
 }
 
-// Confirmação de e-mail e redefinição de senha. As três primeiras são públicas (quem abre o link
+// Confirmação de e-mail e redefinição de senha (por código de 6 números). Estas são públicas (quem abre o link
 // pode nem estar logado); reenviar a confirmação exige a sessão.
 
 export const verifyEmail = (token: string) =>
@@ -48,8 +48,12 @@ export const verifyEmail = (token: string) =>
 export const forgotPassword = (email: string) =>
   httpRequest<void>('/auth/forgot-password', { method: 'POST', json: { email } })
 
-export const resetPassword = (token: string, password: string) =>
-  httpRequest<void>('/auth/reset-password', { method: 'POST', json: { token, password } })
+/** Confere o código de 6 números do e-mail, sem gastá-lo: é o passo antes de escolher a nova senha. */
+export const checkResetCode = (email: string, code: string) =>
+  httpRequest<void>('/auth/reset-password/check', { method: 'POST', json: { email, code } })
+
+export const resetPassword = (email: string, code: string, password: string) =>
+  httpRequest<void>('/auth/reset-password', { method: 'POST', json: { email, code, password } })
 
 export const resendVerification = () => apiFetch<void>('/auth/resend-verification', { method: 'POST' })
 

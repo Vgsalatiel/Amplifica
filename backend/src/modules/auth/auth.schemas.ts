@@ -58,13 +58,24 @@ const tokenSchema = z
 
 export const verifyEmailSchema = z.object({ token: tokenSchema });
 export const forgotPasswordSchema = z.object({ email: emailSchema });
+/** Código de 6 números enviado por e-mail para redefinir a senha. */
+export const resetCodeSchema = z
+  .string('Digite o código.')
+  .trim()
+  .regex(/^\d{6}$/, 'Digite os 6 números do código.');
+export const checkResetCodeSchema = z.object({
+  email: emailSchema,
+  code: resetCodeSchema,
+});
 export const resetPasswordSchema = z.object({
-  token: tokenSchema,
+  email: emailSchema,
+  code: resetCodeSchema,
   password: passwordSchema,
 });
 
 export type VerifyEmailDto = z.infer<typeof verifyEmailSchema>;
 export type ForgotPasswordDto = z.infer<typeof forgotPasswordSchema>;
+export type CheckResetCodeDto = z.infer<typeof checkResetCodeSchema>;
 export type ResetPasswordDto = z.infer<typeof resetPasswordSchema>;
 export type RegisterDto = z.infer<typeof registerSchema>;
 export type LoginDto = z.infer<typeof loginSchema>;

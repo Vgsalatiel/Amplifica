@@ -44,21 +44,19 @@ export function verifyEmailMessage(
 export function resetPasswordMessage(
   to: string,
   displayName: string,
-  link: string,
+  code: string,
 ): MailMessage {
   const name = displayName.trim();
   return {
     to,
     subject: 'Redefina sua senha do Amplifica',
-    text: `Olá, ${name}!\n\nRecebemos um pedido para redefinir a senha da sua conta:\n${link}\n\nO link vale por 1 hora e só funciona uma vez. Se não foi você, ignore esta mensagem: a senha atual continua valendo.`,
-    html: layout(
-      `Olá, ${escapeHtml(name)}!`,
-      [
-        'Recebemos um pedido para redefinir a senha da sua conta.',
-        'O link vale por 1 hora e só funciona uma vez. Se não foi você, ignore esta mensagem: a senha atual continua valendo.',
-      ],
-      link,
-      'Escolher nova senha',
-    ),
+    text: `Olá, ${name}!\n\nO código para redefinir a senha da sua conta no Amplifica é:\n\n${code}\n\nDigite esse código na página de redefinição, no site. Ele vale por 30 minutos. Se não foi você, ignore esta mensagem: a senha atual continua valendo.`,
+    html: `<div style="font-family:Georgia,serif;font-size:17px;line-height:1.5;color:#1B1B1D;max-width:520px">
+<h1 style="font-size:24px;font-weight:normal;margin:0 0 20px">Olá, ${escapeHtml(name)}!</h1>
+<p style="margin:0 0 16px">O código para redefinir a senha da sua conta no Amplifica é:</p>
+<p style="margin:24px 0;font-family:'Courier New',monospace;font-size:34px;letter-spacing:8px;font-weight:bold">${escapeHtml(code)}</p>
+<p style="margin:0 0 16px">Digite esse código na página de redefinição, no site. Ele vale por 30 minutos.</p>
+<p style="margin:0 0 16px;font-size:14px;color:#555">Se não foi você, ignore esta mensagem: a senha atual continua valendo.</p>
+</div>`,
   };
 }

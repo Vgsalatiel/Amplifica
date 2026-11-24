@@ -23,3 +23,29 @@
   from = "/*"
   to = "/index.html"
   status = 200
+
+# ---- Cabeçalhos de segurança e cache -----------------------------------------------------------
+# Os arquivos de /assets têm o conteúdo no nome (hash): quando mudam, o nome muda. Podem ficar no
+# cache do navegador por um ano, o que deixa as visitas seguintes muito mais rápidas.
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# Fotos da história da cena: o nome do arquivo não muda quando a foto muda, então cache de um dia.
+[[headers]]
+  for = "/historia/*"
+  [headers.values]
+    Cache-Control = "public, max-age=86400"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    X-Frame-Options = "DENY"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Permissions-Policy = "camera=(), microphone=(), geolocation=(), payment=(), usb=(), interest-cohort=()"
+    # Só o que o site usa: o script do player do YouTube, o player (youtube-nocookie.com) em iframe e
+    # as capas e fotos, que vêm do armazenamento (r2.dev). As chamadas à API passam pelo próprio
+    # domínio (regra de /api acima). Se o endereço do armazenamento de imagens mudar, atualize img-src.
+    Content-Security-Policy = "default-src 'self'; script-src 'self' https://www.youtube.com https://s.ytimg.com; frame-src https://www.youtube-nocookie.com https://www.youtube.com; img-src 'self' data: blob: https://*.r2.dev; style-src 'self' 'unsafe-inline'; font-src 'self' data:; connect-src 'self'; media-src 'none'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'; upgrade-insecure-requests"

@@ -38,6 +38,11 @@ const INVALID_CREDENTIALS = apiError(
   'E-mail ou senha incorretos.',
 );
 
+const INVALID_CODE = apiError(
+  'invalid_code',
+  'O código está errado ou venceu. Confira os 6 números ou peça um novo.',
+);
+
 const INVALID_LINK = apiError(
   'invalid_token',
   'Esse link venceu ou já foi usado. Peça um novo.',
@@ -274,26 +279,47 @@ export class AuthService {
       return;
     }
     this.inBackground('e-mail de redefinição de senha', async () => {
-      const token = await this.emailTokens.create(account.id, 'RESET_PASSWORD');
+      const code = await this.emailTokens.createCode(
+        account.id,
+        'RESET_PASSWORD',
+      );
       await this.mail.send(
-        resetPasswordMessage(
-          account.email,
-          account.displayName,
-          this.link('/redefinir-senha', token),
-        ),
+        resetPasswordMessage(account.email, account.displayName, code),
       );
     });
   }
 
+  /** Confere o código do e-mail sem gastá-lo (é o passo antes de pedir a nova senha). */
+  async checkResetCode(email: string, code: string): Promise<void> {
+    const userId = await this.userIdByEmail(email);
+    const valid =
+      userId !== null &&
+      (await this.emailTokens.verifyCode(userId, 'RESET_PASSWORD', code, {
+        consume: false,
+      }));
+    if (!valid) {
+      throw new BadRequestException(INVALID_CODE);
+    }
+  }
+
   /**
-   * Define a nova senha com o link recebido. Encerra todas as sessões da conta (quem tinha a senha
-   * antiga, inclusive um invasor, perde o acesso) e conta o e-mail como confirmado, já que a pessoa
-   * acabou de provar que lê essa caixa de entrada.
+   * Define a nova senha com o código recebido por e-mail. Encerra todas as sessões da conta (quem
+   * tinha a senha antiga, inclusive um invasor, perde o acesso) e conta o e-mail como confirmado, já
+   * que a pessoa acabou de provar que lê essa caixa de entrada.
    */
-  async resetPassword(token: string, password: string): Promise<void> {
-    const userId = await this.emailTokens.consume(token, 'RESET_PASSWORD');
-    if (!userId) {
-      throw new BadRequestException(INVALID_LINK);
+  async resetPassword(
+    email: string,
+    code: string,
+    password: string,
+  ): Promise<void> {
+    const userId = await this.userIdByEmail(email);
+    const valid =
+      userId !== null &&
+      (await this.emailTokens.verifyCode(userId, 'RESET_PASSWORD', code, {
+        consume: true,
+      }));
+    if (!valid) {
+      throw new BadRequestException(INVALID_CODE);
     }
     const passwordHash = await this.hasher.hash(password);
     const verified = await this.prisma.user.findUnique({
@@ -318,6 +344,14 @@ export class AuthService {
         this.link('/confirmar-email', token),
       ),
     );
+  }
+
+  private async userIdByEmail(email: string): Promise<string | null> {
+    const user = await this.prisma.user.findUnique({
+      where: { email },
+      select: { id: true },
+    });
+    return user?.id ?? null;
   }
 
   private link(path: string, token: string): string {

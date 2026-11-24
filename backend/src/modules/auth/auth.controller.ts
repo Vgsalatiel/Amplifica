@@ -23,12 +23,14 @@ import {
 } from '../users/user.types.js';
 import { AuthThrottlerGuard } from './auth-throttler.guard.js';
 import {
+  checkResetCodeSchema,
   forgotPasswordSchema,
   loginSchema,
   registerSchema,
   resetPasswordSchema,
   deleteAccountSchema,
   verifyEmailSchema,
+  type CheckResetCodeDto,
   type ForgotPasswordDto,
   type LoginDto,
   type RegisterDto,
@@ -172,7 +174,18 @@ export class AuthController {
   async resetPassword(
     @Body({ schema: resetPasswordSchema }) body: ResetPasswordDto,
   ): Promise<void> {
-    await this.auth.resetPassword(body.token, body.password);
+    await this.auth.resetPassword(body.email, body.code, body.password);
+  }
+
+  /** Confere o código antes de a pessoa escolher a nova senha. Não gasta o código. */
+  @Public()
+  @Throttle({ default: { limit: 10, ttl: 60_000 } })
+  @HttpCode(204)
+  @Post('reset-password/check')
+  async checkResetCode(
+    @Body({ schema: checkResetCodeSchema }) body: CheckResetCodeDto,
+  ): Promise<void> {
+    await this.auth.checkResetCode(body.email, body.code);
   }
 
   @Can.Anyone()

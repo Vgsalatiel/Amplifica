@@ -50,6 +50,9 @@ describe('Confirmação de e-mail e redefinição de senha (e2e)', () => {
 
   /** Os envios acontecem em segundo plano: espera a mensagem para o endereço aparecer na caixa de teste. */
   const SUBJECTS = { verify: /Confirme seu e-mail/, reset: /Redefina sua senha/ };
+  /** O código de 6 números do e-mail de redefinição de senha. */
+  const codeIn = (message: MailMessage) => /\b(\d{6})\b/.exec(message.text)![1];
+
   async function mailTo(
     address: string,
     kind: keyof typeof SUBJECTS = 'verify',
@@ -154,12 +157,11 @@ describe('Confirmação de e-mail e redefinição de senha (e2e)', () => {
       await prisma.emailToken.updateMany({ where: { userId: user.id }, data: { expiresAt: new Date(Date.now() - 1000) } });
       await request(server()).post(`${AUTH}/verify-email`).send({ token }).expect(400);
 
-      // Um token de confirmação não serve para redefinir a senha.
+      // Um código inventado não serve para redefinir a senha.
       const fresh = await signUp();
-      const freshToken = tokenIn(await mailTo(fresh.email));
       await request(server())
         .post(`${AUTH}/reset-password`)
-        .send({ token: freshToken, password: 'outra-senha-123' })
+        .send({ email: fresh.email, code: '123456', password: 'outra-senha-123' })
         .expect(400);
       const still = await request(server()).get(`${AUTH}/me`).set(fresh.auth).expect(200);
       expect(still.body.needsEmailVerification).toBe(true);
@@ -239,9 +241,9 @@ describe('Confirmação de e-mail e redefinição de senha (e2e)', () => {
       const user = await signUp();
       const cookie = (await request(server()).post(`${AUTH}/login`).send({ email: user.email, password: user.password }).expect(200)).headers['set-cookie'] as unknown as string[];
       await request(server()).post(`${AUTH}/forgot-password`).send({ email: user.email }).expect(204);
-      const token = tokenIn(await mailTo(user.email, 'reset'));
+      const code = codeIn(await mailTo(user.email, 'reset'));
 
-      await request(server()).post(`${AUTH}/reset-password`).send({ token, password: 'senha-nova-456' }).expect(204);
+      await request(server()).post(`${AUTH}/reset-password`).send({ email: user.email, code, password: 'senha-nova-456' }).expect(204);
 
       await request(server()).post(`${AUTH}/login`).send({ email: user.email, password: user.password }).expect(401);
       await request(server()).post(`${AUTH}/login`).send({ email: user.email, password: 'senha-nova-456' }).expect(200);
@@ -249,36 +251,59 @@ describe('Confirmação de e-mail e redefinição de senha (e2e)', () => {
       await request(server()).post(`${AUTH}/refresh`).set('Cookie', cookie.map((c) => c.split(';')[0])).expect(401);
     });
 
-    it('o link só funciona uma vez, e a senha nova segue as regras de sempre', async () => {
+    it('o código pode ser conferido antes da senha, sem ser gasto, e só funciona uma vez', async () => {
       const user = await signUp();
       await request(server()).post(`${AUTH}/forgot-password`).send({ email: user.email }).expect(204);
-      const token = tokenIn(await mailTo(user.email, 'reset'));
+      const code = codeIn(await mailTo(user.email, 'reset'));
+      const wrong = code === '000000' ? '111111' : '000000';
 
-      const weak = await request(server()).post(`${AUTH}/reset-password`).send({ token, password: '123' }).expect(400);
+      const bad = await request(server()).post(`${AUTH}/reset-password/check`).send({ email: user.email, code: wrong }).expect(400);
+      expect(bad.body.code).toBe('invalid_code');
+      await request(server()).post(`${AUTH}/reset-password/check`).send({ email: user.email, code }).expect(204);
+      await request(server()).post(`${AUTH}/reset-password/check`).send({ email: user.email, code }).expect(204);
+
+      const weak = await request(server()).post(`${AUTH}/reset-password`).send({ email: user.email, code, password: '123' }).expect(400);
       expect(weak.body.details[0].field).toBe('password');
-      // A tentativa recusada por validação não gasta o link.
-      await request(server()).post(`${AUTH}/reset-password`).send({ token, password: 'senha-nova-456' }).expect(204);
-      const reused = await request(server()).post(`${AUTH}/reset-password`).send({ token, password: 'outra-senha-789' }).expect(400);
-      expect(reused.body.code).toBe('invalid_token');
+      await request(server()).post(`${AUTH}/reset-password`).send({ email: user.email, code, password: 'senha-nova-456' }).expect(204);
+      const reused = await request(server()).post(`${AUTH}/reset-password`).send({ email: user.email, code, password: 'outra-senha-789' }).expect(400);
+      expect(reused.body.code).toBe('invalid_code');
     });
 
-    it('um segundo pedido invalida o link anterior', async () => {
+    it('o código tem 6 números e conta de e-mail desconhecida recebe a mesma resposta de código errado', async () => {
+      await request(server()).post(`${AUTH}/reset-password/check`).send({ email: 'nao-existe@example.com', code: '123456' }).expect(400);
+      await request(server()).post(`${AUTH}/reset-password/check`).send({ email: 'nao-existe@example.com', code: '12ab' }).expect(400);
+    });
+
+    it('depois de várias tentativas erradas, nem o código certo vale', async () => {
       const user = await signUp();
       await request(server()).post(`${AUTH}/forgot-password`).send({ email: user.email }).expect(204);
-      const first = tokenIn(await mailTo(user.email, 'reset'));
-      await request(server()).post(`${AUTH}/forgot-password`).send({ email: user.email }).expect(204);
-      const second = tokenIn(await mailTo(user.email, 'reset', 2));
+      const code = codeIn(await mailTo(user.email, 'reset'));
+      const wrong = code === '000000' ? '111111' : '000000';
+      for (let i = 0; i < 8; i += 1) {
+        await request(server()).post(`${AUTH}/reset-password`).send({ email: user.email, code: wrong, password: 'senha-nova-456' }).expect(400);
+      }
+      await request(server()).post(`${AUTH}/reset-password`).send({ email: user.email, code, password: 'senha-nova-456' }).expect(400);
+    });
 
-      await request(server()).post(`${AUTH}/reset-password`).send({ token: first, password: 'senha-nova-456' }).expect(400);
-      await request(server()).post(`${AUTH}/reset-password`).send({ token: second, password: 'senha-nova-456' }).expect(204);
+    it('um segundo pedido invalida o código anterior', async () => {
+      const user = await signUp();
+      await request(server()).post(`${AUTH}/forgot-password`).send({ email: user.email }).expect(204);
+      const first = codeIn(await mailTo(user.email, 'reset'));
+      await request(server()).post(`${AUTH}/forgot-password`).send({ email: user.email }).expect(204);
+      const second = codeIn(await mailTo(user.email, 'reset', 2));
+
+      if (first !== second) {
+        await request(server()).post(`${AUTH}/reset-password`).send({ email: user.email, code: first, password: 'senha-nova-456' }).expect(400);
+      }
+      await request(server()).post(`${AUTH}/reset-password`).send({ email: user.email, code: second, password: 'senha-nova-456' }).expect(204);
     });
 
     it('redefinir a senha também confirma o e-mail, porque a pessoa provou que lê a caixa', async () => {
       const user = await signUp();
       await request(server()).post(`${AUTH}/forgot-password`).send({ email: user.email }).expect(204);
-      const token = tokenIn(await mailTo(user.email, 'reset'));
+      const code = codeIn(await mailTo(user.email, 'reset'));
 
-      await request(server()).post(`${AUTH}/reset-password`).send({ token, password: 'senha-nova-456' }).expect(204);
+      await request(server()).post(`${AUTH}/reset-password`).send({ email: user.email, code, password: 'senha-nova-456' }).expect(204);
 
       const login = await request(server()).post(`${AUTH}/login`).send({ email: user.email, password: 'senha-nova-456' }).expect(200);
       expect(login.body.user.needsEmailVerification).toBe(false);

@@ -6,21 +6,22 @@ import { ForgotPasswordPage } from './forgot-password-page'
 
 const routes = [
   { path: '/esqueci-a-senha', element: <ForgotPasswordPage /> },
+  { path: '/redefinir-senha', element: <p>Tela do código</p> },
   { path: '/entrar', element: <p>Tela de entrar</p> },
 ]
 
 describe('ForgotPasswordPage', () => {
-  it('envia o e-mail e mostra a mesma confirmação, sem dizer se a conta existe', async () => {
+  it('envia o e-mail e segue para a tela do código, igual exista a conta ou não', async () => {
     endSession()
     const fetchMock = mockApi({ 'POST /auth/forgot-password': { status: 204 } })
-    renderRoutes(routes, '/esqueci-a-senha')
+    const { router } = renderRoutes(routes, '/esqueci-a-senha')
 
     fireEvent.change(screen.getByLabelText('E-mail'), { target: { value: ' marina@exemplo.com ' } })
-    fireEvent.click(screen.getByRole('button', { name: 'Enviar link' }))
+    fireEvent.click(screen.getByRole('button', { name: 'Enviar código' }))
 
-    expect(await screen.findByRole('status')).toHaveTextContent('Se existe uma conta com o e-mail marina@exemplo.com')
+    expect(await screen.findByText('Tela do código')).toBeInTheDocument()
     expect(JSON.parse(fetchMock.mock.calls[0][1]?.body as string)).toEqual({ email: 'marina@exemplo.com' })
-    expect(screen.getByRole('link', { name: 'Voltar para entrar' })).toHaveAttribute('href', '/entrar')
+    expect(router.state.location.state).toEqual({ email: 'marina@exemplo.com' })
   })
 
   it('mostra o erro de formato que a API devolve no campo', async () => {
@@ -33,7 +34,7 @@ describe('ForgotPasswordPage', () => {
     renderRoutes(routes, '/esqueci-a-senha')
 
     fireEvent.change(screen.getByLabelText('E-mail'), { target: { value: 'sem-arroba' } })
-    fireEvent.click(screen.getByRole('button', { name: 'Enviar link' }))
+    fireEvent.click(screen.getByRole('button', { name: 'Enviar código' }))
 
     expect(await screen.findByText('Digite um e-mail válido, como nome@exemplo.com.')).toBeInTheDocument()
     expect(screen.getByLabelText('E-mail')).toHaveAttribute('aria-invalid', 'true')
@@ -49,7 +50,7 @@ describe('ForgotPasswordPage', () => {
     renderRoutes(routes, '/esqueci-a-senha')
 
     fireEvent.change(screen.getByLabelText('E-mail'), { target: { value: 'a@b.com' } })
-    fireEvent.click(screen.getByRole('button', { name: 'Enviar link' }))
+    fireEvent.click(screen.getByRole('button', { name: 'Enviar código' }))
 
     expect(await screen.findByRole('alert')).toHaveTextContent('O envio de e-mails não está disponível agora.')
     expect(screen.queryByRole('status')).not.toBeInTheDocument()

@@ -40,7 +40,7 @@ describe('MailService', () => {
     vi.stubGlobal('fetch', fetchMock);
     try {
       const mail = service({ NODE_ENV: 'production', RESEND_API_KEY: 're_segredo', MAIL_FROM: 'Amplifica <a@b.com>' });
-      const error = await mail.send(resetPasswordMessage('ana@x.com', 'Ana', 'https://x/y')).catch((e: Error) => e);
+      const error = await mail.send(resetPasswordMessage('ana@x.com', 'Ana', '123456')).catch((e: Error) => e);
 
       expect(fetchMock).toHaveBeenCalledWith(
         'https://api.resend.com/emails',
@@ -66,9 +66,12 @@ describe('templates de e-mail', () => {
     expect(message.html).toContain('&lt;script&gt;');
   });
 
-  it('o e-mail de senha avisa que vale 1 hora e que a senha atual continua valendo se não foi a pessoa', () => {
-    const message = resetPasswordMessage('a@b.com', 'Ana', 'https://x/y');
-    expect(message.text).toMatch(/1 hora/);
+  it('o e-mail de senha traz o código de 6 números, avisa que vale 30 minutos e que a senha atual continua valendo se não foi a pessoa', () => {
+    const message = resetPasswordMessage('a@b.com', 'Ana', '048213');
+    expect(message.text).toContain('048213');
+    expect(message.html).toContain('048213');
+    expect(message.text).not.toMatch(/https?:\/\//);
+    expect(message.text).toMatch(/30 minutos/);
     expect(message.text).toMatch(/senha atual continua valendo/);
   });
 });
