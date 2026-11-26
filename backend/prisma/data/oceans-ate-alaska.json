@@ -1,0 +1,317 @@
+{
+  "generatedAt": "2026-11-26T11:09:17.372Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "c6bf185b-3a3b-408e-a8b9-f51e5ed7371b",
+    "name": "Oceans Ate Alaska",
+    "slug": "oceans-ate-alaska",
+    "type": "BAND",
+    "country": "GB",
+    "city": "Birmingham",
+    "formedYear": 2011,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/c6bf185b-3a3b-408e-a8b9-f51e5ed7371b"
+      }
+    ],
+    "genres": [
+      "metalcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "313e4abe-2de7-4ce0-b957-d6c095816261",
+      "releaseMbid": "4a8fb28d-0943-4582-8fd3-873a277af86d",
+      "title": "Into the Deep",
+      "type": "EP",
+      "releaseDate": "2012-05-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/313e4abe-2de7-4ce0-b957-d6c095816261/front-1200",
+      "tracks": [
+        {
+          "title": "The Deep (intro)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 47000
+        },
+        {
+          "title": "I, the Creator",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 196000
+        },
+        {
+          "title": "Hunting Season",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 189000
+        },
+        {
+          "title": "To Catch a Flame",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 190000
+        },
+        {
+          "title": "X-Ray Eyes",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 169000
+        },
+        {
+          "title": "Blue Lungs",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 231000
+        }
+      ]
+    },
+    {
+      "mbid": "d8f28ceb-e1ff-4746-b81d-3b10ad65e6af",
+      "releaseMbid": "c3aa8aba-7a64-4895-855a-b9c1ea11028f",
+      "title": "Lost Isles",
+      "type": "ALBUM",
+      "releaseDate": "2015-02-24",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d8f28ceb-e1ff-4746-b81d-3b10ad65e6af/front-1200",
+      "tracks": [
+        {
+          "title": "Fourtythirtytwo (intro)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 90306
+        },
+        {
+          "title": "Blood Brothers",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 214355
+        },
+        {
+          "title": "High Horse",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 166534
+        },
+        {
+          "title": "Vultures and Sharks",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 211880
+        },
+        {
+          "title": "Downsides",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 218490
+        },
+        {
+          "title": "Floorboards",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 235915
+        },
+        {
+          "title": "Linger",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 250739
+        },
+        {
+          "title": "Equinox (interlude)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 91946
+        },
+        {
+          "title": "Part of Something",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 183304
+        },
+        {
+          "title": "Over the Edge",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 179364
+        },
+        {
+          "title": "Entity",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 215757
+        },
+        {
+          "title": "Lost Isles",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 215757
+        },
+        {
+          "title": "Mirage",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 373981
+        }
+      ]
+    },
+    {
+      "mbid": "491d6ca0-039c-42d8-a6cb-794d18eab668",
+      "releaseMbid": "2753d2b6-d36b-4879-a53e-8d474190fe28",
+      "title": "Hikari",
+      "type": "ALBUM",
+      "releaseDate": "2017-07-28",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/491d6ca0-039c-42d8-a6cb-794d18eab668/front-1200",
+      "tracks": [
+        {
+          "title": "Benzaiten",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 216727
+        },
+        {
+          "title": "Sarin",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 188889
+        },
+        {
+          "title": "Covert",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 193363
+        },
+        {
+          "title": "Hansha",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 218465
+        },
+        {
+          "title": "Deadweight",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 185541
+        },
+        {
+          "title": "Veridical",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 110067
+        },
+        {
+          "title": "Entrapment",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 179323
+        },
+        {
+          "title": "Hikari",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 201625
+        },
+        {
+          "title": "Birth-Marked",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 185981
+        },
+        {
+          "title": "Ukiyo",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 79985
+        },
+        {
+          "title": "Escapist",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 259462
+        }
+      ]
+    },
+    {
+      "mbid": "2510c7e8-a334-4c19-8a79-0831743ac681",
+      "releaseMbid": "103323f6-047a-4794-9270-15b5d74eb8f4",
+      "title": "Disparity",
+      "type": "ALBUM",
+      "releaseDate": "2022-09-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/2510c7e8-a334-4c19-8a79-0831743ac681/front-1200",
+      "tracks": [
+        {
+          "title": "Paradigm",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 164666
+        },
+        {
+          "title": "Nova",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 212653
+        },
+        {
+          "title": "Metamorph",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 163640
+        },
+        {
+          "title": "Shallow Graves",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 199133
+        },
+        {
+          "title": "Sol",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 201026
+        },
+        {
+          "title": "Dead Behind the Eyes",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 181000
+        },
+        {
+          "title": "Plague Speech",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 164613
+        },
+        {
+          "title": "Disparity (interlude)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 92666
+        },
+        {
+          "title": "Empty Space",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 195200
+        },
+        {
+          "title": "New Dawn",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 109600
+        },
+        {
+          "title": "Hallucinogen",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 254013
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

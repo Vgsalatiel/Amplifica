@@ -1222,6 +1222,20 @@
       "channelName": "Banda John Wayne",
       "artist": "john-wayne",
       "catalog": true
+    },
+    {
+      "youtubeId": "kdAEkb3PLP4",
+      "title": "Oceans Ate Alaska - Endless Hollow (Official Music Video)",
+      "channelName": "oceansatealaska",
+      "artist": "oceans-ate-alaska",
+      "catalog": true
+    },
+    {
+      "youtubeId": "nRJoED4fGRM",
+      "title": "Hollow Front - So Long To Yesterday (Official Music Video)",
+      "channelName": "Hollow Front",
+      "artist": "hollow-front",
+      "catalog": true
     }
   ]
 }

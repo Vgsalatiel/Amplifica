@@ -1,0 +1,393 @@
+{
+  "generatedAt": "2026-11-26T11:26:30.030Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "6bb86e57-5e85-4669-9d64-210a755a8900",
+    "name": "Hollow Front",
+    "slug": "hollow-front",
+    "type": "BAND",
+    "country": "US",
+    "city": null,
+    "formedYear": null,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/6bb86e57-5e85-4669-9d64-210a755a8900"
+      }
+    ],
+    "genres": [
+      "metalcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "681e01cb-a2c2-4eb8-bb68-df5ca7474597",
+      "releaseMbid": "3efdae6b-e0eb-41ff-9edb-b30de3fe131f",
+      "title": "Homewrecker",
+      "type": "EP",
+      "releaseDate": "2017-02-14",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/681e01cb-a2c2-4eb8-bb68-df5ca7474597/front-1200",
+      "tracks": [
+        {
+          "title": "Broken Promises",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 61595
+        },
+        {
+          "title": "Homewrecker",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 238687
+        },
+        {
+          "title": "Caved In",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 209000
+        },
+        {
+          "title": "Speaking in Tongues",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 213731
+        },
+        {
+          "title": "Lost Boy",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 297838
+        },
+        {
+          "title": "Blackhole",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 234000
+        }
+      ]
+    },
+    {
+      "mbid": "9a72ccfb-5f09-49b8-baf2-aa0825341e08",
+      "releaseMbid": "5cf771da-e67e-4e0a-b6d9-dde9357be860",
+      "title": "Still Life",
+      "type": "EP",
+      "releaseDate": "2018-06-29",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/9a72ccfb-5f09-49b8-baf2-aa0825341e08/front-1200",
+      "tracks": [
+        {
+          "title": "Don't Fall Asleep",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 287628
+        },
+        {
+          "title": "Backbone",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 237246
+        },
+        {
+          "title": "Nothing Lasts Forever",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 257280
+        },
+        {
+          "title": "Apparition",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 234135
+        },
+        {
+          "title": "Dissect Me",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 222826
+        },
+        {
+          "title": "In Memoriam",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 88615
+        },
+        {
+          "title": "Still Life",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 248390
+        }
+      ]
+    },
+    {
+      "mbid": "729dd50b-8ddd-46dc-8073-b1c10d74593e",
+      "releaseMbid": "cffaba64-af74-4c33-8227-793e6c98fc6f",
+      "title": "Loose Threads",
+      "type": "ALBUM",
+      "releaseDate": "2020-06-19",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/729dd50b-8ddd-46dc-8073-b1c10d74593e/front-1200",
+      "tracks": [
+        {
+          "title": "Afflicted",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 292000
+        },
+        {
+          "title": "Nameless",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 271000
+        },
+        {
+          "title": "Loose Threads",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 233000
+        },
+        {
+          "title": "Left Behind",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 239000
+        },
+        {
+          "title": "Vagabond",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 182000
+        },
+        {
+          "title": "Wishful Thinking",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 223000
+        },
+        {
+          "title": "Falling Apart",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 243000
+        },
+        {
+          "title": "P.A.N.I.C.",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 239000
+        },
+        {
+          "title": "Ghosted",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 174000
+        },
+        {
+          "title": "The Itch",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 184000
+        },
+        {
+          "title": "Serendipity",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 232000
+        }
+      ]
+    },
+    {
+      "mbid": "5cd4129c-4012-475e-bf41-7b565dcf2dd4",
+      "releaseMbid": "f0c45d86-5c8e-4213-a05b-b78f771249ac",
+      "title": "The Price of Dreaming",
+      "type": "ALBUM",
+      "releaseDate": "2022-05-27",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/5cd4129c-4012-475e-bf41-7b565dcf2dd4/front-1200",
+      "tracks": [
+        {
+          "title": "In the Spotlight",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 169000
+        },
+        {
+          "title": "Comatose",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 257000
+        },
+        {
+          "title": "Self Sabotage",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 231000
+        },
+        {
+          "title": "Thick as Blood",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 280000
+        },
+        {
+          "title": "The Price of Dreaming",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 243000
+        },
+        {
+          "title": "Better Off",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 202000
+        },
+        {
+          "title": "Dear Sons",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 240000
+        },
+        {
+          "title": "Treading Water",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 228000
+        },
+        {
+          "title": "Two Worlds Away",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 238000
+        },
+        {
+          "title": "Changeling",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 216000
+        },
+        {
+          "title": "Heritage",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 185000
+        },
+        {
+          "title": "Running Away",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 236000
+        }
+      ]
+    },
+    {
+      "mbid": "83e43d14-c167-4bee-9e87-3c42391662e2",
+      "releaseMbid": "e06c57ac-cbee-46c0-80a6-4bbf00344f5e",
+      "title": "The Fear of Letting Go",
+      "type": "ALBUM",
+      "releaseDate": "2023-10-27",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/83e43d14-c167-4bee-9e87-3c42391662e2/front-1200",
+      "tracks": [
+        {
+          "title": "The Fear Of",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 235443
+        },
+        {
+          "title": "We're All Left Suffering",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 204751
+        },
+        {
+          "title": "Will I Run?",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 242195
+        },
+        {
+          "title": "Over the Cradle",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 243478
+        },
+        {
+          "title": "Crash and Burn",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 185339
+        },
+        {
+          "title": "Under Pressure",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 257837
+        },
+        {
+          "title": "Breaking Teeth",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 153904
+        },
+        {
+          "title": "Stay With Me",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 238000
+        },
+        {
+          "title": "Good Things Never Last",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 251643
+        },
+        {
+          "title": "Letting Go",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 229612
+        }
+      ]
+    },
+    {
+      "mbid": "7965455a-9b33-4442-b206-f2cc15889d82",
+      "releaseMbid": "74db1cfa-b597-42b1-988e-0ad4f93c5613",
+      "title": "No Love Without Despair",
+      "type": "EP",
+      "releaseDate": "2026-11-13",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/7965455a-9b33-4442-b206-f2cc15889d82/front-1200",
+      "tracks": [
+        {
+          "title": "No Love Without Despair",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 219735
+        },
+        {
+          "title": "Death to My Name",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 218775
+        },
+        {
+          "title": "Open Wounds",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 268065
+        },
+        {
+          "title": "So Long to Yesterday",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 225185
+        }
+      ]
+    }
+  ],
+  "pending": []
+}
