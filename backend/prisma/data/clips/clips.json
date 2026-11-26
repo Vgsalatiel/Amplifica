@@ -1236,6 +1236,20 @@
       "channelName": "Hollow Front",
       "artist": "hollow-front",
       "catalog": true
+    },
+    {
+      "youtubeId": "ysE5cSP4dJg",
+      "title": "Dragdown -Dirge (ダージュ)- Official Music Video",
+      "channelName": "DRAGDOWN",
+      "artist": "dragdown",
+      "catalog": true
+    },
+    {
+      "youtubeId": "gXcapkDd_j4",
+      "title": "Holding Absence - Heaven (Official Music Video)",
+      "channelName": "SUMERIAN",
+      "artist": "holding-absence",
+      "catalog": true
     }
   ]
 }

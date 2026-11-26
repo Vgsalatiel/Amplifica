@@ -1,0 +1,366 @@
+{
+  "generatedAt": "2026-11-26T11:44:23.723Z",
+  "source": "MusicBrainz (dados principais em CC0) e YouTube Music (página pública da banda)",
+  "artist": {
+    "mbid": "076188d6-e951-4360-bb69-9af3c9d5e4c9",
+    "name": "Dragdown",
+    "slug": "dragdown",
+    "type": "BAND",
+    "country": "JP",
+    "city": null,
+    "formedYear": null,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/076188d6-e951-4360-bb69-9af3c9d5e4c9"
+      },
+      {
+        "name": "YouTube Music",
+        "url": "https://music.youtube.com/channel/UC6TM_jfJJBtY6krD0eKdUUQ"
+      }
+    ],
+    "genres": [
+      "metalcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "e049d833-6f13-4161-9818-753a5d95d87e",
+      "releaseMbid": "e808bb2c-37e6-4709-a71d-ed44a6ad02ae",
+      "title": "残月",
+      "type": "SINGLE",
+      "releaseDate": "2018-06-14",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/e049d833-6f13-4161-9818-753a5d95d87e/front-1200",
+      "tracks": [
+        {
+          "title": "残月",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 201000
+        }
+      ]
+    },
+    {
+      "mbid": "b9182c2f-86d4-42a6-9c34-a324e80b6c71",
+      "releaseMbid": "4714f82d-2453-4cfb-bd66-52d20d928a2e",
+      "title": "Dragdown",
+      "type": "ALBUM",
+      "releaseDate": "2018-09-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b9182c2f-86d4-42a6-9c34-a324e80b6c71/front-1200",
+      "tracks": [
+        {
+          "title": "嘲謔の腑",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 237427
+        },
+        {
+          "title": "首枷",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 202631
+        },
+        {
+          "title": "紫苑",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 236272
+        },
+        {
+          "title": "狂わ義",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 239414
+        },
+        {
+          "title": "断罪",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 240267
+        },
+        {
+          "title": "追の菊",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 202116
+        },
+        {
+          "title": "飢餓",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 223135
+        },
+        {
+          "title": "ヨルカタリ",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 180800
+        },
+        {
+          "title": "残月",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 194560
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "antisocial",
+      "type": "EP",
+      "releaseDate": "2023",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Deified Man",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 87000
+        },
+        {
+          "title": "恕牢",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 266000
+        },
+        {
+          "title": "deformation",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 189000
+        },
+        {
+          "title": "Dummy",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 199000
+        },
+        {
+          "title": "Offline",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 244000
+        },
+        {
+          "title": "Helm",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 269000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "Terror",
+      "type": "SINGLE",
+      "releaseDate": "2023",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Terror",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 180000
+        }
+      ]
+    },
+    {
+      "mbid": "1b9aa27f-b4d5-4efa-8965-cf96e11c3e9d",
+      "releaseMbid": "c0bbc714-1f60-46c0-9642-563ef6f48e2a",
+      "title": "Dominate (EP ver.)",
+      "type": "EP",
+      "releaseDate": "2024-03-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/1b9aa27f-b4d5-4efa-8965-cf96e11c3e9d/front-1200",
+      "tracks": [
+        {
+          "title": "Terror",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 179000
+        },
+        {
+          "title": "Leave of Die",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 240109
+        },
+        {
+          "title": "劫獄",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 248000
+        },
+        {
+          "title": "ケムリ",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 237257
+        },
+        {
+          "title": "Sinister Prodigy",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 150075
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "BELLATONIUM",
+      "type": "ALBUM",
+      "releaseDate": "2026",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Declaration",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 116000
+        },
+        {
+          "title": "BELLATONIUM",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 191000
+        },
+        {
+          "title": ".scisma",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 192000
+        },
+        {
+          "title": "Ember",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 228000
+        },
+        {
+          "title": "TERMINATION",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 197000
+        },
+        {
+          "title": "Temeritas",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 282000
+        },
+        {
+          "title": "Dirge",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 223000
+        },
+        {
+          "title": "狂わ義",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 242000
+        },
+        {
+          "title": "紫苑",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 239000
+        },
+        {
+          "title": "残月",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 197000
+        }
+      ]
+    },
+    {
+      "mbid": null,
+      "releaseMbid": null,
+      "title": "DEUTEROS",
+      "type": "ALBUM",
+      "releaseDate": "2026",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Deified Man",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 87000
+        },
+        {
+          "title": "Leave or Die",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 241000
+        },
+        {
+          "title": "恕牢",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 266000
+        },
+        {
+          "title": "Terror",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 180000
+        },
+        {
+          "title": "ケムリ",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 238000
+        },
+        {
+          "title": "offline",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 244000
+        },
+        {
+          "title": "劫獄",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 249000
+        },
+        {
+          "title": "Sinister Prodigy",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 151000
+        },
+        {
+          "title": "Dummy",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 199000
+        },
+        {
+          "title": "Helm",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 269000
+        },
+        {
+          "title": "deformation",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 189000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}
