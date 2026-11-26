@@ -37,7 +37,7 @@ const app = await NestFactory.createApplicationContext(AppModule, {
 try {
   const report = await loadClips(app.get(PrismaService), parsed.data);
   console.log(
-    `Clipes: ${report.created} criado(s), ${report.kept} mantido(s).`,
+    `Clipes: ${report.created} criado(s), ${report.kept} mantido(s), ${report.reordered} reordenado(s).`,
   );
   if (report.unlinkedArtists.length > 0) {
     console.warn(

@@ -29,21 +29,47 @@ export const CATALOG_POSITION = 1000;
 export interface ClipsReport {
   created: number;
   kept: number;
+  /** Clipes do catálogo que já existiam e mudaram de lugar na ordem. */
+  reordered: number;
   /** Bandas citadas que não estão no catálogo: o clipe entra sem ligação com elas. */
   unlinkedArtists: string[];
 }
 
-/** Seguro de repetir: um clipe que já existe (pelo código do vídeo) é mantido como está. */
+/**
+ * Seguro de repetir: um clipe que já existe (pelo código do vídeo) é mantido, com um ajuste: os do
+ * catálogo seguem a ordem do arquivo, então a posição deles é refeita (assim, clipes novos entre os
+ * antigos, como as três partes de uma sequência, ficam onde o arquivo manda). Sugestões de pessoas
+ * e clipes de abertura não são mexidos.
+ */
 export async function loadClips(
   prisma: PrismaService,
   file: ClipsFile,
 ): Promise<ClipsReport> {
-  const report: ClipsReport = { created: 0, kept: 0, unlinkedArtists: [] };
+  const report: ClipsReport = {
+    created: 0,
+    kept: 0,
+    reordered: 0,
+    unlinkedArtists: [],
+  };
 
   for (const [position, entry] of file.clips.entries()) {
-    if (
-      await prisma.clip.findUnique({ where: { youtubeId: entry.youtubeId } })
-    ) {
+    const existing = await prisma.clip.findUnique({
+      where: { youtubeId: entry.youtubeId },
+    });
+    if (existing) {
+      const wanted = CATALOG_POSITION + position;
+      if (
+        entry.catalog &&
+        !existing.pinned &&
+        existing.submittedById === null &&
+        existing.position !== wanted
+      ) {
+        await prisma.clip.update({
+          where: { id: existing.id },
+          data: { position: wanted },
+        });
+        report.reordered += 1;
+      }
       report.kept += 1;
       continue;
     }
