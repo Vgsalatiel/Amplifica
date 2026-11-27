@@ -1,0 +1,564 @@
+{
+  "generatedAt": "2026-11-27T13:44:45.589Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "c41dd59f-d805-41df-9e0e-83ec0f9f468e",
+    "name": "Neck Deep",
+    "slug": "neck-deep",
+    "type": "BAND",
+    "country": "GB",
+    "city": "Wrexham",
+    "formedYear": 2012,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/c41dd59f-d805-41df-9e0e-83ec0f9f468e"
+      }
+    ],
+    "genres": [
+      "pop-punk"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "33e44d7a-1c56-4dc4-a9f0-838091f0d23a",
+      "releaseMbid": "eee646a7-f9bf-4879-bfe4-f1a80d72a8b3",
+      "title": "Rain in July",
+      "type": "EP",
+      "releaseDate": "2012-09-11",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/33e44d7a-1c56-4dc4-a9f0-838091f0d23a/front-1200",
+      "tracks": [
+        {
+          "title": "Kick It",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 94000
+        },
+        {
+          "title": "Silver Lining",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 163000
+        },
+        {
+          "title": "What Did You Expect?",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 197000
+        },
+        {
+          "title": "Over and Over",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 175000
+        },
+        {
+          "title": "A Part of Me",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 189000
+        },
+        {
+          "title": "I Couldn’t Wait to Leave 6 Months Ago",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 142000
+        },
+        {
+          "title": "All Hype, No Heart",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 42000
+        }
+      ]
+    },
+    {
+      "mbid": "853572ff-2837-4066-84ac-f41b92f8d17b",
+      "releaseMbid": "94d4654b-cf91-43fc-98d7-0afbf5da195a",
+      "title": "A History of Bad Decisions",
+      "type": "EP",
+      "releaseDate": "2013-02-19",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/853572ff-2837-4066-84ac-f41b92f8d17b/front-1200",
+      "tracks": [
+        {
+          "title": "Up in Smoke",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 191000
+        },
+        {
+          "title": "Tables Turned",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 208000
+        },
+        {
+          "title": "Head to the Ground",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 160000
+        }
+      ]
+    },
+    {
+      "mbid": "da4a3404-fe89-42f4-aad9-9fa603819584",
+      "releaseMbid": "d080b352-fb1b-46bd-8b14-b8abe4f4fc7c",
+      "title": "Wishful Thinking",
+      "type": "ALBUM",
+      "releaseDate": "2014-01-13",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/da4a3404-fe89-42f4-aad9-9fa603819584/front-1200",
+      "tracks": [
+        {
+          "title": "Losing Teeth",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 179000
+        },
+        {
+          "title": "Crushing Grief (No Remedy)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 176000
+        },
+        {
+          "title": "Staircase Wit",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 190000
+        },
+        {
+          "title": "Damsel in Distress",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 202000
+        },
+        {
+          "title": "Zoltar Speaks",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 176000
+        },
+        {
+          "title": "Growing Pains",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 176000
+        },
+        {
+          "title": "Say What You Want",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 61000
+        },
+        {
+          "title": "Mileage",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 159000
+        },
+        {
+          "title": "Sweet Nothings",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 162000
+        },
+        {
+          "title": "What Did You Expect?",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 196000
+        },
+        {
+          "title": "Blank Pages",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 193000
+        },
+        {
+          "title": "Candour",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 197000
+        }
+      ]
+    },
+    {
+      "mbid": "c8b2c77a-3bf8-453a-9cfa-fc7a060492b7",
+      "releaseMbid": "61f73e3e-2394-4068-9678-1ebe2142f7be",
+      "title": "Life’s Not Out to Get You",
+      "type": "ALBUM",
+      "releaseDate": "2015-08-14",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c8b2c77a-3bf8-453a-9cfa-fc7a060492b7/front-1200",
+      "tracks": [
+        {
+          "title": "Citizens of Earth",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 160000
+        },
+        {
+          "title": "Threat Level Midnight",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 166000
+        },
+        {
+          "title": "Can’t Kick Up the Roots",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 169000
+        },
+        {
+          "title": "Kali Ma",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 170000
+        },
+        {
+          "title": "Gold Steps",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 192000
+        },
+        {
+          "title": "Lime St.",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 199000
+        },
+        {
+          "title": "Serpents",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 165000
+        },
+        {
+          "title": "The Beach Is for Lovers (Not Lonely Losers)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 184000
+        },
+        {
+          "title": "December",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 218000
+        },
+        {
+          "title": "Smooth Seas Don’t Make Good Sailors",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 185000
+        },
+        {
+          "title": "I Hope This Comes Back to Haunt You",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 169000
+        },
+        {
+          "title": "Rock Bottom",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 200000
+        }
+      ]
+    },
+    {
+      "mbid": "dd94e490-a0cb-4dc6-8691-d34a1937bfc1",
+      "releaseMbid": "af787d27-44cd-44d5-9c67-b10565c7521e",
+      "title": "Life’s Not Out To Get You B‐Sides",
+      "type": "EP",
+      "releaseDate": "2015-08-14",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/dd94e490-a0cb-4dc6-8691-d34a1937bfc1/front-1200",
+      "tracks": [
+        {
+          "title": "Can’t Kick Up the Roots (acoustic)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 170000
+        },
+        {
+          "title": "Lime St. (acoustic)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 194000
+        }
+      ]
+    },
+    {
+      "mbid": "366d4bb3-6bbc-493d-87e3-f756ee41c465",
+      "releaseMbid": "40254707-05ea-4d97-8ee0-196d7609ba36",
+      "title": "Serpents",
+      "type": "EP",
+      "releaseDate": "2016-03-18",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/366d4bb3-6bbc-493d-87e3-f756ee41c465/front-1200",
+      "tracks": [
+        {
+          "title": "Serpents (Mark Hoppus remix)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 182000
+        },
+        {
+          "title": "Serpents",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 165000
+        },
+        {
+          "title": "Can’t Kick Up the Roots (Mark Hoppus remix)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 156000
+        },
+        {
+          "title": "Can’t Kick Up the Roots",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 169000
+        }
+      ]
+    },
+    {
+      "mbid": "2f50e9f8-99c9-47ad-966a-a64b81ddd7b4",
+      "releaseMbid": "53735c0d-f6d3-4f65-aaee-8f029769a76f",
+      "title": "The Peace and the Panic",
+      "type": "ALBUM",
+      "releaseDate": "2017-08-17",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/2f50e9f8-99c9-47ad-966a-a64b81ddd7b4/front-1200",
+      "tracks": [
+        {
+          "title": "Motion Sickness",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 206000
+        },
+        {
+          "title": "Happy Judgement Day",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 214000
+        },
+        {
+          "title": "The Grand Delusion",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 208000
+        },
+        {
+          "title": "Parachute",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 222000
+        },
+        {
+          "title": "In Bloom",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 220000
+        },
+        {
+          "title": "Don't Wait",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 198000
+        },
+        {
+          "title": "Critical Mistake",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 197000
+        },
+        {
+          "title": "Wish You Were Here",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 249000
+        },
+        {
+          "title": "Heavy Lies",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 211000
+        },
+        {
+          "title": "19 Seventy Sumthin'",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 239000
+        },
+        {
+          "title": "Where Do We Go When We Go",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 219000
+        }
+      ]
+    },
+    {
+      "mbid": "d1529476-2d0f-4acf-a30b-31ec4e169539",
+      "releaseMbid": "75e704d9-8050-4a3b-8b15-e9c39ce1474e",
+      "title": "All Distortions Are Intentional",
+      "type": "ALBUM",
+      "releaseDate": "2020-07-24",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d1529476-2d0f-4acf-a30b-31ec4e169539/front-1200",
+      "tracks": [
+        {
+          "title": "Sonderland",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 219062
+        },
+        {
+          "title": "Fall",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 214922
+        },
+        {
+          "title": "Lowlife",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 189975
+        },
+        {
+          "title": "Telling Stories",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 199241
+        },
+        {
+          "title": "When You Know",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 189101
+        },
+        {
+          "title": "Quarry",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 86373
+        },
+        {
+          "title": "Sick Joke",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 227520
+        },
+        {
+          "title": "What Took You So Long",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 213269
+        },
+        {
+          "title": "Empty House",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 214422
+        },
+        {
+          "title": "Little Dove",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 184490
+        },
+        {
+          "title": "I Revolve (Around You)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 218059
+        },
+        {
+          "title": "Pushing Daisies",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 223651
+        }
+      ]
+    },
+    {
+      "mbid": "5954eee7-1905-401d-ae40-fe29f71fe169",
+      "releaseMbid": "464b9a64-4be9-488d-b09f-dfb6790a0ee4",
+      "title": "Neck Deep",
+      "type": "ALBUM",
+      "releaseDate": "2024-01-19",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/5954eee7-1905-401d-ae40-fe29f71fe169/front-1200",
+      "tracks": [
+        {
+          "title": "Dumbstruck Dumbf**k",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 178600
+        },
+        {
+          "title": "Sort Yourself Out",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 193933
+        },
+        {
+          "title": "This Is All My Fault",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 189333
+        },
+        {
+          "title": "We Need More Bricks",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 228600
+        },
+        {
+          "title": "Heartbreak of the Century",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 229125
+        },
+        {
+          "title": "Go Outside!",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 187733
+        },
+        {
+          "title": "Take Me With You",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 197320
+        },
+        {
+          "title": "They May Not Mean To (But They Do)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 188480
+        },
+        {
+          "title": "It Won’t Be Like This Forever",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 207809
+        },
+        {
+          "title": "Moody Weirdo",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 197667
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

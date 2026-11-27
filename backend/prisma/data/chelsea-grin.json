@@ -1,0 +1,630 @@
+{
+  "generatedAt": "2026-11-27T13:37:29.690Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "b0acce58-e847-4c9e-bd09-a204b965e74a",
+    "name": "Chelsea Grin",
+    "slug": "chelsea-grin",
+    "type": "BAND",
+    "country": "US",
+    "city": "Salt Lake City",
+    "formedYear": 2007,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/b0acce58-e847-4c9e-bd09-a204b965e74a"
+      }
+    ],
+    "genres": [
+      "deathcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "1e0e4c62-3b75-43ae-bf6e-2ad73088426f",
+      "releaseMbid": "3d557a85-3d01-454f-9142-534608c22465",
+      "title": "Chelsea Grin",
+      "type": "EP",
+      "releaseDate": "2008-07-27",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/1e0e4c62-3b75-43ae-bf6e-2ad73088426f/front-1200",
+      "tracks": [
+        {
+          "title": "Crewcabanger",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 223137
+        },
+        {
+          "title": "Anathema of Sick",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 211226
+        },
+        {
+          "title": "Cheyne Stokes",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 156133
+        },
+        {
+          "title": "Disgrace",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 154801
+        },
+        {
+          "title": "Lifeless",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 139493
+        }
+      ]
+    },
+    {
+      "mbid": "c9a65225-9160-411a-8474-415b5ac5f21f",
+      "releaseMbid": "010946a5-9f2b-4b1e-b91f-e0f4f83a3b59",
+      "title": "Desolation of Eden",
+      "type": "ALBUM",
+      "releaseDate": "2010-02-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c9a65225-9160-411a-8474-415b5ac5f21f/front-1200",
+      "tracks": [
+        {
+          "title": "Judgement",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 71000
+        },
+        {
+          "title": "Desolation of Eden",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 232000
+        },
+        {
+          "title": "False Sense of Sanity",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 165000
+        },
+        {
+          "title": "Sonnet of the Wretched",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 255000
+        },
+        {
+          "title": "Cheyne Stokes",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 170000
+        },
+        {
+          "title": "The Human Condition",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 242000
+        },
+        {
+          "title": "Elysium",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 148000
+        },
+        {
+          "title": "Recreant",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 266000
+        },
+        {
+          "title": "Cast From Perfection",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 163000
+        },
+        {
+          "title": "Revenant",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 252000
+        },
+        {
+          "title": "Wasteland",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 148000
+        }
+      ]
+    },
+    {
+      "mbid": "89532681-7708-4087-b0a3-89808f292d0f",
+      "releaseMbid": "7eaad8e1-2fdf-458c-9b95-67b8a6835a66",
+      "title": "My Damnation",
+      "type": "ALBUM",
+      "releaseDate": "2011-07-19",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/89532681-7708-4087-b0a3-89808f292d0f/front-1200",
+      "tracks": [
+        {
+          "title": "The Foolish One",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 219000
+        },
+        {
+          "title": "Everlasting Sleep",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 198000
+        },
+        {
+          "title": "Behind a Veil of Lies",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 203000
+        },
+        {
+          "title": "Kharon",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 78000
+        },
+        {
+          "title": "My Damnation",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 275000
+        },
+        {
+          "title": "Cursed",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 203000
+        },
+        {
+          "title": "Calling in Silence",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 301000
+        },
+        {
+          "title": "Oblivion",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 215000
+        },
+        {
+          "title": "Last Breath",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 236000
+        },
+        {
+          "title": "All Hail the Fallen King",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 172000
+        }
+      ]
+    },
+    {
+      "mbid": "db526b49-e478-4302-affa-eb4d49db8c28",
+      "releaseMbid": "80775eac-5f47-43a8-b8ff-c7b72e79ab7a",
+      "title": "Evolve",
+      "type": "EP",
+      "releaseDate": "2012-06-19",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/db526b49-e478-4302-affa-eb4d49db8c28/front-1200",
+      "tracks": [
+        {
+          "title": "The Second Coming",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 279973
+        },
+        {
+          "title": "Lilith",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 241773
+        },
+        {
+          "title": "S.H.O.T.",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 202973
+        },
+        {
+          "title": "Confession",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 208946
+        },
+        {
+          "title": "Don’t Ask, Don’t Tell",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 321746
+        }
+      ]
+    },
+    {
+      "mbid": "c3328858-d0ee-4aec-a9f2-cb5bddf65e2e",
+      "releaseMbid": "02e8b4f5-e866-414e-8cbd-d783d1e13769",
+      "title": "Ashes to Ashes",
+      "type": "ALBUM",
+      "releaseDate": "2014-07-08",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c3328858-d0ee-4aec-a9f2-cb5bddf65e2e/front-1200",
+      "tracks": [
+        {
+          "title": "Playing With Fire",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 236000
+        },
+        {
+          "title": "Pledge Allegiance",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 245000
+        },
+        {
+          "title": "Morte Ætérna",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 215000
+        },
+        {
+          "title": "Nightmares",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 312000
+        },
+        {
+          "title": "Illuminate",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 356000
+        },
+        {
+          "title": "Sellout",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 218000
+        },
+        {
+          "title": "Waste Away",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 269000
+        },
+        {
+          "title": "Ashes…",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 77000
+        },
+        {
+          "title": "…To Ashes",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 136000
+        },
+        {
+          "title": "Angels Shall Sin, Demons Shall Pray",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 193000
+        },
+        {
+          "title": "Letters",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 255000
+        },
+        {
+          "title": "Cheers to Us",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 190000
+        },
+        {
+          "title": "Clockwork",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 271000
+        },
+        {
+          "title": "Undying",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 307000
+        },
+        {
+          "title": "Dust to Dust…",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 312000
+        }
+      ]
+    },
+    {
+      "mbid": "834e19f1-59d0-4481-bc29-53f6e06b7177",
+      "releaseMbid": "295a356a-311b-4def-8031-3c5c71cba355",
+      "title": "Self Inflicted",
+      "type": "ALBUM",
+      "releaseDate": "2016-07-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/834e19f1-59d0-4481-bc29-53f6e06b7177/front-1200",
+      "tracks": [
+        {
+          "title": "Welcome Back",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 179000
+        },
+        {
+          "title": "Four Horsemen",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 185000
+        },
+        {
+          "title": "Love Song",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 187000
+        },
+        {
+          "title": "Clickbait",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 195000
+        },
+        {
+          "title": "Skin Deep",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 209000
+        },
+        {
+          "title": "Scratching and Screaming",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 203000
+        },
+        {
+          "title": "Strung Out",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 206000
+        },
+        {
+          "title": "Broken Bonds",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 223000
+        },
+        {
+          "title": "Life Sentence",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 192000
+        },
+        {
+          "title": "Never, Forever",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 240000
+        },
+        {
+          "title": "Say Goodbye",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 239000
+        }
+      ]
+    },
+    {
+      "mbid": "1c79959c-8c90-4828-92a2-04d161179834",
+      "releaseMbid": "8dbbde96-b3ad-4e7b-afde-fc4037f52295",
+      "title": "Eternal Nightmare",
+      "type": "ALBUM",
+      "releaseDate": "2018-07-13",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/1c79959c-8c90-4828-92a2-04d161179834/front-1200",
+      "tracks": [
+        {
+          "title": "Dead Rose",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 212000
+        },
+        {
+          "title": "The Wolf",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 136000
+        },
+        {
+          "title": "Across the Earth",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 233000
+        },
+        {
+          "title": "See You Soon",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 210000
+        },
+        {
+          "title": "930 AM",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 156000
+        },
+        {
+          "title": "Limbs",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 228000
+        },
+        {
+          "title": "Scent of Evil",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 234000
+        },
+        {
+          "title": "Hostage",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 196000
+        },
+        {
+          "title": "Nobody Listened",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 205000
+        },
+        {
+          "title": "Outliers",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 217000
+        },
+        {
+          "title": "Eternal Nightmare",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 184000
+        }
+      ]
+    },
+    {
+      "mbid": "7fa319d9-36f9-4a7b-bdd7-6991d4436451",
+      "releaseMbid": "120890a7-8658-4e64-9d86-d366031057e5",
+      "title": "Suffer in Hell",
+      "type": "ALBUM",
+      "releaseDate": "2022-11-11",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/7fa319d9-36f9-4a7b-bdd7-6991d4436451/front-1200",
+      "tracks": [
+        {
+          "title": "Origin of Sin",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 265891
+        },
+        {
+          "title": "Forever Bloom",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 169775
+        },
+        {
+          "title": "Deathbed Companion",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 231377
+        },
+        {
+          "title": "Crystal Casket",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 188477
+        },
+        {
+          "title": "Flood Lungs",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 201804
+        },
+        {
+          "title": "The Isnis",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 197615
+        },
+        {
+          "title": "Mourning Hymn",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 218461
+        },
+        {
+          "title": "Suffer in Hell, Suffer in Heaven",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 120974
+        }
+      ]
+    },
+    {
+      "mbid": "a46a244b-6332-4689-896c-3da9f4580686",
+      "releaseMbid": "8bf3772a-82bf-4899-949c-d60df6d14725",
+      "title": "Suffer in Heaven",
+      "type": "ALBUM",
+      "releaseDate": "2023-03-17",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a46a244b-6332-4689-896c-3da9f4580686/front-1200",
+      "tracks": [
+        {
+          "title": "Leave With Us",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 246902
+        },
+        {
+          "title": "Orc March",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 236302
+        },
+        {
+          "title": "Fathomless Maw",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 205058
+        },
+        {
+          "title": "Soul Slave",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 131826
+        },
+        {
+          "title": "The Mind of God",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 192755
+        },
+        {
+          "title": "Yhorm the Giant",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 199249
+        },
+        {
+          "title": "Sing to the Grave",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 159417
+        },
+        {
+          "title": "The Path to Suffering",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 247029
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

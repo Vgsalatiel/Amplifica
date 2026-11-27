@@ -1,0 +1,815 @@
+{
+  "generatedAt": "2026-11-27T13:43:15.081Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "674a7e8c-9682-419a-8e05-2358e28b5359",
+    "name": "Underoath",
+    "slug": "underoath",
+    "type": "BAND",
+    "country": "US",
+    "city": "Ocala",
+    "formedYear": 1997,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/674a7e8c-9682-419a-8e05-2358e28b5359"
+      }
+    ],
+    "genres": [
+      "post-hardcore",
+      "metalcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "55e7d06a-dc71-3348-a6bc-1711edbdf2d3",
+      "releaseMbid": "ddd30845-bdb7-4b6b-9b59-3b519265ba00",
+      "title": "Act of Depression",
+      "type": "ALBUM",
+      "releaseDate": "1999-07-04",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/55e7d06a-dc71-3348-a6bc-1711edbdf2d3/front-1200",
+      "tracks": [
+        {
+          "title": "Heart of Stone",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 349813
+        },
+        {
+          "title": "A Love So Pure",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 639186
+        },
+        {
+          "title": "Burden in Your Hands",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 387893
+        },
+        {
+          "title": "Innocence Stolen",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 386506
+        },
+        {
+          "title": "Act of Depression",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 623306
+        },
+        {
+          "title": "Watch Me Die",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 416333
+        },
+        {
+          "title": "[silence]",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 5186
+        },
+        {
+          "title": "[silence]",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 6586
+        },
+        {
+          "title": "[silence]",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 6760
+        },
+        {
+          "title": "[silence]",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 5080
+        },
+        {
+          "title": "[silence]",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 4266
+        },
+        {
+          "title": "[silence]",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 5093
+        },
+        {
+          "title": "[silence]",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 7493
+        },
+        {
+          "title": "[silence]",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 4706
+        },
+        {
+          "title": "[silence]",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 4920
+        },
+        {
+          "title": "[silence]",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 6973
+        },
+        {
+          "title": "Spirit of a Living God",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 547894
+        }
+      ]
+    },
+    {
+      "mbid": "ac16bddb-06d9-307a-8c97-649eb3b33309",
+      "releaseMbid": "182df017-12a5-4836-9780-0f1f4b971f87",
+      "title": "Cries of the Past",
+      "type": "ALBUM",
+      "releaseDate": "2000-07-04",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ac16bddb-06d9-307a-8c97-649eb3b33309/front-1200",
+      "tracks": [
+        {
+          "title": "The Last",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 461666
+        },
+        {
+          "title": "Giving Up Hurts the Most",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 466506
+        },
+        {
+          "title": "Walking Away",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 455960
+        },
+        {
+          "title": "And I Dreamt of You",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 683653
+        },
+        {
+          "title": "Cries of the Past",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 503440
+        }
+      ]
+    },
+    {
+      "mbid": "7c2b42d8-0442-326f-b8ee-a7c7acbde4fe",
+      "releaseMbid": "0ff29220-5ba3-46dd-89f2-9510d29c916a",
+      "title": "The Changing of Times",
+      "type": "ALBUM",
+      "releaseDate": "2002-02-26",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/7c2b42d8-0442-326f-b8ee-a7c7acbde4fe/front-1200",
+      "tracks": [
+        {
+          "title": "When the Sun Sleeps",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 333773
+        },
+        {
+          "title": "Letting Go of Tonight",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 112640
+        },
+        {
+          "title": "A Message for Adrienne",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 277640
+        },
+        {
+          "title": "Never Meant to Break Your Heart",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 235440
+        },
+        {
+          "title": "Changing of Times",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 248026
+        },
+        {
+          "title": "Angel Below",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 203026
+        },
+        {
+          "title": "Best of Me",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 213546
+        },
+        {
+          "title": "Short of Daybreak",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 163400
+        },
+        {
+          "title": "Alone in December",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 312640
+        },
+        {
+          "title": "814 Stops Today",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 48480
+        }
+      ]
+    },
+    {
+      "mbid": "9ce3a510-8748-46c7-b86b-3cff55adec98",
+      "releaseMbid": "2a57b7c0-e994-4bc9-b747-6b7934a10844",
+      "title": "SDII",
+      "type": "ALBUM",
+      "releaseDate": "2003",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Red Hat Society",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 162613
+        },
+        {
+          "title": "Leaving Middle Street",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 137760
+        },
+        {
+          "title": "Heatherwood",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 156386
+        }
+      ]
+    },
+    {
+      "mbid": "e296304f-5d67-381f-a482-676d711f2482",
+      "releaseMbid": "35443311-6619-4744-8c31-192d3480f467",
+      "title": "They’re Only Chasing Safety",
+      "type": "ALBUM",
+      "releaseDate": "2004-06-15",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/e296304f-5d67-381f-a482-676d711f2482/front-1200",
+      "tracks": [
+        {
+          "title": "Young and Aspiring",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 184640
+        },
+        {
+          "title": "A Boy Brushed Red Living in Black and White",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 268000
+        },
+        {
+          "title": "The Impact of Reason",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 203826
+        },
+        {
+          "title": "Reinventing Your Exit",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 262573
+        },
+        {
+          "title": "The Blue Note",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 51293
+        },
+        {
+          "title": "It's Dangerous Business Walking Out Your Front Door",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 238573
+        },
+        {
+          "title": "Down, Set, Go",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 224160
+        },
+        {
+          "title": "I Don’t Feel Very Receptive Today",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 222146
+        },
+        {
+          "title": "I'm Content With Losing",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 235146
+        },
+        {
+          "title": "Some Will Seek Forgiveness, Others Escape",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 261480
+        }
+      ]
+    },
+    {
+      "mbid": "9f9d9f20-2653-32e9-b048-26abbaf227da",
+      "releaseMbid": "b5f31f8c-e72b-448e-ae56-1035bf5d5c9b",
+      "title": "Define the Great Line",
+      "type": "ALBUM",
+      "releaseDate": "2006-03-25",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/9f9d9f20-2653-32e9-b048-26abbaf227da/front-1200",
+      "tracks": [
+        {
+          "title": "In Regards to Myself",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 204213
+        },
+        {
+          "title": "A Moment Suspended in Time",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 239866
+        },
+        {
+          "title": "There Could Be Nothing After This",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 206013
+        },
+        {
+          "title": "You're Ever So Inviting",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 253826
+        },
+        {
+          "title": "Sālmarnir",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 177226
+        },
+        {
+          "title": "Returning Empty Handed",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 267146
+        },
+        {
+          "title": "Casting Such a Thin Shadow",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 373760
+        },
+        {
+          "title": "Moving for the Sake of Motion",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 195480
+        },
+        {
+          "title": "Writing on the Walls",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 242413
+        },
+        {
+          "title": "Everyone Looks So Good From Here",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 176053
+        },
+        {
+          "title": "To Whom It May Concern",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 422773
+        }
+      ]
+    },
+    {
+      "mbid": "1dfe208a-989c-3967-8189-9a94eac3d753",
+      "releaseMbid": "257fc109-3150-431b-8670-39bec0b62e08",
+      "title": "Lost in the Sound of Separation",
+      "type": "ALBUM",
+      "releaseDate": "2008-09-02",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/1dfe208a-989c-3967-8189-9a94eac3d753/front-1200",
+      "tracks": [
+        {
+          "title": "Breathing in a New Mentality",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 157440
+        },
+        {
+          "title": "Anyone Can Dig a Hole but It Takes a Real Man to Call It Home",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 196426
+        },
+        {
+          "title": "A Fault Line, a Fault of Mine",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 201546
+        },
+        {
+          "title": "Emergency Broadcast… The End Is Near",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 344173
+        },
+        {
+          "title": "The Only Survivor Was Miraculously Unharmed",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 188946
+        },
+        {
+          "title": "We Are the Involuntary",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 249813
+        },
+        {
+          "title": "The Created Void",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 242146
+        },
+        {
+          "title": "Coming Down Is Calming Down",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 195240
+        },
+        {
+          "title": "Desperate Times, Desperate Measures",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 207573
+        },
+        {
+          "title": "Too Bright to See, Too Loud to Hear",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 270853
+        },
+        {
+          "title": "Desolate Earth… The End Is Here",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 247226
+        }
+      ]
+    },
+    {
+      "mbid": "c6421d28-15df-40db-aa10-5cd816a3e422",
+      "releaseMbid": "bea561b8-1c64-4a71-9264-e1302a85dc2c",
+      "title": "Ø (Disambiguation)",
+      "type": "ALBUM",
+      "releaseDate": "2010-11-09",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c6421d28-15df-40db-aa10-5cd816a3e422/front-1200",
+      "tracks": [
+        {
+          "title": "In Division",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 238000
+        },
+        {
+          "title": "Catch Myself Catching Myself",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 209000
+        },
+        {
+          "title": "Paper Lung",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 251000
+        },
+        {
+          "title": "Illuminator",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 188000
+        },
+        {
+          "title": "Driftwood",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 180000
+        },
+        {
+          "title": "A Divine Eradication",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 196000
+        },
+        {
+          "title": "Who Will Guard the Guardians",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 232000
+        },
+        {
+          "title": "Reversal",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 103000
+        },
+        {
+          "title": "Vacant Mouth",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 233000
+        },
+        {
+          "title": "My Deteriorating Incline",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 213000
+        },
+        {
+          "title": "In Completion",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 260000
+        }
+      ]
+    },
+    {
+      "mbid": "f8633e0e-13fa-43ad-aa73-eb05d20adfbf",
+      "releaseMbid": "82dd0fd4-1153-46e8-9bd7-2ba5456e712a",
+      "title": "Erase Me",
+      "type": "ALBUM",
+      "releaseDate": "2018-04-06",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f8633e0e-13fa-43ad-aa73-eb05d20adfbf/front-1200",
+      "tracks": [
+        {
+          "title": "It Has to Start Somewhere",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 191202
+        },
+        {
+          "title": "Rapture",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 214989
+        },
+        {
+          "title": "On My Teeth",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 190846
+        },
+        {
+          "title": "Wake Me",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 220014
+        },
+        {
+          "title": "Bloodlust",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 212624
+        },
+        {
+          "title": "Sink With You",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 284745
+        },
+        {
+          "title": "Ihateit",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 207726
+        },
+        {
+          "title": "Hold Your Breath",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 209477
+        },
+        {
+          "title": "No Frame",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 226023
+        },
+        {
+          "title": "In Motion",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 215170
+        },
+        {
+          "title": "I Gave Up",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 242676
+        }
+      ]
+    },
+    {
+      "mbid": "e1eb5fa6-9d5a-41bb-bcef-85b3a5fad412",
+      "releaseMbid": "0b97f4c8-283a-44c5-ac76-43b61e3661b8",
+      "title": "Voyeurist",
+      "type": "ALBUM",
+      "releaseDate": "2022-01-14",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/e1eb5fa6-9d5a-41bb-bcef-85b3a5fad412/front-1200",
+      "tracks": [
+        {
+          "title": "Damn Excuses",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 157000
+        },
+        {
+          "title": "Hallelujah",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 181000
+        },
+        {
+          "title": "I’m Pretty Sure I’m Out of Luck and Have No Friends",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 225000
+        },
+        {
+          "title": "Cycle",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 253000
+        },
+        {
+          "title": "Thorn",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 276000
+        },
+        {
+          "title": "(No Oasis)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 169000
+        },
+        {
+          "title": "Take a Breath",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 206000
+        },
+        {
+          "title": "We’re All Gonna Die",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 199000
+        },
+        {
+          "title": "Numb",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 221000
+        },
+        {
+          "title": "Pneumonia",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 432000
+        }
+      ]
+    },
+    {
+      "mbid": "cf80cd1a-f686-4eb3-ad27-c359b26c2d53",
+      "releaseMbid": "6d74e780-e6b2-4763-972c-9544f3e9f61b",
+      "title": "The Place After This One",
+      "type": "ALBUM",
+      "releaseDate": "2025-03-28",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/cf80cd1a-f686-4eb3-ad27-c359b26c2d53/front-1200",
+      "tracks": [
+        {
+          "title": "Generation No Surrender",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 167573
+        },
+        {
+          "title": "Devil",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 231413
+        },
+        {
+          "title": "Loss",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 181026
+        },
+        {
+          "title": "Survivor’s Guilt",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 198413
+        },
+        {
+          "title": "All the Love Is Gone",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 182653
+        },
+        {
+          "title": "And Then There Was Nothing",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 127813
+        },
+        {
+          "title": "Teeth",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 157800
+        },
+        {
+          "title": "Shame",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 175453
+        },
+        {
+          "title": "Spinning in Place",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 146000
+        },
+        {
+          "title": "Vultures",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 173626
+        },
+        {
+          "title": "Cannibal",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 201346
+        },
+        {
+          "title": "Outsider",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 259200
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

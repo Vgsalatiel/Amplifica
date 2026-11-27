@@ -1,0 +1,382 @@
+{
+  "generatedAt": "2026-11-27T13:50:23.532Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "09037f07-42bc-46ac-a1ee-37f834451fee",
+    "name": "Minor Threat",
+    "slug": "minor-threat",
+    "type": "BAND",
+    "country": "US",
+    "city": "Washington, D.C.",
+    "formedYear": 1980,
+    "disbandedYear": 1983,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/09037f07-42bc-46ac-a1ee-37f834451fee"
+      }
+    ],
+    "genres": [
+      "hardcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "b589806a-ceda-3f6e-b294-64c2fd78ead4",
+      "releaseMbid": "724eee1e-69b9-42c7-a10e-ed9f1fc2aa95",
+      "title": "Minor Threat",
+      "type": "EP",
+      "releaseDate": "1981-06",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b589806a-ceda-3f6e-b294-64c2fd78ead4/front-1200",
+      "tracks": [
+        {
+          "title": "Filler",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 92000
+        },
+        {
+          "title": "I Don't Wanna Hear It",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 73000
+        },
+        {
+          "title": "Seeing Red",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 62000
+        },
+        {
+          "title": "Straight Edge",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 45000
+        },
+        {
+          "title": "Small Man, Big Mouth",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 55000
+        },
+        {
+          "title": "Screaming at a Wall",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 91000
+        },
+        {
+          "title": "Bottled Violence",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 53000
+        },
+        {
+          "title": "Minor Threat",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 87000
+        }
+      ]
+    },
+    {
+      "mbid": "3c908a48-f662-3910-ba29-6a0d3315398b",
+      "releaseMbid": "c4ef206f-bbaf-4f15-9a97-048cfcf9feae",
+      "title": "In My Eyes",
+      "type": "EP",
+      "releaseDate": "1981-12",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/3c908a48-f662-3910-ba29-6a0d3315398b/front-1200",
+      "tracks": [
+        {
+          "title": "In My Eyes",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 169000
+        },
+        {
+          "title": "Out of Step",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 76000
+        },
+        {
+          "title": "Guilty of Being White",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 78000
+        },
+        {
+          "title": "Steppin' Stone",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 132000
+        }
+      ]
+    },
+    {
+      "mbid": "db4d417f-8295-3843-829d-2b8c0b649517",
+      "releaseMbid": "2c217b98-5b71-4710-a5d2-d274ff2c6824",
+      "title": "Out of Step",
+      "type": "ALBUM",
+      "releaseDate": "1983",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/db4d417f-8295-3843-829d-2b8c0b649517/front-1200",
+      "tracks": [
+        {
+          "title": "Betray",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 184000
+        },
+        {
+          "title": "It Follows",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 110000
+        },
+        {
+          "title": "Think Again",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 138000
+        },
+        {
+          "title": "Look Back and Laugh",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 196000
+        },
+        {
+          "title": "Sob Story",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 110000
+        },
+        {
+          "title": "No Reason",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 117000
+        },
+        {
+          "title": "Little Friend",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 138000
+        },
+        {
+          "title": "Out of Step",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 80000
+        },
+        {
+          "title": "Cashing In",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 223000
+        }
+      ]
+    },
+    {
+      "mbid": "29444500-c97f-32d1-9652-41e565779d5f",
+      "releaseMbid": "5ede5854-8fd5-4370-9880-7581976408c2",
+      "title": "Salad Days",
+      "type": "EP",
+      "releaseDate": "1985-04",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/29444500-c97f-32d1-9652-41e565779d5f/front-1200",
+      "tracks": [
+        {
+          "title": "Salad Days",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 164000
+        },
+        {
+          "title": "Stumped",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 115000
+        },
+        {
+          "title": "Good Guys",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 134000
+        }
+      ]
+    },
+    {
+      "mbid": "800ca06b-3cbe-3807-ad00-6034788773a1",
+      "releaseMbid": "8fb3ccd8-c8e8-49ee-8cbc-85646136dc1b",
+      "title": "Complete Discography",
+      "type": "COMPILATION",
+      "releaseDate": "1989",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/800ca06b-3cbe-3807-ad00-6034788773a1/front-1200",
+      "tracks": [
+        {
+          "title": "Filler",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 92693
+        },
+        {
+          "title": "I Don’t Wanna Hear It",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 73666
+        },
+        {
+          "title": "Seeing Red",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 62840
+        },
+        {
+          "title": "Straight Edge",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 45493
+        },
+        {
+          "title": "Small Man, Big Mouth",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 55440
+        },
+        {
+          "title": "Screaming at a Wall",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 91493
+        },
+        {
+          "title": "Bottled Violence",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 53573
+        },
+        {
+          "title": "Minor Threat",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 87693
+        },
+        {
+          "title": "Stand Up",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 53933
+        },
+        {
+          "title": "12XU",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 63840
+        },
+        {
+          "title": "In My Eyes",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 169093
+        },
+        {
+          "title": "Out of Step (With the World)",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 76000
+        },
+        {
+          "title": "Guilty of Being White",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 78133
+        },
+        {
+          "title": "Steppin’ Stone",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 132200
+        },
+        {
+          "title": "Betray",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 182573
+        },
+        {
+          "title": "It Follows",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 110533
+        },
+        {
+          "title": "Think Again",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 138466
+        },
+        {
+          "title": "Look Back and Laugh",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 196733
+        },
+        {
+          "title": "Sob Story",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 110933
+        },
+        {
+          "title": "No Reason",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 117800
+        },
+        {
+          "title": "Little Friend",
+          "discNumber": 1,
+          "position": 21,
+          "durationMs": 138360
+        },
+        {
+          "title": "Out of Step",
+          "discNumber": 1,
+          "position": 22,
+          "durationMs": 80773
+        },
+        {
+          "title": "Cashing In",
+          "discNumber": 1,
+          "position": 23,
+          "durationMs": 224400
+        },
+        {
+          "title": "Stumped",
+          "discNumber": 1,
+          "position": 24,
+          "durationMs": 115293
+        },
+        {
+          "title": "Good Guys (Don’t Wear White)",
+          "discNumber": 1,
+          "position": 25,
+          "durationMs": 134906
+        },
+        {
+          "title": "Salad Days",
+          "discNumber": 1,
+          "position": 26,
+          "durationMs": 163694
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

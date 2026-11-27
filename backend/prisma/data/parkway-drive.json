@@ -1,0 +1,773 @@
+{
+  "generatedAt": "2026-11-27T13:34:24.133Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "a436dd02-0549-4c91-b608-df451217fdeb",
+    "name": "Parkway Drive",
+    "slug": "parkway-drive",
+    "type": "BAND",
+    "country": "AU",
+    "city": "Byron Bay",
+    "formedYear": 2003,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/a436dd02-0549-4c91-b608-df451217fdeb"
+      }
+    ],
+    "genres": [
+      "metalcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "5e555baf-a23b-3ec0-bb77-28f933ff16ad",
+      "releaseMbid": "dd14b379-8521-44d1-bc81-4fd28fa8fcfa",
+      "title": "I Killed the Prom Queen and Parkway Drive: Split CD",
+      "type": "EP",
+      "releaseDate": "2003",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/5e555baf-a23b-3ec0-bb77-28f933ff16ad/front-1200",
+      "tracks": [
+        {
+          "title": "Homicide Documentaries",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 240000
+        },
+        {
+          "title": "Death Certificate of a Beauty Queen",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 250000
+        },
+        {
+          "title": "I Watched",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 212000
+        },
+        {
+          "title": "Swallowing Razorblades",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 254000
+        }
+      ]
+    },
+    {
+      "mbid": "1d794b83-bc2a-3d44-acfe-41423d569038",
+      "releaseMbid": "8b35765d-4134-4abb-bfeb-ac6a5a6ce6d0",
+      "title": "Don’t Close Your Eyes",
+      "type": "EP",
+      "releaseDate": "2004-03",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/1d794b83-bc2a-3d44-acfe-41423d569038/front-1200",
+      "tracks": [
+        {
+          "title": "…",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 72893
+        },
+        {
+          "title": "Smoke ’Em If Ya Got ’Em",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 225360
+        },
+        {
+          "title": "Dead Dreams",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 200520
+        },
+        {
+          "title": "Flesh, Bone and Weakness",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 313120
+        },
+        {
+          "title": "The Cruise",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 116746
+        },
+        {
+          "title": "You’re Over",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 196533
+        },
+        {
+          "title": "Looks Like Yoda",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 175866
+        },
+        {
+          "title": "Don’t Close Your Eyes",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 281960
+        }
+      ]
+    },
+    {
+      "mbid": "6134be33-cee1-3bb0-a219-f1d38a668021",
+      "releaseMbid": "cce39342-31fe-4e87-903f-6dfc1ab5d646",
+      "title": "Killing With a Smile",
+      "type": "ALBUM",
+      "releaseDate": "2005-09-12",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/6134be33-cee1-3bb0-a219-f1d38a668021/front-1200",
+      "tracks": [
+        {
+          "title": "Gimme a D",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 211000
+        },
+        {
+          "title": "Anasasis (Xenophontis)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 211000
+        },
+        {
+          "title": "Pandora",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 238000
+        },
+        {
+          "title": "Romance Is Dead",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 318000
+        },
+        {
+          "title": "Guns for Show, Knives for a Pro",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 164000
+        },
+        {
+          "title": "Blackout",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 163000
+        },
+        {
+          "title": "Picture Perfect, Pathetic",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 163000
+        },
+        {
+          "title": "It’s Hard to Speak Without a Tongue",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 253000
+        },
+        {
+          "title": "Mutiny",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 196000
+        },
+        {
+          "title": "Smoke ’Em If Ya Got ’Em",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 220000
+        },
+        {
+          "title": "A Cold Day in Hell",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 240000
+        }
+      ]
+    },
+    {
+      "mbid": "6d45b99e-137c-3e30-9b69-4e399fbc76f3",
+      "releaseMbid": "6ae46b03-cb20-4db4-afdd-dcc660da1276",
+      "title": "Horizons",
+      "type": "ALBUM",
+      "releaseDate": "2007-10-06",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/6d45b99e-137c-3e30-9b69-4e399fbc76f3/front-1200",
+      "tracks": [
+        {
+          "title": "Begin",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 48560
+        },
+        {
+          "title": "The Sirens’ Song",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 184853
+        },
+        {
+          "title": "Feed Them to the Pigs",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 155013
+        },
+        {
+          "title": "Carrion",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 187960
+        },
+        {
+          "title": "Five Months",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 242053
+        },
+        {
+          "title": "Boneyards",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 195746
+        },
+        {
+          "title": "Idols and Anchors",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 228226
+        },
+        {
+          "title": "Moments in Oblivion",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 103146
+        },
+        {
+          "title": "Breaking Point",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 218120
+        },
+        {
+          "title": "Dead Man’s Chest",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 201653
+        },
+        {
+          "title": "Frostbite",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 215346
+        },
+        {
+          "title": "Horizons",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 339000
+        }
+      ]
+    },
+    {
+      "mbid": "a05f5473-7bfe-4258-9e92-fe05c5196679",
+      "releaseMbid": "4edf1492-cd7e-4aee-83d1-54e583d17958",
+      "title": "Deep Blue",
+      "type": "ALBUM",
+      "releaseDate": "2010-06-05",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a05f5473-7bfe-4258-9e92-fe05c5196679/front-1200",
+      "tracks": [
+        {
+          "title": "Samsara",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 105626
+        },
+        {
+          "title": "Unrest",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 139466
+        },
+        {
+          "title": "Sleepwalker",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 241040
+        },
+        {
+          "title": "Wreckage",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 201040
+        },
+        {
+          "title": "Deadweight",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 227320
+        },
+        {
+          "title": "Alone",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 270653
+        },
+        {
+          "title": "Pressures",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 202826
+        },
+        {
+          "title": "Deliver Me",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 253853
+        },
+        {
+          "title": "Karma",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 229173
+        },
+        {
+          "title": "Home Is for the Heartless",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 248440
+        },
+        {
+          "title": "Hollow",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 180600
+        },
+        {
+          "title": "Leviathan I",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 229533
+        },
+        {
+          "title": "Set to Destroy",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 94106
+        }
+      ]
+    },
+    {
+      "mbid": "f87ef4ff-bf55-4cba-8556-c76f7cd68a76",
+      "releaseMbid": "45ea4f69-8770-4bdc-9b6a-0a0f63c748b4",
+      "title": "Atlas",
+      "type": "ALBUM",
+      "releaseDate": "2012-10-26",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f87ef4ff-bf55-4cba-8556-c76f7cd68a76/front-1200",
+      "tracks": [
+        {
+          "title": "Sparks",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 138360
+        },
+        {
+          "title": "Old Ghost / New Regrets",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 169960
+        },
+        {
+          "title": "Dream Run",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 248506
+        },
+        {
+          "title": "Wild Eyes",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 258586
+        },
+        {
+          "title": "Dark Days",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 245400
+        },
+        {
+          "title": "The River",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 327013
+        },
+        {
+          "title": "Swing",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 211733
+        },
+        {
+          "title": "The Slow Surrender",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 254080
+        },
+        {
+          "title": "Atlas",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 248520
+        },
+        {
+          "title": "Sleight of Hand",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 267226
+        },
+        {
+          "title": "Snake Oil and Holy Water",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 168746
+        },
+        {
+          "title": "Blue and the Grey",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 347400
+        }
+      ]
+    },
+    {
+      "mbid": "a2c8333b-cd2b-41a5-8cd2-fa4948762db8",
+      "releaseMbid": "f8cb5fee-8366-43c5-b8a4-f4dcdb1b6799",
+      "title": "Ire",
+      "type": "ALBUM",
+      "releaseDate": "2015-09-10",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a2c8333b-cd2b-41a5-8cd2-fa4948762db8/front-1200",
+      "tracks": [
+        {
+          "title": "Destroyer",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 287000
+        },
+        {
+          "title": "Dying to Believe",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 193000
+        },
+        {
+          "title": "Vice Grip",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 264000
+        },
+        {
+          "title": "Crushed",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 276000
+        },
+        {
+          "title": "Fractures",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 333000
+        },
+        {
+          "title": "Writings on the Wall",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 264000
+        },
+        {
+          "title": "Bottom Feeder",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 260000
+        },
+        {
+          "title": "The Sound of Violence",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": 205000
+        },
+        {
+          "title": "Vicious",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": 262000
+        },
+        {
+          "title": "Dedicated",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": 203000
+        },
+        {
+          "title": "A Deathless Song",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": 354000
+        }
+      ]
+    },
+    {
+      "mbid": "3225c7e2-4fd1-4d85-b4c2-61847cef9136",
+      "releaseMbid": "70d41b0f-d5b3-487c-92eb-b802a0d50388",
+      "title": "Reverence",
+      "type": "ALBUM",
+      "releaseDate": "2018-05-04",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/3225c7e2-4fd1-4d85-b4c2-61847cef9136/front-1200",
+      "tracks": [
+        {
+          "title": "Wishing Wells",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 303000
+        },
+        {
+          "title": "Prey",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 255000
+        },
+        {
+          "title": "Absolute Power",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 222000
+        },
+        {
+          "title": "Cemetery Bloom",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 190000
+        },
+        {
+          "title": "The Void",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 233000
+        },
+        {
+          "title": "I Hope You Rot",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 290000
+        },
+        {
+          "title": "Shadow Boxing",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 230000
+        },
+        {
+          "title": "In Blood",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 260000
+        },
+        {
+          "title": "Chronos",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 380000
+        },
+        {
+          "title": "The Colour of Leaving",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 199000
+        }
+      ]
+    },
+    {
+      "mbid": "8144fc22-2e91-4223-8b78-b104590a0e9c",
+      "releaseMbid": "0c53f751-1af7-4ac1-bad6-105ed24f28db",
+      "title": "Viva the Underdogs",
+      "type": "LIVE",
+      "releaseDate": "2020-03-27",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/8144fc22-2e91-4223-8b78-b104590a0e9c/front-1200",
+      "tracks": [
+        {
+          "title": "Prey",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 283520
+        },
+        {
+          "title": "Carrion",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 204853
+        },
+        {
+          "title": "Karma",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 267253
+        },
+        {
+          "title": "The Void",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 289800
+        },
+        {
+          "title": "Idols and Anchors",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 271880
+        },
+        {
+          "title": "Dedicated",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 220626
+        },
+        {
+          "title": "Absolute Power",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 262066
+        },
+        {
+          "title": "Wild Eyes",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 317680
+        },
+        {
+          "title": "Chronos",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 470720
+        },
+        {
+          "title": "Crushed",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 326373
+        },
+        {
+          "title": "Bottom Feeder",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 389893
+        },
+        {
+          "title": "Würgegriff (Vice Grip)",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 265146
+        },
+        {
+          "title": "Die Leere (The Void)",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 233706
+        },
+        {
+          "title": "Schattenboxen (Shadow Boxing)",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 230373
+        }
+      ]
+    },
+    {
+      "mbid": "72185e1e-a156-4f05-b8f1-3817c1684288",
+      "releaseMbid": "3624cd2b-693f-42f3-a51f-0d72ff4b74df",
+      "title": "Darker Still",
+      "type": "ALBUM",
+      "releaseDate": "2022-09-09",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/72185e1e-a156-4f05-b8f1-3817c1684288/front-1200",
+      "tracks": [
+        {
+          "title": "Ground Zero",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 249000
+        },
+        {
+          "title": "Like Napalm",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 225000
+        },
+        {
+          "title": "Glitch",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 261812
+        },
+        {
+          "title": "The Greatest Fear",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 328743
+        },
+        {
+          "title": "Darker Still",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 411000
+        },
+        {
+          "title": "Imperial Heretic",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 290000
+        },
+        {
+          "title": "If a God Can Bleed",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 161000
+        },
+        {
+          "title": "Soul Bleach",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 212000
+        },
+        {
+          "title": "Stranger",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 51000
+        },
+        {
+          "title": "Land of the Lost",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 300000
+        },
+        {
+          "title": "From the Heart of the Darkness",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 309000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

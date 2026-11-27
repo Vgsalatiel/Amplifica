@@ -1,0 +1,594 @@
+{
+  "generatedAt": "2026-11-27T13:36:14.250Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "b7e442b4-30cd-4bd2-9238-032e74f7807d",
+    "name": "Currents",
+    "slug": "currents",
+    "type": "BAND",
+    "country": "US",
+    "city": "Newtown",
+    "formedYear": 2012,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/b7e442b4-30cd-4bd2-9238-032e74f7807d"
+      }
+    ],
+    "genres": [
+      "metalcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "cf9c3c3e-0be3-40e9-9336-db0582562f18",
+      "releaseMbid": "0b249398-3f22-4840-8849-cdc16da5ea79",
+      "title": "Victimized",
+      "type": "EP",
+      "releaseDate": "2013-01-20",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/cf9c3c3e-0be3-40e9-9336-db0582562f18/front-1200",
+      "tracks": [
+        {
+          "title": "Victimized",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 193595
+        },
+        {
+          "title": "Solace",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 273660
+        },
+        {
+          "title": "Hanging By a Thread",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 228155
+        },
+        {
+          "title": "My Promise Kept",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 251482
+        },
+        {
+          "title": "A Confession",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 205324
+        }
+      ]
+    },
+    {
+      "mbid": "74159359-0a9f-4fd1-b12d-832d5a492f96",
+      "releaseMbid": "614adb57-0132-4982-bbe2-9951dc8b6f11",
+      "title": "Life // Lost",
+      "type": "EP",
+      "releaseDate": "2015-02-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/74159359-0a9f-4fd1-b12d-832d5a492f96/front-1200",
+      "tracks": [
+        {
+          "title": "Anxiety",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 231000
+        },
+        {
+          "title": "Sleep Paralysis",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 232000
+        },
+        {
+          "title": "Heathen",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 228000
+        },
+        {
+          "title": "Rose",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 246000
+        },
+        {
+          "title": "Life // Lost",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 193000
+        },
+        {
+          "title": "Stillborn",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 222000
+        },
+        {
+          "title": "Euphoria",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 225000
+        },
+        {
+          "title": "Derelict",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 217000
+        }
+      ]
+    },
+    {
+      "mbid": "d6e42ade-7fdf-4125-8536-640bad33abe9",
+      "releaseMbid": "24339a43-08f0-4ac6-bd57-0dee3b67cd12",
+      "title": "The Place I Feel Safest",
+      "type": "ALBUM",
+      "releaseDate": "2017-06-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d6e42ade-7fdf-4125-8536-640bad33abe9/front-1200",
+      "tracks": [
+        {
+          "title": "Apnea",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 205000
+        },
+        {
+          "title": "Tremor",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 199000
+        },
+        {
+          "title": "Night Terrors",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 225000
+        },
+        {
+          "title": "Delusion",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 242000
+        },
+        {
+          "title": "Withered",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 226000
+        },
+        {
+          "title": "Dreamer",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 205000
+        },
+        {
+          "title": "Forget Me",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 253000
+        },
+        {
+          "title": "The Place I Feel Safest",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 232000
+        },
+        {
+          "title": "Silence",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 247000
+        },
+        {
+          "title": "Best Memory",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 265000
+        },
+        {
+          "title": "Another Life",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 204000
+        },
+        {
+          "title": "I’m Not Waiting",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 238000
+        },
+        {
+          "title": "Shattered",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 277000
+        }
+      ]
+    },
+    {
+      "mbid": "88857d8d-1438-4e9e-950c-62c4437b0053",
+      "releaseMbid": "8b02102c-283e-4f58-9d33-6865d4e103ef",
+      "title": "I Let the Devil In",
+      "type": "EP",
+      "releaseDate": "2018-12-14",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/88857d8d-1438-4e9e-950c-62c4437b0053/front-1200",
+      "tracks": [
+        {
+          "title": "Into Despair",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 232261
+        },
+        {
+          "title": "My Disguise",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 261248
+        },
+        {
+          "title": "Feel the Same",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 218702
+        },
+        {
+          "title": "The Rope",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 218864
+        },
+        {
+          "title": "Forever Marked",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 231563
+        },
+        {
+          "title": "Into Despair (Instrumental)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 232261
+        },
+        {
+          "title": "My Disguise (Instrumental)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 261248
+        },
+        {
+          "title": "Feel the Same (Instrumental)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 218702
+        },
+        {
+          "title": "The Rope (Instrumental)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 218864
+        },
+        {
+          "title": "Forever Marked (Instrumental)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 231563
+        }
+      ]
+    },
+    {
+      "mbid": "4f71dccf-cdd7-4a77-b5ea-259b8ddd897d",
+      "releaseMbid": "8baa85d8-c203-4797-948b-ee28efef34f9",
+      "title": "The Way It Ends",
+      "type": "ALBUM",
+      "releaseDate": "2020-06-05",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4f71dccf-cdd7-4a77-b5ea-259b8ddd897d/front-1200",
+      "tracks": [
+        {
+          "title": "Never There",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 109360
+        },
+        {
+          "title": "A Flag to Wave",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 214466
+        },
+        {
+          "title": "Poverty of Self",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 205680
+        },
+        {
+          "title": "Monsters",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 212306
+        },
+        {
+          "title": "Kill the Ache",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 233346
+        },
+        {
+          "title": "Let Me Leave",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 201013
+        },
+        {
+          "title": "Origin",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 244773
+        },
+        {
+          "title": "Split",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 185680
+        },
+        {
+          "title": "Second Skin",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 225306
+        },
+        {
+          "title": "How I Fall Apart",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 251240
+        },
+        {
+          "title": "Better Days",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 248546
+        }
+      ]
+    },
+    {
+      "mbid": "bb6ba0e2-d704-41f2-a94f-972f380c02c7",
+      "releaseMbid": "2ee960bc-d004-4582-8918-33d9be015dbd",
+      "title": "The Death We Seek",
+      "type": "ALBUM",
+      "releaseDate": "2023-05-05",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/bb6ba0e2-d704-41f2-a94f-972f380c02c7/front-1200",
+      "tracks": [
+        {
+          "title": "The Death We Seek",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 246000
+        },
+        {
+          "title": "Living in Tragedy",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 244000
+        },
+        {
+          "title": "Unfamiliar",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 224000
+        },
+        {
+          "title": "So Alone",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 239000
+        },
+        {
+          "title": "Over and Over",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 248000
+        },
+        {
+          "title": "Beyond This Road",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 249000
+        },
+        {
+          "title": "Vengeance",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 230000
+        },
+        {
+          "title": "Gone Astray",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 218000
+        },
+        {
+          "title": "Remember Me",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 244000
+        },
+        {
+          "title": "Guide Us Home",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 251000
+        }
+      ]
+    },
+    {
+      "mbid": "a8ad0fb8-2a13-4f58-9116-f5a7838a8a84",
+      "releaseMbid": "6d7fcc40-970e-485b-a525-876f74bf4ab2",
+      "title": "All That Follows",
+      "type": "EP",
+      "releaseDate": "2025-10-31",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a8ad0fb8-2a13-4f58-9116-f5a7838a8a84/front-1200",
+      "tracks": [
+        {
+          "title": "It Only Gets Darker",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 271350
+        },
+        {
+          "title": "My Severance",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 221645
+        },
+        {
+          "title": "Making Circles",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 264417
+        },
+        {
+          "title": "Can’t Turn Back",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 234643
+        },
+        {
+          "title": "Rise & Fall",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 209153
+        }
+      ]
+    },
+    {
+      "mbid": "4aa6ceb6-0952-4c8d-a945-50193a831485",
+      "releaseMbid": "6caffebd-6e51-46d2-b39c-6aa2ee56018a",
+      "title": "Worlds Away",
+      "type": "EP",
+      "releaseDate": "2026-09-18",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4aa6ceb6-0952-4c8d-a945-50193a831485/front-1200",
+      "tracks": [
+        {
+          "title": "Let Me Leave (Reimagined)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 176663
+        },
+        {
+          "title": "Kill the Ache (Reimagined)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 227900
+        },
+        {
+          "title": "Guide Us Home (Reimagined)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 252797
+        },
+        {
+          "title": "Remember Me (Reimagined)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 237113
+        },
+        {
+          "title": "Unfamiliar (Reimagined)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 235118
+        }
+      ]
+    },
+    {
+      "mbid": "f04b35db-4c73-4eb3-8d0b-9072734cd88b",
+      "releaseMbid": "0baf32b6-6504-4e85-a8a1-841ea4d6a5b3",
+      "title": "Our Fates Lie in Tandem",
+      "type": "ALBUM",
+      "releaseDate": "2027-02-12",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f04b35db-4c73-4eb3-8d0b-9072734cd88b/front-1200",
+      "tracks": [
+        {
+          "title": "A Wound That Never Heals",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 230000
+        },
+        {
+          "title": "On Your Own",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 229000
+        },
+        {
+          "title": "Retributioner",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 262000
+        },
+        {
+          "title": "Lost",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 236000
+        },
+        {
+          "title": "Eyes for Eyes",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 263000
+        },
+        {
+          "title": "Broken Frame",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 250000
+        },
+        {
+          "title": "Reset the Sun",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 255000
+        },
+        {
+          "title": "Zero",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 246000
+        },
+        {
+          "title": "A Way Out",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 232000
+        },
+        {
+          "title": "Absence",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 213000
+        },
+        {
+          "title": "Looking at You",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 289000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

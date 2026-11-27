@@ -1,0 +1,623 @@
+{
+  "generatedAt": "2026-11-27T14:00:37.681Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "7b748dac-f5ce-45a7-9b95-c1d8b5b013ed",
+    "name": "Turnstile",
+    "slug": "turnstile",
+    "type": "BAND",
+    "country": "US",
+    "city": "Baltimore",
+    "formedYear": 2010,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/7b748dac-f5ce-45a7-9b95-c1d8b5b013ed"
+      }
+    ],
+    "genres": [
+      "hardcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "0d06c1eb-92ea-4c3d-92bf-31684162b821",
+      "releaseMbid": "08abfd0f-284c-4507-927e-73fbc44d286c",
+      "title": "Pressure to Succeed",
+      "type": "EP",
+      "releaseDate": "2011-04-26",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0d06c1eb-92ea-4c3d-92bf-31684162b821/front-1200",
+      "tracks": [
+        {
+          "title": "Death Grip",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 190000
+        },
+        {
+          "title": "The Dream",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 103000
+        },
+        {
+          "title": "New Rules",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 156000
+        },
+        {
+          "title": "Pressure To Succeed",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 193000
+        },
+        {
+          "title": "The Things You Do",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 63000
+        },
+        {
+          "title": "Heavy Hand",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 175000
+        }
+      ]
+    },
+    {
+      "mbid": "0c24c8da-a754-4285-9032-7c821a84bf07",
+      "releaseMbid": "42dbaa37-f2c0-4582-b3a7-8fe72cd72bad",
+      "title": "Step 2 Rhythm",
+      "type": "EP",
+      "releaseDate": "2013-04-02",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0c24c8da-a754-4285-9032-7c821a84bf07/front-1200",
+      "tracks": [
+        {
+          "title": "7",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Keep It Moving",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Canned Heat",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Pushing Me Away",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Better Way",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Snaked",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Step to Rhythm",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "5a4e516b-dbdc-423a-a0f5-87c23cfa3d26",
+      "releaseMbid": "82c2a361-9c72-4519-b1b0-7a73aaa6db70",
+      "title": "Nonstop Feeling",
+      "type": "ALBUM",
+      "releaseDate": "2015-01-10",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/5a4e516b-dbdc-423a-a0f5-87c23cfa3d26/front-1200",
+      "tracks": [
+        {
+          "title": "Gravity",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 190386
+        },
+        {
+          "title": "Drop",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 96586
+        },
+        {
+          "title": "Fazed Out",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 172026
+        },
+        {
+          "title": "Can’t Deny It",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 164466
+        },
+        {
+          "title": "Bleach Temple",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 114133
+        },
+        {
+          "title": "Bad Wave",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 136720
+        },
+        {
+          "title": "Blue by You",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 78586
+        },
+        {
+          "title": "Out of Rage",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 191733
+        },
+        {
+          "title": "Bring It Back",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 140240
+        },
+        {
+          "title": "Addicted",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 73160
+        },
+        {
+          "title": "Love Lasso",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 108773
+        },
+        {
+          "title": "Stress",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 192373
+        }
+      ]
+    },
+    {
+      "mbid": "37e9120b-989c-4f60-aebb-0f66aa7db87f",
+      "releaseMbid": "21708fd3-a8f7-40a6-ae4f-0539bfde43fa",
+      "title": "Move Thru Me",
+      "type": "EP",
+      "releaseDate": "2016-09-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/37e9120b-989c-4f60-aebb-0f66aa7db87f/front-1200",
+      "tracks": [
+        {
+          "title": "Come Back For More",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 123000
+        },
+        {
+          "title": "Harder On You",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 64000
+        },
+        {
+          "title": "Move Thru Me",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 138000
+        },
+        {
+          "title": "Fuck Me Blind",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 142000
+        }
+      ]
+    },
+    {
+      "mbid": "6ecd6824-433e-481a-8974-df5619fedf33",
+      "releaseMbid": "36a6b0c0-24d3-4cae-9e7c-96ba0da9a331",
+      "title": "Time & Space",
+      "type": "ALBUM",
+      "releaseDate": "2018-02-23",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/6ecd6824-433e-481a-8974-df5619fedf33/front-1200",
+      "tracks": [
+        {
+          "title": "Real Thing",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 116465
+        },
+        {
+          "title": "Big Smile",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 89835
+        },
+        {
+          "title": "Generator",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 194518
+        },
+        {
+          "title": "Bomb",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 24964
+        },
+        {
+          "title": "I Don't Wanna Be Blind",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 124871
+        },
+        {
+          "title": "High Pressure",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 116844
+        },
+        {
+          "title": "(Lost Another) Piece of My World",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 111588
+        },
+        {
+          "title": "Can't Get Away",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 182023
+        },
+        {
+          "title": "Moon",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 113119
+        },
+        {
+          "title": "Come Back for More/H.O.Y.",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 175071
+        },
+        {
+          "title": "Right to Be",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 125009
+        },
+        {
+          "title": "Disco",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 46799
+        },
+        {
+          "title": "Time + Space",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 100790
+        }
+      ]
+    },
+    {
+      "mbid": "1a1be91f-e108-4f3f-b119-f6f9338778d2",
+      "releaseMbid": "2f2d1d31-f645-4a5c-aaeb-c87fa1263896",
+      "title": "Share a View",
+      "type": "EP",
+      "releaseDate": "2020-01-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/1a1be91f-e108-4f3f-b119-f6f9338778d2/front-1200",
+      "tracks": [
+        {
+          "title": "Yes I Need My Generator",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 308000
+        },
+        {
+          "title": "The Real Thing",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 186000
+        },
+        {
+          "title": "I Wanna Be Blind",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 281000
+        }
+      ]
+    },
+    {
+      "mbid": "ae3cb12a-3fcb-4353-b81b-9c93df553787",
+      "releaseMbid": "e15f1568-35a0-441c-b78e-ae52e7a01f83",
+      "title": "Turnstile Love Connection",
+      "type": "EP",
+      "releaseDate": "2021-06-27",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ae3cb12a-3fcb-4353-b81b-9c93df553787/front-1200",
+      "tracks": [
+        {
+          "title": "Holiday",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "No Surprise",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Mystery",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "(T.L.C.) Turnstile Love Connection",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "0f06bec9-22c7-4f7d-8784-5e902096246b",
+      "releaseMbid": "8f914f2d-d449-4349-8463-f654867b0f35",
+      "title": "Glow On",
+      "type": "ALBUM",
+      "releaseDate": "2021-08-27",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0f06bec9-22c7-4f7d-8784-5e902096246b/front-1200",
+      "tracks": [
+        {
+          "title": "MYSTERY",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 155000
+        },
+        {
+          "title": "BLACKOUT",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 173000
+        },
+        {
+          "title": "DON’T PLAY",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 133000
+        },
+        {
+          "title": "UNDERWATER BOI",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 184000
+        },
+        {
+          "title": "HOLIDAY",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 172000
+        },
+        {
+          "title": "HUMANOID / SHAKE IT UP",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 69000
+        },
+        {
+          "title": "ENDLESS",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 118000
+        },
+        {
+          "title": "FLY AGAIN",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 151000
+        },
+        {
+          "title": "ALIEN LOVE CALL",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 176000
+        },
+        {
+          "title": "WILD WRLD",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 174000
+        },
+        {
+          "title": "DANCE‐OFF",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 129000
+        },
+        {
+          "title": "NEW HEART DESIGN",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 147000
+        },
+        {
+          "title": "T.L.C. (TURNSTILE LOVE CONNECTION)",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 102000
+        },
+        {
+          "title": "NO SURPRISE",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 45000
+        },
+        {
+          "title": "LONELY DEZIRES",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 163000
+        }
+      ]
+    },
+    {
+      "mbid": "fa1961f0-a602-4ab0-be5c-104a80aebcd1",
+      "releaseMbid": "869bb80d-1500-4edd-8527-1d1f47994940",
+      "title": "New Heart Designs",
+      "type": "EP",
+      "releaseDate": "2023-08-11",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/fa1961f0-a602-4ab0-be5c-104a80aebcd1/front-1200",
+      "tracks": [
+        {
+          "title": "Mystery",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 141000
+        },
+        {
+          "title": "Alien Love Call",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 222000
+        },
+        {
+          "title": "Underwater Boi",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 236000
+        }
+      ]
+    },
+    {
+      "mbid": "58310aac-65aa-492e-83fb-ec50c58e5a1d",
+      "releaseMbid": "26deba72-200e-46d8-9410-755e2bd5d516",
+      "title": "NEVER ENOUGH",
+      "type": "ALBUM",
+      "releaseDate": "2025-06-06",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/58310aac-65aa-492e-83fb-ec50c58e5a1d/front-1200",
+      "tracks": [
+        {
+          "title": "Never Enough",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 287000
+        },
+        {
+          "title": "Sole",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 205000
+        },
+        {
+          "title": "I Care",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 233000
+        },
+        {
+          "title": "Dreaming",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 156000
+        },
+        {
+          "title": "Light Design",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 130000
+        },
+        {
+          "title": "Dull",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 139000
+        },
+        {
+          "title": "Sunshower",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 220000
+        },
+        {
+          "title": "Look Out for Me",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 404000
+        },
+        {
+          "title": "Ceiling",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 73000
+        },
+        {
+          "title": "Seein' Stars",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 187000
+        },
+        {
+          "title": "Birds",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 142000
+        },
+        {
+          "title": "Slowdive",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 213000
+        },
+        {
+          "title": "Time Is Happening",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 127000
+        },
+        {
+          "title": "Magic Man",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 194000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

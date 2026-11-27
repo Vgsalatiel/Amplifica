@@ -1,0 +1,965 @@
+{
+  "generatedAt": "2026-11-27T13:22:36.879Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "2df823c6-a100-489b-b670-59ebbfb4e0e3",
+    "name": "Cólera",
+    "slug": "colera",
+    "type": "BAND",
+    "country": "BR",
+    "city": "São Paulo",
+    "formedYear": 1979,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/2df823c6-a100-489b-b670-59ebbfb4e0e3"
+      }
+    ],
+    "genres": [
+      "punk-rock",
+      "hardcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "c5b51015-3889-4918-b53a-ed586d09c964",
+      "releaseMbid": "c79cabfd-1593-48fb-8d01-76d45d0d2bb3",
+      "title": "Sub",
+      "type": "EP",
+      "releaseDate": "1983-08-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c5b51015-3889-4918-b53a-ed586d09c964/front-1200",
+      "tracks": [
+        {
+          "title": "X.O.T.",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 96105
+        },
+        {
+          "title": "Bloqueio Mental",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 93519
+        },
+        {
+          "title": "Quanto Vale a Liberdade?",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 136195
+        },
+        {
+          "title": "Histeria",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 69651
+        },
+        {
+          "title": "Zero Zero",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 85608
+        },
+        {
+          "title": "Sub-Ratos",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 71381
+        }
+      ]
+    },
+    {
+      "mbid": "68e553de-4e4f-4100-9f82-6890fdf53d21",
+      "releaseMbid": "a56669f2-146c-4a13-b4de-03856fe1e8a5",
+      "title": "Tente mudar o amanhã",
+      "type": "ALBUM",
+      "releaseDate": "1985",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/68e553de-4e4f-4100-9f82-6890fdf53d21/front-1200",
+      "tracks": [
+        {
+          "title": "1.9.9.2.",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 156000
+        },
+        {
+          "title": "Marcha",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 123000
+        },
+        {
+          "title": "Nabro 3",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 67000
+        },
+        {
+          "title": "São Paulo",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 121000
+        },
+        {
+          "title": "C.D.M.P.",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 70000
+        },
+        {
+          "title": "Agir",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 114000
+        },
+        {
+          "title": "Palpebrite",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 86000
+        },
+        {
+          "title": "Duas ogivas",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 101000
+        },
+        {
+          "title": "Amnésia",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 113000
+        },
+        {
+          "title": "Passeata",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 127000
+        },
+        {
+          "title": "Amanhã",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 146000
+        },
+        {
+          "title": "Eu não sou você",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 115000
+        },
+        {
+          "title": "Rasgando no ar",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 129000
+        },
+        {
+          "title": "Burgo-alienação",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 93000
+        },
+        {
+          "title": "Sarjeta",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 114000
+        },
+        {
+          "title": "Disturbios",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 90000
+        },
+        {
+          "title": "Violar suas leis",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 114000
+        },
+        {
+          "title": "Condenados",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 91000
+        },
+        {
+          "title": "Não existe mais",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 152000
+        },
+        {
+          "title": "Em você",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 152000
+        }
+      ]
+    },
+    {
+      "mbid": "226ae81b-c694-3a79-8e17-ae023c488e22",
+      "releaseMbid": "36df567e-d59a-4621-9ac6-e81eb1d28bb8",
+      "title": "Dê o Fora",
+      "type": "EP",
+      "releaseDate": "1986",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "H.C.O.P.",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 176000
+        },
+        {
+          "title": "Senhor Dirigente",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 77000
+        },
+        {
+          "title": "Dê o Fora",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 91000
+        },
+        {
+          "title": "Vida desgraçada",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 95000
+        }
+      ]
+    },
+    {
+      "mbid": "8f8cef34-a7d9-4fcf-a7d5-9ddb9d2e92ae",
+      "releaseMbid": "36ef02f5-3fb5-4a26-b757-d0e68863d6fa",
+      "title": "Pela paz em todo mundo",
+      "type": "ALBUM",
+      "releaseDate": "1986",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/8f8cef34-a7d9-4fcf-a7d5-9ddb9d2e92ae/front-1200",
+      "tracks": [
+        {
+          "title": "Medo",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 196000
+        },
+        {
+          "title": "Funcionários",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 175000
+        },
+        {
+          "title": "Somos vivos",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 166000
+        },
+        {
+          "title": "Alternar",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 206000
+        },
+        {
+          "title": "Multidões",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 185000
+        },
+        {
+          "title": "Direitos humanos",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 251000
+        },
+        {
+          "title": "Guerrear",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 102000
+        },
+        {
+          "title": "Vivo na cidade",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 148000
+        },
+        {
+          "title": "Humanidade",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 172000
+        },
+        {
+          "title": "Alucinado",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 128000
+        },
+        {
+          "title": "Continência",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 142000
+        },
+        {
+          "title": "Não à fome!",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 141000
+        },
+        {
+          "title": "Adolescente",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 294000
+        },
+        {
+          "title": "Pela paz",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 247000
+        }
+      ]
+    },
+    {
+      "mbid": "5ce98614-7d20-4aa2-83be-10ef1f8c4e1a",
+      "releaseMbid": "84056b52-8ba4-4ac8-aa8e-42a97236c08d",
+      "title": "É natal!!?",
+      "type": "EP",
+      "releaseDate": "1988",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "É natal!!?",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 205483
+        },
+        {
+          "title": "Os bebâdos",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 118702
+        },
+        {
+          "title": "T.V.",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 152295
+        },
+        {
+          "title": "Movimentação",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 121493
+        }
+      ]
+    },
+    {
+      "mbid": "57509c01-c662-4e56-9ea5-f861b01fdd69",
+      "releaseMbid": "84b2cab1-af8f-4538-9536-bbfd0831933b",
+      "title": "Verde, não devaste!",
+      "type": "ALBUM",
+      "releaseDate": "1989",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/57509c01-c662-4e56-9ea5-f861b01fdd69/front-1200",
+      "tracks": [
+        {
+          "title": "Introdução",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Bombeiros",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Minha nação",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 139000
+        },
+        {
+          "title": "Meia-noite",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 112000
+        },
+        {
+          "title": "Parasita",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 143000
+        },
+        {
+          "title": "Presidio zoo",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 272000
+        },
+        {
+          "title": "Don't Waste It",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 165000
+        },
+        {
+          "title": "Viva na N.G.",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 80000
+        },
+        {
+          "title": "Verde",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 204000
+        },
+        {
+          "title": "Ea eo",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 196000
+        },
+        {
+          "title": "Em setembro",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 119000
+        },
+        {
+          "title": "Cólera",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 148000
+        },
+        {
+          "title": "R.P.",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 73000
+        },
+        {
+          "title": "Teatrinho",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 158000
+        },
+        {
+          "title": "Solidarie-nós",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 205000
+        }
+      ]
+    },
+    {
+      "mbid": "be60c940-163e-402e-9597-d64c5966def6",
+      "releaseMbid": "2ceeb11d-aa5b-4147-9c7c-c30a4337480a",
+      "title": "Mundo mecânico, mundo eletrônico",
+      "type": "ALBUM",
+      "releaseDate": "1992",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/be60c940-163e-402e-9597-d64c5966def6/front-1200",
+      "tracks": [
+        {
+          "title": "1.9.9.2.",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 96000
+        },
+        {
+          "title": "M.D.M.",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 176000
+        },
+        {
+          "title": "Shopping Boys",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 205000
+        },
+        {
+          "title": "Fuck!",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 158000
+        },
+        {
+          "title": "Dinheiro",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 104000
+        },
+        {
+          "title": "Volume pra caixão",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 33000
+        },
+        {
+          "title": "Jane",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 51000
+        },
+        {
+          "title": "O. Com C.",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 83000
+        },
+        {
+          "title": "Príncipes da noite",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 196000
+        },
+        {
+          "title": "Suicídio animal",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 214000
+        },
+        {
+          "title": "Sistema odiável",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 77000
+        },
+        {
+          "title": "George",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 164000
+        },
+        {
+          "title": "Anor-mal",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 72000
+        },
+        {
+          "title": "Nervus",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 196000
+        },
+        {
+          "title": "Murder",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 239000
+        },
+        {
+          "title": "Fuck'n'roll",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 98000
+        }
+      ]
+    },
+    {
+      "mbid": "8550266f-2538-447d-b3a5-49bb1cf3ccfd",
+      "releaseMbid": "afedc04e-a65f-4d6d-b560-719a2f3bdf8b",
+      "title": "Caos mental geral",
+      "type": "ALBUM",
+      "releaseDate": "1998",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/8550266f-2538-447d-b3a5-49bb1cf3ccfd/front-1200",
+      "tracks": [
+        {
+          "title": "Qual violência?",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 330000
+        },
+        {
+          "title": "Caos mental geral",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 276000
+        },
+        {
+          "title": "Viralatas",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 125000
+        },
+        {
+          "title": "Cultural revolução",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 239000
+        },
+        {
+          "title": "Meu igual",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 185000
+        },
+        {
+          "title": "Missão libertar",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 194000
+        },
+        {
+          "title": "Grito de ódio",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 190000
+        },
+        {
+          "title": "Por que ela não?",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 153000
+        },
+        {
+          "title": "Dê o fora",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 93000
+        },
+        {
+          "title": "Hhei",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 89000
+        },
+        {
+          "title": "Fuck IURD",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 141000
+        },
+        {
+          "title": "Noite do vagal",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 106000
+        },
+        {
+          "title": "Quem é você?",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 202000
+        },
+        {
+          "title": "Subúrbio geral",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 121000
+        },
+        {
+          "title": "Quanto vale a liberdade?",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 153000
+        },
+        {
+          "title": "Era",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 250000
+        },
+        {
+          "title": "Dia e noite, noite e dia",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 162000
+        }
+      ]
+    },
+    {
+      "mbid": "e5b94db3-98fe-4b10-9bce-d5aac6e6495f",
+      "releaseMbid": "3f35c370-0565-470c-b8c2-310cf838ebf8",
+      "title": "Deixe a terra em paz!",
+      "type": "ALBUM",
+      "releaseDate": "2004",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/e5b94db3-98fe-4b10-9bce-d5aac6e6495f/front-1200",
+      "tracks": [
+        {
+          "title": "Deixe A Terra Em Paz",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 204485
+        },
+        {
+          "title": "Viaduto",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 195162
+        },
+        {
+          "title": "Subúrbio",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 113564
+        },
+        {
+          "title": "Subliminar",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 106274
+        },
+        {
+          "title": "São Paulo É gigante",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 113459
+        },
+        {
+          "title": "Samba Core",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 156061
+        },
+        {
+          "title": "Oxigênio",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 148303
+        },
+        {
+          "title": "Minha Mente",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 222118
+        },
+        {
+          "title": "Fuck The War",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 161259
+        },
+        {
+          "title": "Enxado",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 147990
+        },
+        {
+          "title": "Ei Urgente",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 154520
+        },
+        {
+          "title": "Espelho No Quintal",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 194143
+        },
+        {
+          "title": "De Et Pra Et",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 176486
+        },
+        {
+          "title": "Conciência",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 141930
+        },
+        {
+          "title": "Cucocore",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 201039
+        },
+        {
+          "title": "Cancio De Mor",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 191401
+        },
+        {
+          "title": "Aperte O Nó",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 126049
+        },
+        {
+          "title": "Aguia Filhote",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 243588
+        }
+      ]
+    },
+    {
+      "mbid": "364f989c-0f91-42aa-b8a9-86790fef6e4d",
+      "releaseMbid": "36944507-8fce-4f45-894c-3cecdef0999a",
+      "title": "Acorde! Acorde! Acorde!",
+      "type": "ALBUM",
+      "releaseDate": "2018-03-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/364f989c-0f91-42aa-b8a9-86790fef6e4d/front-1200",
+      "tracks": [
+        {
+          "title": "Somos Cromossomos",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 204366
+        },
+        {
+          "title": "Festa No Rio",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 162198
+        },
+        {
+          "title": "Capacete Vermelho",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 135601
+        },
+        {
+          "title": "Décimo Terceiro",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 218799
+        },
+        {
+          "title": "Creation",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 143532
+        },
+        {
+          "title": "Mil Turbulências",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 177267
+        },
+        {
+          "title": "Supressão",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 147351
+        },
+        {
+          "title": "Ska-Metal",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 206629
+        },
+        {
+          "title": "Mr. Gamble",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 119347
+        },
+        {
+          "title": "Mezza Mezza",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 158903
+        },
+        {
+          "title": "Fá Dó Lá",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 135904
+        },
+        {
+          "title": "O Caos",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 281781
+        },
+        {
+          "title": "Hino",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 154515
+        },
+        {
+          "title": "Somos Cromossomos (Demo Redson 2009)",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 235693
+        },
+        {
+          "title": "Festa No Rio (Demo Redson 2009)",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 161946
+        },
+        {
+          "title": "Capacete Vermelho (Demo Redson 2009)",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 136306
+        }
+      ]
+    },
+    {
+      "mbid": "80ee9581-03c1-467d-8a03-8d67079d8914",
+      "releaseMbid": "a4577609-edce-4151-955b-599a156fee6d",
+      "title": "Está na Hora de Mudar!",
+      "type": "EP",
+      "releaseDate": "2023-06-26",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/80ee9581-03c1-467d-8a03-8d67079d8914/front-1200",
+      "tracks": [
+        {
+          "title": "Jovem Desertor",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 183270
+        },
+        {
+          "title": "Movimentação",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 125226
+        },
+        {
+          "title": "Quanto Vale a Liberdade?",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 235431
+        },
+        {
+          "title": "Até Quando Esperar?",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 201695
+        },
+        {
+          "title": "Dia e Noite, Noite e Dia",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 186006
+        },
+        {
+          "title": "Repetição Constante",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 164000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

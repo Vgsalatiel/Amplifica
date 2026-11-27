@@ -1,0 +1,969 @@
+{
+  "generatedAt": "2026-11-27T13:24:14.329Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "bf479f8a-dc2d-4549-8025-cee854805b4f",
+    "name": "Inocentes",
+    "slug": "inocentes",
+    "type": "BAND",
+    "country": "BR",
+    "city": "São Paulo",
+    "formedYear": 1981,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/bf479f8a-dc2d-4549-8025-cee854805b4f"
+      }
+    ],
+    "genres": [
+      "punk-rock"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "869f5162-503a-3278-af27-ccc6793cd183",
+      "releaseMbid": "ca296efb-0acd-44ce-b0c1-9c04001df962",
+      "title": "Miséria e fome",
+      "type": "EP",
+      "releaseDate": "1983",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/869f5162-503a-3278-af27-ccc6793cd183/front-1200",
+      "tracks": [
+        {
+          "title": "Apenas conto o que e vi (o que senti)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 158000
+        },
+        {
+          "title": "Morte nuclear",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 57000
+        },
+        {
+          "title": "Aprendi a odiar",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 65000
+        },
+        {
+          "title": "Calado",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 59000
+        }
+      ]
+    },
+    {
+      "mbid": "c2263847-663b-4d15-8ec1-26cfdc90d1f0",
+      "releaseMbid": "39f29360-0288-4119-99ca-4b7b7cdcb2c8",
+      "title": "Pânico em S. P.",
+      "type": "ALBUM",
+      "releaseDate": "1986",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c2263847-663b-4d15-8ec1-26cfdc90d1f0/front-1200",
+      "tracks": [
+        {
+          "title": "Rotina",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 199360
+        },
+        {
+          "title": "Ele Disse Não",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 206560
+        },
+        {
+          "title": "Não Acordem a Cidade",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 149400
+        },
+        {
+          "title": "Salvem El Salvador",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 198560
+        },
+        {
+          "title": "Expresso Oriente",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 174760
+        },
+        {
+          "title": "Pânico Em S.P.",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 238720
+        },
+        {
+          "title": "As Verdades Doem",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 218213
+        },
+        {
+          "title": "Violência E Paixão",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 204133
+        },
+        {
+          "title": "Velocidade Indefinida",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 143493
+        },
+        {
+          "title": "Rota de Colisão",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 162573
+        },
+        {
+          "title": "Vermes",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 171893
+        },
+        {
+          "title": "A Face de Deus",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 213280
+        }
+      ]
+    },
+    {
+      "mbid": "c4d23c7a-da49-462e-91c1-e2b0d3734f1c",
+      "releaseMbid": "4c22384c-4146-4da7-b346-fb9c99e264ee",
+      "title": "Adeus Carne",
+      "type": "ALBUM",
+      "releaseDate": "1987",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c4d23c7a-da49-462e-91c1-e2b0d3734f1c/front-1200",
+      "tracks": [
+        {
+          "title": "Pátria Amada",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Eu",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Morrer aos 18",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Não Sei Quem Sou",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Tambores",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Não é Permitido",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Em Pedaços",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Cidade Chumbo",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "Na Sarjeta",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Pesadelo",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "a2058f88-bc89-3bb9-b5db-6153f91c0cc4",
+      "releaseMbid": "32a53ee1-5718-403b-af86-b9a14e8b12d7",
+      "title": "Miséria e fome",
+      "type": "ALBUM",
+      "releaseDate": "1988",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a2058f88-bc89-3bb9-b5db-6153f91c0cc4/front-1200",
+      "tracks": [
+        {
+          "title": "Miséria e fome",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 164000
+        },
+        {
+          "title": "Morte nuclear",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 61000
+        },
+        {
+          "title": "Aprendi a odiar",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 62000
+        },
+        {
+          "title": "Calado",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 63000
+        },
+        {
+          "title": "Não à religião",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 67000
+        },
+        {
+          "title": "El Salvador",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 98000
+        },
+        {
+          "title": "Torturas, medo e repressão",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 86000
+        },
+        {
+          "title": "Não diga não",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 73000
+        },
+        {
+          "title": "Vida submissa",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 96000
+        },
+        {
+          "title": "Meninos do Brasil",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 108000
+        },
+        {
+          "title": "Maldita polícia",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 90000
+        }
+      ]
+    },
+    {
+      "mbid": "9c3a2c72-c4b7-4c8c-b388-da60a98dafb7",
+      "releaseMbid": "9c0c12da-669e-48b5-9ccc-ad28d3d614d4",
+      "title": "Inocentes",
+      "type": "ALBUM",
+      "releaseDate": "1989",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Animal Urbano",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 121000
+        },
+        {
+          "title": "Mais um na Multidão",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 176000
+        },
+        {
+          "title": "A Face de Deus",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 244000
+        },
+        {
+          "title": "Promessas",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 238000
+        },
+        {
+          "title": "A Lei do Cão",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 126000
+        },
+        {
+          "title": "O Homem que Bebia Demais",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 152000
+        },
+        {
+          "title": "Nosso Tempo",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 111000
+        },
+        {
+          "title": "A Marcha das Máquinas",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 159000
+        },
+        {
+          "title": "A Voz do Morro",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 232000
+        },
+        {
+          "title": "Garotos do Subúrbio",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 81000
+        }
+      ]
+    },
+    {
+      "mbid": "1e622179-df5a-39c5-ae08-fdd755f7fe1d",
+      "releaseMbid": "692b98e6-08e4-4981-8a62-8c2ea86fa5b8",
+      "title": "Estilhaços",
+      "type": "ALBUM",
+      "releaseDate": "1992",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Em chamas",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 139973
+        },
+        {
+          "title": "O homem negro",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 257106
+        },
+        {
+          "title": "Sangue ruim",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 245626
+        },
+        {
+          "title": "O estranho",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 223773
+        },
+        {
+          "title": "Faminto",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 243853
+        },
+        {
+          "title": "Deixa pra lá",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 261506
+        },
+        {
+          "title": "A noite dorme lá fora",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 221880
+        },
+        {
+          "title": "Estilhaços",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 229893
+        },
+        {
+          "title": "Midnight blues",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 196586
+        },
+        {
+          "title": "Anjos",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 260800
+        }
+      ]
+    },
+    {
+      "mbid": "fccd6b95-9170-46e6-ace3-4a769bf3068a",
+      "releaseMbid": "66f55c0a-d6c1-453a-bf39-de7bfc6b934a",
+      "title": "Subterrâneos",
+      "type": "ALBUM",
+      "releaseDate": "1994-03-19",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Subterrâneos",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "O Mal",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Inimigo",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Ninguem",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Espectro",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Desequilibrio",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Pois Que Seja Assim",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Tudo Bem",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "Nesse Meu Olhar",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Canção Para Esquecer",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "62cf1093-ba84-4374-becc-c213110dec04",
+      "releaseMbid": "6e2ff488-c75a-46af-9aeb-bae726e35366",
+      "title": "Ruas",
+      "type": "ALBUM",
+      "releaseDate": "1996",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "A Cidade Não Pára",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 170000
+        },
+        {
+          "title": "Nada De Novo No Front",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 178000
+        },
+        {
+          "title": "Sem Valor",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 122000
+        },
+        {
+          "title": "Nunca Diga Jamais",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 204000
+        },
+        {
+          "title": "Vermes",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 178000
+        },
+        {
+          "title": "Só A Raiva Vai Nos Salvar",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 195000
+        },
+        {
+          "title": "Sob O Sol De 40 Graus",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 179000
+        },
+        {
+          "title": "Garras",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 110000
+        },
+        {
+          "title": "Intolerância",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 227000
+        },
+        {
+          "title": "Escombros",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 214000
+        },
+        {
+          "title": "Ignorado",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 227000
+        },
+        {
+          "title": "Fios Elétricos",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 87000
+        }
+      ]
+    },
+    {
+      "mbid": "7b2531cd-ee9c-4781-a920-770c80a17e5f",
+      "releaseMbid": "28bf4637-988c-4f1f-aa7a-a3f72f1c399b",
+      "title": "Embalado A Vácuo",
+      "type": "ALBUM",
+      "releaseDate": "1998",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Lisa",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 173000
+        },
+        {
+          "title": "Cala A Boca",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 155000
+        },
+        {
+          "title": "Nem Sempre",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 185000
+        },
+        {
+          "title": "De Bar Em Bar",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 256000
+        },
+        {
+          "title": "Minta Pra Mim",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 191000
+        },
+        {
+          "title": "Um Cara Qualquer",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 181000
+        },
+        {
+          "title": "Nem Tudo Volta",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 181000
+        },
+        {
+          "title": "A Lei",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 220000
+        },
+        {
+          "title": "Nada Pode Nos Deter",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 197000
+        },
+        {
+          "title": "O Impossível",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 168000
+        },
+        {
+          "title": "Fechem Os Olhos Dos Jornais",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 148000
+        },
+        {
+          "title": "Vícios",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 225000
+        },
+        {
+          "title": "Eddy Teddy Blues",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 102000
+        }
+      ]
+    },
+    {
+      "mbid": "0c6a5d1f-8cf0-4b00-a2af-80a218ac0e13",
+      "releaseMbid": "e1d5e87a-7ea6-4716-8bda-93a94034c960",
+      "title": "O Barulho dos Inocentes",
+      "type": "ALBUM",
+      "releaseDate": "2000",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0c6a5d1f-8cf0-4b00-a2af-80a218ac0e13/front-1200",
+      "tracks": [
+        {
+          "title": "São Paulo",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 241466
+        },
+        {
+          "title": "Nos Braços da Vampira",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 139160
+        },
+        {
+          "title": "Franzino Costela",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 192106
+        },
+        {
+          "title": "Quero Ser Seu Namorado (I Wanna Be Your Boyfriend)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 159800
+        },
+        {
+          "title": "Sandina",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 160093
+        },
+        {
+          "title": "Sinto",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 110733
+        },
+        {
+          "title": "Quanto Vale a Liberdade",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 257866
+        },
+        {
+          "title": "Periferia",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 159106
+        },
+        {
+          "title": "Restos de Nada",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 103493
+        },
+        {
+          "title": "Desequilibrio",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 187133
+        },
+        {
+          "title": "Sujos e Bêbados",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 117133
+        },
+        {
+          "title": "Inimizade",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 117240
+        },
+        {
+          "title": "Repeat! Please!",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 138600
+        },
+        {
+          "title": "O Verme",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 209466
+        }
+      ]
+    },
+    {
+      "mbid": "15298527-0265-3c1c-b1ca-c49a774e8dbd",
+      "releaseMbid": "1c7e3ea8-6e11-4b5b-b5bb-efca11f99199",
+      "title": "Labirinto",
+      "type": "ALBUM",
+      "releaseDate": "2004",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Amanhã Será Tarde Demais",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 172346
+        },
+        {
+          "title": "Travado",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 159120
+        },
+        {
+          "title": "Nojo",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 127560
+        },
+        {
+          "title": "Não Vai Ficar Assim",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 107866
+        },
+        {
+          "title": "Fúria",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 172093
+        },
+        {
+          "title": "Uscaraéfoda",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 116133
+        },
+        {
+          "title": "Nada a Perder",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 149240
+        },
+        {
+          "title": "Estraga",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 133000
+        },
+        {
+          "title": "100 X 100",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 105773
+        },
+        {
+          "title": "Treze",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 132120
+        },
+        {
+          "title": "Tenho Medo",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 66786
+        },
+        {
+          "title": "Nóia",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 132600
+        },
+        {
+          "title": "Underground",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 153053
+        },
+        {
+          "title": "25 Segundos de Silêncio",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 27000
+        },
+        {
+          "title": "Decomposição",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 173360
+        }
+      ]
+    },
+    {
+      "mbid": "63b7a00d-4ebd-4f8c-a23c-247a39b31abe",
+      "releaseMbid": "842a550c-f06e-4939-82d2-8f87c27052cf",
+      "title": "Sob Controle",
+      "type": "ALBUM",
+      "releaseDate": "2013",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Eu Fico Puto",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 154000
+        },
+        {
+          "title": "Sob Controle",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 308000
+        },
+        {
+          "title": "As Verdades Doem",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 209000
+        },
+        {
+          "title": "Velocidade Indefinida",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 149000
+        },
+        {
+          "title": "Estrutura de Bronze",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 115000
+        },
+        {
+          "title": "Rota de Colisão",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 162000
+        },
+        {
+          "title": "Violência e Paixão",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 204000
+        },
+        {
+          "title": "A Face de Deus",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 213000
+        },
+        {
+          "title": "Rotina (Ao Vivo)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 189000
+        },
+        {
+          "title": "A Cidade Não Para (Ao Vivo)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 167000
+        },
+        {
+          "title": "Nada de Novo no Front (Ao Vivo)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 165000
+        },
+        {
+          "title": "Intolerância (Ao Vivo)",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 208000
+        },
+        {
+          "title": "Cala a Boca (Ao Vivo)",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 142000
+        },
+        {
+          "title": "Pátria Amada (Ao Vivo)",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": null
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

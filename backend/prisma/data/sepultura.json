@@ -1,0 +1,2048 @@
+{
+  "generatedAt": "2026-11-27T13:33:23.912Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "1d93c839-22e7-4f76-ad84-d27039efc048",
+    "name": "Sepultura",
+    "slug": "sepultura",
+    "type": "BAND",
+    "country": "BR",
+    "city": "Belo Horizonte",
+    "formedYear": 1984,
+    "disbandedYear": 2026,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/1d93c839-22e7-4f76-ad84-d27039efc048"
+      }
+    ],
+    "genres": [
+      "metal"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "4f0dabc1-98a5-40d5-9a11-b918103e5cfe",
+      "releaseMbid": "3cade001-e7ee-4f61-87ad-8bf8dbf5ae6b",
+      "title": "Século X.X. / Bestial Devastation",
+      "type": "ALBUM",
+      "releaseDate": "1985-12",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4f0dabc1-98a5-40d5-9a11-b918103e5cfe/front-1200",
+      "tracks": [
+        {
+          "title": "Anjos do apocalipse",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 602000
+        },
+        {
+          "title": "Filho do mundo",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 364000
+        },
+        {
+          "title": "Século XX",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 303000
+        },
+        {
+          "title": "The Curse",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 39000
+        },
+        {
+          "title": "Bestial Devastation",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 188000
+        },
+        {
+          "title": "Antichrist",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 227000
+        },
+        {
+          "title": "Necromancer",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 233000
+        },
+        {
+          "title": "Warriors of Death",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 250000
+        }
+      ]
+    },
+    {
+      "mbid": "2f3367ab-820f-3788-b7f3-d729b69efc83",
+      "releaseMbid": "7b760de0-88cc-45a0-ac54-54f0048cd95e",
+      "title": "Morbid Visions",
+      "type": "ALBUM",
+      "releaseDate": "1986-11-10",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/2f3367ab-820f-3788-b7f3-d729b69efc83/front-1200",
+      "tracks": [
+        {
+          "title": "Intro / Morbid Visions",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 279093
+        },
+        {
+          "title": "Mayhem",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 197706
+        },
+        {
+          "title": "Troops of Doom",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 203266
+        },
+        {
+          "title": "War",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 334693
+        },
+        {
+          "title": "Crucifixion",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 303906
+        },
+        {
+          "title": "Show Me the Wrath",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 234160
+        },
+        {
+          "title": "Funeral Rites",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 264733
+        },
+        {
+          "title": "Empire of the Damned",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 266840
+        }
+      ]
+    },
+    {
+      "mbid": "3531f7dd-5748-3f09-9549-47ae6f53b97c",
+      "releaseMbid": "36afb30f-fc8f-38c4-951f-bd133d4d43c4",
+      "title": "Schizophrenia",
+      "type": "ALBUM",
+      "releaseDate": "1987-10-30",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/3531f7dd-5748-3f09-9549-47ae6f53b97c/front-1200",
+      "tracks": [
+        {
+          "title": "Intro",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 33000
+        },
+        {
+          "title": "From the Past Comes the Storms",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 297000
+        },
+        {
+          "title": "To the Wall",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 336400
+        },
+        {
+          "title": "Escape to the Void",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 278333
+        },
+        {
+          "title": "Inquisition Symphony",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 432800
+        },
+        {
+          "title": "Screams Behind the Shadows",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 288626
+        },
+        {
+          "title": "Septic Schizo",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 271400
+        },
+        {
+          "title": "The Abyss",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 61773
+        },
+        {
+          "title": "R.I.P. (Rest in Pain)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 275666
+        }
+      ]
+    },
+    {
+      "mbid": "6d9c2a90-603d-34b5-b855-dd20e61971b7",
+      "releaseMbid": "041d564f-f33a-3ea8-9010-7704a5c327b4",
+      "title": "Beneath the Remains",
+      "type": "ALBUM",
+      "releaseDate": "1989-11-05",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/6d9c2a90-603d-34b5-b855-dd20e61971b7/front-1200",
+      "tracks": [
+        {
+          "title": "Beneath the Remains",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 313840
+        },
+        {
+          "title": "Inner Self",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 309800
+        },
+        {
+          "title": "Stronger Than Hate",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 351866
+        },
+        {
+          "title": "Mass Hypnosis",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 265826
+        },
+        {
+          "title": "Sarcastic Existence",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 285066
+        },
+        {
+          "title": "Slaves of Pain",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 243466
+        },
+        {
+          "title": "Lobotomy",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 298333
+        },
+        {
+          "title": "Hungry",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 269773
+        },
+        {
+          "title": "Primitive Future",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 189400
+        }
+      ]
+    },
+    {
+      "mbid": "3295a00e-761d-3d01-9c3f-7e1a817fd026",
+      "releaseMbid": "6378d3c0-2b4b-47af-920e-7c70cb81cafd",
+      "title": "Bestial Devastation",
+      "type": "EP",
+      "releaseDate": "1990",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/3295a00e-761d-3d01-9c3f-7e1a817fd026/front-1200",
+      "tracks": [
+        {
+          "title": "The Curse",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 41106
+        },
+        {
+          "title": "Bestial Devastation",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 187426
+        },
+        {
+          "title": "Antichrist",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 229733
+        },
+        {
+          "title": "Necromancer",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 232373
+        },
+        {
+          "title": "Warriors of Death",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 248493
+        },
+        {
+          "title": "Troops of Doom (new version)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 198867
+        }
+      ]
+    },
+    {
+      "mbid": "6d9ffabb-233a-3cc1-9ac3-d2a8e4c99cdd",
+      "releaseMbid": "069db462-44f1-3465-98ea-d0d7870a8983",
+      "title": "Arise",
+      "type": "ALBUM",
+      "releaseDate": "1991-02",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/6d9ffabb-233a-3cc1-9ac3-d2a8e4c99cdd/front-1200",
+      "tracks": [
+        {
+          "title": "Arise",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 198266
+        },
+        {
+          "title": "Dead Embryonic Cells",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 292133
+        },
+        {
+          "title": "Desperate Cry",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 401066
+        },
+        {
+          "title": "Murder",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 206173
+        },
+        {
+          "title": "Subtraction",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 288400
+        },
+        {
+          "title": "Altered State",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 393893
+        },
+        {
+          "title": "Under Siege (Regnum Irae)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 293906
+        },
+        {
+          "title": "Meaningless Movements",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 280666
+        },
+        {
+          "title": "Infected Voice",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 199093
+        }
+      ]
+    },
+    {
+      "mbid": "e6db9803-dbb3-3061-9952-7cda9794f198",
+      "releaseMbid": "6599555d-3357-451a-aefc-d336c1438f57",
+      "title": "Third World Posse",
+      "type": "EP",
+      "releaseDate": "1992",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/e6db9803-dbb3-3061-9952-7cda9794f198/front-1200",
+      "tracks": [
+        {
+          "title": "Dead Embryonic Cells",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 272333
+        },
+        {
+          "title": "Drug Me",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 110933
+        },
+        {
+          "title": "Inner Self (live)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 284026
+        },
+        {
+          "title": "Troops of Doom (live)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 176400
+        },
+        {
+          "title": "Orgasmatron (live)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 252906
+        }
+      ]
+    },
+    {
+      "mbid": "b53fdd53-f70c-3580-ad92-04f7fe77b254",
+      "releaseMbid": "13ab2660-8e86-42de-8e18-30e4f500207a",
+      "title": "Chaos A.D.",
+      "type": "ALBUM",
+      "releaseDate": "1993-09-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b53fdd53-f70c-3580-ad92-04f7fe77b254/front-1200",
+      "tracks": [
+        {
+          "title": "Refuse/Resist",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 199760
+        },
+        {
+          "title": "Territory",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 287506
+        },
+        {
+          "title": "Slave New World",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 175026
+        },
+        {
+          "title": "Amen",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 267373
+        },
+        {
+          "title": "Kaiowas",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 223693
+        },
+        {
+          "title": "Propaganda",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 213440
+        },
+        {
+          "title": "Biotech Is Godzilla",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 112600
+        },
+        {
+          "title": "Nomad",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 299066
+        },
+        {
+          "title": "We Who Are Not as Others",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 222733
+        },
+        {
+          "title": "Manifest",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 289560
+        },
+        {
+          "title": "The Hunt",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 239440
+        },
+        {
+          "title": "Clenched Fist / [untitled]",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 480560
+        }
+      ]
+    },
+    {
+      "mbid": "932b2f08-0839-3227-9bac-58a35498481d",
+      "releaseMbid": "b23e4e98-273c-4e5c-ae04-879284b820e1",
+      "title": "Natural Born Blasters",
+      "type": "EP",
+      "releaseDate": "1996",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/932b2f08-0839-3227-9bac-58a35498481d/front-1200",
+      "tracks": [
+        {
+          "title": "Territory (live)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 285400
+        },
+        {
+          "title": "Inhuman Nature",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 193200
+        },
+        {
+          "title": "Procreation (of the Wicked)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 220493
+        },
+        {
+          "title": "Policia",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 109266
+        },
+        {
+          "title": "Under Siege (Regnum Irae)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 294373
+        }
+      ]
+    },
+    {
+      "mbid": "f625cd30-9427-360b-b63d-e294d23b1980",
+      "releaseMbid": "98e90fe5-2364-46fd-9a41-0b8d71be8a92",
+      "title": "Roots",
+      "type": "ALBUM",
+      "releaseDate": "1996-02-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f625cd30-9427-360b-b63d-e294d23b1980/front-1200",
+      "tracks": [
+        {
+          "title": "Roots Bloody Roots",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 212000
+        },
+        {
+          "title": "Attitude",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 255000
+        },
+        {
+          "title": "Cut-Throat",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 165000
+        },
+        {
+          "title": "Ratamahatta",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 270000
+        },
+        {
+          "title": "Breed Apart",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 241000
+        },
+        {
+          "title": "Straighthate",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 322000
+        },
+        {
+          "title": "Spit",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 166000
+        },
+        {
+          "title": "Lookaway",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 326000
+        },
+        {
+          "title": "Dusted",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 244000
+        },
+        {
+          "title": "Born Stubborn",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 248000
+        },
+        {
+          "title": "Jasco",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 118000
+        },
+        {
+          "title": "Itsári",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 289000
+        },
+        {
+          "title": "Ambush",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 280000
+        },
+        {
+          "title": "Endangered Species",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 319000
+        },
+        {
+          "title": "Dictatorshit",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 86000
+        }
+      ]
+    },
+    {
+      "mbid": "19d97fc6-d551-3f3a-8194-962ec2901fa4",
+      "releaseMbid": "c68c016f-8f59-4150-b693-837fec3d84c5",
+      "title": "Against",
+      "type": "ALBUM",
+      "releaseDate": "1998-10-05",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/19d97fc6-d551-3f3a-8194-962ec2901fa4/front-1200",
+      "tracks": [
+        {
+          "title": "Against",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 115000
+        },
+        {
+          "title": "Choke",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 217000
+        },
+        {
+          "title": "Rumors",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 184000
+        },
+        {
+          "title": "Old Earth",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 269000
+        },
+        {
+          "title": "Floaters in Mud",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 299000
+        },
+        {
+          "title": "Boycott",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 191000
+        },
+        {
+          "title": "Tribus",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 98000
+        },
+        {
+          "title": "Common Bonds",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 179000
+        },
+        {
+          "title": "F.O.E.",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 128000
+        },
+        {
+          "title": "Reza",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 137000
+        },
+        {
+          "title": "Unconscious",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 218000
+        },
+        {
+          "title": "Kamaitachi",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 183000
+        },
+        {
+          "title": "Drowned Out",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 89000
+        },
+        {
+          "title": "Hatred Aside",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 314000
+        },
+        {
+          "title": "T3rcermillennium",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 235093
+        }
+      ]
+    },
+    {
+      "mbid": "8f8ec547-6fd1-373d-87df-cb2126beccf3",
+      "releaseMbid": "0d25a537-491f-4c8e-bebf-295e08ee0500",
+      "title": "Tribus",
+      "type": "EP",
+      "releaseDate": "1999-06-08",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/8f8ec547-6fd1-373d-87df-cb2126beccf3/front-1200",
+      "tracks": [
+        {
+          "title": "The Waste",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 219560
+        },
+        {
+          "title": "Tribus (demo)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 105173
+        },
+        {
+          "title": "Common Bonds (alternate mix)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 185200
+        },
+        {
+          "title": "Unconscious (demo)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 222866
+        },
+        {
+          "title": "F. O. E. (extended mix)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 184266
+        },
+        {
+          "title": "Prenúncio",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 307934
+        }
+      ]
+    },
+    {
+      "mbid": "65679f26-8680-3922-9b49-9365e27b1fd4",
+      "releaseMbid": "3fc3a7c5-6c3d-46f2-8d0c-88d356bd69ee",
+      "title": "Nation",
+      "type": "ALBUM",
+      "releaseDate": "2001-03-02",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/65679f26-8680-3922-9b49-9365e27b1fd4/front-1200",
+      "tracks": [
+        {
+          "title": "Sepulnation",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 260866
+        },
+        {
+          "title": "Border Wars",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 297133
+        },
+        {
+          "title": "Revolt",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 57200
+        },
+        {
+          "title": "One Man Army",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 327493
+        },
+        {
+          "title": "Vox Populi",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 221400
+        },
+        {
+          "title": "The Ways of Faith",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 283240
+        },
+        {
+          "title": "Uma Cura",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 194333
+        },
+        {
+          "title": "Who Must Die?",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 178826
+        },
+        {
+          "title": "Saga",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 277266
+        },
+        {
+          "title": "Tribe to a Nation",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 155306
+        },
+        {
+          "title": "Politricks",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 254026
+        },
+        {
+          "title": "Human Cause",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 57106
+        },
+        {
+          "title": "Reject",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 167533
+        },
+        {
+          "title": "Water",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 164160
+        },
+        {
+          "title": "Valtio",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 200866
+        }
+      ]
+    },
+    {
+      "mbid": "0f37d390-edd8-35e9-863e-ff4285e10678",
+      "releaseMbid": "9ade5077-85db-4631-826f-5377810e4ec5",
+      "title": "Under a Pale Grey Sky",
+      "type": "LIVE",
+      "releaseDate": "2002-09-28",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0f37d390-edd8-35e9-863e-ff4285e10678/front-1200",
+      "tracks": [
+        {
+          "title": "Itsári (Intro)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 87200
+        },
+        {
+          "title": "Roots Bloody Roots",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 217800
+        },
+        {
+          "title": "Spit",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 147066
+        },
+        {
+          "title": "Territory",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 299933
+        },
+        {
+          "title": "Monologo ao Pé do Ouvido",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 81160
+        },
+        {
+          "title": "Breed Apart",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 241333
+        },
+        {
+          "title": "Attitude",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 354706
+        },
+        {
+          "title": "Cut-Throat",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 173666
+        },
+        {
+          "title": "Troops of Doom",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 166293
+        },
+        {
+          "title": "Beneath the Remains / Mass Hypnosis",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 240866
+        },
+        {
+          "title": "Born Stubborn",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 255266
+        },
+        {
+          "title": "Desperate Cry",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 141866
+        },
+        {
+          "title": "Necromancer",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 195866
+        },
+        {
+          "title": "Dusted",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 239173
+        },
+        {
+          "title": "Endangered Species",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 507266
+        },
+        {
+          "title": "We Who Are Not as Others",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": 237360
+        },
+        {
+          "title": "Straighthate",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": 310306
+        },
+        {
+          "title": "Dictatorshit",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": 95626
+        },
+        {
+          "title": "Refuse/Resist",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": 232533
+        },
+        {
+          "title": "Arise / Dead Embryonic Cells",
+          "discNumber": 2,
+          "position": 5,
+          "durationMs": 189266
+        },
+        {
+          "title": "Slave New World",
+          "discNumber": 2,
+          "position": 6,
+          "durationMs": 162066
+        },
+        {
+          "title": "Biotech Is Godzilla",
+          "discNumber": 2,
+          "position": 7,
+          "durationMs": 163333
+        },
+        {
+          "title": "Inner Self",
+          "discNumber": 2,
+          "position": 8,
+          "durationMs": 276973
+        },
+        {
+          "title": "Polícia",
+          "discNumber": 2,
+          "position": 9,
+          "durationMs": 155560
+        },
+        {
+          "title": "We Gotta Know",
+          "discNumber": 2,
+          "position": 10,
+          "durationMs": 232466
+        },
+        {
+          "title": "Kaiowas",
+          "discNumber": 2,
+          "position": 11,
+          "durationMs": 372533
+        },
+        {
+          "title": "Ratamahatta",
+          "discNumber": 2,
+          "position": 12,
+          "durationMs": 324733
+        },
+        {
+          "title": "Orgasmatron",
+          "discNumber": 2,
+          "position": 13,
+          "durationMs": 396133
+        }
+      ]
+    },
+    {
+      "mbid": "01ec6280-d81c-3c77-94f0-ba9c2a17fd28",
+      "releaseMbid": "b577a472-0e80-4f68-960f-7edf92d74748",
+      "title": "Revolusongs",
+      "type": "EP",
+      "releaseDate": "2002-11-22",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/01ec6280-d81c-3c77-94f0-ba9c2a17fd28/front-1200",
+      "tracks": [
+        {
+          "title": "Messiah",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 207666
+        },
+        {
+          "title": "Angel",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 315973
+        },
+        {
+          "title": "Black Steel in the Hour of Chaos",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 242546
+        },
+        {
+          "title": "Mongoloid",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 155986
+        },
+        {
+          "title": "Mountain Song",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 209986
+        },
+        {
+          "title": "Bullet the Blue Sky",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 270266
+        },
+        {
+          "title": "Piranha",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 214040
+        },
+        {
+          "title": "Metallica Medley",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 69600
+        }
+      ]
+    },
+    {
+      "mbid": "6580cca2-e797-3fc0-b911-1695510aa2dd",
+      "releaseMbid": "3e1b9b0f-d274-325b-b434-cc8b13c5de89",
+      "title": "Roorback",
+      "type": "ALBUM",
+      "releaseDate": "2003-05-12",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/6580cca2-e797-3fc0-b911-1695510aa2dd/front-1200",
+      "tracks": [
+        {
+          "title": "Come Back Alive",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 186506
+        },
+        {
+          "title": "Godless",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 261720
+        },
+        {
+          "title": "Apes of God",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 216000
+        },
+        {
+          "title": "More of the Same",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 238640
+        },
+        {
+          "title": "Urge",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 196840
+        },
+        {
+          "title": "Corrupted",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 152973
+        },
+        {
+          "title": "As It Is",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 266720
+        },
+        {
+          "title": "Mind War",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 179626
+        },
+        {
+          "title": "Leech",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 144360
+        },
+        {
+          "title": "The Rift",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 176320
+        },
+        {
+          "title": "Bottomed Out",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 275653
+        },
+        {
+          "title": "Activist",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 113453
+        },
+        {
+          "title": "Outro / [silence] / [unknown]",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 697026
+        }
+      ]
+    },
+    {
+      "mbid": "b51fc920-ddc8-3612-bd0d-474169263634",
+      "releaseMbid": "0282f783-76f7-4e51-8247-c99ef2cea95f",
+      "title": "Live in São Paulo",
+      "type": "LIVE",
+      "releaseDate": "2005-11-08",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b51fc920-ddc8-3612-bd0d-474169263634/front-1200",
+      "tracks": [
+        {
+          "title": "Intro",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 291360
+        },
+        {
+          "title": "Apes of God",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 191213
+        },
+        {
+          "title": "Slave New World",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 157933
+        },
+        {
+          "title": "Propaganda",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 183906
+        },
+        {
+          "title": "Attitude",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 288826
+        },
+        {
+          "title": "Choke",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 207440
+        },
+        {
+          "title": "Inner Self / Beneath the Remains",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 295826
+        },
+        {
+          "title": "Escape to the Void",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 269973
+        },
+        {
+          "title": "Mind War",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 196813
+        },
+        {
+          "title": "Troops of Doom",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 219893
+        },
+        {
+          "title": "Necromancer",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 209760
+        },
+        {
+          "title": "Sepulnation",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": 233000
+        },
+        {
+          "title": "Refuse/Resist",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": 187000
+        },
+        {
+          "title": "Territory",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": 271000
+        },
+        {
+          "title": "Black Steel in the Hour of Chaos",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": 230000
+        },
+        {
+          "title": "Bullet the Blue Sky",
+          "discNumber": 2,
+          "position": 5,
+          "durationMs": 299000
+        },
+        {
+          "title": "Reza",
+          "discNumber": 2,
+          "position": 6,
+          "durationMs": 128000
+        },
+        {
+          "title": "Biotech Is Godzila",
+          "discNumber": 2,
+          "position": 7,
+          "durationMs": 161000
+        },
+        {
+          "title": "Arise / Dead Embrionic Cells",
+          "discNumber": 2,
+          "position": 8,
+          "durationMs": 269000
+        },
+        {
+          "title": "Come Back Alive",
+          "discNumber": 2,
+          "position": 9,
+          "durationMs": 139000
+        },
+        {
+          "title": "Roots Bloody Roots",
+          "discNumber": 2,
+          "position": 10,
+          "durationMs": 282000
+        }
+      ]
+    },
+    {
+      "mbid": "926122c8-5a26-3d42-9dd8-2de1055125d8",
+      "releaseMbid": "ccdeaa06-f0a5-45d2-8291-debc9b578b75",
+      "title": "Dante XXI",
+      "type": "ALBUM",
+      "releaseDate": "2006-03-14",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/926122c8-5a26-3d42-9dd8-2de1055125d8/front-1200",
+      "tracks": [
+        {
+          "title": "Lost (intro)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 59293
+        },
+        {
+          "title": "Dark Wood of Error",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 138680
+        },
+        {
+          "title": "Convicted in Life",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 189066
+        },
+        {
+          "title": "City of Dis",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 207013
+        },
+        {
+          "title": "False",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 214346
+        },
+        {
+          "title": "Fighting On",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 269333
+        },
+        {
+          "title": "Limbo (intro)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 44400
+        },
+        {
+          "title": "Ostia",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 186586
+        },
+        {
+          "title": "Buried Words",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 154786
+        },
+        {
+          "title": "Nuclear Seven",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 224093
+        },
+        {
+          "title": "Repeating the Horror",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 191800
+        },
+        {
+          "title": "Eunoé (intro)",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 12653
+        },
+        {
+          "title": "Crown and Miter",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 131160
+        },
+        {
+          "title": "Primium Mobile (intro)",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 29866
+        },
+        {
+          "title": "Still Flame",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 290720
+        },
+        {
+          "title": "Mindwar (live)",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 181080
+        },
+        {
+          "title": "False (demo)",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 195053
+        }
+      ]
+    },
+    {
+      "mbid": "d0624e76-739f-37db-92f8-fa47257042ce",
+      "releaseMbid": "26ea066f-a3ba-3d23-a389-6e17154c1434",
+      "title": "A-Lex",
+      "type": "ALBUM",
+      "releaseDate": "2009-01-23",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d0624e76-739f-37db-92f8-fa47257042ce/front-1200",
+      "tracks": [
+        {
+          "title": "A-Lex I",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 114066
+        },
+        {
+          "title": "Moloko Mesto",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 129426
+        },
+        {
+          "title": "Filthy Rot",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 166026
+        },
+        {
+          "title": "We've Lost You!",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 253986
+        },
+        {
+          "title": "What I Do!",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 121293
+        },
+        {
+          "title": "A-Lex II",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 138453
+        },
+        {
+          "title": "The Treatment",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 203680
+        },
+        {
+          "title": "Metamorphosis",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 181826
+        },
+        {
+          "title": "Sadistic Values",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 410933
+        },
+        {
+          "title": "Forceful Behavior",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 147573
+        },
+        {
+          "title": "Conform",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 114026
+        },
+        {
+          "title": "A-Lex III",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 123146
+        },
+        {
+          "title": "The Experiment",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 208360
+        },
+        {
+          "title": "Strike",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 220893
+        },
+        {
+          "title": "Enough Said",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 96866
+        },
+        {
+          "title": "Ludwig Van",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 330053
+        },
+        {
+          "title": "A-Lex IV",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 166426
+        },
+        {
+          "title": "Paradox",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 135786
+        }
+      ]
+    },
+    {
+      "mbid": "d5a2ca6d-9e7b-4d11-b44a-64d44eeb9394",
+      "releaseMbid": "89270423-347e-4968-951e-3582ef599ef8",
+      "title": "Kairos",
+      "type": "ALBUM",
+      "releaseDate": "2011-06-24",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d5a2ca6d-9e7b-4d11-b44a-64d44eeb9394/front-1200",
+      "tracks": [
+        {
+          "title": "Spectrum",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 241000
+        },
+        {
+          "title": "Kairos",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 215667
+        },
+        {
+          "title": "Relentless",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 214867
+        },
+        {
+          "title": "2011",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 28613
+        },
+        {
+          "title": "Just One Fix",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 211200
+        },
+        {
+          "title": "Dialog",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 295333
+        },
+        {
+          "title": "Mask",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 269107
+        },
+        {
+          "title": "1433",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 29520
+        },
+        {
+          "title": "Seethe",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 145387
+        },
+        {
+          "title": "Born Strong",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 278333
+        },
+        {
+          "title": "Embrace the Storm",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 210040
+        },
+        {
+          "title": "5772",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 26987
+        },
+        {
+          "title": "No One Will Stand",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 195267
+        },
+        {
+          "title": "Structure Violence (Azzes)",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 337280
+        },
+        {
+          "title": "4648 / Firestarter / Point of No Return",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 502360
+        }
+      ]
+    },
+    {
+      "mbid": "06c41147-e3ea-413d-95f4-ac1fc4ea5017",
+      "releaseMbid": "4f87e7f6-7c37-415d-b063-f16e83b9c746",
+      "title": "The Mediator Between Head and Hands Must Be the Heart",
+      "type": "ALBUM",
+      "releaseDate": "2013-10-25",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/06c41147-e3ea-413d-95f4-ac1fc4ea5017/front-1200",
+      "tracks": [
+        {
+          "title": "Trauma of War",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 225828
+        },
+        {
+          "title": "The Vatican",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 393064
+        },
+        {
+          "title": "Impending Doom",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 255529
+        },
+        {
+          "title": "Manipulation of Tragedy",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 256992
+        },
+        {
+          "title": "Tsunami",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 310517
+        },
+        {
+          "title": "The Bliss of Ignorants",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 291030
+        },
+        {
+          "title": "Grief",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 334994
+        },
+        {
+          "title": "The Age of the Atheist",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 259082
+        },
+        {
+          "title": "Obsessed",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 233978
+        },
+        {
+          "title": "Da lama ao caos / [silence] / [unknown]",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 1502824
+        }
+      ]
+    },
+    {
+      "mbid": "04c74599-f7c2-4a39-9932-0df58abe3c86",
+      "releaseMbid": "8e8699b3-3af5-471a-b507-62e85477316b",
+      "title": "Metal Veins: Alive at Rock in Rio",
+      "type": "LIVE",
+      "releaseDate": "2014-09-12",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/04c74599-f7c2-4a39-9932-0df58abe3c86/front-1200",
+      "tracks": [
+        {
+          "title": "Kaiowas",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 163293
+        },
+        {
+          "title": "Spectrum",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 247747
+        },
+        {
+          "title": "Refuse/Resist",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 241587
+        },
+        {
+          "title": "Sepulnation",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 278133
+        },
+        {
+          "title": "Delirium",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 197320
+        },
+        {
+          "title": "Fever",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 243427
+        },
+        {
+          "title": "We've Lost You",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 261693
+        },
+        {
+          "title": "Firestarter",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 291613
+        },
+        {
+          "title": "Requiem",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 224520
+        },
+        {
+          "title": "Structure Violence",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 284600
+        },
+        {
+          "title": "Territory",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 325120
+        },
+        {
+          "title": "Big Hands",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 476653
+        },
+        {
+          "title": "Roots Bloody Roots",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 350027
+        }
+      ]
+    },
+    {
+      "mbid": "1f0c2ccb-60ec-4a86-a5b0-3a5e6c15352e",
+      "releaseMbid": "81c330b2-77f3-4730-9540-26e7ad0e6f6c",
+      "title": "Machine Messiah",
+      "type": "ALBUM",
+      "releaseDate": "2017-01-13",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/1f0c2ccb-60ec-4a86-a5b0-3a5e6c15352e/front-1200",
+      "tracks": [
+        {
+          "title": "Machine Messiah",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 355000
+        },
+        {
+          "title": "I Am the Enemy",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 148000
+        },
+        {
+          "title": "Phantom Self",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 330000
+        },
+        {
+          "title": "Alethea",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 272000
+        },
+        {
+          "title": "Iceberg Dances",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 282000
+        },
+        {
+          "title": "Sworn Oath",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 369000
+        },
+        {
+          "title": "Resistant Parasites",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 298000
+        },
+        {
+          "title": "Silent Violence",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 226000
+        },
+        {
+          "title": "Vandals Nest",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 168000
+        },
+        {
+          "title": "Cyber God",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 323000
+        }
+      ]
+    },
+    {
+      "mbid": "0cbc9d22-1a97-4930-8a95-b936cdaaa751",
+      "releaseMbid": "7e0da5d5-c420-4ac6-a613-542393d7bab4",
+      "title": "Quadra",
+      "type": "ALBUM",
+      "releaseDate": "2020-02-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0cbc9d22-1a97-4930-8a95-b936cdaaa751/front-1200",
+      "tracks": [
+        {
+          "title": "Isolation",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 296000
+        },
+        {
+          "title": "Means to an End",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 279000
+        },
+        {
+          "title": "Last Time",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 267000
+        },
+        {
+          "title": "Capital Enslavement",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 220000
+        },
+        {
+          "title": "Ali",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 252000
+        },
+        {
+          "title": "Raging Void",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 237000
+        },
+        {
+          "title": "Guardians of Earth",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 311000
+        },
+        {
+          "title": "The Pentagram",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 320000
+        },
+        {
+          "title": "Autem",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 246000
+        },
+        {
+          "title": "Quadra",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 46000
+        },
+        {
+          "title": "Agony of Defeat",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 351000
+        },
+        {
+          "title": "Fear, Pain, Chaos, Suffering",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 249000
+        }
+      ]
+    },
+    {
+      "mbid": "9bc275b9-d1d5-48c1-9d24-3eca079a34c5",
+      "releaseMbid": "7d7b4d90-9c6a-48ed-acd6-1b20aa40b704",
+      "title": "The Cloud of Unknowing",
+      "type": "EP",
+      "releaseDate": "2026-04-24",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/9bc275b9-d1d5-48c1-9d24-3eca079a34c5/front-1200",
+      "tracks": [
+        {
+          "title": "All Souls Rising",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 215681
+        },
+        {
+          "title": "Beyond the Dream",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 244795
+        },
+        {
+          "title": "Sacred Books",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 172351
+        },
+        {
+          "title": "The Place",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 358838
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

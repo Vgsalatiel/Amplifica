@@ -1,0 +1,956 @@
+{
+  "generatedAt": "2026-11-27T13:49:01.674Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "39076047-fce8-44cc-a388-4f6baba4acb4",
+    "name": "Mayday Parade",
+    "slug": "mayday-parade",
+    "type": "BAND",
+    "country": "US",
+    "city": "Tallahassee",
+    "formedYear": 2005,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/39076047-fce8-44cc-a388-4f6baba4acb4"
+      }
+    ],
+    "genres": [
+      "pop-punk",
+      "emo"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "716f1710-b92f-3f38-b1ae-21b18e1033c2",
+      "releaseMbid": "a9b15b57-f412-4cf2-a471-8293329482e5",
+      "title": "Tales Told by Dead Friends",
+      "type": "EP",
+      "releaseDate": "2006-11-07",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/716f1710-b92f-3f38-b1ae-21b18e1033c2/front-1200",
+      "tracks": [
+        {
+          "title": "Just Say You're Not Into It",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 261000
+        },
+        {
+          "title": "When I Get Home, You're So Dead",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 210000
+        },
+        {
+          "title": "One Man Drinking Games",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 279000
+        },
+        {
+          "title": "Your Song",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 237000
+        },
+        {
+          "title": "Three Cheers for Five Years",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 340000
+        },
+        {
+          "title": "The Last Something That Meant Anything",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 294000
+        }
+      ]
+    },
+    {
+      "mbid": "fb0aed39-bcb9-3252-bdf1-d49be4caa72b",
+      "releaseMbid": "ca7fa8b2-ee7f-452b-8eef-21ff0bba71e2",
+      "title": "A Lesson in Romantics",
+      "type": "ALBUM",
+      "releaseDate": "2007-07-10",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/fb0aed39-bcb9-3252-bdf1-d49be4caa72b/front-1200",
+      "tracks": [
+        {
+          "title": "Jamie All Over",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 216400
+        },
+        {
+          "title": "Black Cat",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 203453
+        },
+        {
+          "title": "When I Get Home, You’re So Dead",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 193893
+        },
+        {
+          "title": "Jersey",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 209906
+        },
+        {
+          "title": "If You Wanted a Song Written About You, All You Had to Do Was Ask",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 244586
+        },
+        {
+          "title": "Miserable at Best",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 316920
+        },
+        {
+          "title": "Walk on Water or Drown",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 209880
+        },
+        {
+          "title": "Ocean and Atlantic",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 210400
+        },
+        {
+          "title": "I’d Hate to Be You When People Find Out What This Song Is About",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 241426
+        },
+        {
+          "title": "Take This to Heart",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 247920
+        },
+        {
+          "title": "Champagne’s for Celebrating (I’ll Have a Martini)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 236706
+        },
+        {
+          "title": "You Be the Anchor That Keeps My Feet on the Ground, I’ll Be the Wings That Keep Your Heart in the Clouds",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 278013
+        }
+      ]
+    },
+    {
+      "mbid": "cdc19447-044b-4d02-9004-3cce53edae03",
+      "releaseMbid": "43ae8b7c-4ab6-4d47-9da8-a6ceb41f52a4",
+      "title": "Anywhere but Here",
+      "type": "ALBUM",
+      "releaseDate": "2009-10-06",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/cdc19447-044b-4d02-9004-3cce53edae03/front-1200",
+      "tracks": [
+        {
+          "title": "Kids in Love",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 216000
+        },
+        {
+          "title": "Anywhere but Here",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 190000
+        },
+        {
+          "title": "The Silence",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 215000
+        },
+        {
+          "title": "Still Breathing",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 232000
+        },
+        {
+          "title": "Bruised and Scarred",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 203000
+        },
+        {
+          "title": "If You Can't Live Without Me, Why Aren't You Dead Yet?",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 218000
+        },
+        {
+          "title": "Save Your Heart",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 222000
+        },
+        {
+          "title": "Get Up",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 183000
+        },
+        {
+          "title": "Center of Attention",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 180000
+        },
+        {
+          "title": "I Swear This Time I Mean It",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 241000
+        },
+        {
+          "title": "The End",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 217000
+        }
+      ]
+    },
+    {
+      "mbid": "5c44dfe0-b9b7-498c-a63b-1d441a5b4c1c",
+      "releaseMbid": "53e77fe7-7271-4860-b293-6107bdd49535",
+      "title": "Valdosta",
+      "type": "EP",
+      "releaseDate": "2011-03-04",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/5c44dfe0-b9b7-498c-a63b-1d441a5b4c1c/front-1200",
+      "tracks": [
+        {
+          "title": "Amber Lynn",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 233000
+        },
+        {
+          "title": "Jamie All Over",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 243000
+        },
+        {
+          "title": "Kids in Love",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 228000
+        },
+        {
+          "title": "Your Song",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 249000
+        },
+        {
+          "title": "Bruised and Scarred",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 202000
+        },
+        {
+          "title": "Terrible Things",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 238000
+        }
+      ]
+    },
+    {
+      "mbid": "d246a1e0-14bc-4833-9c78-9037b639f414",
+      "releaseMbid": "0daffc5f-fe72-4fa8-af3c-c63bf6c818eb",
+      "title": "Mayday Parade",
+      "type": "ALBUM",
+      "releaseDate": "2011-10-03",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d246a1e0-14bc-4833-9c78-9037b639f414/front-1200",
+      "tracks": [
+        {
+          "title": "Oh Well, Oh Well",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 290000
+        },
+        {
+          "title": "No Heroes Allowed",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 215000
+        },
+        {
+          "title": "When You See My Friends",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 215000
+        },
+        {
+          "title": "You're Dead Wrong",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 239000
+        },
+        {
+          "title": "Priceless",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 199000
+        },
+        {
+          "title": "Stay",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 215000
+        },
+        {
+          "title": "Call Me Hopeless, Not Romantic",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 209000
+        },
+        {
+          "title": "A Shot Across the Bow",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 225000
+        },
+        {
+          "title": "Everything's an Illusion",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 208000
+        },
+        {
+          "title": "I'd Rather Make Mistakes Than Nothing at All",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 226000
+        },
+        {
+          "title": "Without the Bitter the Sweet Isn't as Sweet",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 212000
+        },
+        {
+          "title": "Happy Endings Are Stories That Haven't Ended Yet",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 278000
+        },
+        {
+          "title": "When You See My Friends (Acoustic Version)",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 205000
+        },
+        {
+          "title": "Oh Well, Oh Well (Acoustic Version)",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 283000
+        }
+      ]
+    },
+    {
+      "mbid": "d8961df1-1f18-48df-a171-ddaa18877018",
+      "releaseMbid": "67331ae2-d391-4cfd-bf4e-586d5cdaf55a",
+      "title": "Monsters in the Closet",
+      "type": "ALBUM",
+      "releaseDate": "2013-10-08",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d8961df1-1f18-48df-a171-ddaa18877018/front-1200",
+      "tracks": [
+        {
+          "title": "Ghosts",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 283000
+        },
+        {
+          "title": "Girls",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 203000
+        },
+        {
+          "title": "Last Night for a Table of Two",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 219000
+        },
+        {
+          "title": "12 Through 15",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 298000
+        },
+        {
+          "title": "The Torment of Existence Weighed Against the Horror of Nonbeing",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 245000
+        },
+        {
+          "title": "Even Robots Need Blankets",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 204000
+        },
+        {
+          "title": "Repent and Repeat",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 174000
+        },
+        {
+          "title": "Demons",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 211000
+        },
+        {
+          "title": "Sorry, Not Sorry",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 205000
+        },
+        {
+          "title": "Nothing You Can Live Without, Nothing You Can Do About",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 235000
+        },
+        {
+          "title": "Hold Onto Me",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 196000
+        },
+        {
+          "title": "Angels",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 255000
+        }
+      ]
+    },
+    {
+      "mbid": "07aa3b50-d2fe-4440-804a-9017e0cfa4b5",
+      "releaseMbid": "207d510d-6e84-4c7e-827c-33ab0cc87950",
+      "title": "Black Lines",
+      "type": "ALBUM",
+      "releaseDate": "2015-10-09",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/07aa3b50-d2fe-4440-804a-9017e0cfa4b5/front-1200",
+      "tracks": [
+        {
+          "title": "One of Them Will Destroy the Other",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 190000
+        },
+        {
+          "title": "Just Out of Reach",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 223000
+        },
+        {
+          "title": "Hollow",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 192000
+        },
+        {
+          "title": "Letting Go",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 230000
+        },
+        {
+          "title": "Let’s Be Honest",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 231000
+        },
+        {
+          "title": "Keep in Mind, Transmogrification Is a New Technology",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 327000
+        },
+        {
+          "title": "Narrow",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 187000
+        },
+        {
+          "title": "Underneath the Tide",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 171000
+        },
+        {
+          "title": "All on Me",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 255000
+        },
+        {
+          "title": "Until You’re Big Enough",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 195000
+        },
+        {
+          "title": "Look Up and See Infinity, Look Down and See Nothing",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 171000
+        },
+        {
+          "title": "One of Us",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 267000
+        }
+      ]
+    },
+    {
+      "mbid": "d1ed713e-11ae-4fcc-9ddc-bb4679dc98ba",
+      "releaseMbid": "10297e23-4cc0-4e53-983e-afc917211fb8",
+      "title": "Sunnyland",
+      "type": "ALBUM",
+      "releaseDate": "2018-06-15",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d1ed713e-11ae-4fcc-9ddc-bb4679dc98ba/front-1200",
+      "tracks": [
+        {
+          "title": "Never Sure",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 234000
+        },
+        {
+          "title": "It’s Hard to Be Religious When Certain People Are Never Incinerated by Bolts of Lightning",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 202000
+        },
+        {
+          "title": "Piece of Your Heart",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 220000
+        },
+        {
+          "title": "Is Nowhere",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 231000
+        },
+        {
+          "title": "Take My Breath Away",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 235000
+        },
+        {
+          "title": "Stay the Same",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 201000
+        },
+        {
+          "title": "How Do You Like Me Now",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 209000
+        },
+        {
+          "title": "Where You Are",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 228000
+        },
+        {
+          "title": "If I Were You",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 246000
+        },
+        {
+          "title": "Satellite",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 243000
+        },
+        {
+          "title": "Looks Red, Tastes Blue",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 254000
+        },
+        {
+          "title": "Always Leaving",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 221000
+        },
+        {
+          "title": "Sunnyland",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 233000
+        }
+      ]
+    },
+    {
+      "mbid": "627ae8e0-064f-45c9-b295-cb6ef7d69b67",
+      "releaseMbid": "01b264b2-cff8-4710-9475-eba469a75c74",
+      "title": "Sunnyland B‐Sides",
+      "type": "EP",
+      "releaseDate": "2019-09-20",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/627ae8e0-064f-45c9-b295-cb6ef7d69b67/front-1200",
+      "tracks": [
+        {
+          "title": "It’s Hard To Be Religious When Certain People Are Never Incinerated By Bolts of Lightning (acoustic)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 209075
+        },
+        {
+          "title": "Turn My Back",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 213249
+        }
+      ]
+    },
+    {
+      "mbid": "22ef72af-424d-488a-bee5-9b1c6e55bbce",
+      "releaseMbid": "b83f04b5-2a67-4a4f-a806-59a40abb9bbd",
+      "title": "Out of Here",
+      "type": "EP",
+      "releaseDate": "2020-10-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/22ef72af-424d-488a-bee5-9b1c6e55bbce/front-1200",
+      "tracks": [
+        {
+          "title": "First Train",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 215000
+        },
+        {
+          "title": "Lighten Up Kid",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 218000
+        },
+        {
+          "title": "I Can Only Hope",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 203000
+        }
+      ]
+    },
+    {
+      "mbid": "7fccdb96-6776-4ba9-825f-f21c3df2e499",
+      "releaseMbid": "008aa5de-2af0-4e90-a570-ba523744f541",
+      "title": "What It Means to Fall Apart",
+      "type": "ALBUM",
+      "releaseDate": "2021-11-19",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/7fccdb96-6776-4ba9-825f-f21c3df2e499/front-1200",
+      "tracks": [
+        {
+          "title": "Kids of Summer",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 219713
+        },
+        {
+          "title": "Golden Days",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Think of You",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "If My Ghosts Don't Play, I Don't Play",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Sideways",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "One for the Rocks and One for the Scary",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 243888
+        },
+        {
+          "title": "Bad at Love",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 202253
+        },
+        {
+          "title": "Notice",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "Heaven",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Angels Die Too",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": null
+        },
+        {
+          "title": "You Not Me",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": null
+        },
+        {
+          "title": "I Can't Do This Anymore",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "1df367a2-97b8-42ba-af50-d4faaf9c02ad",
+      "releaseMbid": "77c1dcbc-0d14-4cc7-9768-6d5b9956c106",
+      "title": "Sweet",
+      "type": "ALBUM",
+      "releaseDate": "2025-04-18",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/1df367a2-97b8-42ba-af50-d4faaf9c02ad/front-1200",
+      "tracks": [
+        {
+          "title": "By the Way",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 172000
+        },
+        {
+          "title": "4,000 Days Plus the Ones I Don’t Remember",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 232000
+        },
+        {
+          "title": "Who’s Laughing Now",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 198000
+        },
+        {
+          "title": "This Personified",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 21000
+        },
+        {
+          "title": "Who We Are",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 178000
+        },
+        {
+          "title": "Natural",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 222000
+        },
+        {
+          "title": "Towards You",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 221000
+        },
+        {
+          "title": "Pretty Good to Feel Something",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 186000
+        }
+      ]
+    },
+    {
+      "mbid": "bea3a4ff-b0fa-45d5-9ca6-24051179eeb9",
+      "releaseMbid": "c4c07b26-8eca-4f7b-8c27-3f38a3619039",
+      "title": "Sad",
+      "type": "ALBUM",
+      "releaseDate": "2025-10-03",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/bea3a4ff-b0fa-45d5-9ca6-24051179eeb9/front-1200",
+      "tracks": [
+        {
+          "title": "It’s Not All Bad",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 241000
+        },
+        {
+          "title": "Under My Sweater",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 219000
+        },
+        {
+          "title": "Promises",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 263000
+        },
+        {
+          "title": "I Miss the 90s",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 179000
+        },
+        {
+          "title": "One Day at a Time",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 194000
+        },
+        {
+          "title": "In Every Way, Shape or Form",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 207000
+        },
+        {
+          "title": "Breakup Song",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 213000
+        },
+        {
+          "title": "I Must Obey the Inscrutable Exhortations of My Soul",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 208000
+        }
+      ]
+    },
+    {
+      "mbid": "225a15ac-5957-4dec-81fd-6bdb9ce1dbee",
+      "releaseMbid": "4e7364f5-39ca-42cd-8ff2-39a144f8c86f",
+      "title": "Sugar",
+      "type": "ALBUM",
+      "releaseDate": "2026-07-24",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/225a15ac-5957-4dec-81fd-6bdb9ce1dbee/front-1200",
+      "tracks": [
+        {
+          "title": "Set Phasers to Bummed",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 63000
+        },
+        {
+          "title": "Blame It on the Youth",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 191000
+        },
+        {
+          "title": "Sweet Sad Sugar",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 224000
+        },
+        {
+          "title": "Weekend Music",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 236000
+        },
+        {
+          "title": "Lying to Myself",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 219000
+        },
+        {
+          "title": "Two Hearts",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 200000
+        },
+        {
+          "title": "Don’t Give Up on Me",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 174000
+        },
+        {
+          "title": "Patriotism of First Tiger Called Into Question",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 262000
+        },
+        {
+          "title": "So the Story Goes",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 228000
+        },
+        {
+          "title": "What Happens Next",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 282000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

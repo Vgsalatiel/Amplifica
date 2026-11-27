@@ -1,0 +1,980 @@
+{
+  "generatedAt": "2026-11-27T13:47:02.493Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "ae13e1fc-a2b1-4e3c-bfb9-737d3aeb7dab",
+    "name": "The Wonder Years",
+    "slug": "the-wonder-years",
+    "type": "BAND",
+    "country": "US",
+    "city": "Lansdale",
+    "formedYear": 2005,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/ae13e1fc-a2b1-4e3c-bfb9-737d3aeb7dab"
+      }
+    ],
+    "genres": [
+      "pop-punk",
+      "emo"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "21f0568a-d71a-3868-a6f2-7515f7e9a8e4",
+      "releaseMbid": "2b39c456-3109-44ea-a7e6-7625d3c4b2f8",
+      "title": "Bangarang! / The Wonder Years",
+      "type": "EP",
+      "releaseDate": "2006-11-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/21f0568a-d71a-3868-a6f2-7515f7e9a8e4/front-1200",
+      "tracks": [
+        {
+          "title": "We Dress to Impress",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 187000
+        },
+        {
+          "title": "By Heart",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 146000
+        },
+        {
+          "title": "Who Could Forget 6th Grade",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 245000
+        },
+        {
+          "title": "I Nailed Your Prom Date",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 229000
+        },
+        {
+          "title": "My Geraldine Lies Over the Delaware",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 150000
+        },
+        {
+          "title": "I Ain't Saying He a Golddigger (Sike!)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 203000
+        },
+        {
+          "title": "Let's Moshercise!!!",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 153000
+        },
+        {
+          "title": "Through Two Hearts",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 306000
+        }
+      ]
+    },
+    {
+      "mbid": "27a28aed-33bb-34b8-90b3-ac6f62f42b7b",
+      "releaseMbid": "50f5b8cd-4202-44ea-98aa-ab7d9f056ec9",
+      "title": "Get Stoked on It!",
+      "type": "ALBUM",
+      "releaseDate": "2007-10-30",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/27a28aed-33bb-34b8-90b3-ac6f62f42b7b/front-1200",
+      "tracks": [
+        {
+          "title": "Keystone State Dude-Core",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 89000
+        },
+        {
+          "title": "Bout to Get Fruit Punched, Homie",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 151000
+        },
+        {
+          "title": "Buzz Aldrin: The Poster Boy for Second Place",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 171000
+        },
+        {
+          "title": "Let's Moshercise!!!",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 169000
+        },
+        {
+          "title": "\"What If We [Swam] Into Nothing?\"",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 166000
+        },
+        {
+          "title": "Racing Trains",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 98000
+        },
+        {
+          "title": "Zombies Are the New Black",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 193000
+        },
+        {
+          "title": "We Were Giants",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 216000
+        },
+        {
+          "title": "My Geraldine Lies Over the Delaware",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 149000
+        },
+        {
+          "title": "Dude, What Is a Land Pirate?",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 201000
+        },
+        {
+          "title": "I Fell in Love With a Ninja Master",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 192000
+        },
+        {
+          "title": "When Keeping It Real Goes Wrong",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 168000
+        }
+      ]
+    },
+    {
+      "mbid": "3635b1e5-25e6-3f73-8787-7258b0f98d7b",
+      "releaseMbid": "45e78083-86a8-4214-8ed7-e1255997598b",
+      "title": "Won’t Be Pathetic Forever",
+      "type": "EP",
+      "releaseDate": "2008-06-10",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/3635b1e5-25e6-3f73-8787-7258b0f98d7b/front-1200",
+      "tracks": [
+        {
+          "title": "Mike Kennedy Is a Bad Friend",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Solo & Chewy: Holdin' It Down (feat. Rachel Minton)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Won't Be Pathetic Forever",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "You're Not Sallinger. Get Over It.",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "f089d3d2-5f6e-4e6b-acea-0391d2a11cfd",
+      "releaseMbid": "38cd80b2-fb2a-4dac-a04c-6031df42f7a7",
+      "title": "Distances",
+      "type": "EP",
+      "releaseDate": "2009-03-10",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "An Elegy for Baby Blue",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 145000
+        },
+        {
+          "title": "Don't Open the Fridge!",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 177000
+        },
+        {
+          "title": "I'm Not Being Rude, but I Could Have Had Your Job",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 216000
+        },
+        {
+          "title": "Summer Vacation in Providence",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 144000
+        },
+        {
+          "title": "This Is Very Impossible",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 179000
+        }
+      ]
+    },
+    {
+      "mbid": "0b4467e4-d658-4faa-8174-d0a9325069cf",
+      "releaseMbid": "3b8be69f-1cde-4b6c-baad-8143ee8abe9b",
+      "title": "The Upsides",
+      "type": "ALBUM",
+      "releaseDate": "2010-01-26",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0b4467e4-d658-4faa-8174-d0a9325069cf/front-1200",
+      "tracks": [
+        {
+          "title": "My Last Semester",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 230000
+        },
+        {
+          "title": "Logan Circle",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 176000
+        },
+        {
+          "title": "Everything I Own Fits Inside This Backpack",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 258000
+        },
+        {
+          "title": "Dynamite Shovel",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 65000
+        },
+        {
+          "title": "New Year's With Carl Weathers",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 190000
+        },
+        {
+          "title": "It's Never Sunny in South Philadelphia",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 244000
+        },
+        {
+          "title": "Hostels & Brothels",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 224000
+        },
+        {
+          "title": "Melrose Diner",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 201000
+        },
+        {
+          "title": "This Party Sucks",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 209000
+        },
+        {
+          "title": "Hey Thanks",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 151000
+        },
+        {
+          "title": "Washington Square Park",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 209000
+        },
+        {
+          "title": "All My Friends Are in Bar Bands",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 231000
+        }
+      ]
+    },
+    {
+      "mbid": "21017566-f66a-45b2-abab-9f6dc0c1a968",
+      "releaseMbid": "3485fe94-2e22-49fa-b343-4cb992fe7840",
+      "title": "Suburbia I've Given You All and Now I'm Nothing",
+      "type": "ALBUM",
+      "releaseDate": "2011-06-14",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/21017566-f66a-45b2-abab-9f6dc0c1a968/front-1200",
+      "tracks": [
+        {
+          "title": "Came Out Swinging",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 244744
+        },
+        {
+          "title": "Woke Up Older",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 213663
+        },
+        {
+          "title": "Local Man Ruins Everything",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 169436
+        },
+        {
+          "title": "Suburbia",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 51594
+        },
+        {
+          "title": "My Life as a Pigeon",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 186485
+        },
+        {
+          "title": "Summers in PA",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 197526
+        },
+        {
+          "title": "I Won’t Say the Lord’s Prayer",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 185992
+        },
+        {
+          "title": "Coffee Eyes",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 219776
+        },
+        {
+          "title": "I’ve Given You All",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 100124
+        },
+        {
+          "title": "Don’t Let Me Cave In",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 203000
+        },
+        {
+          "title": "You Made Me Want to Be a Saint",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 91800
+        },
+        {
+          "title": "Hoodie Weather",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 241882
+        },
+        {
+          "title": "And Now I’m Nothing",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 300721
+        }
+      ]
+    },
+    {
+      "mbid": "6457de61-1b0a-43c8-a4da-1dd973ebee4f",
+      "releaseMbid": "8b349534-b08b-49e8-920d-6824d49204ec",
+      "title": "Manton Street",
+      "type": "EP",
+      "releaseDate": "2013",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "I Was Scared And I'm Sorry",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 245000
+        },
+        {
+          "title": "Dynamite Shovel (Campfire Version)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 72000
+        },
+        {
+          "title": "Logan Circle (A New Hope)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 273000
+        },
+        {
+          "title": "We Won't Bury You",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 111000
+        }
+      ]
+    },
+    {
+      "mbid": "a43ba98d-0fb0-4e9b-ab7b-7ef712692e96",
+      "releaseMbid": "a04722cb-0183-4470-b261-e3094cad9e47",
+      "title": "The Greatest Generation",
+      "type": "ALBUM",
+      "releaseDate": "2013-05-14",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a43ba98d-0fb0-4e9b-ab7b-7ef712692e96/front-1200",
+      "tracks": [
+        {
+          "title": "There, There",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 147000
+        },
+        {
+          "title": "Passing Through a Screen Door",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 216000
+        },
+        {
+          "title": "We Could Die Like This",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 218000
+        },
+        {
+          "title": "Dismantling Summer",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 226000
+        },
+        {
+          "title": "The Bastards, the Vultures, the Wolves",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 236000
+        },
+        {
+          "title": "The Devil in My Bloodstream",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 246000
+        },
+        {
+          "title": "Teenage Parents",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 219000
+        },
+        {
+          "title": "Chaser",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 235000
+        },
+        {
+          "title": "An American Religion (FSF)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 137000
+        },
+        {
+          "title": "A Raindance in Traffic",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 220000
+        },
+        {
+          "title": "Madelyn",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 167000
+        },
+        {
+          "title": "Cul‐De‐Sac",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 219000
+        },
+        {
+          "title": "I Just Want to Sell Out My Funeral",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 455000
+        }
+      ]
+    },
+    {
+      "mbid": "d726dc26-1a98-46ff-a866-8a0102300f07",
+      "releaseMbid": "43cdf5dd-8803-405c-9222-e4af1a552d79",
+      "title": "No Closer to Heaven",
+      "type": "ALBUM",
+      "releaseDate": "2015-08-28",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d726dc26-1a98-46ff-a866-8a0102300f07/front-1200",
+      "tracks": [
+        {
+          "title": "Brothers &",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 91000
+        },
+        {
+          "title": "Cardinals",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 195000
+        },
+        {
+          "title": "A Song for Patsy Cline",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 232000
+        },
+        {
+          "title": "I Don’t Like Who I Was Then",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 218000
+        },
+        {
+          "title": "Cigarettes & Saints",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 303000
+        },
+        {
+          "title": "The Bluest Things on Earth",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 191000
+        },
+        {
+          "title": "A Song for Ernest Hemingway",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 171000
+        },
+        {
+          "title": "Thanks for the Ride",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 212000
+        },
+        {
+          "title": "Stained Glass Ceilings",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 285000
+        },
+        {
+          "title": "I Wanted So Badly to Be Brave",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 217000
+        },
+        {
+          "title": "You in January",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 194000
+        },
+        {
+          "title": "Palm Reader",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 255000
+        },
+        {
+          "title": "No Closer to Heaven",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 142000
+        },
+        {
+          "title": "Slow Dancing with San Andreas",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 224000
+        },
+        {
+          "title": "Palm Reader (alternate version)",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 237000
+        }
+      ]
+    },
+    {
+      "mbid": "f8fef194-133c-4a33-ba15-ea4be526bb2e",
+      "releaseMbid": "0d05923b-aa0f-43f4-9d15-a745347ca793",
+      "title": "Burst & Decay (An Acoustic EP)",
+      "type": "EP",
+      "releaseDate": "2017-09-22",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f8fef194-133c-4a33-ba15-ea4be526bb2e/front-1200",
+      "tracks": [
+        {
+          "title": "A Song for Ernest Hemingway",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 187000
+        },
+        {
+          "title": "There, There",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 162000
+        },
+        {
+          "title": "Coffee Eyes",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 240000
+        },
+        {
+          "title": "Cardinals",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 215000
+        },
+        {
+          "title": "Don't Let Me Cave In",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 261000
+        },
+        {
+          "title": "Dismantling Summer",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 248000
+        },
+        {
+          "title": "You in January",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 193000
+        }
+      ]
+    },
+    {
+      "mbid": "b4efa59f-3fbf-4c02-bbca-2ba3531c2596",
+      "releaseMbid": "61782a7b-4302-43d6-85c7-fc6e0b705074",
+      "title": "Sister Cities",
+      "type": "ALBUM",
+      "releaseDate": "2018-04-06",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/b4efa59f-3fbf-4c02-bbca-2ba3531c2596/front-1200",
+      "tracks": [
+        {
+          "title": "Raining in Kyoto",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 247560
+        },
+        {
+          "title": "Pyramids of Salt",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 282080
+        },
+        {
+          "title": "It Must Get Lonely",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 278720
+        },
+        {
+          "title": "Sister Cities",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 181000
+        },
+        {
+          "title": "Flowers Where Your Face Should Be",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 272533
+        },
+        {
+          "title": "Heaven's Gate (Sad & Sober)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 203613
+        },
+        {
+          "title": "We Look Like Lightning",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 239400
+        },
+        {
+          "title": "The Ghosts of Right Now",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 189000
+        },
+        {
+          "title": "When the Blue Finally Came",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 131067
+        },
+        {
+          "title": "The Orange Grove",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 219387
+        },
+        {
+          "title": "The Ocean Grew Hands to Hold Me",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 375373
+        }
+      ]
+    },
+    {
+      "mbid": "32b12e9d-6221-4b7b-8a0b-667bda86cb5a",
+      "releaseMbid": "20d29350-c927-45cb-b59a-cc27ec584304",
+      "title": "Burst & Decay (Volume II)",
+      "type": "EP",
+      "releaseDate": "2020-02-14",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/32b12e9d-6221-4b7b-8a0b-667bda86cb5a/front-1200",
+      "tracks": [
+        {
+          "title": "Washington Square Park",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 247000
+        },
+        {
+          "title": "We Look Like Lightning",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 238000
+        },
+        {
+          "title": "I Wanted So Badly to Be Brave",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 213000
+        },
+        {
+          "title": "Passing Through a Screen Door",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 245000
+        },
+        {
+          "title": "It Must Get Lonely",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 222000
+        },
+        {
+          "title": "Cul‐de‐sac",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 235000
+        },
+        {
+          "title": "Hoodie Weather",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 227000
+        },
+        {
+          "title": "The Ghosts of Right Now",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 218000
+        }
+      ]
+    },
+    {
+      "mbid": "fcec07c6-aa4c-4ba9-aa61-868c348dd143",
+      "releaseMbid": "4b3244da-9393-4726-9de8-cb457537c623",
+      "title": "The Hum Goes On Forever",
+      "type": "ALBUM",
+      "releaseDate": "2022-09-22",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/fcec07c6-aa4c-4ba9-aa61-868c348dd143/front-1200",
+      "tracks": [
+        {
+          "title": "Doors I Painted Shut",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 181133
+        },
+        {
+          "title": "Wyatt’s Song (Your Name)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 225840
+        },
+        {
+          "title": "Oldest Daughter",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 199813
+        },
+        {
+          "title": "Cardinals II",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 252773
+        },
+        {
+          "title": "The Paris of Nowhere",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 210546
+        },
+        {
+          "title": "Summer Clothes",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 240520
+        },
+        {
+          "title": "Lost It in the Lights",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 233293
+        },
+        {
+          "title": "Songs About Death",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 201066
+        },
+        {
+          "title": "Low Tide",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 217093
+        },
+        {
+          "title": "Laura & The Beehive",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 244120
+        },
+        {
+          "title": "Old Friends Like Lost Teeth",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 194960
+        },
+        {
+          "title": "You’re the Reason I Don’t Want the World to End",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 278440
+        }
+      ]
+    },
+    {
+      "mbid": "279be793-013c-4ccb-a607-7d897dc07f4b",
+      "releaseMbid": "fe58f5f3-70e3-461c-89d3-10e9bbe32a20",
+      "title": "Burst & Decay (Volume III)",
+      "type": "EP",
+      "releaseDate": "2025-05-09",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/279be793-013c-4ccb-a607-7d897dc07f4b/front-1200",
+      "tracks": [
+        {
+          "title": "Junebug",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 196394
+        },
+        {
+          "title": "Came Out Swinging",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 236928
+        },
+        {
+          "title": "Oldest Daughter",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 211453
+        },
+        {
+          "title": "Wyatt's Interlude",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 67458
+        },
+        {
+          "title": "Wyatt's Song (Your Name)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 221461
+        },
+        {
+          "title": "Teenage Parents",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 244757
+        },
+        {
+          "title": "I Don't Like Who I Was Then",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 233040
+        },
+        {
+          "title": "The Ocean Grew Hands to Hold Me",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 275440
+        },
+        {
+          "title": "Doors I Painted Shut",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 161397
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

@@ -1,0 +1,1388 @@
+{
+  "generatedAt": "2026-11-27T13:58:49.389Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "24f8d8a5-269b-475c-a1cb-792990b0b2ee",
+    "name": "Rancid",
+    "slug": "rancid",
+    "type": "BAND",
+    "country": "US",
+    "city": "Albany",
+    "formedYear": 1991,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/24f8d8a5-269b-475c-a1cb-792990b0b2ee"
+      }
+    ],
+    "genres": [
+      "punk-rock"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "218264f1-65ac-4dc4-8ed9-e423f08fd9fe",
+      "releaseMbid": "a475308b-bc8f-46a1-bdd6-1509945ba49c",
+      "title": "Rancid",
+      "type": "EP",
+      "releaseDate": "1992-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/218264f1-65ac-4dc4-8ed9-e423f08fd9fe/front-1200",
+      "tracks": [
+        {
+          "title": "I'm Not the Only One",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 171000
+        },
+        {
+          "title": "Battering Ram",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 163000
+        },
+        {
+          "title": "The Sentence",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 95000
+        },
+        {
+          "title": "Media Controller",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 114000
+        },
+        {
+          "title": "Idle Hands",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 119000
+        }
+      ]
+    },
+    {
+      "mbid": "642238f2-24b6-3a0b-bfa7-9c0b4731989d",
+      "releaseMbid": "336d5895-577e-351b-9576-0a141834c7d2",
+      "title": "Rancid",
+      "type": "ALBUM",
+      "releaseDate": "1993-05-10",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/642238f2-24b6-3a0b-bfa7-9c0b4731989d/front-1200",
+      "tracks": [
+        {
+          "title": "Adina",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 99733
+        },
+        {
+          "title": "Hyena",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 174760
+        },
+        {
+          "title": "Detroit",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 144400
+        },
+        {
+          "title": "Rats in the Hallway",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 141733
+        },
+        {
+          "title": "Another Night",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 112840
+        },
+        {
+          "title": "Animosity",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 145493
+        },
+        {
+          "title": "Outta My Mind",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 142840
+        },
+        {
+          "title": "Whirlwind",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 135293
+        },
+        {
+          "title": "Rejected",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 132466
+        },
+        {
+          "title": "Injury",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 126440
+        },
+        {
+          "title": "The Bottle",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 124960
+        },
+        {
+          "title": "Trenches",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 123773
+        },
+        {
+          "title": "Holiday Sunrise",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 105600
+        },
+        {
+          "title": "Unwritten Rules",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 102333
+        },
+        {
+          "title": "Union Blood",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 123666
+        },
+        {
+          "title": "Get Out of My Way",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 119493
+        }
+      ]
+    },
+    {
+      "mbid": "5346038d-5584-3273-b25a-20ac97666e32",
+      "releaseMbid": "59232f8b-f0d3-4be8-bc5c-0e81b680a745",
+      "title": "Radio, Radio, Radio",
+      "type": "EP",
+      "releaseDate": "1993-08-26",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/5346038d-5584-3273-b25a-20ac97666e32/front-1200",
+      "tracks": [
+        {
+          "title": "Radio",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 126000
+        },
+        {
+          "title": "Dope Sick Girl",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 119000
+        },
+        {
+          "title": "Just a Felling",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 116000
+        },
+        {
+          "title": "Some Ones Gunna Die",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 109000
+        }
+      ]
+    },
+    {
+      "mbid": "37c2647f-8e58-3839-a6b6-374c9ee88b1d",
+      "releaseMbid": "02a1fd3b-193a-43ff-937d-2f9b8c0d8d15",
+      "title": "Let’s Go",
+      "type": "ALBUM",
+      "releaseDate": "1994-06-14",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/37c2647f-8e58-3839-a6b6-374c9ee88b1d/front-1200",
+      "tracks": [
+        {
+          "title": "Nihilism",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Radio",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Side Kick",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Salvation",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Tenderloin",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Let's Go",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "As One",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Burn",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "The Ballad Of Jimmy & Johnny",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Gunshot",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": null
+        },
+        {
+          "title": "I Am The One",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": null
+        },
+        {
+          "title": "Gave It Away",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": null
+        },
+        {
+          "title": "Ghetto Box",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": null
+        },
+        {
+          "title": "Harry Bridges",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": null
+        },
+        {
+          "title": "Black & Blue",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": null
+        },
+        {
+          "title": "St. Mary",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": null
+        },
+        {
+          "title": "Dope Sick Girl",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": null
+        },
+        {
+          "title": "International Cover-Up",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": null
+        },
+        {
+          "title": "Solidarity",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": null
+        },
+        {
+          "title": "Midnight",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": null
+        },
+        {
+          "title": "Motorcycle Ride",
+          "discNumber": 1,
+          "position": 21,
+          "durationMs": null
+        },
+        {
+          "title": "Name",
+          "discNumber": 1,
+          "position": 22,
+          "durationMs": null
+        },
+        {
+          "title": "7 Years Down",
+          "discNumber": 1,
+          "position": 23,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "5e85636b-0a09-377e-a37c-2fe8ab52d49f",
+      "releaseMbid": "a4326c18-4cf9-4e16-a289-2e6e7508d450",
+      "title": "…And Out Come the Wolves",
+      "type": "ALBUM",
+      "releaseDate": "1995-08-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/5e85636b-0a09-377e-a37c-2fe8ab52d49f/front-1200",
+      "tracks": [
+        {
+          "title": "Maxwell Murder",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 85866
+        },
+        {
+          "title": "The 11th Hour",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 148026
+        },
+        {
+          "title": "Roots Radicals",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 167506
+        },
+        {
+          "title": "Time Bomb",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 144333
+        },
+        {
+          "title": "Olympia WA.",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 210626
+        },
+        {
+          "title": "Lock, Step & Gone",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 145400
+        },
+        {
+          "title": "Junkie Man",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 184840
+        },
+        {
+          "title": "Listed M.I.A.",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 142466
+        },
+        {
+          "title": "Ruby Soho",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 157533
+        },
+        {
+          "title": "Daly City Train",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 201426
+        },
+        {
+          "title": "Journey to the End of the East Bay",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 191600
+        },
+        {
+          "title": "She’s Automatic",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 95040
+        },
+        {
+          "title": "Old Friend",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 173800
+        },
+        {
+          "title": "Disorder and Disarray",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 169426
+        },
+        {
+          "title": "The Wars End",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 113640
+        },
+        {
+          "title": "You Don’t Care Nothin’",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 148333
+        },
+        {
+          "title": "As Wicked",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 160866
+        },
+        {
+          "title": "Avenues & Alleyways",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 191866
+        },
+        {
+          "title": "The Way I Feel",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 154226
+        }
+      ]
+    },
+    {
+      "mbid": "dd349f52-9143-31be-b3a6-c9145d550923",
+      "releaseMbid": "b9d76788-addc-4dd3-a804-a1bc044c89d2",
+      "title": "Hooligans",
+      "type": "EP",
+      "releaseDate": "1998",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/dd349f52-9143-31be-b3a6-c9145d550923/front-1200",
+      "tracks": [
+        {
+          "title": "Hooligans",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 155426
+        },
+        {
+          "title": "Cash, Culture, and Violence (Bass Drop mix)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 232240
+        },
+        {
+          "title": "Things to Come (Dance Hall mix)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 192334
+        }
+      ]
+    },
+    {
+      "mbid": "0ee4bae8-4906-3f09-ae16-572b4e761639",
+      "releaseMbid": "74f18402-482d-4d47-ae1a-f7b6bc640614",
+      "title": "Life Won’t Wait",
+      "type": "ALBUM",
+      "releaseDate": "1998-06-29",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0ee4bae8-4906-3f09-ae16-572b4e761639/front-1200",
+      "tracks": [
+        {
+          "title": "Intro",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 48000
+        },
+        {
+          "title": "Bloodclot",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 164000
+        },
+        {
+          "title": "Hoover Street",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 248000
+        },
+        {
+          "title": "Black Lung",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 112000
+        },
+        {
+          "title": "Life Won't Wait",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 226000
+        },
+        {
+          "title": "New Dress",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 170000
+        },
+        {
+          "title": "Warsaw",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 90000
+        },
+        {
+          "title": "Hooligans",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 152000
+        },
+        {
+          "title": "Crane Fist",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 226000
+        },
+        {
+          "title": "Leicester Square",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 154000
+        },
+        {
+          "title": "Backslide",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 172000
+        },
+        {
+          "title": "Who Would've Thought",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": 176000
+        },
+        {
+          "title": "Cash, Culture and Violence",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": 189000
+        },
+        {
+          "title": "Cocktails",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": 199000
+        },
+        {
+          "title": "The Wolf",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": 157000
+        },
+        {
+          "title": "1998",
+          "discNumber": 2,
+          "position": 5,
+          "durationMs": 164000
+        },
+        {
+          "title": "Lady Liberty",
+          "discNumber": 2,
+          "position": 6,
+          "durationMs": 139000
+        },
+        {
+          "title": "Wrongful Suspicion",
+          "discNumber": 2,
+          "position": 7,
+          "durationMs": 210000
+        },
+        {
+          "title": "Turntable",
+          "discNumber": 2,
+          "position": 8,
+          "durationMs": 136000
+        },
+        {
+          "title": "Something in the World Today",
+          "discNumber": 2,
+          "position": 9,
+          "durationMs": 152000
+        },
+        {
+          "title": "Corazon de Oro",
+          "discNumber": 2,
+          "position": 10,
+          "durationMs": 237000
+        },
+        {
+          "title": "Coppers",
+          "discNumber": 2,
+          "position": 11,
+          "durationMs": 301000
+        }
+      ]
+    },
+    {
+      "mbid": "e9f1ea3e-d26b-3b33-b1b4-6d8033b7f2ec",
+      "releaseMbid": "591add0f-15d5-45b3-9a30-984627a49146",
+      "title": "Rancid",
+      "type": "ALBUM",
+      "releaseDate": "2000-07-18",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/e9f1ea3e-d26b-3b33-b1b4-6d8033b7f2ec/front-1200",
+      "tracks": [
+        {
+          "title": "Don Giovanni",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 35000
+        },
+        {
+          "title": "Disgruntled",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 61000
+        },
+        {
+          "title": "It’s Quite Alright",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 89000
+        },
+        {
+          "title": "Let Me Go",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 193000
+        },
+        {
+          "title": "I Am Forever",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 63000
+        },
+        {
+          "title": "Poison",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 77000
+        },
+        {
+          "title": "Loki",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 47000
+        },
+        {
+          "title": "Blackhawk Down",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 102000
+        },
+        {
+          "title": "Rwanda",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 81000
+        },
+        {
+          "title": "Corruption",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 88000
+        },
+        {
+          "title": "Antennas",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 71000
+        },
+        {
+          "title": "Rattlesnake",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 102000
+        },
+        {
+          "title": "Not to Regret",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 136000
+        },
+        {
+          "title": "Radio Havana",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 222000
+        },
+        {
+          "title": "Axiom",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 100000
+        },
+        {
+          "title": "Black Derby Jacket",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 155000
+        },
+        {
+          "title": "Meteor of War",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 81000
+        },
+        {
+          "title": "Dead Bodies",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 109000
+        },
+        {
+          "title": "Rigged on a Fix",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 76000
+        },
+        {
+          "title": "Young Al Capone",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 112000
+        },
+        {
+          "title": "Reconciliation",
+          "discNumber": 1,
+          "position": 21,
+          "durationMs": 80000
+        },
+        {
+          "title": "GGF",
+          "discNumber": 1,
+          "position": 22,
+          "durationMs": 219373
+        }
+      ]
+    },
+    {
+      "mbid": "e925da0d-f82d-3af1-9fd2-b283985a1e58",
+      "releaseMbid": "bc0bb0ad-4304-45a8-9d22-a52dd61295af",
+      "title": "Indestructible",
+      "type": "ALBUM",
+      "releaseDate": "2003-08-19",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/e925da0d-f82d-3af1-9fd2-b283985a1e58/front-1200",
+      "tracks": [
+        {
+          "title": "Indestructible",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 96586
+        },
+        {
+          "title": "Fall Back Down",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 223240
+        },
+        {
+          "title": "Red Hot Moon",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 216000
+        },
+        {
+          "title": "David Courtney",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 164200
+        },
+        {
+          "title": "Start Now",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 185773
+        },
+        {
+          "title": "Out of Control",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 101413
+        },
+        {
+          "title": "Django",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 145093
+        },
+        {
+          "title": "Arrested in Shanghai",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 251266
+        },
+        {
+          "title": "Travis Bickle",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 136893
+        },
+        {
+          "title": "Memphis",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 205640
+        },
+        {
+          "title": "Spirit of ’87",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 202840
+        },
+        {
+          "title": "Ghost Band",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 97960
+        },
+        {
+          "title": "Tropical London",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 181933
+        },
+        {
+          "title": "Roadblock",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 118546
+        },
+        {
+          "title": "Born Frustrated",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 176093
+        },
+        {
+          "title": "Back Up Against the Wall",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 200973
+        },
+        {
+          "title": "Ivory Coast",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 139720
+        },
+        {
+          "title": "Stand Your Ground",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 204440
+        },
+        {
+          "title": "Otherside",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 112387
+        }
+      ]
+    },
+    {
+      "mbid": "3f275cc8-4473-4972-9fe3-358ef4e11c4d",
+      "releaseMbid": "3ff61674-a5db-4b1d-8181-460d906ba605",
+      "title": "Let the Dominoes Fall",
+      "type": "ALBUM",
+      "releaseDate": "2009-06-02",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/3f275cc8-4473-4972-9fe3-358ef4e11c4d/front-1200",
+      "tracks": [
+        {
+          "title": "East Bay Night",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 125000
+        },
+        {
+          "title": "This Place",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 63000
+        },
+        {
+          "title": "Up to No Good",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 160000
+        },
+        {
+          "title": "Last One to Die",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 143000
+        },
+        {
+          "title": "Disconnected",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 120000
+        },
+        {
+          "title": "I Ain’t Worried",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 156000
+        },
+        {
+          "title": "Damnation",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 90000
+        },
+        {
+          "title": "New Orleans",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 184000
+        },
+        {
+          "title": "Civilian Ways",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 251000
+        },
+        {
+          "title": "The Bravest Kids",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 96000
+        },
+        {
+          "title": "Skull City",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 171000
+        },
+        {
+          "title": "LA River",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 155000
+        },
+        {
+          "title": "Lulu",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 131000
+        },
+        {
+          "title": "Dominoes Fall",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 163000
+        },
+        {
+          "title": "Liberty and Freedom",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 165000
+        },
+        {
+          "title": "You Want It, You Got It",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 96000
+        },
+        {
+          "title": "Locomotive",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 98000
+        },
+        {
+          "title": "That’s Just The Way It Is Now",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 172000
+        },
+        {
+          "title": "The Highway",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 190000
+        }
+      ]
+    },
+    {
+      "mbid": "ba9b9899-9f4e-487d-953c-103784981c5d",
+      "releaseMbid": "de3fb8c3-746a-4a70-a530-afe7e1fe1fa2",
+      "title": "…Honor Is All We Know",
+      "type": "ALBUM",
+      "releaseDate": "2014-10-08",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ba9b9899-9f4e-487d-953c-103784981c5d/front-1200",
+      "tracks": [
+        {
+          "title": "Back Where I Belong",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 132000
+        },
+        {
+          "title": "Raise Your Fist",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 185000
+        },
+        {
+          "title": "Collision Course",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 117000
+        },
+        {
+          "title": "Evil’s My Friend",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 129000
+        },
+        {
+          "title": "Honor Is All We Know",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 131000
+        },
+        {
+          "title": "A Power Inside",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 124000
+        },
+        {
+          "title": "In the Streets",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 145000
+        },
+        {
+          "title": "Face Up",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 94000
+        },
+        {
+          "title": "Already Dead",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 142000
+        },
+        {
+          "title": "Diabolical",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 192000
+        },
+        {
+          "title": "Malfunction",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 146000
+        },
+        {
+          "title": "Now We’re Through With You",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 112000
+        },
+        {
+          "title": "Everybody’s Sufferin’",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 176000
+        },
+        {
+          "title": "Grave Digger",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 140000
+        },
+        {
+          "title": "Breakdown",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 140000
+        },
+        {
+          "title": "Something to Believe in a World Gone Mad",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 167000
+        },
+        {
+          "title": "Turn in Your Badge",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 76000
+        },
+        {
+          "title": "Rancid’s Barmy Army",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 81000
+        }
+      ]
+    },
+    {
+      "mbid": "03a80bc2-716f-4ea9-907d-7c8b9b7fb1cd",
+      "releaseMbid": "12d87e4f-e541-413c-9d93-d61f6169b18b",
+      "title": "Trouble Maker",
+      "type": "ALBUM",
+      "releaseDate": "2017-06-09",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/03a80bc2-716f-4ea9-907d-7c8b9b7fb1cd/front-1200",
+      "tracks": [
+        {
+          "title": "Track Fast",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 58000
+        },
+        {
+          "title": "Ghost of a Chance",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 96000
+        },
+        {
+          "title": "Telegraph Avenue",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 199000
+        },
+        {
+          "title": "An Intimate Close Up of a Street Punk Trouble Maker",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 154000
+        },
+        {
+          "title": "Where I’m Going",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 143000
+        },
+        {
+          "title": "Buddy",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 183000
+        },
+        {
+          "title": "Farewell Lola Blue",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 146000
+        },
+        {
+          "title": "All American Neighborhood",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 73000
+        },
+        {
+          "title": "Bovver Rock and Roll",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 182000
+        },
+        {
+          "title": "Make It Out Alive",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 110000
+        },
+        {
+          "title": "Molly Make Up Your Mind",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 72000
+        },
+        {
+          "title": "I Got Them Blues Again",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 108000
+        },
+        {
+          "title": "Beauty of the Pool Hall",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 135000
+        },
+        {
+          "title": "Say Goodbye to Our Heroes",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 130000
+        },
+        {
+          "title": "I Kept a Promise",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 178000
+        },
+        {
+          "title": "Cold Cold Blood",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 102000
+        },
+        {
+          "title": "This Is Not the End",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 117000
+        }
+      ]
+    },
+    {
+      "mbid": "469e849a-00f5-43d3-81d2-2cc40912557b",
+      "releaseMbid": "08a411bd-f1ad-4e5f-ac1a-46174f311941",
+      "title": "Tomorrow Never Comes",
+      "type": "ALBUM",
+      "releaseDate": "2023-06-02",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/469e849a-00f5-43d3-81d2-2cc40912557b/front-1200",
+      "tracks": [
+        {
+          "title": "Tomorrow Never Comes",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 146000
+        },
+        {
+          "title": "Mud, Blood, & Gold",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 73000
+        },
+        {
+          "title": "Devil in Disguise",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 119000
+        },
+        {
+          "title": "New American",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 158000
+        },
+        {
+          "title": "The Bloody & Violent History",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 135000
+        },
+        {
+          "title": "Don’t Make Me Do It",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 58372
+        },
+        {
+          "title": "It’s a Road to Righteousness",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 138000
+        },
+        {
+          "title": "Live Forever",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 82000
+        },
+        {
+          "title": "Drop Dead Inn",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 121000
+        },
+        {
+          "title": "Prisoners Song",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 141000
+        },
+        {
+          "title": "Magnificent Rogue",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 86000
+        },
+        {
+          "title": "One Way Ticket",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 111000
+        },
+        {
+          "title": "Hellbound Train",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 86000
+        },
+        {
+          "title": "Eddie the Butcher",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 95000
+        },
+        {
+          "title": "Hear Us Out",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 87000
+        },
+        {
+          "title": "When the Smoke Clears",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 101000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

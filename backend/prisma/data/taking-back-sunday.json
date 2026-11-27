@@ -1,0 +1,719 @@
+{
+  "generatedAt": "2026-11-27T13:40:28.506Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "350bce49-c21b-4137-b50a-0766ded07e4d",
+    "name": "Taking Back Sunday",
+    "slug": "taking-back-sunday",
+    "type": "BAND",
+    "country": "US",
+    "city": "Rockville Centre",
+    "formedYear": 1999,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/350bce49-c21b-4137-b50a-0766ded07e4d"
+      }
+    ],
+    "genres": [
+      "emo"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "0845caed-b316-4723-a43e-64863825785c",
+      "releaseMbid": "f813b89c-b76b-4a6d-9c18-47c43d87a4e8",
+      "title": "Lullaby",
+      "type": "EP",
+      "releaseDate": "2001",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0845caed-b316-4723-a43e-64863825785c/front-1200",
+      "tracks": [
+        {
+          "title": "Lullaby",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "987a232f-80d7-31a4-8179-a2ab714767d7",
+      "releaseMbid": "1daf419a-df60-457b-9c8b-6d7b6774aa6f",
+      "title": "Taking Back Sunday",
+      "type": "EP",
+      "releaseDate": "2001",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/987a232f-80d7-31a4-8179-a2ab714767d7/front-1200",
+      "tracks": [
+        {
+          "title": "Lost and Found",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 239493
+        },
+        {
+          "title": "The Things We'll Never Say",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 216080
+        },
+        {
+          "title": "Eleven",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 223560
+        },
+        {
+          "title": "Go On",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 315626
+        },
+        {
+          "title": "One Way Conversation",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 203760
+        },
+        {
+          "title": "Summer Stars",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 259026
+        }
+      ]
+    },
+    {
+      "mbid": "ef77620a-39e5-3e9b-9c1c-f276ae31182c",
+      "releaseMbid": "a605e4ac-b112-4aaa-ab80-8aebc483711a",
+      "title": "Tell All Your Friends",
+      "type": "ALBUM",
+      "releaseDate": "2002-03-26",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ef77620a-39e5-3e9b-9c1c-f276ae31182c/front-1200",
+      "tracks": [
+        {
+          "title": "You Know How I Do",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 201080
+        },
+        {
+          "title": "Bike Scene",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 215426
+        },
+        {
+          "title": "Cute Without the ‘E’ (Cut From the Team)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 211546
+        },
+        {
+          "title": "There’s No ‘I’ in Team",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 228533
+        },
+        {
+          "title": "Great Romances of the 20th Century",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 215493
+        },
+        {
+          "title": "Ghost Man on Third",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 239013
+        },
+        {
+          "title": "Timberwolves at New Jersey",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 203493
+        },
+        {
+          "title": "The Blue Channel",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 150493
+        },
+        {
+          "title": "You’re So Last Summer",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 179453
+        },
+        {
+          "title": "Head Club",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 182000
+        }
+      ]
+    },
+    {
+      "mbid": "753c1e50-f4ca-39c4-be5f-09e10bd17cd4",
+      "releaseMbid": "7df8d1f8-50c3-4ad8-8931-f371c833f998",
+      "title": "Where You Want to Be",
+      "type": "ALBUM",
+      "releaseDate": "2004-07-27",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/753c1e50-f4ca-39c4-be5f-09e10bd17cd4/front-1200",
+      "tracks": [
+        {
+          "title": "Set Phasers to Stun",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 183893
+        },
+        {
+          "title": "Bonus Mosh Pt. II",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 186533
+        },
+        {
+          "title": "A Decade Under the Influence",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 247466
+        },
+        {
+          "title": "This Photograph Is Proof (I Know You Know)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 251640
+        },
+        {
+          "title": "The Union",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 169760
+        },
+        {
+          "title": "New American Classic",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 275240
+        },
+        {
+          "title": "I Am Fred Astaire",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 223666
+        },
+        {
+          "title": "One-Eighty by Summer",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 233893
+        },
+        {
+          "title": "Number Five With a Bullet",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 229506
+        },
+        {
+          "title": "Little Devotional",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 187200
+        },
+        {
+          "title": "...Slowdance on the Inside",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 266426
+        },
+        {
+          "title": "Your Own Disaster",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 339733
+        }
+      ]
+    },
+    {
+      "mbid": "734eaae5-d96d-3b94-b6a6-167da219179a",
+      "releaseMbid": "1cf073bb-ac60-415e-8373-8172c36439c3",
+      "title": "Louder Now",
+      "type": "ALBUM",
+      "releaseDate": "2006-04-21",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/734eaae5-d96d-3b94-b6a6-167da219179a/front-1200",
+      "tracks": [
+        {
+          "title": "What’s It Feel Like to Be a Ghost?",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 227506
+        },
+        {
+          "title": "Liar (It Takes One to Know One)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 189866
+        },
+        {
+          "title": "MakeDamnSure",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 212146
+        },
+        {
+          "title": "Up Against (Blackout)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 182653
+        },
+        {
+          "title": "My Blue Heaven",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 249226
+        },
+        {
+          "title": "Twenty‐Twenty Surgery",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 235306
+        },
+        {
+          "title": "Spin",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 219800
+        },
+        {
+          "title": "Divine Intervention",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 254880
+        },
+        {
+          "title": "Miami",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 221533
+        },
+        {
+          "title": "Error: Operator",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 171880
+        },
+        {
+          "title": "I’ll Let You Live",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 308000
+        }
+      ]
+    },
+    {
+      "mbid": "03fd5fa4-3647-37a9-8313-71f65ea86ae1",
+      "releaseMbid": "5451a8af-98b5-4901-957c-65efbd45e03e",
+      "title": "New Again",
+      "type": "ALBUM",
+      "releaseDate": "2009-05-29",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/03fd5fa4-3647-37a9-8313-71f65ea86ae1/front-1200",
+      "tracks": [
+        {
+          "title": "New Again",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 213000
+        },
+        {
+          "title": "Sink Into Me",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 184000
+        },
+        {
+          "title": "Lonely, Lonely",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 169000
+        },
+        {
+          "title": "Summer, Man",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 231000
+        },
+        {
+          "title": "Swing",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 206000
+        },
+        {
+          "title": "Where My Mouth Is",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 232000
+        },
+        {
+          "title": "Cut Me Up Jenny",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 232000
+        },
+        {
+          "title": "Catholic Knees",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 168000
+        },
+        {
+          "title": "Capital M‐E",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 169000
+        },
+        {
+          "title": "Carpathia",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 189000
+        },
+        {
+          "title": "Everything Must Go",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 284000
+        },
+        {
+          "title": "Making of the Album",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Track-by-Track Commentary by the Band",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "a04cccd8-9d65-4ad8-b8fe-39e3b8c3ea2e",
+      "releaseMbid": "b7f49de1-3979-402f-b318-e0ff848c7cab",
+      "title": "Taking Back Sunday",
+      "type": "ALBUM",
+      "releaseDate": "2011-06-28",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a04cccd8-9d65-4ad8-b8fe-39e3b8c3ea2e/front-1200",
+      "tracks": [
+        {
+          "title": "El Paso",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 196440
+        },
+        {
+          "title": "Faith (When I Let You Down)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 188960
+        },
+        {
+          "title": "Best Places to Be a Mom",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 211573
+        },
+        {
+          "title": "Sad Savior",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 198840
+        },
+        {
+          "title": "Who Are You Anyway?",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 212933
+        },
+        {
+          "title": "Money (Let It Go)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 187480
+        },
+        {
+          "title": "This Is All Now",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 243506
+        },
+        {
+          "title": "It Doesn’t Feel a Thing Like Falling",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 235013
+        },
+        {
+          "title": "Since You’re Gone",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 249040
+        },
+        {
+          "title": "You Got Me",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 201000
+        },
+        {
+          "title": "Call Me in the Morning",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 239306
+        }
+      ]
+    },
+    {
+      "mbid": "58fbc33d-5168-40e1-97d1-f9591d55dc07",
+      "releaseMbid": "aca15e16-8d99-4ef3-b802-c098f5d5e4e0",
+      "title": "Happiness Is",
+      "type": "ALBUM",
+      "releaseDate": "2014-03-18",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/58fbc33d-5168-40e1-97d1-f9591d55dc07/front-1200",
+      "tracks": [
+        {
+          "title": "Preface",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 86000
+        },
+        {
+          "title": "Flicker, Fade",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 273000
+        },
+        {
+          "title": "Stood a Chance",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 219000
+        },
+        {
+          "title": "All the Way",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 228000
+        },
+        {
+          "title": "Beat Up Car",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 191000
+        },
+        {
+          "title": "It Takes More",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 311000
+        },
+        {
+          "title": "They Don’t Have Any Friends",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 228000
+        },
+        {
+          "title": "Better Homes and Gardens",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 234000
+        },
+        {
+          "title": "Like You Do",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 167000
+        },
+        {
+          "title": "We Were Younger Then",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 282000
+        },
+        {
+          "title": "Nothing at All",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 239000
+        }
+      ]
+    },
+    {
+      "mbid": "c7c7d1b8-775b-430b-a59d-c1db416f4f03",
+      "releaseMbid": "1afa22ef-2950-4361-b664-a1fef3bf4046",
+      "title": "Tidal Wave",
+      "type": "ALBUM",
+      "releaseDate": "2016-09-16",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c7c7d1b8-775b-430b-a59d-c1db416f4f03/front-1200",
+      "tracks": [
+        {
+          "title": "Death Wolf",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 252000
+        },
+        {
+          "title": "Tidal Wave",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 152000
+        },
+        {
+          "title": "You Can’t Look Back",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 267000
+        },
+        {
+          "title": "Fences",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 217000
+        },
+        {
+          "title": "All Excess",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 215000
+        },
+        {
+          "title": "I Felt It Too",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 322000
+        },
+        {
+          "title": "Call Come Running",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 192000
+        },
+        {
+          "title": "Holy Water",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 259000
+        },
+        {
+          "title": "In the Middle of It All",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 192000
+        },
+        {
+          "title": "We Don’t Go in There",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 241000
+        },
+        {
+          "title": "Homecoming",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 241000
+        },
+        {
+          "title": "I’ll Find a Way to Make It What You Want",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 320000
+        }
+      ]
+    },
+    {
+      "mbid": "a6aef274-daa6-4d9a-a6c4-dfc7b57f511a",
+      "releaseMbid": "c40cb1f6-415b-4351-946d-147c65a4b1d7",
+      "title": "152",
+      "type": "ALBUM",
+      "releaseDate": "2023-10-27",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/a6aef274-daa6-4d9a-a6c4-dfc7b57f511a/front-1200",
+      "tracks": [
+        {
+          "title": "Amphetamine Smiles",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 185653
+        },
+        {
+          "title": "S’Old",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 163493
+        },
+        {
+          "title": "The One",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 197786
+        },
+        {
+          "title": "Keep Going",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 192813
+        },
+        {
+          "title": "I Am the Only One Who Knows You",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 188653
+        },
+        {
+          "title": "Quit Trying",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 195733
+        },
+        {
+          "title": "Lightbringer",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 168320
+        },
+        {
+          "title": "New Music Friday",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 195600
+        },
+        {
+          "title": "Juice 2 Me",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 194920
+        },
+        {
+          "title": "The Stranger",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 194280
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

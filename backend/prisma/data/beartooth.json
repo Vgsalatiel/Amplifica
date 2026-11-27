@@ -1,0 +1,548 @@
+{
+  "generatedAt": "2026-11-27T13:35:26.581Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "98a1e0ab-35fa-40dd-b62c-9fda46fdb061",
+    "name": "Beartooth",
+    "slug": "beartooth",
+    "type": "BAND",
+    "country": "US",
+    "city": "Columbus",
+    "formedYear": 2012,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/98a1e0ab-35fa-40dd-b62c-9fda46fdb061"
+      }
+    ],
+    "genres": [
+      "metalcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "ec017bfa-f6ad-446c-8daf-4aa2b5e805dd",
+      "releaseMbid": "085f21e2-9a52-4fa3-8a3f-e70e33b35873",
+      "title": "Sick",
+      "type": "EP",
+      "releaseDate": "2013-07-26",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ec017bfa-f6ad-446c-8daf-4aa2b5e805dd/front-1200",
+      "tracks": [
+        {
+          "title": "I Have a Problem",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 241040
+        },
+        {
+          "title": "Go Be the Voice",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 245920
+        },
+        {
+          "title": "Pick Your Poison",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 230293
+        },
+        {
+          "title": "Set Me on Fire",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 210626
+        }
+      ]
+    },
+    {
+      "mbid": "114affde-341e-4c9c-a283-1a5a5e608bc8",
+      "releaseMbid": "3c368694-78aa-4bc7-b52c-ac28ed6f6069",
+      "title": "Disgusting",
+      "type": "ALBUM",
+      "releaseDate": "2014-06-09",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/114affde-341e-4c9c-a283-1a5a5e608bc8/front-1200",
+      "tracks": [
+        {
+          "title": "The Lines",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 227312
+        },
+        {
+          "title": "Beaten in Lips",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 212732
+        },
+        {
+          "title": "Body Bag",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 229936
+        },
+        {
+          "title": "In Between",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 213576
+        },
+        {
+          "title": "Relapsing",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 235736
+        },
+        {
+          "title": "Ignorance Is Bliss",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 196122
+        },
+        {
+          "title": "I Have a Problem",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 240029
+        },
+        {
+          "title": "One More",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 217132
+        },
+        {
+          "title": "Me in My Own Head",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 206019
+        },
+        {
+          "title": "Keep Your American Dream",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 210781
+        },
+        {
+          "title": "Dead",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 135558
+        },
+        {
+          "title": "Sick and Disgusting",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 225880
+        }
+      ]
+    },
+    {
+      "mbid": "eccce911-95a2-4f75-a970-f8a32447eb3d",
+      "releaseMbid": "403fbb90-be6f-4dc9-9ade-ed9f7aad3940",
+      "title": "Aggressive",
+      "type": "ALBUM",
+      "releaseDate": "2016-06-03",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/eccce911-95a2-4f75-a970-f8a32447eb3d/front-1200",
+      "tracks": [
+        {
+          "title": "Aggressive",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Hated",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Loser",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Fair Weather Friend",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Burnout",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Sick of Me",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Censored",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Always Dead",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "However You Want It Said",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Find a Way",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": null
+        },
+        {
+          "title": "Rock Is Dead",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": null
+        },
+        {
+          "title": "King of Anything",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "dc9bd926-2c25-4ae8-8841-0a72d5fc727b",
+      "releaseMbid": "5015863e-3b1c-4fb9-84fe-077a1ed27526",
+      "title": "Disease",
+      "type": "ALBUM",
+      "releaseDate": "2018-09-28",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/dc9bd926-2c25-4ae8-8841-0a72d5fc727b/front-1200",
+      "tracks": [
+        {
+          "title": "Greatness or Death",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 202333
+        },
+        {
+          "title": "Disease",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 228373
+        },
+        {
+          "title": "Fire",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 205866
+        },
+        {
+          "title": "You Never Know",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 183573
+        },
+        {
+          "title": "Bad Listener",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 208786
+        },
+        {
+          "title": "Afterall",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 200413
+        },
+        {
+          "title": "Manipulation",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 202533
+        },
+        {
+          "title": "Enemy",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 200480
+        },
+        {
+          "title": "Believe",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 195746
+        },
+        {
+          "title": "Infection",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 203173
+        },
+        {
+          "title": "Used and Abused",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 210973
+        },
+        {
+          "title": "Clever",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 222040
+        }
+      ]
+    },
+    {
+      "mbid": "ad5b0c45-7f0d-43e2-8dff-f14a5b9cbabd",
+      "releaseMbid": "8ab31859-64e2-4b69-8399-09f887b3debc",
+      "title": "Below",
+      "type": "ALBUM",
+      "releaseDate": "2021-06-25",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ad5b0c45-7f0d-43e2-8dff-f14a5b9cbabd/front-1200",
+      "tracks": [
+        {
+          "title": "Below",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 229493
+        },
+        {
+          "title": "Devastation",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 221746
+        },
+        {
+          "title": "The Past Is Dead",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 215920
+        },
+        {
+          "title": "Fed Up",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 201813
+        },
+        {
+          "title": "Dominate",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 217546
+        },
+        {
+          "title": "No Return",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 229093
+        },
+        {
+          "title": "Phantom Pain",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 231386
+        },
+        {
+          "title": "Skin",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 198933
+        },
+        {
+          "title": "Hell of It",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 203226
+        },
+        {
+          "title": "I Won’t Give It Up",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 226733
+        },
+        {
+          "title": "The Answer",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 219520
+        },
+        {
+          "title": "The Last Riff",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 282520
+        }
+      ]
+    },
+    {
+      "mbid": "f4497d72-9e1b-4e8c-b435-cb685892c4ba",
+      "releaseMbid": "322a9168-e106-4fd6-a853-0b9dff537dee",
+      "title": "The Surface",
+      "type": "ALBUM",
+      "releaseDate": "2023-10-13",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f4497d72-9e1b-4e8c-b435-cb685892c4ba/front-1200",
+      "tracks": [
+        {
+          "title": "The Surface",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 234138
+        },
+        {
+          "title": "Riptide",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 211119
+        },
+        {
+          "title": "Doubt Me",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 190773
+        },
+        {
+          "title": "The Better Me",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 195236
+        },
+        {
+          "title": "Might Love Myself",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 219973
+        },
+        {
+          "title": "Sunshine!",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 198107
+        },
+        {
+          "title": "What’s Killing You",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 232265
+        },
+        {
+          "title": "Look the Other Way",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 187266
+        },
+        {
+          "title": "What Are You Waiting For",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 185333
+        },
+        {
+          "title": "My New Reality",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 200333
+        },
+        {
+          "title": "I Was Alive",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 198521
+        }
+      ]
+    },
+    {
+      "mbid": "22af114d-2e4e-4a64-80f4-a8df629e7250",
+      "releaseMbid": "1616a067-7f8a-41a1-805b-acfe6df5648a",
+      "title": "Pure Ecstasy",
+      "type": "ALBUM",
+      "releaseDate": "2026-08-28",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/22af114d-2e4e-4a64-80f4-a8df629e7250/front-1200",
+      "tracks": [
+        {
+          "title": "Pure Ecstasy",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 185425
+        },
+        {
+          "title": "Eyes Closed",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 206000
+        },
+        {
+          "title": "Bullshit",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 215385
+        },
+        {
+          "title": "Beautiful Again",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 210938
+        },
+        {
+          "title": "Stadiums",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 230578
+        },
+        {
+          "title": "Free",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 188063
+        },
+        {
+          "title": "Sorry",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 229565
+        },
+        {
+          "title": "Lose You to Find Me",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 207656
+        },
+        {
+          "title": "You",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 213789
+        },
+        {
+          "title": "For Me by Me",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 187290
+        },
+        {
+          "title": "I Made It",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 233443
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

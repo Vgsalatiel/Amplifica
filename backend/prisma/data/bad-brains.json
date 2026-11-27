@@ -1,0 +1,1268 @@
+{
+  "generatedAt": "2026-11-27T13:53:24.861Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "e919b253-da5b-4aae-a444-6a368376a2d6",
+    "name": "Bad Brains",
+    "slug": "bad-brains",
+    "type": "BAND",
+    "country": "US",
+    "city": "Washington, D.C.",
+    "formedYear": 1977,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/e919b253-da5b-4aae-a444-6a368376a2d6"
+      }
+    ],
+    "genres": [
+      "hardcore",
+      "punk-rock"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "458f4bdf-ffbe-3643-977a-73e80d3d7b08",
+      "releaseMbid": "dcf077df-8856-4961-a0a0-e181a794ca61",
+      "title": "Bad Brains",
+      "type": "ALBUM",
+      "releaseDate": "1982",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/458f4bdf-ffbe-3643-977a-73e80d3d7b08/front-1200",
+      "tracks": [
+        {
+          "title": "Sailin’ On",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 115000
+        },
+        {
+          "title": "Don’t Need It",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 67000
+        },
+        {
+          "title": "Attitude",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 79000
+        },
+        {
+          "title": "The Regulator",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 67000
+        },
+        {
+          "title": "Banned in D.C.",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 132000
+        },
+        {
+          "title": "Jah Calling",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 151000
+        },
+        {
+          "title": "Supertouch / Shitfit",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 150000
+        },
+        {
+          "title": "Leaving Babylon",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 250000
+        },
+        {
+          "title": "Fearless Vampire Killers",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 67000
+        },
+        {
+          "title": "I",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 125000
+        },
+        {
+          "title": "Big Take Over",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 177000
+        },
+        {
+          "title": "Pay to Cum",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 85000
+        },
+        {
+          "title": "Right Brigade",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 147000
+        },
+        {
+          "title": "I Luv I Jah",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 384000
+        },
+        {
+          "title": "Intro",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 45000
+        }
+      ]
+    },
+    {
+      "mbid": "6ed09d02-e0f7-40e8-9fa9-8a7b7a58cb76",
+      "releaseMbid": "ebd181fc-c4fd-4347-9f05-bbe279c10f42",
+      "title": "I And I Survive",
+      "type": "EP",
+      "releaseDate": "1982",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/6ed09d02-e0f7-40e8-9fa9-8a7b7a58cb76/front-1200",
+      "tracks": [
+        {
+          "title": "I And I Survive",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Destroy Babylon",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Coptic Times",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Joshua's Song",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "876288a6-9b52-342b-a998-4d7dc01bc8bf",
+      "releaseMbid": "e4fbab9f-b390-4639-ad25-372803b87db4",
+      "title": "Rock for Light",
+      "type": "ALBUM",
+      "releaseDate": "1983-03",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/876288a6-9b52-342b-a998-4d7dc01bc8bf/front-1200",
+      "tracks": [
+        {
+          "title": "Coptic Times",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 133000
+        },
+        {
+          "title": "Attitude",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 72000
+        },
+        {
+          "title": "We Will Not",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 100000
+        },
+        {
+          "title": "Sailin’ On",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 110133
+        },
+        {
+          "title": "Rally Around Jah Throne",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 284000
+        },
+        {
+          "title": "Right Brigade",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 150000
+        },
+        {
+          "title": "F.V.K.",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 48000
+        },
+        {
+          "title": "Riot Squad",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 122000
+        },
+        {
+          "title": "The Meek Shall Inherit the Earth",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 223000
+        },
+        {
+          "title": "Joshua’s Song",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 34000
+        },
+        {
+          "title": "Banned in D.C.",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 125000
+        },
+        {
+          "title": "How Low Can a Punk Get",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 115000
+        },
+        {
+          "title": "Big Takeover",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 160000
+        },
+        {
+          "title": "I + I Survive",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 313000
+        },
+        {
+          "title": "Destroy Babylon",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 85000
+        },
+        {
+          "title": "Rock for Light",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 85000
+        },
+        {
+          "title": "At the Movies",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 140000
+        }
+      ]
+    },
+    {
+      "mbid": "5772996a-d791-3d21-a62e-3efd2a24979c",
+      "releaseMbid": "27174a0a-083c-4292-95da-1b04c5fc2751",
+      "title": "I Against I",
+      "type": "ALBUM",
+      "releaseDate": "1986",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/5772996a-d791-3d21-a62e-3efd2a24979c/front-1200",
+      "tracks": [
+        {
+          "title": "Intro",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 62293
+        },
+        {
+          "title": "I Against I",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 170706
+        },
+        {
+          "title": "House of Suffering",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 149893
+        },
+        {
+          "title": "Re-Ignition",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 256333
+        },
+        {
+          "title": "Secret 77",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 244333
+        },
+        {
+          "title": "Let Me Help",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 137573
+        },
+        {
+          "title": "She’s Calling You",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 222333
+        },
+        {
+          "title": "Sacred Love",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 220200
+        },
+        {
+          "title": "Hired Gun",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 225533
+        },
+        {
+          "title": "Return to Heaven",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 199200
+        }
+      ]
+    },
+    {
+      "mbid": "f434ac96-6ff9-4e2b-b290-92a1f48c54c4",
+      "releaseMbid": "3265822b-197f-40c6-865f-50f6aabe869e",
+      "title": "Cum To Play",
+      "type": "EP",
+      "releaseDate": "1988",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Pay To Cum",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 113000
+        },
+        {
+          "title": "Redbone In The City",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 111000
+        },
+        {
+          "title": "How Low Can A Punk Get?",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 144000
+        },
+        {
+          "title": "Just Another Damn Song",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 108000
+        }
+      ]
+    },
+    {
+      "mbid": "6b745bc5-cb98-3fc2-a133-8c34d3909517",
+      "releaseMbid": "4b8ceec5-12f5-4122-b9d6-4f3c8d122b4a",
+      "title": "Quickness",
+      "type": "ALBUM",
+      "releaseDate": "1989-09-14",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/6b745bc5-cb98-3fc2-a133-8c34d3909517/front-1200",
+      "tracks": [
+        {
+          "title": "Soul Craft",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 188000
+        },
+        {
+          "title": "Voyage Into Infinity",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 194000
+        },
+        {
+          "title": "The Messengers",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 138000
+        },
+        {
+          "title": "With the Quickness",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 166000
+        },
+        {
+          "title": "Gene Machine / Don't Bother Me",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 179000
+        },
+        {
+          "title": "Don't Blow Bubbles",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 183000
+        },
+        {
+          "title": "Sheba",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 172000
+        },
+        {
+          "title": "Yout' Juice",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 180000
+        },
+        {
+          "title": "No Conditions",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 143000
+        },
+        {
+          "title": "Silent Tears",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 170000
+        },
+        {
+          "title": "The Prophets Eye",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 265000
+        },
+        {
+          "title": "Endtro",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 47000
+        }
+      ]
+    },
+    {
+      "mbid": "6217ee44-137d-37c1-b8f0-0a71606ebd76",
+      "releaseMbid": "b825be71-133d-483d-a918-c1516b39dbb6",
+      "title": "Rise",
+      "type": "ALBUM",
+      "releaseDate": "1993-08-17",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/6217ee44-137d-37c1-b8f0-0a71606ebd76/front-1200",
+      "tracks": [
+        {
+          "title": "Rise",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 218600
+        },
+        {
+          "title": "Miss Freedom",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 170093
+        },
+        {
+          "title": "Unidentified",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 159973
+        },
+        {
+          "title": "Love is the Answer",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 193026
+        },
+        {
+          "title": "Free",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 193773
+        },
+        {
+          "title": "Hair",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 244093
+        },
+        {
+          "title": "Coming in Numbers",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 142600
+        },
+        {
+          "title": "Yes Jah",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 292306
+        },
+        {
+          "title": "Take Your Time",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 253693
+        },
+        {
+          "title": "Peace of Mind",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 275533
+        },
+        {
+          "title": "Without You",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 304800
+        },
+        {
+          "title": "Outro",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 32200
+        }
+      ]
+    },
+    {
+      "mbid": "f8445b54-db4d-3bf8-9c9b-7f159bc3cbfd",
+      "releaseMbid": "5c97e9ec-805b-431b-9cd4-dd7f56154820",
+      "title": "God of Love",
+      "type": "ALBUM",
+      "releaseDate": "1995-05-09",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/f8445b54-db4d-3bf8-9c9b-7f159bc3cbfd/front-1200",
+      "tracks": [
+        {
+          "title": "Cool Mountaineer",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 204893
+        },
+        {
+          "title": "Justice Keepers",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 196066
+        },
+        {
+          "title": "Long Time",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 287066
+        },
+        {
+          "title": "Rights of a Child",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 267733
+        },
+        {
+          "title": "God of Love",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 165066
+        },
+        {
+          "title": "Overs the Water",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 265040
+        },
+        {
+          "title": "Tongue Tee Tie",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 172066
+        },
+        {
+          "title": "Darling I Need You",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 156093
+        },
+        {
+          "title": "To the Heavens",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 265000
+        },
+        {
+          "title": "Thank Jah",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 216306
+        },
+        {
+          "title": "Big Fun",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 310800
+        },
+        {
+          "title": "How I Love Thee",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 382066
+        }
+      ]
+    },
+    {
+      "mbid": "eea9b059-de6f-35d4-90e0-f9fa64a241c3",
+      "releaseMbid": "0e8eca28-022c-4b91-9ecc-222a6f54aab9",
+      "title": "Black Dots",
+      "type": "ALBUM",
+      "releaseDate": "1996-09-30",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/eea9b059-de6f-35d4-90e0-f9fa64a241c3/front-1200",
+      "tracks": [
+        {
+          "title": "Don't Need It",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 119000
+        },
+        {
+          "title": "At The Atlantis",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 118000
+        },
+        {
+          "title": "Pay To Cum",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 123000
+        },
+        {
+          "title": "Supertouch / Shitfit",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 182000
+        },
+        {
+          "title": "Regulator",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 89000
+        },
+        {
+          "title": "You're A Migraine",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 101000
+        },
+        {
+          "title": "Don't Bother Me",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 157000
+        },
+        {
+          "title": "Banned In D.C.",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 167000
+        },
+        {
+          "title": "Why'd You Have To Go?",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 176000
+        },
+        {
+          "title": "The Man Won't Annoy Ya",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 162000
+        },
+        {
+          "title": "Redbone In The City",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 126000
+        },
+        {
+          "title": "Black Dots",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 72000
+        },
+        {
+          "title": "How Low Can A Punk Get?",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 160000
+        },
+        {
+          "title": "Just Another Damn Song",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 117000
+        },
+        {
+          "title": "Attitude",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 100000
+        },
+        {
+          "title": "Send You No Flowers",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 113000
+        }
+      ]
+    },
+    {
+      "mbid": "3c7c4b4d-6094-310b-bbc9-9fa40db715f1",
+      "releaseMbid": "c00f3b82-b650-42a5-a686-84f8afa243f9",
+      "title": "Omega Sessions",
+      "type": "EP",
+      "releaseDate": "1997-11-11",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/3c7c4b4d-6094-310b-bbc9-9fa40db715f1/front-1200",
+      "tracks": [
+        {
+          "title": "I Against I",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 173346
+        },
+        {
+          "title": "Stay Close to Me",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 144146
+        },
+        {
+          "title": "I Luv I Jah",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 394400
+        },
+        {
+          "title": "At the Movies",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 148213
+        },
+        {
+          "title": "Attitude",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 89026
+        }
+      ]
+    },
+    {
+      "mbid": "7d062f78-043b-3326-b8a1-27c301979bfe",
+      "releaseMbid": "4358d54d-b72a-479c-b20f-fce4613c62c9",
+      "title": "I & I Survived (dub)",
+      "type": "ALBUM",
+      "releaseDate": "2002-11-26",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/7d062f78-043b-3326-b8a1-27c301979bfe/front-1200",
+      "tracks": [
+        {
+          "title": "Jah Love",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 289000
+        },
+        {
+          "title": "Overdub",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 263000
+        },
+        {
+          "title": "How Low Can A Punk Get",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 204000
+        },
+        {
+          "title": "I & I Survive",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 351000
+        },
+        {
+          "title": "Cowboy",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 277000
+        },
+        {
+          "title": "Gene Machine",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 212000
+        },
+        {
+          "title": "Ghetto",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 251000
+        },
+        {
+          "title": "Rally",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 282000
+        },
+        {
+          "title": "September",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 232000
+        },
+        {
+          "title": "Ragga Dub",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 259000
+        },
+        {
+          "title": "Gene Machine (Remix)",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 228000
+        },
+        {
+          "title": "I & I Survive (Shiner Massive Mix)",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 364000
+        },
+        {
+          "title": "Right Brigade",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "I",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Positive Mental Attitude",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Supertouch / Fit",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Fearless Vampire Killers",
+          "discNumber": 2,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Rock For Light",
+          "discNumber": 2,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Joshua's Song",
+          "discNumber": 2,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Jah Children",
+          "discNumber": 2,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "Destroy Babylon",
+          "discNumber": 2,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Riot Squad",
+          "discNumber": 2,
+          "position": 10,
+          "durationMs": null
+        },
+        {
+          "title": "Let Me Help",
+          "discNumber": 2,
+          "position": 11,
+          "durationMs": null
+        },
+        {
+          "title": "Return To Heaven",
+          "discNumber": 2,
+          "position": 12,
+          "durationMs": null
+        },
+        {
+          "title": "Youth Are Getting Restless",
+          "discNumber": 2,
+          "position": 13,
+          "durationMs": null
+        },
+        {
+          "title": "Banned In D.C.",
+          "discNumber": 2,
+          "position": 14,
+          "durationMs": null
+        },
+        {
+          "title": "House Of Suffering",
+          "discNumber": 2,
+          "position": 15,
+          "durationMs": null
+        },
+        {
+          "title": "Coptic Times",
+          "discNumber": 2,
+          "position": 16,
+          "durationMs": null
+        },
+        {
+          "title": "At The Movies",
+          "discNumber": 2,
+          "position": 17,
+          "durationMs": null
+        },
+        {
+          "title": "Revolution",
+          "discNumber": 2,
+          "position": 18,
+          "durationMs": null
+        },
+        {
+          "title": "Pay To Cum",
+          "discNumber": 2,
+          "position": 19,
+          "durationMs": null
+        },
+        {
+          "title": "Sacred Love",
+          "discNumber": 2,
+          "position": 20,
+          "durationMs": null
+        },
+        {
+          "title": "Big Takeover",
+          "discNumber": 2,
+          "position": 21,
+          "durationMs": null
+        },
+        {
+          "title": "Sailin' On",
+          "discNumber": 2,
+          "position": 22,
+          "durationMs": null
+        },
+        {
+          "title": "Re-Ignition",
+          "discNumber": 2,
+          "position": 23,
+          "durationMs": null
+        },
+        {
+          "title": "How Low Cut A Punk Get",
+          "discNumber": 2,
+          "position": 24,
+          "durationMs": null
+        },
+        {
+          "title": "Don't Bother Me",
+          "discNumber": 2,
+          "position": 25,
+          "durationMs": null
+        },
+        {
+          "title": "She's Calling You",
+          "discNumber": 2,
+          "position": 26,
+          "durationMs": null
+        },
+        {
+          "title": "The Regulator",
+          "discNumber": 2,
+          "position": 27,
+          "durationMs": null
+        },
+        {
+          "title": "I Against I",
+          "discNumber": 2,
+          "position": 28,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "5fe4e4a8-9752-3cff-a97d-9021519461da",
+      "releaseMbid": "20dcb91a-1051-41b9-af4c-9f45885741e5",
+      "title": "Build a Nation",
+      "type": "ALBUM",
+      "releaseDate": "2007-06-20",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/5fe4e4a8-9752-3cff-a97d-9021519461da/front-1200",
+      "tracks": [
+        {
+          "title": "Give Thanks And Praises",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Jah People Make The World Go Round",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Pure Love",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Natty Dreadlocks 'Pon The Mountain Top",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Build A Nation",
+          "discNumber": 2,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Expand Your Soul",
+          "discNumber": 2,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Jah Love",
+          "discNumber": 2,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "Let There Be Angels (Just Like You)",
+          "discNumber": 2,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Universal Peace",
+          "discNumber": 3,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Roll On",
+          "discNumber": 3,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Until Kingdom Comes",
+          "discNumber": 3,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "In The Beginning",
+          "discNumber": 3,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Send You No Flowers",
+          "discNumber": 4,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "Peace Be Unto Thee",
+          "discNumber": 4,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Married Again",
+          "discNumber": 4,
+          "position": 3,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "2078fc6a-d98c-45ec-ba66-301c51cff0b4",
+      "releaseMbid": "9a016337-e5bc-4b6a-aa43-cb1555350021",
+      "title": "Into the Future",
+      "type": "ALBUM",
+      "releaseDate": "2012-11-20",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/2078fc6a-d98c-45ec-ba66-301c51cff0b4/front-1200",
+      "tracks": [
+        {
+          "title": "Into the Future",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 165000
+        },
+        {
+          "title": "Popcorn",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 194000
+        },
+        {
+          "title": "We Belong Together",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 101000
+        },
+        {
+          "title": "Youth of Today",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 207000
+        },
+        {
+          "title": "Rub a Dub Love",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 157000
+        },
+        {
+          "title": "Yes I",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 90000
+        },
+        {
+          "title": "Suck Sess",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 115000
+        },
+        {
+          "title": "Jah Love",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 217000
+        },
+        {
+          "title": "Earnest Love",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 196000
+        },
+        {
+          "title": "Come Down",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 87000
+        },
+        {
+          "title": "Fun",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 229000
+        },
+        {
+          "title": "Make a Joyful Noise",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 285000
+        },
+        {
+          "title": "MCA Dub",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 226000
+        }
+      ]
+    },
+    {
+      "mbid": "310e4d3a-8fe1-4300-8204-0bc03d03c3a3",
+      "releaseMbid": "2cd0f476-a5b0-4a76-8783-b9f2255de155",
+      "title": "Are You Ready: The First Studio Recording (Inner Ear - March 1979)",
+      "type": "EP",
+      "releaseDate": "2026-11-06",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/310e4d3a-8fe1-4300-8204-0bc03d03c3a3/front-1200",
+      "tracks": [
+        {
+          "title": "Jammin' at the Atlantis",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 120000
+        },
+        {
+          "title": "Pay to Cum",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 110000
+        },
+        {
+          "title": "Don't Bother Me",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 160000
+        },
+        {
+          "title": "Black Dots",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 74000
+        },
+        {
+          "title": "Migraine",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 109000
+        },
+        {
+          "title": "Send No Flowers",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 111000
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

@@ -1,0 +1,346 @@
+{
+  "generatedAt": "2026-11-27T13:38:08.827Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "6ffb7be4-0a53-4014-853d-83790cd5e091",
+    "name": "Polaris",
+    "slug": "polaris",
+    "type": "BAND",
+    "country": "AU",
+    "city": "Sydney",
+    "formedYear": 2012,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/6ffb7be4-0a53-4014-853d-83790cd5e091"
+      }
+    ],
+    "genres": [
+      "metalcore"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "661beea2-197e-491c-9dfc-41e7feaff990",
+      "releaseMbid": "b76bb9f5-6b04-499f-a6dd-dd8e646f7b52",
+      "title": "Dichotomy",
+      "type": "EP",
+      "releaseDate": "2013-11-29",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/661beea2-197e-491c-9dfc-41e7feaff990/front-1200",
+      "tracks": [
+        {
+          "title": "In memoria di",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 325000
+        },
+        {
+          "title": "Aspirations",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 236000
+        },
+        {
+          "title": "Deliverance",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 236000
+        },
+        {
+          "title": "The Undertow",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 290000
+        },
+        {
+          "title": "In Parallel",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 218000
+        },
+        {
+          "title": "Wherever I May Walk",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 323000
+        }
+      ]
+    },
+    {
+      "mbid": "5eb6452c-958d-490a-bbd7-f4f3357a14f6",
+      "releaseMbid": "2b9fc668-1c91-4e54-b174-ac67be21a8e4",
+      "title": "The Guilt & the Grief",
+      "type": "EP",
+      "releaseDate": "2016-01-29",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/5eb6452c-958d-490a-bbd7-f4f3357a14f6/front-1200",
+      "tracks": [
+        {
+          "title": "Regress",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 209000
+        },
+        {
+          "title": "L’appel du vide",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 194000
+        },
+        {
+          "title": "Unfamiliar",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 246000
+        },
+        {
+          "title": "Voiceless",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 234000
+        },
+        {
+          "title": "No Rest",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 255000
+        },
+        {
+          "title": "Hold You Under",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 271000
+        }
+      ]
+    },
+    {
+      "mbid": "4b59fcae-aa31-4c73-897b-307ed7de996e",
+      "releaseMbid": "077ac4ed-091b-4a21-8766-fd15ab6fc8e1",
+      "title": "The Mortal Coil",
+      "type": "ALBUM",
+      "releaseDate": "2017-11-03",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4b59fcae-aa31-4c73-897b-307ed7de996e/front-1200",
+      "tracks": [
+        {
+          "title": "Lucid",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 242000
+        },
+        {
+          "title": "The Remedy",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 246000
+        },
+        {
+          "title": "Relapse",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 198000
+        },
+        {
+          "title": "Consume",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 254000
+        },
+        {
+          "title": "Frailty",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 203000
+        },
+        {
+          "title": "In somnus veritas",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 144000
+        },
+        {
+          "title": "Dusk to Day",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 246000
+        },
+        {
+          "title": "Casualty",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 229000
+        },
+        {
+          "title": "The Slow Decay",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 256000
+        },
+        {
+          "title": "Crooked Path",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 284000
+        },
+        {
+          "title": "Sonder",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 259359
+        }
+      ]
+    },
+    {
+      "mbid": "29365264-2d73-4895-aa14-dca03b0765fa",
+      "releaseMbid": "99688023-60f6-431b-8429-4a2d00378c6f",
+      "title": "The Death of Me",
+      "type": "ALBUM",
+      "releaseDate": "2020-02-20",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/29365264-2d73-4895-aa14-dca03b0765fa/front-1200",
+      "tracks": [
+        {
+          "title": "Pray for Rain (instrumental)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 284739
+        },
+        {
+          "title": "Hypermania (instrumental)",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 161918
+        },
+        {
+          "title": "Masochist (instrumental)",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 247924
+        },
+        {
+          "title": "Landmine (instrumental)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 228814
+        },
+        {
+          "title": "Vagabond (instrumental)",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 256750
+        },
+        {
+          "title": "Creatures of Habit (instrumental)",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 260301
+        },
+        {
+          "title": "Above My Head (instrumental)",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 281575
+        },
+        {
+          "title": "Martyr (Waves) (instrumental)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 230367
+        },
+        {
+          "title": "All of This Is Fleeting (instrumental)",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 236380
+        },
+        {
+          "title": "The Descent (instrumental)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 317683
+        }
+      ]
+    },
+    {
+      "mbid": "48ee000c-2591-49c8-aee0-5d3134c2746c",
+      "releaseMbid": "30f90a3b-4374-4bab-bd9a-1ad988c8a50e",
+      "title": "Fatalism",
+      "type": "ALBUM",
+      "releaseDate": "2023-09-01",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/48ee000c-2591-49c8-aee0-5d3134c2746c/front-1200",
+      "tracks": [
+        {
+          "title": "Harbinger",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 204750
+        },
+        {
+          "title": "Nightmare",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 268270
+        },
+        {
+          "title": "Parasites",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 196195
+        },
+        {
+          "title": "Overflow",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 251923
+        },
+        {
+          "title": "With Regards",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 251180
+        },
+        {
+          "title": "Inhumane",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 239291
+        },
+        {
+          "title": "The Crossfire",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 246722
+        },
+        {
+          "title": "Dissipate",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 263069
+        },
+        {
+          "title": "Aftertouch",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 259286
+        },
+        {
+          "title": "Fault Line",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 305540
+        },
+        {
+          "title": "All in Vain",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 283874
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

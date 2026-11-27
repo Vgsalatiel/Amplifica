@@ -1,0 +1,1108 @@
+{
+  "generatedAt": "2026-11-27T13:26:22.522Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "1c80f885-e832-4b84-864b-5deeda6a1248",
+    "name": "Raimundos",
+    "slug": "raimundos",
+    "type": "BAND",
+    "country": "BR",
+    "city": "Brasília",
+    "formedYear": 1987,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/1c80f885-e832-4b84-864b-5deeda6a1248"
+      }
+    ],
+    "genres": [
+      "punk-rock",
+      "rock-nacional"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "0c8442d7-2c0b-3e04-ac98-c6bb7feca060",
+      "releaseMbid": "20d819ae-beab-48bd-be19-6b1f8f67afbd",
+      "title": "Raimundos",
+      "type": "ALBUM",
+      "releaseDate": "1994",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/0c8442d7-2c0b-3e04-ac98-c6bb7feca060/front-1200",
+      "tracks": [
+        {
+          "title": "Puteiro Em João Pessoa",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 188933
+        },
+        {
+          "title": "Palhas Do Coqueiro",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 119866
+        },
+        {
+          "title": "MM's",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 120133
+        },
+        {
+          "title": "Minha Cunhada",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 81706
+        },
+        {
+          "title": "Rapante",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 183800
+        },
+        {
+          "title": "Carro Forte",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 90466
+        },
+        {
+          "title": "Nega Jurema",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 113160
+        },
+        {
+          "title": "Deixei de Fumar Cana Caiana",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 91973
+        },
+        {
+          "title": "Cajueiro & Rio Das Pedras",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 150933
+        },
+        {
+          "title": "Bê a Bá",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 151226
+        },
+        {
+          "title": "Bicharada",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 97733
+        },
+        {
+          "title": "Marujo",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 152373
+        },
+        {
+          "title": "Cintura Fina",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 155560
+        },
+        {
+          "title": "Selim",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 254373
+        },
+        {
+          "title": "Puteiro Em João Pessoa II",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 190000
+        },
+        {
+          "title": "Selim Acústico",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 252893
+        }
+      ]
+    },
+    {
+      "mbid": "ec149bac-3780-373f-9eee-96420e5311df",
+      "releaseMbid": "bb08a174-f686-4883-adda-6e5f18f6cc47",
+      "title": "Lavô tá novo",
+      "type": "ALBUM",
+      "releaseDate": "1995-11-03",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ec149bac-3780-373f-9eee-96420e5311df/front-1200",
+      "tracks": [
+        {
+          "title": "Tora tora",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 255333
+        },
+        {
+          "title": "Eu quero ver o oco",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 250800
+        },
+        {
+          "title": "Opa! Peraí, caceta",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 150706
+        },
+        {
+          "title": "O pão da minha prima",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 161466
+        },
+        {
+          "title": "Pitando no kombão",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 104226
+        },
+        {
+          "title": "Bestinha",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 147973
+        },
+        {
+          "title": "Esporrei na manivela",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 248293
+        },
+        {
+          "title": "Tá querendo desquitar (Ela tá dando)",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 187333
+        },
+        {
+          "title": "Sereia da pedreira",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 108133
+        },
+        {
+          "title": "I Saw You Saying (That You Say That You Saw)",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 204240
+        },
+        {
+          "title": "Cabeça de bode",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 118200
+        },
+        {
+          "title": "Herbocinética",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 197400
+        }
+      ]
+    },
+    {
+      "mbid": "467dd85b-8d30-3e76-9597-226747c08937",
+      "releaseMbid": "4c232b20-2240-4d86-b243-07c138c30380",
+      "title": "Lapadas do povo",
+      "type": "ALBUM",
+      "releaseDate": "1997",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/467dd85b-8d30-3e76-9597-226747c08937/front-1200",
+      "tracks": [
+        {
+          "title": "Andar na pedra",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 217733
+        },
+        {
+          "title": "Véio, manco e gordo",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 63333
+        },
+        {
+          "title": "O toco",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 126493
+        },
+        {
+          "title": "Poquito más (Healthy Food)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 165800
+        },
+        {
+          "title": "Wipe Out",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 143933
+        },
+        {
+          "title": "CC de com força",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 96440
+        },
+        {
+          "title": "Crumis Ódamis",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 118000
+        },
+        {
+          "title": "Bonita",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 123533
+        },
+        {
+          "title": "Ui, ui, ui",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 47400
+        },
+        {
+          "title": "Oliver's Army",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 131093
+        },
+        {
+          "title": "Nariz de doze",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 181040
+        },
+        {
+          "title": "Pequena Raimunda (Ramona)",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 146493
+        },
+        {
+          "title": "Baile Funky",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 240133
+        },
+        {
+          "title": "Bass Hell (Bônus Crap)",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 208066
+        }
+      ]
+    },
+    {
+      "mbid": "51c19025-c08c-3992-a138-0301473b37b0",
+      "releaseMbid": "ef244c63-70ac-4097-8a83-65bc94d45aed",
+      "title": "Só No Forevis",
+      "type": "ALBUM",
+      "releaseDate": "1999",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/51c19025-c08c-3992-a138-0301473b37b0/front-1200",
+      "tracks": [
+        {
+          "title": "Só No Forevis (Selim)",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 33853
+        },
+        {
+          "title": "Mato Véio",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 127773
+        },
+        {
+          "title": "Carrão de Dois",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 121573
+        },
+        {
+          "title": "Fome Do Cão",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 209133
+        },
+        {
+          "title": "Mulher de Fases",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 213333
+        },
+        {
+          "title": "Alegria",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 110560
+        },
+        {
+          "title": "A Mais Pedida",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 233733
+        },
+        {
+          "title": "Boca de Lata",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 147200
+        },
+        {
+          "title": "Me Lambe",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 196560
+        },
+        {
+          "title": "Pompem",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 162706
+        },
+        {
+          "title": "Deixa Eu Falar",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 282133
+        },
+        {
+          "title": "Aquela",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 205533
+        },
+        {
+          "title": "Língua Presa",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 100400
+        },
+        {
+          "title": "Mulher de Fases (A Linda)",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 381906
+        }
+      ]
+    },
+    {
+      "mbid": "77197f8f-0330-39f4-b7c6-b4dd7a6d2454",
+      "releaseMbid": "0b2a70b9-e3ce-4616-b8b3-cfe6c49820f5",
+      "title": "MTV ao vivo",
+      "type": "LIVE",
+      "releaseDate": "2000",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/77197f8f-0330-39f4-b7c6-b4dd7a6d2454/front-1200",
+      "tracks": [
+        {
+          "title": "Herbocinética",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 181933
+        },
+        {
+          "title": "Poquito más",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 170333
+        },
+        {
+          "title": "Rapante",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 198226
+        },
+        {
+          "title": "Puteiro em João Pessoa",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 241000
+        },
+        {
+          "title": "A mais pedida",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 224840
+        },
+        {
+          "title": "Deixa eu falar",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 284200
+        },
+        {
+          "title": "Pitando no kombão",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 102933
+        },
+        {
+          "title": "Palhas do coqueiro",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 125466
+        },
+        {
+          "title": "Papeau Nuky Doe",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 129133
+        },
+        {
+          "title": "Oliver's Army",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 133333
+        },
+        {
+          "title": "Pout pourri",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 99733
+        },
+        {
+          "title": "Baile funky",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 241226
+        },
+        {
+          "title": "Tora tora",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 277040
+        },
+        {
+          "title": "Esporrei na manivela",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 248226
+        },
+        {
+          "title": "Nariz de doze",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 172266
+        },
+        {
+          "title": "Me lambe",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 251800
+        },
+        {
+          "title": "Bestinha",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 126000
+        },
+        {
+          "title": "Mulher de fases",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 243106
+        },
+        {
+          "title": "Reggae do manero",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 357493
+        },
+        {
+          "title": "20 e poucos anos",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 124133
+        }
+      ]
+    },
+    {
+      "mbid": "db9f0af0-2dec-39ba-b502-8f1e7de7e59e",
+      "releaseMbid": "d5ef5b6b-f7cd-48e7-b1aa-084f717d3744",
+      "title": "Éramos 4",
+      "type": "ALBUM",
+      "releaseDate": "2001",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/db9f0af0-2dec-39ba-b502-8f1e7de7e59e/front-1200",
+      "tracks": [
+        {
+          "title": "Sanidade",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 193626
+        },
+        {
+          "title": "Desculpe mas eu vou chorar",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 163866
+        },
+        {
+          "title": "Nana neném",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 91800
+        },
+        {
+          "title": "Sheena is a Punk Rocker",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 126400
+        },
+        {
+          "title": "Rockaway Beach",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 104600
+        },
+        {
+          "title": "Teenage Lobotomy",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 93440
+        },
+        {
+          "title": "I Wanna Be Well",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 163760
+        },
+        {
+          "title": "I Don't Care",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 91066
+        },
+        {
+          "title": "Rock'n'Roll High School",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 107506
+        },
+        {
+          "title": "Needles and Pins",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 123600
+        },
+        {
+          "title": "Do You Wanna Dance",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 84800
+        },
+        {
+          "title": "Pinhead",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 116333
+        },
+        {
+          "title": "Blitzkrieg Bop",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 143666
+        }
+      ]
+    },
+    {
+      "mbid": "d9595940-f71f-3dd8-8a7c-6378940e7817",
+      "releaseMbid": "0f086b1d-7e76-4cc4-81f1-71b132f6abfe",
+      "title": "Kavookavala",
+      "type": "ALBUM",
+      "releaseDate": "2002",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d9595940-f71f-3dd8-8a7c-6378940e7817/front-1200",
+      "tracks": [
+        {
+          "title": "Fique! Fique!",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 172360
+        },
+        {
+          "title": "Crocodilo Meio Kilo",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 145000
+        },
+        {
+          "title": "Joey",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 219600
+        },
+        {
+          "title": "Vento Certo (Água da Mina)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 153373
+        },
+        {
+          "title": "Kavookavala",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 222133
+        },
+        {
+          "title": "El Mariachi",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 111533
+        },
+        {
+          "title": "Mas Vó",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 258533
+        },
+        {
+          "title": "Princesinha",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 158933
+        },
+        {
+          "title": "Uabarrêba",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 152893
+        },
+        {
+          "title": "Atitude Severa",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 167933
+        },
+        {
+          "title": "Pegamutukalá",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 228773
+        },
+        {
+          "title": "Baixo Calão",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 173426
+        }
+      ]
+    },
+    {
+      "mbid": "62fa59af-5e86-3fba-a67d-be0e3e98e3c2",
+      "releaseMbid": "212e1b84-2f62-4daa-8b14-72d3e8eb5523",
+      "title": ".Qq cOizAh (Ponto Qualquer Coisa)",
+      "type": "EP",
+      "releaseDate": "2005-02",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/62fa59af-5e86-3fba-a67d-be0e3e98e3c2/front-1200",
+      "tracks": [
+        {
+          "title": "Pemba Talk",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 178000
+        },
+        {
+          "title": "Sol e Lua",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 151000
+        },
+        {
+          "title": "Oversize",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 120000
+        },
+        {
+          "title": "Folha de Zinco",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 170000
+        },
+        {
+          "title": "Macaxeira",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 99000
+        }
+      ]
+    },
+    {
+      "mbid": "7cc85341-5561-4795-9143-c5e4b9eaa690",
+      "releaseMbid": "50ac0e22-e4f6-407d-9931-f8ddef822dac",
+      "title": "O embate do século: Ultraje a rigor vs. Raimundos",
+      "type": "ALBUM",
+      "releaseDate": "2012-07-10",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/7cc85341-5561-4795-9143-c5e4b9eaa690/front-1200",
+      "tracks": [
+        {
+          "title": "Puteiro Em João Pessoa",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": null
+        },
+        {
+          "title": "O Pão Da Minha Prima",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": null
+        },
+        {
+          "title": "Eu Quero Ver O Oco",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": null
+        },
+        {
+          "title": "I Saw You Saying (That You Say That You Saw)",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": null
+        },
+        {
+          "title": "Me Lambe",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": null
+        },
+        {
+          "title": "Papeau Nuky Doe",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": null
+        },
+        {
+          "title": "Selim",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": null
+        },
+        {
+          "title": "Rebelde Sem Causa",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": null
+        },
+        {
+          "title": "Nós Vamos Invadir Sua Praia",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": null
+        },
+        {
+          "title": "Ciúme",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": null
+        },
+        {
+          "title": "Mim Quer Tocar",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": null
+        },
+        {
+          "title": "Inútil",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": null
+        },
+        {
+          "title": "Eu Gosto De Mulher",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": null
+        },
+        {
+          "title": "Nada A Declarar",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": null
+        }
+      ]
+    },
+    {
+      "mbid": "e0fb2fb2-a09a-4b9f-bda0-51aebee3deb4",
+      "releaseMbid": "e9579b32-e1a7-4712-8cc5-313cf7ff3e35",
+      "title": "Cantigas de garagem",
+      "type": "ALBUM",
+      "releaseDate": "2014",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/e0fb2fb2-a09a-4b9f-bda0-51aebee3deb4/front-1200",
+      "tracks": [
+        {
+          "title": "Cachorrinha",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 127466
+        },
+        {
+          "title": "Bop",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 188440
+        },
+        {
+          "title": "Baculejo",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 192040
+        },
+        {
+          "title": "O gato da Rosinha",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 120893
+        },
+        {
+          "title": "Cera quente",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 221106
+        },
+        {
+          "title": "Rafael",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 128800
+        },
+        {
+          "title": "Descendo na banguela",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 186213
+        },
+        {
+          "title": "Dubmundos",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 254293
+        },
+        {
+          "title": "Nó suíno",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 155586
+        },
+        {
+          "title": "Importada do interior",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 176000
+        },
+        {
+          "title": "Gordelícia",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 226293
+        },
+        {
+          "title": "Politics",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 312960
+        },
+        {
+          "title": "Mas vó...",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 269386
+        },
+        {
+          "title": "Eu quero ver o oco",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 231560
+        },
+        {
+          "title": "Esporrei na manivela",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 284600
+        },
+        {
+          "title": "Be a ba",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 202080
+        },
+        {
+          "title": "Puteiro em joão pessoa",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 191733
+        }
+      ]
+    },
+    {
+      "mbid": "37ad7ff5-327b-4859-9a7c-03bd411f9fa5",
+      "releaseMbid": "65bb53e2-4329-4b0d-86bd-670b77b878e8",
+      "title": "Cantigas de roda",
+      "type": "ALBUM",
+      "releaseDate": "2014-02-20",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/37ad7ff5-327b-4859-9a7c-03bd411f9fa5/front-1200",
+      "tracks": [
+        {
+          "title": "Cachorrinha",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 125000
+        },
+        {
+          "title": "BOP",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 195000
+        },
+        {
+          "title": "Baculejo",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 191000
+        },
+        {
+          "title": "Gato da Rosinha",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 120000
+        },
+        {
+          "title": "Cera quente",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 232000
+        },
+        {
+          "title": "Rafael",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 123000
+        },
+        {
+          "title": "Descendo na banguela",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 181000
+        },
+        {
+          "title": "Dubmundos",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 246000
+        },
+        {
+          "title": "Nó suíno",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 134000
+        },
+        {
+          "title": "Importada do interior",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 173000
+        },
+        {
+          "title": "Gordelícia",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 201000
+        },
+        {
+          "title": "Politics",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 314000
+        }
+      ]
+    },
+    {
+      "mbid": "d3863b92-e44f-4bf6-9cc3-c5714cce8e02",
+      "releaseMbid": "c10709f5-8f05-45d3-a4fb-be661ccf07a9",
+      "title": "XXX",
+      "type": "ALBUM",
+      "releaseDate": "2025-05-22",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Os Calo",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 213920
+        },
+        {
+          "title": "Maria Bonita",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 155444
+        },
+        {
+          "title": "Dia Bonito",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 222253
+        },
+        {
+          "title": "Um Doce",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 195786
+        },
+        {
+          "title": "Nas Nuvens",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 234325
+        },
+        {
+          "title": "Cuidado Com Esses Cara Aí",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 190037
+        },
+        {
+          "title": "Pela-Saco",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 344994
+        },
+        {
+          "title": "Teu Passo",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 211021
+        },
+        {
+          "title": "Que Sorte",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 195254
+        }
+      ]
+    }
+  ],
+  "pending": []
+}

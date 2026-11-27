@@ -1,0 +1,1630 @@
+{
+  "generatedAt": "2026-11-27T13:20:50.646Z",
+  "source": "MusicBrainz (dados principais em CC0)",
+  "artist": {
+    "mbid": "0a61f71a-92e8-4d3e-adc0-e44469aba069",
+    "name": "Ratos de Porão",
+    "slug": "ratos-de-porao",
+    "type": "BAND",
+    "country": "BR",
+    "city": "São Paulo",
+    "formedYear": 1980,
+    "disbandedYear": null,
+    "bio": null,
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/artist/0a61f71a-92e8-4d3e-adc0-e44469aba069"
+      }
+    ],
+    "genres": [
+      "hardcore",
+      "punk-rock"
+    ]
+  },
+  "releases": [
+    {
+      "mbid": "e94b6589-b73c-4c81-92a1-91f191fbfad0",
+      "releaseMbid": "fb8f7528-e54e-48d7-b92e-0f9fb8d768e0",
+      "title": "SUB",
+      "type": "ALBUM",
+      "releaseDate": "1983-03",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/e94b6589-b73c-4c81-92a1-91f191fbfad0/front-1200",
+      "tracks": [
+        {
+          "title": "Parasita",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 71000
+        },
+        {
+          "title": "Vida ruim",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 92000
+        },
+        {
+          "title": "Poluição atômica",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 68000
+        },
+        {
+          "title": "X.O.T.",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 98000
+        },
+        {
+          "title": "Bloqueio mental",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 96000
+        },
+        {
+          "title": "Quanto vale a liberdade?",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 138000
+        },
+        {
+          "title": "Terceira guerra mundial",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 102000
+        },
+        {
+          "title": "Buracos suburbanos",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 93000
+        },
+        {
+          "title": "Fim do mundo",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 55000
+        },
+        {
+          "title": "Desemprego",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 109000
+        },
+        {
+          "title": "União entre punks do Brasil",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 84000
+        },
+        {
+          "title": "Delinquentes",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 70000
+        },
+        {
+          "title": "Não podemos falar",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 52000
+        },
+        {
+          "title": "Realidades de guerra",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 50000
+        },
+        {
+          "title": "Porquê?",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 65000
+        },
+        {
+          "title": "Histeria",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 71000
+        },
+        {
+          "title": "Zero zero",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 88000
+        },
+        {
+          "title": "Sub‐ratos",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 73000
+        },
+        {
+          "title": "Vítimas da guerra",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 54000
+        },
+        {
+          "title": "Alienação do homem",
+          "discNumber": 1,
+          "position": 20,
+          "durationMs": 54000
+        },
+        {
+          "title": "Desilusão",
+          "discNumber": 1,
+          "position": 21,
+          "durationMs": 62000
+        },
+        {
+          "title": "Inimizade",
+          "discNumber": 1,
+          "position": 22,
+          "durationMs": 78000
+        },
+        {
+          "title": "Punk inglês",
+          "discNumber": 1,
+          "position": 23,
+          "durationMs": 105000
+        },
+        {
+          "title": "Terceira guerra",
+          "discNumber": 1,
+          "position": 24,
+          "durationMs": 98000
+        }
+      ]
+    },
+    {
+      "mbid": "26ce654f-4308-38a0-8614-8ec23d60d528",
+      "releaseMbid": "307b7dbf-47fc-4d0d-9a1a-f28e54689750",
+      "title": "Crucificados pelo sistema",
+      "type": "ALBUM",
+      "releaseDate": "1984",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/26ce654f-4308-38a0-8614-8ec23d60d528/front-1200",
+      "tracks": [
+        {
+          "title": "Morrer",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 84693
+        },
+        {
+          "title": "Caos",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 16933
+        },
+        {
+          "title": "Guerra desumana",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 82973
+        },
+        {
+          "title": "Agressão/Repressão",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 81933
+        },
+        {
+          "title": "Obrigado a obedecer",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 62360
+        },
+        {
+          "title": "Asas da vingança",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 72373
+        },
+        {
+          "title": "Que vergonha!",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 50600
+        },
+        {
+          "title": "Poluição atômica",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 59293
+        },
+        {
+          "title": "Pobreza",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 62306
+        },
+        {
+          "title": "F.M.I.",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 73093
+        },
+        {
+          "title": "Só pensa em matar",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 135266
+        },
+        {
+          "title": "Sistema de protesto",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 96266
+        },
+        {
+          "title": "Não me importo",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 79106
+        },
+        {
+          "title": "Periferia",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 61893
+        },
+        {
+          "title": "Crucificados pelo sistema",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 83240
+        },
+        {
+          "title": "Corrupção",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 34227
+        }
+      ]
+    },
+    {
+      "mbid": "4b964303-61c2-3f1d-a134-9a9fbf53572d",
+      "releaseMbid": "23f745a5-4d99-410b-8108-56e8a6299309",
+      "title": "Descanse em paz",
+      "type": "ALBUM",
+      "releaseDate": "1986",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/4b964303-61c2-3f1d-a134-9a9fbf53572d/front-1200",
+      "tracks": [
+        {
+          "title": "Cérebros Atômicos",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 138800
+        },
+        {
+          "title": "Morrer mais uma Vez",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 223600
+        },
+        {
+          "title": "Velhus Decréptus",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 105893
+        },
+        {
+          "title": "No Junk",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 160533
+        },
+        {
+          "title": "Sofrimento Real",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 199000
+        },
+        {
+          "title": "Juventude Perdida",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 139400
+        },
+        {
+          "title": "Paranóia Nuclear",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 58800
+        },
+        {
+          "title": "Descanse em Paz",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 164600
+        },
+        {
+          "title": "Fora Eu",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 94506
+        },
+        {
+          "title": "Aviso Final",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 180026
+        },
+        {
+          "title": "Zona",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 168800
+        }
+      ]
+    },
+    {
+      "mbid": "c372ac7b-a2e5-4014-a621-c4807b751c49",
+      "releaseMbid": "264c427c-3767-4f45-bcc0-6aca2a6daf60",
+      "title": "Cada dia mais sujo e agressivo",
+      "type": "ALBUM",
+      "releaseDate": "1987",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/c372ac7b-a2e5-4014-a621-c4807b751c49/front-1200",
+      "tracks": [
+        {
+          "title": "Tatoo Maniac",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 121000
+        },
+        {
+          "title": "Plano furado",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 135000
+        },
+        {
+          "title": "Ignorância",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 153000
+        },
+        {
+          "title": "Crise geral",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 140000
+        },
+        {
+          "title": "Morte e desespero",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 271000
+        },
+        {
+          "title": "Pensamentos de trincheira",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 205000
+        },
+        {
+          "title": "Peste sexual",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 87000
+        },
+        {
+          "title": "Sentir ódio e nada mais",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 186000
+        },
+        {
+          "title": "Assalto na esquina",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 13000
+        },
+        {
+          "title": "Não há / Outras vidas",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 227000
+        },
+        {
+          "title": "V.C.D.M.S.A.",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 47000
+        }
+      ]
+    },
+    {
+      "mbid": "bd50c6d3-8372-347c-91f7-99bdd5ceb5ba",
+      "releaseMbid": "9e1def14-d65e-49e1-9721-74a17ac3e93f",
+      "title": "Brasil",
+      "type": "ALBUM",
+      "releaseDate": "1989",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/bd50c6d3-8372-347c-91f7-99bdd5ceb5ba/front-1200",
+      "tracks": [
+        {
+          "title": "Amazonia Never More",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 115266
+        },
+        {
+          "title": "Backwards",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 95666
+        },
+        {
+          "title": "AIDS, Pop Repression",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 77773
+        },
+        {
+          "title": "Law of Silence",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 137626
+        },
+        {
+          "title": "SOS Broken Country",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 87840
+        },
+        {
+          "title": "Gil Coma",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 43800
+        },
+        {
+          "title": "Drink Til You Die",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 140266
+        },
+        {
+          "title": "Suicidal Heroin",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 135133
+        },
+        {
+          "title": "Children Without Future",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 101533
+        },
+        {
+          "title": "Nationalist Farce",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 150533
+        },
+        {
+          "title": "Traitor",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 51760
+        },
+        {
+          "title": "Bloody Pigs",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 111440
+        },
+        {
+          "title": "Animal Life",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 88693
+        },
+        {
+          "title": "The End",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 59440
+        },
+        {
+          "title": "Military Machine",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 117066
+        },
+        {
+          "title": "Land of Carnival",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 136266
+        },
+        {
+          "title": "Will I Receive My Heritage",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 113467
+        }
+      ]
+    },
+    {
+      "mbid": "5113953d-4f87-36f6-91fe-a0c3979990d2",
+      "releaseMbid": "f828b6ab-c222-381f-8a40-dc35e864a40f",
+      "title": "Anarkophobia",
+      "type": "ALBUM",
+      "releaseDate": "1991",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/5113953d-4f87-36f6-91fe-a0c3979990d2/front-1200",
+      "tracks": [
+        {
+          "title": "Counting the Dead",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 289466
+        },
+        {
+          "title": "Death of the King",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 213493
+        },
+        {
+          "title": "Born to Suffer",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 192466
+        },
+        {
+          "title": "Rise and Fall",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 125773
+        },
+        {
+          "title": "Mad Society",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 239960
+        },
+        {
+          "title": "(All I Need Is) Hatred",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 299800
+        },
+        {
+          "title": "Anarkophobia",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 223600
+        },
+        {
+          "title": "Universal Church",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 220733
+        },
+        {
+          "title": "Commando",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 103733
+        },
+        {
+          "title": "TV Slave",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 262974
+        }
+      ]
+    },
+    {
+      "mbid": "cf4c3a76-45bb-3fe1-8531-16d0a8e91144",
+      "releaseMbid": "918bb145-cee0-44d7-9a51-aa7b5c4f5ea0",
+      "title": "Just Another Crime in... Massacreland",
+      "type": "ALBUM",
+      "releaseDate": "1994-05-02",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/cf4c3a76-45bb-3fe1-8531-16d0a8e91144/front-1200",
+      "tracks": [
+        {
+          "title": "Money",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 265400
+        },
+        {
+          "title": "Massacreland",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 164173
+        },
+        {
+          "title": "Diet Paranoia",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 192893
+        },
+        {
+          "title": "Satanic Bullshit",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 159000
+        },
+        {
+          "title": "Breaking All the Rules",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 205106
+        },
+        {
+          "title": "Criminal Rats Are Children Killers",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 209800
+        },
+        {
+          "title": "Video Macumba",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 283826
+        },
+        {
+          "title": "The Right Side of a Wrong Life",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 167000
+        },
+        {
+          "title": "Suposicollor",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 120933
+        },
+        {
+          "title": "Real Enemies",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 143666
+        },
+        {
+          "title": "Quando ci vuole ci vuole",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 152040
+        },
+        {
+          "title": "Bad Trip",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 144133
+        },
+        {
+          "title": "Ultra Seven no uta",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 211560
+        }
+      ]
+    },
+    {
+      "mbid": "cb4d06c2-94fc-3e75-9ee7-1d4a9182e044",
+      "releaseMbid": "6b5fb63b-a0f5-48f5-8e32-c34f1a9d2865",
+      "title": "Feijoada acidente? - Brasil",
+      "type": "ALBUM",
+      "releaseDate": "1995",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/cb4d06c2-94fc-3e75-9ee7-1d4a9182e044/front-1200",
+      "tracks": [
+        {
+          "title": "Câncer",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 105000
+        },
+        {
+          "title": "Olho de gato",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 62000
+        },
+        {
+          "title": "Lobotomia",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 72000
+        },
+        {
+          "title": "John Travolta",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 111000
+        },
+        {
+          "title": "Não podemos falar",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 36000
+        },
+        {
+          "title": "Desemprego",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 103000
+        },
+        {
+          "title": "Capitalismo",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 88000
+        },
+        {
+          "title": "A bomba",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 16000
+        },
+        {
+          "title": "Falsa liberdade",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 69000
+        },
+        {
+          "title": "Tô tenso",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 149000
+        },
+        {
+          "title": "Buracos suburbanos",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 97000
+        },
+        {
+          "title": "Corrupção",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 64000
+        },
+        {
+          "title": "Papai Noel",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 92000
+        },
+        {
+          "title": "Medo de morrer",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 71000
+        },
+        {
+          "title": "O dotadão deve morrer",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 154000
+        },
+        {
+          "title": "Só pensa em matar",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 90000
+        },
+        {
+          "title": "Os ratos",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 90000
+        },
+        {
+          "title": "Classe dominante",
+          "discNumber": 1,
+          "position": 18,
+          "durationMs": 90000
+        },
+        {
+          "title": "Direito de fumar / Nós somos a turma",
+          "discNumber": 1,
+          "position": 19,
+          "durationMs": 313000
+        }
+      ]
+    },
+    {
+      "mbid": "d8a986d0-9be9-3cd6-bc82-dbdc6d737b2d",
+      "releaseMbid": "b29e10e3-e752-4008-bb4a-f9edd591ca5b",
+      "title": "Carniceria Tropical",
+      "type": "ALBUM",
+      "releaseDate": "1997",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d8a986d0-9be9-3cd6-bc82-dbdc6d737b2d/front-1200",
+      "tracks": [
+        {
+          "title": "Vá Se Virar",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 144960
+        },
+        {
+          "title": "Atitude Zero",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 120906
+        },
+        {
+          "title": "Banha",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 192066
+        },
+        {
+          "title": "Crocodila",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 114026
+        },
+        {
+          "title": "Pedra",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 170506
+        },
+        {
+          "title": "Estilo de Vida Miserável",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 132826
+        },
+        {
+          "title": "Dificil de Entender",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 170573
+        },
+        {
+          "title": "Outra Vez",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 116693
+        },
+        {
+          "title": "Bico do Corvo",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 78600
+        },
+        {
+          "title": "Ideologic Police",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 195533
+        },
+        {
+          "title": "Autoguerrilha",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 154866
+        },
+        {
+          "title": "Arranca Toco",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 51440
+        },
+        {
+          "title": "Colisão",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 845026
+        }
+      ]
+    },
+    {
+      "mbid": "ca00050b-e61d-4906-abf7-8d7531a9e75f",
+      "releaseMbid": "f7b903b1-3ed1-430e-8b97-11e2a484096c",
+      "title": "Sistemados pelo crucifa",
+      "type": "ALBUM",
+      "releaseDate": "2000",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/ca00050b-e61d-4906-abf7-8d7531a9e75f/front-1200",
+      "tracks": [
+        {
+          "title": "Morrer",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 116000
+        },
+        {
+          "title": "Caos",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 15000
+        },
+        {
+          "title": "Guerra desumana",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 80000
+        },
+        {
+          "title": "Agressão/Repressão",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 92000
+        },
+        {
+          "title": "Obrigando a obedecer",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 88000
+        },
+        {
+          "title": "Asas da vingança",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 68000
+        },
+        {
+          "title": "Que vergonha!",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 58000
+        },
+        {
+          "title": "Poluição atômica",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 50000
+        },
+        {
+          "title": "Pobreza",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 61000
+        },
+        {
+          "title": "F.M.I.",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 82000
+        },
+        {
+          "title": "Paranóia nuclear",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 111000
+        },
+        {
+          "title": "Sistema de protesto",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 72000
+        },
+        {
+          "title": "Não me importo",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 79000
+        },
+        {
+          "title": "Periferia",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 118000
+        },
+        {
+          "title": "Sistemados pelo crucifa",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 56000
+        },
+        {
+          "title": "Cêrebros atômicos",
+          "discNumber": 1,
+          "position": 16,
+          "durationMs": 105000
+        },
+        {
+          "title": "Eu não sei",
+          "discNumber": 1,
+          "position": 17,
+          "durationMs": 1667000
+        }
+      ]
+    },
+    {
+      "mbid": "e59f2b5b-38f9-332d-b7cd-8d3b045cef2c",
+      "releaseMbid": "5cf79d22-5229-4611-b76c-c7fbaeeb1e56",
+      "title": "Guerra civil canibal",
+      "type": "EP",
+      "releaseDate": "2000",
+      "description": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Obesidade mórbida constitucional",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 176693
+        },
+        {
+          "title": "Toma trouxa",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 115573
+        },
+        {
+          "title": "Guerra civil canibal",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 128360
+        },
+        {
+          "title": "Fire to Burn",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 108466
+        },
+        {
+          "title": "Biotech Is Godzilla",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 109973
+        },
+        {
+          "title": "A Cola",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 98160
+        },
+        {
+          "title": "Kill the Varukers",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 111773
+        }
+      ]
+    },
+    {
+      "mbid": "bc472d1f-41d0-314a-819d-55df008c0154",
+      "releaseMbid": "31014835-101e-4296-b23d-95a91d29b1f2",
+      "title": "Onisciente Coletivo",
+      "type": "ALBUM",
+      "releaseDate": "2002",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/bc472d1f-41d0-314a-819d-55df008c0154/front-1200",
+      "tracks": [
+        {
+          "title": "Terror declarado",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 165000
+        },
+        {
+          "title": "Engrenagem",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 199000
+        },
+        {
+          "title": "Playbaloser",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 137000
+        },
+        {
+          "title": "Próximo alvo",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 171000
+        },
+        {
+          "title": "O sistema me engoliu",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 99000
+        },
+        {
+          "title": "Medo",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 118000
+        },
+        {
+          "title": "Fragments of Conquest",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 199000
+        },
+        {
+          "title": "Vai ficar preto",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 71000
+        },
+        {
+          "title": "Conspiração subliminar",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 145000
+        },
+        {
+          "title": "Rabia social",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 140000
+        },
+        {
+          "title": "Necrochorume",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 140000
+        },
+        {
+          "title": "Problemão",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 184000
+        },
+        {
+          "title": "Cybergenocídio",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 71000
+        },
+        {
+          "title": "Onisciente coletivo",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 259000
+        },
+        {
+          "title": "Deus é amor",
+          "discNumber": 1,
+          "position": 15,
+          "durationMs": 175000
+        }
+      ]
+    },
+    {
+      "mbid": "3e319cb0-ba58-3311-90b4-91ec8b0350ab",
+      "releaseMbid": "3083f749-e858-4b2a-86bf-de8c1718049d",
+      "title": "Homem inimigo do homem",
+      "type": "ALBUM",
+      "releaseDate": "2006",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/3e319cb0-ba58-3311-90b4-91ec8b0350ab/front-1200",
+      "tracks": [
+        {
+          "title": "Pedofilia Santa",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 125000
+        },
+        {
+          "title": "Covardia de Plantão",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 121000
+        },
+        {
+          "title": "Expresso da Escravidão",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 164000
+        },
+        {
+          "title": "O Equivocado",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 163000
+        },
+        {
+          "title": "Otário Involuntário",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 112000
+        },
+        {
+          "title": "H.I.D.H.",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 234000
+        },
+        {
+          "title": "Testemunhas Do Apocalipse",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 137000
+        },
+        {
+          "title": "Ao Pé da Forca",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 140000
+        },
+        {
+          "title": "DNA da Pilantragem",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 218000
+        },
+        {
+          "title": "Pms de Satã",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 135000
+        },
+        {
+          "title": "Quem Te Viu...",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 155000
+        },
+        {
+          "title": "Lucidez",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 111000
+        }
+      ]
+    },
+    {
+      "mbid": "fea18ab9-0bda-4f5a-942f-ed749c991bc9",
+      "releaseMbid": "bb0e50f9-d3ca-4869-a1ad-5c65c394b8b2",
+      "title": "Ratos de Porão / Looking for an Answer",
+      "type": "ALBUM",
+      "releaseDate": "2010-08",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/fea18ab9-0bda-4f5a-942f-ed749c991bc9/front-1200",
+      "tracks": [
+        {
+          "title": "Exército de zumbis",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 84000
+        },
+        {
+          "title": "Paradoxo da soberba",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 88000
+        },
+        {
+          "title": "O martelo dos hereges",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 132000
+        },
+        {
+          "title": "Guerrear",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 141000
+        },
+        {
+          "title": "Políticos em nome do povo",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 34000
+        },
+        {
+          "title": "La matanza",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 108000
+        },
+        {
+          "title": "Tumor",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 42000
+        },
+        {
+          "title": "No dioses, no posers",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 85000
+        },
+        {
+          "title": "Embestida",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 125000
+        },
+        {
+          "title": "Subsuelo?",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 31000
+        },
+        {
+          "title": "Bombas para la paz",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 57000
+        },
+        {
+          "title": "Seven Cunts Into God's Throat",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 26000
+        },
+        {
+          "title": "Rito de muerte",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 164000
+        },
+        {
+          "title": "Paranóia nuclear",
+          "discNumber": 1,
+          "position": 14,
+          "durationMs": 74000
+        }
+      ]
+    },
+    {
+      "mbid": "44a71e6a-cf29-422a-b794-a2300ff43fc1",
+      "releaseMbid": "5e5e1086-4d59-47f7-b976-fb2a18b35b5e",
+      "title": "Século Sinistro",
+      "type": "ALBUM",
+      "releaseDate": "2014",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/44a71e6a-cf29-422a-b794-a2300ff43fc1/front-1200",
+      "tracks": [
+        {
+          "title": "Conflito Violento",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 205000
+        },
+        {
+          "title": "Neocanibalismo",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 164000
+        },
+        {
+          "title": "Grande Bosta",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 198000
+        },
+        {
+          "title": "Sangue & Bunda",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 134000
+        },
+        {
+          "title": "Século Sinistro",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 109000
+        },
+        {
+          "title": "Jornada para o Inferno",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 202000
+        },
+        {
+          "title": "Prenúncio de Treta",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 166000
+        },
+        {
+          "title": "Stress Pós-Traumático",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 182000
+        },
+        {
+          "title": "Viciado Digital",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 135000
+        },
+        {
+          "title": "Boiada Pra Bandido",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 206000
+        },
+        {
+          "title": "Progeria of Power",
+          "discNumber": 1,
+          "position": 11,
+          "durationMs": 73000
+        },
+        {
+          "title": "Puta, Viagra e Corrupção",
+          "discNumber": 1,
+          "position": 12,
+          "durationMs": 141000
+        },
+        {
+          "title": "Pra Fazer Pobre Chorar",
+          "discNumber": 1,
+          "position": 13,
+          "durationMs": 144000
+        }
+      ]
+    },
+    {
+      "mbid": "3bd5331c-acc4-4664-848f-d4a4517593ea",
+      "releaseMbid": "25fa535d-b983-4d92-a283-c6806340e120",
+      "title": "Necropolítica",
+      "type": "ALBUM",
+      "releaseDate": "2022-05-13",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/3bd5331c-acc4-4664-848f-d4a4517593ea/front-1200",
+      "tracks": [
+        {
+          "title": "Alerta Antifascista",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 211069
+        },
+        {
+          "title": "Aglomeração",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 149214
+        },
+        {
+          "title": "Passa Pano pra Elite",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 221572
+        },
+        {
+          "title": "Necropolítica",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 151896
+        },
+        {
+          "title": "Guilhotinado em Cristo",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 189042
+        },
+        {
+          "title": "O Vira-Lata",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 218837
+        },
+        {
+          "title": "G.D.O.",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 128170
+        },
+        {
+          "title": "Bostanágua",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 127722
+        },
+        {
+          "title": "Entubado",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 249600
+        },
+        {
+          "title": "Neonazi Gratiluz",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 245653
+        }
+      ]
+    },
+    {
+      "mbid": "13e3146c-653a-48a1-bdfe-034b3aaba73a",
+      "releaseMbid": "ee731a9e-2167-4873-aca6-fecc4b305bc2",
+      "title": "Isentön Päunokü",
+      "type": "ALBUM",
+      "releaseDate": "2023-02-20",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/13e3146c-653a-48a1-bdfe-034b3aaba73a/front-1200",
+      "tracks": [
+        {
+          "title": "Fei e Burro",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 33000
+        },
+        {
+          "title": "Fuder a Empregada",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 29500
+        },
+        {
+          "title": "Ungido de Excremento",
+          "discNumber": 1,
+          "position": 3,
+          "durationMs": 36874
+        },
+        {
+          "title": "Vacinaa",
+          "discNumber": 1,
+          "position": 4,
+          "durationMs": 73500
+        },
+        {
+          "title": "Rosca Solta",
+          "discNumber": 1,
+          "position": 5,
+          "durationMs": 41500
+        },
+        {
+          "title": "Anormal",
+          "discNumber": 1,
+          "position": 6,
+          "durationMs": 45500
+        },
+        {
+          "title": "Tome Cuidado",
+          "discNumber": 1,
+          "position": 7,
+          "durationMs": 44000
+        },
+        {
+          "title": "Roubalheira Surreal",
+          "discNumber": 1,
+          "position": 8,
+          "durationMs": 44000
+        },
+        {
+          "title": "A Forbes Vai Te Citar",
+          "discNumber": 1,
+          "position": 9,
+          "durationMs": 62000
+        },
+        {
+          "title": "Vai pra Porra",
+          "discNumber": 1,
+          "position": 10,
+          "durationMs": 59250
+        }
+      ]
+    },
+    {
+      "mbid": "d7368f94-b529-456e-a975-bef2f7830c4e",
+      "releaseMbid": "6ebcf4d9-a05d-4834-b654-26c57f3925ee",
+      "title": "Jesus Nazifascista",
+      "type": "EP",
+      "releaseDate": "2023-11-02",
+      "description": null,
+      "coverUrl": "https://coverartarchive.org/release-group/d7368f94-b529-456e-a975-bef2f7830c4e/front-1200",
+      "tracks": [
+        {
+          "title": "Veneno Cristão",
+          "discNumber": 1,
+          "position": 1,
+          "durationMs": 139695
+        },
+        {
+          "title": "Poço da Escuridão",
+          "discNumber": 1,
+          "position": 2,
+          "durationMs": 259264
+        }
+      ]
+    }
+  ],
+  "pending": []
+}
