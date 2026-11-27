@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /moderacao
+Disallow: /conta
+
+Sitemap: https://amplificacore.netlify.app/sitemap.xml

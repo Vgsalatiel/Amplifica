@@ -1,6 +1,7 @@
 import { createBrowserRouter, Navigate } from 'react-router'
 import { page } from './lazy-page'
 import { PageFallback } from './page-fallback'
+import { RouteError } from './route-error'
 import { AppLayout } from '../components/layout/app-layout'
 import { AdminRoute } from '../features/admin/components/admin-route'
 import { ModeratorRoute } from '../features/moderation/components/moderator-route'
@@ -12,6 +13,7 @@ export const router = createBrowserRouter([
   {
     element: <AppLayout />,
     HydrateFallback: PageFallback,
+    errorElement: <RouteError />,
     children: [
       { path: '/', element: <HomePage /> },
       { path: '/artistas', lazy: page(() => import('../features/catalog/pages/artists-page'), 'ArtistsPage') },

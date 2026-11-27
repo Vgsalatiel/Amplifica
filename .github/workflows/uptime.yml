@@ -1,0 +1,43 @@
+name: Uptime
+
+# Confere a cada 10 minutos se o site e a API estão no ar. Se algo falhar, a execução fica
+# vermelha e o GitHub avisa por e-mail. Como efeito colateral, a chamada mantém a API do Render
+# (plano grátis) acordada, o que evita a primeira visita lenta.
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: uptime
+  cancel-in-progress: true
+
+jobs:
+  check:
+    name: Site e API
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      SITE_URL: https://amplificacore.netlify.app
+      API_URL: https://amplifica.onrender.com/api/v1
+    steps:
+      - name: API responde e o banco está ligado
+        run: |
+          # A API pode estar acordando: tenta algumas vezes antes de dar o aviso.
+          body="$(curl --silent --show-error --fail --max-time 60 --retry 4 --retry-delay 20 --retry-all-errors "$API_URL/health")"
+          echo "$body"
+          echo "$body" | grep -q '"status":"ok"' || { echo "::error::A API respondeu, mas o status não é ok."; exit 1; }
+          echo "$body" | grep -q '"database":"up"' || { echo "::error::A API está no ar, mas o banco não responde."; exit 1; }
+      - name: Lista de artistas responde com dados
+        run: |
+          total="$(curl --silent --show-error --fail --max-time 60 --retry 3 --retry-delay 10 --retry-all-errors "$API_URL/artists?limit=1" | grep -o '"total":[0-9]*' | head -1 | cut -d: -f2)"
+          echo "artistas: ${total:-?}"
+          [ "${total:-0}" -gt 0 ] || { echo "::error::A lista de artistas veio vazia ou quebrada."; exit 1; }
+      - name: Site responde
+        run: |
+          code="$(curl --silent --output /dev/null --write-out '%{http_code}' --max-time 30 --retry 3 --retry-delay 10 --retry-all-errors "$SITE_URL/")"
+          echo "site: $code"
+          [ "$code" = "200" ] || { echo "::error::O site respondeu $code."; exit 1; }

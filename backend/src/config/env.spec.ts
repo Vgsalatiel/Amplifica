@@ -76,4 +76,19 @@ describe('validateEnv', () => {
       }
     });
   });
+
+  describe('SENTRY_DSN', () => {
+    it('é opcional, e quando vem é guardado', () => {
+      expect(validateEnv(valid).SENTRY_DSN).toBeUndefined();
+      expect(validateEnv({ ...valid, SENTRY_DSN: '  ' }).SENTRY_DSN).toBeUndefined();
+      expect(validateEnv({ ...valid, SENTRY_DSN: 'https://abc@o1.ingest.sentry.io/2' }).SENTRY_DSN).toBe(
+        'https://abc@o1.ingest.sentry.io/2',
+      );
+    });
+
+    it('recusa um endereço que não seja https', () => {
+      expect(() => validateEnv({ ...valid, SENTRY_DSN: 'abc' })).toThrow(/SENTRY_DSN/);
+      expect(() => validateEnv({ ...valid, SENTRY_DSN: 'http://abc@o1.ingest.sentry.io/2' })).toThrow(/SENTRY_DSN/);
+    });
+  });
 });

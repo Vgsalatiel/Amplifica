@@ -7,6 +7,7 @@ import {
 } from '@nestjs/common';
 import type { Response } from 'express';
 import type { ApiErrorBody, ApiErrorDetail } from './api-error.js';
+import { reportException } from './monitoring.js';
 
 const DEFAULTS: Record<number, { code: string; message: string }> = {
   400: { code: 'bad_request', message: 'Requisição inválida.' },
@@ -47,6 +48,10 @@ export class ApiExceptionFilter implements ExceptionFilter {
 
     if (body.statusCode >= 500) {
       this.logger.error(exception);
+      // Só os 500 de verdade vão ao Sentry; 502/503 são avisos nossos, de fora (página lida, banco).
+      if (body.statusCode === 500) {
+        reportException(exception);
+      }
     }
 
     response.status(body.statusCode).json(body);

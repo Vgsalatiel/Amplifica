@@ -4,7 +4,8 @@ import {
   NotFoundException,
 } from '@nestjs/common';
 import { apiError } from './api-error.js';
-import { toErrorBody } from './api-exception.filter.js';
+import { ApiExceptionFilter, toErrorBody } from './api-exception.filter.js';
+import * as monitoring from './monitoring.js';
 
 describe('toErrorBody', () => {
   it('mantém código, mensagem e detalhes das nossas exceções', () => {
@@ -58,5 +59,33 @@ describe('toErrorBody', () => {
 
     expect(body.statusCode).toBe(500);
     expect(JSON.stringify(body)).not.toContain('hunter2');
+  });
+});
+
+describe('ApiExceptionFilter e o aviso de erros', () => {
+  const host = () => {
+    const json = vi.fn();
+    const response = { status: vi.fn().mockReturnValue({ json }) };
+    return {
+      host: { switchToHttp: () => ({ getResponse: () => response }) } as never,
+      response,
+      json,
+    };
+  };
+
+  it('avisa o monitoramento só nos erros 500 inesperados', () => {
+    const report = vi.spyOn(monitoring, 'reportException').mockImplementation(() => {});
+    vi.spyOn(console, 'error').mockImplementation(() => {});
+    const filter = new ApiExceptionFilter();
+    const boom = new Error('banco caiu');
+
+    filter.catch(boom, host().host);
+    expect(report).toHaveBeenCalledWith(boom);
+
+    report.mockClear();
+    filter.catch(new NotFoundException(), host().host);
+    filter.catch(new BadGatewayException(apiError('x', 'y')), host().host);
+    expect(report).not.toHaveBeenCalled();
+    vi.restoreAllMocks();
   });
 });

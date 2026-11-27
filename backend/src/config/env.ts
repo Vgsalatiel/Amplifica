@@ -27,6 +27,8 @@ export interface Env {
   RESEND_API_KEY?: string;
   /** Remetente, como "Amplifica <contato@seudominio.com>". O domínio precisa estar verificado no Resend. */
   MAIL_FROM?: string;
+  /** Endereço (DSN) do projeto no Sentry, para ser avisado de erros 5xx. Sem ele, o aviso fica desligado. */
+  SENTRY_DSN?: string;
 }
 
 const STORAGE_KEYS = [
@@ -108,6 +110,11 @@ export function validateEnv(raw: Record<string, unknown>): Env {
     errors.push('MAIL_FROM deve ser um e-mail, ou "Nome <e-mail>"');
   }
 
+  const sentryDsn = typeof raw['SENTRY_DSN'] === 'string' ? raw['SENTRY_DSN'].trim() : '';
+  if (sentryDsn && !/^https:\/\/[^\s]+$/.test(sentryDsn)) {
+    errors.push('SENTRY_DSN deve ser um endereço https:// (copie o DSN do projeto no Sentry)');
+  }
+
   if (errors.length > 0) {
     throw new Error(
       `Configuração de ambiente inválida:\n- ${errors.join('\n- ')}\n` +
@@ -123,5 +130,6 @@ export function validateEnv(raw: Record<string, unknown>): Env {
     JWT_ACCESS_SECRET: jwtAccessSecret,
     ...storage,
     ...mail,
+    ...(sentryDsn ? { SENTRY_DSN: sentryDsn } : {}),
   };
 }
