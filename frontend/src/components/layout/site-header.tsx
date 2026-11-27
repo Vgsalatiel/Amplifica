@@ -142,6 +142,9 @@ function AccountLinks({ onNavigate }: { onNavigate: () => void }) {
 
   return (
     <>
+      <NavLink to="/feed" className={navLinkClass} onClick={onNavigate}>
+        Feed
+      </NavLink>
       <NavLink to={`/u/${session.user.username}`} className={navLinkClass} onClick={onNavigate}>
         {session.user.displayName}
       </NavLink>

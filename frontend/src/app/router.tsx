@@ -38,11 +38,14 @@ export const router = createBrowserRouter([
       { path: '/redefinir-senha', lazy: page(() => import('../features/auth/pages/reset-password-page'), 'ResetPasswordPage') },
       { path: '/confirmar-email', lazy: page(() => import('../features/auth/pages/verify-email-page'), 'VerifyEmailPage') },
       { path: '/pessoas', lazy: page(() => import('../features/profile/pages/people-page'), 'PeoplePage') },
+      { path: '/u/:username/seguidores', lazy: page(() => import('../features/social/pages/follow-list-page'), 'FollowersPage') },
+      { path: '/u/:username/seguindo', lazy: page(() => import('../features/social/pages/follow-list-page'), 'FollowingPage') },
       { path: '/u/:username', lazy: page(() => import('../features/profile/pages/profile-page'), 'ProfilePage') },
       {
         // Tudo aqui dentro exige login.
         element: <ProtectedRoute />,
         children: [
+          { path: '/feed', lazy: page(() => import('../features/social/pages/feed-page'), 'FeedPage') },
           { path: '/conta', lazy: page(() => import('../features/profile/pages/account-page'), 'AccountPage') },
           {
             // Dentro daqui só entra quem é administrador ou moderador.

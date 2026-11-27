@@ -60,6 +60,12 @@ describe('SiteHeader', () => {
     expect(screen.queryByRole('button', { name: 'Sair' })).not.toBeInTheDocument()
   })
 
+  it('o link do feed só aparece para quem está logado', () => {
+    endSession()
+    renderHeader()
+    expect(screen.queryByRole('link', { name: 'Feed' })).not.toBeInTheDocument()
+  })
+
   it('oferece entrar e criar conta ao visitante', () => {
     endSession()
     renderHeader()
@@ -106,6 +112,7 @@ describe('SiteHeader', () => {
     renderHeader()
 
     expect(screen.getByRole('link', { name: 'Marina F.' })).toHaveAttribute('href', '/u/marina.fz')
+    expect(screen.getByRole('link', { name: 'Feed' })).toHaveAttribute('href', '/feed')
 
     fireEvent.click(screen.getByRole('button', { name: 'Sair' }))
 

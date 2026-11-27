@@ -43,6 +43,9 @@ model User {
   commentReports  CommentReport[]
   groupLinks      ShowGroup[]
   favoriteArtists ArtistFavorite[]
+  // Quem esta pessoa segue (`following`) e quem a segue (`followers`).
+  following       Follow[]         @relation("Following")
+  followers       Follow[]         @relation("Followers")
 }
 
 enum EmailTokenPurpose {
@@ -475,4 +478,19 @@ model ArtistFavorite {
   @@id([userId, artistId])
   @@index([artistId])
   @@index([userId, createdAt])
+}
+
+// Seguir: quem segue (followerId) quer ver a atividade de quem é seguido (followedId) no feed.
+// Uma regra CHECK na migration impede seguir a si mesmo.
+model Follow {
+  followerId String   @db.Uuid
+  followedId String   @db.Uuid
+  createdAt  DateTime @default(now())
+
+  follower User @relation("Following", fields: [followerId], references: [id], onDelete: Cascade)
+  followed User @relation("Followers", fields: [followedId], references: [id], onDelete: Cascade)
+
+  @@id([followerId, followedId])
+  @@index([followedId, createdAt])
+  @@index([followerId, createdAt])
 }
