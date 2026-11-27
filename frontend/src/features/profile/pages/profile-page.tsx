@@ -6,6 +6,8 @@ import { SectionHeading } from '../../../components/ui/section-heading'
 import { TextLink } from '../../../components/ui/text-link'
 import { ApiError } from '../../../lib/http'
 import { retryDelay, shouldRetry } from '../../../lib/retry'
+import { FollowButton } from '../../social/components/follow-button'
+import { FollowCounts } from '../../social/components/follow-counts'
 import { TasteMatchSection } from '../components/taste-match'
 import { UserFavorites } from '../../favorites/components/user-favorites'
 import { UserDiscoveries } from '../components/user-discoveries'
@@ -73,12 +75,15 @@ export function ProfilePage() {
           <p className="mt-3 text-muted">
             @{user.username}, no Amplifica desde {memberSince(user.createdAt)}
           </p>
+          <FollowCounts username={user.username} />
           </div>
         </div>
-        {isOwnProfile && (
+        {isOwnProfile ? (
           <ButtonLink to="/conta" variant="secondary">
             Editar perfil
           </ButtonLink>
+        ) : (
+          <FollowButton username={user.username} displayName={user.displayName} />
         )}
       </header>
 
