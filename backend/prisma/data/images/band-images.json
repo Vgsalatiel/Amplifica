@@ -883,6 +883,256 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jinjer-1-1920x1080.jpg"
       }
+    },
+    {
+      "slug": "braza",
+      "file": "livres/braza.jpg",
+      "credit": {
+        "author": "Ryan VBS",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:BRAZAbanda.jpg"
+      }
+    },
+    {
+      "slug": "born-of-osiris",
+      "file": "livres/born-of-osiris.jpg",
+      "credit": {
+        "author": "Derrick Austinson Photog",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Born_Of_Osiris.jpg"
+      }
+    },
+    {
+      "slug": "cursive",
+      "file": "livres/cursive.jpg",
+      "credit": {
+        "author": "Tammy Lo from Brooklyn, NY",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:210185213_3a1a0e309c.jpg"
+      }
+    },
+    {
+      "slug": "falling-in-reverse",
+      "file": "livres/falling-in-reverse.jpg",
+      "credit": {
+        "author": "Christianx14",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Falling_in_Reverse_Chicago_2015.jpg"
+      }
+    },
+    {
+      "slug": "holding-absence",
+      "file": "livres/holding-absence.jpg",
+      "credit": {
+        "author": "Sven Mandel",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Holding_Absence_-_2022175152144_2022-06-24_Download_Germany_-_Sven_-_5DS_R_-_0408_-_5DSR4355.jpg"
+      }
+    },
+    {
+      "slug": "legiao-urbana",
+      "file": "livres/legiao-urbana.jpg",
+      "credit": {
+        "author": "Nelson R. de Lima Filho",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Legi%C3%A3o_XXX.jpg"
+      }
+    },
+    {
+      "slug": "oceans-ate-alaska",
+      "file": "livres/oceans-ate-alaska.jpg",
+      "credit": {
+        "author": "Jax 0677",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oceans_Ate_Alaska_0001.jpg"
+      }
+    },
+    {
+      "slug": "sleeping-with-sirens",
+      "file": "livres/sleeping-with-sirens.jpg",
+      "credit": {
+        "author": "Ethan Beazley",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sleeping_with_Sirens_band_photo.jpg"
+      }
+    },
+    {
+      "slug": "the-all-american-rejects",
+      "file": "livres/the-all-american-rejects.jpg",
+      "credit": {
+        "author": "Victoria Morse",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:All_American_Rejects_Hampton_Casino_Ballroom.jpg"
+      }
+    },
+    {
+      "slug": "thy-art-is-murder",
+      "file": "livres/thy-art-is-murder.jpg",
+      "credit": {
+        "author": "Andreas Lawen, Fotandi",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thy_Art_Is_Murder_-_Rock_am_Ring_2018-5704.jpg"
+      }
+    },
+    {
+      "slug": "bad-religion",
+      "file": "livres/bad-religion.jpg",
+      "credit": {
+        "author": "Stefan Brending (2eight)",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2018_RiP_-_Bad_Religion_-_by_2eight_-_8SC7146.jpg"
+      }
+    },
+    {
+      "slug": "simple-plan",
+      "file": "livres/simple-plan.jpg",
+      "credit": {
+        "author": "Chapman Baehler",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Simple_Plan_-Press-_Chapman_Baehler.jpg"
+      }
+    },
+    {
+      "slug": "stand-atlantic",
+      "file": "livres/stand-atlantic.jpg",
+      "credit": {
+        "author": "Bruce from Sydney, Australia",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stand_Atlantic.jpg"
+      }
+    },
+    {
+      "slug": "pierce-the-veil",
+      "file": "livres/pierce-the-veil.jpg",
+      "credit": {
+        "author": "Goroth",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pierce_the_Veil_@_Rock_am_Ring_2013.jpg"
+      }
+    },
+    {
+      "slug": "limp-bizkit",
+      "file": "livres/limp-bizkit.jpg",
+      "credit": {
+        "author": "Quintin Soloviev",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Limp_Bizkit_performing_at_KROQ_Weenie_Roast_2019.jpg"
+      }
+    },
+    {
+      "slug": "escape-the-fate",
+      "file": "livres/escape-the-fate.jpg",
+      "credit": {
+        "author": "Achim Raschka",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:13-06-09_RaR_Escape_the_Fate_Craig_Mabbitt_04.jpg"
+      }
+    },
+    {
+      "slug": "whitechapel",
+      "file": "livres/whitechapel.jpg",
+      "credit": {
+        "author": "Abbi london",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Whitechapel_(c)abbilondon.jpg"
+      }
+    },
+    {
+      "slug": "avril-lavigne",
+      "file": "livres/avril-lavigne.jpg",
+      "credit": {
+        "author": "Justin Higuchi from Los Angeles, CA, USA",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Avril_Lavigne_@_The_Greek_09_18_2019_(49311431362)_(cropped).jpg"
+      }
+    },
+    {
+      "slug": "electric-callboy",
+      "file": "livres/electric-callboy.jpg",
+      "credit": {
+        "author": "AAT",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Electric_Callboy_(2024).jpg"
+      }
+    },
+    {
+      "slug": "hawthorne-heights",
+      "file": "livres/hawthorne-heights.jpg",
+      "credit": {
+        "author": "Russoc4",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hawthorneheights.jpg"
+      }
+    },
+    {
+      "slug": "knocked-loose",
+      "file": "livres/knocked-loose.jpg",
+      "credit": {
+        "author": "Ruralexpat",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Knocked_Loose_2024.jpg"
+      }
+    },
+    {
+      "slug": "pitty",
+      "file": "livres/pitty.jpg",
+      "credit": {
+        "author": "tatu43",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pitty_e_banda_no_Coca_Cola_Vibezone_(2007),_01.jpg"
+      }
+    },
+    {
+      "slug": "rogerio-skylab",
+      "file": "livres/rogerio-skylab.jpg",
+      "credit": {
+        "author": "bownser",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rogerio_Skylab_-_Cad%C3%AA_Meu_Pau%3F_(Opini%C3%A3o_-_Porto_Alegre)_27%E2%A7%B805%E2%A7%B82023.webp"
+      }
+    },
+    {
+      "slug": "slaughter-to-prevail",
+      "file": "livres/slaughter-to-prevail.jpg",
+      "credit": {
+        "author": "Selbymay",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:HF2024SlaughterToPrevail_3.jpg"
+      }
+    },
+    {
+      "slug": "the-used",
+      "file": "livres/the-used.jpg",
+      "credit": {
+        "author": "Robin Wong",
+        "license": "CC BY 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:MuchMusic_Video_Awards_2007_608.jpg"
+      }
     }
   ],
   "releases": [

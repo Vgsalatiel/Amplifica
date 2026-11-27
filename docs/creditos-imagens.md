@@ -137,3 +137,38 @@ Ficam em `frontend/public/historia/` (vão junto com o site) e são declaradas e
 | 2009 | `restart.jpg` | Integrante do Restart em show | Dariane Cristine | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Restart 003.jpg](https://commons.wikimedia.org/wiki/File:Restart_003.jpg) |
 
 O capítulo "A cena hoje" não tem foto: não achei foto livre das bandas independentes atuais. Pesquisadas e sem resultado no Commons: Olho Seco, Inocentes (a banda), Cine, Hori e Replace.
+
+
+## Fotos livres do lote de 27/11/2026 (25 bandas)
+
+Baixadas do Wikimedia Commons em até 1280 px, guardadas em `frontend/img/bandasimgaens/livres/` e listadas no manifesto com o crédito de cada uma. Todas foram vistas uma a uma antes de entrar, e só entram CC0, domínio público, CC BY e CC BY-SA. Fracas por composição ou tamanho (é a banda certa, mas a foto é pequena, escura ou de uma pessoa só): BRAZA (foto promocional quadrada), Legião Urbana (turnê com os integrantes remanescentes, foto de celular), Whitechapel, Escape the Fate, Limp Bizkit, Hawthorne Heights e The Used (540 a 604 px), e as solo Avril Lavigne, Pitty e Rogério Skylab (close do rosto). As bandas Hawthorne Heights, The Used, Oceans Ate Alaska, Sleeping With Sirens, Stand Atlantic e Knocked Loose foram identificadas pela descrição do arquivo no Commons, sem logotipo visível.
+
+| Banda | Autor | Licença | Original |
+|---|---|---|---|
+| BRAZA | Ryan VBS | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [BRAZAbanda.jpg](https://commons.wikimedia.org/wiki/File:BRAZAbanda.jpg) |
+| Born of Osiris | Derrick Austinson Photog | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [Born_Of_Osiris.jpg](https://commons.wikimedia.org/wiki/File:Born_Of_Osiris.jpg) |
+| Cursive | Tammy Lo from Brooklyn, NY | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [210185213_3a1a0e309c.jpg](https://commons.wikimedia.org/wiki/File:210185213_3a1a0e309c.jpg) |
+| Falling in Reverse | Christianx14 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Falling_in_Reverse_Chicago_2015.jpg](https://commons.wikimedia.org/wiki/File:Falling_in_Reverse_Chicago_2015.jpg) |
+| Holding Absence | Sven Mandel | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Holding_Absence_-_2022175152144_2022-06-24_Download_Germany_-_Sven_-_5DS_R_-_0408_-_5DSR4355.jpg](https://commons.wikimedia.org/wiki/File:Holding_Absence_-_2022175152144_2022-06-24_Download_Germany_-_Sven_-_5DS_R_-_0408_-_5DSR4355.jpg) |
+| Legião Urbana | Nelson R. de Lima Filho | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Legião_XXX.jpg](https://commons.wikimedia.org/wiki/File:Legi%C3%A3o_XXX.jpg) |
+| Oceans Ate Alaska | Jax 0677 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Oceans_Ate_Alaska_0001.jpg](https://commons.wikimedia.org/wiki/File:Oceans_Ate_Alaska_0001.jpg) |
+| Sleeping With Sirens | Ethan Beazley | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Sleeping_with_Sirens_band_photo.jpg](https://commons.wikimedia.org/wiki/File:Sleeping_with_Sirens_band_photo.jpg) |
+| The All‐American Rejects | Victoria Morse | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) | [All_American_Rejects_Hampton_Casino_Ballroom.jpg](https://commons.wikimedia.org/wiki/File:All_American_Rejects_Hampton_Casino_Ballroom.jpg) |
+| Thy Art Is Murder | Andreas Lawen, Fotandi | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Thy_Art_Is_Murder_-_Rock_am_Ring_2018-5704.jpg](https://commons.wikimedia.org/wiki/File:Thy_Art_Is_Murder_-_Rock_am_Ring_2018-5704.jpg) |
+| Bad Religion | Stefan Brending (2eight) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [2018_RiP_-_Bad_Religion_-_by_2eight_-_8SC7146.jpg](https://commons.wikimedia.org/wiki/File:2018_RiP_-_Bad_Religion_-_by_2eight_-_8SC7146.jpg) |
+| Simple Plan | Chapman Baehler | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Simple_Plan_-Press-_Chapman_Baehler.jpg](https://commons.wikimedia.org/wiki/File:Simple_Plan_-Press-_Chapman_Baehler.jpg) |
+| Stand Atlantic | Bruce from Sydney, Australia | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Stand_Atlantic.jpg](https://commons.wikimedia.org/wiki/File:Stand_Atlantic.jpg) |
+| Pierce the Veil | Goroth | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Pierce_the_Veil_@_Rock_am_Ring_2013.jpg](https://commons.wikimedia.org/wiki/File:Pierce_the_Veil_@_Rock_am_Ring_2013.jpg) |
+| Limp Bizkit | Quintin Soloviev | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [Limp_Bizkit_performing_at_KROQ_Weenie_Roast_2019.jpg](https://commons.wikimedia.org/wiki/File:Limp_Bizkit_performing_at_KROQ_Weenie_Roast_2019.jpg) |
+| Escape the Fate | Achim Raschka | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [13-06-09_RaR_Escape_the_Fate_Craig_Mabbitt_04.jpg](https://commons.wikimedia.org/wiki/File:13-06-09_RaR_Escape_the_Fate_Craig_Mabbitt_04.jpg) |
+| Whitechapel | Abbi london | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Whitechapel_(c)abbilondon.jpg](https://commons.wikimedia.org/wiki/File:Whitechapel_(c)abbilondon.jpg) |
+| Avril Lavigne | Justin Higuchi from Los Angeles, CA, USA | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Avril_Lavigne_@_The_Greek_09_18_2019_(49311431362)_(cropped).jpg](https://commons.wikimedia.org/wiki/File:Avril_Lavigne_@_The_Greek_09_18_2019_(49311431362)_(cropped).jpg) |
+| Electric Callboy | AAT | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Electric_Callboy_(2024).jpg](https://commons.wikimedia.org/wiki/File:Electric_Callboy_(2024).jpg) |
+| Hawthorne Heights | Russoc4 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Hawthorneheights.jpg](https://commons.wikimedia.org/wiki/File:Hawthorneheights.jpg) |
+| Knocked Loose | Ruralexpat | [CC0](https://creativecommons.org/publicdomain/zero/1.0) | [Knocked_Loose_2024.jpg](https://commons.wikimedia.org/wiki/File:Knocked_Loose_2024.jpg) |
+| Pitty | tatu43 | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Pitty_e_banda_no_Coca_Cola_Vibezone_(2007),_01.jpg](https://commons.wikimedia.org/wiki/File:Pitty_e_banda_no_Coca_Cola_Vibezone_(2007),_01.jpg) |
+| Rogério Skylab | bownser | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) | [Rogerio_Skylab_-_Cadê_Meu_Pau?_(Opinião_-_Porto_Alegre)_27⧸05⧸2023.webp](https://commons.wikimedia.org/wiki/File:Rogerio_Skylab_-_Cad%C3%AA_Meu_Pau%3F_(Opini%C3%A3o_-_Porto_Alegre)_27%E2%A7%B805%E2%A7%B82023.webp) |
+| Slaughter to Prevail | Selbymay | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | [HF2024SlaughterToPrevail_3.jpg](https://commons.wikimedia.org/wiki/File:HF2024SlaughterToPrevail_3.jpg) |
+| The Used | Robin Wong | [CC BY 2.5](https://creativecommons.org/licenses/by/2.5) | [MuchMusic_Video_Awards_2007_608.jpg](https://commons.wikimedia.org/wiki/File:MuchMusic_Video_Awards_2007_608.jpg) |
+
+Sem foto livre adequada (32): Amandinho, De Carne e Flor, Embrace, Indian Summer, MC Taya, Ment, Plutão Já Foi Planeta, Rev3rent, Shadow of Intent, Aviana, Bury Tomorrow, Darko US, Dragdown, Gorepig, Hollow Front, John Wayne, Magnólia, Mineral, Point of No Return, Rites of Spring, The Nearly Deads, Blackjaw, Cabal, Darvin, Esteban Tavares, In No Sense, Lost Souls, Make Them Suffer, Netherwalker, Ponto Nulo No Céu, Synestia e Without a Face. Aviana e Bury Tomorrow têm fotos do Full Force, mas com o modelo de licença "Attribution", que não é CC BY.
