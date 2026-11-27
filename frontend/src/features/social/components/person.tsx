@@ -8,7 +8,7 @@ export function Avatar({ name, avatar, className = 'size-10' }: { name: string; 
   ) : (
     <span
       aria-hidden="true"
-      className={`${className} flex shrink-0 items-center justify-center rounded-full bg-surface-raised font-display text-lg`}
+      className={`${className} flex shrink-0 items-center justify-center rounded-full bg-white/10 font-display text-lg ring-1 ring-white/10`}
     >
       {name.trim().charAt(0).toUpperCase()}
     </span>
